@@ -3,6 +3,7 @@
  * Without JavaScript each thumbnail is a plain link to the full-size image.
  */
 import { t } from './i18n.js';
+import { lockScroll } from './scroll.js';
 
 export function initGallery(strings) {
   const dialog = document.querySelector('[data-lightbox]');
@@ -36,6 +37,7 @@ export function initGallery(strings) {
       opener = a;
       show(i);
       dialog.showModal();
+      lockScroll(true);
       dialog.querySelector('[data-lightbox-close]').focus();
     }));
   });
@@ -48,7 +50,7 @@ export function initGallery(strings) {
     if (e.key === 'ArrowRight') show(index + 1);
   });
   dialog.addEventListener('click', (e) => { if (e.target === dialog) dialog.close(); });
-  dialog.addEventListener('close', () => { img.removeAttribute('src'); opener?.focus(); });
+  dialog.addEventListener('close', () => { img.removeAttribute('src'); lockScroll(false); opener?.focus(); });
 
   // Touch swipe
   let x0 = null;

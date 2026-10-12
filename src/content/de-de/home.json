@@ -12,10 +12,22 @@
         {
           "type": "stats",
           "items": [
-            {"value": "1977", "label": "Werkzeugmaschinenbau seit"},
-            {"value": "1.100+", "label": "Maschinen weltweit ausgeliefert"},
-            {"value": "3", "label": "ISO-zertifizierte Managementsysteme"},
-            {"value": "360°", "label": "Konstruktion, Bau, Montage und Service aus einer Hand"}
+            {
+              "value": "1977",
+              "label": "Werkzeugmaschinenbau seit"
+            },
+            {
+              "value": "1.100+",
+              "label": "Maschinen weltweit ausgeliefert"
+            },
+            {
+              "value": "3",
+              "label": "ISO-zertifizierte Managementsysteme"
+            },
+            {
+              "value": "360°",
+              "label": "Konstruktion, Bau, Montage und Service aus einer Hand"
+            }
           ]
         },
         {
@@ -42,10 +54,34 @@
           "intro": "Vier Produktfamilien decken die Reprofilierung im Betrieb, die Fertigung in der Radsatzwerkstatt, die Ausrüstung von Betriebswerken und spezielle Partnertechnologie ab.",
           "cols": 4,
           "items": [
-            {"page": "products", "anchor": "wheel-lathes", "title": "Radsatzdrehmaschinen", "text": "CNC-Drehmaschinen in Unterflur-, Tandem-, Überflur- und Portalbauweise für die schnelle und präzise Reprofilierung von Radsätzen.", "image": "products/underfloor-wheel-lathe-yul-08"},
-            {"page": "products", "anchor": "wheel-axle-shop-machines", "title": "Maschinen für die Radsatzwerkstatt", "text": "Vertikaldrehen, Drehen und Glattwalzen von Radsatzwellen, Radsatzpressen, Messen und Wuchten.", "image": "products/vertical-turning-boring-machine"},
-            {"page": "products", "anchor": "depot-workshop-equipment", "title": "Betriebswerk- & Werkstattausrüstung", "text": "Maschinen für die Ankerbearbeitung, automatische Zugwaschanlagen und Zweiwege-Rangierfahrzeuge.", "image": "products/automated-train-washing-plant"},
-            {"page": "products", "anchor": "partner-products", "title": "Partnerprodukte", "text": "Exklusivvertrieb der Gleittechnik von SKC Gleittechnik aus Deutschland.", "image": "products/skc-partner-products"}
+            {
+              "page": "products",
+              "anchor": "wheel-lathes",
+              "title": "Radsatzdrehmaschinen",
+              "text": "CNC-Drehmaschinen in Unterflur-, Tandem-, Überflur- und Portalbauweise für die schnelle und präzise Reprofilierung von Radsätzen.",
+              "image": "products/underfloor-wheel-lathe-yul-08"
+            },
+            {
+              "page": "products",
+              "anchor": "wheel-axle-shop-machines",
+              "title": "Maschinen für die Radsatzwerkstatt",
+              "text": "Vertikaldrehen, Drehen und Glattwalzen von Radsatzwellen, Radsatzpressen, Messen und Wuchten.",
+              "image": "products/vertical-turning-boring-machine"
+            },
+            {
+              "page": "products",
+              "anchor": "depot-workshop-equipment",
+              "title": "Betriebswerk- & Werkstattausrüstung",
+              "text": "Maschinen für die Ankerbearbeitung, automatische Zugwaschanlagen und Zweiwege-Rangierfahrzeuge.",
+              "image": "products/automated-train-washing-plant"
+            },
+            {
+              "page": "products",
+              "anchor": "partner-products",
+              "title": "Partnerprodukte",
+              "text": "Exklusivvertrieb der Gleittechnik von SKC Gleittechnik aus Deutschland.",
+              "image": "products/skc-partner-products"
+            }
           ]
         },
         {
@@ -65,7 +101,10 @@
           "image": "products/tandem-underfloor-wheel-lathe-yul-12t",
           "image_alt": "Beispielillustration zweier synchronisierter Unterflur-Radsatzdrehmaschinen in einer Grube unter dem Drehgestell eines Schienenfahrzeugs",
           "layout": "image-left",
-          "link": {"label": "Unterflur-Radsatzdrehmaschinen entdecken", "page": "underfloor-wheel-lathe"}
+          "link": {
+            "label": "Unterflur-Radsatzdrehmaschinen entdecken",
+            "page": "underfloor-wheel-lathe"
+          }
         },
         {
           "type": "text",
@@ -79,7 +118,11 @@
           "image": "products/vertical-turning-boring-machine",
           "image_alt": "Beispielillustration einer CNC-Vertikaldreh- und Bohrmaschine bei der Bearbeitung eines Eisenbahnrads",
           "layout": "image-right",
-          "link": {"label": "Maschinen für die Radsatzwerkstatt ansehen", "page": "products", "anchor": "wheel-axle-shop-machines"}
+          "link": {
+            "label": "Maschinen für die Radsatzwerkstatt ansehen",
+            "page": "products",
+            "anchor": "wheel-axle-shop-machines"
+          }
         },
         {
           "type": "steps",
@@ -87,13 +130,31 @@
           "heading": "Ein Partner – von der leeren Halle bis zur laufenden Werkstatt",
           "intro": "Benötigt ein Eisenbahn- oder Metrobetreiber eine komplette Anlage, übernimmt HYT die Verantwortung für die gesamte Kette – mit einem Plan, einem Terminplan und einem verantwortlichen Ansprechpartner.",
           "items": [
-            {"title": "Studie & Layout", "text": "Flottenanalyse, Prozessablauf und Maschinenauswahl für den benötigten Durchsatz."},
-            {"title": "Schnittstelle Bau", "text": "Zeichnungen für Grube, Fundament und Schienenverankerung, abgestimmt mit Ihrem Bauunternehmen."},
-            {"title": "Lieferung & Montage", "text": "Maschinen, Fördertechnik und Steuerungen – geliefert, montiert und integriert."},
-            {"title": "Inbetriebnahme & Schulung", "text": "Nachweis an Ihren eigenen Radsätzen, Schulung von Bedien- und Instandhaltungspersonal vor Ort."},
-            {"title": "Lebenslanger Support", "text": "Wartungsverträge, Ersatzteile und Modernisierungen für die folgenden Jahrzehnte."}
+            {
+              "title": "Studie & Layout",
+              "text": "Flottenanalyse, Prozessablauf und Maschinenauswahl für den benötigten Durchsatz."
+            },
+            {
+              "title": "Schnittstelle Bau",
+              "text": "Zeichnungen für Grube, Fundament und Schienenverankerung, abgestimmt mit Ihrem Bauunternehmen."
+            },
+            {
+              "title": "Lieferung & Montage",
+              "text": "Maschinen, Fördertechnik und Steuerungen – geliefert, montiert und integriert."
+            },
+            {
+              "title": "Inbetriebnahme & Schulung",
+              "text": "Nachweis an Ihren eigenen Radsätzen, Schulung von Bedien- und Instandhaltungspersonal vor Ort."
+            },
+            {
+              "title": "Lebenslanger Support",
+              "text": "Wartungsverträge, Ersatzteile und Modernisierungen für die folgenden Jahrzehnte."
+            }
           ],
-          "link": {"label": "Schlüsselfertige Projekte entdecken", "page": "turnkey-project"}
+          "link": {
+            "label": "Schlüsselfertige Projekte entdecken",
+            "page": "turnkey-project"
+          }
         },
         {
           "type": "cards",
@@ -101,11 +162,26 @@
           "heading": "Gebaut für alle, die Schienenfahrzeuge sicher halten",
           "cols": 5,
           "items": [
-            {"page": "ind-railways", "image": "industries/railways"},
-            {"page": "ind-metros", "image": "industries/metros"},
-            {"page": "ind-rolling-stock", "image": "industries/rolling-stock-manufacturers"},
-            {"page": "ind-defence", "image": "industries/defence"},
-            {"page": "ind-heavy-engineering", "image": "industries/heavy-engineering"}
+            {
+              "page": "ind-railways",
+              "image": "industries/railways"
+            },
+            {
+              "page": "ind-metros",
+              "image": "industries/metros"
+            },
+            {
+              "page": "ind-rolling-stock",
+              "image": "industries/rolling-stock-manufacturers"
+            },
+            {
+              "page": "ind-defence",
+              "image": "industries/defence"
+            },
+            {
+              "page": "ind-heavy-engineering",
+              "image": "industries/heavy-engineering"
+            }
           ]
         },
         {
@@ -115,14 +191,41 @@
           "intro": "Eine Radsatzdrehmaschine ist ein kritisches Betriebsmittel: Steht sie still, warten die Züge. Unsere Serviceorganisation ist darauf ausgelegt, Ihre Maschinen über ihre gesamte Lebensdauer produktiv zu halten.",
           "cols": 3,
           "items": [
-            {"icon": "tools", "title": "Montage & Inbetriebnahme", "text": "Fundamentprüfung, Ausrichtung, Abnahmeversuche und dokumentierte Übergabe."},
-            {"icon": "clipboard-check", "title": "AMC- & CMC-Verträge", "text": "Geplante vorbeugende Instandhaltung mit klar definiertem Leistungsumfang und festen Reaktionszeiten."},
-            {"icon": "box-seam", "title": "Original-Ersatzteile", "text": "Kritische Ersatzteile, Werkzeuge und Verbrauchsmaterial – ermittelt, bevorratet und geliefert."},
-            {"icon": "arrow-repeat", "title": "Retrofit & Modernisierung", "text": "Neue CNC-Steuerungen, Antriebe und Messtechnik für ältere Maschinen."},
-            {"icon": "mortarboard", "title": "Schulung", "text": "Praxisnahe Schulungen für Maschinenbediener, Programmierer und Instandhaltungsteams."},
-            {"icon": "truck", "title": "Machine as a Service", "text": "Betreibermodell: Wir stellen Maschine und Personal, Sie zahlen für die erbrachte Leistung."}
+            {
+              "icon": "tools",
+              "title": "Montage & Inbetriebnahme",
+              "text": "Fundamentprüfung, Ausrichtung, Abnahmeversuche und dokumentierte Übergabe."
+            },
+            {
+              "icon": "clipboard-check",
+              "title": "AMC- & CMC-Verträge",
+              "text": "Geplante vorbeugende Instandhaltung mit klar definiertem Leistungsumfang und festen Reaktionszeiten."
+            },
+            {
+              "icon": "box-seam",
+              "title": "Original-Ersatzteile",
+              "text": "Kritische Ersatzteile, Werkzeuge und Verbrauchsmaterial – ermittelt, bevorratet und geliefert."
+            },
+            {
+              "icon": "arrow-repeat",
+              "title": "Retrofit & Modernisierung",
+              "text": "Neue CNC-Steuerungen, Antriebe und Messtechnik für ältere Maschinen."
+            },
+            {
+              "icon": "mortarboard",
+              "title": "Schulung",
+              "text": "Praxisnahe Schulungen für Maschinenbediener, Programmierer und Instandhaltungsteams."
+            },
+            {
+              "icon": "truck",
+              "title": "Machine as a Service",
+              "text": "Betreibermodell: Wir stellen Maschine und Personal, Sie zahlen für die erbrachte Leistung."
+            }
           ],
-          "link": {"label": "Alle Serviceleistungen", "page": "services"}
+          "link": {
+            "label": "Alle Serviceleistungen",
+            "page": "services"
+          }
         },
         {
           "type": "cards",
@@ -131,10 +234,31 @@
           "intro": "Ein Ausschnitt aus unseren Projekten für Staatsbahnen und Metrobetreiber. Alle Projektdetails finden Sie unter Schlüsselfertige Projekte.",
           "cols": 3,
           "items": [
-            {"page": "executed-projects", "anchor": "sanpada-emu-car-shed", "title": "CNC-Vertikaldrehmaschine – Triebzug-Betriebswerk Sanpada, Mumbai", "text": "Kapazität für die Radbearbeitung in einem der verkehrsreichsten Vorortnetze der Welt.", "image": "projects/emu-car-shed"},
-            {"page": "executed-projects", "anchor": "state-railway-of-thailand", "title": "CNC-Vertikal-Revolverdrehmaschine – State Railway of Thailand", "text": "Geliefert und installiert für die Radbearbeitung in Bangkok.", "image": "projects/railway-wheel-shop"},
-            {"page": "under-execution", "anchor": "ncrtc-underfloor-wheel-lathes", "title": "Vollautomatische CNC-Unterflur-Radsatzdrehmaschinen – NCRTC", "text": "Für Indiens erstes regionales Schnellbahnsystem.", "image": "projects/metro-depot"}
+            {
+              "page": "executed-projects",
+              "anchor": "sanpada-emu-car-shed",
+              "title": "CNC-Vertikaldrehmaschine – Triebzug-Betriebswerk Sanpada, Mumbai",
+              "text": "Kapazität für die Radbearbeitung in einem der verkehrsreichsten Vorortnetze der Welt.",
+              "image": "projects/emu-car-shed"
+            },
+            {
+              "page": "executed-projects",
+              "anchor": "state-railway-of-thailand",
+              "title": "CNC-Vertikal-Revolverdrehmaschine – State Railway of Thailand",
+              "text": "Geliefert und installiert für die Radbearbeitung in Bangkok.",
+              "image": "projects/railway-wheel-shop"
+            },
+            {
+              "page": "under-execution",
+              "anchor": "ncrtc-underfloor-wheel-lathes",
+              "title": "Vollautomatische CNC-Unterflur-Radsatzdrehmaschinen – NCRTC",
+              "text": "Für Indiens erstes regionales Schnellbahnsystem.",
+              "image": "projects/metro-depot"
+            }
           ]
+        },
+        {
+          "type": "logo_carousel"
         },
         {
           "type": "features",
@@ -143,10 +267,26 @@
           "intro": "Jede HYT-Maschine ist auf die Realität einer Bahnwerkstatt ausgelegt: schwere, verschlissene Räder, knappe Durchlaufzeiten und Bedienpersonal, das klare und sichere Bedienelemente braucht.",
           "cols": 4,
           "items": [
-            {"icon": "rulers", "title": "Automatische Profilmessung", "text": "Raddurchmesser, Spurkranzhöhe und Spurkranzdicke werden vor dem Schnitt gemessen, damit nur das nötige Material abgetragen wird."},
-            {"icon": "cpu", "title": "Bewährte CNC-Plattformen", "text": "Industrielle CNC-Steuerungen mit bahnspezifischen Zyklen und Profilbibliotheken am Bildschirm."},
-            {"icon": "bricks", "title": "Steife Maschinenstrukturen", "text": "Schwere, spannungsarm geglühte Schweißkonstruktionen für einen stabilen Schnitt auf harten, verschlissenen Laufflächen."},
-            {"icon": "shield-check", "title": "Konstruktiv integrierte Sicherheit", "text": "Verriegelte Schutzeinrichtungen, klar abgegrenzte Bedienbereiche und Arbeitsweisen nach ISO 45001."}
+            {
+              "icon": "rulers",
+              "title": "Automatische Profilmessung",
+              "text": "Raddurchmesser, Spurkranzhöhe und Spurkranzdicke werden vor dem Schnitt gemessen, damit nur das nötige Material abgetragen wird."
+            },
+            {
+              "icon": "cpu",
+              "title": "Bewährte CNC-Plattformen",
+              "text": "Industrielle CNC-Steuerungen mit bahnspezifischen Zyklen und Profilbibliotheken am Bildschirm."
+            },
+            {
+              "icon": "bricks",
+              "title": "Steife Maschinenstrukturen",
+              "text": "Schwere, spannungsarm geglühte Schweißkonstruktionen für einen stabilen Schnitt auf harten, verschlissenen Laufflächen."
+            },
+            {
+              "icon": "shield-check",
+              "title": "Konstruktiv integrierte Sicherheit",
+              "text": "Verriegelte Schutzeinrichtungen, klar abgegrenzte Bedienbereiche und Arbeitsweisen nach ISO 45001."
+            }
           ]
         },
         {
@@ -154,27 +294,72 @@
           "eyebrow": "News & Messen",
           "heading": "Neues von HYT",
           "limit": 3,
-          "link": {"label": "Alle News", "page": "news"},
+          "link": {
+            "label": "Alle News",
+            "page": "news"
+          },
           "items": [
-            {"title": "Vollautomatische CNC-Unterflur-Radsatzdrehmaschinen für NCRTC", "date": "Auftrag", "category": "Aufträge", "text": "Die National Capital Region Transport Corporation hat HYT einen Letter of Acceptance für vollautomatische CNC-Unterflur-Radsatzdrehmaschinen erteilt.", "page": "news"},
-            {"title": "Neue CNC-Tandem-Unterflur-Radsatzdrehmaschine für die Delhi Metro", "date": "Auftrag", "category": "Aufträge", "text": "Die Delhi Metro Rail Corporation hat HYT mit der Lieferung einer neuen CNC-Tandem-Unterflur-Radsatzdrehmaschine beauftragt.", "page": "news"},
-            {"title": "Im Austausch mit der internationalen Bahnbranche", "date": "Messen", "category": "Messen", "text": "HYT war bereits auf der Asia Pacific Rail, Middle East Rail, Africa Rail und AusRAIL als Aussteller vertreten.", "page": "international-exhibitions"}
+            {
+              "title": "Vollautomatische CNC-Unterflur-Radsatzdrehmaschinen für NCRTC",
+              "date": "Auftrag",
+              "category": "Aufträge",
+              "text": "Die National Capital Region Transport Corporation hat HYT einen Letter of Acceptance für vollautomatische CNC-Unterflur-Radsatzdrehmaschinen erteilt.",
+              "page": "news"
+            },
+            {
+              "title": "Neue CNC-Tandem-Unterflur-Radsatzdrehmaschine für die Delhi Metro",
+              "date": "Auftrag",
+              "category": "Aufträge",
+              "text": "Die Delhi Metro Rail Corporation hat HYT mit der Lieferung einer neuen CNC-Tandem-Unterflur-Radsatzdrehmaschine beauftragt.",
+              "page": "news"
+            },
+            {
+              "title": "Im Austausch mit der internationalen Bahnbranche",
+              "date": "Messen",
+              "category": "Messen",
+              "text": "HYT war bereits auf der Asia Pacific Rail, Middle East Rail, Africa Rail und AusRAIL als Aussteller vertreten.",
+              "page": "international-exhibitions"
+            }
           ]
         },
         {
           "type": "split_cta",
           "items": [
-            {"icon": "file-earmark-pdf", "heading": "Produktkatalog", "text": "Maschinenübersichten, Optionen und die Daten, die wir für ein Angebot benötigen – in einem PDF.", "label": "Zu den Downloads", "page": "downloads"},
-            {"icon": "lightbulb", "heading": "Wissenszentrum", "text": "Praxisleitfäden zu Radprofilen, Reprofilierungsstrategie und Werkstattplanung.", "label": "Zu den Leitfäden", "page": "knowledge-centre"},
-            {"icon": "headset", "heading": "Kundendienst", "text": "Finden Sie den richtigen Serviceansprechpartner und halten Sie Ihre Maschinen in Bestform.", "label": "Servicenetz", "page": "service-centers"}
+            {
+              "icon": "file-earmark-pdf",
+              "heading": "Produktkatalog",
+              "text": "Maschinenübersichten, Optionen und die Daten, die wir für ein Angebot benötigen – in einem PDF.",
+              "label": "Zu den Downloads",
+              "page": "downloads"
+            },
+            {
+              "icon": "lightbulb",
+              "heading": "Wissenszentrum",
+              "text": "Praxisleitfäden zu Radprofilen, Reprofilierungsstrategie und Werkstattplanung.",
+              "label": "Zu den Leitfäden",
+              "page": "knowledge-centre"
+            },
+            {
+              "icon": "headset",
+              "heading": "Kundendienst",
+              "text": "Finden Sie den richtigen Serviceansprechpartner und halten Sie Ihre Maschinen in Bestform.",
+              "label": "Servicenetz",
+              "page": "service-centers"
+            }
           ]
         },
         {
           "type": "cta",
           "heading": "Planen wir gemeinsam Ihre nächste Radsatzdrehmaschine oder Werkstatt",
           "text": "Erzählen Sie uns von Ihrer Flotte, Ihrer Werkstatt und Ihren Zielen. Ein HYT-Anwendungsingenieur meldet sich mit einer fundierten Empfehlung bei Ihnen – nicht mit einem Verkaufsgespräch von der Stange.",
-          "primary": {"label": "Ihre Anforderungen besprechen", "page": "contact-us"},
-          "secondary": {"label": "Unsere Produkte entdecken", "page": "products"}
+          "primary": {
+            "label": "Ihre Anforderungen besprechen",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Unsere Produkte entdecken",
+            "page": "products"
+          }
         }
       ]
     }

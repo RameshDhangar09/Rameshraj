@@ -258,6 +258,9 @@
           ]
         },
         {
+          "type": "logo_carousel"
+        },
+        {
           "type": "features",
           "eyebrow": "Technologie & ingénierie",
           "heading": "Une ingénierie mesurable",

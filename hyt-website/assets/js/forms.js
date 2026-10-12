@@ -69,7 +69,21 @@ export function initForms(strings) {
       }
 
       const endpoint = form.getAttribute('action');
+      const isCatalogue = form.dataset.form === 'catalogue';
+      const file = form.querySelector('[data-catalogue-file]')?.value || '';
+      const thankYou = (sent) => {
+        const q = new URLSearchParams({ form: form.dataset.form });
+        if (isCatalogue && file) q.set('file', file);
+        if (!sent) q.set('sent', '0');
+        return `${form.dataset.thankYou}?${q}`;
+      };
       if (!endpoint || endpoint === '#' || endpoint === location.pathname) {
+        if (isCatalogue) {
+          // Preview without a form service: be honest, but still provide the download
+          setStatus(status, 'info', form.dataset.notConfiguredMsg || t(strings, 'form.status.not_configured'));
+          setTimeout(() => window.location.assign(thankYou(false)), 2200);
+          return;
+        }
         setStatus(status, 'info', t(strings, 'form.status.not_configured'));
         return;
       }
@@ -88,8 +102,7 @@ export function initForms(strings) {
         sessionStorageSet(`hyt-form-${form.dataset.form}`, String(Date.now()));
         setStatus(status, 'success', t(strings, 'form.status.success'));
         form.reset();
-        const next = form.dataset.thankYou;
-        if (next) window.location.assign(`${next}?form=${encodeURIComponent(form.dataset.form)}`);
+        if (form.dataset.thankYou) window.location.assign(thankYou(true));
       } catch (err) {
         setStatus(status, 'error', t(strings, err.rate ? 'form.status.rate_limited' : 'form.status.error'));
       } finally {

@@ -73,7 +73,11 @@
     "on_this_page": "On this page",
     "sample_note": "Images on this page are sample illustrations and will be replaced with photographs of HYT machines.",
     "enquiry_button": "Send an enquiry",
-    "specs_heading": "Technical specifications"
+    "specs_heading": "Technical specifications",
+    "video_heading": "See the machine in action",
+    "video_text": "A short film of the machine at work. Video footage of HYT installations will replace this sample clip.",
+    "play_video": "Play video",
+    "video_sample": "Sample video for design and testing"
   },
   "categories": {
     "all": "All products",
@@ -280,5 +284,23 @@
   },
   "meta": {
     "og_site": "HYT Engineering"
+  },
+  "catalogue_form": {
+    "title": "Download the catalogue",
+    "intro": "Tell us a little about you and your download starts immediately. We may follow up once with relevant information – never spam.",
+    "submit": "Download catalogue",
+    "download_heading": "Your catalogue download",
+    "download_started": "Your download should start automatically.",
+    "download_link": "Click here if it does not start",
+    "preview_note": "Preview site: the form service is not connected yet, so your details were not sent – only the download was provided.",
+    "not_configured_dl": "Online submission is not active yet on this preview site – your details were not sent. Your download will start now.",
+    "close": "Close"
+  },
+  "clients": {
+    "eyebrow": "Our customers",
+    "heading": "Trusted by railway and metro operators",
+    "link": "View our clientele",
+    "pause": "Pause logo animation",
+    "play": "Play logo animation"
   }
 }

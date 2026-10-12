@@ -25,6 +25,7 @@ import registry as R  # noqa: E402
 from en_us import americanize  # noqa: E402
 
 CONFIG = json.loads((SRC / "config.json").read_text())
+VIDEOS = json.loads((SRC / "videos.json").read_text())
 PRODUCTION = "--production" in sys.argv
 SHOW_REVIEW = CONFIG.get("show_review_notices", True) and not PRODUCTION
 BASE = CONFIG["base_url"].rstrip("/")
@@ -496,7 +497,7 @@ def b_downloads(ctx, b):
             f'<li class="download reveal">{icon("file-earmark-pdf", "download__icon")}<div class="download__body">'
             f'<h3 class="download__title">{esc(it["title"])}</h3><p>{inline(ctx, it.get("text", ""))}</p>'
             f'<p class="download__meta">{esc(it.get("meta", ""))}</p></div>'
-            f'<a class="btn-hyt btn-hyt--outline" href="{esc(f)}" download>{icon("download")} {esc(ctx.t("downloads.download"))}<span class="visually-hidden"> {esc(it["title"])}</span></a></li>')
+            f'<a class="btn-hyt btn-hyt--outline" href="{esc(f)}" data-catalogue-open="downloads">{icon("download")} {esc(ctx.t("downloads.download"))}<span class="visually-hidden"> {esc(it["title"])}</span></a></li>')
     return section(heading_block(ctx, b) + f'<ul class="downloads">{"".join(rows)}</ul>', b)
 
 
@@ -664,12 +665,86 @@ def b_form(ctx, b):
     return f'<section class="section section--form" id="{esc(sid)}"><div class="container"><div class="row g-4 g-lg-5"><div class="col-lg-4">{head}</div><div class="col-lg-8">{form}</div></div></div></section>'
 
 
+def b_logo_carousel(ctx, b):
+    cl = ctx.c.get("clients", {})
+    one = "".join(
+        f'<li class="marquee__item"><img src="/assets/images/clients/{slug}.svg" alt="{esc(name)}" width="320" height="96" loading="lazy"></li>'
+        for slug, name in R.CLIENTS)
+    dup = "".join(
+        f'<li class="marquee__item" aria-hidden="true"><img src="/assets/images/clients/{slug}.svg" alt="" width="320" height="96" loading="lazy"></li>'
+        for slug, _ in R.CLIENTS)
+    head = heading_block(ctx, {"eyebrow": cl.get("eyebrow"), "heading": cl.get("heading")}, center=True)
+    inner = (f'{head}<div class="marquee reveal" data-marquee style="--marquee-count:{len(R.CLIENTS)}">'
+             f'<ul class="marquee__track" aria-label="{esc(cl.get("heading", ""))}">{one}{dup}{dup}{dup}</ul>'
+             f'<button type="button" class="marquee__toggle" data-marquee-toggle aria-pressed="false" '
+             f'data-label-pause="{esc(cl.get("pause", "Pause"))}" data-label-play="{esc(cl.get("play", "Play"))}">'
+             f'{icon("pause-fill")}<span class="visually-hidden">{esc(cl.get("pause", "Pause"))}</span></button></div>'
+             f'<p class="block-link text-center reveal"><a class="link-arrow" href="{esc(ctx.url("clientele"))}">{esc(cl.get("link", ""))} {icon("arrow-right")}</a></p>')
+    return section(inner, b, "section--clients")
+
+
+def video_section(ctx, pid):
+    v = VIDEOS.get(pid) or VIDEOS.get("default")
+    if not v:
+        return ""
+    p = R.PAGES[pid]
+    poster = f'/assets/images/{v.get("poster") or p["image"]}.jpg'
+    title = plain(ctx.pages[pid].get("nav", ""))
+    if v["type"] == "youtube":
+        player = (f'<button type="button" class="video-facade" data-youtube="{esc(v["id"])}" aria-label="{esc(ctx.t("product.play_video"))}: {esc(title)}">'
+                  f'<img src="{poster}" alt="" width="1600" height="1000" loading="lazy"><span class="video-facade__play">{icon("play-fill")}</span></button>')
+    else:
+        if not (OUT / v["src"].lstrip("/")).exists():
+            warn(f"video file missing: {v['src']}")
+        player = (f'<video class="video-player" controls preload="none" playsinline poster="{poster}" title="{esc(title)}">'
+                  f'<source src="{esc(v["src"])}" type="{esc(v.get("mime", "video/mp4"))}"></video>')
+    note = f'<p class="video-note">{icon("info-circle")} {esc(ctx.t("product.video_sample"))}</p>' if v.get("sample") else ""
+    return (f'<section class="section section--video" id="video"><div class="container"><div class="row g-4 g-lg-5 align-items-center">'
+            f'<div class="col-lg-4 reveal"><p class="eyebrow">{esc(ctx.t("product.video_heading"))}</p>'
+            f'<h2 class="section-title">{fmt(esc(title))}</h2><p class="section-intro">{esc(ctx.t("product.video_text"))}</p></div>'
+            f'<div class="col-lg-8"><div class="video-frame reveal" data-video>{player}</div>{note}</div></div></div></section>')
+
+
+def catalogue_dialog(ctx):
+    f = ctx.c["form"]
+    cf = ctx.c.get("catalogue_form", {})
+    ctx.form_id = "catalogue-form"
+    fields = [
+        field(ctx, "text", "name", f["name"], attrs='autocomplete="name" maxlength="120"'),
+        field(ctx, "text", "company", f["company"], attrs='autocomplete="organization" maxlength="160"'),
+        field(ctx, "email", "email", f["email"], attrs='autocomplete="email" maxlength="160"'),
+        field(ctx, "tel", "phone", f["phone"], attrs='autocomplete="tel" maxlength="30" data-validate="phone"'),
+        field(ctx, "select", "country", f["country"], col="col-12", options=options_list(ctx.c["countries"], f["country_placeholder"]), attrs='autocomplete="country-name"'),
+    ]
+    action = CONFIG.get("form_endpoint") or ""
+    return (f'<dialog class="modal-hyt" data-catalogue-dialog data-lenis-prevent aria-labelledby="catalogue-title">'
+            f'<div class="modal-hyt__panel"><button type="button" class="modal-hyt__close" data-catalogue-close aria-label="{esc(cf.get("close", "Close"))}">{icon("x-lg")}</button>'
+            f'<div class="modal-hyt__head"><span class="modal-hyt__icon">{icon("file-earmark-pdf")}</span>'
+            f'<div><h2 class="modal-hyt__title" id="catalogue-title">{esc(cf.get("title", ""))}</h2><p class="modal-hyt__intro">{esc(cf.get("intro", ""))}</p></div></div>'
+            f'<form class="form-hyt form-hyt--modal" id="catalogue-form" method="post" action="{esc(action)}" novalidate data-form="catalogue" '
+            f'data-thank-you="{esc(ctx.url("thank-you"))}" data-provider="{esc(CONFIG.get("form_provider", "generic"))}" '
+            f'data-not-configured-msg="{esc(cf.get("not_configured_dl", ""))}">'
+            f'<div class="form-summary" role="alert" tabindex="-1" hidden data-form-summary></div>'
+            f'<div class="row g-3">{"".join(fields)}'
+            f'<div class="col-12"><div class="form-check"><input class="form-check-input" type="checkbox" id="catalogue-form-privacy" name="privacy_consent" value="yes" required aria-describedby="catalogue-form-privacy-err">'
+            f'<label class="form-check-label" for="catalogue-form-privacy">{inline(ctx, f["privacy"])} <span class="req" aria-hidden="true">*</span></label>'
+            f'<p class="form-error" id="catalogue-form-privacy-err" data-error-for="catalogue-form-privacy"></p></div></div></div>'
+            f'<div class="hp-field" aria-hidden="true"><label for="catalogue-form-hp">{esc(f["honeypot"])}</label><input type="text" id="catalogue-form-hp" name="_gotcha" tabindex="-1" autocomplete="off"></div>'
+            f'<input type="hidden" name="form_type" value="catalogue"><input type="hidden" name="language" value="{ctx.lang["code"]}">'
+            f'<input type="hidden" name="page" value="{esc(ctx.url(ctx.page["id"], absolute=True))}"><input type="hidden" name="interest" value="" data-catalogue-product>'
+            f'<input type="hidden" name="catalogue" value="{esc(CONFIG["catalogue_pdf"])}" data-catalogue-file>'
+            f'<input type="hidden" name="_next" value="{esc(ctx.url("thank-you", absolute=True))}?form=catalogue"><input type="hidden" name="started_at" value="" data-started-at>'
+            f'<div class="form-actions"><button type="submit" class="btn-hyt btn-hyt--primary" data-submit>{icon("download")}'
+            f'<span class="btn-label">{esc(cf.get("submit", ""))}</span><span class="spinner" aria-hidden="true"></span></button></div>'
+            f'<div class="form-status" role="status" aria-live="polite" data-form-status></div></form></div></dialog>')
+
+
 BLOCKS = {
     "text": b_text, "features": b_features, "specs": b_specs, "table": b_table, "steps": b_steps, "list": b_list,
     "cards": b_cards, "related": b_related, "faq": b_faq, "stats": b_stats, "cta": b_cta, "gallery": b_gallery,
     "timeline": b_timeline, "projects": b_projects, "news": b_news, "logos": b_logos, "notice": b_notice,
     "prose": b_prose, "downloads": b_downloads, "form": b_form, "contact": b_contact, "split_cta": b_split_cta,
-    "product_catalog": b_product_catalog, "sitemap": b_sitemap,
+    "product_catalog": b_product_catalog, "sitemap": b_sitemap, "logo_carousel": b_logo_carousel,
 }
 
 
@@ -726,11 +801,14 @@ def header(ctx, pid):
         is_active = cur_top == (top_id or item.get("label"))
         cols = []
         for col in item["columns"]:
-            h = ""
+            h, thumb = "", ""
             if col.get("heading"):
                 htxt = esc(ctx.t("menu." + col["heading"]))
                 if col.get("anchor"):
                     h = f'<p class="mega__heading"><a href="{esc(ctx.url("products", col["anchor"]))}">{htxt}</a></p>'
+                    first = next(p for p in R.P if p.get("category") == col["anchor"])
+                    thumb = (f'<a class="mega__thumb" href="{esc(ctx.url("products", col["anchor"]))}" tabindex="-1" aria-hidden="true">'
+                             f'<img src="/assets/images/{first["image"]}-800.jpg" alt="" width="800" height="500" loading="lazy" decoding="async"></a>')
                 else:
                     h = f'<p class="mega__heading">{htxt}</p>'
             links = []
@@ -738,13 +816,31 @@ def header(ctx, pid):
                 xid, lvl = (x if isinstance(x, tuple) else (x, 0))
                 lab = ctx.t("menu.about_hyt") if xid == "about" else ctx.nav(xid)
                 cur = ' aria-current="page"' if xid == pid else ""
-                links.append(f'<li class="mega__item mega__item--l{lvl}"><a href="{esc(ctx.url(xid))}"{cur}>{fmt(esc(lab))}</a></li>')
-            cols.append(f'<div class="mega__col">{h}<ul class="mega__list">{"".join(links)}</ul></div>')
-        overview = ""
-        if top_id and top_id != "about":
-            overview = f'<div class="mega__overview"><a class="link-arrow" href="{esc(ctx.url(top_id))}">{esc(ctx.t("menu.overview"))}: {esc(label)} {icon("arrow-right")}</a></div>'
-        panel = (f'<div class="mega{" mega--wide" if item.get("wide") else ""}{" mega--cols-" + str(len(cols))}" id="{sub_id}">'
-                 f'<div class="mega__inner">{"".join(cols)}</div>{overview}</div>')
+                links.append(f'<li class="mega__item mega__item--l{lvl}"><a href="{esc(ctx.url(xid))}"{cur}>'
+                             f'<span>{fmt(esc(lab))}</span>{icon("chevron-right", "mega__chev")}</a></li>')
+            cols.append(f'<div class="mega__col">{thumb}{h}<ul class="mega__list">{"".join(links)}</ul></div>')
+        intro = ""
+        if top_id and not item.get("wide"):
+            intro = (f'<div class="mega__intro"><p class="mega__intro-title">{esc(label)}</p>'
+                     f'<p class="mega__intro-text">{esc(plain(ctx.summary(top_id)))}</p>'
+                     f'<a class="link-arrow" href="{esc(ctx.url(top_id))}">{esc(ctx.t("menu.overview"))} {icon("arrow-right")}</a></div>')
+        feature = ""
+        if item.get("feature"):
+            fp = item["feature"]
+            feature = (f'<a class="mega__feature" href="{esc(ctx.url(fp))}"><span class="mega__feature-media">'
+                       f'<img src="/assets/images/{R.PAGES[fp]["image"]}-800.jpg" alt="" width="800" height="500" loading="lazy" decoding="async"></span>'
+                       f'<span class="mega__feature-body"><span class="mega__feature-title">{fmt(esc(ctx.nav(fp)))}</span>'
+                       f'<span class="mega__feature-text">{esc(plain(ctx.summary(fp)))}</span>'
+                       f'<span class="mega__feature-more">{esc(ctx.t("buttons.learn_more"))} {icon("arrow-right")}</span></span></a>')
+        bar = ""
+        if item.get("wide"):
+            bar = (f'<div class="mega__bar"><a class="link-arrow" href="{esc(ctx.url(top_id))}">{esc(ctx.t("categories.all"))} {icon("arrow-right")}</a>'
+                   f'<div class="mega__bar-actions"><a class="mega__bar-link" href="{esc(CONFIG["catalogue_pdf"])}" data-catalogue-open="{esc(top_id)}">'
+                   f'{icon("file-earmark-pdf")} {esc(ctx.t("buttons.download_catalogue"))}</a>'
+                   f'<a class="btn-hyt btn-hyt--primary btn-hyt--sm" href="{esc(ctx.url("contact-us"))}">{esc(ctx.t("buttons.discuss_requirement"))}</a></div></div>')
+        kind = "mega--wide" if item.get("wide") else "mega--panel"
+        panel = (f'<div class="mega {kind} mega--cols-{len(cols)}" id="{sub_id}"><div class="container mega__container">'
+                 f'<div class="mega__grid">{intro}<div class="mega__cols">{"".join(cols)}</div>{feature}</div>{bar}</div></div>')
         act = " is-active" if is_active else ""
         if top_id:
             cur = ' aria-current="page"' if top_id == pid else ""
@@ -773,11 +869,11 @@ def header(ctx, pid):
             f'<button type="button" class="nav-burger" aria-expanded="false" aria-controls="primary-nav" data-nav-open>'
             f'<span class="nav-burger__bars" aria-hidden="true"><span></span><span></span><span></span></span>'
             f'<span class="visually-hidden" data-label-open="{esc(ctx.t("menu.open"))}" data-label-close="{esc(ctx.t("menu.close"))}">{esc(ctx.t("menu.open"))}</span></button>'
-            f'<nav class="nav-main" id="primary-nav" aria-label="{esc(ctx.t("menu.main_label"))}" data-nav>'
+            f'<nav class="nav-main" id="primary-nav" data-lenis-prevent aria-label="{esc(ctx.t("menu.main_label"))}" data-nav>'
             f'<ul class="nav-main__list">{"".join(lis)}</ul>'
             f'<div class="nav-main__mobile-extra">{lang_switcher(ctx, pid, "mobile")}</div></nav>'
             f'<a class="btn-hyt btn-hyt--primary btn-hyt--sm nav-cta" href="{esc(ctx.url("contact-us"))}"{contact_cur}>{esc(ctx.t("menu.contact_button"))}</a>'
-            f'</div></div></header>')
+            f'</div></div><div class="scroll-progress" aria-hidden="true"><span data-scroll-progress></span></div></header>')
 
 
 def footer(ctx, pid):
@@ -882,7 +978,7 @@ def hero(ctx, pid, pg, crumbs):
                 f'<div class="row align-items-center g-4 g-lg-5"><div class="col-lg-6"><div class="product-hero__text">{eyebrow}'
                 f'<h1 class="product-hero__title" id="page-title">{inline(ctx, pg["h1"])}</h1>{model}{lede}'
                 f'<div class="hero__actions"><a class="btn-hyt btn-hyt--primary" href="{esc(enquire)}">{esc(ctx.t("buttons.enquire"))}</a>'
-                f'<a class="btn-hyt btn-hyt--outline" href="#catalogue">{icon("file-earmark-pdf")} {esc(ctx.t("buttons.download_catalogue"))}</a></div></div></div>'
+                f'<a class="btn-hyt btn-hyt--outline" href="{esc(CONFIG["catalogue_pdf"])}" data-catalogue-open="{esc(pid)}">{icon("file-earmark-pdf")} {esc(ctx.t("buttons.download_catalogue"))}</a></div></div></div>'
                 f'<div class="col-lg-6"><figure class="product-hero__media hero-reveal">{picture(p["image"], plain(pg.get("h1", "")), "(min-width: 992px) 50vw, 100vw", eager=True)}</figure></div>'
                 f'</div></div></section>')
     if t in ("legal", "utility"):
@@ -903,6 +999,8 @@ def subnav(ctx, pg):
             if b["type"] == "specs":
                 label = ctx.t("product.specs_heading")
             links.append(f'<li><a href="#{esc(b["id"])}">{esc(label)}</a></li>')
+            if b["id"] == "advantages" and (VIDEOS.get(ctx.page["id"]) or VIDEOS.get("default")):
+                links.append(f'<li><a href="#video">{esc(ctx.t("product.video_heading"))}</a></li>')
     links.append(f'<li><a href="#catalogue">{esc(ctx.t("product.catalogue_heading"))}</a></li>')
     return (f'<nav class="subnav" aria-label="{esc(ctx.t("product.on_this_page"))}" data-subnav><div class="container">'
             f'<p class="subnav__label">{esc(ctx.t("product.on_this_page"))}</p><ul class="subnav__list">{"".join(links)}</ul></div></nav>')
@@ -913,7 +1011,7 @@ def catalogue_panel(ctx, pid):
     return (f'<section class="section section--catalogue" id="catalogue"><div class="container"><div class="catalogue-panel reveal">'
             f'<div class="catalogue-panel__icon">{icon("file-earmark-pdf")}</div><div class="catalogue-panel__text">'
             f'<h2 class="section-title">{esc(ctx.t("product.catalogue_heading"))}</h2><p>{esc(ctx.t("product.catalogue_text"))}</p></div>'
-            f'<div class="catalogue-panel__actions"><a class="btn-hyt btn-hyt--primary" href="{esc(pdf)}" download data-catalogue="{esc(pid)}">'
+            f'<div class="catalogue-panel__actions"><a class="btn-hyt btn-hyt--primary" href="{esc(pdf)}" data-catalogue-open="{esc(pid)}">'
             f'{icon("download")} {esc(ctx.t("buttons.download_catalogue"))}<span class="visually-hidden"> ({esc(ctx.t("a11y.pdf"))})</span></a></div></div></div></section>')
 
 
@@ -1015,12 +1113,13 @@ def head(ctx, pid, pg, crumbs_ld):
 {robots}
 {''.join(links)}
 {''.join(og)}
-<meta name="theme-color" content="#142D4E">
+<meta name="theme-color" content="#2E3338">
 <link rel="icon" href="/assets/images/logo/favicon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="/assets/images/logo/apple-touch-icon.png">
 {fonts}{preload_img}
 <link rel="stylesheet" href="{CONFIG['bootstrap_css_cdn']}" integrity="{CONFIG['bootstrap_css_sri']}" crossorigin="anonymous" onerror="this.onerror=null;this.removeAttribute('integrity');this.href='/assets/vendor/bootstrap/css/bootstrap.min.css'">
 <link rel="stylesheet" href="{CONFIG['bootstrap_icons_cdn']}" integrity="{CONFIG['bootstrap_icons_sri']}" crossorigin="anonymous" onerror="this.onerror=null;this.removeAttribute('integrity');this.href='/assets/vendor/bootstrap-icons/bootstrap-icons.min.css'">
+<link rel="stylesheet" href="/assets/vendor/lenis/lenis.css">
 <link rel="stylesheet" href="/assets/css/style.css?v={v}">
 <link rel="stylesheet" href="/assets/css/animations.css?v={v}">
 <link rel="stylesheet" href="/assets/css/responsive.css?v={v}">
@@ -1054,6 +1153,8 @@ def render_page(ctx, pid):
             body.append(catalogue_panel(ctx, pid))
             catalogue_done = True
         body.append(fn(ctx, b))
+        if p["template"] == "product" and b.get("id") == "advantages":
+            body.append(video_section(ctx, pid))
     if p["template"] == "product":
         if not catalogue_done:
             body.append(catalogue_panel(ctx, pid))
@@ -1061,6 +1162,14 @@ def render_page(ctx, pid):
         if rel:
             body.append(b_related(ctx, {"heading": ctx.t("product.related_heading"), "pages": rel}))
         body.append(product_cta(ctx, pid))
+    if pid == "thank-you":
+        cf = ctx.c.get("catalogue_form", {})
+        body.insert(0, f'<section class="section section--download" data-download-panel hidden><div class="container"><div class="download-panel">'
+                       f'<span class="download-panel__icon">{icon("file-earmark-arrow-down")}</span><div>'
+                       f'<h2 class="download-panel__title">{esc(cf.get("download_heading", ""))}</h2>'
+                       f'<p>{esc(cf.get("download_started", ""))} <a href="#" data-download-link download>{esc(cf.get("download_link", ""))}</a></p>'
+                       f'<p class="download-panel__note" data-download-preview hidden>{icon("info-circle")} {esc(cf.get("preview_note", ""))}</p>'
+                       f'</div></div></div></section>')
     main_html = hero(ctx, pid, pg, crumbs) + "".join(body)
     head_html = head(ctx, pid, pg, crumbs_ld)
     return f"""<!doctype html>
@@ -1073,13 +1182,14 @@ def render_page(ctx, pid):
 {main_html}
 </main>
 {footer(ctx, pid)}
-<dialog class="lightbox" data-lightbox aria-label="{esc(ctx.t('gallery.label'))}">
+<dialog class="lightbox" data-lightbox data-lenis-prevent aria-label="{esc(ctx.t('gallery.label'))}">
 <figure class="lightbox__figure"><img class="lightbox__img" alt="" data-lightbox-img><figcaption class="lightbox__caption" data-lightbox-caption></figcaption></figure>
 <p class="lightbox__counter" data-lightbox-counter></p>
 <button type="button" class="lightbox__btn lightbox__close" data-lightbox-close aria-label="{esc(ctx.t('buttons.close'))}">{icon('x-lg')}</button>
 <button type="button" class="lightbox__btn lightbox__prev" data-lightbox-prev aria-label="{esc(ctx.t('buttons.previous'))}">{icon('chevron-left')}</button>
 <button type="button" class="lightbox__btn lightbox__next" data-lightbox-next aria-label="{esc(ctx.t('buttons.next'))}">{icon('chevron-right')}</button>
 </dialog>
+{catalogue_dialog(ctx) if pid != "thank-you" else ""}
 <script type="module" src="/assets/js/main.js?v={ASSET_VERSION}"></script>
 </body>
 </html>
@@ -1178,7 +1288,7 @@ Header always set Referrer-Policy "strict-origin-when-cross-origin"
 Header always set X-Frame-Options "SAMEORIGIN"
 Header always set Permissions-Policy "camera=(), microphone=(), geolocation=()"
 # Tighten connect-src/form-action to your form provider once chosen (see docs/forms-integration.md).
-Header always set Content-Security-Policy "default-src 'self'; script-src 'self' 'unsafe-inline' https://cdn.jsdelivr.net https://challenges.cloudflare.com; style-src 'self' https://cdn.jsdelivr.net; font-src 'self' https://cdn.jsdelivr.net; img-src 'self' data:; connect-src 'self' https:; form-action 'self' https:; frame-src https://challenges.cloudflare.com; base-uri 'self'; object-src 'none'"
+Header always set Content-Security-Policy "default-src 'self'; script-src 'self' 'unsafe-inline' https://cdn.jsdelivr.net https://challenges.cloudflare.com; style-src 'self' https://cdn.jsdelivr.net; font-src 'self' https://cdn.jsdelivr.net; img-src 'self' data:; connect-src 'self' https:; form-action 'self' https:; frame-src https://challenges.cloudflare.com https://www.youtube-nocookie.com; media-src 'self'; base-uri 'self'; object-src 'none'"
 <FilesMatch "\\.(css|js|woff2|jpg|jpeg|png|svg|webp|pdf)$">
 Header set Cache-Control "public, max-age=2592000"
 </FilesMatch>

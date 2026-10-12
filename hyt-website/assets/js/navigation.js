@@ -4,6 +4,8 @@
  * Without JavaScript, dropdowns open on hover/focus and the mobile menu is
  * rendered as a plain list, so navigation never depends on this file.
  */
+import { scrollToElement, lockScroll } from './scroll.js';
+
 const DESKTOP = window.matchMedia('(min-width: 1200px)');
 
 export function initNavigation(strings) {
@@ -14,20 +16,28 @@ export function initNavigation(strings) {
   if (!header || !nav) return;
   root.classList.add('nav-ready');
 
-  /* ---- Sticky header state ---- */
+  /* ---- Sticky header state (with hysteresis so it never flickers) ---- */
   let ticking = false;
+  const progress = document.querySelector('[data-scroll-progress]');
+  const toTop = document.querySelector('[data-back-to-top]');
   const onScroll = () => {
     if (ticking) return;
     ticking = true;
     requestAnimationFrame(() => {
       const y = window.scrollY;
-      header.classList.toggle('is-scrolled', y > 40);
-      document.querySelector('[data-back-to-top]')?.classList.toggle('is-visible', y > 700);
+      if (y > 80) header.classList.add('is-scrolled');
+      else if (y < 10) header.classList.remove('is-scrolled');
+      toTop?.classList.toggle('is-visible', y > 700);
+      if (progress) {
+        const max = document.documentElement.scrollHeight - window.innerHeight;
+        progress.style.transform = `scaleX(${max > 0 ? Math.min(1, y / max) : 0})`;
+      }
+      // Close click-opened dropdowns once the user scrolls away
+      if (DESKTOP.matches && Math.abs(y - lastY) > 60) { items.forEach((i) => { if (i.classList.contains('is-open')) close(i); }); lastY = y; }
       ticking = false;
     });
   };
-  window.addEventListener('scroll', onScroll, { passive: true });
-  onScroll();
+  let lastY = window.scrollY;
 
   /* ---- Dropdowns ---- */
   const items = [...nav.querySelectorAll('[data-nav-item]')];
@@ -79,6 +89,8 @@ export function initNavigation(strings) {
     });
   });
   document.addEventListener('click', (e) => { if (!nav.contains(e.target)) closeAll(); });
+  window.addEventListener('scroll', onScroll, { passive: true });
+  onScroll();
 
   /* ---- Off-canvas menu ---- */
   let backdrop = document.querySelector('.nav-backdrop');
@@ -90,6 +102,7 @@ export function initNavigation(strings) {
   const label = burger?.querySelector('[data-label-open]');
   const setMenu = (state) => {
     root.classList.toggle('nav-open', state);
+    lockScroll(state);
     burger?.setAttribute('aria-expanded', String(state));
     if (label) label.textContent = state ? label.dataset.labelClose : label.dataset.labelOpen;
     if (state) {
@@ -113,15 +126,25 @@ export function initNavigation(strings) {
   });
   DESKTOP.addEventListener('change', () => { setMenu(false); items.forEach((i) => i.classList.remove('is-closed')); });
 
-  /* ---- In-page anchors: close menu, move focus for screen readers ---- */
+  /* ---- In-page anchors: smooth scroll below the sticky header, move focus ---- */
   document.addEventListener('click', (e) => {
-    const a = e.target.closest('a[href^="#"]');
-    if (!a || a.getAttribute('href').length < 2) return;
-    const target = document.getElementById(decodeURIComponent(a.getAttribute('href').slice(1)));
+    const a = e.target.closest('a[href*="#"]');
+    if (!a || e.defaultPrevented || e.button !== 0 || e.metaKey || e.ctrlKey) return;
+    const url = new URL(a.href, location.href);
+    if (url.pathname !== location.pathname || !url.hash || url.hash.length < 2) return;
+    if (a.hasAttribute('data-gallery-item')) return;
+    const id = decodeURIComponent(url.hash.slice(1));
+    const target = id === 'top' ? document.body : document.getElementById(id);
     if (!target) return;
+    e.preventDefault();
     setMenu(false);
+    closeAll();
+    if (id === 'top') { scrollToElement(document.body); history.replaceState(null, '', location.pathname + location.search); return; }
+    history.pushState(null, '', url.hash);
+    window.dispatchEvent(new HashChangeEvent('hashchange'));
+    scrollToElement(target);
     if (!target.hasAttribute('tabindex')) target.setAttribute('tabindex', '-1');
-    requestAnimationFrame(() => target.focus({ preventScroll: true }));
+    setTimeout(() => target.focus({ preventScroll: true }), 650);
   });
 
   /* ---- Product sub-navigation scroll spy ---- */

@@ -73,7 +73,11 @@
     "on_this_page": "Op deze pagina",
     "sample_note": "De afbeeldingen op deze pagina zijn voorbeeldillustraties en worden vervangen door foto’s van HYT-machines.",
     "enquiry_button": "Aanvraag versturen",
-    "specs_heading": "Technische specificaties"
+    "specs_heading": "Technische specificaties",
+    "video_heading": "De machine in actie",
+    "video_text": "Een korte film van de machine aan het werk. Videobeelden van HYT-installaties vervangen deze voorbeeldclip.",
+    "play_video": "Video afspelen",
+    "video_sample": "Voorbeeldvideo voor ontwerp en tests"
   },
   "categories": {
     "all": "Alle producten",
@@ -280,5 +284,23 @@
   },
   "meta": {
     "og_site": "HYT Engineering"
+  },
+  "catalogue_form": {
+    "title": "Catalogus downloaden",
+    "intro": "Vertel ons kort wie u bent en de download start direct. We nemen hooguit één keer contact op met relevante informatie – nooit spam.",
+    "submit": "Catalogus downloaden",
+    "download_heading": "Uw catalogusdownload",
+    "download_started": "Uw download zou automatisch moeten starten.",
+    "download_link": "Klik hier als de download niet start",
+    "preview_note": "Voorbeeldsite: de formulierdienst is nog niet gekoppeld, uw gegevens zijn dus niet verzonden – alleen de download is aangeboden.",
+    "not_configured_dl": "Online verzenden is op deze voorbeeldsite nog niet actief – uw gegevens zijn niet verzonden. De download start nu.",
+    "close": "Sluiten"
+  },
+  "clients": {
+    "eyebrow": "Onze klanten",
+    "heading": "Spoor- en metro-exploitanten vertrouwen op HYT",
+    "link": "Bekijk onze klanten",
+    "pause": "Logo-animatie pauzeren",
+    "play": "Logo-animatie afspelen"
   }
 }

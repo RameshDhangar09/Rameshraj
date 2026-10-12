@@ -28,7 +28,7 @@ import registry as R  # noqa: E402
 OUT = ROOT / "hyt-website/assets/documents/catalogue/hyt-sample-catalogue.pdf"
 IMG = ROOT / "hyt-website/assets/images"
 HERE = Path(__file__).resolve().parent
-NAVY, ORANGE, CHAR, GREY, LIGHT, BORDER = (HexColor(c) for c in ("#142D4E", "#F58220", "#252525", "#6B7280", "#F4F5F6", "#E5E7EB"))
+NAVY, ORANGE, CHAR, GREY, LIGHT, BORDER = (HexColor(c) for c in ("#2E3338", "#F58220", "#252525", "#6B7280", "#F4F5F6", "#E5E7EB"))
 W, H = A4
 M = 18 * mm
 SAMPLE = "SAMPLE CATALOGUE — FOR DESIGN AND TESTING"
@@ -108,7 +108,7 @@ def cover(c):
     c.setFont("Helvetica-Bold", 30)
     c.drawString(M, 73 * mm, "Product Catalogue")
     c.setFont("Helvetica", 13)
-    c.setFillColor(HexColor("#C9D1DC"))
+    c.setFillColor(HexColor("#CDD1D5"))
     c.drawString(M, 63 * mm, "CNC wheel lathes · Wheel & axle shop machines · Depot equipment")
     c.drawString(M, 56 * mm, "Turnkey railway workshops · Lifetime service")
     # sample band
@@ -118,7 +118,7 @@ def cover(c):
     c.setFont("Helvetica-Bold", 14)
     c.drawCentredString(W / 2, 30.3 * mm, SAMPLE)
     c.setFont("Helvetica", 7.5)
-    c.setFillColor(HexColor("#9FB0C4"))
+    c.setFillColor(HexColor("#A4AAB1"))
     c.drawString(M, 14 * mm, "Illustrations are generated sample images. Specifications are placeholders unless confirmed by HYT in a technical offer.")
     c.showPage()
 
@@ -253,7 +253,7 @@ def services_contact(c, n):
     lines = con["address_lines"] + [f"Tel. {con['phone']} / {con['phone_alt']}  ·  Toll-free {con['tollfree']}",
                                      f"{con['email']}  ·  https://hytengineering.com"]
     c.setFont("Helvetica", 9.5)
-    c.setFillColor(HexColor("#C9D1DC"))
+    c.setFillColor(HexColor("#CDD1D5"))
     for i, ln in enumerate(lines):
         c.drawString(M + 8 * mm, y - 20 * mm - i * 5 * mm, ln)
     c.showPage()

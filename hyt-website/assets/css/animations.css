@@ -32,3 +32,52 @@
   .anim-ready .hero-home__img { transform: none; }
   .anim-ready .hero-reveal { clip-path: none; }
 }
+
+/* ---------- Round 2 motion ---------- */
+/* Image wipe: framed images reveal left-to-right with a gentle settle */
+.anim-ready .media-frame.reveal { opacity: 1; transform: none; clip-path: inset(0 100% 0 0); transition: clip-path 1100ms var(--ease); }
+.anim-ready .media-frame.reveal img { transform: scale(1.12); transition: transform 1600ms var(--ease); }
+.anim-ready .media-frame.reveal.is-visible { clip-path: inset(0 0 0 0); }
+.anim-ready .media-frame.reveal.is-visible img { transform: scale(1); }
+
+/* Eyebrow rule draws in */
+.anim-ready .reveal .eyebrow::before, .anim-ready .reveal.eyebrow::before { width: 0; transition: width 700ms var(--ease) 200ms; }
+.anim-ready .reveal.is-visible .eyebrow::before { width: 28px; }
+
+/* Feature icons pop in */
+.anim-ready .feature.reveal .feature__icon { transform: scale(0.6) rotate(-8deg); opacity: 0; transition: transform 600ms cubic-bezier(.34,1.56,.64,1) 150ms, opacity 400ms ease 150ms; }
+.anim-ready .feature.reveal.is-visible .feature__icon { transform: none; opacity: 1; }
+
+/* Step numbers slide up */
+.anim-ready .step.reveal .step__num { transform: translateY(14px); opacity: 0; transition: transform 700ms var(--ease) 120ms, opacity 700ms var(--ease) 120ms; }
+.anim-ready .step.reveal.is-visible .step__num { transform: none; opacity: 1; }
+.anim-ready .step.reveal::before { width: 0; transition: width 900ms var(--ease) 250ms; }
+.anim-ready .step.reveal.is-visible::before { width: 40%; }
+
+/* Slow cinematic drift on the home hero image (after the entrance) */
+.hero-in .hero-home__media { animation: hero-drift 24s ease-in-out 2.4s infinite alternate; }
+@keyframes hero-drift { from { transform: scale(1) translate3d(0, 0, 0); } to { transform: scale(1.05) translate3d(-1.2%, -0.8%, 0); } }
+
+/* Parallax layers (JS sets --parallax) */
+.hero-home__img, .page-hero__img { transform: translate3d(0, var(--parallax, 0px), 0) scale(1.08); }
+.anim-ready .hero-home__img { transform: translate3d(0, var(--parallax, 0px), 0) scale(1.14); }
+.anim-ready.hero-in .hero-home__img { transform: translate3d(0, var(--parallax, 0px), 0) scale(1.08); }
+
+/* Primary button sheen */
+.btn-hyt--primary { position: relative; overflow: hidden; isolation: isolate; }
+.btn-hyt--primary::after { content: ""; position: absolute; inset: 0; z-index: -1; background: linear-gradient(110deg, transparent 30%, rgba(255, 255, 255, 0.45) 50%, transparent 70%); transform: translateX(-120%); transition: transform 700ms var(--ease); }
+.btn-hyt--primary:hover::after { transform: translateX(120%); }
+
+/* Card image + text lift */
+.card-hyt__title, .news-card__title { transition: color var(--t-fast); }
+.card-hyt:hover .card-hyt__title .card-hyt__link { color: var(--hyt-orange-text); }
+
+@media (prefers-reduced-motion: reduce) {
+  .anim-ready .media-frame.reveal { clip-path: none; }
+  .anim-ready .media-frame.reveal img, .hero-home__img, .page-hero__img { transform: none !important; }
+  .hero-in .hero-home__media { animation: none; }
+  .anim-ready .feature.reveal .feature__icon, .anim-ready .step.reveal .step__num { transform: none; opacity: 1; }
+}
+
+/* Lenis drives scrolling itself – native smooth scrolling would fight it every frame */
+html.lenis, html.lenis body { scroll-behavior: auto !important; }

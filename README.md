@@ -102,7 +102,19 @@ deployment, verify each one with `curl -I https://hytengineering.com/epc-project
 Then submit `https://hytengineering.com/sitemap.xml` in Google Search Console
 and Bing Webmaster Tools.
 
-## 4. Forms
+## 4. Features added after the first review
+
+| Feature | How it works | Where to change it |
+|---------|--------------|--------------------|
+| **Graphite grey palette** | Navy was replaced by graphite grey (`--hyt-graphite #2E3338`, `--hyt-dark #1F2326`) at HYT's request; orange stays the accent | `hyt-website/assets/css/style.css` → `:root` tokens |
+| **Smooth scrolling** | Lenis 1.1.20 (vendored in `assets/vendor/lenis/`) on mouse/trackpad devices; native scrolling on touch devices and for reduced-motion users. The sticky header now slides instead of changing height, so the page never jumps | `assets/js/scroll.js` |
+| **Mega menu** | Full-width panels with intro text, link hover states, a feature card per menu and category images + catalogue/contact actions for Products | `src/registry.py` → `MENU` (`feature` = page shown as the card) |
+| **Animations** | Scroll reveals, image wipe reveals, stat count-ups, eyebrow/step line draw-ins, icon pops, hero drift and parallax, button sheen, scroll progress bar – all disabled for `prefers-reduced-motion` | `assets/css/animations.css`, `assets/js/animations.js` |
+| **Customer logo carousel** | Infinite marquee on the home page with pause button; pauses on hover/focus | Logos: `assets/images/clients/*.svg` (**placeholders** – replace with approved logos, same filenames); list: `src/registry.py` → `CLIENTS` |
+| **Product video** | Every product page has a "See the machine in action" section (also in the page sub-navigation). Self-hosted MP4/WebM via `<video>`, or YouTube via a click-to-load facade on youtube-nocookie.com (no YouTube request until play) | `src/videos.json` – per product or `default`. Sample clip: `assets/videos/hyt-sample-machine-video.webm` (regenerate: `node tools/video/record.js`) |
+| **Catalogue download form** | Every "Download catalogue" button opens a short form (name, company, email, phone, country, consent). After a confirmed submission the visitor lands on the localised thank-you page and the PDF downloads automatically. Without JavaScript the button is a direct PDF link. In preview (no form endpoint) the form says honestly that details were **not sent** and still provides the download | `assets/js/catalogue.js`, `assets/js/forms.js`; only PDFs under `/assets/documents/` can be served by the thank-you page |
+
+## 5. Forms
 
 Forms are fully built and validated in the browser, but **email delivery needs a
 secure backend** (no credentials are ever placed in front-end code). Until
@@ -111,7 +123,7 @@ submission is not active yet and that nothing was sent. Full instructions and a
 ready reference handler: [`docs/forms-integration.md`](docs/forms-integration.md),
 [`integrations/`](integrations/).
 
-## 5. Front-end architecture
+## 6. Front-end architecture
 
 ```
 hyt-website/
@@ -149,7 +161,7 @@ hyt-website/
   BreadcrumbList, Product, FAQPage), XML sitemap with hreflang alternates,
   `robots.txt`, `noindex` on thank-you and 404 pages.
 
-## 6. Documentation
+## 7. Documentation
 
 | File | Purpose |
 |------|---------|
@@ -162,9 +174,9 @@ hyt-website/
 | [`docs/forms-integration.md`](docs/forms-integration.md) | Secure form delivery to digitalmkt@hytengineering.com |
 | [`docs/sitemap-audit.md`](docs/sitemap-audit.md) | Workbook analysis: pages, URLs, REVIEW items and how each was implemented |
 
-## 7. Licences
+## 8. Licences
 
-Bootstrap and Bootstrap Icons (MIT), Inter and Barlow fonts (SIL Open Font
+Bootstrap, Bootstrap Icons and Lenis (MIT), Inter and Barlow fonts (SIL Open Font
 Licence) – licence files are next to the vendored copies. Sample illustrations
 were generated for this project (`tools/image-generator/`) and carry a
 "SAMPLE IMAGE" label.

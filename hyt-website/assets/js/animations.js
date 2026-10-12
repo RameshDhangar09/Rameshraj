@@ -44,4 +44,57 @@ export function initAnimations() {
   }), 2500);
 
   requestAnimationFrame(() => requestAnimationFrame(() => root.classList.add('hero-in')));
+  initCounters();
+  initParallax();
+}
+
+/** Count-up for statistics such as "1,100+" or "1977" – keeps the original formatting. */
+function initCounters() {
+  const stats = document.querySelectorAll('.stat__value');
+  if (!stats.length) return;
+  const run = (el) => {
+    const text = el.dataset.final || el.textContent.trim();
+    el.dataset.final = text;
+    const m = text.match(/^(\D*)([\d.,\u202f\u00a0 ]*\d)(.*)$/);
+    if (!m) return;
+    const [, pre, num, post] = m;
+    const sep = (num.match(/[.,\u202f\u00a0 ]/) || [''])[0];
+    const target = parseInt(num.replace(/\D/g, ''), 10);
+    if (!Number.isFinite(target)) return;
+    const from = target >= 1900 && target <= 2100 && !sep ? target - 60 : 0;
+    const fmt = (n) => (sep ? String(n).replace(/\B(?=(\d{3})+(?!\d))/g, sep) : String(n));
+    const start = performance.now();
+    const dur = 1600;
+    const step = (now) => {
+      const p = Math.min(1, (now - start) / dur);
+      const eased = 1 - Math.pow(1 - p, 3);
+      el.textContent = pre + fmt(Math.round(from + (target - from) * eased)) + post;
+      if (p < 1) requestAnimationFrame(step); else el.textContent = text;
+    };
+    requestAnimationFrame(step);
+  };
+  const io = new IntersectionObserver((entries) => {
+    entries.forEach((e) => { if (e.isIntersecting) { run(e.target); io.unobserve(e.target); } });
+  }, { threshold: 0.6 });
+  stats.forEach((el) => {
+    el.setAttribute('aria-label', el.textContent.trim()); // screen readers get the final value
+    io.observe(el);
+  });
+}
+
+/** Gentle parallax on hero images (transform only – no layout work). */
+function initParallax() {
+  const layers = [...document.querySelectorAll('.hero-home__img, .page-hero__img')];
+  if (!layers.length || window.matchMedia('(pointer: coarse)').matches) return;
+  let ticking = false;
+  const update = () => {
+    layers.forEach((img) => {
+      const box = img.parentElement.getBoundingClientRect();
+      if (box.bottom < 0 || box.top > window.innerHeight) return;
+      img.style.setProperty('--parallax', `${Math.round(-box.top * 0.18)}px`);
+    });
+    ticking = false;
+  };
+  window.addEventListener('scroll', () => { if (!ticking) { ticking = true; requestAnimationFrame(update); } }, { passive: true });
+  update();
 }

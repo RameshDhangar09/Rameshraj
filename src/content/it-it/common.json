@@ -73,7 +73,11 @@
     "on_this_page": "In questa pagina",
     "sample_note": "Le immagini di questa pagina sono illustrazioni di esempio e saranno sostituite da fotografie delle macchine HYT.",
     "enquiry_button": "Invia una richiesta",
-    "specs_heading": "Specifiche tecniche"
+    "specs_heading": "Specifiche tecniche",
+    "video_heading": "La macchina in azione",
+    "video_text": "Un breve filmato della macchina al lavoro. I video delle installazioni HYT sostituiranno questo clip di esempio.",
+    "play_video": "Riproduci il video",
+    "video_sample": "Video di esempio per progettazione e test"
   },
   "categories": {
     "all": "Tutti i prodotti",
@@ -280,5 +284,23 @@
   },
   "meta": {
     "og_site": "HYT Engineering"
+  },
+  "catalogue_form": {
+    "title": "Scarica il catalogo",
+    "intro": "Ci dica brevemente chi è e il download partirà subito. Potremmo ricontattarLa una volta con informazioni utili – mai spam.",
+    "submit": "Scarica il catalogo",
+    "download_heading": "Il Suo download del catalogo",
+    "download_started": "Il download dovrebbe avviarsi automaticamente.",
+    "download_link": "Clicchi qui se non si avvia",
+    "preview_note": "Sito di anteprima: il servizio moduli non è ancora collegato, quindi i Suoi dati non sono stati inviati – è stato fornito solo il download.",
+    "not_configured_dl": "L’invio online non è ancora attivo su questo sito di anteprima – i Suoi dati non sono stati inviati. Il download parte ora.",
+    "close": "Chiudi"
+  },
+  "clients": {
+    "eyebrow": "I nostri clienti",
+    "heading": "Scelti da operatori ferroviari e metropolitani",
+    "link": "Vedi i nostri clienti",
+    "pause": "Metti in pausa l’animazione dei loghi",
+    "play": "Avvia l’animazione dei loghi"
   }
 }

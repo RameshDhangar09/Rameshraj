@@ -4,6 +4,7 @@
  * links such as /products/#wheel-lathes open the right family directly.
  */
 import { t } from './i18n.js';
+import { scrollToElement } from './scroll.js';
 
 export function initProductFilter(strings) {
   const wrap = document.querySelector('[data-product-filter]');
@@ -29,7 +30,7 @@ export function initProductFilter(strings) {
     });
     if (status) status.textContent = `${t(strings, 'categories.showing')} ${count} ${t(strings, 'categories.products_word')}`;
     if (empty) empty.hidden = count > 0;
-    if (scroll) wrap.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    if (scroll) scrollToElement(groups.find((g) => !g.hidden) || wrap);
   };
 
   buttons.forEach((b) => b.addEventListener('click', () => {

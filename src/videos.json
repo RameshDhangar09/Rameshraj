@@ -1,0 +1,4 @@
+{
+  "_comment": "Product videos. 'default' applies to every product page without its own entry. type 'file' = self-hosted MP4/WebM (src, optional poster image name); type 'youtube' = YouTube video id, loaded only after the visitor clicks play (youtube-nocookie.com). Example: \"underfloor-wheel-lathe\": {\"type\": \"youtube\", \"id\": \"XXXXXXXXXXX\"}",
+  "default": {"type": "file", "src": "/assets/videos/hyt-sample-machine-video.webm", "mime": "video/webm", "sample": true}
+}

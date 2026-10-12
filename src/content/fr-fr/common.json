@@ -73,7 +73,11 @@
     "on_this_page": "Sur cette page",
     "sample_note": "Les images de cette page sont des illustrations d’exemple ; elles seront remplacées par des photographies de machines HYT.",
     "enquiry_button": "Envoyer une demande",
-    "specs_heading": "Caractéristiques techniques"
+    "specs_heading": "Caractéristiques techniques",
+    "video_heading": "La machine en action",
+    "video_text": "Un court film de la machine au travail. Des vidéos d’installations HYT remplaceront cet extrait d’exemple.",
+    "play_video": "Lire la vidéo",
+    "video_sample": "Vidéo d’exemple pour la conception et les tests"
   },
   "categories": {
     "all": "Tous les produits",
@@ -280,5 +284,23 @@
   },
   "meta": {
     "og_site": "HYT Engineering"
+  },
+  "catalogue_form": {
+    "title": "Télécharger le catalogue",
+    "intro": "Présentez-vous en quelques mots et le téléchargement démarre aussitôt. Nous pourrons revenir vers vous une fois avec des informations utiles – jamais de spam.",
+    "submit": "Télécharger le catalogue",
+    "download_heading": "Votre téléchargement du catalogue",
+    "download_started": "Le téléchargement devrait démarrer automatiquement.",
+    "download_link": "Cliquez ici s’il ne démarre pas",
+    "preview_note": "Site de prévisualisation : le service de formulaires n’est pas encore connecté, vos informations n’ont donc pas été envoyées – seul le téléchargement a été fourni.",
+    "not_configured_dl": "L’envoi en ligne n’est pas encore actif sur ce site de prévisualisation – vos informations n’ont pas été envoyées. Le téléchargement démarre maintenant.",
+    "close": "Fermer"
+  },
+  "clients": {
+    "eyebrow": "Nos clients",
+    "heading": "La confiance des exploitants ferroviaires et de métro",
+    "link": "Voir nos références",
+    "pause": "Mettre en pause l’animation des logos",
+    "play": "Lancer l’animation des logos"
   }
 }

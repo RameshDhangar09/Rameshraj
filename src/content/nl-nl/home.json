@@ -12,10 +12,22 @@
         {
           "type": "stats",
           "items": [
-            {"value": "1977", "label": "Bouwt werktuigmachines sinds"},
-            {"value": "1.100+", "label": "Machines wereldwijd geleverd"},
-            {"value": "3", "label": "ISO-gecertificeerde managementsystemen"},
-            {"value": "360°", "label": "Ontwerp, bouw, installatie en service onder één dak"}
+            {
+              "value": "1977",
+              "label": "Bouwt werktuigmachines sinds"
+            },
+            {
+              "value": "1.100+",
+              "label": "Machines wereldwijd geleverd"
+            },
+            {
+              "value": "3",
+              "label": "ISO-gecertificeerde managementsystemen"
+            },
+            {
+              "value": "360°",
+              "label": "Ontwerp, bouw, installatie en service onder één dak"
+            }
           ]
         },
         {
@@ -42,10 +54,34 @@
           "intro": "Vier productfamilies voor herprofileren in bedrijf, productie in de wielstelwerkplaats, ondersteuning in het depot en gespecialiseerde partnertechnologie.",
           "cols": 4,
           "items": [
-            {"page": "products", "anchor": "wheel-lathes", "title": "Wielenbanken", "text": "CNC-draaibanken in onderloop-, tandem-, vloer- en portaaluitvoering die wielstellen snel en nauwkeurig herprofileren.", "image": "products/underfloor-wheel-lathe-yul-08"},
-            {"page": "products", "anchor": "wheel-axle-shop-machines", "title": "Machines voor de wielstelwerkplaats", "text": "Verticaal draaien, asdraaien en -rollen, wielpersen, meten en balanceren.", "image": "products/vertical-turning-boring-machine"},
-            {"page": "products", "anchor": "depot-workshop-equipment", "title": "Depot- en werkplaatsuitrusting", "text": "Machines voor ankerbewerking, automatische treinwasinstallaties en rail-wegrangeervoertuigen.", "image": "products/automated-train-washing-plant"},
-            {"page": "products", "anchor": "partner-products", "title": "Partnerproducten", "text": "Exclusieve distributie van glijtechniek van SKC Gleittechnik uit Duitsland.", "image": "products/skc-partner-products"}
+            {
+              "page": "products",
+              "anchor": "wheel-lathes",
+              "title": "Wielenbanken",
+              "text": "CNC-draaibanken in onderloop-, tandem-, vloer- en portaaluitvoering die wielstellen snel en nauwkeurig herprofileren.",
+              "image": "products/underfloor-wheel-lathe-yul-08"
+            },
+            {
+              "page": "products",
+              "anchor": "wheel-axle-shop-machines",
+              "title": "Machines voor de wielstelwerkplaats",
+              "text": "Verticaal draaien, asdraaien en -rollen, wielpersen, meten en balanceren.",
+              "image": "products/vertical-turning-boring-machine"
+            },
+            {
+              "page": "products",
+              "anchor": "depot-workshop-equipment",
+              "title": "Depot- en werkplaatsuitrusting",
+              "text": "Machines voor ankerbewerking, automatische treinwasinstallaties en rail-wegrangeervoertuigen.",
+              "image": "products/automated-train-washing-plant"
+            },
+            {
+              "page": "products",
+              "anchor": "partner-products",
+              "title": "Partnerproducten",
+              "text": "Exclusieve distributie van glijtechniek van SKC Gleittechnik uit Duitsland.",
+              "image": "products/skc-partner-products"
+            }
           ]
         },
         {
@@ -65,7 +101,10 @@
           "image": "products/tandem-underfloor-wheel-lathe-yul-12t",
           "image_alt": "Voorbeeldillustratie van twee gesynchroniseerde onderloopdraaibanken in een put onder het draaistel van een railvoertuig",
           "layout": "image-left",
-          "link": {"label": "Bekijk onze onderloopdraaibanken", "page": "underfloor-wheel-lathe"}
+          "link": {
+            "label": "Bekijk onze onderloopdraaibanken",
+            "page": "underfloor-wheel-lathe"
+          }
         },
         {
           "type": "text",
@@ -79,7 +118,11 @@
           "image": "products/vertical-turning-boring-machine",
           "image_alt": "Voorbeeldillustratie van een CNC-verticale draai- en kotterbank die een spoorwiel bewerkt",
           "layout": "image-right",
-          "link": {"label": "Bekijk machines voor de wielstelwerkplaats", "page": "products", "anchor": "wheel-axle-shop-machines"}
+          "link": {
+            "label": "Bekijk machines voor de wielstelwerkplaats",
+            "page": "products",
+            "anchor": "wheel-axle-shop-machines"
+          }
         },
         {
           "type": "steps",
@@ -87,13 +130,31 @@
           "heading": "Eén partner, van lege hal tot draaiende werkplaats",
           "intro": "Heeft een spoorweg- of metrobedrijf een complete faciliteit nodig, dan neemt HYT de verantwoordelijkheid voor de hele keten – met één plan, één planning en één aanspreekpunt.",
           "items": [
-            {"title": "Studie & indeling", "text": "Vlootanalyse, processtroom en machinekeuze voor de doorzet die u nodig heeft."},
-            {"title": "Bouwkundige interface", "text": "Tekeningen voor put, fundering en railverankering, afgestemd met uw bouwkundig aannemer."},
-            {"title": "Levering & installatie", "text": "Machines, transportsystemen en besturingen geleverd, geïnstalleerd en geïntegreerd."},
-            {"title": "Inbedrijfstelling & training", "text": "Beproefd op uw eigen wielstellen, met operators en onderhoudsmonteurs die op locatie worden opgeleid."},
-            {"title": "Ondersteuning gedurende de hele levensduur", "text": "Onderhoudscontracten, reserveonderdelen en upgrades voor de decennia daarna."}
+            {
+              "title": "Studie & indeling",
+              "text": "Vlootanalyse, processtroom en machinekeuze voor de doorzet die u nodig heeft."
+            },
+            {
+              "title": "Bouwkundige interface",
+              "text": "Tekeningen voor put, fundering en railverankering, afgestemd met uw bouwkundig aannemer."
+            },
+            {
+              "title": "Levering & installatie",
+              "text": "Machines, transportsystemen en besturingen geleverd, geïnstalleerd en geïntegreerd."
+            },
+            {
+              "title": "Inbedrijfstelling & training",
+              "text": "Beproefd op uw eigen wielstellen, met operators en onderhoudsmonteurs die op locatie worden opgeleid."
+            },
+            {
+              "title": "Ondersteuning gedurende de hele levensduur",
+              "text": "Onderhoudscontracten, reserveonderdelen en upgrades voor de decennia daarna."
+            }
           ],
-          "link": {"label": "Ontdek onze turnkey projecten", "page": "turnkey-project"}
+          "link": {
+            "label": "Ontdek onze turnkey projecten",
+            "page": "turnkey-project"
+          }
         },
         {
           "type": "cards",
@@ -101,11 +162,26 @@
           "heading": "Gebouwd voor wie rollend materieel veilig houdt",
           "cols": 5,
           "items": [
-            {"page": "ind-railways", "image": "industries/railways"},
-            {"page": "ind-metros", "image": "industries/metros"},
-            {"page": "ind-rolling-stock", "image": "industries/rolling-stock-manufacturers"},
-            {"page": "ind-defence", "image": "industries/defence"},
-            {"page": "ind-heavy-engineering", "image": "industries/heavy-engineering"}
+            {
+              "page": "ind-railways",
+              "image": "industries/railways"
+            },
+            {
+              "page": "ind-metros",
+              "image": "industries/metros"
+            },
+            {
+              "page": "ind-rolling-stock",
+              "image": "industries/rolling-stock-manufacturers"
+            },
+            {
+              "page": "ind-defence",
+              "image": "industries/defence"
+            },
+            {
+              "page": "ind-heavy-engineering",
+              "image": "industries/heavy-engineering"
+            }
           ]
         },
         {
@@ -115,14 +191,41 @@
           "intro": "Een wielenbank is een kritisch bedrijfsmiddel: staat zij stil, dan wachten de treinen. Onze serviceorganisatie is erop ingericht uw machines gedurende hun volledige levensduur productief te houden.",
           "cols": 3,
           "items": [
-            {"icon": "tools", "title": "Installatie & inbedrijfstelling", "text": "Funderingscontrole, uitlijning, acceptatietests en gedocumenteerde overdracht."},
-            {"icon": "clipboard-check", "title": "AMC- en CMC-contracten", "text": "Gepland preventief onderhoud met een duidelijk afgebakende scope en vaste responstijden."},
-            {"icon": "box-seam", "title": "Originele reserveonderdelen", "text": "Kritische reserveonderdelen, gereedschappen en verbruiksmaterialen geïdentificeerd, op voorraad en geleverd."},
-            {"icon": "arrow-repeat", "title": "Retrofit & upgrades", "text": "Nieuwe CNC-besturingen, aandrijvingen en meettechniek voor oudere machines."},
-            {"icon": "mortarboard", "title": "Training", "text": "Praktijkgerichte training voor operators, programmeurs en onderhoudsteams."},
-            {"icon": "truck", "title": "Machine as a Service", "text": "Wet lease: wij leveren de machine én de bemanning, u betaalt voor de output."}
+            {
+              "icon": "tools",
+              "title": "Installatie & inbedrijfstelling",
+              "text": "Funderingscontrole, uitlijning, acceptatietests en gedocumenteerde overdracht."
+            },
+            {
+              "icon": "clipboard-check",
+              "title": "AMC- en CMC-contracten",
+              "text": "Gepland preventief onderhoud met een duidelijk afgebakende scope en vaste responstijden."
+            },
+            {
+              "icon": "box-seam",
+              "title": "Originele reserveonderdelen",
+              "text": "Kritische reserveonderdelen, gereedschappen en verbruiksmaterialen geïdentificeerd, op voorraad en geleverd."
+            },
+            {
+              "icon": "arrow-repeat",
+              "title": "Retrofit & upgrades",
+              "text": "Nieuwe CNC-besturingen, aandrijvingen en meettechniek voor oudere machines."
+            },
+            {
+              "icon": "mortarboard",
+              "title": "Training",
+              "text": "Praktijkgerichte training voor operators, programmeurs en onderhoudsteams."
+            },
+            {
+              "icon": "truck",
+              "title": "Machine as a Service",
+              "text": "Wet lease: wij leveren de machine én de bemanning, u betaalt voor de output."
+            }
           ],
-          "link": {"label": "Alle diensten", "page": "services"}
+          "link": {
+            "label": "Alle diensten",
+            "page": "services"
+          }
         },
         {
           "type": "cards",
@@ -131,10 +234,31 @@
           "intro": "Een greep uit ons werk voor nationale spoorwegen en metrobedrijven. Alle projectdetails vindt u onder Turnkey projecten.",
           "cols": 3,
           "items": [
-            {"page": "executed-projects", "anchor": "sanpada-emu-car-shed", "title": "CNC-verticale draaibank – EMU-depot Sanpada, Mumbai", "text": "Capaciteit voor wielbewerking voor een van de drukste voorstadsnetten ter wereld.", "image": "projects/emu-car-shed"},
-            {"page": "executed-projects", "anchor": "state-railway-of-thailand", "title": "CNC-verticale revolverdraaibank – State Railway of Thailand", "text": "Geleverd en geïnstalleerd voor wielbewerking in Bangkok.", "image": "projects/railway-wheel-shop"},
-            {"page": "under-execution", "anchor": "ncrtc-underfloor-wheel-lathes", "title": "Volautomatische CNC-onderloopdraaibanken – NCRTC", "text": "Voor het eerste regionale snelle vervoerssysteem (RRTS) van India.", "image": "projects/metro-depot"}
+            {
+              "page": "executed-projects",
+              "anchor": "sanpada-emu-car-shed",
+              "title": "CNC-verticale draaibank – EMU-depot Sanpada, Mumbai",
+              "text": "Capaciteit voor wielbewerking voor een van de drukste voorstadsnetten ter wereld.",
+              "image": "projects/emu-car-shed"
+            },
+            {
+              "page": "executed-projects",
+              "anchor": "state-railway-of-thailand",
+              "title": "CNC-verticale revolverdraaibank – State Railway of Thailand",
+              "text": "Geleverd en geïnstalleerd voor wielbewerking in Bangkok.",
+              "image": "projects/railway-wheel-shop"
+            },
+            {
+              "page": "under-execution",
+              "anchor": "ncrtc-underfloor-wheel-lathes",
+              "title": "Volautomatische CNC-onderloopdraaibanken – NCRTC",
+              "text": "Voor het eerste regionale snelle vervoerssysteem (RRTS) van India.",
+              "image": "projects/metro-depot"
+            }
           ]
+        },
+        {
+          "type": "logo_carousel"
         },
         {
           "type": "features",
@@ -143,10 +267,26 @@
           "intro": "Elke HYT-machine is ontworpen voor de realiteit van een spoorwerkplaats: zware, versleten wielen, krappe doorlooptijden en operators die duidelijke, veilige bediening nodig hebben.",
           "cols": 4,
           "items": [
-            {"icon": "rulers", "title": "Automatische profielmeting", "text": "Wieldiameter, flenshoogte en flensdikte worden vóór het verspanen gemeten, zodat alleen het noodzakelijke materiaal wordt verwijderd."},
-            {"icon": "cpu", "title": "Beproefde CNC-platforms", "text": "Industriële CNC-besturingen met spoorspecifieke cycli en profielbibliotheken op het scherm."},
-            {"icon": "bricks", "title": "Stijve machineconstructies", "text": "Zware, gelaste en spanningsarm gegloeide constructies voor stabiel verspanen op harde, versleten loopvlakken."},
-            {"icon": "shield-check", "title": "Veiligheid door ontwerp", "text": "Vergrendelde afschermingen, duidelijke bedieningszones en werkwijzen conform ISO 45001."}
+            {
+              "icon": "rulers",
+              "title": "Automatische profielmeting",
+              "text": "Wieldiameter, flenshoogte en flensdikte worden vóór het verspanen gemeten, zodat alleen het noodzakelijke materiaal wordt verwijderd."
+            },
+            {
+              "icon": "cpu",
+              "title": "Beproefde CNC-platforms",
+              "text": "Industriële CNC-besturingen met spoorspecifieke cycli en profielbibliotheken op het scherm."
+            },
+            {
+              "icon": "bricks",
+              "title": "Stijve machineconstructies",
+              "text": "Zware, gelaste en spanningsarm gegloeide constructies voor stabiel verspanen op harde, versleten loopvlakken."
+            },
+            {
+              "icon": "shield-check",
+              "title": "Veiligheid door ontwerp",
+              "text": "Vergrendelde afschermingen, duidelijke bedieningszones en werkwijzen conform ISO 45001."
+            }
           ]
         },
         {
@@ -154,27 +294,72 @@
           "eyebrow": "Nieuws & beurzen",
           "heading": "Het laatste nieuws van HYT",
           "limit": 3,
-          "link": {"label": "Al het nieuws", "page": "news"},
+          "link": {
+            "label": "Al het nieuws",
+            "page": "news"
+          },
           "items": [
-            {"title": "Volautomatische CNC-onderloopdraaibanken voor NCRTC", "date": "Order", "category": "Orders", "text": "National Capital Region Transport Corporation heeft HYT een Letter of Acceptance verstrekt voor volautomatische CNC-onderloopdraaibanken.", "page": "news"},
-            {"title": "Nieuwe CNC-tandemonderloopdraaibank voor Delhi Metro", "date": "Order", "category": "Orders", "text": "Delhi Metro Rail Corporation heeft HYT een contract gegund voor een nieuwe CNC-tandemonderloopdraaibank.", "page": "news"},
-            {"title": "In gesprek met de wereldwijde spoorsector", "date": "Beurzen", "category": "Beurzen", "text": "HYT heeft geëxposeerd op Asia Pacific Rail, Middle East Rail, Africa Rail en AusRAIL.", "page": "international-exhibitions"}
+            {
+              "title": "Volautomatische CNC-onderloopdraaibanken voor NCRTC",
+              "date": "Order",
+              "category": "Orders",
+              "text": "National Capital Region Transport Corporation heeft HYT een Letter of Acceptance verstrekt voor volautomatische CNC-onderloopdraaibanken.",
+              "page": "news"
+            },
+            {
+              "title": "Nieuwe CNC-tandemonderloopdraaibank voor Delhi Metro",
+              "date": "Order",
+              "category": "Orders",
+              "text": "Delhi Metro Rail Corporation heeft HYT een contract gegund voor een nieuwe CNC-tandemonderloopdraaibank.",
+              "page": "news"
+            },
+            {
+              "title": "In gesprek met de wereldwijde spoorsector",
+              "date": "Beurzen",
+              "category": "Beurzen",
+              "text": "HYT heeft geëxposeerd op Asia Pacific Rail, Middle East Rail, Africa Rail en AusRAIL.",
+              "page": "international-exhibitions"
+            }
           ]
         },
         {
           "type": "split_cta",
           "items": [
-            {"icon": "file-earmark-pdf", "heading": "Productcatalogus", "text": "Machineoverzichten, opties en de gegevens die wij nodig hebben voor een voorstel – in één pdf.", "label": "Naar downloads", "page": "downloads"},
-            {"icon": "lightbulb", "heading": "Kenniscentrum", "text": "Praktische handleidingen over wielprofielen, herprofileringsstrategie en werkplaatsplanning.", "label": "Lees de handleidingen", "page": "knowledge-centre"},
-            {"icon": "headset", "heading": "Aftersalesondersteuning", "text": "Vind het juiste servicecontact en houd uw machines in topconditie.", "label": "Servicenetwerk", "page": "service-centers"}
+            {
+              "icon": "file-earmark-pdf",
+              "heading": "Productcatalogus",
+              "text": "Machineoverzichten, opties en de gegevens die wij nodig hebben voor een voorstel – in één pdf.",
+              "label": "Naar downloads",
+              "page": "downloads"
+            },
+            {
+              "icon": "lightbulb",
+              "heading": "Kenniscentrum",
+              "text": "Praktische handleidingen over wielprofielen, herprofileringsstrategie en werkplaatsplanning.",
+              "label": "Lees de handleidingen",
+              "page": "knowledge-centre"
+            },
+            {
+              "icon": "headset",
+              "heading": "Aftersalesondersteuning",
+              "text": "Vind het juiste servicecontact en houd uw machines in topconditie.",
+              "label": "Servicenetwerk",
+              "page": "service-centers"
+            }
           ]
         },
         {
           "type": "cta",
           "heading": "Laten we uw volgende wielenbank of werkplaats plannen",
           "text": "Vertel ons over uw vloot, uw werkplaats en uw doelstellingen. Een applicatie-engineer van HYT komt bij u terug met een advies – geen verkooppraatje.",
-          "primary": {"label": "Bespreek uw behoefte", "page": "contact-us"},
-          "secondary": {"label": "Bekijk onze producten", "page": "products"}
+          "primary": {
+            "label": "Bespreek uw behoefte",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Bekijk onze producten",
+            "page": "products"
+          }
         }
       ]
     }

@@ -143,7 +143,7 @@ assert len({p["sr"] for p in P}) == 74
 
 # Main menu (desktop mega menu + mobile accordion). Headings are not pages.
 MENU = [
-    {"id": "about", "columns": [
+    {"id": "about", "feature": "history", "columns": [
         {"heading": "who-we-are", "items": ["about", "group-companies", "history"]},
         {"heading": "credentials", "items": ["quality", ("certifications", 1), "awards", "clientele"]},
         {"heading": "responsibility", "items": ["csr", "compliance"]},
@@ -160,22 +160,22 @@ MENU = [
             "multi-purpose-armature-machine", "automated-train-washing-plant", "rail-cum-road-vehicle-shunter"]},
         {"heading": "partner-products", "anchor": "partner-products", "items": ["skc-gleittechnik-gmbh-germany"]},
     ]},
-    {"id": "turnkey-project", "columns": [
+    {"id": "turnkey-project", "feature": "wheel-shop-automation", "columns": [
         {"items": ["executed-projects", "under-execution", "wheel-shop-automation"]}]},
-    {"id": "services", "columns": [
+    {"id": "services", "feature": "wet-leasing", "columns": [
         {"items": ["installation-commissioning", "maintenance",
                    ("operation-and-maintenance", 1), ("annual-maintenance-contract", 1),
                    ("comprehensive-annual-maintenance-contract", 1), ("operation-contract", 1),
                    ("service-contract", 1), ("spare-supply", 1)]},
         {"items": ["retro-fitment-upgradation", "repair", "shifting", "wet-leasing", "training", "service-centers"]},
     ]},
-    {"id": "industries", "columns": [
+    {"id": "industries", "feature": "ind-metros", "columns": [
         {"items": ["ind-railways", "ind-metros", "ind-rolling-stock", "ind-defence", "ind-heavy-engineering"]}]},
-    {"id": None, "label": "media", "columns": [
+    {"id": None, "label": "media", "feature": "downloads", "columns": [
         {"heading": "news-events", "items": ["news", "international-exhibitions", "domestic-exhibitions"]},
         {"heading": "resources", "items": ["blog", "knowledge-centre", "downloads"]},
     ]},
-    {"id": "work-with-us", "columns": [
+    {"id": "work-with-us", "feature": "career", "columns": [
         {"items": ["career", "supplier-registration", "memorialization"]}]},
 ]
 
@@ -203,3 +203,12 @@ REDIRECTS = [
     ("/maintainance/", "/maintenance/"),
 ]
 EXTRA_REDIRECTS = [("/installation-and-commissioning/", "/installation-commissioning/")]
+
+# Customer marks for the home-page logo carousel (verified customers only, see docs/verified-facts.md).
+# Files in hyt-website/assets/images/clients/ are neutral PLACEHOLDERS – replace with approved logos.
+CLIENTS = [
+    ("indian-railways", "Indian Railways"),
+    ("dmrc", "Delhi Metro Rail Corporation (DMRC)"),
+    ("ncrtc", "National Capital Region Transport Corporation (NCRTC)"),
+    ("state-railway-of-thailand", "State Railway of Thailand"),
+]
