@@ -41,8 +41,8 @@ add('vertical-turning-boring-machine', () => {
 });
 
 add('axle-journal-turning-burnishing-lathe', () => {
-  const s = C.shop({ cam: { pos: [0.2, 2.2, 2.3], target: [-1.35, 1.12, 0.0], fov: 42 }, hall: { craneX: -8 }, fog: 0.012 });
-  M2.axleLathe(s, F(0, 0), { burnish: true, carriageZ: 1.35 });
+  const s = C.shop({ cam: { pos: [-1.2, 1.8, 1.05], target: [-1.95, 1.1, 0.1], fov: 46 }, hall: { craneX: -8 }, fog: 0.012 });
+  M2.axleLathe(s, F(0, 0), { burnish: true, carriageZ: 2.03, rj: 0.075 });
   return C.finish(s);
 });
 

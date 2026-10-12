@@ -3,38 +3,38 @@
     "turnkey-project": {
       "nav": "Projets clés en main",
       "title": "Projets clés en main (EPC) pour ateliers ferroviaires",
-      "description": "Projets clés en main (EPC) d'ateliers de roues et de dépôts ferroviaires : implantation, génie civil, machines, installation, formation et support durable.",
+      "description": "Projets clés en main (EPC) d’ateliers de roues et de dépôts ferroviaires : implantation, génie civil, machines, installation, formation et support durable.",
       "eyebrow": "Projets clés en main",
       "h1": "Projets clés en main (EPC) pour ateliers de roues et dépôts",
-      "lede": "Lorsqu'un exploitant ferroviaire ou de métro a besoin d'un atelier de roues ou d'un dépôt complet, HYT en assume la responsabilité de la première implantation jusqu'à l'atelier en service – un contrat, un planning, un partenaire responsable.",
-      "summary": "Ateliers de roues et dépôts complets, de l'implantation et de l'interface génie civil aux machines, à la mise en service et au support sur toute la durée de vie.",
+      "lede": "Lorsqu’un exploitant ferroviaire ou de métro a besoin d’un atelier de roues ou d’un dépôt complet, HYT en assume la responsabilité de la première implantation jusqu’à l’atelier en service – un contrat, un planning, un partenaire responsable.",
+      "summary": "Ateliers de roues et dépôts complets, de l’implantation et de l’interface génie civil aux machines, à la mise en service et au support sur toute la durée de vie.",
       "blocks": [
         {
           "type": "text",
           "id": "overview",
           "eyebrow": "Ce que signifie « clés en main »",
-          "heading": "Un seul partenaire, du bâtiment vide à l'atelier en production",
+          "heading": "Un seul partenaire, du bâtiment vide à l’atelier en production",
           "paragraphs": [
-            "Un atelier de roues ou un dépôt est bien plus qu'un ensemble de machines. Les essieux montés doivent circuler de l'arrivée à la remise en service sans goulet d'étranglement, les fosses et fondations doivent correspondre au millimètre près à la conception des machines, et l'énergie électrique, l'air comprimé et les données doivent arriver au bon endroit au bon moment. Lorsque ces éléments sont achetés auprès de fournisseurs différents, les lacunes entre eux deviennent le problème du client.",
-            "Dans un projet clés en main – ou EPC (ingénierie, approvisionnement et construction) –, HYT prend la responsabilité de ces interfaces. Nous étudions votre parc et votre débit, concevons le processus et l'implantation, fournissons et intégrons les machines, coordonnons ou réalisons l'interface génie civil, puis mettons en service l'installation complète sur vos propres essieux montés.",
-            "Comme nous concevons et fabriquons nous-mêmes les machines principales, le processus, les fondations et les équipements sont étudiés ensemble dès le départ. Cela réduit les risques d'interface, raccourcit la mise en service et vous offre un interlocuteur unique responsable des performances."
+            "Un atelier de roues ou un dépôt est bien plus qu’un ensemble de machines. Les essieux montés doivent circuler de l’arrivée à la remise en service sans goulet d’étranglement, les fosses et fondations doivent correspondre au millimètre près à la conception des machines, et l’énergie électrique, l’air comprimé et les données doivent arriver au bon endroit au bon moment. Lorsque ces éléments sont achetés auprès de fournisseurs différents, les lacunes entre eux deviennent le problème du client.",
+            "Dans un projet clés en main – ou EPC (ingénierie, approvisionnement et construction) –, HYT prend la responsabilité de ces interfaces. Nous étudions votre parc et votre débit, concevons le processus et l’implantation, fournissons et intégrons les machines, coordonnons ou réalisons l’interface génie civil, puis mettons en service l’installation complète sur vos propres essieux montés.",
+            "Comme nous concevons et fabriquons nous-mêmes les machines principales, le processus, les fondations et les équipements sont étudiés ensemble dès le départ. Cela réduit les risques d’interface, raccourcit la mise en service et vous offre un interlocuteur unique responsable des performances."
           ],
           "image": "projects/railway-wheel-shop",
-          "image_alt": "Illustration d'exemple d'un atelier de roues ferroviaire avec tours à roues et essieux montés sur voies de transfert",
+          "image_alt": "Illustration d’exemple d’un atelier de roues ferroviaire avec tours à roues et essieux montés sur voies de transfert",
           "layout": "image-right"
         },
         {
           "type": "features",
           "id": "scope",
           "eyebrow": "Périmètre type",
-          "heading": "Ce que peut comprendre un projet clés en main d'atelier de roues ou de dépôt",
+          "heading": "Ce que peut comprendre un projet clés en main d’atelier de roues ou de dépôt",
           "intro": "Chaque projet est défini selon les besoins du client. Les éléments ci-dessous peuvent être combinés à la demande.",
           "cols": 3,
           "items": [
             {
               "icon": "diagram-3",
-              "title": "Ingénierie des processus et de l'implantation",
-              "text": "Analyse du parc, planification des capacités et flux d'essieux montés sans goulet d'étranglement ni manutention inutile."
+              "title": "Ingénierie des processus et de l’implantation",
+              "text": "Analyse du parc, planification des capacités et flux d’essieux montés sans goulet d’étranglement ni manutention inutile."
             },
             {
               "icon": "bricks",
@@ -59,7 +59,7 @@
             {
               "icon": "people",
               "title": "Mise en service et support",
-              "text": "Réception à l'échelle de l'installation, formation du personnel et contrats de maintenance à long terme."
+              "text": "Réception à l’échelle de l’installation, formation du personnel et contrats de maintenance à long terme."
             }
           ]
         },
@@ -72,11 +72,11 @@
           "items": [
             {
               "title": "Étude des besoins",
-              "text": "La composition du parc, les types de roues et d'essieux, les objectifs de débit et les contraintes du site sont analysés avec votre équipe."
+              "text": "La composition du parc, les types de roues et d’essieux, les objectifs de débit et les contraintes du site sont analysés avec votre équipe."
             },
             {
               "title": "Concept et implantation",
-              "text": "Le flux de processus, le choix des machines et l'implantation du bâtiment sont élaborés et validés."
+              "text": "Le flux de processus, le choix des machines et l’implantation du bâtiment sont élaborés et validés."
             },
             {
               "title": "Ingénierie de détail",
@@ -84,11 +84,11 @@
             },
             {
               "title": "Fabrication et approvisionnement",
-              "text": "Les machines sont fabriquées et testées dans nos ateliers de Pune ; les équipements achetés à l'extérieur sont approvisionnés et contrôlés."
+              "text": "Les machines sont fabriquées et testées dans nos ateliers de Pune ; les équipements achetés à l’extérieur sont approvisionnés et contrôlés."
             },
             {
               "title": "Préparation du site",
-              "text": "Les travaux de génie civil sont réalisés ou supervisés, et l'état de préparation est vérifié avant l'expédition des machines."
+              "text": "Les travaux de génie civil sont réalisés ou supervisés, et l’état de préparation est vérifié avant l’expédition des machines."
             },
             {
               "title": "Installation et intégration",
@@ -96,7 +96,7 @@
             },
             {
               "title": "Mise en service et réception",
-              "text": "L'installation fait ses preuves sur vos propres essieux montés, selon des critères de performance convenus."
+              "text": "L’installation fait ses preuves sur vos propres essieux montés, selon des critères de performance convenus."
             },
             {
               "title": "Formation, remise et support",
@@ -107,19 +107,19 @@
         {
           "type": "text",
           "id": "why-hyt",
-          "eyebrow": "Pourquoi c'est important",
-          "heading": "Moins d'interfaces, moins de risques, une production plus tôt",
+          "eyebrow": "Pourquoi c’est important",
+          "heading": "Moins d’interfaces, moins de risques, une production plus tôt",
           "paragraphs": [
-            "La plupart des retards dans les projets d'ateliers surviennent aux interfaces : une fosse qui ne correspond pas à la machine, une alimentation électrique livrée en retard, un système de manutention qui n'atteint pas un poste de travail. Un partenaire clés en main unique élimine ces interfaces dès la conception, avant le début des travaux.",
+            "La plupart des retards dans les projets d’ateliers surviennent aux interfaces : une fosse qui ne correspond pas à la machine, une alimentation électrique livrée en retard, un système de manutention qui n’atteint pas un poste de travail. Un partenaire clés en main unique élimine ces interfaces dès la conception, avant le début des travaux.",
             "Pour les [réseaux ferroviaires](page:ind-railways), les [métros](page:ind-metros) et les [constructeurs de matériel roulant](page:ind-rolling-stock), le résultat est une installation qui entre plus tôt en production et fonctionne comme prévu – avec une seule organisation qui en répond."
           ],
           "bullets": [
             "Processus, fondations et machines étudiés ensemble",
-            "Un seul planning et un seul interlocuteur pour toute l'installation",
+            "Un seul planning et un seul interlocuteur pour toute l’installation",
             "Un support sur toute la durée de vie, assuré par le constructeur des machines"
           ],
           "image": "projects/pit-foundation-civil-works",
-          "image_alt": "Illustration d'exemple de travaux de fosse et de fondations en préparation pour des tours à roues dans un nouveau dépôt",
+          "image_alt": "Illustration d’exemple de travaux de fosse et de fondations en préparation pour des tours à roues dans un nouveau dépôt",
           "layout": "image-left"
         },
         {
@@ -148,7 +148,7 @@
           "heading": "Vous prévoyez un nouvel atelier de roues ou un nouveau dépôt ?",
           "text": "Communiquez-nous votre parc, vos objectifs de débit et vos plans de site. Nos ingénieurs projet vous proposeront un concept et les étapes pour le réaliser.",
           "primary": {
-            "label": "Parlez-nous de votre besoin",
+            "label": "Parlons de votre projet",
             "page": "contact-us"
           },
           "secondary": {
@@ -161,16 +161,16 @@
     "executed-projects": {
       "nav": "Projets réalisés",
       "title": "Projets réalisés – machines-outils ferroviaires",
-      "description": "Références HYT : tours verticaux CNC pour l'atelier EMU de Sanpada (Mumbai) et la State Railway of Thailand, ainsi que des tours en fosse pour essieux montés.",
+      "description": "Références HYT : tours verticaux CNC pour l’atelier EMU de Sanpada (Mumbai) et la State Railway of Thailand, ainsi que des tours en fosse pour essieux montés.",
       "eyebrow": "Projets clés en main",
       "h1": "Projets réalisés",
-      "lede": "Une sélection de machines fournies par HYT à des ateliers ferroviaires en Inde et à l'étranger. Chaque fiche présente les informations que nous sommes autorisés à publier.",
-      "summary": "Machines et projets livrés par HYT à des ateliers ferroviaires en Inde et à l'étranger.",
+      "lede": "Une sélection de machines fournies par HYT à des ateliers ferroviaires en Inde et à l’étranger. Chaque fiche présente les informations que nous sommes autorisés à publier.",
+      "summary": "Machines et projets livrés par HYT à des ateliers ferroviaires en Inde et à l’étranger.",
       "blocks": [
         {
           "type": "notice",
           "variant": "review",
-          "text": "À fournir par HYT : la liste complète des projets réalisés approuvés, avec année d'achèvement, périmètre, photographies et autorisation écrite de publication du client. HYT doit également confirmer si le contrat Indian Railways portant sur neuf tours en fosse CNC est terminé (Réalisé) ou toujours en cours (En cours de réalisation)."
+          "text": "À fournir par HYT : la liste complète des projets réalisés approuvés, avec année d’achèvement, périmètre, photographies et autorisation écrite de publication du client. HYT doit également confirmer si le contrat Indian Railways portant sur neuf tours en fosse CNC est terminé (Réalisé) ou toujours en cours (En cours de réalisation)."
         },
         {
           "type": "text",
@@ -194,13 +194,13 @@
               "location": "Mumbai, Inde",
               "status_key": "executed",
               "image": "projects/emu-car-shed",
-              "image_alt": "Illustration d'exemple d'un atelier de maintenance EMU avec des trains de banlieue en maintenance",
+              "image_alt": "Illustration d’exemple d’un atelier de maintenance EMU avec des trains de banlieue en maintenance",
               "scope": [
-                "Fourniture d'un tour vertical CNC",
+                "Fourniture d’un tour vertical CNC",
                 "Machine conçue et fabriquée dans les ateliers HYT de Pune",
-                "Capacité d'usinage des roues en interne pour l'atelier"
+                "Capacité d’usinage des roues en interne pour l’atelier"
               ],
-              "text": "Les parcs d'automotrices EMU de banlieue circulent selon des horaires intensifs : chaque essieu monté rapidement remis en service compte. Un tour vertical CNC donne à l'atelier sa propre capacité d'usinage des roues au profil, avec précision et répétabilité, sans dépendre d'ateliers extérieurs.",
+              "text": "Les parcs d’automotrices EMU de banlieue circulent selon des horaires intensifs : chaque essieu monté rapidement remis en service compte. Un tour vertical CNC donne à l’atelier sa propre capacité d’usinage des roues au profil, avec précision et répétabilité, sans dépendre d’ateliers extérieurs.",
               "products": [
                 "vertical-turning-boring-machine"
               ]
@@ -212,13 +212,13 @@
               "location": "Bangkok, Thaïlande",
               "status_key": "executed",
               "image": "projects/railway-wheel-shop",
-              "image_alt": "Illustration d'exemple d'un atelier de roues ferroviaire équipé d'un tour vertical",
+              "image_alt": "Illustration d’exemple d’un atelier de roues ferroviaire équipé d’un tour vertical",
               "scope": [
-                "Fourniture d'un tour vertical à tourelle CNC",
+                "Fourniture d’un tour vertical à tourelle CNC",
                 "Installation sur le site du client à Bangkok",
                 "Machine conçue et fabriquée dans les ateliers HYT de Pune"
               ],
-              "text": "HYT a fourni et installé un tour vertical à tourelle CNC pour la State Railway of Thailand à Bangkok. Ce projet montre que les machines et le support d'ingénierie HYT servent des exploitants ferroviaires au-delà de l'Inde.",
+              "text": "HYT a fourni et installé un tour vertical à tourelle CNC pour la State Railway of Thailand à Bangkok. Ce projet montre que les machines et le support d’ingénierie HYT servent des exploitants ferroviaires au-delà de l’Inde.",
               "products": [
                 "vertical-turning-boring-machine"
               ]
@@ -230,13 +230,13 @@
               "location": "Inde",
               "status_key": "executed",
               "image": "products/underfloor-wheel-lathe-yul-08",
-              "image_alt": "Illustration d'exemple d'un tour en fosse CNC installé dans la fosse d'un dépôt",
+              "image_alt": "Illustration d’exemple d’un tour en fosse CNC installé dans la fosse d’un dépôt",
               "scope": [
                 "Contrat de fourniture de neuf tours en fosse CNC",
-                "Machines qui reprofilent les deux roues d'un essieu monté sans le déposer du véhicule",
+                "Machines qui reprofilent les deux roues d’un essieu monté sans le déposer du véhicule",
                 "Périmètre type des tours en fosse : plans de fosse, installation, mise en service et formation"
               ],
-              "text": "Indian Railways a attribué à HYT un contrat de fourniture de neuf tours en fosse CNC. Les tours en fosse rétablissent le profil des roues sans retirer l'essieu monté du véhicule : locomotives et voitures reprennent le service sans dépose des bogies.",
+              "text": "Indian Railways a attribué à HYT un contrat de fourniture de neuf tours en fosse CNC. Les tours en fosse rétablissent le profil des roues sans retirer l’essieu monté du véhicule : locomotives et voitures reprennent le service sans dépose des bogies.",
               "products": [
                 "underfloor-wheel-lathe"
               ]
@@ -248,7 +248,7 @@
           "heading": "Vous prévoyez un projet similaire ?",
           "text": "Présentez-nous votre parc et votre atelier. Nous vous recommanderons les machines adaptées et partagerons notre expérience pertinente.",
           "primary": {
-            "label": "Parlez-nous de votre besoin",
+            "label": "Parlons de votre projet",
             "page": "contact-us"
           },
           "secondary": {
@@ -270,7 +270,7 @@
         {
           "type": "notice",
           "variant": "review",
-          "text": "À confirmer par HYT : statut actuel, périmètre et informations publiables (photographies, autorisation du client) pour chaque projet. Note interne : lorsqu'un projet est terminé, déplacer sa section vers Projets réalisés."
+          "text": "À confirmer par HYT : statut actuel, périmètre et informations publiables (photographies, autorisation du client) pour chaque projet. Note interne : lorsqu’un projet est terminé, déplacer sa section vers Projets réalisés."
         },
         {
           "type": "text",
@@ -278,8 +278,8 @@
           "eyebrow": "En cours",
           "heading": "Des machines pour des parcs urbains à haute fréquence",
           "paragraphs": [
-            "Les rames de métro et de transport rapide assurent des services fréquents avec des temps de retournement courts. Leurs roues s'usent vite et doivent être remises en état sans immobiliser les trains longtemps. Les tours en fosse, simples ou en tandem, sont conçus précisément pour cette tâche.",
-            "Ce type de projet suit généralement l'ensemble du processus HYT : ingénierie, fabrication dans nos ateliers de Pune, préparation du site, installation, mise en service et formation. Les projets terminés figurent dans les [projets réalisés](page:executed-projects)."
+            "Les rames de métro et de transport rapide assurent des services fréquents avec des temps de retournement courts. Leurs roues s’usent vite et doivent être remises en état sans immobiliser les trains longtemps. Les tours en fosse, simples ou en tandem, sont conçus précisément pour cette tâche.",
+            "Ce type de projet suit généralement l’ensemble du processus HYT : ingénierie, fabrication dans nos ateliers de Pune, préparation du site, installation, mise en service et formation. Les projets terminés figurent dans les [projets réalisés](page:executed-projects)."
           ]
         },
         {
@@ -294,13 +294,13 @@
               "location": "Région de la capitale nationale (NCR), Inde",
               "status_key": "under-execution",
               "image": "projects/metro-depot",
-              "image_alt": "Illustration d'exemple d'un dépôt de transport rapide avec un train au-dessus d'un tour en fosse",
+              "image_alt": "Illustration d’exemple d’un dépôt de transport rapide avec un train au-dessus d’un tour en fosse",
               "scope": [
-                "Lettre d'acceptation (Letter of Acceptance) émise à HYT pour des tours en fosse CNC entièrement automatiques",
+                "Lettre d’acceptation (Letter of Acceptance) émise à HYT pour des tours en fosse CNC entièrement automatiques",
                 "Reprofilage des essieux montés sous le véhicule, sans dépose des bogies",
                 "Périmètre type des tours en fosse : plans de fosse, installation, mise en service et formation"
               ],
-              "text": "National Capital Region Transport Corporation a émis à HYT une lettre d'acceptation pour des tours en fosse CNC entièrement automatiques. Pour un parc de transport rapide régional, les cycles automatiques de mesure et d'usinage permettent un reprofilage rapide, homogène et économe en matière de roue.",
+              "text": "National Capital Region Transport Corporation a émis à HYT une lettre d’acceptation pour des tours en fosse CNC entièrement automatiques. Pour un parc de transport rapide régional, les cycles automatiques de mesure et d’usinage permettent un reprofilage rapide, homogène et économe en matière de roue.",
               "products": [
                 "underfloor-wheel-lathe"
               ]
@@ -312,13 +312,13 @@
               "location": "Delhi, Inde",
               "status_key": "under-execution",
               "image": "products/tandem-underfloor-wheel-lathe-yul-12t",
-              "image_alt": "Illustration d'exemple de deux tours en fosse synchronisés sous un bogie de métro",
+              "image_alt": "Illustration d’exemple de deux tours en fosse synchronisés sous un bogie de métro",
               "scope": [
-                "Attribution d'un nouveau tour en fosse tandem CNC",
-                "Deux machines synchronisées qui reprofilent les deux essieux montés d'un bogie en un seul positionnement",
+                "Attribution d’un nouveau tour en fosse tandem CNC",
+                "Deux machines synchronisées qui reprofilent les deux essieux montés d’un bogie en un seul positionnement",
                 "Périmètre type des tours en fosse : plans de fosse, installation, mise en service et formation"
               ],
-              "text": "Delhi Metro Rail Corporation a attribué à HYT un contrat pour un nouveau tour en fosse tandem CNC. Une machine tandem reprofile simultanément les deux essieux montés d'un bogie, ce qui réduit le temps d'immobilisation de chaque train sur le tour.",
+              "text": "Delhi Metro Rail Corporation a attribué à HYT un contrat pour un nouveau tour en fosse tandem CNC. Une machine tandem reprofile simultanément les deux essieux montés d’un bogie, ce qui réduit le temps d’immobilisation de chaque train sur le tour.",
               "products": [
                 "tandem-underfloor-wheel-lathe"
               ]
@@ -328,9 +328,9 @@
         {
           "type": "cta",
           "heading": "Vous souhaitez augmenter la capacité de reprofilage de votre dépôt ?",
-          "text": "Échangez avec nos ingénieurs d'application sur les tours en fosse simples ou tandem adaptés à votre parc.",
+          "text": "Échangez avec nos ingénieurs d’application sur les tours en fosse simples ou tandem adaptés à votre parc.",
           "primary": {
-            "label": "Parlez-nous de votre besoin",
+            "label": "Parlons de votre projet",
             "page": "contact-us"
           },
           "secondary": {
@@ -341,18 +341,18 @@
       ]
     },
     "wheel-shop-automation": {
-      "nav": "Automatisation d'atelier de roues",
+      "nav": "Automatisation d’atelier de roues",
       "title": "Automatisation des ateliers de roues ferroviaires",
       "description": "Manutention automatisée des essieux montés, mesure, échange de données entre machines et traçabilité pour ateliers de roues, autour des machines HYT.",
       "eyebrow": "Projets clés en main",
       "h1": "Automatisation des ateliers de roues",
-      "lede": "L'automatisation relie les machines d'un atelier de roues en un seul processus : les essieux montés circulent en toute sécurité entre les postes, les mesures passent d'une machine à l'autre et chaque composant dispose d'un historique complet.",
+      "lede": "L’automatisation relie les machines d’un atelier de roues en un seul processus : les essieux montés circulent en toute sécurité entre les postes, les mesures passent d’une machine à l’autre et chaque composant dispose d’un historique complet.",
       "summary": "Manutention automatisée des essieux montés, mesure, flux de données et traçabilité qui transforment des machines isolées en un processus connecté.",
       "blocks": [
         {
           "type": "notice",
           "variant": "review",
-          "text": "À confirmer par HYT : le périmètre d'automatisation proposé (équipements de manutention, logiciels et intégration des données) et les éventuelles installations de référence pouvant être citées sur cette page."
+          "text": "À confirmer par HYT : le périmètre d’automatisation proposé (équipements de manutention, logiciels et intégration des données) et les éventuelles installations de référence pouvant être citées sur cette page."
         },
         {
           "type": "text",
@@ -360,25 +360,25 @@
           "eyebrow": "Pourquoi automatiser",
           "heading": "De machines isolées à un processus connecté",
           "paragraphs": [
-            "Dans de nombreux ateliers de roues, chaque machine fonctionne bien seule, mais pas le processus qui les relie. Les essieux montés lourds sont déplacés au pont roulant et à la main, les mesures sont notées puis ressaisies, et l'appairage de l'alésage d'une roue avec la portée de calage d'un essieu repose sur une gestion documentaire rigoureuse. Chaque étape manuelle coûte du temps et ajoute un risque d'erreur sur un composant critique pour la sécurité.",
-            "L'automatisation d'un atelier de roues est une solution, pas une machine unique. Elle relie mesure, usinage, calage et équilibrage afin que les essieux montés circulent en toute sécurité entre les postes, que les données passent directement d'une machine à la suivante et que chaque roue et chaque essieu soient traçables de la réception à la remise en service.",
-            "Cette approche convient aux ateliers de roues [ferroviaires](page:ind-railways) et de [métro](page:ind-metros) ainsi qu'aux [constructeurs de matériel roulant](page:ind-rolling-stock) – partout où le débit, la régularité et la traçabilité comptent."
+            "Dans de nombreux ateliers de roues, chaque machine fonctionne bien seule, mais pas le processus qui les relie. Les essieux montés lourds sont déplacés au pont roulant et à la main, les mesures sont notées puis ressaisies, et l’appairage de l’alésage d’une roue avec la portée de calage d’un essieu repose sur une gestion documentaire rigoureuse. Chaque étape manuelle coûte du temps et ajoute un risque d’erreur sur un composant critique pour la sécurité.",
+            "L’automatisation d’un atelier de roues est une solution, pas une machine unique. Elle relie mesure, usinage, calage et équilibrage afin que les essieux montés circulent en toute sécurité entre les postes, que les données passent directement d’une machine à la suivante et que chaque roue et chaque essieu soient traçables de la réception à la remise en service.",
+            "Cette approche convient aux ateliers de roues [ferroviaires](page:ind-railways) et de [métro](page:ind-metros) ainsi qu’aux [constructeurs de matériel roulant](page:ind-rolling-stock) – partout où le débit, la régularité et la traçabilité comptent."
           ],
           "image": "projects/wheel-shop-automation-line",
-          "image_alt": "Illustration d'exemple d'une ligne automatisée d'atelier de roues avec des essieux montés circulant entre les machines",
+          "image_alt": "Illustration d’exemple d’une ligne automatisée d’atelier de roues avec des essieux montés circulant entre les machines",
           "layout": "image-right"
         },
         {
           "type": "features",
           "id": "building-blocks",
           "eyebrow": "Briques fonctionnelles",
-          "heading": "Quatre éléments d'un atelier de roues automatisé",
+          "heading": "Quatre éléments d’un atelier de roues automatisé",
           "cols": 4,
           "items": [
             {
               "icon": "arrows-move",
               "title": "Manutention automatisée",
-              "text": "Transfert des essieux montés et des composants entre les postes avec moins d'opérations au pont roulant et de levages manuels."
+              "text": "Transfert des essieux montés et des composants entre les postes avec moins d’opérations au pont roulant et de levages manuels."
             },
             {
               "icon": "rulers",
@@ -388,12 +388,12 @@
             {
               "icon": "diagram-3",
               "title": "Flux de données entre machines",
-              "text": "Valeurs mesurées transmises directement à la machine suivante – par exemple les cotes d'alésage et de portée utilisées pour le calage."
+              "text": "Valeurs mesurées transmises directement à la machine suivante – par exemple les cotes d’alésage et de portée utilisées pour le calage."
             },
             {
               "icon": "upc-scan",
               "title": "Traçabilité",
-              "text": "Chaque composant est identifié, et ses relevés de mesure, d'usinage et de calage sont conservés ensemble."
+              "text": "Chaque composant est identifié, et ses relevés de mesure, d’usinage et de calage sont conservés ensemble."
             }
           ]
         },
@@ -401,11 +401,11 @@
           "type": "steps",
           "id": "process",
           "eyebrow": "Flux de processus",
-          "heading": "Le parcours d'un essieu monté dans un atelier automatisé",
+          "heading": "Le parcours d’un essieu monté dans un atelier automatisé",
           "items": [
             {
               "title": "Réception et identification",
-              "text": "Roues, essieux ou essieux montés sont identifiés et enregistrés à leur entrée dans l'atelier."
+              "text": "Roues, essieux ou essieux montés sont identifiés et enregistrés à leur entrée dans l’atelier."
             },
             {
               "title": "Mesure",
@@ -413,11 +413,11 @@
             },
             {
               "title": "Usinage",
-              "text": "Les roues sont usinées sur un [tour vertical CNC](page:vertical-turning-boring-machine) ; les essieux sur des tours de [tournage d'essieux](page:axle-turning-lathe) et de [galetage des fusées](page:axle-journal-turning-burnishing-lathe)."
+              "text": "Les roues sont usinées sur un [tour vertical CNC](page:vertical-turning-boring-machine) ; les essieux sur des tours de [tournage d’essieux](page:axle-turning-lathe) et de [galetage des fusées](page:axle-journal-turning-burnishing-lathe)."
             },
             {
               "title": "Calage",
-              "text": "Une [presse à caler les roues](page:wheel-presses) monte les roues sur l'essieu, l'enregistrement du calage étant associé aux composants."
+              "text": "Une [presse à caler les roues](page:wheel-presses) monte les roues sur l’essieu, l’enregistrement du calage étant associé aux composants."
             },
             {
               "title": "Équilibrage",
@@ -425,31 +425,31 @@
             },
             {
               "title": "Contrôle final et remise en service",
-              "text": "L'historique complet accompagne l'essieu monté en service."
+              "text": "L’historique complet accompagne l’essieu monté en service."
             }
           ]
         },
         {
           "type": "projects",
           "id": "solution",
-          "heading": "La solution en un coup d'œil",
+          "heading": "La solution en un coup d’œil",
           "items": [
             {
               "id": "automated-wheel-shop",
-              "title": "Atelier automatisé de roues et d'essieux",
+              "title": "Atelier automatisé de roues et d’essieux",
               "client": "Ateliers de roues ferroviaires et de métro, constructeurs de matériel roulant",
               "location": "Configuré pour chaque site",
               "status_key": "solution",
               "image": "projects/wheel-shop-automation-line",
-              "image_alt": "Illustration d'exemple d'un atelier de roues et d'essieux connecté avec manutention automatisée",
+              "image_alt": "Illustration d’exemple d’un atelier de roues et d’essieux connecté avec manutention automatisée",
               "scope": [
-                "Ingénierie des processus et de l'implantation pour le débit requis",
-                "Machines de mesure, d'usinage, de calage et d'équilibrage",
+                "Ingénierie des processus et de l’implantation pour le débit requis",
+                "Machines de mesure, d’usinage, de calage et d’équilibrage",
                 "Manutention des essieux montés et des composants entre les postes",
                 "Échange de données entre machines et traçabilité des composants",
                 "Installation, mise en service et formation du personnel"
               ],
-              "text": "L'automatisation peut être introduite par étapes : connecter d'abord les machines et leurs données, puis ajouter la manutention à mesure que le débit augmente. Chaque étape est planifiée pour que l'atelier continue de produire pendant sa modernisation.",
+              "text": "L’automatisation peut être introduite par étapes : connecter d’abord les machines et leurs données, puis ajouter la manutention à mesure que le débit augmente. Chaque étape est planifiée pour que l’atelier continue de produire pendant sa modernisation.",
               "products": [
                 "wheel-measuring-station",
                 "vertical-turning-boring-machine",
@@ -489,9 +489,9 @@
         {
           "type": "cta",
           "heading": "Prêt à connecter votre atelier de roues ?",
-          "text": "Présentez-nous vos machines actuelles, votre débit et vos objectifs. Nous vous indiquerons où l'automatisation apportera le plus – en modernisation autonome ou dans le cadre d'un [projet clés en main](page:turnkey-project).",
+          "text": "Présentez-nous vos machines actuelles, votre débit et vos objectifs. Nous vous indiquerons où l’automatisation apportera le plus – en modernisation autonome ou dans le cadre d’un [projet clés en main](page:turnkey-project).",
           "primary": {
-            "label": "Parlez-nous de votre besoin",
+            "label": "Parlons de votre projet",
             "page": "contact-us"
           },
           "secondary": {

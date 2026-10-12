@@ -145,3 +145,18 @@
 @media (max-width: 1199.98px) {
   html.nav-open .navbar-hyt { z-index: 4; }
 }
+
+/* Keep long German/French/Dutch/Italian menu labels on one line */
+@media (min-width: 1200px) {
+  .nav-main__link { white-space: nowrap; }
+  .nav-cta { white-space: nowrap; }
+}
+@media (min-width: 1200px) and (max-width: 1439.98px) {
+  .navbar-hyt__inner { gap: 1rem; }
+  .brand__logo { height: 50px; }
+  .nav-main__link { font-size: 0.9rem; padding-left: 0.5rem; }
+  .nav-main__link::after { left: 0.5rem; }
+  .nav-main__link--button { padding-right: 0.5rem; }
+  .nav-main__toggle { padding-right: 0.35rem; }
+  .nav-cta { padding-left: 0.85rem; padding-right: 0.85rem; font-size: 0.9rem; }
+}

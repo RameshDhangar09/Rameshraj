@@ -11,7 +11,7 @@ function hero() {
   s.setCamera({ pos: [13.2, 3.3, 8.6], target: [2.6, 1.0, -1.2], fov: 40 });
   const pitR = [-1.5, 10.5, -2.3, 2.3];
   K.hall(s, { x0: -40, x1: 22, z0: -13, z1: 12, h: 11, holes: [pitR], craneX: -6, hookY: 6 });
-  const pt = K.pit(s, pitR, 1.7, { wall: '#8a9097', floor: '#6f757c' });
+  const pt = K.pit(s, pitR, 1.7, { wall: '#7a8188', floor: '#5d636a' });
   K.setPitClip(s, [pt.clip]);
   for (const sg of [-1, 1]) { K.embeddedRail(s, -40, pitR[0], sg * 0.873); K.embeddedRail(s, pitR[1], 22, sg * 0.873); }
   M.pitRails(s, pitR[0], pitR[1], 0, 'BG', { gap: [5.5, 8.1], depth: 1.7 });
@@ -27,6 +27,7 @@ function hero() {
   K.floorLine(s, [-40, 0, 4.2], [22, 0, 4.2], 0.1);
   K.floorLine(s, [-40, 0, -4.2], [22, 0, -4.2], 0.1);
   K.shafts(s, [[[ -6, 9, -12.9], [-1, 9, -12.9], [-1, 6, -12.9], [-6, 6, -12.9]], [[2, 9, -12.9], [7, 9, -12.9], [7, 6, -12.9], [2, 6, -12.9]], [[10, 9, -12.9], [15, 9, -12.9], [15, 6, -12.9], [10, 6, -12.9]]], [-0.35, -0.85, 0.25], { op: 0.3 });
+  K.glow(s, 0.6, 0.74, 0.07, '#ffd9a0', 0.22);
   K.overlayGradient(s, [[0, '#0b1a2e', 0.78], [0.3, '#0f223a', 0.55], [0.5, '#142D4E', 0.12], [0.62, '#142D4E', 0]]);
   K.vignette(s, 0.3);
   return s.toSVG();

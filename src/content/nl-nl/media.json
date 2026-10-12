@@ -410,7 +410,7 @@
     "knowledge-centre": {
       "nav": "Kenniscentrum",
       "title": "Kenniscentrum – wielslijtage en wielenbanken",
-      "description": "Praktische handleidingen over wielslijtage, de keuze tussen onderloop-, portaal- en bovenvloerse wielenbanken, putplanning en langere wiellevensduur.",
+      "description": "Praktische handleidingen over wielslijtage, de keuze tussen onderloop-, portaal- en vloerwielenbanken, putplanning en langere wiellevensduur.",
       "eyebrow": "Media & documentatie",
       "h1": "Kenniscentrum: wielslijtage, herprofileren en planning van wielenbanken",
       "lede": "Praktische, leveranciersonafhankelijke informatie voor engineers en managers die verantwoordelijk zijn voor wielstellen – van het herkennen van slijtage tot het plannen van de machine die haar corrigeert.",
@@ -434,7 +434,7 @@
               "anchor": "choosing-a-lathe",
               "icon": "gear-wide-connected",
               "title": "Zo kiest u een wielenbank",
-              "text": "Onderloop-, portaal- en bovenvloerse wielenbanken vergeleken."
+              "text": "Onderloop-, portaal- en vloerwielenbanken vergeleken."
             },
             {
               "page": "knowledge-centre",
@@ -482,7 +482,7 @@
           "type": "table",
           "id": "choosing-a-lathe",
           "heading": "Onderloop, portaal of bovenvloers: zo kiest u een wielenbank",
-          "intro": "De juiste machine hangt minder af van de draaibank zelf dan van de plek waar het wielstel zich bevindt wanneer het bewerkt moet worden. Blijven wielstellen in het voertuig, dan bespaart een onderloopdraaibank de meeste tijd. Zijn ze al uitgebouwd – in een wielstelwerkplaats of tijdens revisie – dan ligt een portaal- of bovenvloerse wielenbank voor de hand.",
+          "intro": "De juiste machine hangt minder af van de draaibank zelf dan van de plek waar het wielstel zich bevindt wanneer het bewerkt moet worden. Blijven wielstellen in het voertuig, dan bespaart een onderloopdraaibank de meeste tijd. Zijn ze al uitgebouwd – in een wielstelwerkplaats of tijdens revisie – dan ligt een portaal- of vloerwielenbank voor de hand.",
           "columns": [
             "Vraag",
             "Onderloopdraaibank",
@@ -527,7 +527,7 @@
               "YSL-08 / YSL-12 / YSL-21"
             ]
           ],
-          "note": "Veel vervoerders combineren beide benaderingen: een onderloopdraaibank houdt de vloot tussen revisies door rijdend, terwijl een portaal- of bovenvloerse wielenbank de wielstellen verwerkt die bij zwaar onderhoud worden uitgebouwd.",
+          "note": "Veel vervoerders combineren beide benaderingen: een onderloopdraaibank houdt de vloot tussen revisies door rijdend, terwijl een portaal- of vloerwielenbank de wielstellen verwerkt die bij zwaar onderhoud worden uitgebouwd.",
           "link": {
             "label": "Vergelijk alle wielenbanken",
             "page": "products",
@@ -540,7 +540,7 @@
           "heading": "Enkel of tandem, één draaibank of twee",
           "paragraphs": [
             "Weet u welke familie past, dan is de volgende vraag de capaciteit. Een enkele [onderloopdraaibank](page:underfloor-wheel-lathe) bewerkt één wielstel tegelijk. Een [tandem-onderloopdraaibank](page:tandem-underfloor-wheel-lathe) combineert twee gesynchroniseerde machines, zodat beide wielstellen van een draaistel in één opspanning worden bewerkt – de juiste keuze wanneer lange treinen binnen een krap tijdvenster weer in dienst moeten.",
-            "Voor wielstellen die al zijn uitgebouwd vergelijkt u de [portaalwielenbank](page:portal-wheel-lathe), de [portaalwielenbank met rollenaandrijving](page:roller-type-portal-wheel-lathe) en de [bovenvloerse wielenbank](page:surface-wheel-lathe). Baseer de keuze op het aantal wielstellen per dienst, het bereik aan diameters en aslengtes, de vraag of remschijven bewerkt moeten worden en de manier waarop wielstellen de machine bereiken.",
+            "Voor wielstellen die al zijn uitgebouwd vergelijkt u de [portaalwielenbank](page:portal-wheel-lathe), de [portaalwielenbank met rollenaandrijving](page:roller-type-portal-wheel-lathe) en de [vloerwielenbank](page:surface-wheel-lathe). Baseer de keuze op het aantal wielstellen per dienst, het bereik aan diameters en aslengtes, de vraag of remschijven bewerkt moeten worden en de manier waarop wielstellen de machine bereiken.",
             "Dimensioneer de installatie voor de vloot die u straks heeft, niet alleen voor de vloot van vandaag. Een tweede machine later toevoegen is veel eenvoudiger als put, spoor en voorzieningen daar vanaf het begin op zijn ingericht."
           ],
           "image": "products/tandem-underfloor-wheel-lathe-yul-12t",
@@ -649,7 +649,7 @@
             },
             {
               "q": "Moeten beide wielen van een as samen worden bewerkt?",
-              "a": "In de praktijk wel. De twee wielen van een as moeten binnen een nauwe diametertolerantie van elkaar blijven, anders stuurt het wielstel niet correct. Onderloop-, portaal- en bovenvloerse wielenbanken bewerken beide wielen in één opspanning."
+              "a": "In de praktijk wel. De twee wielen van een as moeten binnen een nauwe diametertolerantie van elkaar blijven, anders stuurt het wielstel niet correct. Onderloop-, portaal- en vloerwielenbanken bewerken beide wielen in één opspanning."
             },
             {
               "q": "Wanneer loont een tandem-onderloopdraaibank?",
@@ -657,7 +657,7 @@
             },
             {
               "q": "Kunnen remschijven op een wielenbank worden bewerkt?",
-              "a": "Bij geschikte configuraties wel. Asremschijven kunnen worden bewerkt op sommige bovenvloerse wielenbanken en op onderloopdraaibanken die met die optie zijn uitgevoerd. Geef deze eis al in de aanvraagfase door."
+              "a": "Bij geschikte configuraties wel. Asremschijven kunnen worden bewerkt op sommige vloerwielenbanken en op onderloopdraaibanken die met die optie zijn uitgevoerd. Geef deze eis al in de aanvraagfase door."
             },
             {
               "q": "Hoe lang duurt het plannen en installeren van een onderloopdraaibank?",

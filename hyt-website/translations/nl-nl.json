@@ -12,7 +12,7 @@
     "who-we-are": "Wie we zijn",
     "credentials": "Certificeringen & referenties",
     "responsibility": "Verantwoordelijkheid",
-    "wheel-lathes": "Wielsteldraaibanken",
+    "wheel-lathes": "Wielenbanken",
     "wheel-axle-shop-machines": "Machines voor de wielstelwerkplaats",
     "depot-workshop-equipment": "Depot- en werkplaatsuitrusting",
     "partner-products": "Partnerproducten",
@@ -77,7 +77,7 @@
   },
   "categories": {
     "all": "Alle producten",
-    "wheel-lathes": "Wielsteldraaibanken",
+    "wheel-lathes": "Wielenbanken",
     "wheel-axle-shop-machines": "Machines voor de wielstelwerkplaats",
     "depot-workshop-equipment": "Depot- en werkplaatsuitrusting",
     "partner-products": "Partnerproducten",
@@ -235,7 +235,7 @@
     "Overig"
   ],
   "footer": {
-    "about": "HYT Engineering ontwerpt en bouwt CNC-wielsteldraaibanken, machines voor de wielstelwerkplaats en complete spoorwerkplaatsen – en ondersteunt deze gedurende hun volledige levensduur.",
+    "about": "HYT Engineering ontwerpt en bouwt CNC-wielenbanken, machines voor de wielstelwerkplaats en complete spoorwerkplaatsen – en ondersteunt deze gedurende hun volledige levensduur.",
     "company": "Bedrijf",
     "products": "Producten & projecten",
     "services": "Diensten",
@@ -260,7 +260,7 @@
   },
   "sitemap": {
     "search_label": "Pagina’s doorzoeken",
-    "search_placeholder": "Typ om te filteren, bijv. wielsteldraaibank",
+    "search_placeholder": "Typ om te filteren, bijv. wielenbank",
     "no_results": "Geen pagina’s gevonden voor uw zoekopdracht."
   },
   "notice": {

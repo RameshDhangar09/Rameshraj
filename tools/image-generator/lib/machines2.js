@@ -195,17 +195,18 @@ function axleLathe(s, f, o = {}) {
   CY(s, f, [0, cy, 2.4], [0, cy, 2.2], 0.12, '#aab0b7', MAT.chrome, { seg: 20 });
   CY(s, f, [0, cy, 2.2], [0, cy, 2.12], 0.06, '#c3c8ce', MAT.chrome, { seg: 16, r1: 0.015 });
   // axle (bare)
-  const ax = (z0, z1, r, col = '#a3aab1', mat = MAT.chrome) => CY(s, f, [0, cy, z0], [0, cy, z1], r, col, mat, { seg: 36 });
+  const ax = (z0, z1, r, col = '#a3aab1', mat = MAT.chrome) => CY(s, f, [0, cy, z0], [0, cy, z1], r, col, mat, { seg: 64 });
   ax(-2.2, -1.95, 0.075); ax(-1.95, -1.75, 0.09); ax(-1.75, -0.95, 0.105, '#b5bbc2'); ax(-0.95, 0.95, 0.095, '#8f969e', MAT.steel); ax(0.95, 1.75, 0.105, '#b5bbc2'); ax(1.75, 1.95, 0.09); ax(1.95, 2.12, 0.075);
   // carriage with tool or burnishing roller
   const cz = o.carriageZ ?? 1.3;
-  B(s, f, [-0.35, 0.95, cz - 0.4], [0.75, 1.0, cz + 0.4], '#3a3f45', MAT.dark);
+  B(s, f, [-0.35, 0.95, cz - (o.burnish ? 0.25 : 0.4)], [0.75, 1.0, cz + (o.burnish ? 0.25 : 0.4)], '#3a3f45', MAT.dark);
   if (!o.burnish) CH(s, f, 0.15, 1.0, 0.9, 1.35, cz - 0.3, cz + 0.3, 0.05, PAL.guard, MAT.paint);
   if (o.burnish) {
-    BC(s, f, [0.45, cy, cz], [0.42, 0.22, 0.22], PAL.navy2, MAT.paint);
-    CY(s, f, [0.105 + 0.07, cy, cz - 0.04], [0.105 + 0.07, cy, cz + 0.04], 0.07, '#d9dde1', MAT.chrome, { seg: 24 });
-    CY(s, f, [0.24, cy, cz], [0.18, cy, cz], 0.035, '#5b6168', MAT.steel, { seg: 12 });
-    CY(s, f, [0.105 + 0.07, cy, cz - 0.06], [0.105 + 0.07, cy, cz + 0.06], 0.02, '#5b6168', MAT.steel, { seg: 12 });
+    BC(s, f, [0.5, cy, cz], [0.36, 0.16, 0.16], PAL.navy2, MAT.paint);
+    BC(s, f, [0.3, cy, cz], [0.12, 0.05, 0.13], '#5b6168', MAT.steel);
+    const rx = (o.rj || 0.105) + 0.085;
+    CY(s, f, [rx, cy, cz - 0.05], [rx, cy, cz + 0.05], 0.085, '#d9dde1', MAT.chrome, { seg: 32 });
+    CY(s, f, [rx, cy, cz - 0.07], [rx, cy, cz + 0.07], 0.02, '#5b6168', MAT.steel, { seg: 12 });
   } else {
     toolHolder(s, f, [0.11, cy, cz]);
     // chips (tiny curls) on the bed
@@ -236,7 +237,8 @@ function wheelPress(s, f, o = {}) {
   // nuts
   for (const x of [-0.7, 0.7]) for (const y of [0.95, 1.95]) for (const z of [-3.97, 2.97]) CY(s, f, [x, y, z - 0.06], [x, y, z + 0.06], 0.13, '#3a3f45', MAT.dark, { seg: 6 });
   // hydraulic cylinder
-  CY(s, f, [0, cy, -4.9], [0, cy, -3.95], 0.55, PAL.navy2, MAT.gloss, { seg: 36 });
+  CY(s, f, [0, cy, -4.9], [0, cy, -3.95], 0.55, '#2a4a75', MAT.paint, { seg: 56 });
+  for (const z of [-4.85, -4.0]) CY(s, f, [0, cy, z - 0.05], [0, cy, z + 0.05], 0.6, '#3a3f45', MAT.dark, { seg: 56 });
   CY(s, f, [0, cy, -3.25], [0, cy, -2.3], 0.22, '#d5d9dd', MAT.chrome, { seg: 28 });
   // moving platen
   CH(s, f, -0.85, 0.75, 0.85, 1.85, -2.3, -2.0, 0.1, '#5e656d', MAT.steel);
