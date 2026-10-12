@@ -1,0 +1,139 @@
+{
+  "pages": {
+    "contact-us": {
+      "nav": "Kontakt",
+      "title": "Kontakt – HYT Engineering",
+      "description": "Kontaktieren Sie HYT Engineering in Pune zu CNC-Radsatzdrehmaschinen, Maschinen für die Radsatzwerkstatt, schlüsselfertigen Werkstätten oder Service.",
+      "eyebrow": "Kontakt",
+      "h1": "Kontakt zu HYT Engineering",
+      "lede": "Erzählen Sie uns von Ihrer Flotte, Ihrer Werkstatt oder der Aufgabe, die Sie lösen möchten. Ein Anwendungsingenieur meldet sich bei Ihnen – meist zunächst mit Rückfragen, bevor er Antworten gibt.",
+      "summary": "Telefon, E-Mail, Anschrift und Anfrageformular von HYT Engineering in Pune.",
+      "blocks": [
+        {
+          "type": "text",
+          "eyebrow": "So helfen wir Ihnen",
+          "heading": "Sprechen Sie mit den Menschen, die die Maschinen bauen",
+          "paragraphs": [
+            "Anfragen beantwortet das eigene Engineering- und Vertriebsteam von HYT in Pune – Menschen, die die Maschinen und die Bahnwerkstätten, in denen sie arbeiten, genau kennen. Ob Sie ein neues Betriebswerk planen, eine alte Drehmaschine ersetzen oder ein Angebot für eine einzelne Maschine benötigen: Je mehr Sie uns mitteilen, desto hilfreicher wird unsere erste Antwort.",
+            "Hilfreich sind Angaben zu Fahrzeugtypen und Flottengröße, Raddurchmesserbereich und Radprofilen, Spurweite, der erwarteten Anzahl Radsätze pro Schicht sowie eine Skizze Ihres Werkstatt- oder Betriebswerklayouts."
+          ],
+          "image": "company/corporate-office",
+          "image_alt": "Beispielillustration des Büros und Werks von HYT Engineering in Pune",
+          "layout": "image-right"
+        },
+        {
+          "type": "contact",
+          "heading": "Kontaktdaten"
+        },
+        {
+          "type": "form",
+          "id": "enquiry",
+          "form": "enquiry",
+          "heading": "Anfrage senden",
+          "intro": "Nutzen Sie dieses Formular für Anfragen zu Produkten, Projekten und Serviceleistungen. Je detaillierter Ihre Angaben, desto konkreter kann unsere erste Antwort ausfallen."
+        },
+        {
+          "type": "split_cta",
+          "items": [
+            {"icon": "headset", "heading": "Kundendienst", "text": "Maschinenstillstand oder Ersatzteile benötigt? Finden Sie den richtigen Serviceansprechpartner für Ihre Anlage.", "label": "Servicenetz", "page": "service-centers"},
+            {"icon": "truck", "heading": "Lieferanten", "text": "Sie möchten HYT mit Komponenten oder Dienstleistungen beliefern? Registrieren Sie Ihr Unternehmen bei unserem Einkauf.", "label": "Lieferantenregistrierung", "page": "supplier-registration"},
+            {"icon": "briefcase", "heading": "Karriere", "text": "Sie suchen eine Aufgabe in Engineering, Fertigung oder Service? Bewerben Sie sich über unsere Karriereseite.", "label": "Zur Karriereseite", "page": "career"}
+          ]
+        }
+      ]
+    },
+
+    "sitemap": {
+      "nav": "Sitemap",
+      "title": "Sitemap – alle Seiten",
+      "description": "Alle Seiten der HYT-Engineering-Website auf einen Blick: Unternehmen, Produkte, schlüsselfertige Projekte, Service, Branchen, Medien, Karriere und Rechtliches.",
+      "eyebrow": "Website-Informationen",
+      "h1": "Sitemap",
+      "lede": "Alle Seiten dieser Website, nach Bereichen gegliedert. Geben Sie einen Begriff in das Suchfeld ein, um die Liste zu filtern.",
+      "summary": "Ein Überblick über alle Seiten der HYT-Engineering-Website.",
+      "blocks": [
+        {
+          "type": "sitemap",
+          "heading": "Alle Seiten"
+        },
+        {
+          "type": "cards",
+          "eyebrow": "Beliebte Einstiegspunkte",
+          "heading": "Sie wissen nicht, wo Sie anfangen sollen?",
+          "cols": 4,
+          "items": [
+            {"page": "products", "icon": "grid-3x3-gap"},
+            {"page": "services", "icon": "tools"},
+            {"page": "knowledge-centre", "icon": "lightbulb"},
+            {"page": "contact-us", "icon": "envelope"}
+          ]
+        }
+      ]
+    },
+
+    "thank-you": {
+      "nav": "Vielen Dank",
+      "title": "Vielen Dank – Übermittlung erhalten",
+      "description": "Vielen Dank für Ihre Nachricht an HYT Engineering. Ihre Angaben sind eingegangen – hier erfahren Sie, wie es weitergeht und was Sie bis dahin lesen können.",
+      "eyebrow": "Übermittlung erhalten",
+      "h1": "Vielen Dank – Ihre Angaben sind bei uns eingegangen",
+      "lede": "Ob Anfrage, Katalogbestellung, Lieferantenregistrierung oder Bewerbung: Ihre Übermittlung ist beim zuständigen Team von HYT angekommen.",
+      "summary": "Bestätigung, dass Ihre Übermittlung eingegangen ist, und die nächsten Schritte.",
+      "blocks": [
+        {
+          "type": "steps",
+          "eyebrow": "So geht es weiter",
+          "heading": "Drei Schritte ab jetzt",
+          "items": [
+            {"title": "Eingangsbestätigung", "text": "Ihre Übermittlung wird erfasst und an das zuständige Team weitergeleitet – Vertrieb, Service, Einkauf oder Personalabteilung."},
+            {"title": "Prüfung durch einen Fachexperten", "text": "Ein Fachexperte von HYT prüft Ihre Angaben. Benötigen wir weitere Informationen, etwa Radprofile oder Zeichnungen, fragen wir nach."},
+            {"title": "Antwort", "text": "Wir antworten per E-Mail oder telefonisch. Bei Produktanfragen kann dies eine Empfehlung, eine Terminanfrage oder ein technisches Angebot sein."}
+          ]
+        },
+        {
+          "type": "text",
+          "eyebrow": "Es eilt?",
+          "heading": "Dringende Anliegen",
+          "paragraphs": [
+            "Steht eine Maschine still oder ist Ihre Anfrage zeitkritisch, rufen Sie uns bitte während der Geschäftszeiten unter +91 20 6634 3900 oder unter der gebührenfreien Nummer 1800 2100 456 an und nennen Sie die übermittelten Angaben. Sie können uns auch an info@hytengineering.com schreiben."
+          ]
+        },
+        {
+          "type": "cards",
+          "eyebrow": "Bis wir uns melden",
+          "heading": "Weiter entdecken",
+          "cols": 3,
+          "items": [
+            {"page": "products", "icon": "grid-3x3-gap"},
+            {"page": "knowledge-centre", "icon": "lightbulb"},
+            {"page": "turnkey-project", "icon": "building-gear"}
+          ]
+        }
+      ]
+    },
+
+    "404": {
+      "nav": "Seite nicht gefunden",
+      "title": "Seite nicht gefunden",
+      "description": "Die gesuchte Seite auf der Website von HYT Engineering wurde nicht gefunden. Vielleicht wurde sie verschoben – hier finden Sie Produkte, Service und Kontakt.",
+      "eyebrow": "Fehler 404",
+      "h1": "Seite nicht gefunden",
+      "lede": "Die gesuchte Seite existiert nicht oder wurde verschoben. Unsere Website wurde neu strukturiert, daher haben sich einige ältere Adressen geändert.",
+      "summary": "Die angeforderte Seite wurde nicht gefunden.",
+      "blocks": [
+        {
+          "type": "cards",
+          "heading": "Versuchen Sie es mit einer dieser Seiten",
+          "intro": "Sie können auch die vollständige [Sitemap](page:sitemap) durchsuchen, um das Gewünschte zu finden.",
+          "cols": 4,
+          "items": [
+            {"page": "home", "icon": "house"},
+            {"page": "products", "icon": "grid-3x3-gap"},
+            {"page": "services", "icon": "tools"},
+            {"page": "contact-us", "icon": "envelope"}
+          ]
+        }
+      ]
+    }
+  }
+}

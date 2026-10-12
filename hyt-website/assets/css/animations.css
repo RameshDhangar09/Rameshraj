@@ -1,0 +1,34 @@
+/* ==========================================================================
+   HYT Engineering – motion
+   Reveal styles only apply once animations.js has added .anim-ready to <html>,
+   so content is always visible if JavaScript is disabled or fails.
+   ========================================================================== */
+
+.anim-ready .reveal { opacity: 0; transform: translateY(22px); transition: opacity 700ms var(--ease), transform 700ms var(--ease); transition-delay: var(--reveal-delay, 0ms); }
+.anim-ready .reveal.is-visible { opacity: 1; transform: none; }
+
+/* Hero entrance */
+.anim-ready .hero-home__img { transform: scale(1.06); transition: transform 2200ms var(--ease); }
+.anim-ready.hero-in .hero-home__img { transform: scale(1); }
+.anim-ready .hero-home__text > * { opacity: 0; transform: translateY(18px); transition: opacity 800ms var(--ease), transform 800ms var(--ease); }
+.anim-ready.hero-in .hero-home__text > * { opacity: 1; transform: none; }
+.anim-ready.hero-in .hero-home__text > :nth-child(2) { transition-delay: 120ms; }
+.anim-ready.hero-in .hero-home__text > :nth-child(3) { transition-delay: 240ms; }
+.anim-ready.hero-in .hero-home__text > :nth-child(4) { transition-delay: 360ms; }
+
+.anim-ready .hero-reveal { clip-path: inset(0 0 0 100%); transition: clip-path 1100ms var(--ease); }
+.anim-ready.hero-in .hero-reveal { clip-path: inset(0 0 0 0); }
+
+.hero-home__scroll .bi { animation: nudge 2.4s var(--ease) infinite; }
+@keyframes nudge { 0%, 60%, 100% { transform: translateY(0); } 30% { transform: translateY(4px); } }
+
+/* Accordion height animation (JS sets --panel-h) */
+.accordion-hyt__panel.is-animating { transition: height 320ms var(--ease); }
+
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  *, *::before, *::after { animation-duration: 0.01ms !important; animation-iteration-count: 1 !important; transition-duration: 0.01ms !important; transition-delay: 0ms !important; }
+  .anim-ready .reveal, .anim-ready .hero-home__text > * { opacity: 1; transform: none; }
+  .anim-ready .hero-home__img { transform: none; }
+  .anim-ready .hero-reveal { clip-path: none; }
+}

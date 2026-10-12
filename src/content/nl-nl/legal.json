@@ -1,0 +1,407 @@
+{
+  "pages": {
+    "privacy-policy": {
+      "nav": "Privacyverklaring",
+      "title": "Privacyverklaring",
+      "description": "Hoe HYT Engineering persoonsgegevens via deze website verzamelt, gebruikt, bewaart en beschermt, en welke rechten u heeft naar Indiaas, EU- en VK-recht.",
+      "eyebrow": "Juridisch",
+      "h1": "Privacyverklaring",
+      "lede": "Deze verklaring legt uit welke persoonsgegevens we via deze website verzamelen, waarom we dat doen, hoe lang we ze bewaren en hoe u uw rechten kunt uitoefenen.",
+      "summary": "Hoe HYT Engineering omgaat met persoonsgegevens die via deze website worden verstrekt.",
+      "blocks": [
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "Concept ter beoordeling. De juridisch adviseur van HYT dient deze verklaring samen met de Cookieverklaring te controleren (de huidige verklaring is voor het laatst bijgewerkt in december 2021), de hieronder voorgestelde bewaartermijnen te bevestigen, de dienstverlener voor formulierverwerking te noemen en te bevestigen of een vertegenwoordiger in de EU of het VK vereist is."
+        },
+        {
+          "type": "prose",
+          "updated": "Concept voor juridische beoordeling – oktober 2026",
+          "sections": [
+            {
+              "heading": "1. Wie wij zijn",
+              "paragraphs": [
+                "Deze website wordt beheerd door HYT Engineering Company Pvt. Ltd., een in India opgerichte private limited company (CIN U29299PN1989PTC052195), met statutaire zetel te 29/10, 29/10/1, 29/10/2, D-II Block, MIDC Chinchwad, Pune 411019, Maharashtra, India (“HYT”, “wij”, “ons”).",
+                "HYT bepaalt waarom en hoe de in deze verklaring beschreven persoonsgegevens worden verwerkt. Wij zijn daarom de Data Fiduciary in de zin van de Indiase Digital Personal Data Protection Act, 2023 en, waar de Algemene verordening gegevensbescherming (AVG/GDPR) van de EU of de UK GDPR van toepassing is, de verwerkingsverantwoordelijke.",
+                "Voor vragen over deze verklaring of over uw persoonsgegevens kunt u schrijven naar info@hytengineering.com met “Data protection” in de onderwerpregel, of naar het bovenstaande postadres, ter attentie van de Data Protection Contact (contactpersoon gegevensbescherming)."
+              ]
+            },
+            {
+              "heading": "2. Reikwijdte van deze verklaring",
+              "paragraphs": [
+                "Deze verklaring geldt voor persoonsgegevens die we verzamelen via hytengineering.com en de taalversies daarvan, en via de e-mails en telefoongesprekken die daaruit voortvloeien. Ze geldt niet voor websites van anderen waarnaar we linken; die hebben hun eigen beleid.",
+                "Onze website is gericht op bedrijven en overheidsinstanties in de spoor- en techniekbranche. De meeste persoonsgegevens die we ontvangen, zijn zakelijke contactgegevens van mensen die namens hun werkgever optreden."
+              ]
+            },
+            {
+              "heading": "3. Welke persoonsgegevens we verzamelen",
+              "paragraphs": [
+                "We verzamelen alleen de informatie die u ons zelf geeft via onze formulieren of door rechtstreeks contact met ons op te nemen, plus beperkte technische gegevens die nodig zijn om de website veilig aan te bieden."
+              ],
+              "bullets": [
+                "**Contactformulier:** naam, bedrijf of organisatie, zakelijk e-mailadres, land, telefoonnummer, het product of de dienst waarin u geïnteresseerd bent, onderwerp en uw bericht.",
+                "**Catalogusaanvragen:** naam, bedrijf, e-mailadres, land en de aangevraagde catalogus, voor zover een aanvraagformulier wordt gebruikt.",
+                "**Leveranciersregistratie:** bedrijfsnaam, contactpersoon, functie, e-mailadres, telefoonnummer, website, GST- of btw-nummer, leveringscategorieën, aantal jaren actief en certificeringen.",
+                "**Sollicitaties:** naam, e-mailadres, telefoonnummer, de functie waarop u solliciteert, totale werkervaring, uw cv of een link naar uw cv of professionele profiel, en alles wat u verder wilt meesturen.",
+                "**Correspondentie:** de inhoud van e-mails, brieven en telefoongesprekken die u met ons uitwisselt, en de contactgegevens die daarin staan.",
+                "**Technische gegevens:** wanneer u de website bezoekt, verwerken de servers van de hostingprovider automatisch uw IP-adres, browsertype, de opgevraagde pagina’s en het tijdstip van de aanvraag. Dit is nodig om pagina’s te leveren en de site tegen misbruik te beschermen."
+              ]
+            },
+            {
+              "heading": "4. Waarvoor we uw gegevens gebruiken",
+              "paragraphs": [
+                "We gebruiken uw persoonsgegevens uitsluitend voor de volgende doeleinden:"
+              ],
+              "bullets": [
+                "Om uw aanvraag te beantwoorden, technische en commerciële offertes op te stellen en die op te volgen.",
+                "Om u de catalogus of documenten te sturen waarom u heeft gevraagd.",
+                "Om leveranciersregistraties te beoordelen, onze leverancierslijst te beheren en leveranciers te benaderen over behoeften.",
+                "Om sollicitaties te beoordelen, gesprekken in te plannen en u, met uw toestemming, in aanmerking te laten komen voor toekomstige functies.",
+                "Om aftersalesservice en ondersteuning te bieden voor machines die u gebruikt.",
+                "Om de website te beveiligen, spam te voorkomen en misbruik op te sporen.",
+                "Om te voldoen aan onze wettelijke verplichtingen, bijvoorbeeld fiscale en vennootschapsrechtelijke bewaarplichten, en om rechtsvorderingen in te stellen of ons ertegen te verweren."
+              ]
+            },
+            {
+              "heading": "5. Rechtsgrond voor de verwerking",
+              "paragraphs": [
+                "**India.** We verwerken persoonsgegevens in overeenstemming met de Digital Personal Data Protection Act, 2023 en de daarop gebaseerde regels, naarmate die in werking treden. Wanneer u een formulier verstuurt, verstrekt u uw persoonsgegevens vrijwillig voor een bepaald doel – bijvoorbeeld om een antwoord te ontvangen of in aanmerking te komen voor een functie – en gebruiken wij ze voor dat doel. Waar we ons op uw toestemming baseren, kunt u die op elk moment intrekken; intrekking heeft geen gevolgen voor de verwerking die al heeft plaatsgevonden.",
+                "**Europese Unie en Verenigd Koninkrijk.** Waar de AVG (GDPR) of de UK GDPR van toepassing is, baseren we ons op de volgende rechtsgronden:"
+              ],
+              "bullets": [
+                "het op uw verzoek nemen van maatregelen voorafgaand aan het sluiten van een overeenkomst en het uitvoeren van een overeenkomst (artikel 6, lid 1, onder b) – voor aanvragen, offertes, leveranciersrelaties en werving;",
+                "ons gerechtvaardigd belang bij het voeren van onze onderneming, het beantwoorden van zakelijke correspondentie en het beveiligen van de website (artikel 6, lid 1, onder f), afgewogen tegen uw rechten en belangen;",
+                "uw toestemming (artikel 6, lid 1, onder a) – bijvoorbeeld om een sollicitatie te bewaren voor toekomstige functies;",
+                "het voldoen aan wettelijke verplichtingen (artikel 6, lid 1, onder c) – bijvoorbeeld bewaarplichten."
+              ]
+            },
+            {
+              "heading": "6. Met wie we uw gegevens delen",
+              "paragraphs": [
+                "Uw gegevens worden alleen ingezien door medewerkers van HYT die ze nodig hebben voor de bovengenoemde doeleinden. We maken gebruik van een klein aantal dienstverleners die gegevens namens ons verwerken, op basis van een overeenkomst en uitsluitend volgens onze instructies:"
+              ],
+              "bullets": [
+                "de hostingprovider van de website;",
+                "de dienst voor formulierverwerking die inzendingen via onze formulieren ontvangt en doorstuurt (de naam van deze dienstverlener wordt hier vermeld zodra de website live gaat);",
+                "onze e-mail- en IT-dienstverleners;",
+                "professionele adviseurs zoals accountants en advocaten, waar nodig."
+              ]
+            },
+            {
+              "heading": "7. Overige verstrekkingen",
+              "paragraphs": [
+                "We verkopen geen persoonsgegevens en gebruiken ze niet voor geautomatiseerde besluitvorming of voor profilering ten behoeve van reclame.",
+                "We kunnen persoonsgegevens verstrekken als de wet, een rechterlijk bevel of een bevoegde autoriteit dat vereist, of om onze rechten, eigendommen of veiligheid te beschermen. Als de onderneming van HYT wordt gereorganiseerd of overgedragen, kunnen persoonsgegevens onder dezelfde waarborgen overgaan naar de rechtsopvolger."
+              ]
+            },
+            {
+              "heading": "8. Internationale doorgifte",
+              "paragraphs": [
+                "HYT is gevestigd in India en uw gegevens worden in India verwerkt. Sommige van onze dienstverleners kunnen gegevens in andere landen opslaan of verwerken.",
+                "Doorgifte buiten India vindt plaats in overeenstemming met de Digital Personal Data Protection Act, 2023, inclusief eventuele beperkingen die de Indiase overheid bekendmaakt. Worden gegevens uit de EU of het VK doorgegeven aan India of een ander land zonder adequaatheidsbesluit, dan gebruiken we waarborgen die door de AVG (GDPR) of de UK GDPR worden erkend, zoals de modelcontractbepalingen (standard contractual clauses) van de Europese Commissie of het UK International Data Transfer Addendum. U kunt ons om nadere informatie over deze waarborgen vragen."
+              ]
+            },
+            {
+              "heading": "9. Hoe lang we uw gegevens bewaren",
+              "paragraphs": [
+                "We bewaren persoonsgegevens niet langer dan nodig is voor het doel waarvoor ze zijn verzameld en verwijderen of anonimiseren ze daarna. Onze standaardtermijnen zijn:"
+              ],
+              "bullets": [
+                "**Aanvragen en catalogusaanvragen** die niet tot een zakelijke relatie leiden: tot 3 jaar na ons laatste contact.",
+                "**Klant- en leveranciersgegevens:** gedurende de looptijd van de relatie en daarna zolang het Indiase fiscale en vennootschapsrecht ons verplicht bedrijfsadministratie te bewaren.",
+                "**Leveranciersregistraties** die niet tot goedkeuring leiden: tot 3 jaar na indiening, tenzij u ons vraagt ze eerder te verwijderen.",
+                "**Sollicitaties:** gedurende de wervingsprocedure en tot 12 maanden daarna; langer alleen met uw toestemming. Gegevens van sollicitanten die bij HYT in dienst treden, worden onderdeel van het personeelsdossier.",
+                "**Technische serverlogs:** gedurende een korte, door de hostingprovider vastgestelde periode voor beveiligingsdoeleinden."
+              ]
+            },
+            {
+              "heading": "10. Uw rechten",
+              "paragraphs": [
+                "**Naar Indiaas recht** heeft u het recht informatie te krijgen over de persoonsgegevens die we over u verwerken, deze te laten corrigeren, aanvullen, bijwerken of wissen, uw toestemming in te trekken, uw klachten door ons te laten behandelen en een andere persoon aan te wijzen die uw rechten uitoefent in geval van uw overlijden of wilsonbekwaamheid.",
+                "**Op grond van de AVG (GDPR) en de UK GDPR** heeft u het recht op inzage in uw gegevens, op rectificatie of wissing, op beperking van of bezwaar tegen de verwerking, op gegevensoverdraagbaarheid en op het op elk moment intrekken van uw toestemming.",
+                "**Elders, onder meer in de Verenigde Staten en Canada,** kunt u ons vragen om inzage in, correctie van of verwijdering van uw persoonsgegevens; we reageren dan in overeenstemming met het recht dat op u van toepassing is. We verkopen geen persoonsgegevens en delen ze niet voor gerichte reclame."
+              ]
+            },
+            {
+              "heading": "11. Hoe u uw rechten uitoefent of een klacht indient",
+              "paragraphs": [
+                "Stuur uw verzoek naar info@hytengineering.com met “Data protection” in de onderwerpregel. Mogelijk moeten we eerst uw identiteit verifiëren. We reageren zonder onnodige vertraging en binnen de termijnen van het toepasselijke recht – voor verzoeken op grond van de AVG (GDPR) of de UK GDPR in de regel binnen één maand.",
+                "Bent u niet tevreden met onze reactie, dan kunt u een klacht indienen bij de Data Protection Board of India zodra de procedures daarvan voor u beschikbaar zijn, bij de toezichthoudende autoriteit voor gegevensbescherming in het EU-land waar u woont of werkt, of in het VK bij het Information Commissioner’s Office. We stellen het op prijs als we eerst zelf de kans krijgen uw zorg weg te nemen."
+              ]
+            },
+            {
+              "heading": "12. Beveiliging",
+              "paragraphs": [
+                "We beschermen persoonsgegevens met passende technische en organisatorische maatregelen. De website wordt via een versleutelde verbinding (HTTPS) aangeboden, toegang tot inzendingen is beperkt tot medewerkers die die nodig hebben, en onze dienstverleners zijn gebonden aan geheimhoudings- en beveiligingsverplichtingen. Geen enkele overdracht via internet is volledig veilig; verstuur daarom geen gevoelige persoonsgegevens via onze formulieren."
+              ]
+            },
+            {
+              "heading": "13. Cookies",
+              "paragraphs": [
+                "Deze website plaatst momenteel geen cookies en gebruikt geen analyse- of advertentietools. Meer informatie vindt u in onze [Cookieverklaring](page:cookie-policy)."
+              ]
+            },
+            {
+              "heading": "14. Kinderen",
+              "paragraphs": [
+                "Deze website is bedoeld voor zakelijke gebruikers en niet gericht op kinderen. We verzamelen niet bewust persoonsgegevens van personen jonger dan 18 jaar. Denkt u dat een kind ons persoonsgegevens heeft gestuurd, neem dan contact met ons op; we verwijderen die gegevens dan."
+              ]
+            },
+            {
+              "heading": "15. Wijzigingen in deze verklaring",
+              "paragraphs": [
+                "We kunnen deze verklaring bijwerken wanneer onze website, onze dienstverleners of de wetgeving veranderen. De datum bovenaan deze pagina geeft aan wanneer de verklaring voor het laatst is herzien. Belangrijke wijzigingen worden op deze pagina uitgelicht."
+              ]
+            },
+            {
+              "heading": "16. Contact",
+              "paragraphs": [
+                "HYT Engineering Company Pvt. Ltd., 29/10, 29/10/1, 29/10/2, D-II Block, MIDC Chinchwad, Pune 411019, Maharashtra, India. E-mail: info@hytengineering.com. Telefoon: +91 20 6634 3900."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "cookie-policy": {
+      "nav": "Cookieverklaring",
+      "title": "Cookieverklaring",
+      "description": "De website van HYT Engineering plaatst geen cookies en gebruikt geen analyse- of advertentietrackers. Lees welke technische opslag wel wordt gebruikt.",
+      "eyebrow": "Juridisch",
+      "h1": "Cookieverklaring",
+      "lede": "Kort gezegd: deze website plaatst geen cookies, gebruikt geen analysetools en volgt u niet. Op deze pagina leest u de details.",
+      "summary": "Welke cookies en vergelijkbare technieken deze website gebruikt – momenteel geen, afgezien van wat strikt noodzakelijk is.",
+      "blocks": [
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "Concept ter beoordeling, samen met de Privacyverklaring. De juridisch adviseur van HYT dient de tekst te bevestigen, en het webteam dient vóór de lancering te bevestigen dat er geen cookies, analysetools of embeds van derden actief zijn. Werk deze verklaring bij en voeg een toestemmingsbanner toe voordat zo’n tool wordt ingevoerd."
+        },
+        {
+          "type": "prose",
+          "updated": "Concept voor juridische beoordeling – oktober 2026",
+          "sections": [
+            {
+              "heading": "1. Samenvatting",
+              "bullets": [
+                "We plaatsen geen cookies op deze website.",
+                "We gebruiken geen analyse-, advertentie-, social-media- of andere trackingtools.",
+                "Lettertypen en afbeeldingen worden vanaf onze eigen website geladen, niet via diensten van derden.",
+                "Alleen strikt noodzakelijke technische opslag wordt gebruikt, zoals hieronder beschreven.",
+                "Omdat er geen optionele cookies worden gebruikt, tonen we geen cookiebanner voor toestemming."
+              ]
+            },
+            {
+              "heading": "2. Wat cookies en vergelijkbare technieken zijn",
+              "paragraphs": [
+                "Cookies zijn kleine tekstbestanden die een website in uw browser opslaat. Vergelijkbare technieken zijn onder meer de local en session storage van de browser, pixels en device fingerprinting. Ze kunnen worden gebruikt om een website te laten werken, uw voorkeuren te onthouden, bezoeken te meten of u voor reclamedoeleinden over websites heen te volgen.",
+                "Wetgeving op het gebied van gegevensbescherming en elektronische communicatie – waaronder de ePrivacy-regels van de EU en de Britse Privacy and Electronic Communications Regulations – vereist toestemming voor elke techniek van dit type die niet strikt noodzakelijk is om de door u gevraagde dienst te leveren."
+              ]
+            },
+            {
+              "heading": "3. Wat deze website gebruikt",
+              "paragraphs": [
+                "Deze website gebruikt alleen wat strikt noodzakelijk is om pagina’s weer te geven en formulieren te laten werken. Uw browser kan voor deze technische functies kleine hoeveelheden informatie op uw eigen apparaat bewaren – bijvoorbeeld terwijl u een formulier invult. Deze informatie wordt niet gebruikt om u te identificeren of te volgen en wordt niet met ons of met anderen gedeeld.",
+                "Wanneer u een pagina laadt, verwerken de servers van onze hostingprovider technische gegevens zoals uw IP-adres om de pagina te leveren en de site te beschermen. Dit is geen cookie; het wordt beschreven in onze [Privacyverklaring](page:privacy-policy)."
+              ]
+            },
+            {
+              "heading": "4. Formulieren en downloads",
+              "paragraphs": [
+                "Wanneer u een formulier verstuurt, worden de ingevulde gegevens naar onze dienstverlener voor formulierverwerking en vandaar naar HYT gestuurd. Daarbij wordt geen cookie geplaatst. Voegen we ooit een spambeveiligingsdienst toe die cookies gebruikt, dan werken we deze verklaring bij en vragen we waar nodig om toestemming. Het downloaden van een catalogus plaatst geen cookie."
+              ]
+            },
+            {
+              "heading": "5. Links naar andere websites",
+              "paragraphs": [
+                "Sommige links – bijvoorbeeld naar een kaartdienst of een externe publicatie – brengen u naar andere websites. Die websites kunnen volgens hun eigen beleid eigen cookies plaatsen; daarop hebben wij geen invloed."
+              ]
+            },
+            {
+              "heading": "6. Als dit verandert",
+              "paragraphs": [
+                "Besluiten we analysetools, ingesloten video’s, ingesloten kaarten of een andere functie toe te voegen die niet-essentiële cookies of vergelijkbare technieken plaatst, dan zullen we:"
+              ],
+              "bullets": [
+                "eerst deze verklaring bijwerken, met per cookie de aanbieder, het doel en de bewaartermijn;",
+                "een toestemmingsbanner tonen, zodat niet-essentiële cookies pas worden geplaatst nadat u daarmee instemt;",
+                "het weigeren of intrekken van toestemming even eenvoudig maken als het geven ervan."
+              ]
+            },
+            {
+              "heading": "7. Cookies beheren in uw browser",
+              "paragraphs": [
+                "U kunt cookies en opgeslagen sitegegevens op elk moment bekijken, blokkeren en verwijderen via de instellingen van uw browser. Het blokkeren van strikt noodzakelijke opslag kan ertoe leiden dat sommige functies, zoals formulieren, niet goed werken."
+              ]
+            },
+            {
+              "heading": "8. Contact",
+              "paragraphs": [
+                "Vragen over deze verklaring kunt u sturen naar info@hytengineering.com met “Data protection” in de onderwerpregel."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "disclaimer": {
+      "nav": "Disclaimer",
+      "title": "Disclaimer van de website",
+      "description": "Gebruiksvoorwaarden van de HYT-website: juistheid, technische data onder voorbehoud, voorbeeldbeelden, externe links, aansprakelijkheid en toepasselijk recht.",
+      "eyebrow": "Juridisch",
+      "h1": "Disclaimer van de website",
+      "lede": "De informatie op deze website wordt te goeder trouw verstrekt om u inzicht te geven in de producten en diensten van HYT. Lees deze voorwaarden voordat u op de informatie vertrouwt.",
+      "summary": "Voorwaarden voor het gebruik van deze website en de informatie die erop staat.",
+      "blocks": [
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "Concept ter beoordeling. De huidige disclaimer is voor het laatst bijgewerkt in oktober 2021. De juridisch adviseur van HYT dient deze tekst te controleren en goed te keuren, inclusief de bepaling over toepasselijk recht en bevoegde rechter."
+        },
+        {
+          "type": "prose",
+          "updated": "Concept voor juridische beoordeling – oktober 2026",
+          "sections": [
+            {
+              "heading": "1. Over deze website",
+              "paragraphs": [
+                "Deze website wordt uitgegeven door HYT Engineering Company Pvt. Ltd., 29/10, 29/10/1, 29/10/2, D-II Block, MIDC Chinchwad, Pune 411019, Maharashtra, India (“HYT”). Door de website te gebruiken, aanvaardt u de voorwaarden op deze pagina.",
+                "De inhoud is algemene informatie over HYT, zijn producten en zijn diensten. Het is geen professioneel, technisch of juridisch advies voor een specifieke toepassing en vervangt geen technisch overleg met onze engineers."
+              ]
+            },
+            {
+              "heading": "2. Juistheid van de informatie",
+              "paragraphs": [
+                "We doen ons best de informatie op deze website juist en actueel te houden, maar kunnen niet garanderen dat ze altijd volledig, correct of up-to-date is. We kunnen de inhoud op elk moment zonder voorafgaande kennisgeving wijzigen."
+              ]
+            },
+            {
+              "heading": "3. Technische gegevens onder voorbehoud",
+              "paragraphs": [
+                "Machinebeschrijvingen, specificaties, capaciteiten, cyclustijden en prestatiegegevens zijn indicatief. Onze machines worden geconfigureerd voor de spoorwijdte, wielprofielen en voertuigen van elke klant, en we ontwikkelen onze ontwerpen voortdurend door. Bindend zijn uitsluitend de technische gegevens die zijn bevestigd in een schriftelijke technische offerte en het daaruit voortvloeiende contract.",
+                "Waar een waarde wordt weergegeven als “Op aanvraag”, hangt deze af van de configuratie en wordt ze in de offerte vermeld."
+              ]
+            },
+            {
+              "heading": "4. Afbeeldingen en illustraties",
+              "paragraphs": [
+                "Sommige afbeeldingen op deze website zijn voorbeeldillustraties die voor ontwerpdoeleinden zijn gemaakt. Ze tonen het algemene type machine of situatie dat wordt beschreven en hoeven geen werkelijke HYT-machine, installatie, klantlocatie of gebeurtenis weer te geven. Ze worden in de loop van de tijd vervangen door foto’s."
+              ]
+            },
+            {
+              "heading": "5. Geen aanbod",
+              "paragraphs": [
+                "Niets op deze website is een aanbod dat kan worden aanvaard of een bindende toezegging. Prijzen, leveringsvoorwaarden en specificaties worden uitsluitend schriftelijk overeengekomen. Catalogi en andere downloadbare documenten zijn uitsluitend ter informatie."
+              ]
+            },
+            {
+              "heading": "6. Klanten, partners en merken",
+              "paragraphs": [
+                "Verwijzingen naar klanten, projecten en partners zijn ter informatie. Product- en bedrijfsnamen van derden zijn merken of namen van hun respectieve eigenaars en worden uitsluitend gebruikt om hen te identificeren; het gebruik ervan houdt geen aanbeveling in. De naam en het logo van HYT zijn eigendom van HYT Engineering Company Pvt. Ltd."
+              ]
+            },
+            {
+              "heading": "7. Intellectueel eigendom",
+              "paragraphs": [
+                "De teksten, het ontwerp, de afbeeldingen, tekeningen en documenten op deze website zijn beschermd door auteursrecht en andere intellectuele-eigendomsrechten van HYT of zijn licentiegevers. U mag inhoud bekijken, downloaden en afdrukken voor uw eigen informatie en voor het beoordelen van HYT-producten. Elke andere vorm van kopiëren, wijzigen of verspreiden vereist onze voorafgaande schriftelijke toestemming."
+              ]
+            },
+            {
+              "heading": "8. Externe links",
+              "paragraphs": [
+                "Deze website bevat links naar websites van anderen. We hebben geen invloed op de inhoud of beschikbaarheid daarvan en aanvaarden er geen verantwoordelijkheid voor. Een link betekent niet dat we de gelinkte site of de beheerder ervan aanbevelen."
+              ]
+            },
+            {
+              "heading": "9. Beschikbaarheid en beveiliging",
+              "paragraphs": [
+                "We streven ernaar de website beschikbaar en vrij van schadelijke code te houden, maar garanderen geen ononderbroken of foutloze toegang. Gebruik actuele beveiligingssoftware bij het surfen en het downloaden van bestanden."
+              ]
+            },
+            {
+              "heading": "10. Beperking van aansprakelijkheid",
+              "paragraphs": [
+                "Voor zover wettelijk toegestaan is HYT niet aansprakelijk voor verlies of schade die voortvloeit uit het gebruik van of het vertrouwen op deze website of de inhoud ervan, met inbegrip van indirecte schade of gevolgschade, gederfde winst, productieverlies of gegevensverlies.",
+                "Niets in deze disclaimer beperkt of sluit aansprakelijkheid uit die op grond van het toepasselijke recht niet kan worden beperkt of uitgesloten. Onze aansprakelijkheid voor producten en diensten die wij leveren, wordt uitsluitend beheerst door het contract op grond waarvan ze worden geleverd."
+              ]
+            },
+            {
+              "heading": "11. Taalversies",
+              "paragraphs": [
+                "Deze website wordt in meerdere talen gepubliceerd. Bij verschillen tussen taalversies prevaleert de Engelse (Global) versie."
+              ]
+            },
+            {
+              "heading": "12. Toepasselijk recht en bevoegde rechter",
+              "paragraphs": [
+                "Op deze disclaimer en op geschillen die voortvloeien uit het gebruik van deze website is Indiaas recht van toepassing. De rechtbanken in Pune, Maharashtra, zijn exclusief bevoegd. Dit doet niets af aan dwingende rechten die u mogelijk heeft op grond van het recht van het land waar u woont."
+              ]
+            },
+            {
+              "heading": "13. Contact",
+              "paragraphs": [
+                "Vragen over deze disclaimer kunt u sturen naar info@hytengineering.com."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "annual-return": {
+      "nav": "Annual Return",
+      "title": "Annual Return – openbaarmaking volgens Section 92(3)",
+      "description": "HYT Engineering Company Pvt. Ltd. publiceert hier per boekjaar haar annual return (jaarlijkse opgave) conform Section 92(3) van de Companies Act, 2013.",
+      "eyebrow": "Juridisch",
+      "h1": "Annual Return",
+      "lede": "Op deze pagina publiceert HYT Engineering Company Pvt. Ltd. haar annual return (jaarlijkse opgave), zoals voorgeschreven door de Companies Act, 2013.",
+      "summary": "De annual return (jaarlijkse opgave) van de onderneming op grond van Section 92(3) van de Companies Act, 2013.",
+      "blocks": [
+        {
+          "type": "prose",
+          "updated": "In afwachting van documenten – oktober 2026",
+          "sections": [
+            {
+              "heading": "Waarom deze pagina bestaat",
+              "paragraphs": [
+                "Section 92(3) van de Companies Act, 2013 verplicht elke onderneming met een website om een kopie van haar annual return op die website te plaatsen en de weblink te vermelden in het verslag van de Board (raad van bestuur). Deze pagina is die plek voor HYT Engineering Company Pvt. Ltd. (CIN U29299PN1989PTC052195)."
+              ]
+            },
+            {
+              "heading": "Wat de annual return bevat",
+              "paragraphs": [
+                "De annual return wordt jaarlijks gedeponeerd bij de Registrar of Companies (handelsregister) in de vorm die is voorgeschreven in de Companies (Management and Administration) Rules, 2014. Daarin staat, per het einde van het boekjaar, onder meer de volgende informatie:"
+              ],
+              "bullets": [
+                "de statutaire zetel en de voornaamste bedrijfsactiviteiten van de onderneming;",
+                "het aandelenkapitaal en de aandeelhoudersstructuur;",
+                "de aandeelhouders en wijzigingen daarin;",
+                "de bestuurders en het leidinggevend kernpersoneel (key managerial personnel), en wijzigingen gedurende het jaar;",
+                "vergaderingen van aandeelhouders en van de Board, en de aanwezigheid daarbij;",
+                "de bezoldiging van bestuurders en leidinggevend kernpersoneel;",
+                "eventuele boetes of schikkingen (compounding) van overtredingen;",
+                "overige wettelijk vereiste openbaarmakingen en verklaringen."
+              ]
+            },
+            {
+              "heading": "Documenten",
+              "paragraphs": [
+                "De annual return voor elk boekjaar wordt op deze pagina gepubliceerd als pdf-document, te beginnen met het meest recente jaar. De wettelijke deponeringen van de onderneming kunnen ook worden ingezien via het Ministry of Corporate Affairs."
+              ]
+            },
+            {
+              "heading": "Contact",
+              "paragraphs": [
+                "Vragen over deze pagina kunt u richten aan de Company Secretary, HYT Engineering Company Pvt. Ltd., 29/10, 29/10/1, 29/10/2, D-II Block, MIDC Chinchwad, Pune 411019, Maharashtra, India, of aan info@hytengineering.com. Meer over de manier waarop we de onderneming besturen, leest u onder [Compliance](page:compliance)."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "De Company Secretary dient voor elk boekjaar de pdf van de annual return aan te leveren (met het jaartal in de bestandsnaam), zodat die hier kan worden gepubliceerd. De URL /annual-return-2/ wordt genoemd in de verslagen van de Board en mag niet veranderen; elke toekomstige wijziging moet eerst door de Company Secretary worden bevestigd."
+        }
+      ]
+    }
+  }
+}

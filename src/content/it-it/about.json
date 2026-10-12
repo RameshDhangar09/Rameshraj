@@ -1,0 +1,1106 @@
+{
+  "pages": {
+    "about": {
+      "nav": "Chi siamo",
+      "title": "Chi siamo – HYT Engineering, macchine utensili ferroviarie",
+      "description": "Dal 1977 HYT Engineering progetta, costruisce e assiste a Pune torni CNC per sale montate e macchine per officine ferroviarie. Storia, valori e metodo.",
+      "eyebrow": "Chi è HYT",
+      "h1": "Chi siamo",
+      "lede": "Progettiamo, costruiamo, installiamo e assistiamo le macchine che mantengono in forma le sale montate ferroviarie – un'unica disciplina, coltivata a Pune dal 1977.",
+      "summary": "La nostra storia, il nostro modo di lavorare e i valori alla base di ogni macchina HYT.",
+      "blocks": [
+        {
+          "type": "stats",
+          "items": [
+            {
+              "value": "1977",
+              "label": "Costruiamo macchine utensili dal"
+            },
+            {
+              "value": "1.100+",
+              "label": "Macchine consegnate (dato aziendale)"
+            },
+            {
+              "value": "3",
+              "label": "Sistemi di gestione certificati ISO: 9001, 14001 e 45001"
+            },
+            {
+              "value": "Pune",
+              "label": "Sede e stabilimento, Maharashtra, India"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "eyebrow": "La nostra storia",
+          "heading": "Dai torni da officina alla tecnologia per ruote ferroviarie",
+          "paragraphs": [
+            "HYT nasce nel 1977 come HYT Engineering Corporation, costruendo piccoli trapani e torni per l'industria locale. Nel 1989 l'attività viene costituita in società come HYT Engineering Company Pvt. Ltd. e si pone un obiettivo più impegnativo: lavorare i componenti da cui dipende la sicurezza ferroviaria.",
+            "Quell'obiettivo ci ha portati alla sala montata. Un profilo ruota usurato incide sul comfort di marcia, sull'usura della rotaia, sul consumo di energia e sul rischio di deragliamento, e la rapidità con cui lo si ripristina determina quanti treni sono disponibili ogni mattina. HYT è stata pioniera in India della tecnologia dei torni CNC per sale montate e da allora pone la lavorazione di ruote e assi al centro della propria attività.",
+            "Oggi forniamo torni in fossa, a pavimento e a portale, macchine per officine ruote e assi, attrezzature per depositi e officine complete a ferrovie, metropolitane e industria – e restiamo al fianco di ogni macchina per tutta la sua vita operativa. Scopra le tappe principali nella pagina [Storia](page:history)."
+          ],
+          "image": "company/manufacturing-facility",
+          "image_alt": "Illustrazione di esempio del reparto di montaggio HYT a Pune con un tornio per sale montate in costruzione",
+          "layout": "image-right"
+        },
+        {
+          "type": "features",
+          "eyebrow": "Cosa facciamo",
+          "heading": "Macchine e servizi per l'intero ciclo di vita della sala montata",
+          "intro": "Tutto ciò che realizziamo risponde a una domanda: come mantenere le sale montate sicure, perfettamente tonde e in servizio più a lungo?",
+          "cols": 4,
+          "items": [
+            {
+              "icon": "gear-wide-connected",
+              "title": "Torni per sale montate",
+              "text": "[Torni in fossa, tandem, a pavimento e a portale](page:products#wheel-lathes) che riprofilano le ruote in ore anziché in giorni."
+            },
+            {
+              "icon": "bullseye",
+              "title": "Macchine per officina ruote e assi",
+              "text": "[Tornitura verticale, tornitura assi, calettamento, misura ed equilibratura](page:products#wheel-axle-shop-machines) per sale montate nuove e revisionate."
+            },
+            {
+              "icon": "building-gear",
+              "title": "Officine chiavi in mano",
+              "text": "[Officine ruote e impianti di deposito completi](page:turnkey-project), dal layout e dall'interfaccia con le opere civili fino alla messa in servizio."
+            },
+            {
+              "icon": "tools",
+              "title": "Assistenza per tutta la vita utile",
+              "text": "[Installazione, contratti di manutenzione, ricambi, aggiornamenti e formazione](page:services) per ogni macchina che consegniamo."
+            }
+          ]
+        },
+        {
+          "type": "steps",
+          "eyebrow": "Come lavoriamo",
+          "heading": "Progettare, costruire, installare, assistere – sotto lo stesso tetto",
+          "intro": "Gestire internamente ogni fase significa che un solo team risponde di tutto, dal primo disegno all'ultimo intervento di assistenza. Nulla si perde nei passaggi di consegne tra aziende diverse.",
+          "items": [
+            {
+              "title": "Comprendere",
+              "text": "Prima di proporre una macchina analizziamo la Sua flotta, i profili ruota, lo scartamento, gli obiettivi di produttività e il layout dell'officina."
+            },
+            {
+              "title": "Progettare",
+              "text": "I nostri ingegneri adattano piattaforme macchina collaudate ai Suoi veicoli, alle fondazioni e alle prassi operative."
+            },
+            {
+              "title": "Costruire",
+              "text": "Le macchine vengono realizzate, montate e collaudate nel nostro stabilimento di Pune sotto controllo qualità ISO 9001."
+            },
+            {
+              "title": "Installare",
+              "text": "Supervisioniamo le fondazioni, installiamo e allineiamo la macchina e la collaudiamo sulle Sue sale montate prima della consegna."
+            },
+            {
+              "title": "Assistere",
+              "text": "Formazione, contratti di manutenzione, ricambi originali e aggiornamenti mantengono la macchina produttiva per decenni."
+            }
+          ]
+        },
+        {
+          "type": "features",
+          "eyebrow": "I nostri valori",
+          "heading": "Ciò che guida le nostre decisioni",
+          "cols": 3,
+          "items": [
+            {
+              "icon": "rulers",
+              "title": "Precisione",
+              "text": "Un decimo di millimetro su un profilo ruota fa la differenza. Progettiamo, costruiamo e collaudiamo secondo questo standard."
+            },
+            {
+              "icon": "shield-check",
+              "title": "La sicurezza prima di tutto",
+              "text": "Per chi utilizza le nostre macchine, per chi le costruisce e per i passeggeri che viaggiano sulle ruote che lavorano."
+            },
+            {
+              "icon": "person-check",
+              "title": "Responsabilità",
+              "text": "Un solo partner, un unico referente responsabile – e rispondiamo al telefono anche molto tempo dopo la scadenza della garanzia."
+            },
+            {
+              "icon": "clock-history",
+              "title": "Visione di lungo periodo",
+              "text": "Giudichiamo una macchina dalla sua resa nell'arco di vent'anni, non dalla prima settimana di servizio."
+            },
+            {
+              "icon": "lightbulb",
+              "title": "Innovazione concreta",
+              "text": "Una nuova tecnologia si guadagna il suo posto quando rende le officine più rapide, più sicure o più semplici da gestire."
+            },
+            {
+              "icon": "patch-check",
+              "title": "Integrità",
+              "text": "Correttezza nei rapporti con clienti, fornitori e pubbliche amministrazioni, come stabilito dal nostro [Codice di condotta](page:code-of-conduct)."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "eyebrow": "Con chi lavoriamo",
+          "heading": "Scelti da ferrovie e metropolitane",
+          "paragraphs": [
+            "Tra i nostri clienti figurano Indian Railways, Delhi Metro Rail Corporation, National Capital Region Transport Corporation e State Railway of Thailand. Le loro officine si affidano a torni per sale montate e macchine per officine ruote per mantenere le flotte in servizio ed entro i limiti di sicurezza.",
+            "Incontriamo inoltre l'industria ferroviaria internazionale in fiere come Asia Pacific Rail, Middle East Rail, Africa Rail e AusRAIL, dove condividiamo con operatori di numerose reti ciò che abbiamo imparato sulla manutenzione delle sale montate."
+          ],
+          "image": "company/exhibition-stand",
+          "image_alt": "Illustrazione di esempio di uno stand HYT in una fiera ferroviaria internazionale",
+          "layout": "image-left",
+          "link": {
+            "label": "Scopra i nostri clienti",
+            "page": "clientele"
+          }
+        },
+        {
+          "type": "cards",
+          "eyebrow": "Scopra l'azienda",
+          "heading": "Altro su HYT",
+          "cols": 4,
+          "items": [
+            {
+              "page": "history",
+              "icon": "hourglass-split"
+            },
+            {
+              "page": "group-companies",
+              "icon": "buildings"
+            },
+            {
+              "page": "quality",
+              "icon": "clipboard-check"
+            },
+            {
+              "page": "certifications",
+              "icon": "patch-check"
+            },
+            {
+              "page": "awards",
+              "icon": "award"
+            },
+            {
+              "page": "clientele",
+              "icon": "people"
+            },
+            {
+              "page": "csr",
+              "icon": "heart"
+            },
+            {
+              "page": "compliance",
+              "icon": "journal-check"
+            }
+          ]
+        },
+        {
+          "type": "cta",
+          "heading": "Parli con chi costruisce le macchine",
+          "text": "Che stia pianificando un singolo tornio o un'officina ruote completa, i nostri ingegneri applicativi La aiuteranno a definire la soluzione giusta.",
+          "primary": {
+            "label": "Ci parli della Sua esigenza",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Scopra i nostri prodotti",
+            "page": "products"
+          }
+        }
+      ]
+    },
+    "group-companies": {
+      "nav": "Società del gruppo",
+      "title": "Società del gruppo HYT",
+      "description": "Le società del gruppo HYT e come supportano i clienti ferroviari con macchine, ingegneria e assistenza. I dati societari sono in fase di definizione.",
+      "eyebrow": "Chi è HYT",
+      "h1": "Società del gruppo HYT",
+      "lede": "HYT Engineering Company Pvt. Ltd. è la società del gruppo dedicata alle macchine utensili ferroviarie. Questa pagina presenterà le società collegate e il modo in cui collaborano per i clienti.",
+      "summary": "Come le società del gruppo HYT collaborano per i clienti ferroviari e industriali.",
+      "blocks": [
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "Da verificare da parte di HYT: i dati delle società del gruppo non sono ancora verificati. Si prega di fornire per ciascuna società del gruppo la ragione sociale, l'attività principale, la sede, il rapporto con HYT Engineering Company Pvt. Ltd. e il link al sito web (se presente). Fino ad allora le sezioni seguenti sono segnaposto."
+        },
+        {
+          "type": "text",
+          "eyebrow": "Un gruppo, un unico standard",
+          "heading": "Perché la struttura di gruppo è importante per i clienti",
+          "paragraphs": [
+            "I grandi progetti ferroviari raramente dipendono da una sola macchina. Richiedono ingegneria, produzione, installazione e molti anni di assistenza, spesso su più siti. Un gruppo di società collegate può farsi carico di ciascuna di queste attività lavorando secondo standard condivisi e con un impegno comune verso il cliente.",
+            "Qualunque sia la società del gruppo con cui tratta, il contratto, la responsabilità tecnica e il referente per l'assistenza post-vendita saranno sempre chiaramente indicati. Il nostro processo [Qualità](page:quality) e il nostro [Codice di condotta](page:code-of-conduct) si applicano al lavoro che svolgiamo per Lei."
+          ],
+          "image": "company/corporate-office",
+          "image_alt": "Illustrazione di esempio dell'edificio della sede HYT",
+          "layout": "image-right"
+        },
+        {
+          "type": "features",
+          "heading": "Cosa possono aspettarsi i clienti",
+          "cols": 3,
+          "items": [
+            {
+              "icon": "person-check",
+              "title": "Responsabilità chiare",
+              "text": "Ogni offerta indica la società contraente e il referente unico per il Suo progetto."
+            },
+            {
+              "icon": "clipboard-check",
+              "title": "Standard di qualità condivisi",
+              "text": "Revisioni di progetto, collaudi e documentazione seguono lo stesso processo rigoroso."
+            },
+            {
+              "icon": "headset",
+              "title": "Continuità dell'assistenza",
+              "text": "Assistenza, ricambi e aggiornamenti restano disponibili per l'intera vita operativa delle Sue attrezzature."
+            }
+          ]
+        },
+        {
+          "type": "cta",
+          "heading": "Non sa quale società contattare?",
+          "text": "Invii la Sua richiesta a HYT Engineering: la inoltreremo al team giusto.",
+          "primary": {
+            "label": "Contatti il nostro team",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Chi è HYT",
+            "page": "about"
+          }
+        }
+      ]
+    },
+    "history": {
+      "nav": "Storia",
+      "title": "La nostra storia – HYT Engineering dal 1977",
+      "description": "Dai piccoli trapani e torni del 1977 ai torni CNC per sale montate per ferrovie nazionali e metropolitane: le tappe che hanno segnato HYT Engineering a Pune.",
+      "eyebrow": "Chi è HYT",
+      "h1": "La nostra storia",
+      "lede": "Quasi cinquant'anni di costruzione di macchine utensili a Pune e il passaggio graduale dalle macchine generiche per officina alla tecnologia per ruote ferroviarie per cui oggi siamo conosciuti.",
+      "summary": "Le tappe dai nostri inizi nel 1977 ai torni CNC per sale montate per ferrovie e metropolitane.",
+      "blocks": [
+        {
+          "type": "timeline",
+          "heading": "Tappe principali",
+          "intro": "Le fasi principali dello sviluppo di HYT. Ulteriori tappe datate verranno aggiunte man mano che il materiale d'archivio sarà esaminato.",
+          "items": [
+            {
+              "year": "1977",
+              "title": "Gli inizi",
+              "text": "HYT nasce a Pune come HYT Engineering Corporation, costruendo piccoli trapani e torni per officine e industrie locali."
+            },
+            {
+              "year": "1989",
+              "title": "Costituzione della società",
+              "text": "L'attività viene costituita come HYT Engineering Company Pvt. Ltd., dotandosi della struttura necessaria per affrontare commesse di ingegneria più importanti."
+            },
+            {
+              "year": "Crescita",
+              "title": "L'ingresso nei torni CNC per sale montate",
+              "text": "HYT applica la propria esperienza nelle macchine utensili alle sale montate ferroviarie ed è pioniera in India della tecnologia dei torni CNC per sale montate – torni in fossa, a pavimento e a portale, seguiti dalle macchine per officine ruote e assi."
+            },
+            {
+              "year": "Certificazioni",
+              "title": "Tre sistemi di gestione ISO",
+              "text": "I sistemi di gestione per qualità, ambiente e salute e sicurezza sul lavoro sono certificati ISO 9001:2015, ISO 14001:2015 e ISO 45001:2018. Consulti la pagina [Certificazioni](page:certifications)."
+            },
+            {
+              "year": "Internazionale",
+              "title": "Sulla scena internazionale",
+              "text": "HYT espone ad Asia Pacific Rail, Middle East Rail, Africa Rail e AusRAIL e fornisce un tornio verticale a torretta CNC alla State Railway of Thailand."
+            },
+            {
+              "year": "Oggi",
+              "title": "Ordini dagli operatori indiani di metropolitane e trasporto rapido",
+              "text": "Delhi Metro Rail Corporation aggiudica a HYT un tornio CNC tandem in fossa e National Capital Region Transport Corporation emette una lettera di accettazione per torni CNC in fossa completamente automatici. Consulti i [progetti in corso di realizzazione](page:under-execution)."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "eyebrow": "Ciò che non è cambiato",
+          "heading": "Costruttori di macchine nell'anima",
+          "paragraphs": [
+            "I nostri prodotti e i nostri clienti sono cambiati molto dal 1977, ma l'essenza no. Progettiamo ancora le nostre macchine internamente, le costruiamo nel nostro stabilimento e ne rispondiamo direttamente in officina.",
+            "Questa continuità è importante per gli operatori ferroviari. Un tornio per sale montate può restare in servizio per decenni, e l'azienda che lo ha costruito dovrebbe essere ancora presente per assisterlo, aggiornarlo e, un giorno, sostituirlo. Scopra di più [su HYT](page:about) o veda le [macchine che costruiamo oggi](page:products)."
+          ],
+          "image": "company/manufacturing-facility",
+          "image_alt": "Illustrazione di esempio di macchine utensili in fase di montaggio nello stabilimento HYT",
+          "layout": "image-right"
+        },
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "Da verificare da parte di HYT: solo le date 1977 e 1989 sono verificate. Si prega di fornire tappe datate (primo tornio CNC per sale montate, primo tornio in fossa, anni delle certificazioni ISO, primo ordine di esportazione, principali contratti) e fotografie d'archivio per la cronologia."
+        }
+      ]
+    },
+    "quality": {
+      "nav": "Qualità",
+      "title": "Assicurazione qualità – Dalla progettazione al collaudo",
+      "description": "Come HYT integra la qualità in ogni tornio per sale montate: revisioni di progetto, controlli in accettazione e in corso d'opera, prove sulle sale del cliente.",
+      "eyebrow": "Credenziali",
+      "h1": "La qualità in HYT",
+      "lede": "Un tornio per sale montate definisce il profilo su cui viaggia un treno. Per noi la qualità è un processo che inizia con il primo disegno e termina solo quando la macchina ha dato prova di sé sulle Sue sale montate.",
+      "summary": "Il nostro processo qualità, dalla revisione di progetto alle prove di accettazione sulle sale montate del cliente.",
+      "blocks": [
+        {
+          "type": "text",
+          "eyebrow": "Perché è importante",
+          "heading": "Una qualità che si misura sulla ruota",
+          "paragraphs": [
+            "Un errore in una macchina utensile si ripete in ogni pezzo che produce. Su un tornio per sale montate significa ogni profilo ruota, su ogni treno, per anni. Precisione, ripetibilità e affidabilità non sono quindi optional: sono il prodotto stesso.",
+            "Il nostro sistema di gestione per la qualità è certificato ISO 9001:2015. Il certificato attesta che il processo esiste ed è sottoposto ad audit; i passaggi seguenti mostrano come funziona nella pratica. I certificati per qualità, ambiente e salute e sicurezza sul lavoro sono raccolti nella pagina [Certificazioni](page:certifications)."
+          ],
+          "image": "company/quality-inspection",
+          "image_alt": "Illustrazione di esempio di un ispettore che misura un componente lavorato nell'area qualità HYT",
+          "layout": "image-right"
+        },
+        {
+          "type": "steps",
+          "eyebrow": "Il nostro processo qualità",
+          "heading": "Sei punti di controllo tra ordine e consegna",
+          "items": [
+            {
+              "title": "Riesame del contratto e del progetto",
+              "text": "Specifiche del cliente, profili ruota, scartamento e condizioni del sito vengono esaminati dall'ufficio tecnico prima dell'inizio della progettazione, e ogni progetto viene verificato rispetto a essi prima del rilascio."
+            },
+            {
+              "title": "Controllo fornitori e collaudo in accettazione",
+              "text": "Getti, strutture, componenti acquistati e sistemi CNC provengono da fornitori qualificati e vengono controllati all'arrivo rispetto a disegni e specifiche."
+            },
+            {
+              "title": "Controlli in corso d'opera",
+              "text": "Le caratteristiche lavorate critiche, la geometria e gli allineamenti vengono verificati in fasi definite della produzione e del montaggio, con registrazione dei risultati."
+            },
+            {
+              "title": "Prove in fabbrica",
+              "text": "Ogni macchina viene messa in funzione, le sue funzioni e gli interblocchi di sicurezza vengono provati e la precisione geometrica viene verificata nel nostro stabilimento prima della spedizione."
+            },
+            {
+              "title": "Prove in sito e accettazione",
+              "text": "Dopo l'installazione, la macchina viene collaudata sulle sale montate del cliente. Profili e dimensioni vengono misurati e i risultati vengono approvati insieme al cliente."
+            },
+            {
+              "title": "Documentazione e consegna",
+              "text": "Verbali di collaudo, rapporti di prova, manuali, disegni ed elenchi ricambi vengono consegnati con la macchina, a supporto degli audit e della manutenzione futura."
+            }
+          ]
+        },
+        {
+          "type": "features",
+          "eyebrow": "Oltre la checklist",
+          "heading": "Come continuiamo a migliorare",
+          "cols": 3,
+          "items": [
+            {
+              "icon": "arrow-repeat",
+              "title": "Riscontri dal campo",
+              "text": "I rapporti di assistenza e i riscontri dei clienti vengono analizzati e riportati nella progettazione e nella produzione."
+            },
+            {
+              "icon": "search",
+              "title": "Analisi delle cause",
+              "text": "Le non conformità vengono analizzate fino alla causa e corrette affinché non si ripetano."
+            },
+            {
+              "icon": "mortarboard",
+              "title": "Personale qualificato",
+              "text": "Ispettori, montatori e tecnici dell'assistenza sono formati sui metodi e sugli standard applicabili al loro lavoro."
+            }
+          ]
+        },
+        {
+          "type": "cards",
+          "heading": "Pagine correlate",
+          "cols": 3,
+          "items": [
+            {
+              "page": "certifications",
+              "icon": "patch-check"
+            },
+            {
+              "page": "installation-commissioning",
+              "icon": "tools"
+            },
+            {
+              "page": "policy-statement",
+              "icon": "journal-check"
+            }
+          ]
+        },
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "Da verificare da parte di HYT: si prega di confermare che le sei fasi del processo rispecchiano le effettive procedure qualità di HYT e se debbano essere citate specifiche attrezzature di controllo o ispezioni da parte del cliente (ad es. da parte di ispettori terzi o delle ferrovie)."
+        }
+      ]
+    },
+    "certifications": {
+      "nav": "Certificazioni",
+      "title": "Certificazioni ISO 9001, ISO 14001 e ISO 45001",
+      "description": "I sistemi di gestione di HYT Engineering sono certificati ISO 9001:2015, ISO 14001:2015 e ISO 45001:2018. Cosa copre ogni norma e perché è importante per Lei.",
+      "eyebrow": "Credenziali",
+      "h1": "Certificazioni",
+      "lede": "I nostri sistemi di gestione per qualità, ambiente e salute e sicurezza sul lavoro sono certificati da enti indipendenti. Ecco cosa significa ciascun certificato per clienti e partner.",
+      "summary": "ISO 9001:2015, ISO 14001:2015 e ISO 45001:2018 – cosa copre ciascun certificato.",
+      "blocks": [
+        {
+          "type": "features",
+          "eyebrow": "Sistemi di gestione certificati",
+          "heading": "Tre norme, un unico modo di lavorare",
+          "intro": "Ogni norma è sottoposta ad audit da parte di un ente di certificazione indipendente. Insieme coprono il modo in cui costruiamo le macchine, trattiamo l'ambiente e tuteliamo le persone.",
+          "cols": 3,
+          "items": [
+            {
+              "icon": "clipboard-check",
+              "title": "ISO 9001:2015 – Gestione della qualità",
+              "text": "Richiede un processo documentato e sottoposto ad audit per comprendere i requisiti del cliente, controllare progettazione, acquisti e produzione e correggere i problemi. Per Lei significa macchine costanti nella qualità e registrazioni tracciabili."
+            },
+            {
+              "icon": "tree",
+              "title": "ISO 14001:2015 – Gestione ambientale",
+              "text": "Ci impone di individuare l'impatto ambientale delle nostre attività – energia, rifiuti, emissioni, refrigeranti e oli – e di tenerlo sotto controllo e ridurlo. Per Lei significa un fornitore che gestisce la propria impronta ambientale."
+            },
+            {
+              "icon": "shield-check",
+              "title": "ISO 45001:2018 – Salute e sicurezza sul lavoro",
+              "text": "Ci impone di individuare i pericoli e di prevenire infortuni e malattie professionali nel nostro stabilimento e presso i siti dei clienti. Per Lei significa interventi di installazione e assistenza più sicuri nel Suo deposito."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "eyebrow": "Per buyer e auditor",
+          "heading": "Utilizzare i nostri certificati nella qualifica fornitori",
+          "paragraphs": [
+            "Le gare di ferrovie e metropolitane richiedono spesso la prova di sistemi di gestione certificati. Copie dei nostri certificati in vigore, con campo di applicazione, ente di certificazione e date di validità, saranno disponibili per il download in questa pagina.",
+            "Se le servono prima i certificati per una gara o un audit fornitori, [ci contatti](page:contact-us) e glieli invieremo direttamente. Per vedere come la ISO 9001 funziona concretamente in officina, legga del nostro [processo qualità](page:quality); per i nostri impegni in ciascun ambito consulti la [Dichiarazione di politica](page:policy-statement)."
+          ],
+          "image": "company/quality-inspection",
+          "image_alt": "Illustrazione di esempio di una postazione di controllo qualità con strumenti di misura",
+          "layout": "image-right"
+        },
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "Da verificare da parte di HYT: i PDF dei certificati non sono ancora disponibili. Si prega di fornire i certificati in vigore ISO 9001:2015, ISO 14001:2015 e ISO 45001:2018, con campo di applicazione certificato, ente di certificazione e date di validità, così da poterli aggiungere qui come download."
+        }
+      ]
+    },
+    "awards": {
+      "nav": "Riconoscimenti",
+      "title": "Premi e riconoscimenti",
+      "description": "I riconoscimenti di HYT Engineering, tra cui la presenza in Leading Mid-Corporates of India 2023 di Dun & Bradstreet, e come misuriamo il successo.",
+      "eyebrow": "Credenziali",
+      "h1": "Premi e riconoscimenti",
+      "lede": "Il miglior riconoscimento è una macchina ancora in uso quotidiano anni dopo la consegna. Siamo inoltre orgogliosi quando organizzazioni indipendenti notano il nostro lavoro.",
+      "summary": "Riconoscimenti indipendenti del lavoro e della crescita di HYT Engineering.",
+      "blocks": [
+        {
+          "type": "features",
+          "eyebrow": "Riconoscimenti",
+          "heading": "Riconoscimenti indipendenti",
+          "cols": 2,
+          "items": [
+            {
+              "icon": "award",
+              "title": "Leading Mid-Corporates of India 2023",
+              "text": "HYT Engineering è inserita nella pubblicazione di Dun & Bradstreet “Leading Mid-Corporates of India 2023”, che presenta aziende indiane di medie dimensioni affermate."
+            },
+            {
+              "icon": "people",
+              "title": "Ordini da operatori pubblici",
+              "text": "Gli ordini di Indian Railways, Delhi Metro Rail Corporation e National Capital Region Transport Corporation riflettono la fiducia di clienti pubblici esigenti. Scopra i nostri [clienti](page:clientele)."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "eyebrow": "Come misuriamo il successo",
+          "heading": "Riconoscimenti conquistati in officina",
+          "paragraphs": [
+            "I premi sono graditi, ma il nostro vero metro di giudizio è concreto: treni restituiti al servizio in tempo, ruote che sopportano più cicli di riprofilatura e macchine che continuano a funzionare in modo affidabile per decenni.",
+            "Questi risultati poggiano su un rigoroso [processo qualità](page:quality), su [sistemi di gestione certificati](page:certifications) da enti indipendenti e su rapporti duraturi con gli operatori elencati nella pagina [Clienti](page:clientele). Sono anche il motivo per cui i clienti tornano da noi per aggiornamenti, contratti di manutenzione e nuove macchine.",
+            "Condividiamo questa esperienza con il settore in eventi internazionali come Asia Pacific Rail, Middle East Rail, Africa Rail e AusRAIL. Consulti le nostre [fiere internazionali](page:international-exhibitions)."
+          ],
+          "image": "company/exhibition-stand",
+          "image_alt": "Illustrazione di esempio di uno stand HYT in una fiera del settore ferroviario",
+          "layout": "image-right"
+        },
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "Da verificare da parte di HYT: l'inserimento nella pubblicazione di Dun & Bradstreet è tratto da un indice di pubblicazioni e deve essere confermato. Si prega di fornire l'elenco completo di premi e riconoscimenti (nome, ente che lo ha conferito, anno, certificato o fotografia) per completare questa pagina."
+        }
+      ]
+    },
+    "clientele": {
+      "nav": "Clienti",
+      "title": "I nostri clienti – Ferrovie e operatori metropolitani",
+      "description": "Torni per sale montate e macchine per officine HYT per Indian Railways, Delhi Metro, NCRTC e State Railway of Thailand: scopra con chi lavoriamo.",
+      "eyebrow": "Credenziali",
+      "h1": "I nostri clienti",
+      "lede": "Ferrovie nazionali e operatori metropolitani si affidano alle macchine HYT per mantenere le sale montate entro i limiti di sicurezza e le flotte in servizio.",
+      "summary": "Ferrovie e operatori metropolitani che si affidano ai torni per sale montate e alle macchine per officine HYT.",
+      "blocks": [
+        {
+          "type": "logos",
+          "heading": "Clienti selezionati",
+          "intro": "Una selezione di operatori a cui HYT ha fornito macchine o da cui ha ricevuto ordini.",
+          "items": [
+            {
+              "name": "Indian Railways",
+              "note": "Contratto per nove torni CNC in fossa"
+            },
+            {
+              "name": "Delhi Metro Rail Corporation (DMRC)",
+              "note": "Tornio CNC tandem in fossa"
+            },
+            {
+              "name": "National Capital Region Transport Corporation (NCRTC)",
+              "note": "Torni CNC in fossa completamente automatici"
+            },
+            {
+              "name": "State Railway of Thailand",
+              "note": "Tornio verticale a torretta CNC, fornito e installato a Bangkok"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "eyebrow": "Cosa accomuna i nostri clienti",
+          "heading": "Operatori che non possono permettersi treni fermi",
+          "paragraphs": [
+            "I nostri clienti gestiscono flotte ad alto utilizzo con programmi di manutenzione serrati. Per loro un tornio per sale montate non è uno strumento occasionale, ma un collo di bottiglia quotidiano: ogni ora in cui un treno attende la riprofilatura è un'ora in cui non genera ricavi né trasporta passeggeri.",
+            "Per questo cercano più di una macchina. Hanno bisogno di fondazioni progettate correttamente fin dal primo momento, di operatori formati sui propri veicoli e di un partner di assistenza che risponda quando serve. I dettagli sono disponibili nei nostri [progetti realizzati](page:executed-projects) e nei [progetti in corso di realizzazione](page:under-execution)."
+          ],
+          "image": "industries/railways",
+          "image_alt": "Illustrazione di esempio di un deposito di manutenzione ferroviaria con locomotive e carrozze",
+          "layout": "image-right"
+        },
+        {
+          "type": "cards",
+          "heading": "Settori serviti",
+          "cols": 3,
+          "items": [
+            {
+              "page": "ind-railways",
+              "image": "industries/railways"
+            },
+            {
+              "page": "ind-metros",
+              "image": "industries/metros"
+            },
+            {
+              "page": "ind-rolling-stock",
+              "image": "industries/rolling-stock-manufacturers"
+            }
+          ]
+        },
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "Da verificare da parte di HYT: si prega di fornire l'elenco clienti approvato per la pubblicazione e di confermare, per ciascun cliente, se il nome può essere mostrato e se esiste l'autorizzazione a visualizzarne il logo."
+        }
+      ]
+    },
+    "csr": {
+      "nav": "CSR",
+      "title": "Responsabilità sociale d'impresa in HYT",
+      "description": "Responsabilità sociale d'impresa in HYT Engineering: istruzione, competenze, ambiente e salute, guidata dalle persone che costruiscono le macchine a Pune.",
+      "eyebrow": "Responsabilità",
+      "h1": "Responsabilità sociale d'impresa",
+      "lede": "Le nostre macchine sono costruite da persone della comunità che circonda il nostro stabilimento di Pune. Vogliamo che questa comunità cresca e si rafforzi insieme all'azienda.",
+      "summary": "Il nostro approccio a istruzione, competenze, ambiente e salute nella comunità che ci circonda.",
+      "blocks": [
+        {
+          "type": "text",
+          "eyebrow": "Il nostro approccio",
+          "heading": "Una responsabilità che inizia vicino a casa",
+          "paragraphs": [
+            "Le aziende di ingegneria dipendono da persone qualificate, da un ambiente sano e da comunità stabili. Il nostro approccio alla CSR si concentra sugli ambiti in cui un'impresa manifatturiera può fare una differenza concreta e duratura, anziché su gesti isolati.",
+            "Il nostro obiettivo è scegliere i progetti con attenzione, collaborare con partner affidabili, coinvolgere i nostri collaboratori e rendicontare con onestà i risultati raggiunti."
+          ],
+          "image": "company/csr-community",
+          "image_alt": "Illustrazione di esempio di un'attività di coinvolgimento della comunità con volontari HYT",
+          "layout": "image-right"
+        },
+        {
+          "type": "features",
+          "eyebrow": "Ambiti di intervento",
+          "heading": "Dove vogliamo fare la differenza",
+          "cols": 4,
+          "items": [
+            {
+              "icon": "book",
+              "title": "Istruzione",
+              "text": "Sostegno a scuole e studenti, con particolare attenzione a scienze, matematica e ingegneria."
+            },
+            {
+              "icon": "mortarboard",
+              "title": "Sviluppo delle competenze",
+              "text": "Aiutare i giovani ad acquisire le competenze tecniche e professionali di cui ha bisogno la manifattura."
+            },
+            {
+              "icon": "tree",
+              "title": "Ambiente",
+              "text": "Riduzione dell'impronta ambientale delle nostre attività secondo la ISO 14001 e sostegno a iniziative ambientali locali."
+            },
+            {
+              "icon": "heart-pulse",
+              "title": "Salute e benessere",
+              "text": "Promozione della salute e della sicurezza per i collaboratori, le loro famiglie e la comunità più ampia."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "eyebrow": "Le nostre persone",
+          "heading": "Collaboratori che partecipano",
+          "paragraphs": [
+            "La responsabilità fa parte anche della vita quotidiana del nostro stabilimento. Iniziative per i collaboratori come le giornate di donazione del sangue, la Settimana della sicurezza e la Giornata internazionale dello Yoga riuniscono i colleghi intorno a salute, sicurezza e impegno verso gli altri.",
+            "Le fotografie di questi eventi sono disponibili nella pagina [Vita in HYT](page:memorialization)."
+          ],
+          "image": "company/life-at-hyt",
+          "image_alt": "Illustrazione di esempio di collaboratori HYT che partecipano a un'iniziativa aziendale sulla salute",
+          "layout": "image-left"
+        },
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "Da verificare da parte di HYT: le attività CSR non sono ancora verificate. Si prega di fornire la politica CSR approvata, gli ambiti di intervento che HYT desidera pubblicare e i dettagli dei progetti completati o in corso (partner, luogo, anno, fotografie)."
+        }
+      ]
+    },
+    "compliance": {
+      "nav": "Compliance",
+      "title": "Compliance – Codici, linee guida e politiche",
+      "description": "Codice di condotta, Linee guida di comportamento aziendale e dichiarazione di politica integrata di HYT Engineering, raccolti per fornitori, clienti e auditor.",
+      "eyebrow": "Responsabilità",
+      "h1": "Compliance",
+      "lede": "Clienti ferroviari, fornitori e auditor devono sapere come conduciamo i nostri affari. I nostri codici, linee guida e politiche sono raccolti qui.",
+      "summary": "Il nostro Codice di condotta, le Linee guida di comportamento aziendale e la dichiarazione di politica integrata in un unico luogo.",
+      "blocks": [
+        {
+          "type": "text",
+          "eyebrow": "Perché è importante",
+          "heading": "Fare impresa nel modo giusto",
+          "paragraphs": [
+            "Gran parte del nostro lavoro è svolto per operatori pubblici ferroviari e metropolitani, per i quali concorrenza leale, gare trasparenti e lavoro sicuro non sono negoziabili. I documenti di questa pagina definiscono gli standard che pretendiamo da noi stessi e da chiunque lavori con noi.",
+            "I fornitori che si registrano presso HYT e gli auditor che effettuano valutazioni dei fornitori troveranno di seguito gli impegni pertinenti. I nuovi fornitori possono candidarsi tramite la [Registrazione fornitori](page:supplier-registration).",
+            "I nostri sistemi di gestione per qualità, ambiente e salute e sicurezza sul lavoro sono certificati ISO 9001:2015, ISO 14001:2015 e ISO 45001:2018; i dettagli sono nella pagina [Certificazioni](page:certifications). Per domande su uno qualsiasi dei documenti presenti o per richiedere copie firmate per una gara o un audit, [ci contatti](page:contact-us)."
+          ],
+          "image": "company/corporate-office",
+          "image_alt": "Illustrazione di esempio della sede HYT",
+          "layout": "image-right"
+        },
+        {
+          "type": "cards",
+          "heading": "Documenti di compliance",
+          "cols": 3,
+          "items": [
+            {
+              "page": "code-of-conduct",
+              "icon": "journal-check"
+            },
+            {
+              "page": "guidelines",
+              "icon": "signpost-split"
+            },
+            {
+              "page": "policy-statement",
+              "icon": "file-earmark-text"
+            }
+          ]
+        },
+        {
+          "type": "features",
+          "eyebrow": "In preparazione",
+          "heading": "Altri documenti",
+          "cols": 2,
+          "items": [
+            {
+              "icon": "people",
+              "title": "Codice di condotta per i fornitori",
+              "text": "Gli standard in materia di etica, lavoro, sicurezza e ambiente che ci aspettiamo dai nostri fornitori e subappaltatori."
+            },
+            {
+              "icon": "shield-lock",
+              "title": "Sicurezza delle informazioni",
+              "text": "Come proteggiamo i disegni dei clienti, i dati di progetto e i sistemi di controllo delle macchine che forniamo."
+            }
+          ]
+        },
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "Da verificare da parte di HYT: per questa sezione sono previsti un Codice di condotta per i fornitori e una dichiarazione sulla sicurezza delle informazioni. Si prega di confermare se tali documenti esistono e di fornirli, oppure di approvarne le bozze."
+        }
+      ]
+    },
+    "code-of-conduct": {
+      "nav": "Codice di condotta",
+      "title": "Codice di condotta",
+      "description": "Il Codice di condotta di HYT Engineering: integrità, anticorruzione, concorrenza leale, sicurezza, ambiente, riservatezza, diritti umani e segnalazioni.",
+      "eyebrow": "Compliance",
+      "h1": "Codice di condotta",
+      "lede": "Il presente Codice definisce gli standard di comportamento che si applicano a chiunque lavori per o per conto di HYT Engineering Company Pvt. Ltd.",
+      "summary": "Gli standard di comportamento che si applicano a chiunque lavori per o per conto di HYT.",
+      "blocks": [
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "Da verificare da parte di HYT: il presente Codice di condotta è una bozza e richiede l'approvazione della direzione di HYT e del consulente legale prima della pubblicazione. Si prega inoltre di confermare il canale di segnalazione (referente designato o indirizzo e-mail dedicato)."
+        },
+        {
+          "type": "prose",
+          "updated": "Bozza – in attesa di approvazione",
+          "sections": [
+            {
+              "heading": "1. Finalità e ambito di applicazione",
+              "paragraphs": [
+                "HYT Engineering Company Pvt. Ltd. (“HYT”) progetta, costruisce e assiste macchine da cui dipende la sicurezza ferroviaria. I nostri clienti, molti dei quali sono enti pubblici, confidano che agiamo con onestà e responsabilità. Il presente Codice spiega che cosa ciò significa nella pratica.",
+                "Il Codice si applica a tutti gli amministratori, i dirigenti e i dipendenti di HYT, compreso il personale temporaneo e a contratto. Ci aspettiamo inoltre che agenti, consulenti, fornitori, subappaltatori e altri partner commerciali che agiscono per nostro conto rispettino standard equivalenti.",
+                "Il Codice non contempla ogni situazione. Laddove non disponga, occorre usare il buon senso, rispettare la legge e chiedere consiglio in caso di dubbio."
+              ]
+            },
+            {
+              "heading": "2. Agire con integrità",
+              "paragraphs": [
+                "Rispettiamo tutte le leggi e i regolamenti applicabili alla nostra attività in India e in ogni paese in cui operiamo. Laddove le consuetudini locali e la legge divergano, seguiamo la legge. Laddove il presente Codice stabilisca uno standard più elevato della legge, seguiamo il Codice."
+              ],
+              "bullets": [
+                "Essere onesti e precisi in tutto ciò che affermiamo sui nostri prodotti, servizi e capacità.",
+                "Mantenere le promesse fatte ai clienti oppure spiegare tempestivamente e apertamente quando non possiamo farlo.",
+                "Non falsificare mai registrazioni, risultati di prova, verbali di collaudo o certificati."
+              ]
+            },
+            {
+              "heading": "3. Anticorruzione",
+              "paragraphs": [
+                "HYT non tollera la corruzione in alcuna forma. Non offriamo, promettiamo, diamo, chiediamo né accettiamo alcun pagamento, regalo o vantaggio destinato a influenzare impropriamente una decisione aziendale – che la controparte sia un pubblico ufficiale o un soggetto privato.",
+                "Ciò vale allo stesso modo per i pagamenti effettuati tramite agenti, consulenti, distributori o familiari. Non sono ammessi i pagamenti di agevolazione (facilitation payments) volti ad accelerare atti amministrativi di routine."
+              ],
+              "bullets": [
+                "Regali e ospitalità possono essere offerti o accettati solo se di modesto valore, occasionali, trasparenti e non collegati a una decisione in sospeso, e solo nel rispetto delle nostre [Linee guida di comportamento aziendale](page:guidelines).",
+                "Rispettiamo le regole di approvvigionamento dei nostri clienti, compresi i patti di integrità e i codici di comportamento nelle gare pubbliche.",
+                "Agenti e intermediari vengono nominati solo dopo un'adeguata due diligence, con contratti scritti e per servizi documentati a compensi in linea con il mercato.",
+                "Tutti i pagamenti sono debitamente autorizzati e registrati con precisione."
+              ]
+            },
+            {
+              "heading": "4. Conflitti di interesse",
+              "paragraphs": [
+                "Si ha un conflitto di interesse quando interessi personali – economici, familiari o di altra natura – potrebbero influenzare, o sembrare influenzare, decisioni prese per conto di HYT.",
+                "I dipendenti devono evitare tali conflitti ove possibile e comunicare per iscritto al proprio responsabile qualsiasi conflitto effettivo o potenziale. Ne sono esempi un interesse economico in un fornitore, cliente o concorrente; un'attività lavorativa esterna in concorrenza con HYT; oppure il coinvolgimento in una decisione di acquisto che riguardi un familiare."
+              ]
+            },
+            {
+              "heading": "5. Concorrenza leale",
+              "paragraphs": [
+                "Acquisiamo commesse grazie ai meriti delle nostre macchine, della nostra assistenza e dei nostri prezzi. Rispettiamo la normativa antitrust in ogni mercato in cui operiamo."
+              ],
+              "bullets": [
+                "Non concordiamo prezzi, offerte, mercati o clienti con i concorrenti e non partecipiamo a turbative d'asta.",
+                "Non scambiamo informazioni commercialmente sensibili con i concorrenti.",
+                "Otteniamo informazioni su concorrenti e gare esclusivamente con mezzi leciti ed etici.",
+                "Descriviamo i prodotti dei concorrenti in modo corretto e accurato."
+              ]
+            },
+            {
+              "heading": "6. Salute e sicurezza",
+              "paragraphs": [
+                "Nessuno deve subire danni lavorando per HYT o utilizzando le nostre macchine. Il nostro sistema di gestione della salute e sicurezza sul lavoro è certificato ISO 45001:2018."
+              ],
+              "bullets": [
+                "Rispettare le regole di sicurezza, i permessi di lavoro e le istruzioni nel nostro stabilimento e presso i siti dei clienti.",
+                "Utilizzare i dispositivi di protezione individuale richiesti per l'attività.",
+                "Interrompere i lavori non sicuri e segnalare immediatamente pericoli, incidenti e quasi incidenti.",
+                "Non lavorare mai sotto l'effetto di alcol o droghe.",
+                "Progettare le macchine considerando la sicurezza di operatori e manutentori come requisito primario."
+              ]
+            },
+            {
+              "heading": "7. Ambiente",
+              "paragraphs": [
+                "Ci impegniamo a ridurre l'impatto ambientale delle nostre attività e dei nostri prodotti. Il nostro sistema di gestione ambientale è certificato ISO 14001:2015."
+              ],
+              "bullets": [
+                "Rispettare le leggi e le autorizzazioni in materia ambientale.",
+                "Utilizzare in modo efficiente energia, materiali e acqua.",
+                "Manipolare, stoccare e smaltire correttamente oli, refrigeranti, sostanze chimiche e rifiuti.",
+                "Tenere conto di consumi energetici, rumorosità e riciclabilità nella progettazione delle macchine."
+              ]
+            },
+            {
+              "heading": "8. Informazioni riservate e proprietà intellettuale",
+              "paragraphs": [
+                "I nostri progetti, disegni, software, prezzi e know-how sono beni di valore. Anche clienti e fornitori ci affidano le proprie informazioni riservate, tra cui disegni, dati infrastrutturali e documenti di progetto."
+              ],
+              "bullets": [
+                "Utilizzare le informazioni riservate esclusivamente per lo scopo per cui sono state fornite.",
+                "Condividerle solo con persone che ne hanno bisogno per il proprio lavoro e sono autorizzate a riceverle.",
+                "Rispettare la proprietà intellettuale altrui, comprese le licenze software.",
+                "Gli obblighi di riservatezza permangono anche dopo la cessazione del rapporto di lavoro con HYT."
+              ]
+            },
+            {
+              "heading": "9. Protezione dei dati e sicurezza delle informazioni",
+              "paragraphs": [
+                "Raccogliamo e utilizziamo dati personali – di dipendenti, clienti, candidati e fornitori – solo per finalità aziendali legittime, li conserviamo in modo sicuro e non oltre il tempo necessario, in conformità con la normativa applicabile in materia di protezione dei dati e con la nostra [Informativa sulla privacy](page:privacy-policy).",
+                "Tutti devono proteggere i sistemi e i dati aziendali: utilizzare password robuste, non condividere gli account, segnalare tempestivamente i sospetti incidenti di sicurezza e prestare attenzione all'accesso remoto ai sistemi di controllo delle macchine."
+              ]
+            },
+            {
+              "heading": "10. Diritti umani e lavoro equo",
+              "paragraphs": [
+                "Rispettiamo i diritti umani dei nostri dipendenti e di tutte le persone interessate dalla nostra attività."
+              ],
+              "bullets": [
+                "Non ricorriamo al lavoro minorile, al lavoro forzato o al lavoro vincolato da debiti, e non li accettiamo nella nostra catena di fornitura.",
+                "Trattiamo le persone con dignità e non tolleriamo molestie, bullismo o discriminazioni per alcun motivo, inclusi genere, casta, religione, etnia, età, disabilità o orientamento sessuale.",
+                "Corrispondiamo almeno le retribuzioni e i benefici previsti dalla legge e rispettiamo le norme sull'orario di lavoro.",
+                "Rispettiamo il diritto legittimo dei dipendenti di aderire o non aderire ad associazioni."
+              ]
+            },
+            {
+              "heading": "11. Beni aziendali e correttezza delle registrazioni",
+              "paragraphs": [
+                "Attrezzature, materiali, veicoli e fondi aziendali devono essere utilizzati per finalità aziendali legittime e protetti da perdita, furto e uso improprio. Libri contabili, registrazioni e rapporti devono essere completi, accurati e redatti in conformità con i principi contabili e la normativa applicabili."
+              ]
+            },
+            {
+              "heading": "12. Segnalazioni",
+              "paragraphs": [
+                "Chiunque sospetti una violazione del presente Codice, della legge o delle politiche aziendali è invitato a segnalarla il prima possibile. Le segnalazioni possono essere rivolte al proprio responsabile diretto, all'ufficio risorse umane o a un membro dell'alta direzione. Partner commerciali e terzi possono scrivere a HYT Engineering Company Pvt. Ltd., 29/10, 29/10/1, 29/10/2, D-II Block, MIDC Chinchwad, Pune 411019, India, oppure inviare un'e-mail a info@hytengineering.com, indicando nel messaggio “Riservato – Codice di condotta”.",
+                "Ogni segnalazione sarà presa sul serio, trattata in modo riservato nei limiti consentiti dalla legge e verificata in modo imparziale."
+              ]
+            },
+            {
+              "heading": "13. Divieto di ritorsioni",
+              "paragraphs": [
+                "HYT non tollera ritorsioni nei confronti di chi effettua una segnalazione in buona fede o collabora a un'indagine, anche qualora la segnalazione si riveli infondata. Le ritorsioni costituiscono di per sé una grave violazione del presente Codice."
+              ]
+            },
+            {
+              "heading": "14. Rispetto del presente Codice",
+              "paragraphs": [
+                "I responsabili devono assicurarsi che i propri team comprendano e rispettino il presente Codice. Le violazioni possono comportare provvedimenti disciplinari fino al licenziamento e, per i partner commerciali, la cessazione del rapporto. In caso di violazione della legge, HYT può informarne le autorità competenti.",
+                "Il presente Codice viene riesaminato periodicamente e aggiornato quando necessario. Indicazioni pratiche sulla sua applicazione sono fornite nelle nostre [Linee guida di comportamento aziendale](page:guidelines), mentre i nostri impegni in materia di qualità, ambiente, salute e sicurezza sono illustrati nella [Dichiarazione di politica](page:policy-statement)."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "guidelines": {
+      "nav": "Linee guida",
+      "title": "Linee guida di comportamento aziendale",
+      "description": "Indicazioni pratiche per dipendenti e partner HYT su regali, ospitalità, gare pubbliche, agenti, export, condotta in cantiere, registrazioni e comunicazione.",
+      "eyebrow": "Compliance",
+      "h1": "Linee guida di comportamento aziendale",
+      "lede": "Queste linee guida traducono i principi del nostro Codice di condotta in regole pratiche per le situazioni quotidiane nelle vendite, negli acquisti, nei progetti e nell'assistenza.",
+      "summary": "Regole pratiche su regali, gare, agenti, controlli sulle esportazioni, condotta in cantiere e registrazioni.",
+      "blocks": [
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "Da verificare da parte di HYT: la voce di menu “Linee guida” è generica; questa pagina è intitolata “Linee guida di comportamento aziendale”. Si prega di confermare la voce e i contenuti previsti e di approvare il testo (compresi eventuali limiti di valore per regali e ospitalità) con la direzione e il consulente legale."
+        },
+        {
+          "type": "prose",
+          "updated": "Bozza – in attesa di approvazione",
+          "sections": [
+            {
+              "heading": "1. Come utilizzare queste linee guida",
+              "paragraphs": [
+                "Queste linee guida integrano il [Codice di condotta](page:code-of-conduct) e si applicano alle stesse persone: chiunque lavori per HYT e i partner che agiscono per nostro conto. Se una situazione non è contemplata, si ponga queste domande: È legale? È coerente con il Codice? Mi sentirei a mio agio se venisse riferito al nostro cliente o reso pubblico? Se la risposta a una qualsiasi domanda è no, o in caso di incertezza, chieda al Suo responsabile prima di agire."
+              ]
+            },
+            {
+              "heading": "2. Regali e ospitalità",
+              "paragraphs": [
+                "Regali e ospitalità di modesta entità possono favorire buoni rapporti commerciali, ma non devono mai creare un obbligo né darne l'impressione."
+              ],
+              "bullets": [
+                "Accettare od offrire solo oggetti di modesto valore, come articoli promozionali, normali pranzi di lavoro o dolci in occasione delle festività, entro i limiti stabiliti dalla direzione.",
+                "Non dare né accettare mai denaro contante, equivalenti di denaro, buoni, prestiti o favori personali.",
+                "Non offrire regali od ospitalità al personale del cliente coinvolto in una gara, un'ispezione o una decisione di accettazione in corso.",
+                "Rispettare le regole dell'organizzazione del destinatario – molti enti pubblici vietano del tutto i regali.",
+                "Registrare regali e ospitalità al di sopra della soglia concordata e informarne il proprio responsabile."
+              ]
+            },
+            {
+              "heading": "3. Rapporti con clienti pubblici e gare",
+              "paragraphs": [
+                "Molti dei nostri clienti sono enti pubblici ferroviari e metropolitani. Le loro regole di approvvigionamento esistono per garantire equità e un uso efficiente del denaro pubblico, e le rispettiamo pienamente."
+              ],
+              "bullets": [
+                "Presentare documenti di gara e dati tecnici veritieri e completi.",
+                "Rispettare i patti di integrità, le procedure di pre-gara e le regole di comunicazione stabilite dal cliente.",
+                "Non cercare né utilizzare informazioni riservate su una gara o sull'offerta di un concorrente.",
+                "Non discutere opportunità di impiego con pubblici ufficiali coinvolti in decisioni che riguardano HYT.",
+                "Segnalare immediatamente e respingere qualsiasi richiesta di pagamento indebito."
+              ]
+            },
+            {
+              "heading": "4. Agenti, consulenti e partner",
+              "bullets": [
+                "Nominare intermediari solo per servizi reali e documentati e dopo verifiche preliminari.",
+                "Utilizzare contratti scritti che includano clausole anticorruzione e di compliance.",
+                "Corrispondere compensi proporzionati all'attività svolta, su conti intestati alla parte contraente e nel paese in cui i servizi vengono prestati.",
+                "Prestare attenzione ai segnali d'allarme, come richieste di pagamenti insoliti, in contanti o di riservatezza."
+              ]
+            },
+            {
+              "heading": "5. Acquisti e fornitori",
+              "bullets": [
+                "Selezionare i fornitori in base a qualità, puntualità delle consegne, prezzo, sicurezza e comportamento etico.",
+                "Trattare tutti i fornitori in modo equo e mantenere riservate le loro offerte.",
+                "Dichiarare qualsiasi rapporto personale con un fornitore e astenersi dalla decisione.",
+                "Pretendere che i fornitori rispettino gli standard del nostro Codice di condotta; i nuovi fornitori possono registrarsi tramite la [Registrazione fornitori](page:supplier-registration)."
+              ]
+            },
+            {
+              "heading": "6. Esportazioni, sanzioni e dogane",
+              "paragraphs": [
+                "Macchine, ricambi, software e dati tecnici possono essere soggetti a controlli sulle esportazioni, sanzioni e norme doganali in India e in altri paesi. Prima di presentare un'offerta o spedire a un nuovo cliente o paese, verificare uso finale, utilizzatore finale e destinazione, dichiarare correttamente le merci in dogana e chiedere consiglio in caso di dubbi."
+              ]
+            },
+            {
+              "heading": "7. Condotta presso i siti dei clienti",
+              "bullets": [
+                "Rispettare senza eccezioni le regole di sicurezza del cliente, i sistemi di permesso di lavoro e le procedure di accesso ai binari.",
+                "Indossare i dispositivi di protezione individuale richiesti e utilizzare solo utensili e apparecchi di sollevamento approvati.",
+                "Trattare con cura locali, attrezzature e informazioni del cliente.",
+                "Segnalare immediatamente al cliente e a HYT incidenti, quasi incidenti e danni."
+              ]
+            },
+            {
+              "heading": "8. Registrazioni, documenti e rapporti",
+              "bullets": [
+                "Registrare ogni operazione in modo accurato e tempestivo.",
+                "Non alterare mai risultati di collaudo, rapporti di prova, fogli presenze o note spese.",
+                "Conservare i documenti per i periodi richiesti dalla legge e dal contratto.",
+                "Non distruggere documenti che possano essere rilevanti per un audit, un'indagine o un procedimento legale."
+              ]
+            },
+            {
+              "heading": "9. Comunicazione e social media",
+              "bullets": [
+                "Solo le persone autorizzate possono parlare con i media o pubblicare dichiarazioni per conto di HYT.",
+                "Non pubblicare sui social media informazioni riservate, dati dei clienti, fotografie dei siti o disegni senza autorizzazione.",
+                "Chiarire che le opinioni personali sono proprie."
+              ]
+            },
+            {
+              "heading": "10. IT e sicurezza delle informazioni",
+              "bullets": [
+                "Utilizzare i sistemi informatici aziendali per scopi lavorativi e nel rispetto delle regole aziendali.",
+                "Proteggere le password e non condividere gli account.",
+                "Prestare attenzione al phishing e segnalare i messaggi sospetti.",
+                "Collegarsi alle macchine e alle reti dei clienti solo previa autorizzazione e con strumenti approvati."
+              ]
+            },
+            {
+              "heading": "11. Chiedere consiglio e segnalare problemi",
+              "paragraphs": [
+                "In caso di dubbi su come comportarsi, si rivolga al Suo responsabile, all'ufficio risorse umane o all'alta direzione. Le segnalazioni di possibili violazioni possono essere effettuate tramite i canali descritti nella sezione 12 del [Codice di condotta](page:code-of-conduct). Nessuno subirà conseguenze per aver effettuato una segnalazione in buona fede."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "policy-statement": {
+      "nav": "Dichiarazione di politica",
+      "title": "Politica qualità, ambiente, salute e sicurezza",
+      "description": "La politica integrata di HYT per qualità, ambiente e salute e sicurezza sul lavoro secondo ISO 9001, 14001 e 45001, con il nostro impegno contro la corruzione.",
+      "eyebrow": "Compliance",
+      "h1": "Dichiarazione di politica integrata",
+      "lede": "I nostri impegni in materia di qualità, ambiente, salute e sicurezza sul lavoro e integrità aziendale, coerenti con i nostri sistemi di gestione ISO 9001, ISO 14001 e ISO 45001.",
+      "summary": "I nostri impegni integrati su qualità, ambiente, salute e sicurezza e anticorruzione.",
+      "blocks": [
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "Da verificare da parte di HYT: si prega di confermare quali politiche HYT desidera pubblicare qui (politica QHSE integrata, politiche separate, politica anticorruzione), di approvarne il testo e di fornire nome e qualifica del firmatario e data di emissione."
+        },
+        {
+          "type": "prose",
+          "updated": "Bozza – in attesa di approvazione",
+          "sections": [
+            {
+              "heading": "La nostra missione",
+              "paragraphs": [
+                "HYT Engineering Company Pvt. Ltd. progetta, produce, installa e assiste torni CNC per sale montate, macchine per officine ruote e assi, attrezzature per depositi e officine chiavi in mano per ferrovie, metropolitane e industria. Le macchine che costruiamo contribuiscono alla sicurezza del materiale rotabile. Questa responsabilità determina il modo in cui gestiamo la qualità, l'ambiente e la salute e sicurezza di tutte le persone coinvolte nel nostro lavoro."
+              ]
+            },
+            {
+              "heading": "Qualità",
+              "paragraphs": [
+                "Ci impegniamo a fornire macchine e servizi conformi ai requisiti del cliente e alle norme applicabili, nei tempi previsti e con documentazione completa. A tal fine:"
+              ],
+              "bullets": [
+                "comprendiamo e riesaminiamo i requisiti del cliente prima di assumere impegni;",
+                "controlliamo progettazione, acquisti, produzione, installazione e assistenza mediante processi documentati;",
+                "verifichiamo le nostre macchine tramite controlli e prove, compresa l'accettazione sulle sale montate del cliente;",
+                "misuriamo la soddisfazione dei clienti e impariamo dai riscontri e dalle non conformità;",
+                "miglioriamo continuamente l'efficacia del nostro sistema di gestione per la qualità secondo la ISO 9001:2015."
+              ]
+            },
+            {
+              "heading": "Ambiente",
+              "paragraphs": [
+                "Ci impegniamo a proteggere l'ambiente e a prevenire l'inquinamento in tutte le nostre attività e in tutti i nostri prodotti. A tal fine:"
+              ],
+              "bullets": [
+                "rispettiamo le leggi, le autorizzazioni e gli altri requisiti ambientali applicabili;",
+                "utilizziamo in modo efficiente energia, acqua e materiali;",
+                "riduciamo al minimo i rifiuti e gestiamo in sicurezza oli, refrigeranti e materiali pericolosi;",
+                "teniamo conto delle prestazioni ambientali nella progettazione delle macchine e nella scelta dei fornitori;",
+                "miglioriamo continuamente il nostro sistema di gestione ambientale secondo la ISO 14001:2015."
+              ]
+            },
+            {
+              "heading": "Salute e sicurezza sul lavoro",
+              "paragraphs": [
+                "Ci impegniamo a garantire condizioni di lavoro sicure e salubri per prevenire infortuni e malattie professionali – nel nostro stabilimento e presso i siti dei clienti. A tal fine:"
+              ],
+              "bullets": [
+                "rispettiamo le leggi applicabili in materia di salute e sicurezza e le regole dei siti dei clienti;",
+                "individuiamo i pericoli, valutiamo i rischi e li eliminiamo o riduciamo secondo la gerarchia delle misure di controllo;",
+                "forniamo formazione, informazioni e dispositivi di protezione adeguati;",
+                "consultiamo e coinvolgiamo i dipendenti e i loro rappresentanti sulle questioni di sicurezza;",
+                "progettiamo le nostre macchine tenendo conto della sicurezza di operatori e manutentori;",
+                "miglioriamo continuamente il nostro sistema di gestione della salute e sicurezza sul lavoro secondo la ISO 45001:2018."
+              ]
+            },
+            {
+              "heading": "Integrità aziendale e anticorruzione",
+              "paragraphs": [
+                "Ci impegniamo a condurre gli affari con onestà e correttezza. HYT vieta la corruzione in tutte le sue forme, sia che coinvolga pubblici ufficiali sia soggetti privati, direttamente o tramite intermediari. Rispettiamo le leggi applicabili in materia di anticorruzione e concorrenza e le regole di approvvigionamento dei nostri clienti. Questi impegni sono illustrati nel nostro [Codice di condotta](page:code-of-conduct) e nelle [Linee guida di comportamento aziendale](page:guidelines)."
+              ]
+            },
+            {
+              "heading": "Attuazione della presente politica",
+              "paragraphs": [
+                "La direzione fissa obiettivi misurabili nell'ambito della presente politica, mette a disposizione le risorse necessarie per raggiungerli e ne riesamina regolarmente i risultati. Ogni dipendente è tenuto a operare in conformità con la presente politica, e ci aspettiamo lo stesso dai nostri fornitori e subappaltatori.",
+                "La presente politica è comunicata a tutti i dipendenti, resa disponibile alle parti interessate su questo sito web e riesaminata periodicamente per garantirne la costante adeguatezza. I dettagli dei nostri certificati sono riportati nella pagina [Certificazioni](page:certifications)."
+              ]
+            },
+            {
+              "heading": "Emessa da",
+              "paragraphs": [
+                "Direzione, HYT Engineering Company Pvt. Ltd., Pune"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

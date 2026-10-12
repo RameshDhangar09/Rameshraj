@@ -1,0 +1,182 @@
+{
+  "pages": {
+    "home": {
+      "nav": "Home",
+      "title": "Torni CNC per sale montate e officine ferroviarie",
+      "description": "HYT Engineering costruisce torni CNC in fossa, a portale e a pavimento per sale montate, macchine per officine ruote e assi e officine chiavi in mano.",
+      "eyebrow": "Macchine utensili ferroviarie · Dal 1977",
+      "h1": "Soluzioni per la produzione e la manutenzione del materiale rotabile",
+      "lede": "Dal primo tornio per sale montate che abbiamo progettato alle officine ruote complete oggi in esercizio, HYT progetta, costruisce, installa e mantiene le macchine che fanno viaggiare in sicurezza locomotive, carrozze, metropolitane e carri merci.",
+      "summary": "HYT Engineering – macchine utensili ferroviarie e soluzioni per officine dal 1977.",
+      "blocks": [
+        {
+          "type": "stats",
+          "items": [
+            {"value": "1977", "label": "Costruiamo macchine utensili dal"},
+            {"value": "1.100+", "label": "Macchine consegnate in tutto il mondo"},
+            {"value": "3", "label": "Sistemi di gestione certificati ISO"},
+            {"value": "360°", "label": "Progettazione, costruzione, installazione e assistenza da un unico fornitore"}
+          ]
+        },
+        {
+          "type": "text",
+          "eyebrow": "Chi siamo",
+          "heading": "Precisione che mantiene le flotte in movimento",
+          "paragraphs": [
+            "Una ruota ferroviaria sostiene tonnellate su un'impronta di contatto grande quanto una moneta. Il suo profilo determina il comfort di marcia, l'usura della rotaia, il consumo di energia e – soprattutto – la sicurezza. HYT Engineering esiste per ripristinare quel profilo in modo rapido e preciso e per dare alle officine le macchine di cui hanno bisogno per costruire e revisionare le sale montate con piena affidabilità.",
+            "Con sede a Pune, in India, da oltre quattro decenni ci concentriamo su un'unica disciplina: la lavorazione di ruote e assi ferroviari. I nostri ingegneri progettano ogni macchina internamente, la costruiscono nel nostro stabilimento, la mettono in servizio presso il cliente e la assistono per decenni dopo la consegna."
+          ],
+          "bullets": [
+            "Specializzazione nella lavorazione delle sale montate e nelle attrezzature per officina",
+            "Macchine progettate per i profili ruota e gli scartamenti indiani e internazionali",
+            "Un unico responsabile, dal disegno delle fondazioni all'assistenza per tutta la vita utile"
+          ],
+          "image": "company/manufacturing-facility",
+          "image_alt": "Illustrazione di esempio di un reparto di montaggio con un tornio per sale montate in costruzione",
+          "layout": "image-right"
+        },
+        {
+          "type": "cards",
+          "eyebrow": "Gamma prodotti",
+          "heading": "Macchine per ogni fase della vita di una sala montata",
+          "intro": "Quattro famiglie di prodotti coprono la riprofilatura in esercizio, la produzione in officina ruote e assi, il supporto ai depositi e tecnologie specialistiche dei nostri partner.",
+          "cols": 4,
+          "items": [
+            {"page": "products", "anchor": "wheel-lathes", "title": "Torni per sale montate", "text": "Torni CNC in fossa, tandem, a pavimento e a portale che riprofilano le sale montate in modo rapido e preciso.", "image": "products/underfloor-wheel-lathe-yul-08"},
+            {"page": "products", "anchor": "wheel-axle-shop-machines", "title": "Macchine per officina ruote e assi", "text": "Tornitura verticale, tornitura e rullatura assi, calettamento, misura ed equilibratura delle ruote.", "image": "products/vertical-turning-boring-machine"},
+            {"page": "products", "anchor": "depot-workshop-equipment", "title": "Attrezzature per depositi e officine", "text": "Macchine per indotti, impianti automatici di lavaggio treni e locomotori di manovra strada-rotaia.", "image": "products/automated-train-washing-plant"},
+            {"page": "products", "anchor": "partner-products", "title": "Prodotti dei partner", "text": "Distribuzione esclusiva della tecnologia di scorrimento SKC Gleittechnik dalla Germania.", "image": "products/skc-partner-products"}
+          ]
+        },
+        {
+          "type": "text",
+          "id": "underfloor-wheel-lathes",
+          "eyebrow": "Tecnologia di punta",
+          "heading": "Torni CNC in fossa",
+          "paragraphs": [
+            "Un tornio in fossa (tornio sottocassa) riprofila le ruote mentre la sala montata rimane sotto il veicolo. Il treno viene portato sopra la fossa, l'asse viene sollevato sui rulli di trascinamento ed entrambe le ruote vengono lavorate contemporaneamente – senza smontare il carrello, senza rimuovere la timoneria del freno, senza lunghi fermi.",
+            "I torni in fossa HYT abbinano strutture macchina rigide alla misura automatica del profilo, in modo che il CNC asporti solo il materiale necessario. Il risultato: più cicli di riprofilatura per ruota, una vita utile delle ruote più lunga e più treni disponibili per il servizio."
+          ],
+          "bullets": [
+            "Macchine singole (YUL-08, YUGL) e coppie tandem sincronizzate (YUL-12T, YUGLX)",
+            "Lavorazione simultanea di entrambe le ruote della sala montata",
+            "Adatti a locomotive, carrozze, elettrotreni, vetture metropolitane e carri merci"
+          ],
+          "image": "products/tandem-underfloor-wheel-lathe-yul-12t",
+          "image_alt": "Illustrazione di esempio di due torni in fossa sincronizzati sotto il carrello di un veicolo ferroviario",
+          "layout": "image-left",
+          "link": {"label": "Scopra i torni in fossa", "page": "underfloor-wheel-lathe"}
+        },
+        {
+          "type": "text",
+          "id": "vertical-turning-axle",
+          "eyebrow": "Officina ruote e assi",
+          "heading": "Torni verticali e lavorazione degli assi",
+          "paragraphs": [
+            "Le nuove sale montate e le revisioni generali iniziano nell'officina ruote e assi. Le nostre tornio-alesatrici verticali CNC finiscono centri ruota, cerchioni e alesaggi con tolleranze strette, mentre torni dedicati per assi tornano e rullano i fuselli per sedi dei cuscinetti affidabili.",
+            "Insieme a presse di calettamento, stazioni di misura ed equilibratrici dinamiche, queste macchine formano un processo completo e tracciabile, dal componente grezzo alla sala montata certificata."
+          ],
+          "image": "products/vertical-turning-boring-machine",
+          "image_alt": "Illustrazione di esempio di una tornio-alesatrice verticale CNC durante la lavorazione di una ruota ferroviaria",
+          "layout": "image-right",
+          "link": {"label": "Scopra le macchine per officina ruote e assi", "page": "products", "anchor": "wheel-axle-shop-machines"}
+        },
+        {
+          "type": "steps",
+          "eyebrow": "Officine chiavi in mano",
+          "heading": "Un solo partner, dal capannone vuoto all'officina operativa",
+          "intro": "Quando un operatore ferroviario o metropolitano ha bisogno di un impianto completo, HYT si assume la responsabilità dell'intera catena – con un unico piano, un unico cronoprogramma e un unico referente responsabile.",
+          "items": [
+            {"title": "Studio e layout", "text": "Analisi della flotta, flusso di processo e scelta delle macchine per la produttività richiesta."},
+            {"title": "Interfaccia con le opere civili", "text": "Disegni di fossa, fondazioni e ancoraggi delle rotaie coordinati con la Sua impresa edile."},
+            {"title": "Fornitura e installazione", "text": "Macchine, sistemi di movimentazione e controlli consegnati, installati e integrati."},
+            {"title": "Messa in servizio e formazione", "text": "Collaudo sulle Sue sale montate, con formazione in loco di operatori e manutentori."},
+            {"title": "Assistenza per tutta la vita utile", "text": "Contratti di manutenzione, ricambi e aggiornamenti per i decenni successivi."}
+          ],
+          "link": {"label": "Scopra i progetti chiavi in mano", "page": "turnkey-project"}
+        },
+        {
+          "type": "cards",
+          "eyebrow": "Settori serviti",
+          "heading": "Pensati per chi garantisce la sicurezza del materiale rotabile",
+          "cols": 5,
+          "items": [
+            {"page": "ind-railways", "image": "industries/railways"},
+            {"page": "ind-metros", "image": "industries/metros"},
+            {"page": "ind-rolling-stock", "image": "industries/rolling-stock-manufacturers"},
+            {"page": "ind-defence", "image": "industries/defence"},
+            {"page": "ind-heavy-engineering", "image": "industries/heavy-engineering"}
+          ]
+        },
+        {
+          "type": "features",
+          "eyebrow": "Assistenza e manutenzione",
+          "heading": "Un supporto che dura quanto la macchina",
+          "intro": "Un tornio per sale montate è un bene critico: quando si ferma, i treni restano in attesa. La nostra organizzazione di assistenza è strutturata per mantenere produttive le Sue macchine per tutta la loro vita utile.",
+          "cols": 3,
+          "items": [
+            {"icon": "tools", "title": "Installazione e messa in servizio", "text": "Verifica delle fondazioni, allineamento, prove di accettazione e consegna documentata."},
+            {"icon": "clipboard-check", "title": "Contratti AMC e CMC", "text": "Manutenzione preventiva programmata con perimetro e tempi di intervento chiaramente definiti."},
+            {"icon": "box-seam", "title": "Ricambi originali", "text": "Ricambi critici, utensili e materiali di consumo individuati, tenuti a magazzino e forniti."},
+            {"icon": "arrow-repeat", "title": "Retrofit e aggiornamenti", "text": "Nuovi sistemi CNC, azionamenti e tecnologie di misura per macchine meno recenti."},
+            {"icon": "mortarboard", "title": "Formazione", "text": "Formazione pratica per operatori, programmatori e squadre di manutenzione."},
+            {"icon": "truck", "title": "Machine as a Service", "text": "Noleggio con operatore: forniamo la macchina e il personale, Lei paga in base alla produzione."}
+          ],
+          "link": {"label": "Tutti i servizi", "page": "services"}
+        },
+        {
+          "type": "cards",
+          "eyebrow": "Progetti selezionati",
+          "heading": "Installati dove l'affidabilità conta",
+          "intro": "Una panoramica dei lavori per ferrovie nazionali e operatori metropolitani. I dettagli completi dei progetti sono riportati nella sezione Progetti chiavi in mano.",
+          "cols": 3,
+          "items": [
+            {"page": "executed-projects", "anchor": "sanpada-emu-car-shed", "title": "Tornio verticale CNC – deposito elettrotreni di Sanpada, Mumbai", "text": "Capacità di lavorazione delle ruote per una delle reti suburbane più trafficate al mondo.", "image": "projects/emu-car-shed"},
+            {"page": "executed-projects", "anchor": "state-railway-of-thailand", "title": "Tornio verticale a torretta CNC – State Railway of Thailand", "text": "Fornito e installato per la lavorazione delle ruote a Bangkok.", "image": "projects/railway-wheel-shop"},
+            {"page": "under-execution", "anchor": "ncrtc-underfloor-wheel-lathes", "title": "Torni CNC in fossa completamente automatici – NCRTC", "text": "Per il primo sistema di trasporto rapido regionale dell'India.", "image": "projects/metro-depot"}
+          ]
+        },
+        {
+          "type": "features",
+          "eyebrow": "Tecnologia e ingegneria",
+          "heading": "Un'ingegneria che si può misurare",
+          "intro": "Ogni macchina HYT è progettata intorno alla realtà di un'officina ferroviaria: ruote pesanti e usurate, tempi di rotazione stringenti e operatori che necessitano di comandi chiari e sicuri.",
+          "cols": 4,
+          "items": [
+            {"icon": "rulers", "title": "Misura automatica del profilo", "text": "Diametro della ruota, altezza e spessore del bordino misurati prima del taglio, per asportare solo il materiale necessario."},
+            {"icon": "cpu", "title": "Piattaforme CNC collaudate", "text": "Sistemi CNC industriali con cicli specifici per il settore ferroviario e librerie di profili a schermo."},
+            {"icon": "bricks", "title": "Strutture macchina rigide", "text": "Strutture pesanti in carpenteria saldata e distensionata per un taglio stabile su superfici di rotolamento dure e usurate."},
+            {"icon": "shield-check", "title": "Sicurezza fin dalla progettazione", "text": "Protezioni interbloccate, zone operatore chiaramente definite e conformità alle prassi ISO 45001."}
+          ]
+        },
+        {
+          "type": "news",
+          "eyebrow": "News e fiere",
+          "heading": "Le ultime novità da HYT",
+          "limit": 3,
+          "link": {"label": "Tutte le news", "page": "news"},
+          "items": [
+            {"title": "Torni CNC in fossa completamente automatici per NCRTC", "date": "Ordine", "category": "Ordini", "text": "National Capital Region Transport Corporation ha emesso a favore di HYT una lettera di accettazione per torni CNC in fossa completamente automatici.", "page": "news"},
+            {"title": "Nuovo tornio CNC tandem in fossa per la metropolitana di Delhi", "date": "Ordine", "category": "Ordini", "text": "Delhi Metro Rail Corporation ha aggiudicato a HYT un contratto per un nuovo tornio CNC tandem in fossa.", "page": "news"},
+            {"title": "Incontrare l'industria ferroviaria mondiale", "date": "Fiere", "category": "Fiere", "text": "HYT ha esposto ad Asia Pacific Rail, Middle East Rail, Africa Rail e AusRAIL.", "page": "international-exhibitions"}
+          ]
+        },
+        {
+          "type": "split_cta",
+          "items": [
+            {"icon": "file-earmark-pdf", "heading": "Catalogo prodotti", "text": "Panoramiche delle macchine, opzioni e dati necessari per un'offerta – in un unico PDF.", "label": "Vai ai download", "page": "downloads"},
+            {"icon": "lightbulb", "heading": "Knowledge Centre", "text": "Guide pratiche su profili ruota, strategie di riprofilatura e pianificazione delle officine.", "label": "Legga le guide", "page": "knowledge-centre"},
+            {"icon": "headset", "heading": "Assistenza post-vendita", "text": "Trovi il referente di assistenza giusto e mantenga le Sue macchine in perfetta efficienza.", "label": "Rete di assistenza", "page": "service-centers"}
+          ]
+        },
+        {
+          "type": "cta",
+          "heading": "Pianifichiamo insieme il Suo prossimo tornio o la Sua officina",
+          "text": "Ci parli della Sua flotta, della Sua officina e dei Suoi obiettivi. Un ingegnere applicativo HYT Le risponderà con una raccomandazione – non con un copione commerciale.",
+          "primary": {"label": "Ci parli della Sua esigenza", "page": "contact-us"},
+          "secondary": {"label": "Scopra i nostri prodotti", "page": "products"}
+        }
+      ]
+    }
+  }
+}

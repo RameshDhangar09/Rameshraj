@@ -1,0 +1,779 @@
+{
+  "pages": {
+    "news": {
+      "nav": "Ultime notizie",
+      "title": "Ultime notizie – ordini, progetti e riconoscimenti",
+      "description": "Comunicati di HYT Engineering: nuovi ordini di torni per ruote da ferrovie e metropolitane, progetti completati, riconoscimenti e partecipazioni a fiere.",
+      "eyebrow": "Media e risorse",
+      "h1": "Ultime notizie da HYT Engineering",
+      "lede": "Ordini, progetti completati, riconoscimenti e fiere – i comunicati che segnano i progressi di HYT, riuniti in un unico posto.",
+      "summary": "Comunicati aziendali: nuovi ordini, progetti completati, riconoscimenti e partecipazioni a fiere.",
+      "blocks": [
+        {
+          "type": "news",
+          "eyebrow": "Comunicati",
+          "heading": "Comunicati recenti",
+          "items": [
+            {
+              "title": "NCRTC emette la lettera di accettazione per torni in fossa CNC completamente automatici",
+              "date": "Ordine",
+              "category": "Ordini",
+              "text": "National Capital Region Transport Corporation ha emesso a favore di HYT una lettera di accettazione (Letter of Acceptance) per torni in fossa CNC completamente automatici. Le macchine riprofileranno le sale montate nel veicolo, riducendo il tempo di fermo dei treni.",
+              "page": "under-execution"
+            },
+            {
+              "title": "Delhi Metro aggiudica a HYT un nuovo tornio in fossa CNC tandem",
+              "date": "Ordine",
+              "category": "Ordini",
+              "text": "Delhi Metro Rail Corporation ha aggiudicato a HYT un contratto per un nuovo tornio in fossa CNC tandem. Una macchina tandem riprofila due sale montate di un carrello in un unico piazzamento – un vantaggio per le flotte metropolitane ad alta frequenza.",
+              "page": "tandem-underfloor-wheel-lathe"
+            },
+            {
+              "title": "Contratto di Indian Railways per nove torni in fossa CNC",
+              "date": "Ordine",
+              "category": "Ordini",
+              "text": "Indian Railways ha affidato a HYT la fornitura di nove torni in fossa CNC, aumentando la capacità di riprofilatura nel veicolo della propria rete di manutenzione.",
+              "page": "underfloor-wheel-lathe"
+            },
+            {
+              "title": "HYT nella pubblicazione D&B Leading Mid-Corporates of India 2023",
+              "date": "Riconoscimento",
+              "category": "Riconoscimento",
+              "text": "HYT Engineering Company Pvt. Ltd. figura nella pubblicazione di Dun & Bradstreet “Leading Mid-Corporates of India 2023”.",
+              "page": "awards"
+            },
+            {
+              "title": "HYT ad Africa Rail 2020",
+              "date": "Fiera",
+              "category": "Fiere",
+              "text": "HYT ha esposto ad Africa Rail 2020, presentando i propri torni per ruote e le proprie soluzioni per officine al settore ferroviario africano.",
+              "page": "international-exhibitions"
+            },
+            {
+              "title": "Incontri con gli operatori ad Asia Pacific Rail, Middle East Rail e AusRAIL",
+              "date": "Fiera",
+              "category": "Fiere",
+              "text": "HYT ha esposto ad Asia Pacific Rail, Middle East Rail e AusRAIL, confrontandosi con operatori e ingegneri ferroviari su riprofilatura delle ruote e pianificazione dei depositi.",
+              "page": "international-exhibitions"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "eyebrow": "Informazioni su questa pagina",
+          "heading": "Cosa pubblichiamo qui",
+          "paragraphs": [
+            "Questa pagina raccoglie i comunicati aziendali di HYT: nuovi ordini, progetti completati e consegnati, riconoscimenti ricevuti dall'azienda e fiere in cui può incontrare i nostri ingegneri. Ogni notizia è breve e fattuale e rimanda alla pagina con maggiori dettagli.",
+            "Cerca letture tecniche anziché notizie aziendali? Il nostro [Blog](page:blog) propone articoli datati e storie di progetto, mentre il [Knowledge Centre](page:knowledge-centre) raccoglie guide di riferimento su usura delle ruote, scelta del tornio e pianificazione delle officine.",
+            "Giornalisti e testate di settore possono richiedere informazioni di approfondimento, dichiarazioni o immagini scrivendo a info@hytengineering.com con “Media enquiry” nell'oggetto."
+          ],
+          "image": "company/exhibition-stand",
+          "image_alt": "Illustrazione di esempio di uno stand fieristico HYT con il modello di un tornio per ruote e visitatori a colloquio",
+          "layout": "image-right"
+        },
+        {
+          "type": "cards",
+          "eyebrow": "Continui a leggere",
+          "heading": "Altro da HYT",
+          "cols": 4,
+          "items": [
+            {
+              "page": "under-execution",
+              "icon": "gear-wide-connected"
+            },
+            {
+              "page": "awards",
+              "icon": "award"
+            },
+            {
+              "page": "international-exhibitions",
+              "icon": "globe2"
+            },
+            {
+              "page": "domestic-exhibitions",
+              "icon": "geo-alt"
+            }
+          ]
+        },
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "Le notizie si basano su fonti pubbliche e non riportano date. HYT deve fornire per ciascuna notizia la data, un breve comunicato stampa e fotografie, e confermarne il testo. Le singole pagine di notizie saranno pubblicate in /news/item-name/."
+        }
+      ]
+    },
+    "international-exhibitions": {
+      "nav": "Fiere internazionali",
+      "title": "Fiere ferroviarie internazionali",
+      "description": "HYT Engineering ha esposto ad Asia Pacific Rail, Middle East Rail, Africa Rail 2020 e AusRAIL. Scopra perché partecipiamo e di cosa parlare con noi.",
+      "eyebrow": "Media e risorse",
+      "h1": "HYT alle fiere ferroviarie internazionali",
+      "lede": "Le fiere ferroviarie ci mettono di fronte agli operatori, ai team di progetto e agli ingegneri che curano la manutenzione delle flotte in tutto il mondo. Ci andiamo tanto per ascoltare quanto per presentare.",
+      "summary": "Asia Pacific Rail, Middle East Rail, Africa Rail e AusRAIL – dove HYT ha incontrato il settore ferroviario internazionale.",
+      "blocks": [
+        {
+          "type": "text",
+          "eyebrow": "Perché esponiamo",
+          "heading": "Conversazioni che danno forma a officine migliori",
+          "paragraphs": [
+            "Un tornio per ruote o un'officina sale montate sono decisioni di lungo periodo. Gli operatori che le prendono vogliono comprendere l'ingegneria alla base della macchina, conoscere le persone che la assisteranno e capire come si adatterà alla propria flotta, al proprio scartamento e al layout del proprio deposito. Questo dialogo inizia meglio di persona.",
+            "Le fiere internazionali ci permettono di incontrare in pochi giorni ferrovie, operatori di metropolitane, costruttori di materiale rotabile e consulenti di molte regioni. Scopriamo come le pratiche di manutenzione differiscono da una rete all'altra, quali problemi tolgono il sonno ai responsabili d'officina e dove si stanno pianificando nuove linee e nuovi depositi. Queste conoscenze confluiscono direttamente nella progettazione delle nostre macchine e nei nostri [progetti chiavi in mano](page:turnkey-project)."
+          ],
+          "image": "company/exhibition-stand",
+          "image_alt": "Illustrazione di esempio di uno stand HYT in una fiera ferroviaria internazionale",
+          "layout": "image-right"
+        },
+        {
+          "type": "logos",
+          "eyebrow": "Le nostre partecipazioni",
+          "heading": "Dove abbiamo esposto",
+          "intro": "HYT ha partecipato come espositore a questi eventi ferroviari internazionali.",
+          "items": [
+            {
+              "name": "Asia Pacific Rail",
+              "note": "Espositore"
+            },
+            {
+              "name": "Middle East Rail",
+              "note": "Espositore"
+            },
+            {
+              "name": "Africa Rail 2020",
+              "note": "Espositore"
+            },
+            {
+              "name": "AusRAIL",
+              "note": "Espositore"
+            }
+          ]
+        },
+        {
+          "type": "features",
+          "eyebrow": "Allo stand",
+          "heading": "Di cosa può parlare con noi",
+          "intro": "Il nostro stand è presidiato da persone che progettano, costruiscono e assistono le macchine. Porti le Sue domande – e, se possibile, i profili delle Sue ruote e i disegni del Suo deposito.",
+          "cols": 3,
+          "items": [
+            {
+              "icon": "rulers",
+              "title": "Strategia di riprofilatura delle ruote",
+              "text": "Come ripristinare i profili con la minima perdita di materiale e prolungare la vita delle ruote su tutta la flotta."
+            },
+            {
+              "icon": "gear-wide-connected",
+              "title": "Scegliere un tornio per ruote",
+              "text": "In fossa, tandem, a pavimento o a portale: quale soluzione si adatta ai Suoi veicoli, al Suo scartamento e alla Sua produttività."
+            },
+            {
+              "icon": "diagram-3",
+              "title": "Pianificazione di depositi e officine sale montate",
+              "text": "Flusso di processo, scelta delle macchine e interfacce con le opere civili per impianti nuovi o in ampliamento."
+            },
+            {
+              "icon": "building-gear",
+              "title": "Progetti chiavi in mano",
+              "text": "Un'unica responsabilità, dallo studio del layout alla messa in servizio e alla consegna."
+            },
+            {
+              "icon": "arrow-repeat",
+              "title": "Ammodernamento di macchine esistenti",
+              "text": "Retrofit con nuovi sistemi CNC, azionamenti e tecnologie di misura per prolungare la vita delle macchine."
+            },
+            {
+              "icon": "truck",
+              "title": "Wet leasing",
+              "text": "Capacità di riprofilatura fornita con macchina e personale, pagata in base alla produzione."
+            }
+          ],
+          "link": {
+            "label": "Scopra i nostri prodotti",
+            "page": "products"
+          }
+        },
+        {
+          "type": "gallery",
+          "heading": "Immagini",
+          "items": [
+            {
+              "image": "company/exhibition-stand",
+              "caption": "Illustrazione di esempio dello stand fieristico HYT"
+            },
+            {
+              "image": "products/underfloor-wheel-lathe-yul-08",
+              "caption": "Illustrazione di esempio di un tornio in fossa del tipo presentato ai visitatori"
+            },
+            {
+              "image": "products/wheelset-profile-closeup",
+              "caption": "Illustrazione di esempio di battistrada e bordino di una ruota riprofilata"
+            },
+            {
+              "image": "company/engineering-design",
+              "caption": "Illustrazione di esempio di ingegneri HYT che esaminano il progetto di una macchina"
+            }
+          ]
+        },
+        {
+          "type": "cards",
+          "eyebrow": "Potrebbe interessarLe anche",
+          "heading": "Altri eventi e notizie",
+          "cols": 2,
+          "items": [
+            {
+              "page": "domestic-exhibitions",
+              "icon": "geo-alt"
+            },
+            {
+              "page": "news",
+              "icon": "newspaper"
+            }
+          ]
+        },
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "Le fiere sono tratte dagli elenchi espositori degli organizzatori. HYT deve confermare gli anni di partecipazione (solo Africa Rail 2020 è datata), fornire fotografie degli stand ed elencare i prossimi eventi con date e numeri di stand."
+        },
+        {
+          "type": "cta",
+          "heading": "Ha in programma di visitare una fiera ferroviaria?",
+          "text": "Ci indichi a quale evento parteciperà e di cosa vorrebbe parlare. Organizzeremo un incontro con l'ingegnere più indicato – in fiera o in un secondo momento.",
+          "primary": {
+            "label": "Fissi un incontro",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Scopra i nostri prodotti",
+            "page": "products"
+          }
+        }
+      ]
+    },
+    "domestic-exhibitions": {
+      "nav": "Fiere in India",
+      "title": "Fiere nazionali in India",
+      "description": "Incontri HYT Engineering alle fiere ferroviarie e meccaniche in India: torni per ruote, macchine per officine sale montate, depositi e assistenza.",
+      "eyebrow": "Media e risorse",
+      "h1": "HYT alle fiere in India",
+      "lede": "L'India è il nostro mercato domestico. Agli eventi ferroviari e ingegneristici indiani incontriamo i team di depositi, rimesse e officine che utilizzano ogni giorno le nostre macchine.",
+      "summary": "Fiere ferroviarie e ingegneristiche in India in cui può incontrare gli ingegneri di HYT.",
+      "blocks": [
+        {
+          "type": "text",
+          "eyebrow": "Vicini ai nostri clienti",
+          "heading": "Perché gli eventi indiani sono importanti per noi",
+          "paragraphs": [
+            "HYT progetta e costruisce macchine utensili a Pune dal 1977. Gran parte del nostro parco installato lavora in rimesse locomotive, depositi carrozze, depositi EMU, depositi di metropolitane e officine sale montate indiani – e le fiere indiane sono il luogo in cui questi utenti, i loro progettisti e i loro uffici acquisti si incontrano.",
+            "Utilizziamo questi eventi per presentare le novità, per sapere come si comportano le nostre macchine nel servizio quotidiano e per incontrare gli ingegneri che progettano la nuova generazione di depositi per le reti metropolitane e ferroviarie regionali in espansione. Sono anche un'ottima occasione per incontrare fornitori e giovani ingegneri che desiderano [lavorare con noi](page:work-with-us)."
+          ],
+          "image": "company/exhibition-stand",
+          "image_alt": "Illustrazione di esempio di uno stand HYT in una fiera di ingegneria indiana",
+          "layout": "image-right"
+        },
+        {
+          "type": "features",
+          "eyebrow": "Chi incontriamo",
+          "heading": "Conversazioni che attendiamo con interesse",
+          "cols": 4,
+          "items": [
+            {
+              "icon": "train-front",
+              "title": "Officine e rimesse ferroviarie",
+              "text": "Capacità di riprofilatura, ammodernamenti delle macchine e contratti di manutenzione per le attrezzature esistenti."
+            },
+            {
+              "icon": "train-lightrail-front",
+              "title": "Metropolitane e ferrovie regionali",
+              "text": "Torni in fossa singoli e tandem per nuovi depositi con flotte ad alta frequenza."
+            },
+            {
+              "icon": "building-gear",
+              "title": "Costruttori di materiale rotabile",
+              "text": "Macchine per officine ruote e assi per sale montate di nuova costruzione e relative prove."
+            },
+            {
+              "icon": "people",
+              "title": "Consulenti e appaltatori",
+              "text": "Layout di depositi, disegni delle fosse e interfacce con le opere civili per i progetti di gara."
+            }
+          ]
+        },
+        {
+          "type": "cards",
+          "eyebrow": "Potrebbe interessarLe anche",
+          "heading": "Altri eventi e notizie",
+          "cols": 2,
+          "items": [
+            {
+              "page": "international-exhibitions",
+              "icon": "globe2"
+            },
+            {
+              "page": "news",
+              "icon": "newspaper"
+            }
+          ]
+        },
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "Nessuna fiera indiana è stata ancora verificata. HYT deve fornire l'elenco delle fiere nazionali a cui ha partecipato (nome dell'evento, città, anno), fotografie degli stand e i prossimi eventi con date e numeri di stand."
+        },
+        {
+          "type": "cta",
+          "heading": "Incontri il nostro team in India",
+          "text": "In fiera o nel nostro stabilimento di Pune, saremo lieti di parlare della Sua flotta e della Sua officina.",
+          "primary": {
+            "label": "Contatti il nostro team",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Rete di assistenza",
+            "page": "service-centers"
+          }
+        }
+      ]
+    },
+    "blog": {
+      "nav": "Blog",
+      "title": "Blog – articoli sulla manutenzione ferroviaria e progetti",
+      "description": "Il blog di HYT Engineering: articoli datati, punti di vista e storie di progetto su riprofilatura delle ruote, depositi e manutenzione ferroviaria.",
+      "eyebrow": "Media e risorse",
+      "h1": "Blog HYT",
+      "lede": "Articoli, punti di vista e storie delle persone che progettano, costruiscono e assistono le macchine HYT.",
+      "summary": "Articoli datati, punti di vista e storie di progetto degli ingegneri HYT.",
+      "blocks": [
+        {
+          "type": "text",
+          "eyebrow": "Blog o Knowledge Centre?",
+          "heading": "Due tipi di lettura",
+          "paragraphs": [
+            "Il **Blog** è lo spazio in cui pubblichiamo articoli datati: opinioni sulle pratiche di manutenzione, lezioni apprese nei cantieri di messa in servizio, storie dei nostri progetti e riflessioni sull'evoluzione delle officine ferroviarie. Ogni articolo riflette il proprio momento e riporta una data di pubblicazione.",
+            "Il [Knowledge Centre](page:knowledge-centre) raccoglie guide tecniche di riferimento e risposte alle domande frequenti – contenuti che manteniamo aggiornati e a cui può tornare quando pianifica un tornio, una fossa o un programma di riprofilatura.",
+            "Se cerca comunicati aziendali come ordini e fiere, consulti [Ultime notizie](page:news)."
+          ],
+          "image": "products/wheelset-profile-closeup",
+          "image_alt": "Illustrazione di esempio di battistrada e bordino di una ruota ferroviaria dopo la riprofilatura",
+          "layout": "image-right"
+        },
+        {
+          "type": "features",
+          "eyebrow": "Articoli in programma",
+          "heading": "Prossimamente",
+          "intro": "I primi articoli sono in preparazione. Questi sono i temi che intendiamo trattare.",
+          "cols": 2,
+          "items": [
+            {
+              "icon": "clock-history",
+              "title": "Quanto costa davvero una giornata in fossa",
+              "text": "Perché il tempo che un treno trascorre in attesa della riprofilatura conta spesso più del prezzo del tornio – e come misurarlo."
+            },
+            {
+              "icon": "train-lightrail-front",
+              "title": "Pianificare la manutenzione delle ruote per un nuovo deposito della metropolitana",
+              "text": "Le questioni da definire per tempo – dimensione della flotta, profili delle ruote, posizione della fossa – prima che il layout del deposito venga congelato."
+            },
+            {
+              "icon": "arrow-repeat",
+              "title": "Retrofit o sostituzione?",
+              "text": "Come valutare se un tornio per ruote datato meriti un nuovo sistema CNC e nuovi azionamenti, oppure se sia giunto a fine vita."
+            },
+            {
+              "icon": "tools",
+              "title": "Appunti da un cantiere di messa in servizio",
+              "text": "Cosa accade tra l'arrivo della macchina in un deposito e l'uscita della prima sala montata, raccontato da un tecnico di cantiere HYT."
+            }
+          ]
+        },
+        {
+          "type": "cards",
+          "eyebrow": "Da leggere subito",
+          "heading": "Utile nell'attesa",
+          "cols": 2,
+          "items": [
+            {
+              "page": "knowledge-centre",
+              "icon": "lightbulb"
+            },
+            {
+              "page": "news",
+              "icon": "newspaper"
+            }
+          ]
+        },
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "Non esistono ancora articoli; i post saranno pubblicati in /blog/article-name/. HYT deve confermare se Blog e Knowledge Centre restano separati (come proposto: Blog per articoli datati, Knowledge Centre per guide di riferimento) o vengono unificati, e approvare temi e autori previsti."
+        }
+      ]
+    },
+    "knowledge-centre": {
+      "nav": "Knowledge Centre",
+      "title": "Knowledge Centre – usura delle ruote e torni per ruote",
+      "description": "Guide pratiche su usura delle ruote ferroviarie, scelta tra torni in fossa, a portale e a pavimento, progettazione della fossa e riprofilatura.",
+      "eyebrow": "Media e risorse",
+      "h1": "Knowledge Centre: usura delle ruote, riprofilatura e pianificazione del tornio",
+      "lede": "Indicazioni pratiche e indipendenti dai fornitori per ingegneri e responsabili che si occupano di sale montate ferroviarie – dal riconoscimento dell'usura alla pianificazione della macchina che la corregge.",
+      "summary": "Guide pratiche su usura delle ruote, scelta del tornio, progettazione della fossa e strategia di riprofilatura, con le risposte alle domande più comuni.",
+      "blocks": [
+        {
+          "type": "cards",
+          "eyebrow": "Guide in questa pagina",
+          "heading": "Parta dalla Sua domanda",
+          "cols": 4,
+          "items": [
+            {
+              "page": "knowledge-centre",
+              "anchor": "wheel-wear",
+              "icon": "search",
+              "title": "Comprendere l'usura delle ruote",
+              "text": "Sfaccettature, battistrada concavo e bordini sottili o taglienti – cosa li causa e perché sono importanti."
+            },
+            {
+              "page": "knowledge-centre",
+              "anchor": "choosing-a-lathe",
+              "icon": "gear-wide-connected",
+              "title": "Come scegliere un tornio per ruote",
+              "text": "Torni in fossa, a portale e a pavimento a confronto."
+            },
+            {
+              "page": "knowledge-centre",
+              "anchor": "pit-planning",
+              "icon": "bricks",
+              "title": "Progettare la fossa di un tornio sottocassa",
+              "text": "Le questioni civili e impiantistiche da definire per tempo."
+            },
+            {
+              "page": "knowledge-centre",
+              "anchor": "re-profiling-strategy",
+              "icon": "graph-up-arrow",
+              "title": "Prolungare la vita delle ruote",
+              "text": "Una strategia di riprofilatura che fa risparmiare materiale e denaro."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "id": "wheel-wear",
+          "eyebrow": "Guida 1",
+          "heading": "Comprendere l'usura delle ruote",
+          "paragraphs": [
+            "Una ruota ferroviaria non è un semplice cilindro. Il suo battistrada è conico o curvo, in modo che la sala montata si autoguidi in curva e si centri sul binario in rettilineo, e il bordino mantiene la ruota sulla rotaia quando la sola autoguida non basta. Ogni chilometro modifica un po' questa geometria. La riprofilatura la ripristina prima che le variazioni compromettano la sicurezza, il comfort di marcia o l'usura del binario.",
+            "La maggior parte dell'usura rientra in pochi schemi riconoscibili. Sapere con quale si ha a che fare – e perché si verifica – aiuta a decidere ogni quanto misurare, quando intervenire e se la causa principale risieda nel veicolo, nei freni o nel binario."
+          ],
+          "bullets": [
+            "**Sfaccettature (piatti)** – zone piane che si formano sul battistrada quando una ruota slitta in frenatura, di solito in condizioni di bassa aderenza. Provocano carichi d'urto che danneggiano binario, cuscinetti e veicolo, oltre a un rumore che i passeggeri notano subito.",
+            "**Battistrada concavo** – la superficie di rotolamento si consuma assumendo una forma concava. La ruota si comporta allora come se avesse una conicità molto maggiore, il che può causare instabilità di marcia ad alta velocità, maggiori tensioni di contatto e un “falso bordino” sul bordo esterno che urta deviatoi e cuori.",
+            "**Bordino sottile** – il contatto prolungato con il fianco interno del fungo della rotaia, soprattutto in curva, assottiglia il bordino. Al di sotto del limite fissato dall'operatore aumenta il rischio di sormonto del bordino o di incuneamento tra ago e contrago nei deviatoi.",
+            "**Bordino tagliente o verticale** – la faccia del bordino si consuma diventando ripida e la radice si affila, il che rende più probabile il sormonto e danneggia gli aghi dei deviatoi.",
+            "**Bordino alto** – con il consumo del battistrada, il bordino diventa relativamente più alto e può urtare ganasce, bulloni e componenti dei cuori.",
+            "**Sfogliamento, scheggiature e cricche termiche** – la fatica superficiale e il calore della frenatura sul battistrada staccano piccole porzioni di metallo o lasciano cricche sottili che si propagano se non vengono asportate con la lavorazione.",
+            "**Ovalizzazione e differenze di diametro** – l'usura poligonale e i diametri non corrispondenti su uno stesso asse o all'interno di un carrello provocano vibrazioni e una cattiva iscrizione in curva."
+          ],
+          "image": "products/wheelset-profile-closeup",
+          "image_alt": "Illustrazione di esempio del profilo di una ruota ferroviaria con battistrada e bordino",
+          "layout": "image-right",
+          "link": {
+            "label": "Misurare le ruote con precisione: stazione di misura ruote",
+            "page": "wheel-measuring-station"
+          }
+        },
+        {
+          "type": "table",
+          "id": "choosing-a-lathe",
+          "heading": "Tornio in fossa, a portale o a pavimento: come scegliere",
+          "intro": "La macchina giusta dipende meno dal tornio in sé che da dove si trova la sala montata quando deve essere lavorata. Se le sale montate restano nel veicolo, un tornio in fossa fa risparmiare più tempo. Se sono già smontate – in un'officina sale montate o durante una revisione – la scelta naturale è un tornio a portale o a pavimento.",
+          "columns": [
+            "Domanda",
+            "Tornio in fossa",
+            "Tornio a portale",
+            "Tornio a pavimento"
+          ],
+          "rows": [
+            [
+              "Dove si trova la sala montata?",
+              "Nel veicolo – senza calata del carrello né smontaggio della sala",
+              "Smontata dal veicolo",
+              "Smontata dal veicolo"
+            ],
+            [
+              "Ubicazione tipica",
+              "Deposito di manutenzione, rimessa o deposito EMU",
+              "Officina sale montate, officina di revisione o linea di produzione",
+              "Deposito od officina che gestisce sale montate smontate"
+            ],
+            [
+              "Opere civili",
+              "Fossa in cemento armato sotto un tratto di binario rettilineo",
+              "Fondazione della macchina; sistema di carico delle sale montate",
+              "Fondazione a livello del pavimento; nessuna fossa profonda"
+            ],
+            [
+              "Vantaggio principale",
+              "Tempo di fermo del veicolo ridotto al minimo",
+              "Lavorazioni pesanti e ripetibili ed elevata produttività; adatto al carico automatico",
+              "Macchina compatta e versatile per la riprofilatura e, sui modelli idonei, la lavorazione dei dischi freno"
+            ],
+            [
+              "Utilizzatori tipici",
+              "Flotte ferroviarie, metropolitane ed EMU ad alto utilizzo",
+              "Officine sale montate, costruttori di materiale rotabile e officine di revisione",
+              "Officine con volumi moderati e sale montate di tipo misto"
+            ],
+            [
+              "Esempi HYT",
+              "YUL-08, YUGL; tandem YUL-12T, YUGLX",
+              "YPL-02, YPL-04 a rulli",
+              "YSL-08 / YSL-12 / YSL-21"
+            ]
+          ],
+          "note": "Molti operatori combinano entrambi gli approcci: un tornio in fossa mantiene in esercizio la flotta tra una revisione e l'altra, mentre un tornio a portale o a pavimento lavora le sale montate smontate durante la manutenzione pesante.",
+          "link": {
+            "label": "Confronti tutti i torni per ruote",
+            "page": "products",
+            "anchor": "wheel-lathes"
+          }
+        },
+        {
+          "type": "text",
+          "eyebrow": "Approfondimenti sulla scelta",
+          "heading": "Singolo o tandem, uno o due torni",
+          "paragraphs": [
+            "Una volta individuata la famiglia adatta, la domanda successiva riguarda la capacità. Un [tornio in fossa](page:underfloor-wheel-lathe) singolo lavora una sala montata alla volta. Un [tornio in fossa tandem](page:tandem-underfloor-wheel-lathe) abbina due macchine sincronizzate in modo da lavorare entrambe le sale montate di un carrello in un unico piazzamento – la scelta giusta quando treni lunghi devono rientrare in servizio entro una finestra temporale ristretta.",
+            "Per le sale montate già smontate, metta a confronto il [tornio per ruote a portale](page:portal-wheel-lathe), il [tornio a portale a rulli](page:roller-type-portal-wheel-lathe) e il [tornio per ruote a pavimento](page:surface-wheel-lathe). Basi la decisione sul numero di sale montate per turno, sulla gamma di diametri e lunghezze degli assi, sulla necessità di lavorare i dischi freno e su come le sale montate arriveranno alla macchina.",
+            "Dimensioni l'impianto per la flotta che avrà, non solo per quella attuale. Aggiungere una seconda macchina in un secondo momento è molto più semplice se fossa, binario e impianti sono stati previsti fin dall'inizio."
+          ],
+          "image": "products/tandem-underfloor-wheel-lathe-yul-12t",
+          "image_alt": "Illustrazione di esempio di un tornio in fossa tandem che lavora due sale montate di un carrello",
+          "layout": "image-left"
+        },
+        {
+          "type": "text",
+          "id": "pit-planning",
+          "eyebrow": "Guida 2",
+          "heading": "Progettare la fossa di un tornio sottocassa",
+          "paragraphs": [
+            "Un tornio in fossa diventa parte dell'edificio. La fossa, il binario sovrastante e gli impianti circostanti restano invariati per decenni, quindi le decisioni prese in fase di progettazione incidono a lungo sulla produttività. Coinvolga il fornitore della macchina prima che il layout del deposito venga congelato.",
+            "Utilizzi la checklist seguente come punto di partenza per il confronto tra operatore, progettista del deposito, impresa edile e costruttore del tornio."
+          ],
+          "bullets": [
+            "**Andamento del binario** – un tratto rettilineo e in piano, con una lunghezza sufficiente su entrambi i lati per posizionare sopra la macchina ogni tipo di veicolo, compreso il treno più lungo.",
+            "**Dimensioni della fossa e fondazione** – una fossa in cemento armato realizzata secondo i disegni del fornitore della macchina, con carichi di fondazione, posizioni degli ancoraggi e tolleranze concordati per iscritto.",
+            "**Rotaie sopra la macchina** – come vengono sostenuti e movimentati i tratti di rotaia sopra il tornio e come si raccordano con il binario del deposito.",
+            "**Movimentazione dei veicoli** – come i treni verranno trainati sopra la fossa e posizionati asse per asse: locomotiva di deposito, sistema a fune o ad argano, oppure un [veicolo strada-rotaia (Rail cum Road Vehicle – Shunter)](page:rail-cum-road-vehicle-shunter).",
+            "**Impianti** – alimentazione elettrica, messa a terra, aria compressa ove necessaria, illuminazione, ventilazione e connessioni dati per la diagnostica remota.",
+            "**Drenaggio e trucioli** – scarico di acqua e olio dalla fossa e un percorso pratico per l'evacuazione dei trucioli.",
+            "**Accesso e sicurezza** – scale, passerelle, protezioni e sistemi di sollevamento per la manutenzione, con una netta separazione tra operatori e veicoli in movimento.",
+            "**Capacità futura** – spazio e impianti per una seconda macchina o per un upgrade a tandem, se è prevista una crescita della flotta."
+          ],
+          "image": "projects/pit-foundation-civil-works",
+          "image_alt": "Illustrazione di esempio di una fossa in cemento armato in preparazione per un tornio in fossa",
+          "layout": "image-right",
+          "link": {
+            "label": "Servizi di installazione e messa in servizio",
+            "page": "installation-commissioning"
+          }
+        },
+        {
+          "type": "text",
+          "id": "re-profiling-strategy",
+          "eyebrow": "Guida 3",
+          "heading": "Prolungare la vita delle ruote: strategia di riprofilatura",
+          "paragraphs": [
+            "Una ruota può essere riprofilata solo finché non raggiunge il diametro limite di scarto. Ogni millimetro di diametro asportato inutilmente ne accorcia la vita e anticipa il costo di nuove ruote o nuovi cerchioni, oltre al fermo necessario per montarli. L'obiettivo di una buona strategia di riprofilatura è semplice: ripristinare ogni volta un profilo sicuro con la minima perdita di diametro possibile.",
+            "Di solito è lo spessore del bordino a determinare il taglio. Per ricostruire un bordino sottile, il tornio deve asportare materiale dal battistrada finché non riemerge la forma completa del bordino – così una piccola usura del bordino può costare una perdita di diametro molte volte superiore. Per questo è così importante intervenire al momento giusto e scegliere il profilo obiettivo corretto."
+          ],
+          "bullets": [
+            "Misuri regolarmente e registri ogni ruota, in modo che le tendenze diventino visibili prima del raggiungimento dei limiti.",
+            "Fissi limiti di intervento al di sotto dei limiti di sicurezza, lasciando margine per pianificare i lavori senza ritiri d'emergenza dal servizio.",
+            "Ove le norme dell'operatore lo consentano, utilizzi profili intermedi approvati con spessore del bordino ridotto per risparmiare diametro a ogni passata.",
+            "Lavori tempestivamente sfaccettature e difetti superficiali; i piccoli difetti crescono e richiedono in seguito tagli più profondi.",
+            "Mantenga le differenze di diametro su un asse, un carrello e un veicolo entro le tolleranze specificate.",
+            "Indaghi le cause principali – regolazione dei freni, allineamento del carrello, sistema antipattinamento o geometria del binario – quando un veicolo o una linea si usura più rapidamente degli altri."
+          ],
+          "image": "homepage/engineering-technology",
+          "image_alt": "Illustrazione di esempio di uno schermo CNC che confronta il profilo misurato di una ruota con il profilo obiettivo",
+          "layout": "image-left"
+        },
+        {
+          "type": "steps",
+          "heading": "Impostare un programma di gestione della vita delle ruote",
+          "intro": "Un ciclo strutturato trasforma la riprofilatura da intervento d'emergenza ad attività di manutenzione programmata.",
+          "items": [
+            {
+              "title": "Misurare",
+              "text": "Rilevare a intervalli fissi diametro, altezza del bordino, spessore del bordino e inclinazione del bordino di ogni ruota."
+            },
+            {
+              "title": "Analizzare le tendenze",
+              "text": "Monitorare i tassi di usura per tipo di veicolo, linea e stagione per prevedere quando ogni sala montata richiederà un intervento."
+            },
+            {
+              "title": "Pianificare",
+              "text": "Programmare la riprofilatura prima del raggiungimento dei limiti e coordinarla con gli altri lavori del deposito."
+            },
+            {
+              "title": "Lavorare il minimo indispensabile",
+              "text": "Lasciare che il tornio misuri prima di tutto e asporti solo la profondità necessaria a ripristinare il profilo scelto."
+            },
+            {
+              "title": "Registrare e verificare",
+              "text": "Archiviare le misure dopo la lavorazione e analizzare regolarmente la vita delle ruote per affinare limiti e profili."
+            }
+          ],
+          "link": {
+            "label": "Formazione per operatori e squadre di manutenzione",
+            "page": "training"
+          }
+        },
+        {
+          "type": "faq",
+          "id": "faq",
+          "heading": "Domande frequenti",
+          "items": [
+            {
+              "q": "Ogni quanto vanno riprofilate le ruote?",
+              "a": "Non esiste un intervallo unico. Dipende dal veicolo, dal suo servizio, dalla linea, dal sistema frenante e dai limiti dell'operatore. La maggior parte degli operatori riprofila in base alle condizioni, tramite misure regolari, anziché a percorrenze fisse."
+            },
+            {
+              "q": "Qual è la differenza tra riprofilare e sostituire una ruota?",
+              "a": "La riprofilatura riporta mediante lavorazione la ruota esistente alla forma specificata di battistrada e bordino. La sostituzione diventa necessaria quando la ruota o il cerchione raggiunge il diametro limite di scarto o presenta danni che non possono essere eliminati con la lavorazione in sicurezza."
+            },
+            {
+              "q": "Perché un bordino sottile costa così tanto diametro?",
+              "a": "Il bordino non può essere ricostruito per riporto; la sua forma può essere ripristinata solo abbassando il battistrada finché non torna a emergere un bordino a spessore pieno. Una piccola usura del bordino può quindi significare una perdita di diametro molto maggiore."
+            },
+            {
+              "q": "Le ruote con sfaccettature possono essere lavorate senza smontare la sala montata?",
+              "a": "Sì. Un [tornio in fossa](page:underfloor-wheel-lathe) lavora le ruote nel veicolo e può eliminare le sfaccettature e ripristinare il profilo nello stesso ciclo."
+            },
+            {
+              "q": "Le due ruote di un asse devono essere lavorate insieme?",
+              "a": "Sì, nella pratica. Le due ruote di un asse devono rimanere entro una stretta tolleranza di diametro reciproca perché la sala montata si autoguidi correttamente. I torni in fossa, a portale e a pavimento lavorano entrambe le ruote in un unico piazzamento."
+            },
+            {
+              "q": "Quando conviene un tornio in fossa tandem?",
+              "a": "Quando il deposito gestisce flotte lunghe o ad alta frequenza e il tempo che ogni treno trascorre sul tornio è critico. Un [tornio tandem](page:tandem-underfloor-wheel-lathe) lavora entrambe le sale montate di un carrello in un unico piazzamento."
+            },
+            {
+              "q": "I dischi freno possono essere lavorati su un tornio per ruote?",
+              "a": "Sì, con configurazioni idonee. I dischi freno calettati sull'asse possono essere lavorati su alcuni torni a pavimento e sui torni in fossa dotati di questa opzione. Confermi l'esigenza già in fase di richiesta."
+            },
+            {
+              "q": "Quanto tempo occorre per pianificare e installare un tornio in fossa?",
+              "a": "Dipende principalmente dalle opere civili. La progettazione della fossa dovrebbe iniziare presto nella progettazione del deposito, perché fossa e binario, una volta realizzati, non si possono più modificare. Ci richieda i disegni delle fondazioni già in fase di pianificazione."
+            },
+            {
+              "q": "Di quali informazioni avete bisogno per consigliare una macchina?",
+              "a": "Tipi di veicoli e dimensione della flotta, gamma dei diametri delle ruote, profili delle ruote, scartamento, carichi per asse, numero previsto di sale montate per turno e uno schizzo del layout del deposito o dell'officina."
+            },
+            {
+              "q": "Un tornio per ruote datato può essere ammodernato?",
+              "a": "Spesso sì. Una struttura della macchina in buono stato può essere dotata di un nuovo sistema CNC, nuovi azionamenti e nuove apparecchiature di misura. Consulti [retrofit e ammodernamento](page:retro-fitment-upgradation)."
+            }
+          ]
+        },
+        {
+          "type": "related",
+          "heading": "Macchine citate in queste guide",
+          "pages": [
+            "underfloor-wheel-lathe",
+            "tandem-underfloor-wheel-lathe",
+            "portal-wheel-lathe",
+            "surface-wheel-lathe"
+          ]
+        },
+        {
+          "type": "cta",
+          "heading": "Ha una domanda a cui queste guide non rispondono?",
+          "text": "I nostri ingegneri applicativi saranno lieti di esaminare i Suoi dati sull'usura delle ruote, la Sua flotta o i progetti del Suo deposito e di suggerirLe una soluzione pratica.",
+          "primary": {
+            "label": "Chieda a un ingegnere",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Area download",
+            "page": "downloads"
+          }
+        }
+      ]
+    },
+    "downloads": {
+      "nav": "Download",
+      "title": "Download – cataloghi prodotti",
+      "description": "Scarichi in PDF i cataloghi HYT Engineering: torni CNC per ruote, macchine per officine ruote e assi e attrezzature per depositi ferroviari.",
+      "eyebrow": "Media e risorse",
+      "h1": "Download",
+      "lede": "Cataloghi e documentazione di prodotto HYT Engineering, riuniti in un unico posto.",
+      "summary": "Cataloghi prodotti e documenti in formato PDF.",
+      "blocks": [
+        {
+          "type": "downloads",
+          "heading": "Cataloghi prodotti",
+          "items": [
+            {
+              "title": "Catalogo prodotti HYT (esempio)",
+              "text": "Una panoramica dei torni per ruote, delle macchine per officine ruote e assi e delle attrezzature per depositi HYT, con le informazioni di cui abbiamo bisogno per preparare un'offerta tecnica.",
+              "file": "/assets/documents/catalogue/hyt-sample-catalogue.pdf",
+              "meta": "PDF · esempio per progettazione e test"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "eyebrow": "Come utilizzare i nostri documenti",
+          "heading": "Dal catalogo all'offerta",
+          "paragraphs": [
+            "I cataloghi offrono una panoramica di ogni macchina, delle sue principali opzioni e delle applicazioni tipiche. Ogni macchina HYT viene configurata in base allo scartamento, ai profili delle ruote e ai veicoli del cliente, pertanto i dati tecnici definitivi vengono sempre confermati nell'offerta tecnica.",
+            "Ogni pagina prodotto dispone inoltre di un proprio pulsante per il catalogo, così può scaricare il documento della singola macchina mentre ne legge la descrizione. Parta dalla [panoramica prodotti](page:products) per trovare la macchina che Le serve.",
+            "Le serve un disegno, una scheda tecnica o documentazione di gara non presente in questo elenco? [Ci contatti](page:contact-us) e ci indichi per quale macchina e per quale progetto."
+          ],
+          "image": "company/engineering-design",
+          "image_alt": "Illustrazione di esempio di ingegneri che esaminano disegni e documentazione di una macchina",
+          "layout": "image-right"
+        },
+        {
+          "type": "cards",
+          "eyebrow": "Ricerca per famiglia",
+          "heading": "Trovi una macchina",
+          "cols": 4,
+          "items": [
+            {
+              "page": "products",
+              "anchor": "wheel-lathes",
+              "title": "Torni per ruote",
+              "text": "Torni CNC in fossa, tandem, a pavimento e a portale.",
+              "icon": "gear-wide-connected"
+            },
+            {
+              "page": "products",
+              "anchor": "wheel-axle-shop-machines",
+              "title": "Macchine per officine ruote e assi",
+              "text": "Tornitura, alesatura, rullatura, calettamento, misura ed equilibratura.",
+              "icon": "tools"
+            },
+            {
+              "page": "products",
+              "anchor": "depot-workshop-equipment",
+              "title": "Attrezzature per depositi e officine",
+              "text": "Macchine per indotti, impianti di lavaggio treni e veicoli di manovra.",
+              "icon": "building-gear"
+            },
+            {
+              "page": "products",
+              "anchor": "partner-products",
+              "title": "Prodotti dei partner",
+              "text": "Tecnologia di scorrimento SKC Gleittechnik dalla Germania.",
+              "icon": "box-seam"
+            }
+          ]
+        },
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "Il catalogo elencato è un file di esempio. Sul sito attuale, i cataloghi vengono resi disponibili dopo la compilazione di un breve modulo – HYT deve decidere se mantenere il modulo o consentire il download diretto dei file. HYT deve fornire il catalogo definitivo e le singole schede tecniche dei prodotti."
+        }
+      ]
+    }
+  }
+}

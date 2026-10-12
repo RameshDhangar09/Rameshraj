@@ -1,0 +1,779 @@
+{
+  "pages": {
+    "news": {
+      "nav": "Actualités",
+      "title": "Actualités – commandes, projets et distinctions",
+      "description": "Actualités de HYT Engineering : nouvelles commandes de tours à roues de réseaux ferrés et de métros, projets livrés, distinctions et participations aux salons.",
+      "eyebrow": "Médias et ressources",
+      "h1": "Les dernières actualités de HYT Engineering",
+      "lede": "Commandes, projets livrés, distinctions et salons – les annonces qui jalonnent le développement de HYT, réunies en un seul endroit.",
+      "summary": "Annonces de l'entreprise : nouvelles commandes, projets livrés, distinctions et participations aux salons.",
+      "blocks": [
+        {
+          "type": "news",
+          "eyebrow": "Annonces",
+          "heading": "Annonces récentes",
+          "items": [
+            {
+              "title": "NCRTC émet une lettre d'acceptation pour des tours en fosse CNC entièrement automatiques",
+              "date": "Commande",
+              "category": "Commandes",
+              "text": "National Capital Region Transport Corporation a émis à HYT une lettre d'acceptation (Letter of Acceptance) pour des tours en fosse CNC entièrement automatiques. Ces machines reprofileront les essieux montés sous le véhicule, réduisant ainsi le temps d'immobilisation des trains.",
+              "page": "under-execution"
+            },
+            {
+              "title": "Le métro de Delhi commande à HYT un nouveau tour en fosse tandem CNC",
+              "date": "Commande",
+              "category": "Commandes",
+              "text": "Delhi Metro Rail Corporation a attribué à HYT un contrat pour un nouveau tour en fosse tandem CNC. Une machine tandem reprofile les deux essieux montés d'un bogie en un seul positionnement – un atout pour les parcs de métro à haute fréquence.",
+              "page": "tandem-underfloor-wheel-lathe"
+            },
+            {
+              "title": "Contrat Indian Railways pour neuf tours en fosse CNC",
+              "date": "Commande",
+              "category": "Commandes",
+              "text": "Indian Railways a confié à HYT la fourniture de neuf tours en fosse CNC, qui renforcent la capacité de reprofilage sous véhicule de son réseau de maintenance.",
+              "page": "underfloor-wheel-lathe"
+            },
+            {
+              "title": "HYT figure dans le classement D&B Leading Mid-Corporates of India 2023",
+              "date": "Distinction",
+              "category": "Distinctions",
+              "text": "HYT Engineering Company Pvt. Ltd. figure dans la publication Leading Mid-Corporates of India 2023 de Dun & Bradstreet.",
+              "page": "awards"
+            },
+            {
+              "title": "HYT au salon Africa Rail 2020",
+              "date": "Salon",
+              "category": "Salons",
+              "text": "HYT a exposé au salon Africa Rail 2020 et y a présenté ses tours à roues et ses solutions d'atelier à l'industrie ferroviaire africaine.",
+              "page": "international-exhibitions"
+            },
+            {
+              "title": "À la rencontre des exploitants sur Asia Pacific Rail, Middle East Rail et AusRAIL",
+              "date": "Salon",
+              "category": "Salons",
+              "text": "HYT a exposé aux salons Asia Pacific Rail, Middle East Rail et AusRAIL, où elle a échangé avec des exploitants et ingénieurs ferroviaires sur le reprofilage des roues et la conception des dépôts.",
+              "page": "international-exhibitions"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "eyebrow": "À propos de cette page",
+          "heading": "Ce que nous publions ici",
+          "paragraphs": [
+            "Cette page regroupe les annonces de HYT : nouvelles commandes, projets achevés et remis au client, distinctions reçues par l'entreprise et salons où vous pouvez rencontrer nos ingénieurs. Chaque annonce est courte et factuelle, avec un lien vers la page détaillée correspondante.",
+            "Vous cherchez des contenus techniques plutôt que des actualités de l'entreprise ? Notre [blog](page:blog) propose des articles datés et des retours de projets, et le [centre de connaissances](page:knowledge-centre) rassemble des guides de référence sur l'usure des roues, le choix d'un tour et la conception d'atelier.",
+            "Les journalistes et publications spécialisées peuvent demander des informations de fond, des citations ou des images en écrivant à info@hytengineering.com avec la mention « Demande presse » en objet."
+          ],
+          "image": "company/exhibition-stand",
+          "image_alt": "Illustration d'exemple d'un stand HYT sur un salon, avec une maquette de tour à roues et des visiteurs en discussion",
+          "layout": "image-right"
+        },
+        {
+          "type": "cards",
+          "eyebrow": "À lire aussi",
+          "heading": "Plus d'informations sur HYT",
+          "cols": 4,
+          "items": [
+            {
+              "page": "under-execution",
+              "icon": "gear-wide-connected"
+            },
+            {
+              "page": "awards",
+              "icon": "award"
+            },
+            {
+              "page": "international-exhibitions",
+              "icon": "globe2"
+            },
+            {
+              "page": "domestic-exhibitions",
+              "icon": "geo-alt"
+            }
+          ]
+        },
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "Les annonces reposent sur des sources publiques et ne sont pas datées. À fournir par HYT : la date, un court communiqué de presse et des photographies pour chaque annonce, ainsi que la validation de la formulation. Les pages d'actualité individuelles seront publiées sous /news/item-name/."
+        }
+      ]
+    },
+    "international-exhibitions": {
+      "nav": "Salons internationaux",
+      "title": "Salons ferroviaires internationaux",
+      "description": "HYT Engineering a exposé à Asia Pacific Rail, Middle East Rail, Africa Rail 2020 et AusRAIL. Pourquoi nous y participons et ce que vous pouvez y aborder.",
+      "eyebrow": "Médias et ressources",
+      "h1": "HYT sur les salons ferroviaires internationaux",
+      "lede": "Les salons ferroviaires nous mettent face à face avec les exploitants, les équipes projet et les ingénieurs qui assurent la maintenance des parcs du monde entier. Nous y venons autant pour écouter que pour présenter.",
+      "summary": "Asia Pacific Rail, Middle East Rail, Africa Rail et AusRAIL – les rendez-vous où HYT a rencontré l'industrie ferroviaire internationale.",
+      "blocks": [
+        {
+          "type": "text",
+          "eyebrow": "Pourquoi nous exposons",
+          "heading": "Des échanges qui font naître de meilleurs ateliers",
+          "paragraphs": [
+            "Un tour à roues ou un atelier de roues est une décision à long terme. Les exploitants qui la prennent veulent comprendre l'ingénierie de la machine, connaître les personnes qui en assureront le support et savoir comment elle s'intégrera à leur parc, à leur écartement et à l'implantation de leur dépôt. Ce dialogue commence au mieux en personne.",
+            "Les salons internationaux nous permettent de rencontrer en quelques jours des réseaux ferroviaires, des exploitants de métro, des constructeurs de matériel roulant et des bureaux d'études de nombreuses régions. Nous y apprenons comment les pratiques de maintenance varient d'un réseau à l'autre, quels problèmes préoccupent les responsables d'atelier et où de nouvelles lignes et de nouveaux dépôts sont prévus. Ces enseignements alimentent directement la conception de nos machines et nos [projets clés en main](page:turnkey-project)."
+          ],
+          "image": "company/exhibition-stand",
+          "image_alt": "Illustration d'exemple d'un stand HYT sur un salon ferroviaire international",
+          "layout": "image-right"
+        },
+        {
+          "type": "logos",
+          "eyebrow": "Nos participations",
+          "heading": "Où nous avons exposé",
+          "intro": "HYT a participé en tant qu'exposant à ces salons ferroviaires internationaux.",
+          "items": [
+            {
+              "name": "Asia Pacific Rail",
+              "note": "Exposant"
+            },
+            {
+              "name": "Middle East Rail",
+              "note": "Exposant"
+            },
+            {
+              "name": "Africa Rail 2020",
+              "note": "Exposant"
+            },
+            {
+              "name": "AusRAIL",
+              "note": "Exposant"
+            }
+          ]
+        },
+        {
+          "type": "features",
+          "eyebrow": "Sur le stand",
+          "heading": "Les sujets à aborder avec nous",
+          "intro": "Notre stand est animé par les personnes qui conçoivent, fabriquent et entretiennent les machines. Venez avec vos questions – et, si possible, vos profils de roues et vos plans de dépôt.",
+          "cols": 3,
+          "items": [
+            {
+              "icon": "rulers",
+              "title": "Stratégie de reprofilage des roues",
+              "text": "Comment rétablir les profils avec un minimum d'enlèvement de matière et prolonger la durée de vie des roues sur l'ensemble d'un parc."
+            },
+            {
+              "icon": "gear-wide-connected",
+              "title": "Choisir un tour à roues",
+              "text": "En fosse, tandem, au sol ou à portique : quelle conception convient à vos véhicules, à votre écartement et à votre débit."
+            },
+            {
+              "icon": "diagram-3",
+              "title": "Conception de dépôts et d'ateliers de roues",
+              "text": "Flux de processus, choix des machines et interfaces génie civil pour des installations neuves ou en extension."
+            },
+            {
+              "icon": "building-gear",
+              "title": "Projets clés en main",
+              "text": "Un responsable unique, de l'étude d'implantation à la mise en service et à la remise."
+            },
+            {
+              "icon": "arrow-repeat",
+              "title": "Modernisation des machines existantes",
+              "text": "Rétrofit de nouvelles commandes CNC, de nouveaux entraînements et de technologies de mesure pour prolonger la vie des machines."
+            },
+            {
+              "icon": "truck",
+              "title": "Location avec opérateur (wet leasing)",
+              "text": "Capacité de reprofilage fournie avec machine et équipe, facturée à la production."
+            }
+          ],
+          "link": {
+            "label": "Découvrir nos produits",
+            "page": "products"
+          }
+        },
+        {
+          "type": "gallery",
+          "heading": "Impressions",
+          "items": [
+            {
+              "image": "company/exhibition-stand",
+              "caption": "Illustration d'exemple du stand HYT"
+            },
+            {
+              "image": "products/underfloor-wheel-lathe-yul-08",
+              "caption": "Illustration d'exemple d'un tour en fosse du type présenté aux visiteurs"
+            },
+            {
+              "image": "products/wheelset-profile-closeup",
+              "caption": "Illustration d'exemple d'une table de roulement et d'un boudin reprofilés"
+            },
+            {
+              "image": "company/engineering-design",
+              "caption": "Illustration d'exemple d'ingénieurs HYT examinant la conception d'une machine"
+            }
+          ]
+        },
+        {
+          "type": "cards",
+          "eyebrow": "À découvrir également",
+          "heading": "Autres événements et actualités",
+          "cols": 2,
+          "items": [
+            {
+              "page": "domestic-exhibitions",
+              "icon": "geo-alt"
+            },
+            {
+              "page": "news",
+              "icon": "newspaper"
+            }
+          ]
+        },
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "Les salons sont repris des listes d'exposants publiées par les organisateurs. À fournir par HYT : confirmation des années de participation (seul Africa Rail 2020 est daté), photographies du stand et liste des prochains événements avec dates et numéros de stand."
+        },
+        {
+          "type": "cta",
+          "heading": "Vous prévoyez de visiter un salon ferroviaire ?",
+          "text": "Indiquez-nous l'événement auquel vous participez et les sujets que vous souhaitez aborder. Nous organiserons un rendez-vous avec l'ingénieur compétent – sur le salon ou par la suite.",
+          "primary": {
+            "label": "Prendre rendez-vous",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Découvrir nos produits",
+            "page": "products"
+          }
+        }
+      ]
+    },
+    "domestic-exhibitions": {
+      "nav": "Salons en Inde",
+      "title": "Salons professionnels en Inde",
+      "description": "Rencontrez HYT Engineering sur les salons ferroviaires et industriels en Inde : tours à roues, machines d'atelier de roues, équipements de dépôt et service.",
+      "eyebrow": "Médias et ressources",
+      "h1": "HYT sur les salons en Inde",
+      "lede": "L'Inde est notre marché d'origine. Sur les salons ferroviaires et industriels indiens, nous rencontrons les équipes de dépôts et d'ateliers qui utilisent nos machines au quotidien.",
+      "summary": "Salons ferroviaires et industriels en Inde où rencontrer les ingénieurs HYT.",
+      "blocks": [
+        {
+          "type": "text",
+          "eyebrow": "Proches de nos clients",
+          "heading": "Pourquoi les salons indiens comptent pour nous",
+          "paragraphs": [
+            "HYT conçoit et fabrique des machines-outils à Pune depuis 1977. Une grande partie de notre parc installé fonctionne dans des dépôts de locomotives, des dépôts de voitures, des ateliers d'automotrices EMU, des dépôts de métro et des ateliers de roues indiens – et c'est sur les salons indiens que ces utilisateurs, leurs planificateurs et leurs équipes achats se retrouvent.",
+            "Nous profitons de ces événements pour présenter nos nouveautés, recueillir des retours sur les performances de nos machines en service quotidien et rencontrer les ingénieurs qui conçoivent la prochaine génération de dépôts pour des réseaux de métro et de trains régionaux en pleine expansion. C'est aussi l'occasion de rencontrer des fournisseurs et de jeunes ingénieurs qui souhaiteraient [travailler avec nous](page:work-with-us)."
+          ],
+          "image": "company/exhibition-stand",
+          "image_alt": "Illustration d'exemple d'un stand HYT sur un salon industriel indien",
+          "layout": "image-right"
+        },
+        {
+          "type": "features",
+          "eyebrow": "Qui nous rencontrons",
+          "heading": "Les échanges que nous attendons",
+          "cols": 4,
+          "items": [
+            {
+              "icon": "train-front",
+              "title": "Ateliers et dépôts ferroviaires",
+              "text": "Capacité de reprofilage, modernisation des machines et contrats de maintenance pour les équipements existants."
+            },
+            {
+              "icon": "train-lightrail-front",
+              "title": "Métros et trains régionaux",
+              "text": "Tours en fosse simples et tandem pour de nouveaux dépôts accueillant des parcs à haute fréquence."
+            },
+            {
+              "icon": "building-gear",
+              "title": "Constructeurs de matériel roulant",
+              "text": "Machines d'atelier de roues et d'essieux pour la fabrication et l'essai d'essieux montés neufs."
+            },
+            {
+              "icon": "people",
+              "title": "Bureaux d'études et entreprises",
+              "text": "Implantations de dépôts, plans de fosse et interfaces génie civil pour les dossiers d'appel d'offres."
+            }
+          ]
+        },
+        {
+          "type": "cards",
+          "eyebrow": "À découvrir également",
+          "heading": "Autres événements et actualités",
+          "cols": 2,
+          "items": [
+            {
+              "page": "international-exhibitions",
+              "icon": "globe2"
+            },
+            {
+              "page": "news",
+              "icon": "newspaper"
+            }
+          ]
+        },
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "Aucun salon indien n'a encore été vérifié. À fournir par HYT : la liste des salons nationaux auxquels l'entreprise a participé (nom de l'événement, ville, année), des photographies du stand et les prochains événements avec dates et numéros de stand."
+        },
+        {
+          "type": "cta",
+          "heading": "Rencontrez notre équipe en Inde",
+          "text": "Sur un salon ou dans nos ateliers de Pune, nous échangeons volontiers sur votre parc et votre atelier.",
+          "primary": {
+            "label": "Contacter notre équipe",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Réseau de service",
+            "page": "service-centers"
+          }
+        }
+      ]
+    },
+    "blog": {
+      "nav": "Blog",
+      "title": "Blog – maintenance ferroviaire et retours de projets",
+      "description": "Blog HYT Engineering : articles datés, points de vue et retours de projets sur le reprofilage des roues, la conception de dépôts et la maintenance ferroviaire.",
+      "eyebrow": "Médias et ressources",
+      "h1": "Le blog HYT",
+      "lede": "Articles, points de vue et récits des personnes qui conçoivent, fabriquent et entretiennent les machines HYT.",
+      "summary": "Articles datés, points de vue et retours de projets des ingénieurs HYT.",
+      "blocks": [
+        {
+          "type": "text",
+          "eyebrow": "Blog ou centre de connaissances ?",
+          "heading": "Deux types de lecture",
+          "paragraphs": [
+            "Le **blog** accueille nos articles datés : avis sur les pratiques de maintenance, enseignements tirés des chantiers de mise en service, récits de nos projets et réflexions sur l'évolution des ateliers ferroviaires. Chaque article reflète son époque et porte une date de publication.",
+            "Le [centre de connaissances](page:knowledge-centre) rassemble des guides techniques de référence et des réponses aux questions fréquentes – des contenus que nous tenons à jour et que vous pouvez consulter lorsque vous préparez un tour, une fosse ou un programme de reprofilage.",
+            "Pour les annonces de l'entreprise, comme les commandes et les salons, consultez les [actualités](page:news)."
+          ],
+          "image": "products/wheelset-profile-closeup",
+          "image_alt": "Illustration d'exemple d'une table de roulement et d'un boudin de roue ferroviaire après reprofilage",
+          "layout": "image-right"
+        },
+        {
+          "type": "features",
+          "eyebrow": "Articles prévus",
+          "heading": "Bientôt en ligne",
+          "intro": "Les premiers articles sont en préparation. Voici les thèmes que nous prévoyons d'aborder.",
+          "cols": 2,
+          "items": [
+            {
+              "icon": "clock-history",
+              "title": "Ce que coûte réellement une journée en fosse",
+              "text": "Pourquoi le temps qu'un train passe à attendre son reprofilage pèse souvent plus lourd que le prix du tour – et comment le mesurer."
+            },
+            {
+              "icon": "train-lightrail-front",
+              "title": "Planifier la maintenance des roues d'un nouveau dépôt de métro",
+              "text": "Les questions à trancher tôt – taille du parc, profils de roues, position de la fosse – avant que l'implantation du dépôt ne soit figée."
+            },
+            {
+              "icon": "arrow-repeat",
+              "title": "Rétrofit ou remplacement ?",
+              "text": "Comment déterminer si un tour à roues ancien mérite une nouvelle commande CNC et de nouveaux entraînements, ou s'il est arrivé en fin de vie."
+            },
+            {
+              "icon": "tools",
+              "title": "Carnet de chantier de mise en service",
+              "text": "Ce qui se passe entre l'arrivée de la machine au dépôt et la sortie du premier essieu monté, raconté par un ingénieur de site HYT."
+            }
+          ]
+        },
+        {
+          "type": "cards",
+          "eyebrow": "À lire dès maintenant",
+          "heading": "Utile en attendant",
+          "cols": 2,
+          "items": [
+            {
+              "page": "knowledge-centre",
+              "icon": "lightbulb"
+            },
+            {
+              "page": "news",
+              "icon": "newspaper"
+            }
+          ]
+        },
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "Aucun article n'existe encore ; les articles seront publiés sous /blog/article-name/. À confirmer par HYT : le blog et le centre de connaissances restent-ils séparés (comme proposé : blog pour les articles datés, centre de connaissances pour les guides de référence) ou sont-ils fusionnés ? HYT doit également approuver les thèmes et les auteurs prévus."
+        }
+      ]
+    },
+    "knowledge-centre": {
+      "nav": "Centre de connaissances",
+      "title": "Usure des roues et tours à roues : guides techniques",
+      "description": "Guides pratiques : usure des roues ferroviaires, choix d'un tour en fosse, à portique ou au sol, conception de fosse et reprofilage pour des roues durables.",
+      "eyebrow": "Médias et ressources",
+      "h1": "Centre de connaissances : usure des roues, reprofilage et choix du tour",
+      "lede": "Des conseils pratiques et neutres pour les ingénieurs et responsables chargés des essieux montés ferroviaires – de l'identification de l'usure à la conception de la machine qui la corrige.",
+      "summary": "Guides pratiques sur l'usure des roues, le choix du tour, la conception de la fosse et la stratégie de reprofilage, avec les réponses aux questions fréquentes.",
+      "blocks": [
+        {
+          "type": "cards",
+          "eyebrow": "Guides de cette page",
+          "heading": "Partez de votre question",
+          "cols": 4,
+          "items": [
+            {
+              "page": "knowledge-centre",
+              "anchor": "wheel-wear",
+              "icon": "search",
+              "title": "Comprendre l'usure des roues",
+              "text": "Méplats, tables de roulement creuses, boudins minces ou vifs – leurs causes et leurs enjeux."
+            },
+            {
+              "page": "knowledge-centre",
+              "anchor": "choosing-a-lathe",
+              "icon": "gear-wide-connected",
+              "title": "Bien choisir un tour à roues",
+              "text": "Tours en fosse, à portique et au sol comparés."
+            },
+            {
+              "page": "knowledge-centre",
+              "anchor": "pit-planning",
+              "icon": "bricks",
+              "title": "Concevoir la fosse d'un tour en fosse",
+              "text": "Les questions de génie civil et de réseaux à trancher tôt."
+            },
+            {
+              "page": "knowledge-centre",
+              "anchor": "re-profiling-strategy",
+              "icon": "graph-up-arrow",
+              "title": "Prolonger la vie des roues",
+              "text": "Une stratégie de reprofilage qui économise matière et argent."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "id": "wheel-wear",
+          "eyebrow": "Guide 1",
+          "heading": "Comprendre l'usure des roues",
+          "paragraphs": [
+            "Une roue ferroviaire n'est pas un simple cylindre. Sa table de roulement est conique ou galbée afin que l'essieu monté s'oriente de lui-même en courbe et se centre en alignement, et son boudin maintient la roue sur le rail lorsque ce guidage ne suffit plus. Chaque kilomètre modifie un peu cette géométrie. Le reprofilage la rétablit avant que ces modifications n'affectent la sécurité, le confort de roulement ou l'usure de la voie.",
+            "La plupart des usures se rangent dans quelques catégories reconnaissables. Savoir à laquelle on a affaire – et pourquoi elle apparaît – aide à décider de la fréquence des mesures, du moment d'intervenir et de l'origine du problème : véhicule, freinage ou voie."
+          ],
+          "bullets": [
+            "**Méplats** – zones plates formées sur la table de roulement lorsqu'une roue glisse au freinage, généralement par faible adhérence. Ils génèrent des chocs qui endommagent la voie, les roulements et le véhicule, ainsi qu'un bruit immédiatement perceptible par les voyageurs.",
+            "**Table de roulement creuse** – la surface de roulement s'use en forme concave. La roue se comporte alors comme si sa conicité était beaucoup plus forte, ce qui peut provoquer une marche instable à vitesse élevée, des contraintes de contact plus importantes et un « faux boudin » sur le bord extérieur, qui heurte les aiguillages et les cœurs de croisement.",
+            "**Boudin mince** – le contact répété avec la face de guidage du rail, surtout en courbe, amincit le boudin. En deçà de la limite fixée par l'exploitant, le risque de montée du boudin sur le rail ou de prise en talon des aiguilles augmente.",
+            "**Boudin vif ou vertical** – la face du boudin s'use en devenant raide et son congé de raccordement s'affûte, ce qui favorise la montée du boudin sur le rail et endommage les lames d'aiguille.",
+            "**Boudin haut** – à mesure que la table de roulement s'use, le boudin devient relativement plus haut et peut heurter les éclisses, les boulons et les éléments des cœurs de croisement.",
+            "**Écaillage, arrachements et fissures thermiques** – la fatigue de surface et l'échauffement dû au freinage sur la table de roulement détachent de petits fragments de métal ou laissent de fines fissures qui se propagent si elles ne sont pas éliminées par usinage.",
+            "**Faux-rond et écarts de diamètre** – l'usure polygonale et des diamètres non appariés sur un même essieu ou dans un même bogie provoquent des vibrations et un mauvais guidage."
+          ],
+          "image": "products/wheelset-profile-closeup",
+          "image_alt": "Illustration d'exemple d'un profil de roue ferroviaire montrant la table de roulement et le boudin",
+          "layout": "image-right",
+          "link": {
+            "label": "Mesurer les roues avec précision : station de mesure de roues",
+            "page": "wheel-measuring-station"
+          }
+        },
+        {
+          "type": "table",
+          "id": "choosing-a-lathe",
+          "heading": "Tour en fosse, à portique ou au sol : comment choisir",
+          "intro": "La bonne machine dépend moins du tour lui-même que de l'endroit où se trouve l'essieu monté au moment de l'usinage. Si les essieux montés restent sous le véhicule, un tour en fosse fait gagner le plus de temps. S'ils sont déjà déposés – dans un atelier de roues ou lors d'une révision – un tour à portique ou un tour au sol s'impose naturellement.",
+          "columns": [
+            "Question",
+            "Tour en fosse",
+            "Tour à portique",
+            "Tour au sol"
+          ],
+          "rows": [
+            [
+              "Où se trouve l'essieu monté ?",
+              "Sous le véhicule – sans dépose du bogie ni de l'essieu monté",
+              "Déposé du véhicule",
+              "Déposé du véhicule"
+            ],
+            [
+              "Implantation type",
+              "Dépôt ou atelier de maintenance, atelier d'automotrices",
+              "Atelier de roues, atelier de révision ou ligne de production",
+              "Dépôt ou atelier traitant des essieux montés déposés"
+            ],
+            [
+              "Génie civil",
+              "Fosse renforcée sous une section de voie en alignement",
+              "Fondation de la machine ; dispositif de chargement des essieux montés",
+              "Fondation au niveau du sol ; pas de fosse profonde"
+            ],
+            [
+              "Principal avantage",
+              "Temps d'immobilisation du véhicule le plus court",
+              "Usinage lourd et répétable, débit élevé ; adapté au chargement automatisé",
+              "Machine compacte et polyvalente pour le reprofilage et, sur les modèles adaptés, l'usinage des disques de frein"
+            ],
+            [
+              "Utilisateurs types",
+              "Parcs ferroviaires, de métro et d'automotrices EMU à forte utilisation",
+              "Ateliers de roues, constructeurs de matériel roulant et ateliers de révision",
+              "Ateliers à volumes modérés traitant des essieux montés variés"
+            ],
+            [
+              "Exemples HYT",
+              "YUL-08, YUGL ; tandem YUL-12T, YUGLX",
+              "YPL-02, YPL-04 à galets",
+              "YSL-08 / YSL-12 / YSL-21"
+            ]
+          ],
+          "note": "De nombreux exploitants combinent les deux approches : un tour en fosse maintient le parc en service entre les révisions, tandis qu'un tour à portique ou au sol traite les essieux montés déposés lors de la maintenance lourde.",
+          "link": {
+            "label": "Comparer tous les tours à roues",
+            "page": "products",
+            "anchor": "wheel-lathes"
+          }
+        },
+        {
+          "type": "text",
+          "eyebrow": "Pour aller plus loin",
+          "heading": "Simple ou tandem, un tour ou deux",
+          "paragraphs": [
+            "Une fois la famille de machines identifiée, la question suivante est celle de la capacité. Un [tour en fosse](page:underfloor-wheel-lathe) simple usine un essieu monté à la fois. Un [tour en fosse tandem](page:tandem-underfloor-wheel-lathe) associe deux machines synchronisées pour usiner les deux essieux montés d'un bogie en un seul positionnement – le bon choix lorsque des trains longs doivent reprendre le service dans un créneau serré.",
+            "Pour les essieux montés déjà déposés, comparez le [tour à roues à portique](page:portal-wheel-lathe), le [tour à portique à galets](page:roller-type-portal-wheel-lathe) et le [tour à roues au sol](page:surface-wheel-lathe). Fondez votre décision sur le nombre d'essieux montés par poste, la plage de diamètres et de longueurs d'essieux, la nécessité ou non d'usiner les disques de frein et la manière dont les essieux montés arriveront jusqu'à la machine.",
+            "Dimensionnez l'installation pour le parc que vous aurez, pas seulement pour celui d'aujourd'hui. Ajouter une seconde machine plus tard est bien plus simple si la fosse, la voie et les réseaux ont été prévus dès le départ."
+          ],
+          "image": "products/tandem-underfloor-wheel-lathe-yul-12t",
+          "image_alt": "Illustration d'exemple d'un tour en fosse tandem usinant les deux essieux montés d'un bogie",
+          "layout": "image-left"
+        },
+        {
+          "type": "text",
+          "id": "pit-planning",
+          "eyebrow": "Guide 2",
+          "heading": "Concevoir la fosse d'un tour en fosse",
+          "paragraphs": [
+            "Un tour en fosse fait partie intégrante du bâtiment. La fosse, la voie qui la surplombe et les réseaux qui l'entourent sont figés pour des décennies : les décisions prises lors de la conception ont donc un effet durable sur la productivité. Associez le fournisseur de la machine avant que l'implantation du dépôt ne soit figée.",
+            "Utilisez la liste de contrôle ci-dessous comme base de discussion entre l'exploitant, le concepteur du dépôt, l'entreprise de génie civil et le constructeur du tour."
+          ],
+          "bullets": [
+            "**Tracé de la voie** – une section rectiligne et de niveau, suffisamment longue de part et d'autre pour positionner chaque type de véhicule, y compris le train le plus long, au-dessus de la machine.",
+            "**Dimensions de la fosse et fondation** – une fosse en béton armé conforme aux plans du fournisseur de la machine, avec charges de fondation, positions des ancrages et tolérances convenues par écrit.",
+            "**Rails au-dessus de la machine** – mode de support et de déplacement des tronçons de rail situés au-dessus du tour, et raccordement à la voie du dépôt.",
+            "**Déplacement des véhicules** – manière dont les trains seront tractés au-dessus de la fosse et positionnés essieu par essieu : locomotive de manœuvre, système à câble ou à cabestan, ou [véhicule rail-route (locotracteur)](page:rail-cum-road-vehicle-shunter).",
+            "**Réseaux** – alimentation électrique, mise à la terre, air comprimé si nécessaire, éclairage, ventilation et connexions de données pour le diagnostic à distance.",
+            "**Évacuation des eaux et des copeaux** – drainage de l'eau et de l'huile de la fosse et circuit pratique d'évacuation des copeaux.",
+            "**Accès et sécurité** – escaliers, passerelles, protections et moyens de levage pour la maintenance, ainsi qu'une séparation nette entre les opérateurs et les véhicules en mouvement.",
+            "**Capacité future** – espace et réseaux pour une seconde machine ou une évolution vers un tandem si une croissance du parc est prévue."
+          ],
+          "image": "projects/pit-foundation-civil-works",
+          "image_alt": "Illustration d'exemple d'une fosse en béton armé en préparation pour un tour en fosse",
+          "layout": "image-right",
+          "link": {
+            "label": "Services d'installation et de mise en service",
+            "page": "installation-commissioning"
+          }
+        },
+        {
+          "type": "text",
+          "id": "re-profiling-strategy",
+          "eyebrow": "Guide 3",
+          "heading": "Prolonger la vie des roues : stratégie de reprofilage",
+          "paragraphs": [
+            "Une roue ne peut être reprofilée que jusqu'à son diamètre limite de réforme. Chaque millimètre de diamètre enlevé inutilement raccourcit sa durée de vie et avance le coût de roues ou de bandages neufs ainsi que l'immobilisation nécessaire à leur montage. L'objectif d'une bonne stratégie de reprofilage est simple : rétablir à chaque fois un profil sûr, avec la plus faible perte de diamètre possible.",
+            "C'est généralement l'épaisseur du boudin qui détermine la profondeur de passe. Pour reconstituer un boudin mince, le tour doit enlever de la matière sur la table de roulement jusqu'à ce que le boudin retrouve sa forme complète – une faible usure du boudin peut donc coûter plusieurs fois plus de diamètre. C'est pourquoi il est si important d'intervenir au bon moment et de choisir le bon profil cible."
+          ],
+          "bullets": [
+            "Mesurez régulièrement et enregistrez chaque roue, afin que les tendances apparaissent avant que les limites ne soient atteintes.",
+            "Fixez des seuils d'intervention inférieurs aux limites de sécurité, pour pouvoir planifier les travaux sans retraits d'urgence.",
+            "Lorsque les normes de l'exploitant le permettent, utilisez des profils intermédiaires homologués à épaisseur de boudin réduite pour économiser du diamètre à chaque passe.",
+            "Usinez rapidement les méplats et les défauts de surface ; les petits défauts s'aggravent et exigent ensuite des passes plus profondes.",
+            "Maintenez les écarts de diamètre sur un essieu, un bogie et un véhicule dans les tolérances spécifiées.",
+            "Recherchez les causes profondes – réglage des freins, alignement du bogie, antienrayage ou géométrie de la voie – lorsqu'un véhicule ou un itinéraire s'use plus vite que les autres."
+          ],
+          "image": "homepage/engineering-technology",
+          "image_alt": "Illustration d'exemple d'un écran CNC comparant un profil de roue mesuré au profil cible",
+          "layout": "image-left"
+        },
+        {
+          "type": "steps",
+          "heading": "Mettre en place un programme de gestion de la durée de vie des roues",
+          "intro": "Un cycle structuré transforme le reprofilage, d'une tâche d'urgence, en activité de maintenance planifiée.",
+          "items": [
+            {
+              "title": "Mesurer",
+              "text": "Relever à intervalles fixes, pour chaque roue, le diamètre, la hauteur du boudin, l'épaisseur du boudin et la pente du boudin."
+            },
+            {
+              "title": "Analyser les tendances",
+              "text": "Suivre les vitesses d'usure par type de véhicule, itinéraire et saison afin de prévoir quand chaque essieu monté devra être traité."
+            },
+            {
+              "title": "Planifier",
+              "text": "Programmer le reprofilage avant que les limites ne soient atteintes et le coordonner avec les autres travaux du dépôt."
+            },
+            {
+              "title": "Usiner au plus juste",
+              "text": "Laisser le tour mesurer d'abord et n'enlever que la profondeur nécessaire pour rétablir le profil choisi."
+            },
+            {
+              "title": "Enregistrer et analyser",
+              "text": "Conserver les mesures après usinage et analyser régulièrement la durée de vie des roues pour affiner les limites et les profils."
+            }
+          ],
+          "link": {
+            "label": "Formation des opérateurs et des équipes de maintenance",
+            "page": "training"
+          }
+        },
+        {
+          "type": "faq",
+          "id": "faq",
+          "heading": "Questions fréquentes",
+          "items": [
+            {
+              "q": "À quelle fréquence faut-il reprofiler les roues ?",
+              "a": "Il n'existe pas d'intervalle unique. Tout dépend du véhicule, de son service, de l'itinéraire, du système de freinage et des limites fixées par l'exploitant. La plupart des exploitants reprofilent selon l'état constaté, sur la base de mesures régulières, plutôt qu'à kilométrage fixe."
+            },
+            {
+              "q": "Quelle différence entre le reprofilage et le remplacement d'une roue ?",
+              "a": "Le reprofilage consiste à réusiner la roue existante pour lui redonner la forme spécifiée de la table de roulement et du boudin. Le remplacement devient nécessaire lorsque la roue ou le bandage atteint son diamètre limite de réforme ou présente des dommages qui ne peuvent pas être éliminés par usinage en toute sécurité."
+            },
+            {
+              "q": "Pourquoi un boudin mince coûte-t-il autant de diamètre ?",
+              "a": "Le boudin ne peut pas être rechargé ; sa forme ne peut être rétablie qu'en abaissant la table de roulement jusqu'à ce qu'un boudin d'épaisseur complète ressorte à nouveau. Une faible usure du boudin peut donc entraîner une perte de diamètre bien plus importante."
+            },
+            {
+              "q": "Peut-on usiner des roues présentant des méplats sans déposer l'essieu monté ?",
+              "a": "Oui. Un [tour en fosse](page:underfloor-wheel-lathe) usine les roues sous le véhicule et peut éliminer les méplats et rétablir le profil dans le même cycle."
+            },
+            {
+              "q": "Faut-il usiner ensemble les deux roues d'un essieu ?",
+              "a": "Oui, en pratique. Les deux roues d'un essieu doivent rester dans une tolérance de diamètre serrée l'une par rapport à l'autre pour que l'essieu monté se guide correctement. Les tours en fosse, à portique et au sol usinent les deux roues en un seul positionnement."
+            },
+            {
+              "q": "Quand un tour en fosse tandem est-il rentable ?",
+              "a": "Lorsque le dépôt traite des parcs de trains longs ou à haute fréquence et que le temps passé par chaque train sur le tour est critique. Un [tour tandem](page:tandem-underfloor-wheel-lathe) usine les deux essieux montés d'un bogie en un seul positionnement."
+            },
+            {
+              "q": "Peut-on usiner des disques de frein sur un tour à roues ?",
+              "a": "Oui, avec une configuration adaptée. Les disques de frein montés sur l'essieu peuvent être usinés sur certains tours au sol et sur les tours en fosse commandés avec cette option. Précisez ce besoin dès la demande de prix."
+            },
+            {
+              "q": "Combien de temps faut-il pour concevoir et installer un tour en fosse ?",
+              "a": "Cela dépend principalement du génie civil. La conception de la fosse doit commencer tôt dans l'étude du dépôt, car la fosse et la voie sont figées une fois construites. Demandez-nous les plans de fondation dès la phase de conception."
+            },
+            {
+              "q": "De quelles informations avez-vous besoin pour recommander une machine ?",
+              "a": "Types de véhicules et taille du parc, plage de diamètres de roues, profils de roues, écartement de la voie, charges à l'essieu, nombre d'essieux montés attendus par poste et un croquis de l'implantation du dépôt ou de l'atelier."
+            },
+            {
+              "q": "Un tour à roues ancien peut-il être modernisé ?",
+              "a": "Souvent, oui. Une structure de machine saine peut recevoir une nouvelle commande CNC, de nouveaux entraînements et de nouveaux équipements de mesure. Voir [rétrofit et modernisation](page:retro-fitment-upgradation)."
+            }
+          ]
+        },
+        {
+          "type": "related",
+          "heading": "Machines citées dans ces guides",
+          "pages": [
+            "underfloor-wheel-lathe",
+            "tandem-underfloor-wheel-lathe",
+            "portal-wheel-lathe",
+            "surface-wheel-lathe"
+          ]
+        },
+        {
+          "type": "cta",
+          "heading": "Une question à laquelle ces guides ne répondent pas ?",
+          "text": "Nos ingénieurs d'application examineront volontiers vos données d'usure des roues, votre parc ou vos plans de dépôt et vous proposeront une solution concrète.",
+          "primary": {
+            "label": "Interroger un ingénieur",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Accéder aux téléchargements",
+            "page": "downloads"
+          }
+        }
+      ]
+    },
+    "downloads": {
+      "nav": "Téléchargements",
+      "title": "Téléchargements – catalogues produits",
+      "description": "Téléchargez les catalogues PDF de HYT Engineering : tours à roues CNC, machines d'atelier de roues et d'essieux, équipements de dépôt et données pour une offre.",
+      "eyebrow": "Médias et ressources",
+      "h1": "Téléchargements",
+      "lede": "Catalogues et documents produits de HYT Engineering, réunis en un seul endroit.",
+      "summary": "Catalogues produits et documents au format PDF.",
+      "blocks": [
+        {
+          "type": "downloads",
+          "heading": "Catalogues produits",
+          "items": [
+            {
+              "title": "Catalogue produits HYT (exemple)",
+              "text": "Une vue d'ensemble des tours à roues, des machines d'atelier de roues et d'essieux et des équipements de dépôt HYT, avec les informations dont nous avons besoin pour préparer une offre technique.",
+              "file": "/assets/documents/catalogue/hyt-sample-catalogue.pdf",
+              "meta": "PDF · exemple pour la conception et les tests"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "eyebrow": "Utiliser nos documents",
+          "heading": "Du catalogue à l'offre",
+          "paragraphs": [
+            "Les catalogues présentent chaque machine, ses principales options et ses applications types. Chaque machine HYT est configurée selon l'écartement, les profils de roues et les véhicules du client : les données techniques définitives sont donc toujours confirmées dans l'offre technique.",
+            "Chaque page produit comporte également son propre bouton de catalogue, pour télécharger le document d'une machine pendant que vous la découvrez. Commencez par la [vue d'ensemble des produits](page:products) pour trouver la machine qu'il vous faut.",
+            "Besoin d'un plan, d'une fiche technique ou d'un dossier d'appel d'offres qui ne figure pas ici ? [Contactez-nous](page:contact-us) en précisant la machine et le projet concernés."
+          ],
+          "image": "company/engineering-design",
+          "image_alt": "Illustration d'exemple d'ingénieurs examinant des plans et de la documentation de machines",
+          "layout": "image-right"
+        },
+        {
+          "type": "cards",
+          "eyebrow": "Parcourir par famille",
+          "heading": "Trouver une machine",
+          "cols": 4,
+          "items": [
+            {
+              "page": "products",
+              "anchor": "wheel-lathes",
+              "title": "Tours à roues",
+              "text": "Tours CNC en fosse, tandem, au sol et à portique.",
+              "icon": "gear-wide-connected"
+            },
+            {
+              "page": "products",
+              "anchor": "wheel-axle-shop-machines",
+              "title": "Machines d'atelier de roues et d'essieux",
+              "text": "Tournage, alésage, galetage, calage, mesure et équilibrage.",
+              "icon": "tools"
+            },
+            {
+              "page": "products",
+              "anchor": "depot-workshop-equipment",
+              "title": "Équipements de dépôt et d'atelier",
+              "text": "Machines pour induits, installations de lavage de trains et locotracteurs.",
+              "icon": "building-gear"
+            },
+            {
+              "page": "products",
+              "anchor": "partner-products",
+              "title": "Produits partenaires",
+              "text": "Technologie de glissement SKC Gleittechnik, en provenance d'Allemagne.",
+              "icon": "box-seam"
+            }
+          ]
+        },
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "Le catalogue proposé est un fichier d'exemple. Sur le site actuel, les catalogues sont accessibles après un court formulaire – HYT doit décider si ce formulaire est conservé ou si les fichiers sont téléchargeables directement. À fournir par HYT : le catalogue définitif et les fiches techniques individuelles des produits."
+        }
+      ]
+    }
+  }
+}

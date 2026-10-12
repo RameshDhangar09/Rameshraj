@@ -1,0 +1,992 @@
+{
+  "pages": {
+    "industries": {
+      "nav": "Branchen",
+      "title": "Branchen – Bahn, Metro und Industrie",
+      "description": "HYT beliefert Bahnen, Metros, Schienenfahrzeughersteller, Verteidigung und Schwermaschinenbau mit CNC-Radsatzdrehmaschinen, Radsatztechnik und Service.",
+      "eyebrow": "Branchen",
+      "h1": "Branchen, die wir beliefern",
+      "lede": "Überall dort, wo schwere Räder und rotierende Bauteile exakt rundlaufen müssen, stellen HYT-Maschinen sie präzise her oder wieder her – von Werkstätten nationaler Bahnen über Metro-Betriebshöfe bis zu Industrieanlagen.",
+      "summary": "Bahnen, Metros, Schienenfahrzeughersteller, Verteidigung und Schwermaschinenbau – hier arbeiten HYT-Maschinen.",
+      "blocks": [
+        {
+          "type": "cards",
+          "eyebrow": "Wählen Sie Ihre Branche",
+          "heading": "Lösungen, abgestimmt auf Ihren Betrieb",
+          "intro": "Jede Branche hat ihre eigenen Fahrzeuge, Zeitpläne und Rahmenbedingungen. Wählen Sie Ihre aus und erfahren Sie, welche Herausforderungen wir lösen, welche Maschinen wir empfehlen und welche Projekte dahinterstehen.",
+          "cols": 3,
+          "items": [
+            {
+              "page": "ind-railways",
+              "image": "industries/railways"
+            },
+            {
+              "page": "ind-metros",
+              "image": "industries/metros"
+            },
+            {
+              "page": "ind-rolling-stock",
+              "image": "industries/rolling-stock-manufacturers"
+            },
+            {
+              "page": "ind-defence",
+              "image": "industries/defence"
+            },
+            {
+              "page": "ind-heavy-engineering",
+              "image": "industries/heavy-engineering"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "eyebrow": "Was sie verbindet",
+          "heading": "Eine Disziplin: präzise Bearbeitung schwerer rotierender Teile",
+          "paragraphs": [
+            "Ein Lokomotivradsatz, ein Metro-Drehgestell, eine neue Radscheibe in der Serienfertigung und ein großer Industriering haben etwas gemeinsam: Jedes dieser Teile ist schwer, dreht sich unter Last und muss genau bearbeitet werden, damit das System, zu dem es gehört, sicher und effizient läuft.",
+            "Auf diese Aufgabe konzentriert sich HYT seit dem Einstieg in die CNC-Radsatzdrehtechnik. Dasselbe Ingenieurwissen – steife Maschinenstrukturen, genaue Messung, robuste CNC-Steuerung und sorgfältige Fundamentauslegung – kommt jeder Branche auf dieser Seite zugute. Was sich ändert, sind Konfiguration, Durchsatz und die Einbindung der Maschine in Ihre Werkstatt.",
+            "Da wir jede Maschine im eigenen Haus konstruieren und bauen, können wir sie an ungewöhnliche Radgrößen, hohe Radsatzlasten, beengte Platzverhältnisse im Betriebswerk oder einen bestimmten Produktionstakt anpassen – und wir bleiben auch nach der Übergabe für sie verantwortlich."
+          ],
+          "image": "products/wheelset-profile-closeup",
+          "image_alt": "Beispielillustration der Bearbeitung von Lauffläche und Spurkranz eines Eisenbahnrads",
+          "layout": "image-right"
+        },
+        {
+          "type": "features",
+          "eyebrow": "Warum das wichtig ist",
+          "heading": "Was jeder Kunde von einem Maschinenpartner braucht",
+          "cols": 4,
+          "items": [
+            {
+              "icon": "speedometer2",
+              "title": "Verfügbarkeit",
+              "text": "Kurze Reprofilierungs- und Bearbeitungszyklen halten Fahrzeuge und Fertigungslinien in Bewegung."
+            },
+            {
+              "icon": "rulers",
+              "title": "Genauigkeit",
+              "text": "Die Messung vor und nach dem Schnitt sorgt dafür, dass nur das nötige Material abgetragen und das Ergebnis dokumentiert wird."
+            },
+            {
+              "icon": "shield-check",
+              "title": "Sicherheit",
+              "text": "Korrekte Radprofile verringern das Entgleisungsrisiko; geschützte Maschinen schützen die Menschen, die sie bedienen."
+            },
+            {
+              "icon": "clock-history",
+              "title": "Lebenszyklus-Support",
+              "text": "Service, Ersatzteile und Modernisierungen für die Jahrzehnte, in denen eine Maschine im Einsatz bleibt."
+            }
+          ]
+        },
+        {
+          "type": "steps",
+          "eyebrow": "So gehen wir vor",
+          "heading": "Von Ihrer Anforderung zur funktionierenden Lösung",
+          "items": [
+            {
+              "title": "Definieren",
+              "text": "Wir betrachten Ihre Fahrzeuge oder Bauteile, Stückzahlen, Toleranzen und den verfügbaren Platz."
+            },
+            {
+              "title": "Empfehlen",
+              "text": "Wir schlagen eine Maschine oder eine Kombination von Maschinen vor und erläutern die Vor- und Nachteile."
+            },
+            {
+              "title": "Liefern",
+              "text": "Wir bauen, installieren und erproben die Lösung an Ihren eigenen Teilen – als Einzelmaschine oder als [schlüsselfertiges Projekt](page:turnkey-project)."
+            },
+            {
+              "title": "Betreuen",
+              "text": "Schulungen, Wartungsverträge und Original-Ersatzteile halten sie produktiv. Siehe [Service](page:services)."
+            }
+          ]
+        },
+        {
+          "type": "cards",
+          "eyebrow": "Bewährt in der Praxis",
+          "heading": "Ausgewählte Projekte",
+          "intro": "Bahn- und Metrobetreiber in Indien und im Ausland setzen HYT-Maschinen in ihrer täglichen Instandhaltung ein. Alle Details finden Sie unter [Schlüsselfertige Projekte](page:turnkey-project).",
+          "cols": 3,
+          "items": [
+            {
+              "page": "under-execution",
+              "anchor": "ncrtc-underfloor-wheel-lathes",
+              "title": "Vollautomatische CNC-Unterflur-Radsatzdrehmaschinen – NCRTC",
+              "text": "Reprofilierung von Radsätzen für Indiens erstes regionales Schnellbahnsystem.",
+              "image": "projects/metro-depot"
+            },
+            {
+              "page": "under-execution",
+              "anchor": "dmrc-tandem-underfloor-wheel-lathe",
+              "title": "CNC-Tandem-Unterflur-Radsatzdrehmaschine – Delhi Metro",
+              "text": "Zwei synchronisierte Maschinen für die schnelle Reprofilierung ganzer Drehgestelle.",
+              "image": "products/tandem-underfloor-wheel-lathe-yul-12t"
+            },
+            {
+              "page": "executed-projects",
+              "anchor": "state-railway-of-thailand",
+              "title": "CNC-Vertikal-Revolverdrehmaschine – State Railway of Thailand",
+              "text": "Geliefert und installiert für die Radbearbeitung in Bangkok.",
+              "image": "projects/railway-wheel-shop"
+            }
+          ]
+        },
+        {
+          "type": "cta",
+          "heading": "Erzählen Sie uns von Ihrer Flotte oder Ihren Bauteilen",
+          "text": "Teilen Sie uns Fahrzeuge, Radgrößen oder Bauteilzeichnungen und Ihre Produktionsziele mit. Unsere Anwendungsingenieure empfehlen Ihnen die passende Maschine.",
+          "primary": {
+            "label": "Ihre Anforderungen besprechen",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Unsere Produkte entdecken",
+            "page": "products"
+          }
+        }
+      ]
+    },
+    "ind-railways": {
+      "nav": "Eisenbahnen",
+      "title": "Radsatzdrehmaschinen und Werkstattmaschinen für Bahnen",
+      "description": "CNC-Radsatzdrehmaschinen, Radsatzwerkstatt-Maschinen und schlüsselfertige Werkstätten für Staatsbahnen – für sichere Loks, Reisezug-, Trieb- und Güterwagen.",
+      "eyebrow": "Branchen",
+      "h1": "Lösungen für Eisenbahnen",
+      "lede": "Staatsbahnen betreiben große, gemischte Flotten über lange Strecken und mit hohen Radsatzlasten. HYT-Maschinen helfen ihren Betriebswerken und Werkstätten, jeden Radsatz innerhalb der Grenzmaße zu halten, ohne Züge aufzuhalten.",
+      "summary": "Radsatzdrehmaschinen, Maschinen für die Radsatzwerkstatt und schlüsselfertige Werkstätten für Lok-, Reisezugwagen-, Triebzug- und Güterwagen-Betriebswerke.",
+      "blocks": [
+        {
+          "type": "text",
+          "id": "challenges",
+          "eyebrow": "Die Herausforderung",
+          "heading": "Große, gemischte Flotten und kaum Zeit",
+          "paragraphs": [
+            "Ein Bahnbetriebswerk wartet unter Umständen Elektro- und Diesellokomotiven, Reisezugwagen, Triebzüge und Güterwagen – jeweils mit eigenen Raddurchmessern, Profilen und Radsatzlasten. Durch Bremsvorgänge entstehen Flachstellen, durch Verschleiß Hohllauf und auf kurvenreichen Strecken dünne Spurkränze. Bleiben diese Schäden unbehoben, schädigen sie das Gleis, erhöhen den Energieverbrauch und steigern das Entgleisungsrisiko.",
+            "Radsätze zur Reprofilierung auszubauen bindet Fahrzeuge, Krane und Personal. Ältere Radsatzdrehmaschinen, oft seit Jahrzehnten im Einsatz, halten ihre Genauigkeit nur mit Mühe und sind schwer am Laufen zu halten. Werkstätten brauchen Maschinen, die Profile schnell wiederherstellen, so wenig Material wie möglich abtragen und viele Jahre zuverlässig arbeiten."
+          ],
+          "image": "industries/railways",
+          "image_alt": "Beispielillustration eines Bahnbetriebswerks mit Lokomotiven und Reisezugwagen auf parallelen Gleisen",
+          "layout": "image-right"
+        },
+        {
+          "type": "features",
+          "eyebrow": "So hilft HYT",
+          "heading": "Schneller reprofilieren, längere Radlebensdauer",
+          "cols": 3,
+          "items": [
+            {
+              "icon": "clock-history",
+              "title": "Reprofilierung im Fahrzeug",
+              "text": "Unterflur-Radsatzdrehmaschinen bearbeiten Räder ohne Ausbau der Drehgestelle – die Fahrzeuge sind innerhalb einer Schicht wieder im Einsatz."
+            },
+            {
+              "icon": "rulers",
+              "title": "Minimaler Materialabtrag",
+              "text": "Dank automatischer Messung nimmt die CNC nur den nötigen Span ab – so übersteht jedes Rad mehr Reprofilierungszyklen."
+            },
+            {
+              "icon": "train-freight-front",
+              "title": "Eine Maschine für viele Fahrzeuge",
+              "text": "Mit Adaptern und gespeicherten Profilen bedient eine Maschine Lokomotiven, Reisezugwagen, Triebzüge und Güterwagen."
+            },
+            {
+              "icon": "bullseye",
+              "title": "Komplette Radsatzwerkstätten",
+              "text": "Vertikaldrehen, Wellenbearbeitung, Pressen, Messen und Wuchten für die zyklische Revision."
+            },
+            {
+              "icon": "arrow-repeat",
+              "title": "Neues Leben für alte Maschinen",
+              "text": "Retrofit älterer Radsatzdrehmaschinen mit neuen CNC-Steuerungen, Antrieben und Messtechnik."
+            },
+            {
+              "icon": "geo-alt",
+              "title": "Gebaut in Indien",
+              "text": "Konstruiert und gefertigt in Pune – mit Ersatzteilversorgung und Service aus Indien."
+            }
+          ]
+        },
+        {
+          "type": "cards",
+          "eyebrow": "Passende Produkte",
+          "heading": "Maschinen für Bahnbetriebswerke und Werkstätten",
+          "cols": 4,
+          "items": [
+            {
+              "page": "underfloor-wheel-lathe",
+              "image": "products/underfloor-wheel-lathe-yul-08"
+            },
+            {
+              "page": "tandem-underfloor-wheel-lathe",
+              "image": "products/tandem-underfloor-wheel-lathe-yul-12t"
+            },
+            {
+              "page": "surface-wheel-lathe",
+              "image": "products/surface-wheel-lathe"
+            },
+            {
+              "page": "portal-wheel-lathe",
+              "image": "products/portal-wheel-lathe"
+            },
+            {
+              "page": "vertical-turning-boring-machine",
+              "image": "products/vertical-turning-boring-machine"
+            },
+            {
+              "page": "axle-journal-turning-burnishing-lathe",
+              "image": "products/axle-journal-turning-burnishing-lathe"
+            },
+            {
+              "page": "wheel-presses",
+              "image": "products/wheel-press"
+            },
+            {
+              "page": "rail-cum-road-vehicle-shunter",
+              "image": "products/rail-cum-road-vehicle-shunter"
+            }
+          ]
+        },
+        {
+          "type": "cards",
+          "eyebrow": "Passende Serviceleistungen",
+          "heading": "Support über das gesamte Maschinenleben",
+          "cols": 4,
+          "items": [
+            {
+              "page": "installation-commissioning",
+              "icon": "tools"
+            },
+            {
+              "page": "annual-maintenance-contract",
+              "icon": "clipboard-check"
+            },
+            {
+              "page": "retro-fitment-upgradation",
+              "icon": "arrow-repeat"
+            },
+            {
+              "page": "training",
+              "icon": "mortarboard"
+            }
+          ]
+        },
+        {
+          "type": "cards",
+          "eyebrow": "Projekte",
+          "heading": "HYT-Maschinen im Bahneinsatz",
+          "cols": 3,
+          "items": [
+            {
+              "page": "executed-projects",
+              "anchor": "indian-railways-underfloor-wheel-lathes",
+              "title": "CNC-Unterflur-Radsatzdrehmaschinen – Indian Railways",
+              "text": "Auftrag über neun CNC-Unterflur-Radsatzdrehmaschinen.",
+              "image": "products/underfloor-wheel-lathe-yul-08"
+            },
+            {
+              "page": "executed-projects",
+              "anchor": "sanpada-emu-car-shed",
+              "title": "CNC-Vertikaldrehmaschine – Triebzug-Betriebswerk Sanpada, Mumbai",
+              "text": "Kapazität für die Radbearbeitung einer stark ausgelasteten Vorortflotte von Triebzügen.",
+              "image": "projects/emu-car-shed"
+            },
+            {
+              "page": "executed-projects",
+              "anchor": "state-railway-of-thailand",
+              "title": "CNC-Vertikal-Revolverdrehmaschine – State Railway of Thailand",
+              "text": "Geliefert und installiert für die Radbearbeitung in Bangkok.",
+              "image": "projects/railway-wheel-shop"
+            }
+          ]
+        },
+        {
+          "type": "faq",
+          "heading": "Häufig gestellte Fragen",
+          "items": [
+            {
+              "q": "Sollte ein Bahnbetriebswerk eine Unterflur- oder eine Überflur-Radsatzdrehmaschine wählen?",
+              "a": "Eine [Unterflur-Radsatzdrehmaschine](page:underfloor-wheel-lathe) reprofiliert Räder ohne Ausbau des Radsatzes und ist die richtige Wahl, wenn Fahrzeuge schnell wieder in Betrieb gehen müssen. Eine [Überflur-Radsatzdrehmaschine](page:surface-wheel-lathe) eignet sich für Betriebswerke, die eine flexible Maschine ohne tiefe Grube benötigen. Wir beraten Sie gern zur besten Lösung für Ihre Flotte und Ihren Standort."
+            },
+            {
+              "q": "Kann eine Maschine Lokomotiven, Reisezugwagen und Güterwagen bearbeiten?",
+              "a": "Ja. Mit geeigneten Adaptern und gespeicherten Radprofilen kann eine Maschine eine gemischte Flotte bedienen. Radsatzlast, Raddurchmesserbereich und Drehgestellbauart werden in der technischen Studie geklärt."
+            },
+            {
+              "q": "Können Sie unsere vorhandenen Radsatzdrehmaschinen modernisieren?",
+              "a": "Häufig ja. Ein [Retrofit](page:retro-fitment-upgradation) mit neuer CNC-Steuerung, neuen Antrieben und neuer Messtechnik kann Genauigkeit und Zuverlässigkeit zu geringeren Kosten als eine Neumaschine wiederherstellen."
+            },
+            {
+              "q": "Unterstützen Sie Breit-, Normal- und Meterspur?",
+              "a": "Unsere Radsatzdrehmaschinen werden für die Spurweite und die Radprofile des Kunden konfiguriert. Spurweitenabhängige Werte werden im technischen Angebot bestätigt."
+            }
+          ]
+        },
+        {
+          "type": "cta",
+          "heading": "Planen Sie eine neue Radsatzdrehmaschine für Ihr Betriebswerk?",
+          "text": "Erzählen Sie uns von Ihrer Flotte, Ihren Radprofilen und Ihrer Werkstatt. Unsere Anwendungsingenieure empfehlen eine Konfiguration und erstellen ein Angebot.",
+          "primary": {
+            "label": "Ihre Anforderungen besprechen",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Unsere Produkte entdecken",
+            "page": "products"
+          }
+        }
+      ]
+    },
+    "ind-metros": {
+      "nav": "Metros",
+      "title": "Radsatzdrehmaschinen und Ausrüstung für Metro-Betriebshöfe",
+      "description": "Unterflur- und Tandem-Radsatzdrehmaschinen, Betriebshofausrüstung und Wartungsverträge, mit denen Metro- und Schnellbahnbetreiber ihre Flotten verfügbar halten.",
+      "eyebrow": "Branchen",
+      "h1": "Lösungen für Metro und Schnellbahn",
+      "lede": "Metrozüge fahren den ganzen Tag und werden nachts instand gehalten. HYT-Radsatzdrehmaschinen und Betriebshofausrüstung passen in diese kurzen Zeitfenster – damit die gesamte Flotte zur morgendlichen Hauptverkehrszeit bereitsteht.",
+      "summary": "Unterflur- und Tandem-Radsatzdrehmaschinen sowie Betriebshofausrüstung für Metro- und Schnellbahnbetreiber.",
+      "blocks": [
+        {
+          "type": "text",
+          "id": "challenges",
+          "eyebrow": "Die Herausforderung",
+          "heading": "Dichter Takt, kurze Zeitfenster, keine Reservezüge",
+          "paragraphs": [
+            "Metro- und Schnellbahnflotten sind knapp auf den Fahrplan ausgelegt. Häufiges Beschleunigen und Bremsen, enge Kurven und hohe Tageslaufleistungen lassen Räder schnell verschleißen – und Fahrkomfort sowie Geräusche nehmen Fahrgäste und Anwohner sofort wahr.",
+            "Die Instandhaltung findet meist nachts in einem Betriebshof statt, in dem der Platz begrenzt und jede Grube Jahre im Voraus verplant ist. Eine Radsatzdrehmaschine muss innerhalb dieses Zeitfensters einen ganzen Zug reprofilieren, über die gesamte Flotte reproduzierbare Ergebnisse liefern und in der nächsten Nacht wieder bereitstehen. Fällt sie aus, stauen sich die Züge und die Verfügbarkeitsziele geraten in Gefahr."
+          ],
+          "image": "industries/metros",
+          "image_alt": "Beispielillustration von Metrozügen, die nachts in einem Betriebshof abgestellt sind",
+          "layout": "image-right"
+        },
+        {
+          "type": "features",
+          "eyebrow": "So hilft HYT",
+          "heading": "Radinstandhaltung, die in die Nachtschicht passt",
+          "cols": 3,
+          "items": [
+            {
+              "icon": "arrows-angle-expand",
+              "title": "Tandemmaschinen",
+              "text": "Zwei synchronisierte Unterflur-Radsatzdrehmaschinen bearbeiten beide Radsätze eines Drehgestells in einer Aufspannung und verkürzen so die Zeit pro Zug."
+            },
+            {
+              "icon": "cpu",
+              "title": "Automatische Zyklen",
+              "text": "Messen, berechnen und drehen mit minimalem Bedienereingriff – für gleichbleibende Ergebnisse über die gesamte Flotte."
+            },
+            {
+              "icon": "file-earmark-text",
+              "title": "Flottendaten",
+              "text": "Bearbeitungsprotokolle für jeden Radsatz unterstützen zustandsorientierte Instandhaltung und Audits."
+            },
+            {
+              "icon": "volume-down",
+              "title": "Laufqualität",
+              "text": "Genaue Profile und abgestimmte Durchmesser helfen, Geräusche und Vibrationen gering zu halten."
+            },
+            {
+              "icon": "building-gear",
+              "title": "Komplette Betriebshöfe",
+              "text": "Radsatzdrehmaschinen, Zugwaschanlagen, Rangiertechnik und Ausrüstung für die Ankerbearbeitung von einem Partner."
+            },
+            {
+              "icon": "headset",
+              "title": "Planbarer Service",
+              "text": "Wartungs- und Betriebsverträge mit festgelegten Reaktionszeiten und vorrätigen Ersatzteilen."
+            }
+          ]
+        },
+        {
+          "type": "cards",
+          "eyebrow": "Passende Produkte",
+          "heading": "Maschinen für Metro-Betriebshöfe",
+          "cols": 4,
+          "items": [
+            {
+              "page": "tandem-underfloor-wheel-lathe",
+              "image": "products/tandem-underfloor-wheel-lathe-yul-12t"
+            },
+            {
+              "page": "tandem-underfloor-wheel-lathe-yuglx",
+              "image": "products/tandem-underfloor-wheel-lathe-yuglx"
+            },
+            {
+              "page": "underfloor-wheel-lathe-yugl",
+              "image": "products/underfloor-wheel-lathe-yugl"
+            },
+            {
+              "page": "underfloor-wheel-lathe",
+              "image": "products/underfloor-wheel-lathe-yul-08"
+            },
+            {
+              "page": "wheel-measuring-station",
+              "image": "products/wheel-measuring-station"
+            },
+            {
+              "page": "automated-train-washing-plant",
+              "image": "products/automated-train-washing-plant"
+            },
+            {
+              "page": "rail-cum-road-vehicle-shunter",
+              "image": "products/rail-cum-road-vehicle-shunter"
+            },
+            {
+              "page": "multi-purpose-armature-machine",
+              "image": "products/multi-purpose-armature-machine"
+            }
+          ]
+        },
+        {
+          "type": "cards",
+          "eyebrow": "Passende Serviceleistungen",
+          "heading": "Betriebshofmaschinen verfügbar halten",
+          "cols": 4,
+          "items": [
+            {
+              "page": "operation-and-maintenance",
+              "icon": "gear-wide-connected"
+            },
+            {
+              "page": "comprehensive-annual-maintenance-contract",
+              "icon": "clipboard-check"
+            },
+            {
+              "page": "spare-supply",
+              "icon": "box-seam"
+            },
+            {
+              "page": "training",
+              "icon": "mortarboard"
+            }
+          ]
+        },
+        {
+          "type": "cards",
+          "eyebrow": "Projekte",
+          "heading": "HYT-Maschinen für Metro und Schnellbahn",
+          "cols": 2,
+          "items": [
+            {
+              "page": "under-execution",
+              "anchor": "dmrc-tandem-underfloor-wheel-lathe",
+              "title": "CNC-Tandem-Unterflur-Radsatzdrehmaschine – Delhi Metro Rail Corporation",
+              "text": "Zwei synchronisierte Maschinen für die schnelle Reprofilierung von Metro-Drehgestellen.",
+              "image": "products/tandem-underfloor-wheel-lathe-yul-12t"
+            },
+            {
+              "page": "under-execution",
+              "anchor": "ncrtc-underfloor-wheel-lathes",
+              "title": "Vollautomatische CNC-Unterflur-Radsatzdrehmaschinen – NCRTC",
+              "text": "Für Indiens erstes regionales Schnellbahnsystem.",
+              "image": "projects/metro-depot"
+            }
+          ]
+        },
+        {
+          "type": "faq",
+          "heading": "Häufig gestellte Fragen",
+          "items": [
+            {
+              "q": "Wann braucht ein Metro-Betriebshof eine Tandem-Radsatzdrehmaschine?",
+              "a": "Wenn die Flotte groß und die Instandhaltungsfenster kurz sind. Eine [Tandem-Radsatzdrehmaschine](page:tandem-underfloor-wheel-lathe) bearbeitet zwei Radsätze eines Drehgestells gleichzeitig; die YUL-12T von HYT verkürzt die Reprofilierungszeit gegenüber einer Einzelmaschine."
+            },
+            {
+              "q": "Kann die Maschine neben Rädern auch Bremsscheiben bearbeiten?",
+              "a": "Die Bremsscheibenbearbeitung ist bei geeigneten Konfigurationen möglich. Wir klären dies in der technischen Studie Ihrer Fahrzeuge."
+            },
+            {
+              "q": "Wie wird die Maschine in einen neuen Betriebshof eingebunden?",
+              "a": "Wir liefern frühzeitig Gruben-, Fundament- und Schnittstellenzeichnungen, stimmen uns mit dem Planer des Betriebshofs und dem Bauunternehmen ab und nehmen die Maschine an Ihren eigenen Zügen in Betrieb."
+            },
+            {
+              "q": "Kann HYT die Maschine für uns betreiben?",
+              "a": "Ja. Im Rahmen eines [Betriebs- und Instandhaltungsvertrags](page:operation-and-maintenance) bedient und wartet unser Personal die Maschine, sodass Sie sich auf den Zugbetrieb konzentrieren können."
+            }
+          ]
+        },
+        {
+          "type": "cta",
+          "heading": "Sie statten einen neuen Metro-Betriebshof aus oder modernisieren einen bestehenden?",
+          "text": "Teilen Sie uns Flottengröße, Instandhaltungsplan und Betriebshoflayout mit. Wir empfehlen Ihnen die Radsatzdrehmaschine und Betriebshofausrüstung, die zu Ihrem Zeitplan passen.",
+          "primary": {
+            "label": "Ihre Anforderungen besprechen",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Unsere Produkte entdecken",
+            "page": "products"
+          }
+        }
+      ]
+    },
+    "ind-rolling-stock": {
+      "nav": "Schienenfahrzeughersteller",
+      "title": "Maschinen für die Radsatzfertigung von Fahrzeugherstellern",
+      "description": "Vertikaldrehmaschinen, Radsatzwellenbearbeitung, Radsatzpressen, Mess- und Wuchtmaschinen sowie Automatisierung für Schienenfahrzeug- und Radsatzhersteller.",
+      "eyebrow": "Branchen",
+      "h1": "Lösungen für Schienenfahrzeughersteller",
+      "lede": "Neue Fahrzeuge beginnen mit neuen Radsätzen. HYT liefert die Maschinen, mit denen sie gedreht, gebohrt, gefügt, gemessen und gewuchtet werden – einzeln oder als komplette, rückverfolgbare Radsatzwerkstatt.",
+      "summary": "Maschinen für die Radsatzwerkstatt und automatisierte Radsatzfertigung für Schienenfahrzeug- und Radsatzhersteller.",
+      "blocks": [
+        {
+          "type": "text",
+          "id": "challenges",
+          "eyebrow": "Die Herausforderung",
+          "heading": "Enge Toleranzen bei Serienstückzahlen",
+          "paragraphs": [
+            "Ein Schienenfahrzeughersteller muss Radsätze liefern, die die Kundenspezifikation auf Anhieb erfüllen – in dem Takt, den die Montagelinie vorgibt. Bohrungen müssen zum Pressverband passen, Achsschenkel müssen für zuverlässige Lagersitze bearbeitet sein, und jeder Radsatz muss gemessen, gewuchtet und dokumentiert werden, bevor er ins Drehgestell kommt.",
+            "Fertigungsprogramme ändern sich: ein neuer Metro-Auftrag, eine andere Spurweite, ein Hochlauf für einen Exportauftrag. Die Maschinen in der Radsatzwerkstatt müssen sich ohne lange Umrüstzeiten anpassen, und die erzeugten Daten müssen der Abnahme durch den Kunden und späteren Gewährleistungsfragen standhalten."
+          ],
+          "image": "industries/rolling-stock-manufacturers",
+          "image_alt": "Beispielillustration einer Montagehalle für Schienenfahrzeuge mit Drehgestellen und Radsätzen",
+          "layout": "image-right"
+        },
+        {
+          "type": "features",
+          "eyebrow": "So hilft HYT",
+          "heading": "Ein durchgängiger Prozess vom Rohteil bis zum abgenommenen Radsatz",
+          "cols": 3,
+          "items": [
+            {
+              "icon": "bullseye",
+              "title": "Raddrehen und -bohren",
+              "text": "CNC-Vertikaldreh- und Bohrmaschinen bearbeiten Räder und Bohrungen mit engen Toleranzen."
+            },
+            {
+              "icon": "nut",
+              "title": "Radsatzwellenbearbeitung",
+              "text": "Drehen der Radsatzwelle und Glattwalzen der Achsschenkel für genaue, dauerhafte Lager- und Radsitze."
+            },
+            {
+              "icon": "arrows-angle-expand",
+              "title": "Pressen mit Protokollierung",
+              "text": "Radsatzpressen zum Auf- und Abpressen von Rädern auf bzw. von Radsatzwellen."
+            },
+            {
+              "icon": "rulers",
+              "title": "Messung",
+              "text": "Radsatzmessstände bestätigen die Geometrie vor dem Versand."
+            },
+            {
+              "icon": "speedometer2",
+              "title": "Wuchten",
+              "text": "Dynamisches Auswuchten für ruhigen Lauf bei höheren Geschwindigkeiten."
+            },
+            {
+              "icon": "diagram-3",
+              "title": "Automatisierung und Materialfluss",
+              "text": "Verkettete Maschinen, Handhabung und Daten in einer [automatisierten Radsatzwerkstatt](page:wheel-shop-automation)."
+            }
+          ]
+        },
+        {
+          "type": "cards",
+          "eyebrow": "Passende Produkte",
+          "heading": "Maschinen für die Radsatzfertigung",
+          "cols": 3,
+          "items": [
+            {
+              "page": "vertical-turning-boring-machine",
+              "image": "products/vertical-turning-boring-machine"
+            },
+            {
+              "page": "axle-turning-lathe",
+              "image": "products/axle-turning-lathe"
+            },
+            {
+              "page": "axle-journal-turning-burnishing-lathe",
+              "image": "products/axle-journal-turning-burnishing-lathe"
+            },
+            {
+              "page": "wheel-presses",
+              "image": "products/wheel-press"
+            },
+            {
+              "page": "wheel-measuring-station",
+              "image": "products/wheel-measuring-station"
+            },
+            {
+              "page": "dynamic-wheel-balancing-machine",
+              "image": "products/dynamic-wheel-balancing-machine"
+            }
+          ]
+        },
+        {
+          "type": "cards",
+          "eyebrow": "Passende Serviceleistungen",
+          "heading": "Vom Linienlayout bis zum lebenslangen Support",
+          "cols": 4,
+          "items": [
+            {
+              "page": "wheel-shop-automation",
+              "icon": "diagram-3"
+            },
+            {
+              "page": "installation-commissioning",
+              "icon": "tools"
+            },
+            {
+              "page": "service-contract",
+              "icon": "clipboard-check"
+            },
+            {
+              "page": "training",
+              "icon": "mortarboard"
+            }
+          ]
+        },
+        {
+          "type": "cards",
+          "eyebrow": "Projekte",
+          "heading": "Unsere Drehmaschinen in Radsatzwerkstätten der Bahn",
+          "intro": "Vertikaldrehmaschinen von HYT bearbeiten bereits Räder für Bahnbetreiber.",
+          "cols": 2,
+          "items": [
+            {
+              "page": "executed-projects",
+              "anchor": "state-railway-of-thailand",
+              "title": "CNC-Vertikal-Revolverdrehmaschine – State Railway of Thailand",
+              "text": "Geliefert und installiert für die Radbearbeitung in Bangkok.",
+              "image": "projects/railway-wheel-shop"
+            },
+            {
+              "page": "executed-projects",
+              "anchor": "sanpada-emu-car-shed",
+              "title": "CNC-Vertikaldrehmaschine – Triebzug-Betriebswerk Sanpada, Mumbai",
+              "text": "Kapazität für die Radbearbeitung einer Vorortflotte von Triebzügen.",
+              "image": "projects/emu-car-shed"
+            }
+          ]
+        },
+        {
+          "type": "faq",
+          "heading": "Häufig gestellte Fragen",
+          "items": [
+            {
+              "q": "Kann HYT statt einzelner Maschinen eine komplette Radsatzwerkstatt liefern?",
+              "a": "Ja. Wir planen den Prozessablauf, wählen und verketten die Maschinen, ergänzen Handhabungs- und Datensysteme und nehmen die Linie in Betrieb. Siehe [Automatisierung der Radsatzwerkstatt](page:wheel-shop-automation) und [Schlüsselfertige Projekte](page:turnkey-project)."
+            },
+            {
+              "q": "Können die Maschinen unterschiedliche Radgrößen und Spurweiten bearbeiten?",
+              "a": "Unsere Maschinen werden für das Spektrum an Rädern und Radsatzwellen konfiguriert, das Sie fertigen. Die Größenbereiche werden im technischen Angebot für Ihr Programm bestätigt."
+            },
+            {
+              "q": "Werden die Fertigungsdaten aufgezeichnet?",
+              "a": "Die Datenaufzeichnung für Messstände und Radsatzpressen wird im technischen Angebot gemeinsam mit Ihnen festgelegt – zur Unterstützung von Rückverfolgbarkeit und Kundenabnahme."
+            }
+          ]
+        },
+        {
+          "type": "cta",
+          "heading": "Sie bauen eine Radsatzfertigung auf oder erweitern sie?",
+          "text": "Senden Sie uns Ihre Bauteilzeichnungen, Stückzahlen und die verfügbare Hallenfläche. Wir schlagen Ihnen Maschinen oder eine komplette Linie passend zu Ihrem Programm vor.",
+          "primary": {
+            "label": "Ihre Anforderungen besprechen",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Automatisierung der Radsatzwerkstatt",
+            "page": "wheel-shop-automation"
+          }
+        }
+      ]
+    },
+    "ind-defence": {
+      "nav": "Verteidigung",
+      "title": "Bahnwerkstatt- und Schwerdrehmaschinen für die Verteidigung",
+      "description": "Radsatzdrehmaschinen, Radsatzmaschinen und Schwer-Vertikaldrehen für militärische Bahnlogistik und Werkstätten – von HYT in Indien gebaut und betreut.",
+      "eyebrow": "Branchen",
+      "h1": "Lösungen für die Verteidigung",
+      "lede": "Die Verteidigungslogistik ist auf Schienenfahrzeuge und schweres Gerät angewiesen, die im Ernstfall einsatzbereit sein müssen. HYT-Maschinen helfen, Radsätze und große rotierende Bauteile einsatzfähig zu halten.",
+      "summary": "Radsatzbearbeitung und Schwerdrehen für militärische Bahnlogistik und Werkstätten der Streitkräfte.",
+      "blocks": [
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "Zur Prüfung durch HYT: Es sind keine Kunden oder spezifischen Produkte aus dem Verteidigungsbereich verifiziert. Diese Seite beschreibt ausschließlich Fähigkeiten. Bitte bestätigen Sie, ob HYT diese Branche darstellen möchte, welche Maschinen gezeigt werden sollen und ob Kunden oder Projekte genannt werden dürfen."
+        },
+        {
+          "type": "text",
+          "id": "challenges",
+          "eyebrow": "Die Herausforderung",
+          "heading": "Einsatzbereitschaft, Eigenständigkeit und lange Nutzungsdauer",
+          "paragraphs": [
+            "Streitkräfte transportieren schweres Gerät per Bahn und warten ihre eigenen Güterwagen, Reisezugwagen und Lokomotiven in eigenen Werkstätten. Diese Flotten fahren unter Umständen seltener als der kommerzielle Verkehr, müssen aber kurzfristig einsatzbereit sein – und ihre Radsätze müssen dieselben Sicherheitsgrenzwerte einhalten wie alle anderen.",
+            "Militärische Werkstätten instandsetzen zudem große rotierende Bauteile wie Ringe, Naben und schwere Räder. Sie legen Wert auf Ausrüstung, die robust und einfach zu warten ist, über Jahrzehnte vor Ort betreut wird und mit vollständiger Dokumentation geliefert wird. Die Vertraulichkeit von Zeichnungen und Standortinformationen ist unerlässlich."
+          ],
+          "image": "industries/defence",
+          "image_alt": "Beispielillustration einer bahnangebundenen militärischen Logistikwerkstatt mit schweren Güterwagen",
+          "layout": "image-right"
+        },
+        {
+          "type": "features",
+          "eyebrow": "So hilft HYT",
+          "heading": "Fähigkeiten für Werkstätten der Streitkräfte",
+          "cols": 3,
+          "items": [
+            {
+              "icon": "train-freight-front",
+              "title": "Reprofilierung von Radsätzen",
+              "text": "Unterflur- und Überflur-Radsatzdrehmaschinen stellen die Radprofile von Güterwagen, Reisezugwagen und Lokomotiven der militärischen Bahnlogistik wieder her."
+            },
+            {
+              "icon": "bullseye",
+              "title": "Schweres Vertikaldrehen",
+              "text": "CNC-Vertikaldreh- und Bohrmaschinen für rotierende Bauteile und Räder mit großem Durchmesser."
+            },
+            {
+              "icon": "truck",
+              "title": "Mobilität im Betriebswerk",
+              "text": "Zweiwege-Rangierfahrzeuge bewegen Güter- und Reisezugwagen auf Abstellgleisen und in Werkstätten."
+            },
+            {
+              "icon": "geo-alt",
+              "title": "Konstruiert und gebaut in Indien",
+              "text": "Engineering und Fertigung in Pune – mit Ersatzteilversorgung und Service aus Indien."
+            },
+            {
+              "icon": "shield-lock",
+              "title": "Vertrauliche Behandlung",
+              "text": "Zeichnungen, Standortdaten und Projektinformationen werden gemäß den vertraglichen Anforderungen behandelt."
+            },
+            {
+              "icon": "file-earmark-text",
+              "title": "Vollständige Dokumentation",
+              "text": "Handbücher, Zeichnungen, Prüfprotokolle und Ersatzteillisten werden mit jeder Maschine geliefert."
+            }
+          ]
+        },
+        {
+          "type": "cards",
+          "eyebrow": "Passende Produkte",
+          "heading": "Maschinen für Anwendungen im Verteidigungsbereich",
+          "cols": 4,
+          "items": [
+            {
+              "page": "surface-wheel-lathe",
+              "image": "products/surface-wheel-lathe"
+            },
+            {
+              "page": "underfloor-wheel-lathe",
+              "image": "products/underfloor-wheel-lathe-yul-08"
+            },
+            {
+              "page": "vertical-turning-boring-machine",
+              "image": "products/vertical-turning-boring-machine"
+            },
+            {
+              "page": "rail-cum-road-vehicle-shunter",
+              "image": "products/rail-cum-road-vehicle-shunter"
+            }
+          ]
+        },
+        {
+          "type": "cards",
+          "eyebrow": "Passende Serviceleistungen",
+          "heading": "Langfristiger Support",
+          "cols": 3,
+          "items": [
+            {
+              "page": "comprehensive-annual-maintenance-contract",
+              "icon": "clipboard-check"
+            },
+            {
+              "page": "spare-supply",
+              "icon": "box-seam"
+            },
+            {
+              "page": "training",
+              "icon": "mortarboard"
+            }
+          ]
+        },
+        {
+          "type": "faq",
+          "heading": "Häufig gestellte Fragen",
+          "items": [
+            {
+              "q": "Können HYT-Maschinen schwere militärische Güterwagen bearbeiten?",
+              "a": "Unsere Radsatzdrehmaschinen werden für die vom Kunden vorgegebenen Raddurchmesser, Spurweiten und Radsatzlasten konfiguriert. Anforderungen für Schwerlastwagen werden in der technischen Studie geprüft."
+            },
+            {
+              "q": "Kann HYT unter Vertraulichkeits- und Sicherheitsauflagen arbeiten?",
+              "a": "Ja. Wir behandeln Zeichnungen, Standortinformationen und Projektdaten gemäß den Vertraulichkeitsbestimmungen des Vertrags und den Regeln des Standorts."
+            },
+            {
+              "q": "Sind Schulungen und langfristiger Support verfügbar?",
+              "a": "Ja. Wir schulen Bedien- und Instandhaltungspersonal vor Ort und bieten [Wartungsverträge](page:maintenance) sowie [Ersatzteilversorgung](page:spare-supply) für die gesamte Nutzungsdauer der Maschine."
+            }
+          ]
+        },
+        {
+          "type": "cta",
+          "heading": "Besprechen Sie Ihre Anforderungen an eine militärische Werkstatt",
+          "text": "Erzählen Sie uns, welche Fahrzeuge oder Bauteile Sie instand halten müssen. Unsere Ingenieure ermitteln die passende Maschine für Ihre Werkstatt.",
+          "primary": {
+            "label": "Ihre Anforderungen besprechen",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Unsere Produkte entdecken",
+            "page": "products"
+          }
+        }
+      ]
+    },
+    "ind-heavy-engineering": {
+      "nav": "Schwermaschinenbau",
+      "title": "Schwerdreh- und Radsatzmaschinen für die Industrie",
+      "description": "CNC-Vertikaldrehmaschinen und Radsatzdrehmaschinen für Schwermaschinenbau und Werksbahnen in Stahlwerken, Häfen, Bergwerken und Kraftwerken.",
+      "eyebrow": "Branchen",
+      "h1": "Lösungen für den Schwermaschinenbau",
+      "lede": "Große rotierende Bauteile und industrielle Werksbahnen erfordern dieselbe Genauigkeit wie eine Hauptbahn. HYT überträgt seine Kompetenz in der Radbearbeitung auf Betriebe des Schwermaschinenbaus.",
+      "summary": "Vertikaldrehen und Radbearbeitung für schwere Bauteile und industrielle Werksbahnflotten.",
+      "blocks": [
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "Zur Prüfung durch HYT: Es sind keine Kunden oder branchenspezifischen Produkte aus dem Schwermaschinenbau verifiziert. Diese Seite beschreibt ausschließlich Fähigkeiten. Bitte bestätigen Sie, welche Maschinen und Anwendungen HYT darstellen möchte und ob Kunden oder Projekte genannt werden dürfen."
+        },
+        {
+          "type": "text",
+          "id": "challenges",
+          "eyebrow": "Die Herausforderung",
+          "heading": "Große Teile, hohe Lasten, teure Stillstände",
+          "paragraphs": [
+            "Betriebe des Schwermaschinenbaus bearbeiten große rotierende Teile – Ringe, Flansche, Naben, Zahnradrohlinge und Räder –, bei denen Größe und Gewicht jedes Einrichten langwierig und jeden Fehler teuer machen. Die Maschinen müssen steif genug sein, um harte Werkstoffe genau zu zerspanen, und einfach genug, damit die Werkstatt sie effizient betreiben kann.",
+            "Viele Industriestandorte wie Stahlwerke, Häfen, Bergwerke und Kraftwerke betreiben zudem eigene Werksbahnen. Ihre Güterwagen und Lokomotiven befördern schwere Lasten auf kurzen, anspruchsvollen Strecken, und ihre Räder verschleißen schnell. Radsätze zur Reprofilierung nach außen zu geben, kann die Produktionslogistik tagelang lahmlegen."
+          ],
+          "image": "industries/heavy-engineering",
+          "image_alt": "Beispielillustration einer Werkstatt des Schwermaschinenbaus mit großen Drehteilen",
+          "layout": "image-right"
+        },
+        {
+          "type": "features",
+          "eyebrow": "So hilft HYT",
+          "heading": "Zerspanung in Bahnqualität für die Industrie",
+          "cols": 3,
+          "items": [
+            {
+              "icon": "bullseye",
+              "title": "Vertikaldrehen und -bohren",
+              "text": "CNC-Vertikaldrehmaschinen für Bauteile mit großem Durchmesser – mit steifen Strukturen für hohe Zerspanleistung."
+            },
+            {
+              "icon": "train-freight-front",
+              "title": "Reprofilierung vor Ort",
+              "text": "Mit Überflur- und Portal-Radsatzdrehmaschinen reprofilieren Werksbahnen ihre Räder in der eigenen Werkstatt."
+            },
+            {
+              "icon": "arrows-angle-expand",
+              "title": "Radsatzpressen",
+              "text": "Pressen zum Auf- und Abpressen von Rädern, Zahnrädern und ähnlichen Bauteilen mit Pressverband."
+            },
+            {
+              "icon": "speedometer2",
+              "title": "Wuchten",
+              "text": "Dynamisches Auswuchten von Rädern und rotierenden Baugruppen, um Vibrationen und Verschleiß zu verringern."
+            },
+            {
+              "icon": "lightning-charge",
+              "title": "Ankerbearbeitung",
+              "text": "Ankermaschinen für die Instandhaltung von Fahrmotoren und großen Elektromotoren."
+            },
+            {
+              "icon": "headset",
+              "title": "Service und Ersatzteile",
+              "text": "Wartungsverträge und Original-Ersatzteile zur Sicherung der Produktionsverfügbarkeit."
+            }
+          ]
+        },
+        {
+          "type": "cards",
+          "eyebrow": "Passende Produkte",
+          "heading": "Maschinen für den Schwermaschinenbau",
+          "cols": 3,
+          "items": [
+            {
+              "page": "vertical-turning-boring-machine",
+              "image": "products/vertical-turning-boring-machine"
+            },
+            {
+              "page": "surface-wheel-lathe",
+              "image": "products/surface-wheel-lathe"
+            },
+            {
+              "page": "portal-wheel-lathe",
+              "image": "products/portal-wheel-lathe"
+            },
+            {
+              "page": "wheel-presses",
+              "image": "products/wheel-press"
+            },
+            {
+              "page": "dynamic-wheel-balancing-machine",
+              "image": "products/dynamic-wheel-balancing-machine"
+            },
+            {
+              "page": "multi-purpose-armature-machine",
+              "image": "products/multi-purpose-armature-machine"
+            }
+          ]
+        },
+        {
+          "type": "cards",
+          "eyebrow": "Passende Serviceleistungen",
+          "heading": "Support, der die Produktion schützt",
+          "cols": 4,
+          "items": [
+            {
+              "page": "installation-commissioning",
+              "icon": "tools"
+            },
+            {
+              "page": "annual-maintenance-contract",
+              "icon": "clipboard-check"
+            },
+            {
+              "page": "repair",
+              "icon": "wrench-adjustable"
+            },
+            {
+              "page": "shifting",
+              "icon": "truck"
+            }
+          ]
+        },
+        {
+          "type": "faq",
+          "heading": "Häufig gestellte Fragen",
+          "items": [
+            {
+              "q": "Können HYT-Vertikaldrehmaschinen auch Bauteile außerhalb der Bahntechnik bearbeiten?",
+              "a": "Unsere [Vertikaldreh- und Bohrmaschinen](page:vertical-turning-boring-machine) sind für schwere rotierende Teile ausgelegt. Senden Sie uns Ihre Bauteilzeichnungen – wir bestätigen Eignung und Kapazität."
+            },
+            {
+              "q": "Wir betreiben eine eigene Werksbahn. Brauchen wir eine komplette Radsatzwerkstatt?",
+              "a": "Nicht unbedingt. Eine [Überflur-Radsatzdrehmaschine](page:surface-wheel-lathe) oder eine [Portal-Radsatzdrehmaschine](page:portal-wheel-lathe) verschafft einer Werksbahn eigene Reprofilierungskapazität – ohne die Investition in eine komplette Radsatzwerkstatt."
+            },
+            {
+              "q": "Können Sie eine vorhandene Maschine in ein neues Werk umsetzen?",
+              "a": "Ja. Unser Service für [Maschinenverlagerungen](page:shifting) umfasst Demontage, Transport, Wiederaufbau und erneute Inbetriebnahme."
+            }
+          ]
+        },
+        {
+          "type": "cta",
+          "heading": "Sie haben eine Aufgabe in der Schwerzerspanung?",
+          "text": "Senden Sie uns Ihre Bauteilzeichnungen oder Angaben zu Ihrer Werksbahnflotte. Unsere Ingenieure empfehlen Ihnen eine geeignete Maschine.",
+          "primary": {
+            "label": "Ihre Anforderungen besprechen",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Unsere Produkte entdecken",
+            "page": "products"
+          }
+        }
+      ]
+    }
+  }
+}

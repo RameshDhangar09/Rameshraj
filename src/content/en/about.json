@@ -1,0 +1,862 @@
+{
+  "pages": {
+    "about": {
+      "nav": "About Us",
+      "title": "About HYT Engineering – Railway Machine Tools",
+      "description": "Since 1977 HYT Engineering has designed, built and supported CNC wheel lathes and railway workshop machines from Pune, India. Our story, values and way of work.",
+      "eyebrow": "About HYT",
+      "h1": "About HYT Engineering",
+      "lede": "We design, build, install and support the machines that keep railway wheelsets in shape – one discipline, followed from Pune since 1977.",
+      "summary": "Our story, our way of working and the values behind every HYT machine.",
+      "blocks": [
+        {
+          "type": "stats",
+          "items": [
+            {"value": "1977", "label": "Building machine tools since"},
+            {"value": "1,100+", "label": "Machines delivered (company figure)"},
+            {"value": "3", "label": "ISO-certified management systems: 9001, 14001 and 45001"},
+            {"value": "Pune", "label": "Headquarters and works, Maharashtra, India"}
+          ]
+        },
+        {
+          "type": "text",
+          "eyebrow": "Our story",
+          "heading": "From workshop lathes to railway wheel technology",
+          "paragraphs": [
+            "HYT began in 1977 as HYT Engineering Corporation, building small drilling machines and lathes for local industry. In 1989 the business was incorporated as HYT Engineering Company Pvt. Ltd. and set itself a more demanding goal: machining the components on which railway safety depends.",
+            "That goal led us to the railway wheelset. A worn wheel profile affects ride quality, rail wear, energy use and derailment risk, and restoring it quickly decides how many trains are available each morning. HYT pioneered CNC wheel lathe technology in India and has kept wheel and axle machining at the centre of its work ever since.",
+            "Today we supply underfloor, surface and portal wheel lathes, wheel and axle shop machines, depot equipment and complete workshops to railways, metros and industry – and we stay with each machine for its whole working life. Read the milestones on our [History](page:history) page."
+          ],
+          "image": "company/manufacturing-facility",
+          "image_alt": "Sample illustration of the HYT assembly hall in Pune with a wheel lathe under construction",
+          "layout": "image-right"
+        },
+        {
+          "type": "features",
+          "eyebrow": "What we do",
+          "heading": "Machines and services for the whole wheelset life cycle",
+          "intro": "Everything we make answers one question: how do we keep wheelsets safe, round and in service for longer?",
+          "cols": 4,
+          "items": [
+            {"icon": "gear-wide-connected", "title": "Wheel lathes", "text": "[Underfloor, tandem, surface and portal lathes](page:products#wheel-lathes) that re-profile wheels in hours rather than days."},
+            {"icon": "bullseye", "title": "Wheel & axle shop machines", "text": "[Vertical turning, axle turning, pressing, measuring and balancing](page:products#wheel-axle-shop-machines) for new and overhauled wheelsets."},
+            {"icon": "building-gear", "title": "Turnkey workshops", "text": "[Complete wheel shops and depot facilities](page:turnkey-project), from layout and civil interface to commissioning."},
+            {"icon": "tools", "title": "Lifetime service", "text": "[Installation, maintenance contracts, spares, upgrades and training](page:services) for every machine we deliver."}
+          ]
+        },
+        {
+          "type": "steps",
+          "eyebrow": "How we work",
+          "heading": "Design, build, install, support – under one roof",
+          "intro": "Keeping every stage in-house means one team is accountable from the first drawing to the last service visit. Nothing is lost at a hand-over between companies.",
+          "items": [
+            {"title": "Understand", "text": "We study your fleet, wheel profiles, gauge, throughput targets and workshop layout before proposing a machine."},
+            {"title": "Design", "text": "Our engineers adapt proven machine platforms to your vehicles, foundations and operating practice."},
+            {"title": "Build", "text": "Machines are fabricated, assembled and tested in our own works in Pune under ISO 9001 quality control."},
+            {"title": "Install", "text": "We supervise foundations, install and align the machine, and prove it on your own wheelsets before handover."},
+            {"title": "Support", "text": "Training, maintenance contracts, genuine spares and upgrades keep the machine productive for decades."}
+          ]
+        },
+        {
+          "type": "features",
+          "eyebrow": "Our values",
+          "heading": "What guides our decisions",
+          "cols": 3,
+          "items": [
+            {"icon": "rulers", "title": "Precision", "text": "A tenth of a millimetre on a wheel profile matters. We design, build and test to that standard."},
+            {"icon": "shield-check", "title": "Safety first", "text": "For the people who run our machines, the people who build them and the passengers who ride on the wheels they cut."},
+            {"icon": "person-check", "title": "Accountability", "text": "One partner, one point of responsibility – and we answer the phone long after the warranty ends."},
+            {"icon": "clock-history", "title": "Long-term thinking", "text": "We judge a machine by its output over twenty years, not by its first week in service."},
+            {"icon": "lightbulb", "title": "Practical innovation", "text": "New technology earns its place when it makes workshops faster, safer or easier to run."},
+            {"icon": "patch-check", "title": "Integrity", "text": "Fair dealing with customers, suppliers and public authorities, as set out in our [Code of Conduct](page:code-of-conduct)."}
+          ]
+        },
+        {
+          "type": "text",
+          "eyebrow": "Who we work with",
+          "heading": "Trusted by railways and metros",
+          "paragraphs": [
+            "Our customers include Indian Railways, Delhi Metro Rail Corporation, National Capital Region Transport Corporation and the State Railway of Thailand. Their workshops depend on wheel lathes and wheel shop machines to keep fleets in service and within safety limits.",
+            "We also meet the international rail industry at exhibitions such as Asia Pacific Rail, Middle East Rail, Africa Rail and AusRAIL, where we share what we have learned about wheelset maintenance with operators from many networks."
+          ],
+          "image": "company/exhibition-stand",
+          "image_alt": "Sample illustration of an HYT exhibition stand at an international rail trade fair",
+          "layout": "image-left",
+          "link": {"label": "See our clientele", "page": "clientele"}
+        },
+        {
+          "type": "cards",
+          "eyebrow": "Explore the company",
+          "heading": "More about HYT",
+          "cols": 4,
+          "items": [
+            {"page": "history", "icon": "hourglass-split"},
+            {"page": "group-companies", "icon": "buildings"},
+            {"page": "quality", "icon": "clipboard-check"},
+            {"page": "certifications", "icon": "patch-check"},
+            {"page": "awards", "icon": "award"},
+            {"page": "clientele", "icon": "people"},
+            {"page": "csr", "icon": "heart"},
+            {"page": "compliance", "icon": "journal-check"}
+          ]
+        },
+        {
+          "type": "cta",
+          "heading": "Talk to the people who build the machines",
+          "text": "Whether you are planning a single lathe or a complete wheel shop, our application engineers will help you define the right solution.",
+          "primary": {"label": "Discuss Your Requirement", "page": "contact-us"},
+          "secondary": {"label": "Explore Our Products", "page": "products"}
+        }
+      ]
+    },
+
+    "group-companies": {
+      "nav": "Group Companies",
+      "title": "HYT Group Companies",
+      "description": "The companies that make up the HYT group and how they support railway customers with machines, engineering and service. Company details are being finalised.",
+      "eyebrow": "About HYT",
+      "h1": "HYT Group Companies",
+      "lede": "HYT Engineering Company Pvt. Ltd. is the group's railway machine tool business. This page will introduce the related companies and how they work together for customers.",
+      "summary": "How the companies in the HYT group work together for railway and industrial customers.",
+      "blocks": [
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "For HYT review: group company details are not yet verified. Please supply the legal name of each group company, its main activity, location, relationship to HYT Engineering Company Pvt. Ltd. and website link (if any). The sections below are placeholders until then."
+        },
+        {
+          "type": "text",
+          "eyebrow": "One group, one standard",
+          "heading": "Why the group structure matters to customers",
+          "paragraphs": [
+            "Large railway projects rarely depend on a single machine. They need engineering, manufacturing, installation and many years of service, often across several sites. A group of related companies can take on each of these tasks while working to shared standards and a common commitment to the customer.",
+            "Whichever group company you deal with, the contract, the technical responsibility and the after-sales contact will always be clearly named. Our [Quality](page:quality) process and [Code of Conduct](page:code-of-conduct) apply to the work we deliver for you."
+          ],
+          "image": "company/corporate-office",
+          "image_alt": "Sample illustration of the HYT corporate office building",
+          "layout": "image-right"
+        },
+        {
+          "type": "features",
+          "heading": "What customers can expect",
+          "cols": 3,
+          "items": [
+            {"icon": "person-check", "title": "Clear responsibility", "text": "Every offer names the contracting company and the single point of contact for your project."},
+            {"icon": "clipboard-check", "title": "Shared quality standards", "text": "Design reviews, inspection and documentation follow the same disciplined process."},
+            {"icon": "headset", "title": "Continuity of support", "text": "Service, spares and upgrades remain available for the full working life of your equipment."}
+          ]
+        },
+        {
+          "type": "cta",
+          "heading": "Not sure which company to contact?",
+          "text": "Send your enquiry to HYT Engineering and we will route it to the right team.",
+          "primary": {"label": "Contact our team", "page": "contact-us"},
+          "secondary": {"label": "About HYT", "page": "about"}
+        }
+      ]
+    },
+
+    "history": {
+      "nav": "History",
+      "title": "Our History – HYT Engineering Since 1977",
+      "description": "From small drilling machines and lathes in 1977 to CNC wheel lathes for national railways and metros – the milestones that shaped HYT Engineering in Pune.",
+      "eyebrow": "About HYT",
+      "h1": "Our History",
+      "lede": "Almost five decades of building machine tools in Pune, and the steady shift from general workshop machines to the railway wheel technology we are known for today.",
+      "summary": "Milestones from our beginnings in 1977 to CNC wheel lathes for railways and metros.",
+      "blocks": [
+        {
+          "type": "timeline",
+          "heading": "Milestones",
+          "intro": "The main steps in HYT's development. Further dated milestones will be added as archive material is reviewed.",
+          "items": [
+            {"year": "1977", "title": "The beginning", "text": "HYT starts out as HYT Engineering Corporation in Pune, building small drilling machines and lathes for local workshops and industry."},
+            {"year": "1989", "title": "Incorporation", "text": "The business is incorporated as HYT Engineering Company Pvt. Ltd., giving it the structure to take on larger engineering contracts."},
+            {"year": "Growth", "title": "Into CNC wheel lathes", "text": "HYT applies its machine tool experience to railway wheelsets and pioneers CNC wheel lathe technology in India – underfloor, surface and portal lathes, followed by wheel and axle shop machines."},
+            {"year": "Certified", "title": "Three ISO management systems", "text": "Quality, environmental and occupational health and safety management are certified to ISO 9001:2015, ISO 14001:2015 and ISO 45001:2018. See [Certifications](page:certifications)."},
+            {"year": "Global", "title": "On the international stage", "text": "HYT exhibits at Asia Pacific Rail, Middle East Rail, Africa Rail and AusRAIL, and supplies a CNC vertical turret lathe to the State Railway of Thailand."},
+            {"year": "Today", "title": "Orders from India's metro and rapid transit operators", "text": "Delhi Metro Rail Corporation awards HYT a CNC tandem underfloor wheel lathe, and National Capital Region Transport Corporation issues a Letter of Acceptance for fully automatic CNC underfloor wheel lathes. See [projects under execution](page:under-execution)."}
+          ]
+        },
+        {
+          "type": "text",
+          "eyebrow": "What has not changed",
+          "heading": "A machine builder at heart",
+          "paragraphs": [
+            "Our products and customers have changed a great deal since 1977, but the core has not. We still design our machines ourselves, build them in our own works and stand behind them on the shop floor.",
+            "That continuity matters to railway operators. A wheel lathe can run for decades, and the company that built it should still be there to service, upgrade and eventually replace it. Learn more [about HYT](page:about) or see the [machines we build today](page:products)."
+          ],
+          "image": "company/manufacturing-facility",
+          "image_alt": "Sample illustration of machine tools being assembled in the HYT works",
+          "layout": "image-right"
+        },
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "For HYT review: only the 1977 and 1989 dates are verified. Please supply dated milestones (first CNC wheel lathe, first underfloor lathe, ISO certification years, first export order, major contracts) and archive photographs for the timeline."
+        }
+      ]
+    },
+
+    "quality": {
+      "nav": "Quality",
+      "title": "Quality Assurance – From Design to Acceptance",
+      "description": "How HYT builds quality into every wheel lathe: design reviews, incoming and in-process inspection, run-off tests on customer wheelsets and full documentation.",
+      "eyebrow": "Credentials",
+      "h1": "Quality at HYT",
+      "lede": "A wheel lathe sets the profile that a train runs on. We treat quality as a process that starts with the first drawing and ends only when the machine has proved itself on your wheelsets.",
+      "summary": "Our quality process from design review to acceptance testing on the customer's own wheelsets.",
+      "blocks": [
+        {
+          "type": "text",
+          "eyebrow": "Why it matters",
+          "heading": "Quality you can measure on the wheel",
+          "paragraphs": [
+            "An error in a machine tool is copied into every part it makes. On a wheel lathe that means every wheel profile, on every train, for years. Accuracy, repeatability and reliability are therefore not extras – they are the product.",
+            "Our quality management system is certified to ISO 9001:2015. The certificate confirms that the process exists and is audited; the steps below show how it works in practice. Certificates for quality, environment and occupational health and safety are collected on the [Certifications](page:certifications) page."
+          ],
+          "image": "company/quality-inspection",
+          "image_alt": "Sample illustration of an inspector measuring a machined component in the HYT quality area",
+          "layout": "image-right"
+        },
+        {
+          "type": "steps",
+          "eyebrow": "Our quality process",
+          "heading": "Six checkpoints between order and handover",
+          "items": [
+            {"title": "Contract & design review", "text": "Customer specifications, wheel profiles, gauge and site conditions are reviewed by engineering before design begins, and each design is checked against them before release."},
+            {"title": "Supplier control & incoming inspection", "text": "Castings, structures, bought-out components and CNC systems are sourced from evaluated suppliers and inspected on arrival against drawings and specifications."},
+            {"title": "In-process inspection", "text": "Critical machined features, geometry and alignments are checked at defined stages of manufacture and assembly, with results recorded."},
+            {"title": "Factory testing", "text": "Each machine is run, its functions and safety interlocks are tested and its geometric accuracy is verified in our works before dispatch."},
+            {"title": "Site run-off & acceptance", "text": "After installation, the machine is proved on the customer's own wheelsets. Profiles and dimensions are measured and the results are signed off with the customer."},
+            {"title": "Documentation & handover", "text": "Inspection records, test reports, manuals, drawings and spare-parts lists are handed over with the machine, supporting audits and future maintenance."}
+          ]
+        },
+        {
+          "type": "features",
+          "eyebrow": "Beyond the checklist",
+          "heading": "How we keep improving",
+          "cols": 3,
+          "items": [
+            {"icon": "arrow-repeat", "title": "Feedback from the field", "text": "Service reports and customer feedback are reviewed and fed back into design and manufacturing."},
+            {"icon": "search", "title": "Root-cause analysis", "text": "Non-conformities are investigated to their cause and corrected so they do not recur."},
+            {"icon": "mortarboard", "title": "Skilled people", "text": "Inspectors, assemblers and service engineers are trained in the methods and standards that apply to their work."}
+          ]
+        },
+        {
+          "type": "cards",
+          "heading": "Related pages",
+          "cols": 3,
+          "items": [
+            {"page": "certifications", "icon": "patch-check"},
+            {"page": "installation-commissioning", "icon": "tools"},
+            {"page": "policy-statement", "icon": "journal-check"}
+          ]
+        },
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "For HYT review: please confirm that the six process steps reflect HYT's actual quality procedures, and whether specific inspection equipment or customer inspection (e.g. by third-party or railway inspectors) should be mentioned."
+        }
+      ]
+    },
+
+    "certifications": {
+      "nav": "Certifications",
+      "title": "ISO 9001, ISO 14001 & ISO 45001 Certifications",
+      "description": "HYT Engineering's management systems are certified to ISO 9001:2015, ISO 14001:2015 and ISO 45001:2018. What each standard covers and why it matters to you.",
+      "eyebrow": "Credentials",
+      "h1": "Certifications",
+      "lede": "Our quality, environmental and occupational health and safety management systems are independently certified. Here is what each certificate means for customers and partners.",
+      "summary": "ISO 9001:2015, ISO 14001:2015 and ISO 45001:2018 – what each certificate covers.",
+      "blocks": [
+        {
+          "type": "features",
+          "eyebrow": "Certified management systems",
+          "heading": "Three standards, one way of working",
+          "intro": "Each standard is audited by an independent certification body. Together they cover how we build machines, how we treat the environment and how we protect people.",
+          "cols": 3,
+          "items": [
+            {"icon": "clipboard-check", "title": "ISO 9001:2015 – Quality management", "text": "Requires a documented, audited process for understanding customer requirements, controlling design, purchasing and production, and correcting problems. For you, it means consistent machines and traceable records."},
+            {"icon": "tree", "title": "ISO 14001:2015 – Environmental management", "text": "Requires us to identify the environmental impact of our operations – energy, waste, emissions, coolants and oils – and to control and reduce it. For you, it means a supplier that manages its footprint."},
+            {"icon": "shield-check", "title": "ISO 45001:2018 – Occupational health & safety", "text": "Requires us to identify hazards and prevent injury and ill health in our works and on customer sites. For you, it means safer installation and service work in your depot."}
+          ]
+        },
+        {
+          "type": "text",
+          "eyebrow": "For buyers and auditors",
+          "heading": "Using our certificates in your supplier approval",
+          "paragraphs": [
+            "Railway and metro tenders often require proof of certified management systems. Copies of our current certificates, including scope, certification body and validity dates, will be available for download on this page.",
+            "If you need certificates for a tender or a supplier audit sooner, [contact us](page:contact-us) and we will send them directly. To see how ISO 9001 works in practice on the shop floor, read about our [quality process](page:quality), and for our commitments in each area see the [Policy Statement](page:policy-statement)."
+          ],
+          "image": "company/quality-inspection",
+          "image_alt": "Sample illustration of a quality inspection station with measuring instruments",
+          "layout": "image-right"
+        },
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "For HYT review: certificate PDFs are not yet available. Please supply the current ISO 9001:2015, ISO 14001:2015 and ISO 45001:2018 certificates, including certified scope, certification body and validity dates, so they can be added as downloads here."
+        }
+      ]
+    },
+
+    "awards": {
+      "nav": "Awards",
+      "title": "Awards and Recognition",
+      "description": "Recognition for HYT Engineering, including listing in Dun & Bradstreet's Leading Mid-Corporates of India 2023, and how we measure success with customers.",
+      "eyebrow": "Credentials",
+      "h1": "Awards and Recognition",
+      "lede": "The best recognition is a machine that is still in daily use years after handover. We are also proud when independent organisations take note of our work.",
+      "summary": "Independent recognition of HYT Engineering's work and growth.",
+      "blocks": [
+        {
+          "type": "features",
+          "eyebrow": "Recognition",
+          "heading": "Independent recognition",
+          "cols": 2,
+          "items": [
+            {"icon": "award", "title": "Leading Mid-Corporates of India 2023", "text": "HYT Engineering is listed in the Dun & Bradstreet publication \"Leading Mid-Corporates of India 2023\", which profiles established mid-sized Indian companies."},
+            {"icon": "people", "title": "Orders from public operators", "text": "Orders from Indian Railways, Delhi Metro Rail Corporation and National Capital Region Transport Corporation reflect the confidence of demanding public customers. See our [clientele](page:clientele)."}
+          ]
+        },
+        {
+          "type": "text",
+          "eyebrow": "How we measure success",
+          "heading": "Recognition earned in the workshop",
+          "paragraphs": [
+            "Awards are welcome, but our real benchmark is practical: trains returned to service on time, wheels that last more re-profiling cycles and machines that keep running reliably for decades.",
+            "Those results are built on a disciplined [quality process](page:quality), independently [certified management systems](page:certifications) and long relationships with the operators listed on our [Clientele](page:clientele) page. They are also the reason customers return to us for upgrades, maintenance contracts and new machines.",
+            "We share that experience with the industry at international events such as Asia Pacific Rail, Middle East Rail, Africa Rail and AusRAIL. See our [international exhibitions](page:international-exhibitions)."
+          ],
+          "image": "company/exhibition-stand",
+          "image_alt": "Sample illustration of an HYT stand at a rail industry exhibition",
+          "layout": "image-right"
+        },
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "For HYT review: the Dun & Bradstreet listing is taken from a publication index and must be confirmed. Please supply the full list of awards and recognitions (name, awarding body, year, certificate or photograph) to complete this page."
+        }
+      ]
+    },
+
+    "clientele": {
+      "nav": "Clientele",
+      "title": "Our Clientele – Railways and Metro Operators",
+      "description": "HYT Engineering supplies wheel lathes and workshop machines to Indian Railways, Delhi Metro, NCRTC and the State Railway of Thailand. See who we work with.",
+      "eyebrow": "Credentials",
+      "h1": "Our Clientele",
+      "lede": "National railways and metro operators rely on HYT machines to keep their wheelsets within safety limits and their fleets in service.",
+      "summary": "Railways and metro operators that rely on HYT wheel lathes and workshop machines.",
+      "blocks": [
+        {
+          "type": "logos",
+          "heading": "Selected customers",
+          "intro": "A selection of operators for whom HYT has supplied machines or holds orders.",
+          "items": [
+            {"name": "Indian Railways", "note": "Contract for nine CNC underfloor wheel lathes"},
+            {"name": "Delhi Metro Rail Corporation (DMRC)", "note": "CNC tandem underfloor wheel lathe"},
+            {"name": "National Capital Region Transport Corporation (NCRTC)", "note": "Fully automatic CNC underfloor wheel lathes"},
+            {"name": "State Railway of Thailand", "note": "CNC vertical turret lathe, supplied and installed in Bangkok"}
+          ]
+        },
+        {
+          "type": "text",
+          "eyebrow": "What our customers have in common",
+          "heading": "Operators who cannot afford idle trains",
+          "paragraphs": [
+            "Our customers run high-utilisation fleets on tight maintenance schedules. For them, a wheel lathe is not an occasional tool but a daily bottleneck: every hour a train waits for re-profiling is an hour it is not earning revenue or carrying passengers.",
+            "That is why they look for more than a machine. They need foundations designed correctly the first time, operators trained on their own vehicles and a service partner who responds when it matters. See the details in our [executed projects](page:executed-projects) and [projects under execution](page:under-execution)."
+          ],
+          "image": "industries/railways",
+          "image_alt": "Sample illustration of a railway maintenance depot with locomotives and coaches",
+          "layout": "image-right"
+        },
+        {
+          "type": "cards",
+          "heading": "Industries we serve",
+          "cols": 3,
+          "items": [
+            {"page": "ind-railways", "image": "industries/railways"},
+            {"page": "ind-metros", "image": "industries/metros"},
+            {"page": "ind-rolling-stock", "image": "industries/rolling-stock-manufacturers"}
+          ]
+        },
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "For HYT review: please supply the approved client list for publication and confirm, for each client, whether the name may be shown and whether permission exists to display its logo."
+        }
+      ]
+    },
+
+    "csr": {
+      "nav": "CSR",
+      "title": "Corporate Social Responsibility at HYT",
+      "description": "HYT Engineering's approach to corporate social responsibility: education, skills, environment and health, shaped by the people who build our machines in Pune.",
+      "eyebrow": "Responsibility",
+      "h1": "Corporate Social Responsibility",
+      "lede": "Our machines are built by people from the community around our works in Pune. We want that community to grow stronger alongside the company.",
+      "summary": "Our approach to education, skills, environment and health in the community around us.",
+      "blocks": [
+        {
+          "type": "text",
+          "eyebrow": "Our approach",
+          "heading": "Responsibility that starts close to home",
+          "paragraphs": [
+            "Engineering companies depend on skilled people, a healthy environment and stable communities. Our CSR approach focuses on areas where an industrial manufacturer can make a lasting, practical difference rather than one-off gestures.",
+            "We aim to choose projects carefully, work with credible partners, involve our employees and report honestly on what has been achieved."
+          ],
+          "image": "company/csr-community",
+          "image_alt": "Sample illustration of a community engagement activity with HYT volunteers",
+          "layout": "image-right"
+        },
+        {
+          "type": "features",
+          "eyebrow": "Focus areas",
+          "heading": "Where we want to make a difference",
+          "cols": 4,
+          "items": [
+            {"icon": "book", "title": "Education", "text": "Supporting schools and students, with an emphasis on science, mathematics and engineering."},
+            {"icon": "mortarboard", "title": "Skill development", "text": "Helping young people gain the technical and vocational skills that manufacturing needs."},
+            {"icon": "tree", "title": "Environment", "text": "Reducing the footprint of our own operations under ISO 14001 and supporting local environmental initiatives."},
+            {"icon": "heart-pulse", "title": "Health & wellbeing", "text": "Promoting health and safety for employees, their families and the wider community."}
+          ]
+        },
+        {
+          "type": "text",
+          "eyebrow": "Our people",
+          "heading": "Employees who take part",
+          "paragraphs": [
+            "Responsibility is also part of everyday life at our works. Employee events such as blood donation camps, Safety Week and International Yoga Day bring colleagues together around health, safety and service to others.",
+            "Photographs of these events can be found on the [Life at HYT](page:memorialization) page."
+          ],
+          "image": "company/life-at-hyt",
+          "image_alt": "Sample illustration of HYT employees taking part in a workplace health event",
+          "layout": "image-left"
+        },
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "For HYT review: CSR activities are not yet verified. Please supply the approved CSR policy, the focus areas HYT wishes to publish, and details of completed or ongoing projects (partner, location, year, photographs)."
+        }
+      ]
+    },
+
+    "compliance": {
+      "nav": "Compliance",
+      "title": "Compliance – Codes, Guidelines and Policies",
+      "description": "HYT Engineering's Code of Conduct, Business Conduct Guidelines and integrated policy statement – one place for suppliers, customers and auditors to find them.",
+      "eyebrow": "Responsibility",
+      "h1": "Compliance",
+      "lede": "Railway customers, suppliers and auditors need to know how we do business. Our codes, guidelines and policies are collected here.",
+      "summary": "Our Code of Conduct, Business Conduct Guidelines and integrated policy statement in one place.",
+      "blocks": [
+        {
+          "type": "text",
+          "eyebrow": "Why it matters",
+          "heading": "Doing business the right way",
+          "paragraphs": [
+            "Much of our work is for public railway and metro operators, where fair competition, transparent tendering and safe working are non-negotiable. The documents on this page set out the standards we expect of ourselves and of everyone who works with us.",
+            "Suppliers registering with HYT and auditors carrying out supplier assessments will find the relevant commitments below. New suppliers can apply through [Supplier Registration](page:supplier-registration).",
+            "Our management systems for quality, environment and occupational health and safety are certified to ISO 9001:2015, ISO 14001:2015 and ISO 45001:2018; details are on the [Certifications](page:certifications) page. For questions about any document here, or to request signed copies for a tender or audit, please [contact us](page:contact-us)."
+          ],
+          "image": "company/corporate-office",
+          "image_alt": "Sample illustration of the HYT corporate office",
+          "layout": "image-right"
+        },
+        {
+          "type": "cards",
+          "heading": "Compliance documents",
+          "cols": 3,
+          "items": [
+            {"page": "code-of-conduct", "icon": "journal-check"},
+            {"page": "guidelines", "icon": "signpost-split"},
+            {"page": "policy-statement", "icon": "file-earmark-text"}
+          ]
+        },
+        {
+          "type": "features",
+          "eyebrow": "In preparation",
+          "heading": "Further documents",
+          "cols": 2,
+          "items": [
+            {"icon": "people", "title": "Supplier Code of Conduct", "text": "The standards on ethics, labour, safety and environment that we expect from our suppliers and subcontractors."},
+            {"icon": "shield-lock", "title": "Information Security", "text": "How we protect customer drawings, project data and the control systems of the machines we supply."}
+          ]
+        },
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "For HYT review: a Supplier Code of Conduct and an Information Security statement are planned for this section. Please confirm whether these documents exist and supply them, or approve drafts."
+        }
+      ]
+    },
+
+    "code-of-conduct": {
+      "nav": "Code of Conduct",
+      "title": "Code of Conduct",
+      "description": "HYT Engineering's Code of Conduct: integrity, anti-bribery, fair competition, safety, environment, confidentiality, human rights and how to raise a concern.",
+      "eyebrow": "Compliance",
+      "h1": "Code of Conduct",
+      "lede": "This Code sets out the standards of behaviour that apply to everyone who works for or on behalf of HYT Engineering Company Pvt. Ltd.",
+      "summary": "The standards of behaviour that apply to everyone working for or on behalf of HYT.",
+      "blocks": [
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "For HYT review: this Code of Conduct is a draft and requires approval by HYT management and legal counsel before publication. Please also confirm the reporting channel for concerns (named contact or dedicated email address)."
+        },
+        {
+          "type": "prose",
+          "updated": "Draft – pending approval",
+          "sections": [
+            {
+              "heading": "1. Purpose and scope",
+              "paragraphs": [
+                "HYT Engineering Company Pvt. Ltd. (\"HYT\") designs, builds and services machines on which railway safety depends. Our customers, many of them public authorities, trust us to act honestly and responsibly. This Code explains what that means in practice.",
+                "The Code applies to all directors, managers and employees of HYT, including temporary and contract staff. We also expect agents, consultants, suppliers, subcontractors and other business partners acting on our behalf to follow equivalent standards.",
+                "The Code does not cover every situation. Where it is silent, use good judgement, follow the law and ask for advice when in doubt."
+              ]
+            },
+            {
+              "heading": "2. Acting with integrity",
+              "paragraphs": [
+                "We comply with all laws and regulations that apply to our business in India and in every country where we work. Where local custom and the law differ, we follow the law. Where this Code sets a higher standard than the law, we follow this Code."
+              ],
+              "bullets": [
+                "Be honest and accurate in everything we say about our products, services and capabilities.",
+                "Keep promises made to customers, or explain early and openly when we cannot.",
+                "Never falsify records, test results, inspection reports or certificates."
+              ]
+            },
+            {
+              "heading": "3. Anti-bribery and anti-corruption",
+              "paragraphs": [
+                "HYT does not tolerate bribery or corruption in any form. We do not offer, promise, give, request or accept any payment, gift or advantage intended to improperly influence a business decision – whether the other party is a public official or a private individual.",
+                "This applies equally to payments made through agents, consultants, distributors or relatives. Facilitation payments to speed up routine government actions are not permitted."
+              ],
+              "bullets": [
+                "Gifts and hospitality may be given or accepted only if they are modest, infrequent, transparent and not linked to a pending decision, and only in line with our [Business Conduct Guidelines](page:guidelines).",
+                "We respect the procurement rules of our customers, including integrity pacts and codes of conduct in public tenders.",
+                "Agents and intermediaries are appointed only after due diligence, under written contracts and for documented services at fair market fees.",
+                "All payments are properly authorised and accurately recorded."
+              ]
+            },
+            {
+              "heading": "4. Conflicts of interest",
+              "paragraphs": [
+                "A conflict of interest arises when personal interests – financial, family or otherwise – could influence, or appear to influence, decisions made on behalf of HYT.",
+                "Employees must avoid such conflicts where possible and disclose any actual or potential conflict to their manager in writing. Examples include a financial interest in a supplier, customer or competitor; outside employment that competes with HYT; or involvement in a purchasing decision affecting a relative."
+              ]
+            },
+            {
+              "heading": "5. Fair competition",
+              "paragraphs": [
+                "We win business on the merits of our machines, our service and our prices. We comply with competition law in every market we serve."
+              ],
+              "bullets": [
+                "We do not agree prices, bids, markets or customers with competitors, and we do not take part in bid rigging.",
+                "We do not exchange commercially sensitive information with competitors.",
+                "We obtain information about competitors and tenders only by lawful and ethical means.",
+                "We describe competitors' products fairly and accurately."
+              ]
+            },
+            {
+              "heading": "6. Health and safety",
+              "paragraphs": [
+                "Nobody should be harmed by working for HYT or by using our machines. Our occupational health and safety management system is certified to ISO 45001:2018."
+              ],
+              "bullets": [
+                "Follow safety rules, permits and instructions in our works and on customer sites.",
+                "Use the personal protective equipment required for the task.",
+                "Stop work that is unsafe and report hazards, incidents and near misses immediately.",
+                "Never work under the influence of alcohol or drugs.",
+                "Design machines with the safety of operators and maintenance staff as a primary requirement."
+              ]
+            },
+            {
+              "heading": "7. Environment",
+              "paragraphs": [
+                "We work to reduce the environmental impact of our operations and products. Our environmental management system is certified to ISO 14001:2015."
+              ],
+              "bullets": [
+                "Comply with environmental laws and permits.",
+                "Use energy, materials and water efficiently.",
+                "Handle, store and dispose of oils, coolants, chemicals and waste correctly.",
+                "Consider energy use, noise and recyclability when designing machines."
+              ]
+            },
+            {
+              "heading": "8. Confidential information and intellectual property",
+              "paragraphs": [
+                "Our designs, drawings, software, pricing and know-how are valuable assets. Customers and suppliers also entrust us with their confidential information, including drawings, infrastructure data and project documents."
+              ],
+              "bullets": [
+                "Use confidential information only for the purpose for which it was provided.",
+                "Share it only with people who need it for their work and are authorised to receive it.",
+                "Respect the intellectual property of others, including software licences.",
+                "Confidentiality obligations continue after employment with HYT ends."
+              ]
+            },
+            {
+              "heading": "9. Data protection and information security",
+              "paragraphs": [
+                "We collect and use personal data – of employees, customers, applicants and suppliers – only for legitimate business purposes, keep it secure and retain it no longer than necessary, in line with applicable data protection law and our [Privacy Policy](page:privacy-policy).",
+                "Everyone must protect company systems and data: use strong passwords, do not share accounts, report suspected security incidents promptly and take care with remote access to machine control systems."
+              ]
+            },
+            {
+              "heading": "10. Human rights and fair labour",
+              "paragraphs": [
+                "We respect the human rights of our employees and of everyone affected by our business."
+              ],
+              "bullets": [
+                "We do not use child labour, forced labour or bonded labour, and we do not accept them in our supply chain.",
+                "We treat people with dignity and do not tolerate harassment, bullying or discrimination on any ground, including gender, caste, religion, ethnicity, age, disability or sexual orientation.",
+                "We pay at least the legally required wages and benefits and respect working-time rules.",
+                "We respect employees' lawful right to join or not to join associations."
+              ]
+            },
+            {
+              "heading": "11. Company assets and accurate records",
+              "paragraphs": [
+                "Company equipment, materials, vehicles and funds are to be used for legitimate business purposes and protected from loss, theft and misuse. Books, records and reports must be complete, accurate and prepared in line with applicable accounting standards and law."
+              ]
+            },
+            {
+              "heading": "12. Raising concerns",
+              "paragraphs": [
+                "Anyone who suspects a breach of this Code, the law or company policy is encouraged to speak up as early as possible. Concerns can be raised with a line manager, the HR department or a member of senior management. Business partners and members of the public may write to HYT Engineering Company Pvt. Ltd., 29/10, 29/10/1, 29/10/2, D-II Block, MIDC Chinchwad, Pune 411019, India, or email info@hytengineering.com, marking the message \"Confidential – Code of Conduct\".",
+                "Every concern will be taken seriously, handled confidentially as far as the law allows and investigated fairly."
+              ]
+            },
+            {
+              "heading": "13. No retaliation",
+              "paragraphs": [
+                "HYT will not tolerate retaliation against anyone who raises a concern in good faith or cooperates with an investigation, even if the concern turns out to be unfounded. Retaliation is itself a serious breach of this Code."
+              ]
+            },
+            {
+              "heading": "14. Compliance with this Code",
+              "paragraphs": [
+                "Managers are responsible for making sure their teams understand and follow this Code. Breaches may lead to disciplinary action up to and including dismissal and, for business partners, termination of the relationship. Where the law has been broken, HYT may inform the relevant authorities.",
+                "This Code is reviewed periodically and updated when needed. Practical guidance on applying it is provided in our [Business Conduct Guidelines](page:guidelines), and our commitments on quality, environment, health and safety are set out in the [Policy Statement](page:policy-statement)."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+
+    "guidelines": {
+      "nav": "Guidelines",
+      "title": "Business Conduct Guidelines",
+      "description": "Practical guidance for HYT employees and partners on gifts, hospitality, public tenders, agents, export controls, site conduct, records and communication.",
+      "eyebrow": "Compliance",
+      "h1": "Business Conduct Guidelines",
+      "lede": "These guidelines turn the principles of our Code of Conduct into practical rules for everyday situations in sales, purchasing, projects and service.",
+      "summary": "Practical rules on gifts, tenders, agents, export controls, site conduct and records.",
+      "blocks": [
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "For HYT review: the menu label \"Guidelines\" is vague; this page is titled \"Business Conduct Guidelines\". Please confirm the label and the intended content, and approve the text (including any monetary limits for gifts and hospitality) with management and legal counsel."
+        },
+        {
+          "type": "prose",
+          "updated": "Draft – pending approval",
+          "sections": [
+            {
+              "heading": "1. How to use these guidelines",
+              "paragraphs": [
+                "These guidelines support the [Code of Conduct](page:code-of-conduct) and apply to the same people: everyone working for HYT, and partners acting on our behalf. If a situation is not covered, ask yourself: Is it legal? Is it consistent with the Code? Would I be comfortable if it were reported to our customer or published? If the answer to any question is no, or you are unsure, ask your manager before acting."
+              ]
+            },
+            {
+              "heading": "2. Gifts and hospitality",
+              "paragraphs": [
+                "Modest gifts and hospitality can support good business relationships, but they must never create an obligation or the appearance of one."
+              ],
+              "bullets": [
+                "Accept or offer only items of modest value, such as promotional items, normal business meals or festival sweets, within limits set by management.",
+                "Never give or accept cash, cash equivalents, vouchers, loans or personal favours.",
+                "Do not offer gifts or hospitality to customer staff involved in a current tender, inspection or acceptance decision.",
+                "Respect the rules of the recipient's organisation – many public bodies prohibit gifts entirely.",
+                "Record gifts and hospitality above the agreed threshold and inform your manager."
+              ]
+            },
+            {
+              "heading": "3. Working with public customers and tenders",
+              "paragraphs": [
+                "Many of our customers are public railway and metro authorities. Their procurement rules exist to ensure fairness and value for public money, and we respect them fully."
+              ],
+              "bullets": [
+                "Submit truthful, complete tender documents and technical data.",
+                "Comply with integrity pacts, pre-bid procedures and communication rules set by the customer.",
+                "Do not seek or use confidential information about a tender or a competitor's bid.",
+                "Do not discuss employment opportunities with public officials involved in decisions affecting HYT.",
+                "Report any request for an improper payment immediately and refuse it."
+              ]
+            },
+            {
+              "heading": "4. Agents, consultants and partners",
+              "bullets": [
+                "Appoint intermediaries only for genuine, documented services and after background checks.",
+                "Use written contracts that include anti-bribery and compliance clauses.",
+                "Pay fees that are proportionate to the work, into accounts in the name of the contracting party and in the country where services are performed.",
+                "Watch for warning signs such as requests for unusual payments, cash, or secrecy."
+              ]
+            },
+            {
+              "heading": "5. Purchasing and suppliers",
+              "bullets": [
+                "Select suppliers on quality, delivery, price, safety and ethical performance.",
+                "Treat all suppliers fairly and keep their quotations confidential.",
+                "Declare any personal relationship with a supplier and step back from the decision.",
+                "Expect suppliers to meet the standards of our Code of Conduct; new suppliers can register through [Supplier Registration](page:supplier-registration)."
+              ]
+            },
+            {
+              "heading": "6. Exports, sanctions and customs",
+              "paragraphs": [
+                "Machines, spare parts, software and technical data may be subject to export control, sanctions and customs rules in India and in other countries. Check end-use, end-user and destination before quoting or shipping to a new customer or country, declare goods accurately to customs, and seek advice if anything is unclear."
+              ]
+            },
+            {
+              "heading": "7. Conduct on customer sites",
+              "bullets": [
+                "Follow the customer's safety rules, permit-to-work systems and track-access procedures without exception.",
+                "Wear the required personal protective equipment and use only approved tools and lifting equipment.",
+                "Treat customer premises, equipment and information with care.",
+                "Report incidents, near misses and damage immediately to the customer and to HYT."
+              ]
+            },
+            {
+              "heading": "8. Records, documents and reports",
+              "bullets": [
+                "Record every transaction accurately and on time.",
+                "Never alter inspection results, test reports, timesheets or expense claims.",
+                "Keep documents for the periods required by law and by contract.",
+                "Do not destroy documents that may be relevant to an audit, investigation or legal proceeding."
+              ]
+            },
+            {
+              "heading": "9. Communication and social media",
+              "bullets": [
+                "Only authorised people may speak to the media or publish statements on behalf of HYT.",
+                "Do not post confidential information, customer details, site photographs or drawings on social media without approval.",
+                "Make clear that personal opinions are your own."
+              ]
+            },
+            {
+              "heading": "10. IT and information security",
+              "bullets": [
+                "Use company IT systems for business purposes and in line with company rules.",
+                "Protect passwords and do not share accounts.",
+                "Be alert to phishing and report suspicious messages.",
+                "Connect to customer machines and networks only with authorisation and approved tools."
+              ]
+            },
+            {
+              "heading": "11. Asking for advice and reporting concerns",
+              "paragraphs": [
+                "If you are unsure what to do, ask your manager, the HR department or senior management. Concerns about possible breaches can be raised through the channels described in section 12 of the [Code of Conduct](page:code-of-conduct). Nobody will suffer for raising a concern in good faith."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+
+    "policy-statement": {
+      "nav": "Policy Statement",
+      "title": "Quality, Environment, Health & Safety Policy",
+      "description": "HYT's integrated policy on quality, environment and occupational health and safety in line with ISO 9001, 14001 and 45001, plus our anti-bribery commitment.",
+      "eyebrow": "Compliance",
+      "h1": "Integrated Policy Statement",
+      "lede": "Our commitments on quality, environment, occupational health and safety and business integrity, consistent with our ISO 9001, ISO 14001 and ISO 45001 management systems.",
+      "summary": "Our integrated commitments on quality, environment, health and safety and anti-bribery.",
+      "blocks": [
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "For HYT review: please confirm which policies HYT wishes to publish here (integrated QHSE policy, separate policies, anti-bribery policy), approve the wording, and supply the name and title of the signatory and the issue date."
+        },
+        {
+          "type": "prose",
+          "updated": "Draft – pending approval",
+          "sections": [
+            {
+              "heading": "Our purpose",
+              "paragraphs": [
+                "HYT Engineering Company Pvt. Ltd. designs, manufactures, installs and services CNC wheel lathes, wheel and axle shop machines, depot equipment and turnkey workshops for railways, metros and industry. The machines we build help keep rolling stock safe. That responsibility shapes the way we manage quality, the environment, and the health and safety of everyone involved in our work."
+              ]
+            },
+            {
+              "heading": "Quality",
+              "paragraphs": [
+                "We commit to delivering machines and services that meet customer requirements and applicable standards, on time and with full documentation. To achieve this we will:"
+              ],
+              "bullets": [
+                "understand and review customer requirements before we commit to them;",
+                "control design, purchasing, manufacturing, installation and service through documented processes;",
+                "verify our machines through inspection and testing, including acceptance on customer wheelsets;",
+                "measure customer satisfaction and learn from feedback and non-conformities;",
+                "continually improve the effectiveness of our quality management system to ISO 9001:2015."
+              ]
+            },
+            {
+              "heading": "Environment",
+              "paragraphs": [
+                "We commit to protecting the environment and preventing pollution across our operations and products. We will:"
+              ],
+              "bullets": [
+                "comply with applicable environmental laws, permits and other requirements;",
+                "use energy, water and materials efficiently;",
+                "minimise waste, and handle oils, coolants and hazardous materials safely;",
+                "consider environmental performance when designing machines and selecting suppliers;",
+                "continually improve our environmental management system to ISO 14001:2015."
+              ]
+            },
+            {
+              "heading": "Occupational health and safety",
+              "paragraphs": [
+                "We commit to providing safe and healthy working conditions to prevent work-related injury and ill health – in our works and on customer sites. We will:"
+              ],
+              "bullets": [
+                "comply with applicable health and safety laws and customer site rules;",
+                "identify hazards, assess risks and eliminate or reduce them using the hierarchy of controls;",
+                "provide training, information and suitable protective equipment;",
+                "consult and involve employees and their representatives in safety matters;",
+                "design our machines with the safety of operators and maintenance staff in mind;",
+                "continually improve our occupational health and safety management system to ISO 45001:2018."
+              ]
+            },
+            {
+              "heading": "Business integrity and anti-bribery",
+              "paragraphs": [
+                "We commit to conducting business honestly and fairly. HYT prohibits bribery and corruption in all forms, whether involving public officials or private parties, directly or through intermediaries. We comply with applicable anti-corruption and competition laws and respect the procurement rules of our customers. These commitments are explained in our [Code of Conduct](page:code-of-conduct) and [Business Conduct Guidelines](page:guidelines)."
+              ]
+            },
+            {
+              "heading": "Putting this policy into practice",
+              "paragraphs": [
+                "Management sets measurable objectives under this policy, provides the resources needed to achieve them and reviews performance regularly. Every employee is responsible for working in line with this policy, and we expect the same of our suppliers and subcontractors.",
+                "This policy is communicated to all employees, made available to interested parties on this website and reviewed periodically to make sure it remains suitable. Details of our certificates are on the [Certifications](page:certifications) page."
+              ]
+            },
+            {
+              "heading": "Issued by",
+              "paragraphs": [
+                "Management, HYT Engineering Company Pvt. Ltd., Pune"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

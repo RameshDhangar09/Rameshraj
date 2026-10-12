@@ -1,0 +1,430 @@
+{
+  "pages": {
+    "work-with-us": {
+      "nav": "Work With Us",
+      "title": "Work With Us – Careers and Supplier Partnerships",
+      "description": "Build your career at HYT Engineering or supply the components behind our CNC wheel lathes. Explore careers, supplier registration and life at HYT in Pune.",
+      "eyebrow": "Work With Us",
+      "h1": "Work with HYT Engineering",
+      "lede": "The machines we build keep trains running safely for decades. Whether you join our team or supply the parts we build with, you share in that responsibility.",
+      "summary": "Careers, supplier registration and life at HYT – ways to build railway machines with us.",
+      "blocks": [
+        {
+          "type": "cards",
+          "eyebrow": "Get involved",
+          "heading": "Three ways to work with us",
+          "cols": 3,
+          "items": [
+            {
+              "page": "career",
+              "icon": "briefcase",
+              "image": "company/engineering-design",
+              "title": "Careers",
+              "text": "Engineering, manufacturing, service and commercial roles – and how to apply."
+            },
+            {
+              "page": "supplier-registration",
+              "icon": "truck",
+              "image": "company/manufacturing-facility",
+              "title": "Supplier Registration",
+              "text": "Register your company to supply components, systems or services to HYT."
+            },
+            {
+              "page": "memorialization",
+              "icon": "people",
+              "image": "company/life-at-hyt",
+              "title": "Life at HYT",
+              "text": "Annual meets, safety weeks, community camps and Yoga Day – our people beyond the shop floor."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "eyebrow": "For employees",
+          "heading": "Work that you can see running on the tracks",
+          "paragraphs": [
+            "At HYT, an engineer can follow a machine from the first layout sketch to the day it re-profiles its first wheelset in a depot. We design, build, install and service our own machines, so the people who work here see the whole life of the product – and the effect their work has on the railways that use it.",
+            "We have built machine tools in Pune since 1977. That history means experienced colleagues to learn from, alongside the modern CNC, measuring and drive technology that today's railways expect."
+          ],
+          "bullets": [
+            "Real responsibility on machines for railways and metros in India and abroad",
+            "Learning from colleagues with decades of wheel lathe experience",
+            "Work across design, manufacturing, site commissioning and service",
+            "Management systems certified to ISO 9001, ISO 14001 and ISO 45001"
+          ],
+          "image": "company/engineering-design",
+          "image_alt": "Sample illustration of HYT design engineers reviewing a wheel lathe model on screen",
+          "layout": "image-right",
+          "link": {
+            "label": "See careers at HYT",
+            "page": "career"
+          }
+        },
+        {
+          "type": "features",
+          "eyebrow": "For suppliers",
+          "heading": "Why suppliers grow with HYT",
+          "intro": "Our machines depend on reliable castings, fabrications, electrical systems and services. We look for partners who want a long-term relationship, not a single order.",
+          "cols": 3,
+          "items": [
+            {
+              "icon": "arrow-repeat",
+              "title": "Long-term programmes",
+              "text": "Machines and spare parts are supplied over many years, so good suppliers become part of a continuing programme."
+            },
+            {
+              "icon": "clipboard-check",
+              "title": "Clear requirements",
+              "text": "Drawings, specifications and inspection criteria agreed before production starts."
+            },
+            {
+              "icon": "shield-check",
+              "title": "Fair and responsible dealing",
+              "text": "Transparent processes guided by our [Code of Conduct](page:code-of-conduct)."
+            }
+          ],
+          "link": {
+            "label": "Register as a supplier",
+            "page": "supplier-registration"
+          }
+        },
+        {
+          "type": "cta",
+          "heading": "Ready to take the next step?",
+          "text": "Send us your application or register your company. We read every submission and reply when there is a suitable opportunity.",
+          "primary": {
+            "label": "View careers",
+            "page": "career"
+          },
+          "secondary": {
+            "label": "Supplier registration",
+            "page": "supplier-registration"
+          }
+        }
+      ]
+    },
+    "career": {
+      "nav": "Careers",
+      "title": "Careers at HYT Engineering, Pune",
+      "description": "Engineering, service, manufacturing and commercial careers at HYT Engineering in Pune. Learn what we offer, how we hire and send us your application.",
+      "eyebrow": "Work With Us",
+      "h1": "Careers at HYT Engineering",
+      "lede": "Design, build and service the machines that keep railway wheels safe. We look for people who take pride in precise work and want to see it in service.",
+      "summary": "Why join HYT, the areas you can work in, how our hiring works and how to apply.",
+      "blocks": [
+        {
+          "type": "features",
+          "eyebrow": "Why HYT",
+          "heading": "What working here offers",
+          "cols": 3,
+          "items": [
+            {
+              "icon": "gear-wide-connected",
+              "title": "The whole product life",
+              "text": "Design, manufacture, commissioning and service under one roof – see the full picture, not one fragment."
+            },
+            {
+              "icon": "mortarboard",
+              "title": "Learning on the job",
+              "text": "Work alongside experienced engineers and technicians, with structured training on our machines."
+            },
+            {
+              "icon": "globe2",
+              "title": "Projects in India and abroad",
+              "text": "Machines for national railways, metro operators and workshops, with site work for service roles."
+            },
+            {
+              "icon": "shield-check",
+              "title": "Safety first",
+              "text": "An occupational health and safety system certified to ISO 45001:2018."
+            },
+            {
+              "icon": "people",
+              "title": "A close-knit team",
+              "text": "Annual meets, safety weeks, community camps and celebrations – see [Life at HYT](page:memorialization)."
+            },
+            {
+              "icon": "graph-up-arrow",
+              "title": "Room to grow",
+              "text": "Responsibility comes early for people who show ownership and care."
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "eyebrow": "Areas of work",
+          "heading": "Where you could work",
+          "intro": "Typical functions at our Pune works and on customer sites.",
+          "cols": 2,
+          "items": [
+            "Mechanical design and engineering",
+            "Electrical, CNC and automation engineering",
+            "Production, machining and assembly",
+            "Quality and inspection",
+            "Installation, commissioning and field service",
+            "Projects and site execution",
+            "Sales, marketing and application engineering",
+            "Purchasing, planning and administration",
+            "Internships and graduate trainee programmes"
+          ]
+        },
+        {
+          "type": "text",
+          "id": "openings",
+          "eyebrow": "Current openings",
+          "heading": "Open positions",
+          "paragraphs": [
+            "Current openings will be listed here, with the role, location and the experience we are looking for.",
+            "If there is no listing that fits you, send a speculative application using the form below. Choose the area closest to your interest and we will keep your details on file for suitable roles, as described in our [Privacy Policy](page:privacy-policy)."
+          ],
+          "image": "company/manufacturing-facility",
+          "image_alt": "Sample illustration of the HYT assembly hall with a wheel lathe under construction",
+          "layout": "image-right"
+        },
+        {
+          "type": "steps",
+          "eyebrow": "How hiring works",
+          "heading": "From application to first day",
+          "items": [
+            {
+              "title": "Apply",
+              "text": "Send the form with your CV. Tell us which role or area interests you."
+            },
+            {
+              "title": "Review",
+              "text": "Our HR team and the hiring manager review your application against the role."
+            },
+            {
+              "title": "Interview",
+              "text": "Shortlisted candidates meet the team – in person in Pune or online – and may complete a technical discussion or test."
+            },
+            {
+              "title": "Offer",
+              "text": "Successful candidates receive a written offer setting out role, terms and joining date."
+            },
+            {
+              "title": "Induction",
+              "text": "Your first weeks include safety induction, an introduction to our machines and time with your team."
+            }
+          ]
+        },
+        {
+          "type": "form",
+          "id": "apply",
+          "form": "career",
+          "heading": "Apply to HYT",
+          "intro": "Tell us about yourself and attach your CV as a PDF. We reply to applicants whose profile matches a current or upcoming role."
+        },
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "Job posts on the current site date from 2022 and no current openings are verified. HYT to supply current openings (title, location, experience, short description) and refresh them before launch."
+        }
+      ]
+    },
+    "supplier-registration": {
+      "nav": "Supplier Registration",
+      "title": "Supplier Registration",
+      "description": "Register to supply HYT Engineering with castings, machined parts, fabrications, electrical and CNC systems, hydraulics or services for railway machine tools.",
+      "eyebrow": "Work With Us",
+      "h1": "Supplier registration",
+      "lede": "Every HYT machine is only as reliable as its parts. We welcome capable suppliers who share our standards for quality, delivery and responsible business.",
+      "summary": "Register your company to supply components, systems or services to HYT Engineering.",
+      "blocks": [
+        {
+          "type": "list",
+          "eyebrow": "What we buy",
+          "heading": "Supply categories",
+          "intro": "We source a wide range of materials, components and services for our wheel lathes, wheel and axle shop machines, depot equipment and turnkey projects.",
+          "cols": 2,
+          "items": [
+            "Castings and forgings",
+            "Machined components",
+            "Fabricated and welded structures",
+            "Electrical and control panels",
+            "CNC systems, drives and motors",
+            "Hydraulic and pneumatic systems",
+            "Bearings and transmission parts",
+            "Measuring and sensor equipment",
+            "Civil, erection and installation services",
+            "Logistics, packing and transport"
+          ]
+        },
+        {
+          "type": "features",
+          "eyebrow": "Our expectations",
+          "heading": "What we look for in a supplier",
+          "cols": 3,
+          "items": [
+            {
+              "icon": "patch-check",
+              "title": "Quality",
+              "text": "Parts that meet drawing and specification every time, with inspection records and traceability where required."
+            },
+            {
+              "icon": "calendar-check",
+              "title": "Delivery",
+              "text": "Realistic commitments and early warning if a date is at risk. Our project schedules depend on yours."
+            },
+            {
+              "icon": "file-earmark-text",
+              "title": "Documentation",
+              "text": "Test certificates, material certificates and manuals supplied with the goods, complete and correct."
+            },
+            {
+              "icon": "shield-check",
+              "title": "Safety and environment",
+              "text": "Safe working practices and responsible environmental management, in line with our ISO 45001 and ISO 14001 systems."
+            },
+            {
+              "icon": "clipboard-check",
+              "title": "Compliance",
+              "text": "Ethical, lawful business in line with our [Code of Conduct](page:code-of-conduct) and statutory requirements."
+            },
+            {
+              "icon": "chat-dots",
+              "title": "Communication",
+              "text": "A named contact, quick responses and open discussion when problems arise."
+            }
+          ]
+        },
+        {
+          "type": "steps",
+          "eyebrow": "Process",
+          "heading": "How registration works",
+          "items": [
+            {
+              "title": "Register",
+              "text": "Complete the form below with your company details, supply categories and certifications."
+            },
+            {
+              "title": "Review",
+              "text": "Our purchasing team reviews your profile against our current and planned requirements."
+            },
+            {
+              "title": "Assessment",
+              "text": "Where there is a match, we may request documents, samples or a visit to your facility."
+            },
+            {
+              "title": "Approval",
+              "text": "Approved suppliers are added to our vendor list for the relevant categories."
+            },
+            {
+              "title": "Enquiries and orders",
+              "text": "You receive enquiries when a requirement matches your capabilities. Performance is reviewed regularly."
+            }
+          ]
+        },
+        {
+          "type": "form",
+          "id": "register",
+          "form": "supplier",
+          "heading": "Register your company",
+          "intro": "Registration does not guarantee an enquiry or an order, but it ensures our purchasing team knows your capabilities when a requirement arises."
+        }
+      ]
+    },
+    "memorialization": {
+      "nav": "Life at HYT",
+      "title": "Life at HYT",
+      "description": "Life at HYT Engineering beyond the shop floor: annual meets, safety weeks, blood donation camps, Yoga Day and the moments our team in Pune shares together.",
+      "eyebrow": "Work With Us",
+      "h1": "Life at HYT",
+      "lede": "Our machines are built by people. These are some of the moments we share as a team – at work, for our health and safety, and with our community.",
+      "summary": "Annual meets, safety weeks, blood donation camps and Yoga Day – the people behind HYT's machines.",
+      "blocks": [
+        {
+          "type": "text",
+          "eyebrow": "Our people",
+          "heading": "More than a workplace",
+          "paragraphs": [
+            "Precision machines need people who care about details – and people care more when they feel part of a team. Throughout the year, colleagues from design, the shop floor, service and the office come together for events that have nothing to do with deadlines.",
+            "Our annual meet brings everyone together to celebrate the year's work. Safety week reminds us that every machine we build is built safely. Blood donation camps and our [community initiatives](page:csr) let us give something back, and International Yoga Day is a chance to look after ourselves."
+          ],
+          "image": "company/life-at-hyt",
+          "image_alt": "Sample illustration of HYT colleagues gathered at a company event",
+          "layout": "image-right"
+        },
+        {
+          "type": "features",
+          "eyebrow": "Through the year",
+          "heading": "What we do together",
+          "cols": 4,
+          "items": [
+            {
+              "icon": "people",
+              "title": "Annual meet",
+              "text": "The whole team in one place to look back on the year and celebrate the work of colleagues."
+            },
+            {
+              "icon": "shield-check",
+              "title": "Safety week",
+              "text": "Talks, drills and shop-floor activities that keep safe working habits fresh for everyone."
+            },
+            {
+              "icon": "heart-pulse",
+              "title": "Blood donation camp",
+              "text": "Colleagues volunteer to donate blood for patients who need it."
+            },
+            {
+              "icon": "sun",
+              "title": "International Yoga Day",
+              "text": "A shared session on 21 June that puts health and well-being first."
+            }
+          ]
+        },
+        {
+          "type": "gallery",
+          "heading": "Moments from our year",
+          "items": [
+            {
+              "image": "company/life-at-hyt",
+              "caption": "Sample illustration of the HYT annual meet"
+            },
+            {
+              "image": "company/training-session",
+              "caption": "Sample illustration of a safety week awareness session"
+            },
+            {
+              "image": "company/csr-community",
+              "caption": "Sample illustration of a blood donation camp organised by HYT"
+            },
+            {
+              "image": "company/manufacturing-facility",
+              "caption": "Sample illustration of the HYT team at the Pune works"
+            },
+            {
+              "image": "company/corporate-office",
+              "caption": "Sample illustration of International Yoga Day at HYT"
+            },
+            {
+              "image": "company/quality-inspection",
+              "caption": "Sample illustration of colleagues sharing skills on the shop floor"
+            }
+          ]
+        },
+        {
+          "type": "cards",
+          "eyebrow": "Join us",
+          "heading": "Become part of the team",
+          "cols": 2,
+          "items": [
+            {
+              "page": "career",
+              "icon": "briefcase"
+            },
+            {
+              "page": "csr",
+              "icon": "heart-pulse"
+            }
+          ]
+        },
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "HYT to confirm the new label \"Life at HYT\" (replacing \"Memorialization\") and the move of this page under Work With Us; the URL /memorialization/ is kept. HYT to supply event photographs with captions (event name and year)."
+        }
+      ]
+    }
+  }
+}

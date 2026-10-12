@@ -1,0 +1,407 @@
+{
+  "pages": {
+    "privacy-policy": {
+      "nav": "Informativa sulla privacy",
+      "title": "Informativa sulla privacy",
+      "description": "Come HYT Engineering raccoglie, utilizza, conserva e protegge i dati personali inviati tramite il sito e i diritti previsti dalle leggi indiane, UE e UK.",
+      "eyebrow": "Note legali",
+      "h1": "Informativa sulla privacy",
+      "lede": "La presente informativa spiega quali dati personali raccogliamo tramite questo sito web, perché li raccogliamo, per quanto tempo li conserviamo e come può esercitare i Suoi diritti.",
+      "summary": "Come HYT Engineering tratta i dati personali inviati tramite questo sito web.",
+      "blocks": [
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "Bozza da revisionare. Il consulente legale di HYT deve verificare la presente informativa insieme alla Cookie Policy (l'informativa attuale è stata aggiornata l'ultima volta a dicembre 2021), confermare i periodi di conservazione proposti di seguito, indicare il fornitore del servizio di gestione dei moduli e confermare se è necessario un rappresentante nell'UE o nel Regno Unito."
+        },
+        {
+          "type": "prose",
+          "updated": "Bozza in attesa di revisione legale – ottobre 2026",
+          "sections": [
+            {
+              "heading": "1. Chi siamo",
+              "paragraphs": [
+                "Questo sito web è gestito da HYT Engineering Company Pvt. Ltd., società a responsabilità limitata di diritto indiano (CIN U29299PN1989PTC052195), con sede legale in 29/10, 29/10/1, 29/10/2, D-II Block, MIDC Chinchwad, Pune 411019, Maharashtra, India (“HYT”, “noi”).",
+                "HYT stabilisce le finalità e le modalità del trattamento dei dati personali descritti nella presente informativa. Siamo pertanto il “Data Fiduciary” ai sensi del Digital Personal Data Protection Act, 2023 indiano e, ove si applichi il Regolamento generale sulla protezione dei dati dell'UE o del Regno Unito (GDPR o UK GDPR), il titolare del trattamento.",
+                "Per qualsiasi domanda sulla presente informativa o sui Suoi dati personali, scriva a info@hytengineering.com indicando “Data protection” nell'oggetto, oppure all'indirizzo postale sopra indicato, all'attenzione del Referente per la protezione dei dati."
+              ]
+            },
+            {
+              "heading": "2. Ambito di applicazione",
+              "paragraphs": [
+                "La presente informativa riguarda i dati personali che raccogliamo tramite hytengineering.com e le sue versioni linguistiche, nonché tramite le e-mail e le telefonate che ne derivano. Non si applica ai siti web di terzi a cui rimandiamo, che dispongono di proprie informative.",
+                "Il nostro sito web si rivolge a imprese ed enti pubblici dei settori ferroviario e ingegneristico. La maggior parte dei dati personali che riceviamo sono dati di contatto aziendali di persone che agiscono per conto del proprio datore di lavoro."
+              ]
+            },
+            {
+              "heading": "3. Dati personali che raccogliamo",
+              "paragraphs": [
+                "Raccogliamo solo le informazioni che Lei sceglie di fornirci tramite i nostri moduli o contattandoci direttamente, oltre a un numero limitato di dati tecnici necessari per erogare il sito web in modo sicuro."
+              ],
+              "bullets": [
+                "**Modulo di richiesta:** nome, azienda o organizzazione, e-mail aziendale, paese, numero di telefono, prodotto o servizio di interesse, oggetto e messaggio.",
+                "**Richieste di cataloghi:** nome, azienda, indirizzo e-mail, paese e catalogo richiesto, qualora venga utilizzato un modulo di richiesta.",
+                "**Registrazione fornitori:** ragione sociale, referente, qualifica, e-mail, telefono, sito web, numero GST o partita IVA, categorie di fornitura, anni di attività e certificazioni possedute.",
+                "**Candidature:** nome, e-mail, telefono, posizione per cui si candida, esperienza complessiva, il Suo CV o un link al CV o al profilo professionale, ed eventuali altre informazioni che sceglie di includere.",
+                "**Corrispondenza:** il contenuto di e-mail, lettere e telefonate scambiate con noi e i dati di contatto in esse contenuti.",
+                "**Dati tecnici:** quando visita il sito web, i server del fornitore di hosting elaborano automaticamente il Suo indirizzo IP, il tipo di browser, le pagine richieste e l'ora della richiesta. Ciò è necessario per erogare le pagine e proteggere il sito da usi impropri."
+              ]
+            },
+            {
+              "heading": "4. Finalità del trattamento",
+              "paragraphs": [
+                "Utilizziamo i Suoi dati personali esclusivamente per le seguenti finalità:"
+              ],
+              "bullets": [
+                "Rispondere alla Sua richiesta, preparare offerte tecniche e commerciali e darvi seguito.",
+                "InviarLe il catalogo o i documenti richiesti.",
+                "Valutare le registrazioni dei fornitori, gestire il nostro albo fornitori e contattare i fornitori in merito ai fabbisogni.",
+                "Valutare le candidature, organizzare colloqui e, con il Suo consenso, prenderLa in considerazione per posizioni future.",
+                "Fornire servizi post-vendita e assistenza per le macchine da Lei utilizzate.",
+                "Mantenere sicuro il sito web, prevenire lo spam e individuare usi impropri.",
+                "Adempiere ai nostri obblighi di legge, ad esempio di conservazione della documentazione fiscale e societaria, e accertare, esercitare o difendere un diritto in sede giudiziaria."
+              ]
+            },
+            {
+              "heading": "5. Base giuridica del trattamento",
+              "paragraphs": [
+                "**India.** Trattiamo i dati personali in conformità al Digital Personal Data Protection Act, 2023 e ai relativi regolamenti attuativi man mano che entrano in vigore. Quando invia un modulo, Lei fornisce volontariamente i Suoi dati personali per una finalità specifica – ad esempio per ricevere una risposta o essere preso in considerazione per una posizione – e noi li utilizziamo per tale finalità. Laddove ci basiamo sul Suo consenso, può revocarlo in qualsiasi momento; la revoca non pregiudica la liceità del trattamento già effettuato.",
+                "**Unione europea e Regno Unito.** Ove si applichi il GDPR o lo UK GDPR, ci basiamo sulle seguenti basi giuridiche:"
+              ],
+              "bullets": [
+                "esecuzione di misure precontrattuali adottate su Sua richiesta ed esecuzione di un contratto (articolo 6, paragrafo 1, lettera b) – per richieste, offerte, rapporti con i fornitori e selezione del personale;",
+                "il nostro legittimo interesse a gestire la nostra attività, rispondere alla corrispondenza commerciale e mantenere sicuro il sito web (articolo 6, paragrafo 1, lettera f), bilanciato con i Suoi diritti e interessi;",
+                "il Suo consenso (articolo 6, paragrafo 1, lettera a) – ad esempio per conservare una candidatura in vista di posizioni future;",
+                "l'adempimento di obblighi di legge (articolo 6, paragrafo 1, lettera c) – ad esempio gli obblighi di conservazione della documentazione."
+              ]
+            },
+            {
+              "heading": "6. Destinatari dei dati",
+              "paragraphs": [
+                "I Suoi dati sono visibili solo al personale HYT che ne ha bisogno per le finalità sopra indicate. Ci avvaliamo di un numero ristretto di fornitori di servizi che trattano i dati per nostro conto, in base a un contratto e solo secondo le nostre istruzioni:"
+              ],
+              "bullets": [
+                "il fornitore di hosting del sito web;",
+                "il servizio di gestione dei moduli che riceve e inoltra i dati inviati tramite i nostri moduli (il fornitore sarà indicato qui al momento della pubblicazione del sito);",
+                "i nostri fornitori di servizi e-mail e IT;",
+                "consulenti professionali come revisori e avvocati, ove necessario."
+              ]
+            },
+            {
+              "heading": "7. Altre comunicazioni di dati",
+              "paragraphs": [
+                "Non vendiamo dati personali e non li utilizziamo per processi decisionali automatizzati né per profilazione a fini pubblicitari.",
+                "Possiamo comunicare dati personali qualora ciò sia richiesto dalla legge, da un provvedimento giudiziario o da un'autorità competente, oppure per tutelare i nostri diritti, beni o la nostra sicurezza. In caso di riorganizzazione o cessione dell'attività di HYT, i dati personali possono essere trasferiti al successore con le medesime tutele."
+              ]
+            },
+            {
+              "heading": "8. Trasferimenti internazionali",
+              "paragraphs": [
+                "HYT ha sede in India e i Suoi dati saranno trattati in India. Alcuni dei nostri fornitori di servizi possono conservare o trattare dati in altri paesi.",
+                "I trasferimenti al di fuori dell'India avvengono in conformità al Digital Personal Data Protection Act, 2023, comprese le eventuali restrizioni notificate dal Governo indiano. Quando dati provenienti dall'UE o dal Regno Unito vengono trasferiti in India o in un altro paese privo di una decisione di adeguatezza, adottiamo le garanzie riconosciute dal GDPR o dallo UK GDPR, come le clausole contrattuali tipo della Commissione europea o l'International Data Transfer Addendum del Regno Unito. Può chiederci i dettagli di tali garanzie."
+              ]
+            },
+            {
+              "heading": "9. Periodo di conservazione",
+              "paragraphs": [
+                "Conserviamo i dati personali solo per il tempo necessario alla finalità per cui sono stati raccolti, dopodiché li cancelliamo o li rendiamo anonimi. I nostri periodi standard sono:"
+              ],
+              "bullets": [
+                "**Richieste di informazioni e di cataloghi** che non portano a un rapporto commerciale: fino a 3 anni dall'ultimo contatto.",
+                "**Dati di clienti e fornitori:** per la durata del rapporto e successivamente per tutto il tempo in cui la normativa fiscale e societaria indiana ci impone di conservare la documentazione aziendale.",
+                "**Registrazioni di fornitori** che non portano a un'approvazione: fino a 3 anni dall'invio, salvo Sua richiesta di cancellazione anticipata.",
+                "**Candidature:** per la durata del processo di selezione e fino a 12 mesi dopo; più a lungo solo con il Suo consenso. I dati dei candidati assunti da HYT entrano a far parte del fascicolo del dipendente.",
+                "**Log tecnici del server:** per un breve periodo stabilito dal fornitore di hosting a fini di sicurezza."
+              ]
+            },
+            {
+              "heading": "10. I Suoi diritti",
+              "paragraphs": [
+                "**Ai sensi della legge indiana** Lei ha il diritto di ottenere informazioni sui dati personali che trattiamo che La riguardano, di ottenerne la rettifica, l'integrazione, l'aggiornamento o la cancellazione, di revocare il consenso, di vedere esaminati da noi i Suoi reclami e di designare un'altra persona che eserciti i Suoi diritti in caso di decesso o incapacità.",
+                "**Ai sensi del GDPR e dello UK GDPR** Lei ha il diritto di accedere ai Suoi dati, di ottenerne la rettifica o la cancellazione, di chiedere la limitazione del trattamento o di opporsi allo stesso, alla portabilità dei dati e di revocare il consenso in qualsiasi momento.",
+                "**In altri paesi, compresi Stati Uniti e Canada,** può chiederci l'accesso, la rettifica o la cancellazione dei Suoi dati personali e risponderemo in conformità alla legge a Lei applicabile. Non vendiamo dati personali né li condividiamo per pubblicità mirata."
+              ]
+            },
+            {
+              "heading": "11. Come esercitare i Suoi diritti o presentare un reclamo",
+              "paragraphs": [
+                "Invii la Sua richiesta a info@hytengineering.com indicando “Data protection” nell'oggetto. Potremmo dover verificare la Sua identità prima di procedere. Rispondiamo senza ingiustificato ritardo ed entro i termini previsti dalla legge applicabile – per le richieste ai sensi del GDPR o dello UK GDPR, di norma entro un mese.",
+                "Se non è soddisfatto della nostra risposta, può presentare reclamo al Data Protection Board of India non appena le relative procedure saranno disponibili, all'autorità di controllo per la protezione dei dati del paese UE in cui risiede o lavora oppure, nel Regno Unito, all'Information Commissioner's Office. Le saremmo grati se ci desse prima la possibilità di risolvere la questione."
+              ]
+            },
+            {
+              "heading": "12. Sicurezza",
+              "paragraphs": [
+                "Proteggiamo i dati personali con misure tecniche e organizzative adeguate. Il sito web è servito tramite connessione cifrata (HTTPS), l'accesso ai dati inviati è limitato al personale che ne ha necessità e i nostri fornitori di servizi sono vincolati da obblighi di riservatezza e sicurezza. Nessuna trasmissione via Internet è completamente sicura: La preghiamo pertanto di non inviare dati personali sensibili tramite i nostri moduli."
+              ]
+            },
+            {
+              "heading": "13. Cookie",
+              "paragraphs": [
+                "Questo sito web attualmente non imposta cookie né utilizza strumenti di analisi o pubblicitari. I dettagli sono riportati nella nostra [Cookie Policy](page:cookie-policy)."
+              ]
+            },
+            {
+              "heading": "14. Minori",
+              "paragraphs": [
+                "Questo sito web è destinato a utenti professionali e non si rivolge ai minori. Non raccogliamo consapevolmente dati personali di persone di età inferiore a 18 anni. Se ritiene che un minore ci abbia inviato dati personali, La preghiamo di contattarci e provvederemo a cancellarli."
+              ]
+            },
+            {
+              "heading": "15. Modifiche alla presente informativa",
+              "paragraphs": [
+                "Possiamo aggiornare la presente informativa in caso di modifiche al nostro sito web, ai nostri fornitori di servizi o alla normativa. La data riportata in cima a questa pagina indica l'ultima revisione. Le modifiche significative saranno evidenziate in questa pagina."
+              ]
+            },
+            {
+              "heading": "16. Contatti",
+              "paragraphs": [
+                "HYT Engineering Company Pvt. Ltd., 29/10, 29/10/1, 29/10/2, D-II Block, MIDC Chinchwad, Pune 411019, Maharashtra, India. E-mail: info@hytengineering.com. Telefono: +91 20 6634 3900."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "cookie-policy": {
+      "nav": "Cookie Policy",
+      "title": "Cookie Policy",
+      "description": "Il sito HYT Engineering non imposta cookie né usa strumenti di analisi o tracciamento pubblicitario. Scopra quale memorizzazione tecnica limitata utilizza.",
+      "eyebrow": "Note legali",
+      "h1": "Cookie Policy",
+      "lede": "In breve: questo sito web non imposta cookie, non utilizza strumenti di analisi e non La traccia. Questa pagina spiega i dettagli.",
+      "summary": "Quali cookie e tecnologie simili utilizza questo sito web – attualmente nessuno oltre a quanto strettamente necessario.",
+      "blocks": [
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "Bozza da revisionare insieme all'Informativa sulla privacy. Il consulente legale di HYT deve confermare il testo e il team web deve verificare prima della pubblicazione che non siano attivi cookie, strumenti di analisi o contenuti incorporati di terzi. Aggiornare la presente policy e aggiungere un banner di consenso prima di introdurre qualsiasi strumento di questo tipo."
+        },
+        {
+          "type": "prose",
+          "updated": "Bozza in attesa di revisione legale – ottobre 2026",
+          "sections": [
+            {
+              "heading": "1. Sintesi",
+              "bullets": [
+                "Su questo sito web non impostiamo cookie.",
+                "Non utilizziamo strumenti di analisi, pubblicità, social media o altri strumenti di tracciamento.",
+                "Font e immagini vengono forniti dal nostro sito web, non da servizi di terzi.",
+                "Viene utilizzata solo la memorizzazione tecnica strettamente necessaria, come descritto di seguito.",
+                "Poiché non vengono utilizzati cookie facoltativi, non mostriamo alcun banner per il consenso ai cookie."
+              ]
+            },
+            {
+              "heading": "2. Cosa sono i cookie e le tecnologie simili",
+              "paragraphs": [
+                "I cookie sono piccoli file di testo che un sito web memorizza nel Suo browser. Tra le tecnologie simili rientrano il local storage e il session storage del browser, i pixel e il fingerprinting del dispositivo. Possono servire a far funzionare un sito web, a ricordare le Sue preferenze, a misurare le visite o a tracciarLa tra diversi siti web a fini pubblicitari.",
+                "Le leggi sulla protezione dei dati e sulle comunicazioni elettroniche – tra cui le norme ePrivacy dell'UE e le UK Privacy and Electronic Communications Regulations – richiedono il consenso per qualsiasi tecnologia di questo tipo che non sia strettamente necessaria a fornire il servizio da Lei richiesto."
+              ]
+            },
+            {
+              "heading": "3. Cosa utilizza questo sito web",
+              "paragraphs": [
+                "Questo sito web utilizza solo quanto strettamente necessario per visualizzare le pagine e far funzionare i moduli. Il Suo browser può conservare piccole quantità di informazioni sul Suo dispositivo per queste funzioni tecniche – ad esempio mentre compila un modulo. Tali informazioni non vengono utilizzate per identificarLa o tracciarLa e non vengono condivise con noi né con altri.",
+                "Quando carica una pagina, i server del nostro fornitore di hosting elaborano dati tecnici come il Suo indirizzo IP per erogare la pagina e proteggere il sito. Non si tratta di un cookie; il trattamento è descritto nella nostra [Informativa sulla privacy](page:privacy-policy)."
+              ]
+            },
+            {
+              "heading": "4. Moduli e download",
+              "paragraphs": [
+                "Quando invia un modulo, i dati inseriti vengono trasmessi al nostro fornitore del servizio di gestione dei moduli e da questo a HYT. In questo processo non viene impostato alcun cookie. Se in futuro aggiungessimo un servizio antispam basato su cookie, aggiorneremo la presente policy e chiederemo il consenso ove necessario. Il download di un catalogo non imposta alcun cookie."
+              ]
+            },
+            {
+              "heading": "5. Link ad altri siti web",
+              "paragraphs": [
+                "Alcuni link – ad esempio a un servizio di mappe o a una pubblicazione esterna – conducono ad altri siti web. Tali siti possono impostare propri cookie secondo le proprie policy, sulle quali non abbiamo alcun controllo."
+              ]
+            },
+            {
+              "heading": "6. In caso di modifiche",
+              "paragraphs": [
+                "Se decidessimo di aggiungere strumenti di analisi, video incorporati, mappe incorporate o qualsiasi altra funzione che imposti cookie non essenziali o tecnologie simili, provvederemo a:"
+              ],
+              "bullets": [
+                "aggiornare prima la presente policy, elencando ogni cookie con il relativo fornitore, finalità e durata;",
+                "mostrare un banner di consenso, in modo che i cookie non essenziali vengano impostati solo dopo la Sua accettazione;",
+                "rendere il rifiuto o la revoca del consenso semplici quanto la sua prestazione."
+              ]
+            },
+            {
+              "heading": "7. Gestione dei cookie nel browser",
+              "paragraphs": [
+                "Può visualizzare, bloccare e cancellare in qualsiasi momento i cookie e i dati dei siti memorizzati tramite le impostazioni del browser. Il blocco della memorizzazione strettamente necessaria può impedire il corretto funzionamento di alcune funzioni, come i moduli."
+              ]
+            },
+            {
+              "heading": "8. Contatti",
+              "paragraphs": [
+                "Eventuali domande sulla presente policy possono essere inviate a info@hytengineering.com indicando “Data protection” nell'oggetto."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "disclaimer": {
+      "nav": "Note legali",
+      "title": "Note legali del sito web",
+      "description": "Condizioni d'uso del sito HYT: accuratezza, dati tecnici soggetti a modifiche, immagini di esempio, link esterni, responsabilità e legge applicabile.",
+      "eyebrow": "Note legali",
+      "h1": "Note legali del sito web",
+      "lede": "Le informazioni contenute in questo sito web sono fornite in buona fede per aiutarLa a conoscere i prodotti e i servizi di HYT. La preghiamo di leggere le presenti condizioni prima di farvi affidamento.",
+      "summary": "Condizioni d'uso del sito web e delle informazioni in esso contenute.",
+      "blocks": [
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "Bozza da revisionare. Le attuali note legali sono state aggiornate l'ultima volta a ottobre 2021. Il consulente legale di HYT deve verificare e approvare il testo, compresa la clausola sulla legge applicabile e sul foro competente."
+        },
+        {
+          "type": "prose",
+          "updated": "Bozza in attesa di revisione legale – ottobre 2026",
+          "sections": [
+            {
+              "heading": "1. Informazioni su questo sito web",
+              "paragraphs": [
+                "Questo sito web è pubblicato da HYT Engineering Company Pvt. Ltd., 29/10, 29/10/1, 29/10/2, D-II Block, MIDC Chinchwad, Pune 411019, Maharashtra, India (“HYT”). Utilizzando il sito, Lei accetta le condizioni riportate in questa pagina.",
+                "I contenuti sono informazioni di carattere generale su HYT, sui suoi prodotti e sui suoi servizi. Non costituiscono consulenza professionale, tecnica o legale per un'applicazione specifica e non sostituiscono una consulenza tecnica con i nostri ingegneri."
+              ]
+            },
+            {
+              "heading": "2. Accuratezza delle informazioni",
+              "paragraphs": [
+                "Ci impegniamo a mantenere accurate e aggiornate le informazioni presenti su questo sito web, ma non possiamo garantire che siano in ogni momento complete, corrette o aggiornate. Possiamo modificare i contenuti in qualsiasi momento e senza preavviso."
+              ]
+            },
+            {
+              "heading": "3. Dati tecnici soggetti a modifiche",
+              "paragraphs": [
+                "Descrizioni delle macchine, specifiche, capacità, tempi ciclo e dati prestazionali sono indicativi. Le nostre macchine vengono configurate in base allo scartamento, ai profili delle ruote e ai veicoli di ciascun cliente, e sviluppiamo costantemente i nostri progetti. Sono vincolanti esclusivamente i dati tecnici confermati in un'offerta tecnica scritta e nel contratto che ne deriva.",
+                "Laddove un valore sia indicato come “Su richiesta”, esso dipende dalla configurazione e sarà specificato nell'offerta."
+              ]
+            },
+            {
+              "heading": "4. Immagini e illustrazioni",
+              "paragraphs": [
+                "Alcune immagini di questo sito web sono illustrazioni di esempio create a scopo grafico. Mostrano la tipologia generale di macchina o situazione descritta e possono non rappresentare una macchina, un'installazione, un sito cliente o un evento HYT reale. Saranno progressivamente sostituite da fotografie."
+              ]
+            },
+            {
+              "heading": "5. Nessuna offerta",
+              "paragraphs": [
+                "Nessun contenuto di questo sito web costituisce un'offerta suscettibile di accettazione o un impegno vincolante. Prezzi, termini di consegna e specifiche vengono concordati esclusivamente per iscritto. I cataloghi e gli altri documenti scaricabili hanno carattere puramente informativo."
+              ]
+            },
+            {
+              "heading": "6. Clienti, partner e marchi",
+              "paragraphs": [
+                "I riferimenti a clienti, progetti e partner hanno scopo informativo. I nomi di prodotti e aziende di terzi sono marchi o denominazioni dei rispettivi titolari e sono utilizzati unicamente per identificarli; il loro utilizzo non implica alcuna approvazione. Il nome e il logo HYT sono di proprietà di HYT Engineering Company Pvt. Ltd."
+              ]
+            },
+            {
+              "heading": "7. Proprietà intellettuale",
+              "paragraphs": [
+                "Testi, design, grafica, disegni e documenti di questo sito web sono protetti dal diritto d'autore e da altri diritti di proprietà intellettuale di HYT o dei suoi licenzianti. È consentito visualizzare, scaricare e stampare i contenuti per Sua informazione personale e per la valutazione dei prodotti HYT. Qualsiasi altra riproduzione, modifica o distribuzione richiede la nostra preventiva autorizzazione scritta."
+              ]
+            },
+            {
+              "heading": "8. Link esterni",
+              "paragraphs": [
+                "Questo sito web contiene link a siti gestiti da terzi. Non abbiamo alcun controllo sul loro contenuto o sulla loro disponibilità e non ci assumiamo alcuna responsabilità al riguardo. Un link non implica che approviamo il sito collegato o il suo gestore."
+              ]
+            },
+            {
+              "heading": "9. Disponibilità e sicurezza",
+              "paragraphs": [
+                "Ci impegniamo a mantenere il sito web disponibile e privo di codice dannoso, ma non garantiamo un accesso ininterrotto o privo di errori. La preghiamo di utilizzare software di sicurezza aggiornati durante la navigazione e il download di file."
+              ]
+            },
+            {
+              "heading": "10. Limitazione di responsabilità",
+              "paragraphs": [
+                "Nella misura massima consentita dalla legge, HYT non è responsabile di alcuna perdita o danno derivante dall'utilizzo di questo sito web o dei suoi contenuti, o dall'affidamento su di essi, compresi danni indiretti o consequenziali, mancato guadagno, perdita di produzione o perdita di dati.",
+                "Nessuna disposizione delle presenti note legali limita o esclude la responsabilità che non può essere limitata o esclusa ai sensi della legge applicabile. La nostra responsabilità per i prodotti e i servizi che forniamo è disciplinata esclusivamente dal contratto in base al quale vengono forniti."
+              ]
+            },
+            {
+              "heading": "11. Versioni linguistiche",
+              "paragraphs": [
+                "Questo sito web è pubblicato in più lingue. In caso di discrepanze tra le versioni linguistiche, prevale la versione inglese (Global)."
+              ]
+            },
+            {
+              "heading": "12. Legge applicabile e foro competente",
+              "paragraphs": [
+                "Le presenti note legali e qualsiasi controversia derivante dall'utilizzo di questo sito web sono disciplinate dalla legge indiana. Il foro competente in via esclusiva è quello di Pune, Maharashtra. Restano salvi gli eventuali diritti inderogabili che Le spettano ai sensi della legge del paese in cui risiede."
+              ]
+            },
+            {
+              "heading": "13. Contatti",
+              "paragraphs": [
+                "Eventuali domande sulle presenti note legali possono essere inviate a info@hytengineering.com."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "annual-return": {
+      "nav": "Annual Return",
+      "title": "Annual Return – pubblicazione ai sensi della Section 92(3)",
+      "description": "HYT Engineering Company Pvt. Ltd. pubblica qui l'Annual Return di ogni esercizio, ai sensi della Section 92(3) del Companies Act, 2013 indiano.",
+      "eyebrow": "Note legali",
+      "h1": "Annual Return",
+      "lede": "Questa pagina pubblica l'Annual Return (dichiarazione annuale) di HYT Engineering Company Pvt. Ltd., come previsto dal Companies Act, 2013.",
+      "summary": "L'Annual Return della società ai sensi della Section 92(3) del Companies Act, 2013.",
+      "blocks": [
+        {
+          "type": "prose",
+          "updated": "In attesa dei documenti – ottobre 2026",
+          "sections": [
+            {
+              "heading": "Perché esiste questa pagina",
+              "paragraphs": [
+                "La Section 92(3) del Companies Act, 2013 impone a ogni società dotata di un sito web di pubblicarvi una copia del proprio Annual Return e di indicarne il link nella relazione del Consiglio di amministrazione (Board's report). Per HYT Engineering Company Pvt. Ltd. (CIN U29299PN1989PTC052195) tale pubblicazione avviene in questa pagina."
+              ]
+            },
+            {
+              "heading": "Contenuto dell'Annual Return",
+              "paragraphs": [
+                "L'Annual Return viene depositato ogni anno presso il Registrar of Companies nella forma prescritta dalle Companies (Management and Administration) Rules, 2014. Riporta, alla chiusura dell'esercizio, informazioni tra cui:"
+              ],
+              "bullets": [
+                "la sede legale e le principali attività della società;",
+                "il capitale sociale e la composizione dell'azionariato;",
+                "i soci e le variazioni nella compagine sociale;",
+                "gli amministratori e i dirigenti con responsabilità strategiche (key managerial personnel), con le variazioni intervenute nell'anno;",
+                "le assemblee dei soci e le riunioni del Consiglio di amministrazione, con le relative presenze;",
+                "i compensi degli amministratori e dei dirigenti con responsabilità strategiche;",
+                "eventuali sanzioni o definizioni agevolate di illeciti (compounding of offences);",
+                "le altre informazioni e certificazioni richieste dalla legge."
+              ]
+            },
+            {
+              "heading": "Documenti",
+              "paragraphs": [
+                "L'Annual Return di ciascun esercizio sarà pubblicato in questa pagina in formato PDF, a partire dall'anno più recente. I depositi obbligatori della società possono essere consultati anche tramite il Ministry of Corporate Affairs."
+              ]
+            },
+            {
+              "heading": "Contatti",
+              "paragraphs": [
+                "Eventuali domande su questa pagina possono essere rivolte al Company Secretary, HYT Engineering Company Pvt. Ltd., 29/10, 29/10/1, 29/10/2, D-II Block, MIDC Chinchwad, Pune 411019, Maharashtra, India, oppure a info@hytengineering.com. Per saperne di più su come gestiamo la società, consulti la pagina [Compliance](page:compliance)."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "Il Company Secretary deve fornire il PDF dell'Annual Return per ciascun esercizio (con l'anno nel nome del file) per poterlo pubblicare qui. L'URL /annual-return-2/ è citato nei Board's report e non deve cambiare; qualsiasi modifica futura deve essere prima confermata dal Company Secretary."
+        }
+      ]
+    }
+  }
+}
