@@ -245,7 +245,9 @@
     "certified": "ISO 9001:2015 · ISO 14001:2015 · ISO 45001:2018",
     "sample_notice": "Preview build: images and the catalog are sample material for design and testing.",
     "follow": "Contact",
-    "language": "Language"
+    "language": "Language",
+    "cta_heading": "Planning a wheel lathe or workshop project?",
+    "cta_text": "Talk directly to an HYT application engineer about your fleet, wheel profiles and workshop."
   },
   "a11y": {
     "opens_new_tab": "(opens in a new tab)",

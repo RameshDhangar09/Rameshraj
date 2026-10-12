@@ -245,7 +245,9 @@
     "certified": "ISO 9001:2015 · ISO 14001:2015 · ISO 45001:2018",
     "sample_notice": "Versione di anteprima: le immagini e il catalogo sono materiale di esempio per la progettazione grafica e i test.",
     "follow": "Contatti",
-    "language": "Lingua"
+    "language": "Lingua",
+    "cta_heading": "Sta pianificando un tornio per sale montate o un progetto di officina?",
+    "cta_text": "Parli direttamente con un ingegnere applicativo HYT della Sua flotta, dei profili delle ruote e dell’officina."
   },
   "a11y": {
     "opens_new_tab": "(si apre in una nuova scheda)",

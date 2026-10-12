@@ -245,7 +245,9 @@
     "certified": "ISO 9001:2015 · ISO 14001:2015 · ISO 45001:2018",
     "sample_notice": "Previewversie: afbeeldingen en catalogus zijn voorbeeldmateriaal voor ontwerp- en testdoeleinden.",
     "follow": "Contact",
-    "language": "Taal"
+    "language": "Taal",
+    "cta_heading": "Plant u een wielenbank of een werkplaatsproject?",
+    "cta_text": "Spreek rechtstreeks met een applicatie-engineer van HYT over uw vloot, wielprofielen en werkplaats."
   },
   "a11y": {
     "opens_new_tab": "(opent in een nieuw tabblad)",

@@ -245,7 +245,9 @@
     "certified": "ISO 9001:2015 · ISO 14001:2015 · ISO 45001:2018",
     "sample_notice": "Version de prévisualisation : les images et le catalogue sont des contenus d’exemple destinés à la conception et aux tests.",
     "follow": "Contact",
-    "language": "Langue"
+    "language": "Langue",
+    "cta_heading": "Vous préparez un projet de tour à roues ou d’atelier ?",
+    "cta_text": "Échangez directement avec un ingénieur d’application HYT sur votre flotte, vos profils de roues et votre atelier."
   },
   "a11y": {
     "opens_new_tab": "(s’ouvre dans un nouvel onglet)",

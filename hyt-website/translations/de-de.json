@@ -245,7 +245,9 @@
     "certified": "ISO 9001:2015 · ISO 14001:2015 · ISO 45001:2018",
     "sample_notice": "Vorschauversion: Bilder und Katalog sind Beispielmaterial für Gestaltung und Tests.",
     "follow": "Kontakt",
-    "language": "Sprache"
+    "language": "Sprache",
+    "cta_heading": "Planen Sie eine Radsatzdrehmaschine oder ein Werkstattprojekt?",
+    "cta_text": "Sprechen Sie direkt mit einem HYT-Anwendungsingenieur über Ihre Flotte, Radprofile und Werkstatt."
   },
   "a11y": {
     "opens_new_tab": "(öffnet in neuem Tab)",
