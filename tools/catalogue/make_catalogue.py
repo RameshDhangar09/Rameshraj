@@ -48,7 +48,7 @@ cell = ParagraphStyle("cell", parent=body, fontSize=7.8, leading=10)
 cellb = ParagraphStyle("cellb", parent=cell, fontName="Helvetica-Bold", textColor=NAVY)
 
 
-def image(c, name, x, y, w, h):
+def image(c, name, x, y, w, h, fx=0.5):
     f = IMG / f"{name}.jpg"
     if f.exists():
         ir = ImageReader(str(f))
@@ -60,7 +60,7 @@ def image(c, name, x, y, w, h):
         p = c.beginPath()
         p.rect(x, y, w, h)
         c.clipPath(p, stroke=0, fill=0)
-        c.drawImage(ir, x - (dw - w) / 2, y - (dh - h) / 2, dw, dh)
+        c.drawImage(ir, x - (dw - w) * fx, y - (dh - h) / 2, dw, dh)
         c.restoreState()
     else:
         c.setFillColor(LIGHT)
@@ -98,7 +98,7 @@ def chrome(c, n, title=""):
 
 
 def cover(c):
-    image(c, "homepage/hero-wheel-lathe-workshop", 0, H * 0.38, W, H * 0.62)
+    image(c, "homepage/hero-wheel-lathe-workshop", 0, H * 0.38, W, H * 0.62, fx=0.66)
     c.setFillColor(NAVY)
     c.rect(0, 0, W, H * 0.38, stroke=0, fill=1)
     c.setFillColor(ORANGE)
