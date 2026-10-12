@@ -18,12 +18,24 @@ projects and after-sales services).
 
 ## 1. Preview locally
 
+**No Python needed (Windows):** double-click `start-website.bat` in the project
+folder. It starts a small preview server (PowerShell, built into Windows) and
+opens http://localhost:8080/ in your browser. Close the window to stop it.
+
+**Visual Studio Code:** open the project folder, install the recommended
+**Live Server** extension (VS Code offers it automatically), then click
+**Go Live** in the status bar. The included `.vscode/settings.json` already sets
+the web root to `hyt-website/`, so the site opens at http://127.0.0.1:5500/.
+
+**With Python 3:**
+
 ```bash
 cd hyt-website
 python3 -m http.server 8080
 # open http://localhost:8080/  (and /de-de/, /fr-fr/, /it-it/, /nl-nl/, /en-us/)
 ```
 
+Python is only needed to *rebuild* pages after editing the JSON content – not to preview.
 Use a local web server rather than opening files directly: root-relative links
 (`/products/`) and ES modules need `http://`. Any static server works
 (`npx serve hyt-website`, VS Code Live Server, Apache, nginx).
