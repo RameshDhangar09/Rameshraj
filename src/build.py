@@ -882,7 +882,7 @@ def footer(ctx, pid):
     tel = lambda n: "tel:" + re.sub(r"[^\d+]", "", n)
     arrow = icon("arrow-right", "footer__link-arrow")
 
-    # 1. Contact band
+    # 1. Contact card (orange brand band)
     tiles = [
         ("telephone", con["phone_heading"], con["phone"], tel(con["phone"])),
         ("headset", con["service_heading"], con["tollfree"], tel(con["tollfree"])),
@@ -892,43 +892,36 @@ def footer(ctx, pid):
         f'<li><a class="footer-tile" href="{esc(href)}"><span class="footer-tile__icon">{icon(ic)}</span>'
         f'<span class="footer-tile__text"><span class="footer-tile__label">{esc(label)}</span>'
         f'<span class="footer-tile__value">{esc(value)}</span></span></a></li>' for ic, label, value, href in tiles)
-    band = (f'<div class="footer-band"><div class="footer-band__intro">'
+    band = (f'<div class="footer-band reveal"><div class="footer-band__intro">'
             f'<h2 class="footer-band__title">{esc(ctx.t("footer.cta_heading"))}</h2>'
             f'<p class="footer-band__text">{esc(ctx.t("footer.cta_text"))}</p></div>'
             f'<ul class="footer-band__tiles">{tiles_html}</ul>'
-            f'<a class="btn-hyt btn-hyt--primary footer-band__btn" href="{esc(ctx.url("contact-us"))}">{esc(ctx.t("menu.contact_button"))} {icon("arrow-right")}</a></div>')
+            f'<a class="btn-hyt footer-band__btn" href="{esc(ctx.url("contact-us"))}">{esc(ctx.t("menu.contact_button"))} {icon("arrow-right")}</a></div>')
 
-    # 2. Brand row
+    # 2. Brand column + link columns (pages marked "Footer" in the workbook)
+    certs = "".join(f'<li>{icon("patch-check-fill")}<span>{esc(x.strip())}</span></li>' for x in ctx.t("footer.certified").split("·"))
     brand = (f'<div class="footer-brand"><a href="{esc(ctx.url("home"))}" class="footer-brand__logo">'
-             f'<img src="/assets/images/logo/hyt-logo-reversed.svg" alt="{esc(c["company_name"])}" width="188" height="93" loading="lazy"></a>'
-             f'<p class="footer-brand__about">{esc(ctx.t("footer.about"))}</p></div>')
-
-    # 3. Link columns (pages marked "Footer" in the workbook)
+             f'<img src="/assets/images/logo/hyt-logo.svg" alt="{esc(c["company_name"])}" width="188" height="93" loading="lazy"></a>'
+             f'<p class="footer-brand__about">{esc(ctx.t("footer.about"))}</p>'
+             f'<address class="footer-brand__address">{icon("geo-alt")}<span>{"<br>".join(esc(x) for x in con["address_lines"][1:])}</span></address>'
+             f'<ul class="footer-certs" aria-label="{esc(ctx.nav("certifications"))}">{certs}</ul></div>')
     cols = []
     for col in R.FOOTER:
         links = "".join(f'<li><a href="{esc(ctx.url(x))}">{arrow}<span>{fmt(esc(ctx.nav(x)))}</span></a></li>' for x in col["items"])
         cols.append(f'<div class="footer-col"><h2 class="footer__heading">{esc(ctx.t("footer." + col["heading"]))}</h2><ul class="footer__links">{links}</ul></div>')
-    nav = f'<nav class="footer-cols" aria-label="{esc(ctx.t("footer.company"))}">{"".join(cols)}</nav>'
+    main = f'<div class="footer-main">{brand}<nav class="footer-cols" aria-label="{esc(ctx.t("footer.company"))}">{"".join(cols)}</nav></div>'
 
-    # 4. Office, certifications, languages
-    certs = "".join(f'<li>{icon("patch-check")}<span>{esc(x.strip())}</span></li>' for x in ctx.t("footer.certified").split("·"))
-    langs = "".join(f'<li><a href="{esc(L["prefix"] + R.PAGES[pid]["path"])}" hreflang="{L["hreflang"]}" lang="{L["html"]}"'
-                    f' title="{esc(L["name"])}"{" aria-current=true" if L["code"] == ctx.lang["code"] else ""} data-lang-link>'
-                    f'<span class="footer-lang__code">{L["short"]}</span><span class="footer-lang__name">{esc(L["name"])}</span></a></li>' for L in R.LANGS)
-    info = (f'<div class="footer-info">'
-            f'<div class="footer-info__block"><h2 class="footer__heading">{esc(con["office_heading"])}</h2>'
-            f'<address class="footer-info__address">{icon("geo-alt")}<span>{"<br>".join(esc(x) for x in con["address_lines"])}</span></address></div>'
-            f'<div class="footer-info__block"><h2 class="footer__heading">{esc(ctx.nav("certifications"))}</h2>'
-            f'<ul class="footer-certs">{certs}</ul></div>'
-            f'<div class="footer-info__block"><h2 class="footer__heading">{esc(ctx.t("footer.language"))}</h2><ul class="footer-langs">{langs}</ul></div></div>')
-
-    # 5. Bottom bar
+    # 3. Bottom strip: copyright, languages, legal
+    langs = "".join(f'<li><a href="{esc(L["prefix"] + R.PAGES[pid]["path"])}" hreflang="{L["hreflang"]}" lang="{L["html"]}" title="{esc(L["name"])}"'
+                    f'{" aria-current=true" if L["code"] == ctx.lang["code"] else ""} data-lang-link>{L["short"]}<span class="visually-hidden"> – {esc(L["name"])}</span></a></li>' for L in R.LANGS)
     legal = "".join(f'<li><a href="{esc(ctx.url(x))}">{esc(ctx.nav(x))}</a></li>' for x in R.LEGAL_FOOTER)
     sample = f'<p class="footer__sample">{icon("info-circle")} {esc(ctx.t("footer.sample_notice"))}</p>' if not PRODUCTION else ""
-    bottom = (f'<div class="footer-bottom"><p class="footer-bottom__copy">{esc(ctx.t("footer.copyright").replace("{year}", str(date.today().year)))}</p>'
-              f'<nav aria-label="{esc(ctx.t("footer.legal_label"))}"><ul class="footer-bottom__legal">{legal}</ul></nav></div>{sample}')
+    bottom = (f'<div class="footer-bottom"><div class="container"><div class="footer-bottom__row">'
+              f'<p class="footer-bottom__copy">{esc(ctx.t("footer.copyright").replace("{year}", str(date.today().year)))}</p>'
+              f'<div class="footer-bottom__langs">{icon("globe2")}<ul class="footer-langs" aria-label="{esc(ctx.t("footer.language"))}">{langs}</ul></div>'
+              f'<nav aria-label="{esc(ctx.t("footer.legal_label"))}"><ul class="footer-bottom__legal">{legal}</ul></nav></div>{sample}</div></div>')
 
-    return (f'<footer class="site-footer"><div class="container">{band}{brand}{nav}{info}{bottom}</div>'
+    return (f'<footer class="site-footer"><div class="container">{band}{main}</div>{bottom}'
             f'<a href="#top" class="back-to-top" data-back-to-top aria-label="{esc(ctx.t("buttons.back_to_top"))}">{icon("arrow-up")}</a></footer>')
 
 
