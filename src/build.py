@@ -739,6 +739,51 @@ def catalogue_dialog(ctx):
             f'<div class="form-status" role="status" aria-live="polite" data-form-status></div></form></div></dialog>')
 
 
+def search_dialog(ctx):
+    sc = ctx.c.get("search", {})
+    idx = "en" if ctx.lang["code"] == "en" else ctx.lang["code"]
+    return (f'<dialog class="search-dialog" data-search-dialog data-lenis-prevent aria-label="{esc(sc.get("label", ""))}" '
+            f'data-index="/search-index/{idx}.json?v={ASSET_VERSION}" data-msg-results="{esc(sc.get("results", ""))}" '
+            f'data-msg-one="{esc(sc.get("one_result", ""))}" data-msg-none="{esc(sc.get("none", ""))}">'
+            f'<div class="search-dialog__panel"><form class="search-dialog__form" role="search" action="{esc(ctx.url("sitemap"))}" data-search-form>'
+            f'{icon("search", "search-dialog__icon")}<label class="visually-hidden" for="site-search-q">{esc(sc.get("label", ""))}</label>'
+            f'<input id="site-search-q" class="search-dialog__input" type="search" name="q" autocomplete="off" spellcheck="false" '
+            f'placeholder="{esc(sc.get("placeholder", ""))}" aria-describedby="site-search-hint site-search-status" data-search-input>'
+            f'<button type="button" class="search-dialog__close" data-search-close aria-label="{esc(sc.get("close", ""))}">{icon("x-lg")}</button></form>'
+            f'<p class="search-dialog__hint" id="site-search-hint">{esc(sc.get("hint", ""))}</p>'
+            f'<p class="search-dialog__status" id="site-search-status" role="status" aria-live="polite" data-search-status></p>'
+            f'<ul class="search-dialog__results" data-search-results></ul></div></dialog>')
+
+
+def write_search_index(ctx):
+    """Per-language JSON index for the client-side site search."""
+    out = []
+    for p in R.P:
+        if p["id"] in ("404", "thank-you"):
+            continue
+        pg = ctx.pages.get(p["id"]) or {}
+        heads = []
+        for b in pg.get("blocks", []):
+            for k in ("heading", "eyebrow"):
+                if b.get(k):
+                    heads.append(plain(b[k]))
+            for it in b.get("items", []) if isinstance(b.get("items"), list) else []:
+                if isinstance(it, dict):
+                    for k in ("title", "q"):
+                        if it.get(k):
+                            heads.append(plain(it[k]))
+        anc = ancestors(p["id"])
+        section = ctx.nav(anc[1]) if len(anc) > 1 else (ctx.t("categories." + p["category"]) if p.get("category") else "")
+        if p["id"] in MEDIA_IDS:
+            section = ctx.t("menu.media")
+        out.append({"t": plain(pg.get("nav", "")), "h": plain(pg.get("h1", "")), "u": ctx.url(p["id"]),
+                    "d": plain(pg.get("summary") or pg.get("description", "")), "s": section,
+                    "m": p.get("model") or "", "k": " · ".join(dict.fromkeys(heads))[:1200]})
+    name = "en" if ctx.lang["code"] == "en" else ctx.lang["code"]
+    (OUT / "search-index").mkdir(exist_ok=True)
+    (OUT / "search-index" / f"{name}.json").write_text(json.dumps(out, ensure_ascii=False, separators=(",", ":")))
+
+
 BLOCKS = {
     "text": b_text, "features": b_features, "specs": b_specs, "table": b_table, "steps": b_steps, "list": b_list,
     "cards": b_cards, "related": b_related, "faq": b_faq, "stats": b_stats, "cta": b_cta, "gallery": b_gallery,
@@ -788,6 +833,23 @@ def active_top(pid):
             if pid in ids:
                 return item["id"] or item.get("label")
     return None
+
+
+def cur_attr(pid, target):
+    return ' aria-current="page"' if pid == target else ""
+
+
+def next_event_url(ctx):
+    ne = CONFIG.get("next_event") or {}
+    return ctx.url(ne.get("page") or "international-exhibitions", ne.get("anchor"))
+
+
+def social_links(ctx, cls="social"):
+    soc = CONFIG.get("social") or {}
+    items = [("linkedin", "linkedin"), ("youtube", "youtube")]
+    lis = "".join(f'<li><a href="{esc(soc[k])}" target="_blank" rel="noopener" aria-label="{esc(ctx.t("social." + k))} {esc(ctx.t("a11y.opens_new_tab"))}" title="{esc(ctx.t("social." + k))}">{icon(ic)}</a></li>'
+                  for k, ic in items if soc.get(k))
+    return f'<ul class="{cls}">{lis}</ul>' if lis else ""
 
 
 def header(ctx, pid):
@@ -859,7 +921,12 @@ def header(ctx, pid):
               f'<li><a href="{tel(con["phone"])}">{icon("telephone")}<span class="visually-hidden">{esc(ctx.t("topbar.phone_label"))}: </span>{esc(con["phone"])}</a></li>'
               f'<li class="d-none d-md-list-item"><a href="{tel(con["tollfree"])}">{icon("headset")}<span>{esc(ctx.t("topbar.tollfree_label"))}: {esc(con["tollfree"])}</span></a></li>'
               f'<li class="d-none d-sm-list-item"><a href="mailto:{esc(con["email"])}">{icon("envelope")}<span class="visually-hidden">{esc(ctx.t("topbar.email_label"))}: </span>{esc(con["email"])}</a></li>'
-              f'</ul><div class="topbar__right"><span class="topbar__hours d-none d-lg-inline">{icon("clock")} {esc(ctx.t("topbar.hours"))}</span>'
+              f'</ul><div class="topbar__right"><span class="topbar__hours d-none d-xxl-inline">{icon("clock")} {esc(ctx.t("topbar.hours"))}</span>'
+              f'<ul class="topbar__links d-none d-lg-flex">'
+              f'<li><a href="{esc(ctx.url("knowledge-centre"))}"{cur_attr(pid, "knowledge-centre")}>{icon("lightbulb")}{esc(ctx.t("topbar.knowledge"))}</a></li>'
+              f'<li><a href="{esc(ctx.url("career"))}"{cur_attr(pid, "career")}>{icon("people")}{esc(ctx.t("topbar.join"))}</a></li>'
+              f'<li><a class="topbar__event" href="{esc(next_event_url(ctx))}"><span class="topbar__event-dot" aria-hidden="true"></span>{icon("calendar-event")}{esc(ctx.t("topbar.next_event"))}</a></li></ul>'
+              f'<a class="topbar__search" href="{esc(ctx.url("sitemap"))}" data-search-open aria-label="{esc(ctx.t("search.open"))}" title="{esc(ctx.t("search.shortcut"))}">{icon("search")}<span class="d-none d-md-inline">{esc(ctx.t("topbar.search"))}</span></a>'
               f'{lang_switcher(ctx, pid, "top")}</div></div></div>')
     contact_cur = ' aria-current="page"' if pid == "contact-us" else ""
     return (f'<header class="site-header" data-header>{topbar}'
@@ -871,7 +938,11 @@ def header(ctx, pid):
             f'<span class="visually-hidden" data-label-open="{esc(ctx.t("menu.open"))}" data-label-close="{esc(ctx.t("menu.close"))}">{esc(ctx.t("menu.open"))}</span></button>'
             f'<nav class="nav-main" id="primary-nav" data-lenis-prevent aria-label="{esc(ctx.t("menu.main_label"))}" data-nav>'
             f'<ul class="nav-main__list">{"".join(lis)}</ul>'
-            f'<div class="nav-main__mobile-extra">{lang_switcher(ctx, pid, "mobile")}</div></nav>'
+            f'<div class="nav-main__mobile-extra"><ul class="mobile-quick">'
+            f'<li><a href="{esc(ctx.url("knowledge-centre"))}">{icon("lightbulb")} {esc(ctx.t("topbar.knowledge"))}</a></li>'
+            f'<li><a href="{esc(ctx.url("career"))}">{icon("people")} {esc(ctx.t("topbar.join"))}</a></li>'
+            f'<li><a class="mobile-quick__event" href="{esc(next_event_url(ctx))}">{icon("calendar-event")} {esc(ctx.t("topbar.next_event"))}</a></li></ul>'
+            f'{lang_switcher(ctx, pid, "mobile")}{social_links(ctx, "social social--mobile")}</div></nav>'
             f'<a class="btn-hyt btn-hyt--primary btn-hyt--sm nav-cta" href="{esc(ctx.url("contact-us"))}"{contact_cur}>{esc(ctx.t("menu.contact_button"))}</a>'
             f'</div></div><div class="scroll-progress" aria-hidden="true"><span data-scroll-progress></span></div></header>')
 
@@ -904,7 +975,8 @@ def footer(ctx, pid):
              f'<img src="/assets/images/logo/hyt-logo.svg" alt="{esc(c["company_name"])}" width="188" height="93" loading="lazy"></a>'
              f'<p class="footer-brand__about">{esc(ctx.t("footer.about"))}</p>'
              f'<address class="footer-brand__address">{icon("geo-alt")}<span>{"<br>".join(esc(x) for x in con["address_lines"][1:])}</span></address>'
-             f'<ul class="footer-certs" aria-label="{esc(ctx.nav("certifications"))}">{certs}</ul></div>')
+             f'<ul class="footer-certs" aria-label="{esc(ctx.nav("certifications"))}">{certs}</ul>'
+             f'<div class="footer-social"><p class="footer-social__label">{esc(ctx.t("social.heading"))}</p>{social_links(ctx)}</div></div>')
     cols = []
     for col in R.FOOTER:
         links = "".join(f'<li><a href="{esc(ctx.url(x))}">{arrow}<span>{fmt(esc(ctx.nav(x)))}</span></a></li>' for x in col["items"])
@@ -1023,7 +1095,7 @@ def org_ld(ctx):
     return {
         "@type": "Organization", "@id": BASE + "/#organization", "name": ctx.c["company_name"], "url": BASE + "/",
         "logo": BASE + "/assets/images/logo/hyt-logo.svg", "foundingDate": "1977", "email": con["email"],
-        "telephone": con["phone"],
+        "telephone": con["phone"], "sameAs": [v for v in (CONFIG.get("social") or {}).values()],
         "address": {"@type": "PostalAddress", "streetAddress": "29/10, 29/10/1, 29/10/2, D-II Block, MIDC Chinchwad",
                     "addressLocality": "Pune", "addressRegion": "Maharashtra", "postalCode": "411019", "addressCountry": "IN"},
         "contactPoint": [{"@type": "ContactPoint", "telephone": con["phone"], "contactType": "sales", "email": con["email"],
@@ -1183,6 +1255,7 @@ def render_page(ctx, pid):
 <button type="button" class="lightbox__btn lightbox__next" data-lightbox-next aria-label="{esc(ctx.t('buttons.next'))}">{icon('chevron-right')}</button>
 </dialog>
 {catalogue_dialog(ctx) if pid != "thank-you" else ""}
+{search_dialog(ctx)}
 <script type="module" src="/assets/js/main.js?v={ASSET_VERSION}"></script>
 </body>
 </html>
@@ -1340,6 +1413,7 @@ def main():
         tr_name = "en" if L["code"] == "en" else L["code"]
         (OUT / "translations" / f"{tr_name}.json").write_text(json.dumps(common, ensure_ascii=False, indent=2))
         ctx = Ctx(L, common, pages)
+        write_search_index(ctx)
         for p in R.P:
             html_ = render_page(ctx, p["id"])
             dest = out_path(L, p["id"])

@@ -34,7 +34,11 @@
     "phone_label": "Bel",
     "email_label": "E-mail",
     "tollfree_label": "Gratis nummer",
-    "hours": "ma–za 9.30–18.30 IST"
+    "hours": "ma–za 9.30–18.30 IST",
+    "knowledge": "Kenniscentrum",
+    "join": "Werken bij HYT",
+    "next_event": "Volgend evenement",
+    "search": "Zoeken"
   },
   "breadcrumb_label": "Kruimelpad",
   "home_label": "Home",
@@ -304,5 +308,21 @@
     "link": "Bekijk onze klanten",
     "pause": "Logo-animatie pauzeren",
     "play": "Logo-animatie afspelen"
+  },
+  "search": {
+    "label": "Zoeken op de website",
+    "placeholder": "Zoek producten, diensten, pagina’s…",
+    "hint": "Typ minstens 2 tekens. Druk op Esc om te sluiten.",
+    "results": "{count} resultaten",
+    "one_result": "1 resultaat",
+    "none": "Geen pagina’s gevonden voor “{q}”. Probeer een productnaam zoals “onderloop” of “wielpers”.",
+    "close": "Zoeken sluiten",
+    "open": "Zoeken openen",
+    "shortcut": "Druk op / om te zoeken"
+  },
+  "social": {
+    "heading": "Volg HYT",
+    "linkedin": "HYT Engineering op LinkedIn",
+    "youtube": "HYT Engineering op YouTube"
   }
 }

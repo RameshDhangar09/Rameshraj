@@ -34,7 +34,11 @@
     "phone_label": "Appeler",
     "email_label": "E-mail",
     "tollfree_label": "Numéro gratuit",
-    "hours": "Lun.–sam. 9 h 30–18 h 30 IST"
+    "hours": "Lun.–sam. 9 h 30–18 h 30 IST",
+    "knowledge": "Ressources techniques",
+    "join": "Rejoignez-nous",
+    "next_event": "Prochain salon",
+    "search": "Rechercher"
   },
   "breadcrumb_label": "Fil d’Ariane",
   "home_label": "Accueil",
@@ -304,5 +308,21 @@
     "link": "Voir nos références",
     "pause": "Mettre en pause l’animation des logos",
     "play": "Lancer l’animation des logos"
+  },
+  "search": {
+    "label": "Rechercher sur le site",
+    "placeholder": "Rechercher un produit, un service, une page…",
+    "hint": "Saisissez au moins 2 caractères. Échap pour fermer.",
+    "results": "{count} résultats",
+    "one_result": "1 résultat",
+    "none": "Aucune page ne correspond à « {q} ». Essayez un nom de produit comme « fosse » ou « presse ».",
+    "close": "Fermer la recherche",
+    "open": "Ouvrir la recherche",
+    "shortcut": "Appuyez sur / pour rechercher"
+  },
+  "social": {
+    "heading": "Suivre HYT",
+    "linkedin": "HYT Engineering sur LinkedIn",
+    "youtube": "HYT Engineering sur YouTube"
   }
 }

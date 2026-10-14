@@ -34,7 +34,11 @@
     "phone_label": "Telefono",
     "email_label": "E-mail",
     "tollfree_label": "Numero verde",
-    "hours": "Lun–Sab 9:30–18:30 IST"
+    "hours": "Lun–Sab 9:30–18:30 IST",
+    "knowledge": "Centro conoscenze",
+    "join": "Lavora con noi",
+    "next_event": "Prossimo evento",
+    "search": "Cerca"
   },
   "breadcrumb_label": "Percorso di navigazione",
   "home_label": "Home",
@@ -304,5 +308,21 @@
     "link": "Vedi i nostri clienti",
     "pause": "Metti in pausa l’animazione dei loghi",
     "play": "Avvia l’animazione dei loghi"
+  },
+  "search": {
+    "label": "Cerca nel sito",
+    "placeholder": "Cerchi prodotti, servizi, pagine…",
+    "hint": "Digiti almeno 2 caratteri. Premere Esc per chiudere.",
+    "results": "{count} risultati",
+    "one_result": "1 risultato",
+    "none": "Nessuna pagina corrisponde a “{q}”. Provi con un nome di prodotto come “fossa” o “pressa”.",
+    "close": "Chiudi la ricerca",
+    "open": "Apri la ricerca",
+    "shortcut": "Premere / per cercare"
+  },
+  "social": {
+    "heading": "Segua HYT",
+    "linkedin": "HYT Engineering su LinkedIn",
+    "youtube": "HYT Engineering su YouTube"
   }
 }

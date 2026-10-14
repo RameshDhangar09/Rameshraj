@@ -34,7 +34,11 @@
     "phone_label": "Call",
     "email_label": "Email",
     "tollfree_label": "Toll-free",
-    "hours": "Mon–Sat 9:30–18:30 IST"
+    "hours": "Mon–Sat 9:30–18:30 IST",
+    "knowledge": "Knowledge",
+    "join": "Join our team",
+    "next_event": "Next Event",
+    "search": "Search"
   },
   "breadcrumb_label": "Breadcrumb",
   "home_label": "Home",
@@ -304,5 +308,21 @@
     "link": "View our clientele",
     "pause": "Pause logo animation",
     "play": "Play logo animation"
+  },
+  "search": {
+    "label": "Search the website",
+    "placeholder": "Search products, services, pages…",
+    "hint": "Type at least 2 characters. Press Esc to close.",
+    "results": "{count} results",
+    "one_result": "1 result",
+    "none": "No pages match “{q}”. Try a product name such as “underfloor” or “wheel press”.",
+    "close": "Close search",
+    "open": "Open search",
+    "shortcut": "Press / to search"
+  },
+  "social": {
+    "heading": "Follow HYT",
+    "linkedin": "HYT Engineering on LinkedIn",
+    "youtube": "HYT Engineering on YouTube"
   }
 }

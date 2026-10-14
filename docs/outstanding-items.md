@@ -49,6 +49,7 @@ site replaces hytengineering.com. Owner suggestions in brackets.
 | B25 | Approved customer logos (SVG/PNG) and written permission to display them – current files in `assets/images/clients/` are neutral placeholders | Home logo carousel, Clientele | Sales / Marketing |
 | B26 | Product videos (MP4 or YouTube IDs) for each machine – all product pages currently show one sample clip labelled "Sample video" | Product pages (`src/videos.json`) | Marketing |
 | B27 | Catalogue gating: implemented as a short form before download (per HYT request). Confirm fields and whether a separate datasheet per product will be offered | Product pages, Downloads | Marketing |
+| B28 | Name, dates and page/news item of the next event for the highlighted "Next Event" link (currently points to International Exhibitions) | Top bar (`src/config.json` → `next_event`) | Marketing |
 | B24 | Confirm the New Delhi sales office details (mentioned on an old page; not published) | Contact | Sales |
 
 Every on-page review note is listed with its exact wording in

@@ -9,5 +9,14 @@
   "bootstrap_icons_cdn": "https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css",
   "bootstrap_icons_sri": "sha384-XGjxtQfXaH2tnPFa9x+ruJTuLE3Aa6LhHSWRr1XeTyhezb4abCG4ccI5AkVDxqC+",
   "catalogue_pdf": "/assets/documents/catalogue/hyt-sample-catalogue.pdf",
-  "maps_url": "https://www.google.com/maps/search/?api=1&query=HYT+Engineering+Company+MIDC+Chinchwad+Pune+411019"
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=HYT+Engineering+Company+MIDC+Chinchwad+Pune+411019",
+  "social": {
+    "linkedin": "https://www.linkedin.com/company/hyt-engineering-company-private-limited/",
+    "youtube": "https://www.youtube.com/@HYTEngineeringCompanyPvtLtd/videos"
+  },
+  "next_event": {
+    "page": "international-exhibitions",
+    "anchor": null,
+    "_comment": "Where the highlighted 'Next Event' link in the top bar points. Change page/anchor when an event is announced (e.g. a news item)."
+  }
 }

@@ -11,7 +11,7 @@ import { initGallery } from './gallery.js';
 import { initCarousels } from './carousel.js';
 import { initProductFilter } from './products.js';
 import { initForms } from './forms.js';
-import { initSitemapSearch } from './search.js';
+import { initSitemapSearch, initSiteSearch } from './search.js';
 import { loadStrings } from './i18n.js';
 import { initSmoothScroll, scrollToElement } from './scroll.js';
 import { initCatalogueGate } from './catalogue.js';
@@ -36,6 +36,7 @@ async function boot() {
   safe('product filter', () => initProductFilter(strings));
   safe('forms', () => initForms(strings));
   safe('sitemap search', () => initSitemapSearch());
+  safe('site search', () => initSiteSearch());
   safe('catalogue form', () => initCatalogueGate(strings));
   safe('logo marquee', () => initLogoMarquee());
   safe('videos', () => initVideos());

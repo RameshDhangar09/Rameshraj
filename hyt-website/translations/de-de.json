@@ -34,7 +34,11 @@
     "phone_label": "Anrufen",
     "email_label": "E-Mail",
     "tollfree_label": "Gebührenfrei",
-    "hours": "Mo–Sa 9:30–18:30 IST"
+    "hours": "Mo–Sa 9:30–18:30 IST",
+    "knowledge": "Wissen",
+    "join": "Karriere bei HYT",
+    "next_event": "Nächste Messe",
+    "search": "Suche"
   },
   "breadcrumb_label": "Brotkrümelnavigation",
   "home_label": "Startseite",
@@ -304,5 +308,21 @@
     "link": "Zu unseren Kunden",
     "pause": "Logo-Animation anhalten",
     "play": "Logo-Animation abspielen"
+  },
+  "search": {
+    "label": "Website durchsuchen",
+    "placeholder": "Produkte, Leistungen, Seiten suchen …",
+    "hint": "Mindestens 2 Zeichen eingeben. Mit Esc schließen.",
+    "results": "{count} Ergebnisse",
+    "one_result": "1 Ergebnis",
+    "none": "Keine Seite passt zu „{q}“. Versuchen Sie einen Produktnamen wie „Unterflur“ oder „Radsatzpresse“.",
+    "close": "Suche schließen",
+    "open": "Suche öffnen",
+    "shortcut": "Mit / suchen"
+  },
+  "social": {
+    "heading": "HYT folgen",
+    "linkedin": "HYT Engineering auf LinkedIn",
+    "youtube": "HYT Engineering auf YouTube"
   }
 }
