@@ -1,0 +1,1096 @@
+{
+  "pages": {
+    "ts-wheel-shops": {
+      "nav": "Radsatzwerkstätten",
+      "title": "Schlüsselfertige Radsatzwerkstätten für die Radsatzrevision",
+      "description": "Schlüsselfertige Radsatzwerkstätten: Abpressen, Prüfen, Rad- und Achsbearbeitung, Aufpressen, Messen und Auswuchten – von HYT geplant und geliefert.",
+      "eyebrow": "Schlüsselfertige Lösungen",
+      "h1": "Schlüsselfertige Radsatzwerkstätten für die Radsatzrevision",
+      "lede": "Die Radsatzwerkstatt entscheidet, wie schnell verschlissene Radsätze wieder in den Betrieb zurückkehren. HYT plant und rüstet den gesamten Revisionsablauf – vom Abpressen bis zur Wiedermontage – als ein koordiniertes Projekt aus.",
+      "summary": "Komplette Revisionswerkstätten für Radsätze im Betrieb: Abpressen, Prüfen, Bearbeiten, Aufpressen, Messen, Auswuchten und Wiedermontage.",
+      "blocks": [
+        {
+          "type": "text",
+          "id": "overview",
+          "eyebrow": "Die Anlage",
+          "heading": "Wo verschlissene Radsätze wieder einsatzfähig werden",
+          "paragraphs": [
+            "In einer Bahnwerkstatt oder einer Werkstatt für die periodische Revision (POH) nimmt die Radsatzwerkstatt Radsätze auf, die ihre Verschleißgrenzen erreicht haben, beschädigt wurden oder zur planmäßigen Revision anstehen. Manche benötigen nur ein neues Profil, andere neue Räder, instand gesetzte Achsschenkel oder einen neuen Pressverband.",
+            "Selten bereitet Betreibern eine einzelne Maschine Schwierigkeiten. Das Problem liegt im Ablauf: Radsätze stauen sich vor der Presse, während die Drehmaschine stillsteht, Messwerte werden doppelt eingegeben, und zu viele Arbeitsplätze teilen sich die Krane. Jede Verzögerung in der Radsatzwerkstatt hält an anderer Stelle ein Fahrzeug außer Betrieb.",
+            "Mit einem einzigen Partner für die schlüsselfertige Umsetzung werden Arbeitsplätze, Handling und Fundamente auf Ihren Radsatzmix und Ihren Revisionszyklus abgestimmt. HYT baut die Kernmaschinen selbst – Prozess und Ausrüstung werden gemeinsam konstruiert, und ein Unternehmen steht für das Ergebnis ein."
+          ],
+          "image": "products/portal-wheel-lathe",
+          "image_alt": "Beispielabbildung einer Portal-Radsatzdrehmaschine bei der Reprofilierung eines ausgebauten Radsatzes in einer Radsatzwerkstatt",
+          "layout": "image-right"
+        },
+        {
+          "type": "features",
+          "id": "scope",
+          "eyebrow": "Was HYT liefert",
+          "heading": "Leistungsumfang einer schlüsselfertigen Radsatzwerkstatt",
+          "cols": 3,
+          "items": [
+            {
+              "icon": "diagram-3",
+              "title": "Revisionsablauf und Layout",
+              "text": "Reihenfolge der Arbeitsplätze, Puffergleise und Kranabdeckung – geplant für Ihre Radsatztypen und Revisionsmengen."
+            },
+            {
+              "icon": "bricks",
+              "title": "Fundamente und Bauschnittstelle",
+              "text": "Maschinenfundamente, eingelassene Schienen und Kabelkanäle – für Ihr Bauunternehmen spezifiziert oder in unserem Lieferumfang ausgeführt."
+            },
+            {
+              "icon": "gear-wide-connected",
+              "title": "Maschinen für Räder und Achswellen",
+              "text": "Radsatzdrehmaschinen, Vertikaldrehmaschinen, Achsschenkel-Drehmaschinen, Pressen, Messstationen und Auswuchtmaschinen von HYT."
+            },
+            {
+              "icon": "arrows-move",
+              "title": "Radsatz-Handling",
+              "text": "Transfergleise und Handlingeinrichtungen, die schwere Radsätze mit weniger Kranhüben zwischen den Arbeitsplätzen bewegen."
+            },
+            {
+              "icon": "database",
+              "title": "Radsatzdaten",
+              "text": "Messwerte, Bearbeitungsergebnisse und Aufpressdaten – zugeordnet zu jedem Radsatz, der die Werkstatt durchläuft."
+            },
+            {
+              "icon": "person-gear",
+              "title": "Schulung und Support über die gesamte Lebensdauer",
+              "text": "Bediener- und Instandhaltungsschulung, Ersatzteile und Serviceverträge vom Hersteller der Maschinen."
+            }
+          ]
+        },
+        {
+          "type": "steps",
+          "id": "process",
+          "eyebrow": "Prozessablauf",
+          "heading": "Der Weg eines Radsatzes durch die Revisionswerkstatt",
+          "intro": "Die folgende Reihenfolge ist typisch. Der tatsächliche Weg jedes Radsatzes hängt vom Befund bei der Eingangsprüfung ab.",
+          "items": [
+            {
+              "title": "Eingang und Reinigung",
+              "text": "Radsätze werden identifiziert und gereinigt, damit Verschleiß und Schäden sichtbar und messbar werden."
+            },
+            {
+              "title": "Prüfen und Messen",
+              "text": "Profil, Durchmesser und Radinnenabstand werden auf einer [Radsatzmessstation](page:wheel-measuring-station) erfasst; das Ergebnis entscheidet zwischen Reprofilierung und Radwechsel."
+            },
+            {
+              "title": "Abpressen",
+              "text": "Sind Räder ausgemustert, presst eine [Radsatzpresse](page:wheel-presses) sie von den weiterverwendbaren Achswellen ab."
+            },
+            {
+              "title": "Achs- und Radbearbeitung",
+              "text": "Achsschenkel werden auf einer [Achsschenkel-Dreh- und Glattwalzmaschine](page:axle-journal-turning-burnishing-lathe) instand gesetzt; Ersatzräder werden auf einer [Vertikal-Dreh- und Bohrmaschine](page:vertical-turning-boring-machine) passend zum Radsitz der Achswelle ausgebohrt."
+            },
+            {
+              "title": "Aufpressen und Reprofilierung",
+              "text": "Neue Räder werden mit aufgezeichneter Kraftkurve aufgepresst; weiterverwendete Radsätze werden auf einer [Überflur-](page:surface-wheel-lathe) oder [Portal-Radsatzdrehmaschine](page:portal-wheel-lathe) reprofiliert."
+            },
+            {
+              "title": "Auswuchten, Montage und Freigabe",
+              "text": "Sofern vorgegeben, werden die Radsätze ausgewuchtet. Lager und Radsatzlagergehäuse werden wieder montiert, eine Endkontrolle wird dokumentiert, und der Radsatz geht zurück in den Betrieb."
+            }
+          ]
+        },
+        {
+          "type": "cards",
+          "id": "equipment",
+          "eyebrow": "HYT-Maschinen",
+          "heading": "Kernausrüstung der Radsatzwerkstatt",
+          "cols": 3,
+          "items": [
+            {"page": "surface-wheel-lathe", "image": "products/surface-wheel-lathe"},
+            {"page": "portal-wheel-lathe", "image": "products/portal-wheel-lathe"},
+            {"page": "vertical-turning-boring-machine", "image": "products/vertical-turning-boring-machine"},
+            {"page": "axle-journal-turning-burnishing-lathe", "image": "products/axle-journal-turning-burnishing-lathe"},
+            {"page": "wheel-presses", "image": "products/wheel-press"},
+            {"page": "wheel-measuring-station", "image": "products/wheel-measuring-station"}
+          ]
+        },
+        {
+          "type": "steps",
+          "id": "delivery",
+          "eyebrow": "Projektabwicklung",
+          "heading": "So realisieren wir eine Radsatzwerkstatt",
+          "intro": "Eine Radsatzwerkstatt wird oft im laufenden Werkstattbetrieb umgebaut. Unser Ansatz für [schlüsselfertige EPC-Projekte](page:turnkey-project) plant jede Phase um das Revisionsprogramm herum, das weiterlaufen muss.",
+          "items": [
+            {
+              "title": "Studie und Layout",
+              "text": "Revisionsmengen, Radsatztypen und das vorhandene Gebäude werden analysiert und ein Layout abgestimmt."
+            },
+            {
+              "title": "Bauschnittstelle",
+              "text": "Fundament- und Versorgungsdaten werden frühzeitig übergeben, damit die Bauarbeiten bei Anlieferung der Maschinen abgeschlossen sind."
+            },
+            {
+              "title": "Montage in Phasen",
+              "text": "Arbeitsplätze werden schrittweise ersetzt oder ergänzt, während die Werkstatt weiterarbeitet. Siehe [Montage & Inbetriebnahme](page:installation-commissioning)."
+            },
+            {
+              "title": "Inbetriebnahme mit Ihren Radsätzen",
+              "text": "Jeder Arbeitsplatz und anschließend der gesamte Ablauf werden mit Ihren eigenen Radsätzen anhand vereinbarter Kriterien nachgewiesen."
+            },
+            {
+              "title": "Schulung und Support",
+              "text": "Ihre Teams werden im Rahmen unseres [Schulungsprogramms](page:training) an Maschinen und Prozess geschult; nach der Übergabe kann ein [jährlicher Wartungsvertrag](page:annual-maintenance-contract) folgen."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "id": "benefits",
+          "eyebrow": "Ergebnisse",
+          "heading": "Was Ihnen eine gut geplante Radsatzwerkstatt bringt",
+          "paragraphs": [
+            "Der Wert einer Radsatzwerkstatt zeigt sich außerhalb ihrer Mauern: in Fahrzeugen, die pünktlich in den Betrieb zurückkehren, und in Rädern, die zwischen zwei Eingriffen mehr Kilometer laufen."
+          ],
+          "bullets": [
+            "Kürzere Zeit vom Eingang eines Radsatzes bis zu seiner Freigabe",
+            "Minimaler Materialabtrag – Räder überstehen mehr Reprofilierungszyklen bis zum Austausch",
+            "Dokumentierte Pressverbände und Messwerte für jeden revidierten Radsatz",
+            "Weniger Kranarbeit und manuelles Handling an schweren Bauteilen",
+            "Ein Partner, verantwortlich für Maschinen, Layout und Leistung"
+          ]
+        },
+        {
+          "type": "faq",
+          "id": "faq",
+          "heading": "Fragen zur Radsatzwerkstatt",
+          "items": [
+            {
+              "q": "Lässt sich eine Radsatzwerkstatt im laufenden Betrieb modernisieren?",
+              "a": "In den meisten Fällen ja. Wir planen die Arbeiten in Phasen, sodass bestehende Maschinen weiterlaufen, während neue Arbeitsplätze daneben oder an ihrer Stelle installiert werden."
+            },
+            {
+              "q": "Sollten wir auf einer Überflur- oder einer Portal-Radsatzdrehmaschine reprofilieren?",
+              "a": "Beide Maschinen bearbeiten ausgebaute Radsätze. Die Wahl hängt von Ihren Radsatztypen, der typischen Schadenstiefe und dem Ablauf ab; siehe die Seiten zur [Überflur-](page:surface-wheel-lathe) und zur [Portal-Radsatzdrehmaschine](page:portal-wheel-lathe)."
+            },
+            {
+              "q": "Braucht die Radsatzwerkstatt zusätzlich eine Unterflur-Radsatzdrehmaschine?",
+              "a": "Eine [Unterflur-Radsatzdrehmaschine](page:underfloor-wheel-lathe) reprofiliert Räder, ohne den Radsatz auszubauen – sie gehört daher ins Betriebswerk, nicht in die Revisionswerkstatt. Viele Betreiber nutzen beides: Unterflurmaschinen für die laufende Reprofilierung, die Radsatzwerkstatt für Radsätze, die ohnehin aus dem Fahrzeug ausgebaut werden. Siehe [Bahnbetriebswerke](page:ts-maintenance-depots)."
+            },
+            {
+              "q": "Können wir vorhandene Maschinen anderer Hersteller weiter nutzen?",
+              "a": "Sofern sie in gutem Zustand sind, ja. Wir binden sie in das Layout ein und definieren ihre Schnittstellen, sodass die Werkstatt als ein durchgängiger Prozess arbeitet."
+            }
+          ]
+        },
+        {
+          "type": "cta",
+          "heading": "Planen Sie eine neue oder modernisierte Radsatzwerkstatt?",
+          "text": "Senden Sie uns Ihre Revisionsmengen, Radsatztypen und Gebäudezeichnungen. Unsere Projektingenieure schlagen Ihnen ein Layout und einen Weg zur Umsetzung vor.",
+          "primary": {"label": "Projekt besprechen", "page": "contact-us"},
+          "secondary": {"label": "Schlüsselfertige EPC-Projekte", "page": "turnkey-project"}
+        }
+      ]
+    },
+    "ts-maintenance-depots": {
+      "nav": "Bahnbetriebswerke",
+      "title": "Schlüsselfertige Ausrüstung für Bahn- & Metro-Betriebswerke",
+      "description": "Betriebswerksausrüstung für Lok-, Reisezug-, Triebzug- und Metroflotten aus einer Hand: Unterflur-Radsatzdrehmaschinen, Zugwäsche, Rangieren, Ankerbearbeitung.",
+      "eyebrow": "Schlüsselfertige Lösungen",
+      "h1": "Schlüsselfertige Ausrüstung für Bahnbetriebswerke",
+      "lede": "Ein Betriebswerk misst sich an der Verfügbarkeit der Züge. HYT rüstet Radsatzdrehmaschinengleis, Waschanlage, Rangierbetrieb und Komponentenbearbeitung als ein Projekt aus – damit Züge weniger warten und mehr fahren.",
+      "summary": "Betriebswerksausrüstung für Lok-, Reisezug-, Triebzug- und Metroflotten – Unterflur-Radsatzdrehmaschinen, Zugwäsche, Rangieren und Ankerbearbeitung.",
+      "blocks": [
+        {
+          "type": "text",
+          "id": "overview",
+          "eyebrow": "Die Anlage",
+          "heading": "Ausgerichtet auf die Stunden, in denen ein Zug nicht fährt",
+          "paragraphs": [
+            "Lokomotiv-Betriebswerke, Betriebswerke für Reisezugwagen sowie Triebzug- und Metro-Betriebswerke halten Flotten fit für den täglichen Einsatz. Züge kommen zu planmäßigen Untersuchungen, zur Reprofilierung der Räder, zur Reinigung und zu Reparaturen – und jede Stunde im Betriebswerk ist eine Stunde, in der sie nicht fahren können. Die Auslegung des Betriebswerks bestimmt, wie viele dieser Stunden wirklich notwendig sind.",
+            "Betriebswerksleiter kennen die typischen Engpässe: ein einziges Radsatzdrehmaschinengleis, vor dem sich die Züge stauen, Rangierfahrten, die auf Lokomotive und Personal warten, Außenreinigung von Hand und Fahrmotorreparaturen, die nach außen gehen, weil im Werk die passende Maschine fehlt. Für jedes dieser Probleme ist womöglich ein anderer Lieferant zuständig.",
+            "HYT bündelt die wichtigsten Betriebswerkssysteme in einem Vertrag und plant sie anhand Ihres Instandhaltungsplans, Ihres Gleisplans und Ihres Flottenmix. Das Ziel ist einfach: kürzere, besser planbare Aufenthalte für jeden Zug."
+          ],
+          "image": "projects/emu-car-shed",
+          "image_alt": "Beispielabbildung eines Triebzug-Betriebswerks mit S-Bahn-Zügen über Untersuchungsgruben",
+          "layout": "image-right"
+        },
+        {
+          "type": "features",
+          "id": "scope",
+          "eyebrow": "Was HYT liefert",
+          "heading": "Betriebswerkssysteme aus einem Vertrag",
+          "cols": 3,
+          "items": [
+            {
+              "icon": "train-front",
+              "title": "Gleis für die Radsatzreprofilierung",
+              "text": "Einfach- oder Tandem-Unterflur-Radsatzdrehmaschinen in der Grube, ausgelegt auf Ihre Flotte und die Anzahl der Radsätze pro Aufenthalt."
+            },
+            {
+              "icon": "bricks",
+              "title": "Gruben und Gleisschnittstelle",
+              "text": "Maschinengruben, Untersuchungsgruben und Schienenauflager, abgestimmt mit den Bauarbeiten und dem Gleisplan des Betriebswerks."
+            },
+            {
+              "icon": "droplet",
+              "title": "Zugwäsche",
+              "text": "Durchfahr-Waschanlage auf dem Einfahrweg – Züge werden ohne zusätzliche Rangierfahrten gereinigt."
+            },
+            {
+              "icon": "truck",
+              "title": "Rangieren",
+              "text": "Zweiwege-Rangierfahrzeug (Shunter) für Fahrten zwischen Radsatzdrehmaschinengleis, Waschanlage, Untersuchungsgruben und Abstellgleisen."
+            },
+            {
+              "icon": "lightning-charge",
+              "title": "Fahrmotorbearbeitung",
+              "text": "Ankerbearbeitung für Gleichstrom-Fahrmotoren direkt im Betriebswerk statt in einer entfernten Werkstatt."
+            },
+            {
+              "icon": "calendar-check",
+              "title": "Verfügbarkeitsorientierter Support",
+              "text": "Wartungsverträge, die die Maschinen im Betriebswerk immer dann einsatzbereit halten, wenn Züge sie planmäßig nutzen."
+            }
+          ]
+        },
+        {
+          "type": "steps",
+          "id": "process",
+          "eyebrow": "Ablauf im Betriebswerk",
+          "heading": "Der Aufenthalt eines Zuges im Betriebswerk",
+          "items": [
+            {
+              "title": "Ankunft und Wäsche",
+              "text": "Einfahrende Züge durchfahren auf dem Weg zu den Untersuchungsgleisen die [automatische Zugwaschanlage](page:automated-train-washing-plant)."
+            },
+            {
+              "title": "Untersuchung über Gruben",
+              "text": "Laufwerk, Bremsen und Unterflurausrüstung werden aus den Gruben untersucht; dabei festgestellte Radschäden werden für die Radsatzdrehmaschine eingeplant."
+            },
+            {
+              "title": "Reprofilierung der Räder",
+              "text": "Der Zug wird über die [Unterflur-Radsatzdrehmaschine](page:underfloor-wheel-lathe) gezogen; verschlissene Radsätze werden gemessen und reprofiliert, ohne das Drehgestell auszubauen."
+            },
+            {
+              "title": "Komponentenreparatur",
+              "text": "Getauschte Fahrmotoranker werden auf der [Mehrzweck-Ankerbearbeitungsmaschine](page:multi-purpose-armature-machine) instand gesetzt und ans Lager zurückgegeben."
+            },
+            {
+              "title": "Rangieren und Abstellen",
+              "text": "Das [Zweiwege-Rangierfahrzeug (Shunter)](page:rail-cum-road-vehicle-shunter) bewegt Fahrzeuge zwischen den Gleisen und hinaus auf die Abstellgleise."
+            },
+            {
+              "title": "Freigabe für den Betrieb",
+              "text": "Die Arbeitsaufträge werden abgeschlossen, und der Zug kehrt in den Fahrplan zurück."
+            }
+          ]
+        },
+        {
+          "type": "cards",
+          "id": "equipment",
+          "eyebrow": "HYT-Maschinen",
+          "heading": "Ausrüstung im Betriebswerk",
+          "cols": 3,
+          "items": [
+            {"page": "underfloor-wheel-lathe", "image": "products/underfloor-wheel-lathe-yul-08"},
+            {"page": "tandem-underfloor-wheel-lathe", "image": "products/tandem-underfloor-wheel-lathe-yul-12t"},
+            {"page": "automated-train-washing-plant", "image": "products/automated-train-washing-plant"},
+            {"page": "rail-cum-road-vehicle-shunter", "image": "products/rail-cum-road-vehicle-shunter"},
+            {"page": "multi-purpose-armature-machine", "image": "products/multi-purpose-armature-machine"},
+            {"page": "vertical-turning-boring-machine", "image": "products/vertical-turning-boring-machine"}
+          ]
+        },
+        {
+          "type": "list",
+          "id": "delivery",
+          "heading": "Umsetzung eines Betriebswerksprojekts",
+          "intro": "Betriebswerke werden oft gebaut oder erweitert, während die Flotte weiterfährt. Unser Ansatz für [schlüsselfertige EPC-Projekte](page:turnkey-project) ist auf diese Realität zugeschnitten.",
+          "cols": 1,
+          "items": [
+            "**Planung nach Instandhaltungsbedarf:** Untersuchungsintervalle, Reprofilierungshäufigkeit und Flottenwachstum bestimmen die Anzahl der Radsatzdrehmaschinengleise, die Waschkapazität und den Rangierbedarf.",
+            "**Gruben- und Gleisschnittstelle:** Grubenzeichnungen, Verankerungsdetails, Entwässerung und Schienenhöhen gehen an das Bauunternehmen; die Baubereitschaft wird vor der Montage geprüft.",
+            "**Montage und Inbetriebnahme:** Jedes System wird mit Ihren eigenen Fahrzeugen nachgewiesen – siehe [Montage & Inbetriebnahme](page:installation-commissioning).",
+            "**Schulung des Personals:** Maschinenbediener, Rangierfahrzeugführer und Instandhaltungspersonal werden vor Ort im Rahmen unseres [Schulungsprogramms](page:training) geschult.",
+            "**Betreuung über den Lebenszyklus:** ein [jährlicher Wartungsvertrag](page:annual-maintenance-contract), ein [umfassender Wartungsvertrag (CMC)](page:comprehensive-annual-maintenance-contract) oder vollständiger [Betrieb & Instandhaltung](page:operation-and-maintenance) der Maschinen im Betriebswerk."
+          ]
+        },
+        {
+          "type": "features",
+          "id": "benefits",
+          "eyebrow": "Ergebnisse",
+          "heading": "Was der Betreiber des Betriebswerks gewinnt",
+          "cols": 3,
+          "items": [
+            {
+              "icon": "clock-history",
+              "title": "Mehr Züge im Einsatz",
+              "text": "Reprofilierung ohne Drehgestellausbau und weniger Wartezeiten bei Rangierfahrten verkürzen jeden Aufenthalt im Betriebswerk."
+            },
+            {
+              "icon": "shield-check",
+              "title": "Sicherere Abläufe im Betriebswerk",
+              "text": "Weniger manuelle Reinigung in der Höhe und weniger Rangierfahrten mit Lokomotiven im Umfeld von Personal, das an den Gleisen arbeitet."
+            },
+            {
+              "icon": "people",
+              "title": "Ein verantwortlicher Partner",
+              "text": "Radsatzdrehmaschine, Waschanlage, Rangierfahrzeug und Ankerbearbeitung – betreut von dem Unternehmen, das sie geliefert hat."
+            }
+          ]
+        },
+        {
+          "type": "faq",
+          "id": "faq",
+          "heading": "Fragen zum Betriebswerk",
+          "items": [
+            {
+              "q": "Einfach- oder Tandem-Unterflur-Radsatzdrehmaschine?",
+              "a": "Eine [Tandem-Unterflur-Radsatzdrehmaschine](page:tandem-underfloor-wheel-lathe) reprofiliert beide Radsätze eines Drehgestells in einer Aufspannung und verkürzt so bei Flotten mit vielen Radsätzen jeden Aufenthalt. Eine Einzelmaschine benötigt eine kürzere Grube und eignet sich für geringere Mengen. Wir treffen die Auswahl anhand Ihrer Flotte und Ihres Instandhaltungsplans."
+            },
+            {
+              "q": "Lässt sich neue Ausrüstung in einem laufenden Betriebswerk nachrüsten?",
+              "a": "Ja. Maschinengruben und Waschanlagen werden in der Regel auf Gleisen errichtet, die vorübergehend außer Betrieb genommen werden können, während der Rest des Betriebswerks weiterarbeitet. Die Abfolge der Arbeiten stimmen wir mit Ihrem Betriebsteam ab."
+            },
+            {
+              "q": "Braucht ein Triebzug-Betriebswerk eigene Kapazität für die Bearbeitung loser Räder?",
+              "a": "Manche schon. HYT hat eine CNC-Vertikaldrehmaschine an das Triebzug-Betriebswerk Sanpada in Mumbai geliefert und dem Werk damit eigene Radbearbeitungskapazität verschafft – siehe [Realisierte Projekte](page:executed-projects#sanpada-emu-car-shed)."
+            },
+            {
+              "q": "Kann ein Zweiwege-Rangierfahrzeug eine Rangierlok ersetzen?",
+              "a": "Für viele Rangierfahrten im Betriebswerk ja. Es kuppelt auf der Schiene an Schienenfahrzeuge an und fährt zwischen den Gleisen auf der Straße, sodass ein Fahrzeug mehrere Gleise bedienen kann. Zugkraft, Kupplung und Bremsen werden auf Ihre Fahrzeuge abgestimmt."
+            }
+          ]
+        },
+        {
+          "type": "cta",
+          "heading": "Planen Sie den Neubau oder die Erweiterung eines Betriebswerks?",
+          "text": "Informieren Sie uns über Ihre Flotte, Ihren Instandhaltungsplan und Ihren Gleisplan. Wir schlagen Ihnen die Betriebswerkssysteme und einen Umsetzungsplan vor, bei dem Ihre Züge weiterfahren.",
+          "primary": {"label": "Projekt besprechen", "page": "contact-us"},
+          "secondary": {"label": "Realisierte Projekte", "page": "executed-projects"}
+        }
+      ]
+    },
+    "ts-rolling-stock-facilities": {
+      "nav": "Fertigungswerke für Schienenfahrzeuge",
+      "title": "Schlüsselfertige Rad- und Achsfertigung für Fahrzeugwerke",
+      "description": "Rad- und Achswerkstätten für Werke von Reisezugwagen, Lokomotiven und Metrofahrzeugen: Bearbeiten, Aufpressen, Messen, Auswuchten – integriert in Ihren Ablauf.",
+      "eyebrow": "Schlüsselfertige Lösungen",
+      "h1": "Rad- und Achswerkstätten für Fertigungswerke von Schienenfahrzeugen",
+      "lede": "Werke für Reisezugwagen, Lokomotiven und Metrofahrzeuge sind auf einen stetigen Nachschub fertiger Radsätze angewiesen. HYT plant und rüstet die Rad- und Achswerkstatt im Werk aus – abgestimmt auf dessen Produktionstakt.",
+      "summary": "Schlüsselfertige Rad- und Achswerkstätten in Werken für Reisezugwagen, Lokomotiven und Metrofahrzeuge, integriert in den Produktionsablauf des Werks.",
+      "blocks": [
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "HYT muss bestätigen, welche Referenzinstallationen bei Schienenfahrzeugherstellern auf dieser Seite genannt werden dürfen und in welchem Umfang eine Integration ins Werk (Handling, Datenaustausch) angeboten wird."
+        },
+        {
+          "type": "text",
+          "id": "overview",
+          "eyebrow": "Die Anlage",
+          "heading": "Die Radsatzversorgung im Fahrzeugwerk",
+          "paragraphs": [
+            "Ein Schienenfahrzeugwerk fertigt Wagenkästen, Drehgestelle und komplette Fahrzeuge nach festem Lieferplan. Radsätze sind ein Zulieferteil, ohne das die Drehgestellmontage nicht auskommt – und sie sind sicherheitskritisch: Jeder einzelne muss gemäß Fahrzeugspezifikation und den Abnahmeanforderungen des Auftraggebers bearbeitet, montiert und dokumentiert werden.",
+            "Werke, die eine eigene Rad- und Achswerkstatt aufbauen, stehen vor besonderen Herausforderungen. Die Ausbringung muss mit der Drehgestellmontage Schritt halten, statt einfach unter Volllast zu laufen. Oft laufen mehrere Fahrzeugprojekte gleichzeitig, jedes mit eigenen Rad- und Achszeichnungen. Und die Qualitätsnachweise für jeden Radsatz müssen vorliegen, wenn das Fahrzeug zur Abnahme vorgestellt wird.",
+            "Die Rolle von HYT ist klar abgegrenzt. Wir bauen weder Wagenkästen noch Drehgestellrahmen. Wir planen, rüsten und nehmen die Rad- und Achswerkstatt in Betrieb – Bearbeiten, Aufpressen, Messen und Auswuchten – und binden sie als ein schlüsselfertiges Paket an den Materialfluss und das Qualitätssystem des Werks an."
+          ],
+          "image": "products/wheel-measuring-station",
+          "image_alt": "Beispielabbildung einer Radsatzmessstation bei der Prüfung eines fertigen Radsatzes vor der Drehgestellmontage",
+          "layout": "image-right"
+        },
+        {
+          "type": "features",
+          "id": "scope",
+          "eyebrow": "Was HYT liefert",
+          "heading": "Unser Teil des Werks",
+          "cols": 3,
+          "items": [
+            {
+              "icon": "gear-wide-connected",
+              "title": "Fertigungsausrüstung für Räder und Achswellen",
+              "text": "Maschinen zum Achswellendrehen, zum Bohren und Profilieren von Rädern, zum Aufpressen, Messen und dynamischen Auswuchten."
+            },
+            {
+              "icon": "diagram-3",
+              "title": "Integration ins Werk",
+              "text": "Werkstattlayout, Puffer und Übergabepunkte, abgestimmt auf die Drehgestellmontage und die innerbetriebliche Logistik."
+            },
+            {
+              "icon": "clipboard-data",
+              "title": "Qualitätsnachweise",
+              "text": "Mess-, Aufpress- und Auswuchtdaten, je Radsatz geordnet – als Grundlage für die Fahrzeugabnahme."
+            }
+          ]
+        },
+        {
+          "type": "steps",
+          "id": "process",
+          "eyebrow": "Prozessablauf",
+          "heading": "Vom Wareneingang bis zur Drehgestellmontage",
+          "items": [
+            {
+              "title": "Eingang von Rädern und Achswellen",
+              "text": "Geschmiedete oder vorbearbeitete Räder und Achswellen werden angenommen, identifiziert und dem jeweiligen Fahrzeugprojekt zugeordnet."
+            },
+            {
+              "title": "Achswellenbearbeitung",
+              "text": "Die Achswellen werden auf der [CNC-Achswellendrehmaschine ATL-01](page:axle-turning-lathe) nach Zeichnung gedreht."
+            },
+            {
+              "title": "Radbearbeitung",
+              "text": "Nabenbohrungen, Radkranzflächen und Profile werden auf der [CNC-Vertikal-Dreh- und Bohrmaschine](page:vertical-turning-boring-machine) bearbeitet; die Bohrungen werden passend zu den gemessenen Radsitzen ausgelegt."
+            },
+            {
+              "title": "Aufpressen",
+              "text": "Die Räder werden auf einer [Radsatzpresse](page:wheel-presses) auf die Achswelle aufgepresst; die Kraftkurve jedes Pressverbands wird aufgezeichnet."
+            },
+            {
+              "title": "Messen und Auswuchten",
+              "text": "Radinnenabstand und Durchmesser werden geprüft; sofern die Fahrzeugspezifikation es verlangt, werden die Radsätze ausgewuchtet."
+            },
+            {
+              "title": "Übergabe an die Drehgestellmontage",
+              "text": "Fertige Radsätze gehen mit ihren Nachweisen an die Drehgestelllinie – in dem Takt, den das Montageprogramm vorgibt."
+            }
+          ]
+        },
+        {
+          "type": "cards",
+          "id": "equipment",
+          "eyebrow": "HYT-Maschinen",
+          "heading": "Ausrüstung der Rad- und Achswerkstatt",
+          "cols": 3,
+          "items": [
+            {"page": "axle-turning-lathe", "image": "products/axle-turning-lathe"},
+            {"page": "vertical-turning-boring-machine", "image": "products/vertical-turning-boring-machine"},
+            {"page": "wheel-presses", "image": "products/wheel-press"},
+            {"page": "wheel-measuring-station", "image": "products/wheel-measuring-station"},
+            {"page": "dynamic-wheel-balancing-machine", "image": "products/dynamic-wheel-balancing-machine"},
+            {"page": "rail-cum-road-vehicle-shunter", "image": "products/rail-cum-road-vehicle-shunter"}
+          ]
+        },
+        {
+          "type": "steps",
+          "id": "delivery",
+          "eyebrow": "Projektabwicklung",
+          "heading": "So setzen wir es um",
+          "intro": "Unser Ansatz für [schlüsselfertige EPC-Projekte](page:turnkey-project) – angepasst an ein Werk, das häufig zur gleichen Zeit neu gebaut oder erweitert wird.",
+          "items": [
+            {
+              "title": "Produktionsstudie",
+              "text": "Radsatzbedarf je Fahrzeugprojekt, Produktvarianten und der Takt der Drehgestellmontage bestimmen Kapazität und Layout."
+            },
+            {
+              "title": "Gebäudeschnittstelle",
+              "text": "Anforderungen an Fundamente, Krane und Medienversorgung fließen in die Werksplanung ein, solange diese noch auf dem Papier steht."
+            },
+            {
+              "title": "Lieferung und Montage",
+              "text": "Die Maschinen werden in Pune gebaut und geprüft, anschließend vor Ort montiert und angeschlossen. Siehe [Montage & Inbetriebnahme](page:installation-commissioning)."
+            },
+            {
+              "title": "Hochlauf",
+              "text": "Erstmuster-Radsätze werden gefertigt und gemeinsam mit Ihrem Qualitätsteam geprüft, bevor die Serienfertigung beginnt."
+            },
+            {
+              "title": "Qualifizierung und Support",
+              "text": "Bediener und Instandhalter werden im Rahmen unseres [Schulungsprogramms](page:training) geschult; [Ersatzteile](page:spare-supply) und Serviceverträge schließen sich an."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "id": "benefits",
+          "eyebrow": "Ergebnisse",
+          "heading": "Warum Werke für diese Werkstatt auf einen Partner setzen",
+          "paragraphs": [
+            "Wird die Rad- und Achswerkstatt als ein System konstruiert, liefert sie fertige Radsätze in dem Takt, den die Drehgestelllinie braucht – und die für die Fahrzeugabnahme erforderlichen Nachweise gleich mit."
+          ],
+          "bullets": [
+            "Radsatzausbringung abgestimmt auf das Montageprogramm",
+            "Gleichbleibende Pressverbände und Geometrie über alle Fahrzeugprojekte hinweg",
+            "Vollständige Dokumentation je Radsatz für die Abnahme",
+            "Umrüstungen zwischen Produktvarianten in Maschinen und Vorrichtungen eingeplant",
+            "Ein Vertrag für Ausrüstung, Integration und Support der Werkstatt"
+          ]
+        },
+        {
+          "type": "faq",
+          "id": "faq",
+          "heading": "Fragen von Herstellern",
+          "items": [
+            {
+              "q": "Liefert HYT Drehgestellrahmen oder Ausrüstung für den Wagenkastenbau?",
+              "a": "Nein. Der Leistungsumfang von HYT umfasst die Rad- und Achswerkstatt: Bearbeiten, Aufpressen, Messen und Auswuchten von Radsätzen sowie Handling und Integration innerhalb dieser Werkstatt. Drehgestell- und Wagenkastenfertigung verbleiben beim Hersteller und seinen anderen Lieferanten."
+            },
+            {
+              "q": "Kann die Werkstatt mehrere Fahrzeugprojekte gleichzeitig bedienen?",
+              "a": "Ja. Die Maschinen werden für das Spektrum der zu erwartenden Rad- und Achskonstruktionen ausgelegt, und für jede Variante werden Teileprogramme und Vorrichtungen vorbereitet – so werden Umrüstungen zur Routine."
+            },
+            {
+              "q": "Können wir klein anfangen und später erweitern?",
+              "a": "Ja. Im Layout lassen sich Flächen und Versorgungsanschlüsse für zusätzliche Maschinen vorhalten, sodass die Kapazität mit Ihrem Auftragsbestand wächst, ohne die Werkstatt umzubauen. Für das Verfahren fertiger Fahrzeuge auf dem Werksgelände kann zudem ein Zweiwege-Rangierfahrzeug (Shunter) ergänzt werden."
+            },
+            {
+              "q": "Wie wird die Werkstatt an unser Qualitätssystem angebunden?",
+              "a": "Mess-, Aufpress- und Auswuchtergebnisse werden unter der Identität des jeweiligen Radsatzes gespeichert. Datenformat und Übertragungsweg stimmen wir während des Engineerings mit Ihren Qualitäts- und IT-Teams ab. Zu vernetztem Handling und Datenfluss siehe [Automatisierung der Radsatzwerkstatt](page:wheel-shop-automation)."
+            }
+          ]
+        },
+        {
+          "type": "cta",
+          "heading": "Sie bauen eine Rad- und Achswerkstatt in Ihrem Werk auf?",
+          "text": "Teilen Sie uns Ihr Fahrzeugprogramm und Ihren Radsatzbedarf mit. Wir skizzieren eine Werkstatt, die mit Ihrer Drehgestelllinie Schritt hält.",
+          "primary": {"label": "Projekt besprechen", "page": "contact-us"},
+          "secondary": {"label": "Schlüsselfertige EPC-Projekte", "page": "turnkey-project"}
+        }
+      ]
+    },
+    "ts-wheelset-plants": {
+      "nav": "Radsatzfertigungswerke",
+      "title": "Schlüsselfertige Werke für die Radsatzfertigung (EPC)",
+      "description": "Schlüsselfertige Radsatzwerke (EPC) von HYT: Achswellen- und Radbearbeitung, Aufpressen, Messen, dynamisches Auswuchten, Rückverfolgbarkeit und Endprüfung.",
+      "eyebrow": "Schlüsselfertige Lösungen",
+      "h1": "Schlüsselfertige Werke für die Fertigung neuer Radsätze",
+      "lede": "Ein Radsatzwerk macht aus geschmiedeten Rädern und Achswellen fertige, rückverfolgbare Radsätze. HYT konstruiert den gesamten Fertigungsablauf und liefert die Maschinen, die sein Herzstück bilden.",
+      "summary": "Werke für die Fertigung neuer Radsätze – Achswellen- und Radbearbeitung, Aufpressen, Messen, Auswuchten, Rückverfolgbarkeit und Endprüfung.",
+      "blocks": [
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "HYT muss bestätigen, ob Referenz-Radsatzwerke genannt werden dürfen und welche Software für die Rückverfolgbarkeit und welche Handhabungstechnik zum eigenen Lieferumfang gehören."
+        },
+        {
+          "type": "text",
+          "id": "overview",
+          "eyebrow": "Die Anlage",
+          "heading": "Radsätze als Produkt fertigen",
+          "paragraphs": [
+            "Anders als eine Radsatzwerkstatt, die Radsätze aus dem Betrieb instand setzt, beginnt ein Radsatzwerk mit neuen Bauteilen: geschmiedeten oder gewalzten Rädern und geschmiedeten Achswellen. Seine Produkte gehen an Fahrzeughersteller, Bahnen und Metrobetreiber – oft nach mehreren Kundenspezifikationen gleichzeitig.",
+            "Die technischen Anforderungen sind streng. Jede Radbohrung muss zu dem Radsitz passen, auf den das Rad aufgepresst wird, jeder Pressverband muss durch seine Kraftaufzeichnung belegt sein, und Unwucht und Geometrie müssen die Grenzwerte des Kunden einhalten. Käufer erwarten für jeden Radsatz eine lückenlose Historie – von der Identität der Schmiedeteile bis zum Endprüfbericht.",
+            "Beherrschbar bleiben diese Anforderungen nur, wenn das Werk als ein System konstruiert wird, statt Maschinen einzeln zu beschaffen. HYT plant die Stationsfolge, die Datenverbindungen und das Handling gemeinsam und liefert die Bearbeitungs-, Press-, Mess- und Auswuchtausrüstung aus eigener Fertigung."
+          ],
+          "image": "projects/wheel-shop-automation-line",
+          "image_alt": "Beispielabbildung einer Radsatzfertigungslinie, in der Räder und Achswellen zwischen den Maschinen bewegt werden",
+          "layout": "image-right"
+        },
+        {
+          "type": "features",
+          "id": "scope",
+          "eyebrow": "Was HYT liefert",
+          "heading": "Was ein Radsatzwerk-Projekt umfasst",
+          "cols": 3,
+          "items": [
+            {
+              "icon": "compass",
+              "title": "Werkskonzept",
+              "text": "Produktspektrum, Ausbringungsziel und Schichtmodell, übersetzt in eine Stationsfolge und ein Gebäudelayout."
+            },
+            {
+              "icon": "disc",
+              "title": "Achswellen- und Radbearbeitung",
+              "text": "Stationen zum Achswellendrehen sowie zum Bohren und Profilieren der Räder, ausgelegt auf das Volumen des Werks."
+            },
+            {
+              "icon": "arrow-left-right",
+              "title": "Gepaarte Montage",
+              "text": "Bohrungs- und Sitzmaße werden gepaart, damit jedes Rad das vorgegebene Übermaß auf der Achswelle erreicht."
+            },
+            {
+              "icon": "speedometer",
+              "title": "Auswuchten und Geometrie",
+              "text": "Dynamisches Auswuchten und Radsatzmessung nach den Grenzwerten des jeweiligen Kunden."
+            },
+            {
+              "icon": "upc-scan",
+              "title": "Rückverfolgbarkeit",
+              "text": "Bauteilidentitäten, verknüpft mit Messwerten, Aufpresskurven und Prüfergebnissen."
+            },
+            {
+              "icon": "tools",
+              "title": "Hochlauf und Support",
+              "text": "Von der Probefertigung bis zur Serienproduktion, Personalschulung und langfristiger Service für jede HYT-Maschine."
+            }
+          ]
+        },
+        {
+          "type": "steps",
+          "id": "process",
+          "eyebrow": "Prozessablauf",
+          "heading": "Station für Station durch ein Radsatzwerk",
+          "items": [
+            {
+              "title": "Wareneingang",
+              "text": "Geschmiedete Räder und Achswellen werden identifiziert, mit ihren Begleitpapieren abgeglichen und im Rückverfolgbarkeitssystem erfasst."
+            },
+            {
+              "title": "Achswellenbearbeitung",
+              "text": "Die [CNC-Achswellendrehmaschine ATL-01](page:axle-turning-lathe) dreht Achsschenkel, Sitze, Übergänge und Achsschaft; die Sitzdurchmesser werden für die Paarung gemessen."
+            },
+            {
+              "title": "Radbearbeitung",
+              "text": "Jedes Rad wird auf der [Vertikal-Dreh- und Bohrmaschine](page:vertical-turning-boring-machine) gebohrt und profiliert, wobei die Bohrung auf den zugeordneten Radsitz ausgelegt wird."
+            },
+            {
+              "title": "Aufpressen",
+              "text": "Eine [Radsatzpresse](page:wheel-presses) presst beide Räder auf den vorgegebenen Radinnenabstand auf und zeichnet die Kraft-Weg-Kurve auf."
+            },
+            {
+              "title": "Messen und Auswuchten",
+              "text": "Die [Radsatzmessstation](page:wheel-measuring-station) prüft die Geometrie; die [dynamische Auswuchtmaschine](page:dynamic-wheel-balancing-machine) misst die Unwucht und gibt die Korrektur vor."
+            },
+            {
+              "title": "Endprüfung und Versand",
+              "text": "Der vollständige Datensatz wird geprüft; anschließend wird der Radsatz gekennzeichnet, geschützt und an den Kunden freigegeben."
+            }
+          ]
+        },
+        {
+          "type": "cards",
+          "id": "equipment",
+          "eyebrow": "HYT-Maschinen",
+          "heading": "Ausrüstung im Werk",
+          "cols": 3,
+          "items": [
+            {"page": "axle-turning-lathe", "image": "products/axle-turning-lathe"},
+            {"page": "vertical-turning-boring-machine", "image": "products/vertical-turning-boring-machine"},
+            {"page": "wheel-presses", "image": "products/wheel-press"},
+            {"page": "wheel-measuring-station", "image": "products/wheel-measuring-station"},
+            {"page": "dynamic-wheel-balancing-machine", "image": "products/dynamic-wheel-balancing-machine"},
+            {"page": "surface-wheel-lathe", "image": "products/surface-wheel-lathe"}
+          ]
+        },
+        {
+          "type": "steps",
+          "id": "delivery",
+          "eyebrow": "Projektabwicklung",
+          "heading": "Umsetzung des Werks",
+          "intro": "Unser Ansatz für [schlüsselfertige EPC-Projekte](page:turnkey-project), angewandt auf die Serienfertigung eines sicherheitskritischen Bauteils.",
+          "items": [
+            {
+              "title": "Produkt- und Kapazitätsdefinition",
+              "text": "Rad- und Achswellentypen, Kundennormen und Ausbringungsziele werden mit Ihrem Team festgelegt."
+            },
+            {
+              "title": "Werksplanung",
+              "text": "Layout, Fundamente, Krane, Handling und das Datenmodell für die Rückverfolgbarkeit werden gemeinsam konstruiert."
+            },
+            {
+              "title": "Fertigung und Werksabnahme",
+              "text": "HYT-Maschinen werden vor dem Versand in unserem Werk in Pune gebaut und geprüft."
+            },
+            {
+              "title": "Montage und Hochlauf",
+              "text": "[Montage & Inbetriebnahme](page:installation-commissioning) vor Ort, anschließend Probefertigung, bis die vereinbarte Ausbringung und Qualität erreicht sind."
+            },
+            {
+              "title": "Produktionsbegleitung",
+              "text": "[Schulung](page:training), [Ersatzteile](page:spare-supply) und ein [umfassender Wartungsvertrag (CMC)](page:comprehensive-annual-maintenance-contract) sichern eine stabile Ausbringung."
+            }
+          ]
+        },
+        {
+          "type": "features",
+          "id": "benefits",
+          "eyebrow": "Ergebnisse",
+          "heading": "Was der Betreiber des Werks gewinnt",
+          "cols": 3,
+          "items": [
+            {
+              "icon": "graph-up",
+              "title": "Planbare Ausbringung",
+              "text": "Eine ausgewogene Stationsfolge – keine einzelne Maschine bestimmt das Tempo des gesamten Werks."
+            },
+            {
+              "icon": "check2-circle",
+              "title": "Nachweisbare Qualität",
+              "text": "Jeder Radsatz verlässt das Werk mit dokumentierter Aufpresskurve, Geometrie und Auswuchtergebnissen."
+            },
+            {
+              "icon": "link-45deg",
+              "title": "Verantwortung aus einer Hand",
+              "text": "Ein Partner steht für die Maschinen, die Datenverbindungen und die Leistung des Werks ein."
+            }
+          ]
+        },
+        {
+          "type": "faq",
+          "id": "faq",
+          "heading": "Fragen zum Radsatzwerk",
+          "items": [
+            {
+              "q": "Worin unterscheidet sich ein Radsatzwerk von einer Radsatzwerkstatt?",
+              "a": "Ein Radsatzwerk fertigt neue Radsätze aus neuen Rädern und Achswellen. Eine Radsatzwerkstatt revidiert Radsätze, die bereits im Betrieb sind – siehe [Radsatzwerkstätten](page:ts-wheel-shops)."
+            },
+            {
+              "q": "Wie wird die Rückverfolgbarkeit erreicht?",
+              "a": "Jedes Rad und jede Achswelle wird beim Eingang identifiziert. Messwerte, die beim Aufpressen verwendete Paarung, die Kraft-Weg-Aufzeichnung sowie die Auswucht- und Endprüfergebnisse werden unter dieser Identität gespeichert, sodass sich die Historie eines Radsatzes jederzeit abrufen lässt."
+            },
+            {
+              "q": "Können aufgepresste Radsätze im Werk fertigprofiliert werden?",
+              "a": "Manche Spezifikationen verlangen, dass das Laufflächenprofil erst nach dem Aufpressen fertigbearbeitet wird, damit beide Räder exakt rund zur Achswelle laufen. Dafür kann eine [CNC-Überflur-Radsatzdrehmaschine](page:surface-wheel-lathe) in die Linie integriert werden."
+            },
+            {
+              "q": "Kann ein Werk nach unterschiedlichen Kundennormen fertigen?",
+              "a": "Ja. Arbeitsbereiche der Maschinen, Werkzeuge, Pressprogramme und Prüfgrenzwerte werden während des Engineerings für das gesamte Produktspektrum festgelegt, und jeder Radsatz wird nach den Anforderungen seines Auftrags bearbeitet."
+            }
+          ]
+        },
+        {
+          "type": "cta",
+          "heading": "Planen Sie ein Radsatzwerk?",
+          "text": "Senden Sie uns Ihr Produktspektrum und Ihre Ausbringungsziele. Wir skizzieren das Werk, seine Schlüsselmaschinen und den Weg zur Serienfertigung.",
+          "primary": {"label": "Projekt besprechen", "page": "contact-us"},
+          "secondary": {"label": "Schlüsselfertige EPC-Projekte", "page": "turnkey-project"}
+        }
+      ]
+    },
+    "ts-wheel-machining-lines": {
+      "nav": "Radbearbeitungslinien",
+      "title": "Schlüsselfertige Radbearbeitungslinien für die Bahn",
+      "description": "Schlüsselfertige CNC-Linien für Eisenbahnräder: Schrupp- und Schlichtdrehen von Lauffläche und Spurkranz, Nabenbohren auf Vertikaldrehmaschinen und Messen.",
+      "eyebrow": "Schlüsselfertige Lösungen",
+      "h1": "Schlüsselfertige Radbearbeitungslinien",
+      "lede": "Eisenbahnräder müssen die Bearbeitung mit exakter Bohrung und rundlaufendem Profil verlassen. HYT konzipiert dedizierte Linien rund um seine CNC-Vertikal-Dreh- und Bohrmaschinen – mit Messung und Handling zwischen den Stationen.",
+      "summary": "Dedizierte Linien für die Bearbeitung von Eisenbahnrädern – Schrupp- und Schlichtdrehen, Nabenbohren, Messen und Handling zwischen den Stationen.",
+      "blocks": [
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "HYT muss bestätigen, welche Referenzen für Radbearbeitungslinien genannt werden dürfen und welche Handhabungstechnik (Lader, Förderer, Wendeeinheiten) zum eigenen Lieferumfang gehört."
+        },
+        {
+          "type": "text",
+          "id": "overview",
+          "eyebrow": "Die Anlage",
+          "heading": "Eine Linie, keine Reihe von Maschinen",
+          "paragraphs": [
+            "Eine Radbearbeitungslinie übernimmt lose Eisenbahnräder – neue Schmiedeteile oder Ersatzräder für die Revision – und bearbeitet Lauffläche, Spurkranz, Radkranzflächen, Nabenstirnflächen und Nabenbohrung nach Zeichnung. Sie kann eigenständig eine Aufpresserei versorgen oder einen Abschnitt eines größeren Radsatzwerks bilden.",
+            "Die meisten Schwierigkeiten liegen zwischen den Schnitten. Ein Rad wird üblicherweise in zwei Aufspannungen bearbeitet und muss dafür gewendet werden; es ist schwer, und ein Bediener, der auf den Kran wartet, bestimmt schnell das Tempo der ganzen Linie. Schruppschnitte durch die Schmiedehaut belasten die Werkzeuge stark, während beim Schlichten Bohrungsdurchmesser und Rundlauf in engen Toleranzen gehalten werden müssen. Wie diese Arbeitsgänge auf die Maschinen verteilt werden, entscheidet über die Ausbringung der Linie.",
+            "HYT plant die Linie als Ganzes: die Aufteilung der Arbeitsgänge auf die Stationen, das Handling und Wenden dazwischen sowie die Punkte, an denen gemessen wird. Die Bearbeitungsstationen selbst sind [CNC-Vertikal-Dreh- und Bohrmaschinen](page:vertical-turning-boring-machine) von HYT."
+          ],
+          "image": "products/wheelset-profile-closeup",
+          "image_alt": "Beispielabbildung des Laufflächen- und Spurkranzprofils eines Eisenbahnrads nach der Bearbeitung",
+          "layout": "image-right"
+        },
+        {
+          "type": "features",
+          "id": "scope",
+          "eyebrow": "Was HYT liefert",
+          "heading": "Drei Faktoren, die eine Radlinie zum Laufen bringen",
+          "cols": 3,
+          "items": [
+            {
+              "icon": "layers",
+              "title": "Arbeitsgangaufteilung und Taktabgleich",
+              "text": "Schruppen und Schlichten werden so auf die Stationen verteilt, dass keine einzelne Maschine die übrigen aufhält."
+            },
+            {
+              "icon": "arrow-down-up",
+              "title": "Handling und Wenden",
+              "text": "Beladen, Transfer zwischen den Stationen und Wenden des Rades zwischen seinen beiden Aufspannungen."
+            },
+            {
+              "icon": "rulers",
+              "title": "Inline-Messung",
+              "text": "Bohrung, Radkranz und Profil werden an festgelegten Punkten geprüft; die Ergebnisse werden jedem Rad zugeordnet."
+            }
+          ]
+        },
+        {
+          "type": "steps",
+          "id": "process",
+          "eyebrow": "Prozessablauf",
+          "heading": "Arbeitsgänge entlang der Linie",
+          "items": [
+            {
+              "title": "Beladen und Identifizieren",
+              "text": "Jedes Rad wird identifiziert, auf die erste Station gelegt und an seinen Bezugsflächen ausgerichtet."
+            },
+            {
+              "title": "Erste Aufspannung",
+              "text": "Die erste Seite wird bearbeitet: Radkranz- und Nabenflächen, ein Teil des Profils und eine Vorbohrung, die das Schmiedeaufmaß entfernt."
+            },
+            {
+              "title": "Wenden",
+              "text": "Das Rad wird gewendet, damit die zweite Seite von den bereits bearbeiteten Flächen aus bearbeitet werden kann."
+            },
+            {
+              "title": "Zweite Aufspannung und Schlichten",
+              "text": "Die übrigen Flächen werden bearbeitet, Lauffläche und Spurkranz auf Profil fertiggedreht und die Nabenbohrung auf Enddurchmesser gebracht."
+            },
+            {
+              "title": "Messen und Auswuchten",
+              "text": "Bohrung, Radkranzmaße und Profil werden in der Linie geprüft; sofern die Spezifikation es verlangt, wird das Rad vor der Freigabe ausgewuchtet."
+            },
+            {
+              "title": "Weitertransport",
+              "text": "Freigegebene Räder gelangen mit ihren Daten zur Aufpresserei, ins Lager oder in den Versand; Räder außerhalb der Toleranz werden zur Nacharbeit ausgeschleust."
+            }
+          ]
+        },
+        {
+          "type": "cards",
+          "id": "equipment",
+          "eyebrow": "HYT-Maschinen",
+          "heading": "Ausrüstung der Linie",
+          "cols": 3,
+          "items": [
+            {"page": "vertical-turning-boring-machine", "image": "products/vertical-turning-boring-machine"},
+            {"page": "wheel-measuring-station", "image": "products/wheel-measuring-station"},
+            {"page": "dynamic-wheel-balancing-machine", "image": "products/dynamic-wheel-balancing-machine"}
+          ]
+        },
+        {
+          "type": "list",
+          "id": "delivery",
+          "heading": "Umsetzung einer Radbearbeitungslinie",
+          "intro": "Eine gezielte Anwendung unseres Ansatzes für [schlüsselfertige EPC-Projekte](page:turnkey-project).",
+          "cols": 1,
+          "items": [
+            "**Teile- und Mengenanalyse:** Radzeichnungen, Schmiedeaufmaße und Jahresstückzahlen bestimmen die Anzahl der Stationen und ihre Aufgaben.",
+            "**Linienlayout und Fundamente:** Maschinenpositionen, Handlingbereich und Fundamente werden abgestimmt und für die Bauarbeiten freigegeben.",
+            "**Werkzeuge und Teileprogramme:** Zerspanungsstrategien und CNC-Programme werden vorbereitet und bei der [Montage & Inbetriebnahme](page:installation-commissioning) an Ihren Rädern erprobt.",
+            "**Bedienerschulung:** Einrichter und Bediener werden im Rahmen unseres [Schulungsprogramms](page:training) an den Maschinen und in den Linienabläufen geschult.",
+            "**Support und Ausbau:** [Ersatzteile & Support](page:spare-supply) und ein [jährlicher Wartungsvertrag](page:annual-maintenance-contract) halten die Linie produktiv; mit [Automatisierung der Radsatzwerkstatt](page:wheel-shop-automation) lässt sie sich später weiter vernetzen."
+          ]
+        },
+        {
+          "type": "text",
+          "id": "benefits",
+          "eyebrow": "Ergebnisse",
+          "heading": "Ergebnisse für den Linienbetreiber",
+          "paragraphs": [
+            "Eine Linie, die als ein Prozess abgestimmt und gemessen wird, liefert eine stetige Ausbringung – und Räder, die sich gleich beim ersten Mal korrekt aufpressen lassen."
+          ],
+          "bullets": [
+            "Gleichbleibende Bohrungsmaße für zuverlässige Pressverbände",
+            "Profile nach Zeichnung – neue Räder gehen ohne Korrekturschnitte in Betrieb",
+            "Weniger Kranhandling und weniger manuelles Wenden",
+            "Messdaten, die jedes Rad bis zur Presse begleiten",
+            "Ein Lieferant, verantwortlich für Maschinen, Handling und Linienleistung"
+          ]
+        },
+        {
+          "type": "faq",
+          "id": "faq",
+          "heading": "Fragen zur Radlinie",
+          "items": [
+            {
+              "q": "Warum Vertikaldrehmaschinen für Eisenbahnräder?",
+              "a": "Das Rad liegt flach auf einem Rundtisch – schwere Räder lassen sich so leicht beladen und bleiben unter Schnittlast stabil. Lauffläche, Spurkranz, Stirnflächen und Bohrung sind alle von oben erreichbar. Siehe [CNC-Vertikal-Dreh- und Bohrmaschine YVM-04](page:vertical-turning-boring-machine)."
+            },
+            {
+              "q": "Wie viele Maschinen braucht eine Radlinie?",
+              "a": "Das hängt von Radgröße, Schmiedeaufmaß, geforderter Ausbringung und Schichtmodell ab. Wir berechnen die Taktzeiten für Ihre Räder und schlagen die Anzahl der Stationen sowie die Aufteilung der Arbeitsgänge vor."
+            },
+            {
+              "q": "Kann die Linie auch Radreifen bearbeiten?",
+              "a": "Ja, sofern Ihre Flotte bereifte Räder nutzt. Die Vertikal-Dreh- und Bohrmaschine bearbeitet auch Radreifen und andere rotationssymmetrische Radsatzbauteile, und das Linienlayout berücksichtigt sie, wenn dies vorgegeben ist."
+            },
+            {
+              "q": "Hat HYT bereits Vertikaldrehmaschinen für Eisenbahnräder geliefert?",
+              "a": "Ja. HYT hat eine CNC-Vertikaldrehmaschine an das Triebzug-Betriebswerk Sanpada in Mumbai und eine CNC-Vertikal-Revolverdrehmaschine an die State Railway of Thailand in Bangkok geliefert. Details finden Sie unter [Realisierte Projekte](page:executed-projects)."
+            }
+          ]
+        },
+        {
+          "type": "cta",
+          "heading": "Planen Sie eine Radbearbeitungslinie?",
+          "text": "Senden Sie uns Ihre Radzeichnungen und Jahresmengen. Wir schlagen Ihnen ein Linienkonzept, ein Stationslayout und eine Abschätzung der Taktzeiten vor.",
+          "primary": {"label": "Projekt besprechen", "page": "contact-us"},
+          "secondary": {"label": "Realisierte Projekte", "page": "executed-projects"}
+        }
+      ]
+    },
+    "ts-axle-machining-lines": {
+      "nav": "Achswellenbearbeitungslinien",
+      "title": "Schlüsselfertige Achswellenbearbeitungslinien für die Bahn",
+      "description": "Schlüsselfertige Linien für neue und revidierte Eisenbahn-Achswellen: CNC-Achswellendrehen, Drehen und Glattwalzen von Achsschenkeln, Messen und Handling.",
+      "eyebrow": "Schlüsselfertige Lösungen",
+      "h1": "Schlüsselfertige Achswellenbearbeitungslinien",
+      "lede": "Eisenbahn-Achswellen tragen die volle Last des Fahrzeugs und müssen jahrzehntelang dauerfest sein. HYT plant Achswellenlinien für Neufertigung, Revision oder beides – rund um seine CNC-Achswellendrehmaschinen und Achsschenkel-Glattwalzmaschinen.",
+      "summary": "Linien zum Achswellendrehen, zum Drehen und Glattwalzen von Achsschenkeln, zum Messen und Handling – für Neufertigung, Revision oder beides.",
+      "blocks": [
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "HYT muss etwaige Referenzanlagen für Achswellenbearbeitungslinien sowie die Handhabungs- und Achsmesstechnik im eigenen Lieferumfang bestätigen."
+        },
+        {
+          "type": "text",
+          "id": "overview",
+          "eyebrow": "Die Anlage",
+          "heading": "Zwei Arten der Achsbearbeitung, ein Linienkonzept",
+          "paragraphs": [
+            "Eine Achswellenbearbeitungslinie dreht Eisenbahn-Achswellen nach Zeichnung und bearbeitet die Flächen fertig, auf denen Lager und Räder sitzen werden. Durchmesser, Konzentrizität und die Übergangsradien zwischen den Sitzen sind entscheidend, denn Ermüdungsrisse entstehen dort, wo Geometrie oder Oberflächengüte nicht stimmen.",
+            "Unter diesen Begriff fallen zwei sehr unterschiedliche Aufgaben. Die **Neufertigung** beginnt mit einem Schmiederohling, der auf ganzer Länge gedreht werden muss. Die **Revision** beginnt mit einer Achswelle, die bereits jahrelang im Einsatz war: Ihre Achsschenkel müssen instand gesetzt und nachbearbeitet werden, während der Rest der Achswelle unverändert bleibt. Werden beide Aufgaben auf ungeeigneten Maschinen gemischt, führt das zu langen Rüstzeiten, verschenkter Kapazität und uneinheitlichen Oberflächen.",
+            "HYT baut für jede Aufgabe eine eigene Maschine. Für neue Achswellen dreht die [CNC-Achswellendrehmaschine ATL-01](page:axle-turning-lathe) Achsschenkel, Staubringsitze, Radsitze, Übergänge und Achsschaft. Für die Revision dreht die [Achsschenkel-Dreh- und Glattwalzmaschine](page:axle-journal-turning-burnishing-lathe) verschlissene Achsschenkel wieder in die Toleranz und walzt sie anschließend glatt. Wir planen die Linie für die Arbeiten, die Ihr Werk ausführt – oder für beides, wenn eine Werkstatt neue Achswellen fertigt und gebrauchte revidiert."
+          ],
+          "image": "products/axle-journal-turning-burnishing-lathe",
+          "image_alt": "Beispielabbildung einer Achsschenkel-Dreh- und Glattwalzmaschine bei der Instandsetzung des Achsschenkels einer Eisenbahn-Achswelle",
+          "layout": "image-right"
+        },
+        {
+          "type": "features",
+          "id": "scope",
+          "eyebrow": "Was HYT liefert",
+          "heading": "Leistungsumfang einer Achswellenlinie",
+          "cols": 3,
+          "items": [
+            {
+              "icon": "signpost-split",
+              "title": "Neufertigung, Revision oder gemischt",
+              "text": "Ein Linienkonzept für neue Achswellen, Revisionsachsen oder beide Ströme mit gemeinsamem Handling und gemeinsamer Messung."
+            },
+            {
+              "icon": "gear",
+              "title": "Komplettbearbeitung von Achswellen",
+              "text": "ATL-01-Stationen, die geschmiedete Achswellen auf ganzer Länge nach Zeichnung drehen."
+            },
+            {
+              "icon": "record-circle",
+              "title": "Achsschenkelinstandsetzung",
+              "text": "Stationen zum Drehen und Glattwalzen von Achsschenkeln für Achswellen aus dem Betrieb."
+            },
+            {
+              "icon": "rulers",
+              "title": "Achswellenmessung",
+              "text": "Durchmesser und Sitzmaße werden vor und nach der Bearbeitung erfasst – bereit für die Paarung mit den Rädern."
+            },
+            {
+              "icon": "arrows-move",
+              "title": "Achswellen-Handling",
+              "text": "Sicherer Transfer langer, schwerer Achswellen zwischen Stationen, Regalen und Lager."
+            },
+            {
+              "icon": "person-gear",
+              "title": "Schulung und Service",
+              "text": "Bedienerschulung, Ersatzteile und Wartungsverträge für jede HYT-Maschine der Linie."
+            }
+          ]
+        },
+        {
+          "type": "steps",
+          "id": "process",
+          "eyebrow": "Prozessablauf",
+          "heading": "Typischer Ablauf in einer Achswellenlinie",
+          "intro": "Neue und revidierte Achswellen nehmen unterschiedliche Wege durch die Linie. Die Schritte zeigen, wo sie sich trennen und wo sie wieder zusammenkommen.",
+          "items": [
+            {
+              "title": "Eingang und Identifizierung",
+              "text": "Schmiederohlinge oder gebrauchte Achswellen werden identifiziert und erfasst; gebrauchte Achswellen werden vor der Bearbeitung gereinigt und von Ihrem Prüfpersonal freigegeben."
+            },
+            {
+              "title": "Zentrieren und Einrichten",
+              "text": "Die Achswelle wird zwischen Spitzen aufgenommen, sodass alle Durchmesser konzentrisch zur selben Achse bearbeitet werden."
+            },
+            {
+              "title": "Komplettdrehen (neue Achswellen)",
+              "text": "Die ATL-01 dreht Achsschenkel, Staubringsitze, Radsitze, Übergangsradien und Achsschaft nach Zeichnung."
+            },
+            {
+              "title": "Achsschenkelinstandsetzung (Revisionsachsen)",
+              "text": "Verschlissene oder beschädigte Achsschenkel werden innerhalb der zulässigen Grenzen überdreht und auf die vorgegebene Oberflächengüte glattgewalzt."
+            },
+            {
+              "title": "Messen",
+              "text": "Durchmesser und Sitzmaße werden erfasst; für das Aufpressen der Räder werden die Sitzdaten zur Paarung mit den Radbohrungen weitergegeben."
+            },
+            {
+              "title": "Weitergabe an Aufpressen oder Lager",
+              "text": "Freigegebene Achswellen gelangen mit ihren Nachweisen zur [Radsatzpresse](page:wheel-presses) oder ins Lager."
+            }
+          ]
+        },
+        {
+          "type": "cards",
+          "id": "equipment",
+          "eyebrow": "HYT-Maschinen",
+          "heading": "Ausrüstung der Linie",
+          "cols": 3,
+          "items": [
+            {"page": "axle-turning-lathe", "image": "products/axle-turning-lathe"},
+            {"page": "axle-journal-turning-burnishing-lathe", "image": "products/axle-journal-turning-burnishing-lathe"},
+            {"page": "wheel-presses", "image": "products/wheel-press"}
+          ]
+        },
+        {
+          "type": "steps",
+          "id": "delivery",
+          "eyebrow": "Projektabwicklung",
+          "heading": "Umsetzung einer Achswellenlinie",
+          "intro": "Eine gezielte Anwendung unseres Ansatzes für [schlüsselfertige EPC-Projekte](page:turnkey-project).",
+          "items": [
+            {
+              "title": "Achswellenspektrum und Mengen",
+              "text": "Achswellenzeichnungen, Stückzahlen für Neufertigung und Revision sowie Prüfanforderungen bestimmen das Linienkonzept."
+            },
+            {
+              "title": "Layout und Fundamente",
+              "text": "Maschinenpositionen, Achswellenregale und Transportwege werden geplant, und die Fundamentdaten werden für die Bauarbeiten übergeben."
+            },
+            {
+              "title": "Lieferung und Montage",
+              "text": "Die Maschinen werden in Pune gebaut und geprüft, dann vor Ort montiert und an Ihren Achswellen nachgewiesen – siehe [Montage & Inbetriebnahme](page:installation-commissioning)."
+            },
+            {
+              "title": "Schulung und Lebenszyklus-Support",
+              "text": "[Schulung](page:training) für Bediener und Instandhalter, danach Wartungsverträge sowie [Retrofit & Modernisierung](page:retro-fitment-upgradation) über die gesamte Lebensdauer der Linie."
+            }
+          ]
+        },
+        {
+          "type": "features",
+          "id": "benefits",
+          "eyebrow": "Ergebnisse",
+          "heading": "Was der Linienbetreiber gewinnt",
+          "cols": 3,
+          "items": [
+            {
+              "icon": "shield-check",
+              "title": "Ermüdungsgerechte Bearbeitung",
+              "text": "Korrekte Geometrie und Oberfläche an Sitzen, Übergängen und Achsschenkeln – dort, wo sich die Lebensdauer einer Achswelle entscheidet."
+            },
+            {
+              "icon": "recycle",
+              "title": "Mehr Achswellen zurück im Betrieb",
+              "text": "Dank Achsschenkelinstandsetzung können brauchbare Achswellen weiterverwendet werden, statt ersetzt zu werden."
+            },
+            {
+              "icon": "diagram-2",
+              "title": "Die richtige Maschine für jede Aufgabe",
+              "text": "Neufertigung und Revision laufen auf den dafür konstruierten Maschinen – ohne lange Rüstzeiten und ungenutzte Kapazität."
+            }
+          ]
+        },
+        {
+          "type": "faq",
+          "id": "faq",
+          "heading": "Fragen zur Achswellenlinie",
+          "items": [
+            {
+              "q": "Was ist der Unterschied zwischen der ATL-01 und der Achsschenkel-Dreh- und Glattwalzmaschine?",
+              "a": "Die [ATL-01](page:axle-turning-lathe) ist eine Fertigungsmaschine, die eine komplette Achswelle aus einem Roh- oder Schmiederohling dreht. Die [Achsschenkel-Dreh- und Glattwalzmaschine](page:axle-journal-turning-burnishing-lathe) ist eine Revisionsmaschine, die die Achsschenkel von Achswellen aus dem Betrieb instand setzt und glattwalzt. Eine Linie für neue Achswellen wird um die erste aufgebaut, eine Revisionslinie um die zweite."
+            },
+            {
+              "q": "Warum werden Achsschenkel nach dem Drehen glattgewalzt?",
+              "a": "Gehärtete Rollen drücken die vom Drehwerkzeug hinterlassenen Spitzen ein und erzeugen eine glatte, verdichtete Oberfläche für das Lager. Glattwalzen ist ein Kaltumformverfahren – es entstehen keine Späne."
+            },
+            {
+              "q": "Kann eine Linie neue und revidierte Achswellen bearbeiten?",
+              "a": "Ja, wenn Ihr Werk beides benötigt. Die beiden Ströme nutzen unterschiedliche Maschinen, können sich aber Eingang, Handling, Messung und Lager teilen – das hält das Gebäude kompakt."
+            },
+            {
+              "q": "Gehört die zerstörungsfreie Prüfung der Achswellen zur Linie?",
+              "a": "Ultraschall- und Magnetpulverprüfung werden in der Regel vom Prüfpersonal des Betreibers nach den eigenen Verfahren der Bahn durchgeführt. Die Flächen für die Prüfung und den Achswellenfluss dorthin und zurück planen wir als Teil des Layouts ein."
+            }
+          ]
+        },
+        {
+          "type": "cta",
+          "heading": "Planen Sie eine Achswellenlinie?",
+          "text": "Teilen Sie uns Ihre Achswellenzeichnungen und den Anteil von Neufertigung und Revision mit. Wir schlagen Ihnen die Maschinen und ein Layout für die Linie vor.",
+          "primary": {"label": "Projekt besprechen", "page": "contact-us"},
+          "secondary": {"label": "Schlüsselfertige EPC-Projekte", "page": "turnkey-project"}
+        }
+      ]
+    }
+  }
+}

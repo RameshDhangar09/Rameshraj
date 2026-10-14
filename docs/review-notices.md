@@ -1,7 +1,7 @@
 # Content pending HYT approval (generated)
 
 Every yellow review note on the preview site, by page. Generated from the English master by `tools/gen_docs.py`.
-**34 notes on 34 pages.**
+**38 notes on 38 pages.**
 
 These notes are hidden by `python3 src/build.py --production`; resolve them before launch.
 
@@ -26,6 +26,10 @@ These notes are hidden by `python3 src/build.py --production`; resolve them befo
 | Executed Projects | `/executed-projects/` | HYT to supply the full list of approved executed projects with completion year, scope, photographs and written client permission to publish. HYT must also confirm whether the Indian Railways contract for nine CNC underfloor wheel lathes is complete (Executed) or still in progress (Under Execution). |
 | Projects Under Execution | `/under-execution/` | HYT to confirm the current status, scope and publishable details (photographs, client permission) for each project. Internal note: when a project is completed, move its section to Executed Projects. |
 | Wheel Shop Automation | `/wheel-shop-automation/` | HYT to confirm the automation scope it offers (handling equipment, software and data integration) and any reference installations that may be named on this page. |
+| Rolling Stock Manufacturing Facilities | `/turnkey-project/rolling-stock-manufacturing-facilities/` | HYT to confirm any reference installations at rolling stock manufacturers that may be named on this page, and the extent of factory integration (handling, data exchange) it offers. |
+| Wheelset Manufacturing Plants | `/turnkey-project/wheelset-manufacturing-plants/` | HYT to confirm whether any reference wheelset plants can be named, and the traceability software and handling equipment within its own supply. |
+| Wheel Machining Lines | `/turnkey-project/wheel-machining-lines/` | HYT to confirm any wheel machining line references that may be named, and which handling equipment (loaders, conveyors, turnover units) is within its own supply. |
+| Axle Machining Lines | `/turnkey-project/axle-machining-lines/` | HYT to confirm any reference installations for axle machining lines, and the handling and axle-measuring equipment within its own supply. |
 | Operation Contract | `/operation-contract/` | This service overlaps with Operation & Maintenance (O&M). HYT to confirm that both pages should remain and that the scope below (operation only, maintenance excluded) is correct. |
 | Service Contract | `/service-contract/` | This service overlaps with AMC and CMC. HYT to confirm that the Service Contract should be offered as a call-based, pay-per-visit agreement and confirm its scope. |
 | After-Sales Service Network | `/service-centers/` | HYT to supply the list of service centres and field service locations (city, address, contact) for publication on this page. |
