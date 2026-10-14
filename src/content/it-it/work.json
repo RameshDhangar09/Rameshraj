@@ -105,120 +105,356 @@
     },
     "career": {
       "nav": "Carriere",
-      "title": "Lavorare in HYT Engineering, Pune – Carriere",
-      "description": "Carriere in progettazione, assistenza, produzione e area commerciale presso HYT Engineering a Pune. Cosa offriamo, come selezioniamo e come candidarsi.",
-      "eyebrow": "Lavora con noi",
-      "h1": "Carriere in HYT Engineering",
-      "lede": "Progetti, costruisca e assista le macchine che garantiscono la sicurezza delle ruote ferroviarie. Cerchiamo persone orgogliose di un lavoro preciso e desiderose di vederlo in esercizio.",
-      "summary": "Perché scegliere HYT, le aree in cui lavorare, come funziona la selezione e come candidarsi.",
+      "title": "Carriere in HYT Engineering – Lavoro nel ferroviario",
+      "description": "Costruisca la Sua carriera nell'ingegneria ferroviaria con HYT a Pune: 45 anni di produzione di precisione, progetti globali, responsabilità reali e benefit.",
+      "eyebrow": "Lavorare in HYT",
+      "h1": "Costruisca la Sua carriera nell'ingegneria ferroviaria",
+      "lede": "Non offriamo semplicemente un lavoro: costruiamo carriere. Entri a far parte di una tradizione di 45 anni nella produzione di precisione e nei progetti ferroviari internazionali, in una cultura dove le ambizioni diventano realtà.",
+      "summary": "Cultura, benefit, strutture e team in cui lavorare – e come inviarci la Sua candidatura.",
+      "hero_actions": [
+        {
+          "label": "Invii la Sua candidatura",
+          "page": "career",
+          "anchor": "apply",
+          "icon": "send"
+        },
+        {
+          "label": "Vita in HYT",
+          "page": "memorialization"
+        }
+      ],
       "blocks": [
         {
-          "type": "features",
-          "eyebrow": "Perché HYT",
-          "heading": "Cosa offre lavorare da noi",
-          "cols": 3,
+          "type": "stats",
           "items": [
             {
-              "icon": "gear-wide-connected",
-              "title": "L'intera vita del prodotto",
-              "text": "Progettazione, produzione, messa in servizio e assistenza sotto lo stesso tetto – per vedere il quadro completo, non un frammento."
+              "value": "45+",
+              "label": "Anni di tradizione nell'ingegneria di precisione"
             },
             {
-              "icon": "mortarboard",
-              "title": "Imparare sul campo",
-              "text": "Lavoro al fianco di ingegneri e tecnici esperti, con formazione strutturata sulle nostre macchine."
+              "value": "Tutta l'India",
+              "label": "Presenza nei progetti ferroviari e metropolitani in tutta l'India"
             },
             {
-              "icon": "globe2",
-              "title": "Progetti in India e all'estero",
-              "text": "Macchine per ferrovie nazionali, operatori metropolitani e officine, con attività in cantiere per i ruoli di assistenza."
+              "value": "1.100+",
+              "label": "Macchine consegnate in tutto il mondo"
             },
             {
-              "icon": "shield-check",
-              "title": "La sicurezza prima di tutto",
-              "text": "Un sistema di gestione della salute e sicurezza sul lavoro certificato ISO 45001:2018."
-            },
-            {
-              "icon": "people",
-              "title": "Una squadra affiatata",
-              "text": "Incontri annuali, settimane della sicurezza, iniziative per la comunità e momenti di festa – scopra la [Vita in HYT](page:memorialization)."
-            },
-            {
-              "icon": "graph-up-arrow",
-              "title": "Spazio per crescere",
-              "text": "Le responsabilità arrivano presto per chi dimostra iniziativa e cura."
+              "value": "Globale",
+              "label": "Progetti in India e sui mercati internazionali"
             }
           ]
         },
         {
-          "type": "list",
-          "eyebrow": "Aree di attività",
-          "heading": "Dove potrebbe lavorare",
-          "intro": "Funzioni tipiche nel nostro stabilimento di Pune e presso i cantieri dei clienti.",
-          "cols": 2,
+          "type": "quote_band",
+          "quote": "Non offriamo semplicemente un lavoro: costruiamo carriere.",
+          "cite": "HYT Engineering Company Pvt. Ltd."
+        },
+        {
+          "type": "pillars",
+          "id": "culture",
+          "eyebrow": "La nostra cultura",
+          "heading": "Dove le ambizioni diventano realtà",
+          "paragraphs": [
+            "HYT è più di un luogo di lavoro: è una piattaforma dove ingegneri, manager e specialisti crescono fino a diventare leader. Con una presenza in tutta l'India e una proiezione internazionale in crescita, ogni ruolo in HYT è legato a infrastrutture ferroviarie reali che trasportano milioni di persone ogni giorno."
+          ],
+          "image": "careers/hyt-campus",
+          "image_alt": "Edificio del campus HYT Engineering a Pune circondato da giardini curati",
+          "badge_value": "45+",
+          "badge_label": "anni di tradizione ingegneristica",
           "items": [
-            "Progettazione e ingegneria meccanica",
-            "Ingegneria elettrica, CNC e automazione",
-            "Produzione, lavorazioni meccaniche e montaggio",
-            "Qualità e collaudo",
-            "Installazione, messa in servizio e assistenza sul campo",
-            "Progetti e gestione cantiere",
-            "Vendite, marketing e ingegneria applicativa",
-            "Acquisti, pianificazione e amministrazione",
-            "Tirocini e programmi per neolaureati"
+            {
+              "icon": "lightbulb",
+              "title": "Guidati dall'innovazione",
+              "text": "Sfide costanti che La portano oltre la Sua zona di comfort, in un ambiente in cui il Suo lavoro migliore viene notato e valorizzato."
+            },
+            {
+              "icon": "person-check",
+              "title": "Responsabilità e crescita",
+              "text": "Vera responsabilità sui progetti – dall'officina all'installazione presso il cliente – per sviluppare fin dall'inizio della carriera autonomia e competenze."
+            },
+            {
+              "icon": "globe-americas",
+              "title": "Esperienza internazionale",
+              "text": "Lavori su progetti ferroviari in tutta l'India e sui mercati internazionali, acquisendo competenze rare nei macchinari ferroviari di precisione."
+            }
+          ]
+        },
+        {
+          "type": "benefits",
+          "id": "benefits",
+          "eyebrow": "Benefit per i dipendenti",
+          "heading": "Tanti vantaggi per Lei e la Sua famiglia",
+          "intro": "Ci prendiamo cura delle persone che costruiscono le nostre macchine – al lavoro, a casa e nel tragitto tra l'uno e l'altra.",
+          "items": [
+            {
+              "icon": "heart-pulse",
+              "title": "Assistenza sanitaria",
+              "text": "Copertura sanitaria completa per i dipendenti e le loro famiglie, con supporto nelle emergenze e programmi di benessere."
+            },
+            {
+              "icon": "people",
+              "title": "Ambiente attento alle persone",
+              "text": "Una cultura aperta e collaborativa che valorizza rispetto, diversità e spirito di squadra in tutti i reparti e a tutti i livelli."
+            },
+            {
+              "icon": "bank",
+              "title": "Prestiti ai dipendenti",
+              "text": "Prestiti a tassi agevolati per esigenze personali, mediche o di studio – perché investiamo nella Sua stabilità."
+            },
+            {
+              "icon": "mortarboard",
+              "title": "Formazione e sviluppo",
+              "text": "Formazione tecnica e professionale strutturata, mentoring e apprendimento sul campo al fianco di specialisti esperti."
+            },
+            {
+              "icon": "cup-hot",
+              "title": "Mensa aziendale",
+              "text": "Una mensa interna sovvenzionata con pasti nutrienti, per affrontare la giornata lavorativa con energia dal mattino alla sera."
+            },
+            {
+              "icon": "bus-front",
+              "title": "Servizio navetta",
+              "text": "Servizio di trasporto organizzato dall'azienda per i dipendenti aventi diritto, per un tragitto quotidiano più sicuro e comodo."
+            }
+          ]
+        },
+        {
+          "type": "facilities",
+          "id": "facilities",
+          "eyebrow": "Strutture e ambienti di lavoro",
+          "heading": "Dove lavorerà",
+          "intro": "Dagli uffici tecnici ai reparti di montaggio fino ai siti dei clienti: ecco i luoghi in cui prendono forma le carriere in HYT.",
+          "items": [
+            {
+              "icon": "building",
+              "title": "Campus e uffici di Pune",
+              "image": "careers/hyt-campus",
+              "image_alt": "Edificio del campus HYT Engineering a Pune",
+              "text": "Il nostro campus di Pune riunisce direzione, progettazione, acquisti, vendite e team di supporto in un contesto verde e curato, vicino allo stabilimento produttivo.",
+              "bullets": [
+                "Uffici e sale riunioni moderni",
+                "Accesso diretto all'officina e alle aree di collaudo",
+                "Ambiente verde e ben curato"
+              ]
+            },
+            {
+              "icon": "gear-wide-connected",
+              "title": "Produzione e montaggio",
+              "image": "company/manufacturing-facility",
+              "image_alt": "Illustrazione di esempio di un capannone di montaggio macchine con carroponti",
+              "text": "Le macchine vengono costruite, cablate e collaudate nei nostri capannoni. I team di montaggio lavorano a fianco dei progettisti, così le idee passano rapidamente dal disegno alla macchina.",
+              "bullets": [
+                "Ampie aree di montaggio con carroponti",
+                "Lavorazioni meccaniche, aggiustaggio e montaggio elettrico",
+                "Collaudo in fabbrica prima della spedizione"
+              ]
+            },
+            {
+              "icon": "pc-display",
+              "title": "Ingegneria e progettazione",
+              "image": "company/engineering-design",
+              "image_alt": "Illustrazione di esempio di una postazione di progettazione con il modello CAD di un tornio",
+              "text": "Ingegneri meccanici, elettrici e CNC progettano internamente ogni macchina HYT – dal concept e dai calcoli fino a disegni, programmi e documentazione.",
+              "bullets": [
+                "Progettazione e simulazione 3D",
+                "Ingegneria elettrica, idraulica e CNC",
+                "Contatto diretto con gli ingegneri dei clienti"
+              ]
+            },
+            {
+              "icon": "rulers",
+              "title": "Qualità e controllo",
+              "image": "company/quality-inspection",
+              "image_alt": "Illustrazione di esempio di una macchina di misura che controlla un pezzo lavorato",
+              "text": "Il nostro team qualità verifica componenti e macchine complete rispetto a disegni, norme e specifiche del cliente, in conformità alla ISO 9001:2015.",
+              "bullets": [
+                "Controllo in accettazione e in corso di lavorazione",
+                "Prove di collaudo su sale montate reali",
+                "Sistemi ISO 9001, 14001 e 45001"
+              ]
+            },
+            {
+              "icon": "easel",
+              "title": "Formazione e apprendimento",
+              "image": "company/training-session",
+              "image_alt": "Illustrazione di esempio di un'aula di formazione con una presentazione su una macchina",
+              "text": "I nuovi colleghi imparano a conoscere le macchine, le norme di sicurezza e i requisiti dei clienti attraverso formazione strutturata, mentoring e lavoro su progetti reali.",
+              "bullets": [
+                "Formazione di inserimento e sicurezza",
+                "Programmi tecnici e di soft skill",
+                "Mentoring da parte di specialisti esperti"
+              ]
+            },
+            {
+              "icon": "cup-hot",
+              "title": "Mensa e trasporto",
+              "image": "company/life-at-hyt",
+              "image_alt": "Illustrazione di esempio di una sala per eventi aziendali",
+              "text": "Una mensa sovvenzionata e navette aziendali per i dipendenti aventi diritto si occupano della quotidianità – così Lei può concentrarsi sul Suo lavoro.",
+              "bullets": [
+                "Pasti nutrienti e sovvenzionati",
+                "Navette aziendali per i dipendenti aventi diritto",
+                "Feste, settimane della sicurezza ed eventi sul benessere"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "chips",
+          "id": "teams",
+          "eyebrow": "Team e ruoli",
+          "heading": "Dove potrebbe lavorare",
+          "intro": "Ingegneri, tecnici e specialisti commerciali contribuiscono tutti a consegnare una macchina – e a mantenerla in funzione per decenni.",
+          "items": [
+            {
+              "icon": "bezier2",
+              "title": "Progettazione meccanica"
+            },
+            {
+              "icon": "cpu",
+              "title": "Ingegneria elettrica e CNC"
+            },
+            {
+              "icon": "tools",
+              "title": "Assistenza e messa in servizio"
+            },
+            {
+              "icon": "gear",
+              "title": "Produzione e montaggio"
+            },
+            {
+              "icon": "clipboard-check",
+              "title": "Qualità e controllo"
+            },
+            {
+              "icon": "diagram-3",
+              "title": "Progetti ed esecuzione in cantiere"
+            },
+            {
+              "icon": "graph-up-arrow",
+              "title": "Vendite e marketing"
+            },
+            {
+              "icon": "briefcase",
+              "title": "Amministrazione, finanza e HR"
+            },
+            {
+              "icon": "mortarboard",
+              "title": "Tirocini e neolaureati"
+            }
+          ]
+        },
+        {
+          "type": "steps",
+          "id": "journey",
+          "eyebrow": "Il Suo percorso",
+          "heading": "Dalla candidatura al Suo primo progetto",
+          "items": [
+            {
+              "title": "Candidatura",
+              "text": "Invii il modulo qui sotto oppure il Suo CV via e-mail a careers@hytengineering.com."
+            },
+            {
+              "title": "Valutazione",
+              "text": "Il nostro team HR e il reparto interessato valutano il Suo profilo in base alle esigenze attuali e future."
+            },
+            {
+              "title": "Colloqui",
+              "text": "Un colloquio tecnico con il team in cui lavorerebbe, seguito da un colloquio con l'HR."
+            },
+            {
+              "title": "Offerta e inserimento",
+              "text": "Un'offerta chiara, poi l'inserimento, la formazione sulla sicurezza e la presentazione delle nostre macchine."
+            },
+            {
+              "title": "Crescita",
+              "text": "Mentoring, formazione e responsabilità crescenti – dall'officina ai siti dei clienti."
+            }
           ]
         },
         {
           "type": "text",
           "id": "openings",
-          "eyebrow": "Opportunità attuali",
-          "heading": "Posizioni aperte",
+          "eyebrow": "Candidature spontanee",
+          "heading": "Nessuna posizione aperta? Si candidi comunque",
           "paragraphs": [
-            "Le posizioni aperte saranno pubblicate qui, con il ruolo, la sede e l'esperienza richiesta.",
-            "Se nessun annuncio corrisponde al Suo profilo, ci invii una candidatura spontanea tramite il modulo qui sotto. Scelga l'area più vicina ai Suoi interessi: conserveremo i Suoi dati per eventuali ruoli adatti, come descritto nella nostra [Informativa sulla privacy](page:privacy-policy)."
+            "Su questo sito non pubblichiamo singole offerte di lavoro. Accogliamo invece candidature spontanee tutto l'anno e le abbiniamo ai ruoli che si aprono nei nostri team.",
+            "Ci racconti in cosa eccelle e in quale direzione desidera crescere. La Sua candidatura arriva direttamente al nostro team HR all'indirizzo [careers@hytengineering.com](mailto:careers@hytengineering.com)."
           ],
-          "image": "company/manufacturing-facility",
-          "image_alt": "Illustrazione di esempio del reparto di montaggio HYT con un tornio per sale montate in costruzione",
+          "image": "careers/career-hero",
+          "image_alt": "Ingegnere HYT in officina con colleghi sullo sfondo",
           "layout": "image-right"
         },
         {
-          "type": "steps",
-          "eyebrow": "Come funziona la selezione",
-          "heading": "Dalla candidatura al primo giorno",
+          "type": "form",
+          "form": "career",
+          "id": "apply",
+          "eyebrow": "Candidatura online",
+          "heading": "Invii la Sua candidatura",
+          "intro": "Compili il modulo e alleghi il Suo CV in formato PDF, oppure lo invii via e-mail a careers@hytengineering.com. Ogni candidatura viene letta dal nostro team HR."
+        },
+        {
+          "type": "cards",
+          "eyebrow": "Scopra HYT",
+          "heading": "Scopra com'è lavorare da noi",
+          "cols": 3,
           "items": [
             {
-              "title": "Candidatura",
-              "text": "Invii il modulo con il Suo CV, indicandoci il ruolo o l'area che La interessa."
+              "page": "memorialization",
+              "image": "company/life-at-hyt"
             },
             {
-              "title": "Valutazione",
-              "text": "Il nostro ufficio risorse umane e il responsabile della funzione valutano la Sua candidatura rispetto al ruolo."
+              "page": "about",
+              "image": "company/manufacturing-facility"
             },
             {
-              "title": "Colloquio",
-              "text": "I candidati selezionati incontrano il team – di persona a Pune oppure online – e possono sostenere un colloquio tecnico o una prova."
-            },
-            {
-              "title": "Offerta",
-              "text": "I candidati scelti ricevono un'offerta scritta che definisce ruolo, condizioni e data di inizio."
-            },
-            {
-              "title": "Inserimento",
-              "text": "Le prime settimane comprendono la formazione sulla sicurezza, la presentazione delle nostre macchine e del tempo con il Suo team."
+              "page": "csr",
+              "image": "company/csr-community"
             }
           ]
         },
         {
-          "type": "form",
-          "id": "apply",
-          "form": "career",
-          "heading": "Si candidi in HYT",
-          "intro": "Ci parli di Lei e alleghi il Suo CV in formato PDF. Rispondiamo ai candidati il cui profilo corrisponde a un ruolo attuale o di prossima apertura."
+          "type": "faq",
+          "id": "faq",
+          "heading": "Domande dei candidati",
+          "items": [
+            {
+              "q": "Pubblicate offerte di lavoro?",
+              "a": "No. Accettiamo candidature spontanee durante tutto l'anno e contattiamo i candidati il cui profilo corrisponde ai ruoli da ricoprire."
+            },
+            {
+              "q": "Possono candidarsi neolaureati e tirocinanti?",
+              "a": "Sì. Selezioni “Tirocinio / neolaureato” nel modulo e ci parli dei Suoi studi, progetti e interessi."
+            },
+            {
+              "q": "Dove si trovano le posizioni?",
+              "a": "La maggior parte dei ruoli ha sede presso il nostro campus e lo stabilimento di Pune. I ruoli di assistenza e di progetto prevedono trasferte presso i clienti in India e all'estero."
+            },
+            {
+              "q": "Cosa devo includere nella candidatura?",
+              "a": "Un CV aggiornato in formato PDF, l'area di Suo interesse, la Sua esperienza complessiva e – se lo desidera – una breve nota su ciò che vuole realizzare."
+            },
+            {
+              "q": "Come riceverò una risposta?",
+              "a": "Il nostro team HR contatta i candidati selezionati per telefono o via e-mail. Se al momento non c'è una posizione adatta, potremmo conservare il Suo profilo per ruoli futuri."
+            }
+          ]
         },
         {
-          "type": "notice",
-          "variant": "review",
-          "text": "Gli annunci di lavoro sul sito attuale risalgono al 2022 e non vi sono posizioni aperte verificate. HYT deve fornire le posizioni attualmente aperte (titolo, sede, esperienza, breve descrizione) e aggiornarle prima del lancio."
+          "type": "cta",
+          "heading": "Pronto a costruire qualcosa che fa muovere l'India?",
+          "text": "Entri in un team di ingegneri e professionisti che plasmano il futuro delle infrastrutture ferroviarie – da Pune a progetti in tutto il mondo.",
+          "primary": {
+            "label": "Invii una candidatura spontanea",
+            "href": "mailto:careers@hytengineering.com?subject=Open%20application",
+            "icon": "envelope"
+          },
+          "secondary": {
+            "label": "Candidatura online",
+            "page": "career",
+            "anchor": "apply"
+          }
         }
       ]
     },
