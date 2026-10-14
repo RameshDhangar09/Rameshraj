@@ -128,7 +128,7 @@ page(63, "downloads",                "/downloads/",                "home", image
 
 # --- Work With Us
 page(49, "work-with-us",          "/work-with-us/",          "home",         image="company/manufacturing-facility")
-page(51, "career",                "/career/",                "work-with-us", image="company/engineering-design")
+page(51, "career",                "/career/",                "work-with-us", image="careers/career-hero")
 page(50, "supplier-registration", "/supplier-registration/", "work-with-us", image="company/manufacturing-facility")
 page(10, "memorialization",       "/memorialization/",       "work-with-us", image="company/life-at-hyt")
 

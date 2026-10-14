@@ -88,7 +88,8 @@ export default {
       headers: { Authorization: `Bearer ${env.RESEND_API_KEY}`, 'Content-Type': 'application/json' },
       body: JSON.stringify({
         from: env.MAIL_FROM || 'HYT Website <website@hytengineering.com>',
-        to: [env.MAIL_TO || 'digitalmkt@hytengineering.com'],
+        // Job applications go to HR; everything else to digital marketing
+        to: [type === 'career' ? (env.MAIL_TO_CAREERS || 'careers@hytengineering.com') : (env.MAIL_TO || 'digitalmkt@hytengineering.com')],
         reply_to: get('email'),
         subject: `[Website ${type}] ${get('subject') || get('company') || get('name')}`,
         text: lines.join('\n'),

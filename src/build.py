@@ -385,7 +385,9 @@ def b_stats(ctx, b):
 
 
 def btn(ctx, d, cls):
-    return f'<a class="btn-hyt {cls}" href="{esc(ctx.url(d["page"], d.get("anchor")))}">{esc(d["label"])}</a>'
+    href = d["href"] if d.get("href") else ctx.url(d["page"], d.get("anchor"))
+    ic = icon(d["icon"]) + " " if d.get("icon") else ""
+    return f'<a class="btn-hyt {cls}" href="{esc(href)}">{ic}{esc(d["label"])}</a>'
 
 
 def b_cta(ctx, b):
@@ -784,12 +786,70 @@ def write_search_index(ctx):
     (OUT / "search-index" / f"{name}.json").write_text(json.dumps(out, ensure_ascii=False, separators=(",", ":")))
 
 
+def b_quote_band(ctx, b):
+    cite = f'<p class="quote-band__cite">{inline(ctx, b["cite"])}</p>' if b.get("cite") else ""
+    inner = (f'<figure class="quote-band reveal"><span class="quote-band__mark" aria-hidden="true">&ldquo;</span>'
+             f'<blockquote class="quote-band__text">{inline(ctx, b["quote"])}</blockquote>{cite}</figure>')
+    return section(inner, b, "section--quote")
+
+
+def b_pillars(ctx, b):
+    items = "".join(
+        f'<li class="pillar reveal"><span class="pillar__num" aria-hidden="true">{i:02d}</span>'
+        f'<span class="pillar__icon">{icon(it.get("icon"))}</span><div><h3 class="pillar__title">{inline(ctx, it["title"])}</h3>'
+        f'<p>{inline(ctx, it.get("text", ""))}</p></div></li>' for i, it in enumerate(b.get("items", []), 1))
+    badge = ""
+    if b.get("badge_value"):
+        badge = (f'<div class="pillars__badge"><span class="pillars__badge-value">{esc(b["badge_value"])}</span>'
+                 f'<span class="pillars__badge-label">{esc(b.get("badge_label", ""))}</span></div>')
+    media = (f'<div class="col-lg-5 pillars__col"><figure class="pillars__media media-frame reveal">'
+             f'{picture(b.get("image"), b.get("image_alt", ""), "(min-width: 992px) 40vw, 100vw")}</figure>{badge}</div>') if b.get("image") else ""
+    paras = "".join(f'<p class="section-intro">{inline(ctx, x)}</p>' for x in b.get("paragraphs", []))
+    head = heading_block(ctx, {k: b.get(k) for k in ("eyebrow", "heading", "intro")})
+    inner = (f'<div class="row g-4 g-lg-5 align-items-center">{media}<div class="{"col-lg-7" if media else "col-12"}">'
+             f'{head}{paras}<ol class="pillars">{items}</ol></div></div>')
+    return section(inner, b)
+
+
+def b_benefits(ctx, b):
+    items = "".join(
+        f'<div class="col-sm-6 col-lg-4"><article class="benefit reveal"><span class="benefit__icon">{icon(it.get("icon"))}</span>'
+        f'<h3 class="benefit__title">{inline(ctx, it["title"])}</h3><p class="benefit__text">{inline(ctx, it.get("text", ""))}</p></article></div>'
+        for it in b.get("items", []))
+    return section(heading_block(ctx, b, center=True) + f'<div class="row g-4">{items}</div>', b, "section--benefits")
+
+
+def b_facilities(ctx, b):
+    fid = ctx.next_id("facilities")
+    tabs, panels = [], []
+    for i, it in enumerate(b.get("items", [])):
+        tid, pid_ = f"{fid}-tab{i}", f"{fid}-panel{i}"
+        sel = "true" if i == 0 else "false"
+        tabs.append(f'<button type="button" class="facility-tab" role="tab" id="{tid}" aria-controls="{pid_}" aria-selected="{sel}" tabindex="{0 if i == 0 else -1}">'
+                    f'{icon(it.get("icon"), "facility-tab__icon")}<span>{inline(ctx, it["title"])}</span><span class="facility-tab__bar" aria-hidden="true"></span></button>')
+        bullets = ("<ul class=\"check-list\">" + "".join(f"<li>{inline(ctx, x)}</li>" for x in it.get("bullets", [])) + "</ul>") if it.get("bullets") else ""
+        panels.append(f'<div class="facility-panel" role="tabpanel" id="{pid_}" aria-labelledby="{tid}">'
+                      f'<figure class="facility-panel__media">{picture(it.get("image"), it.get("image_alt", ""), "(min-width: 992px) 55vw, 100vw")}</figure>'
+                      f'<div class="facility-panel__body"><h3 class="facility-panel__title">{inline(ctx, it["title"])}</h3><p>{inline(ctx, it.get("text", ""))}</p>{bullets}</div></div>')
+    inner = (heading_block(ctx, b) + f'<div class="facilities reveal" data-facilities>'
+             f'<div class="facilities__tabs" role="tablist" aria-label="{esc(plain(b.get("heading", "")))}">{"".join(tabs)}</div>'
+             f'<div class="facilities__panels">{"".join(panels)}</div></div>')
+    return section(inner, b, "section--muted")
+
+
+def b_chips(ctx, b):
+    items = "".join(f'<li class="chip-tile reveal">{icon(it.get("icon"), "chip-tile__icon")}<span>{inline(ctx, it["title"])}</span></li>'
+                    for it in b.get("items", []))
+    return section(heading_block(ctx, b) + f'<ul class="chip-grid">{items}</ul>' + block_link(ctx, b), b)
+
+
 BLOCKS = {
     "text": b_text, "features": b_features, "specs": b_specs, "table": b_table, "steps": b_steps, "list": b_list,
     "cards": b_cards, "related": b_related, "faq": b_faq, "stats": b_stats, "cta": b_cta, "gallery": b_gallery,
     "timeline": b_timeline, "projects": b_projects, "news": b_news, "logos": b_logos, "notice": b_notice,
     "prose": b_prose, "downloads": b_downloads, "form": b_form, "contact": b_contact, "split_cta": b_split_cta,
     "product_catalog": b_product_catalog, "sitemap": b_sitemap, "logo_carousel": b_logo_carousel,
+    "quote_band": b_quote_band, "pillars": b_pillars, "benefits": b_benefits, "facilities": b_facilities, "chips": b_chips,
 }
 
 
@@ -1051,9 +1111,15 @@ def hero(ctx, pid, pg, crumbs):
                 f'<h1 class="page-hero__title" id="page-title">{inline(ctx, pg["h1"])}</h1>{lede}</div></section>')
     img = p.get("image")
     media = f'<div class="page-hero__media">{picture(img, "", "100vw", eager=True, cls="page-hero__img")}</div>' if img else ""
-    return (f'<section class="page-hero{" page-hero--image" if img else ""}" aria-labelledby="page-title">{media}'
+    actions = ""
+    if pg.get("hero_actions"):
+        acts = pg["hero_actions"]
+        actions = '<div class="hero__actions page-hero__actions">' + "".join(
+            btn(ctx, a, "btn-hyt--primary" if i == 0 else "btn-hyt--ghost") for i, a in enumerate(acts)) + "</div>"
+    big = " page-hero--tall" if pg.get("hero_actions") else ""
+    return (f'<section class="page-hero{" page-hero--image" if img else ""}{big}" aria-labelledby="page-title">{media}'
             f'<div class="container page-hero__content">{crumbs}{eyebrow}'
-            f'<h1 class="page-hero__title" id="page-title">{inline(ctx, pg["h1"])}</h1>{lede}</div></section>')
+            f'<h1 class="page-hero__title" id="page-title">{inline(ctx, pg["h1"])}</h1>{lede}{actions}</div></section>')
 
 
 def subnav(ctx, pg):

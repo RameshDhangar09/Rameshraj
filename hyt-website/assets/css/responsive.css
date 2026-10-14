@@ -183,3 +183,10 @@
 
 /* A transformed ancestor would become the containing block of the fixed off-canvas menu */
 html.nav-open .site-header { transform: none !important; transition: none; }
+
+/* Mobile/tablet: keep the header untransformed (a transformed ancestor would turn the
+   fixed off-canvas menu into an absolutely positioned box that widens the page) */
+@media (max-width: 1199.98px) {
+  .site-header.is-scrolled { transform: none; }
+}
+html, body { overflow-x: clip; }

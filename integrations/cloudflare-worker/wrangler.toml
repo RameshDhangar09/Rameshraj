@@ -4,6 +4,7 @@ compatibility_date = "2026-09-01"
 
 [vars]
 MAIL_TO = "digitalmkt@hytengineering.com"
+MAIL_TO_CAREERS = "careers@hytengineering.com"
 MAIL_FROM = "HYT Website <website@hytengineering.com>"
 ALLOWED_ORIGIN = "https://hytengineering.com"
 

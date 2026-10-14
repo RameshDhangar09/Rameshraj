@@ -12,7 +12,7 @@ message by email.
 |------|---------|-------------|--------|
 | Enquiry | `/contact-us/` (all languages) | `enquiry` | name*, company*, email*, phone, country*, interest* (product/service), subject*, message* (≥20 chars), privacy_consent* |
 | Supplier registration | `/supplier-registration/` | `supplier` | name*, company*, email*, phone*, country*, designation, website, gst, supply_category*, years, certs, message, privacy_consent* |
-| Job application | `/career/` | `career` | name*, company, email*, phone*, country*, position*, experience*, cv (PDF ≤5 MB), cv_link, message, privacy_consent* |
+| Job application (→ **careers@hytengineering.com**, approved by the MD) | `/career/` | `career` | name*, company, email*, phone*, country*, position*, experience*, cv (PDF ≤5 MB), cv_link, message, privacy_consent* |
 | Catalogue request | (template ready, not placed – catalogues are direct downloads today) | `catalogue` | … |
 
 Every form also sends hidden fields: `form_type`, `language`, `page` (absolute

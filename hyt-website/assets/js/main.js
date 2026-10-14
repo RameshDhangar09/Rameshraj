@@ -17,6 +17,7 @@ import { initSmoothScroll, scrollToElement } from './scroll.js';
 import { initCatalogueGate } from './catalogue.js';
 import { initLogoMarquee } from './marquee.js';
 import { initVideos } from './video.js';
+import { initFacilities } from './facilities.js';
 
 const root = document.documentElement;
 
@@ -40,6 +41,7 @@ async function boot() {
   safe('catalogue form', () => initCatalogueGate(strings));
   safe('logo marquee', () => initLogoMarquee());
   safe('videos', () => initVideos());
+  safe('facilities', () => initFacilities());
   // Land on #anchors reliably once fonts, collapsed FAQs and images have settled
   safe('initial anchor', () => {
     const id = decodeURIComponent(location.hash.slice(1));
