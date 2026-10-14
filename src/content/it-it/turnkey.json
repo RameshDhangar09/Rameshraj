@@ -1,0 +1,1096 @@
+{
+  "pages": {
+    "ts-wheel-shops": {
+      "nav": "Officine sale montate",
+      "title": "Officine sale montate chiavi in mano per la revisione",
+      "description": "Officine sale montate chiavi in mano per flotte in esercizio: scalettamento, ispezione, lavorazione ruote e assi, calettamento, misura ed equilibratura.",
+      "eyebrow": "Soluzioni chiavi in mano",
+      "h1": "Officine sale montate chiavi in mano per la revisione",
+      "lede": "È l'officina sale montate a decidere quanto rapidamente le sale usurate tornano in esercizio. HYT progetta e allestisce l'intero flusso di revisione – dallo scalettamento al rimontaggio – come un unico progetto coordinato.",
+      "summary": "Officine complete per la revisione delle sale montate in esercizio: scalettamento, ispezione, lavorazione, calettamento, misura, equilibratura e rimontaggio.",
+      "blocks": [
+        {
+          "type": "text",
+          "id": "overview",
+          "eyebrow": "L'impianto",
+          "heading": "Dove le sale montate usurate tornano efficienti",
+          "paragraphs": [
+            "In un'officina ferroviaria o in un'officina di revisione periodica (POH), l'officina sale montate riceve sale che hanno raggiunto i limiti di usura, hanno subito danni o sono in scadenza per la revisione programmata. Ad alcune basta un nuovo profilo; altre richiedono ruote nuove, fuselli ripristinati o un nuovo calettamento.",
+            "Raramente il problema è una singola macchina. La difficoltà sta nel flusso: sale montate in coda alla pressa mentre il tornio è fermo, misure digitate due volte, gru condivise tra troppe postazioni. Ogni ritardo nell'officina sale montate tiene fuori servizio un veicolo altrove.",
+            "Con un unico partner chiavi in mano, postazioni, movimentazione e fondazioni vengono progettate in funzione del Suo mix di sale montate e del Suo ciclo di revisione. HYT costruisce in proprio le macchine principali: processo e attrezzature vengono così progettati insieme e un'unica organizzazione risponde del risultato."
+          ],
+          "image": "products/portal-wheel-lathe",
+          "image_alt": "Illustrazione esemplificativa di un tornio a portale che riprofila una sala montata smontata in un'officina sale montate ferroviaria",
+          "layout": "image-right"
+        },
+        {
+          "type": "features",
+          "id": "scope",
+          "eyebrow": "Che cosa fornisce HYT",
+          "heading": "L'ambito di un'officina sale montate chiavi in mano",
+          "cols": 3,
+          "items": [
+            {
+              "icon": "diagram-3",
+              "title": "Flusso di revisione e layout",
+              "text": "Sequenza delle postazioni, binari di accumulo e copertura delle gru pianificati in base ai Suoi tipi di sale montate e ai volumi di revisione."
+            },
+            {
+              "icon": "bricks",
+              "title": "Fondazioni e interfaccia con le opere civili",
+              "text": "Fondazioni delle macchine, rotaie annegate e canalette portacavi definite per la Sua impresa edile o realizzate nell'ambito della nostra fornitura."
+            },
+            {
+              "icon": "gear-wide-connected",
+              "title": "Macchine per ruote e assi",
+              "text": "Torni per sale montate, torni verticali, torni per fuselli, presse, stazioni di misura ed equilibratrici firmati HYT."
+            },
+            {
+              "icon": "arrows-move",
+              "title": "Movimentazione delle sale montate",
+              "text": "Binari di trasferimento e sistemi di movimentazione che spostano le pesanti sale montate tra le postazioni con meno sollevamenti in gru."
+            },
+            {
+              "icon": "database",
+              "title": "Dati delle sale montate",
+              "text": "Misure, risultati di lavorazione e dati di calettamento registrati per ogni sala montata che transita nell'officina."
+            },
+            {
+              "icon": "person-gear",
+              "title": "Formazione e supporto per tutta la vita utile",
+              "text": "Formazione di operatori e manutentori, ricambi e contratti di assistenza dall'azienda che ha costruito le macchine."
+            }
+          ]
+        },
+        {
+          "type": "steps",
+          "id": "process",
+          "eyebrow": "Flusso di processo",
+          "heading": "Il percorso di una sala montata nell'officina di revisione",
+          "intro": "La sequenza seguente è tipica. Il percorso effettivo di ogni sala montata dipende dalle condizioni riscontrate all'ispezione.",
+          "items": [
+            {
+              "title": "Accettazione e pulizia",
+              "text": "Le sale montate vengono identificate e pulite, in modo che usura e difetti possano essere visti e misurati."
+            },
+            {
+              "title": "Ispezione e misura",
+              "text": "Profilo, diametri e scartamento interno vengono rilevati su una [stazione di misura ruote](page:wheel-measuring-station); il risultato decide tra riprofilatura e sostituzione delle ruote."
+            },
+            {
+              "title": "Scalettamento",
+              "text": "Se le ruote sono da scartare, una [pressa per ruote](page:wheel-presses) le rimuove dagli assi che verranno riutilizzati."
+            },
+            {
+              "title": "Lavorazione di assi e ruote",
+              "text": "I fuselli vengono ripristinati su un [tornio per tornitura e rullatura dei fuselli](page:axle-journal-turning-burnishing-lathe); le ruote di ricambio vengono alesate in funzione della sede sull'asse su un [tornio verticale per tornitura e alesatura](page:vertical-turning-boring-machine)."
+            },
+            {
+              "title": "Calettamento e riprofilatura",
+              "text": "Le ruote nuove vengono calettate registrando la curva di forza; le sale montate recuperate vengono riprofilate su un [tornio a pavimento](page:surface-wheel-lathe) o su un [tornio a portale](page:portal-wheel-lathe)."
+            },
+            {
+              "title": "Equilibratura, rimontaggio e rilascio",
+              "text": "Ove previsto, le sale montate vengono equilibrate. Cuscinetti e boccole vengono rimontati, si registra un controllo finale e la sala montata torna in servizio."
+            }
+          ]
+        },
+        {
+          "type": "cards",
+          "id": "equipment",
+          "eyebrow": "Macchine HYT",
+          "heading": "Le attrezzature principali dell'officina sale montate",
+          "cols": 3,
+          "items": [
+            {"page": "surface-wheel-lathe", "image": "products/surface-wheel-lathe"},
+            {"page": "portal-wheel-lathe", "image": "products/portal-wheel-lathe"},
+            {"page": "vertical-turning-boring-machine", "image": "products/vertical-turning-boring-machine"},
+            {"page": "axle-journal-turning-burnishing-lathe", "image": "products/axle-journal-turning-burnishing-lathe"},
+            {"page": "wheel-presses", "image": "products/wheel-press"},
+            {"page": "wheel-measuring-station", "image": "products/wheel-measuring-station"}
+          ]
+        },
+        {
+          "type": "steps",
+          "id": "delivery",
+          "eyebrow": "Realizzazione del progetto",
+          "heading": "Come realizziamo un'officina sale montate",
+          "intro": "Spesso un'officina sale montate viene ricostruita all'interno di un'officina in piena attività. Il nostro approccio per [Progetti chiavi in mano (EPC)](page:turnkey-project) pianifica ogni fase attorno al programma di revisione, che non può fermarsi.",
+          "items": [
+            {
+              "title": "Studio e layout",
+              "text": "Si analizzano i volumi di revisione, i tipi di sale montate e l'edificio esistente e si concorda un layout."
+            },
+            {
+              "title": "Interfaccia con le opere civili",
+              "text": "I dati di fondazioni e utenze vengono forniti per tempo, così le opere civili sono pronte all'arrivo delle macchine."
+            },
+            {
+              "title": "Installazione per fasi",
+              "text": "Le postazioni vengono sostituite o aggiunte per fasi mentre l'officina continua a lavorare. Consulti [Installazione e messa in servizio](page:installation-commissioning)."
+            },
+            {
+              "title": "Messa in servizio sulle Sue sale montate",
+              "text": "Ogni postazione, e poi l'intero flusso, viene collaudata sulle Sue sale montate secondo criteri concordati."
+            },
+            {
+              "title": "Formazione e supporto",
+              "text": "Il personale viene formato su macchine e processo con il nostro programma di [Formazione](page:training); dopo la consegna può seguire un [contratto di manutenzione annuale](page:annual-maintenance-contract)."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "id": "benefits",
+          "eyebrow": "Risultati",
+          "heading": "Che cosa Le offre un'officina sale montate ben progettata",
+          "paragraphs": [
+            "Il valore di un'officina sale montate si misura fuori dalle sue mura: in veicoli che rientrano in servizio puntuali e in ruote che percorrono più chilometri tra un intervento e l'altro."
+          ],
+          "bullets": [
+            "Tempi più brevi tra l'arrivo di una sala montata e il suo rilascio",
+            "Asportazione minima di materiale, perché le ruote reggano più cicli di riprofilatura prima della sostituzione",
+            "Calettamenti e misure documentati per ogni sala montata revisionata",
+            "Meno lavoro di gru e meno movimentazione manuale di componenti pesanti",
+            "Un unico partner responsabile di macchine, layout e prestazioni"
+          ]
+        },
+        {
+          "type": "faq",
+          "id": "faq",
+          "heading": "Domande sulle officine sale montate",
+          "items": [
+            {
+              "q": "È possibile ammodernare un'officina sale montate senza fermarla?",
+              "a": "Nella maggior parte dei casi sì. Pianifichiamo i lavori per fasi, così le macchine esistenti restano in funzione mentre le nuove postazioni vengono installate accanto a loro o al loro posto."
+            },
+            {
+              "q": "Meglio riprofilare su un tornio a pavimento o su un tornio a portale?",
+              "a": "Entrambi lavorano sale montate smontate. La scelta dipende dai Suoi tipi di sale montate, dalla profondità tipica dei difetti e dal flusso; consulti le pagine del [tornio a pavimento](page:surface-wheel-lathe) e del [tornio a portale](page:portal-wheel-lathe)."
+            },
+            {
+              "q": "L'officina sale montate ha bisogno anche di un tornio in fossa?",
+              "a": "Un [tornio in fossa](page:underfloor-wheel-lathe) riprofila le ruote senza smontare la sala montata, quindi il suo posto è nel deposito più che nell'officina di revisione. Molti esercenti utilizzano entrambi: torni in fossa per la riprofilatura ordinaria, l'officina sale montate per le sale che vengono comunque estratte dal veicolo. Consulti [Depositi di manutenzione ferroviaria](page:ts-maintenance-depots)."
+            },
+            {
+              "q": "Possiamo mantenere macchine esistenti di altri costruttori?",
+              "a": "Sì, se sono in buono stato. Le integriamo nel layout e ne definiamo le interfacce, così l'officina funziona come un unico processo."
+            }
+          ]
+        },
+        {
+          "type": "cta",
+          "heading": "Sta pianificando una nuova officina sale montate o il suo ammodernamento?",
+          "text": "Ci invii i Suoi volumi di revisione, i tipi di sale montate e i disegni dell'edificio. I nostri ingegneri di progetto Le proporranno un layout e un percorso di realizzazione.",
+          "primary": {"label": "Discuta il Suo progetto", "page": "contact-us"},
+          "secondary": {"label": "Progetti chiavi in mano (EPC)", "page": "turnkey-project"}
+        }
+      ]
+    },
+    "ts-maintenance-depots": {
+      "nav": "Depositi di manutenzione ferroviaria",
+      "title": "Depositi di manutenzione chiavi in mano per treni e metro",
+      "description": "Attrezzature chiavi in mano per depositi di locomotive, carrozze, elettrotreni e metro: torni in fossa, lavaggio treni, manovra e indotti in un solo progetto.",
+      "eyebrow": "Soluzioni chiavi in mano",
+      "h1": "Attrezzature chiavi in mano per depositi di manutenzione ferroviaria",
+      "lede": "Un deposito si ripaga con la disponibilità dei treni. HYT allestisce il binario del tornio, la linea di lavaggio, la manovra e la lavorazione dei componenti come un unico progetto, così i treni passano meno tempo in attesa e più tempo in servizio.",
+      "summary": "Attrezzature per depositi di locomotive, carrozze, elettrotreni e metropolitane – torni in fossa, lavaggio treni, manovra e lavorazione degli indotti.",
+      "blocks": [
+        {
+          "type": "text",
+          "id": "overview",
+          "eyebrow": "L'impianto",
+          "heading": "Progettato attorno alle ore in cui un treno è fuori servizio",
+          "paragraphs": [
+            "Depositi locomotive, depositi carrozze e depositi per elettrotreni o metropolitane mantengono le flotte pronte per il servizio quotidiano. I treni entrano per visite programmate, riprofilatura delle ruote, pulizia e riparazioni, e ogni ora trascorsa in deposito è un'ora in cui non possono circolare. È la progettazione del deposito a determinare quante di quelle ore siano davvero necessarie.",
+            "I responsabili di deposito conoscono le criticità tipiche: un unico binario del tornio che si trasforma in una coda, manovre in attesa di una locomotiva e del suo personale, pulizia esterna fatta a mano e riparazioni dei motori di trazione affidate all'esterno perché in deposito manca la macchina adatta. Ogni problema può dipendere da un fornitore diverso.",
+            "HYT riunisce i principali sistemi del deposito in un unico contratto e li pianifica in funzione del Suo programma di manutenzione, del piano dei binari e della composizione della flotta. L'obiettivo è semplice: soste più brevi e più prevedibili per ogni treno."
+          ],
+          "image": "projects/emu-car-shed",
+          "image_alt": "Illustrazione esemplificativa di un deposito per elettrotreni con treni suburbani in sosta sopra le fosse di ispezione",
+          "layout": "image-right"
+        },
+        {
+          "type": "features",
+          "id": "scope",
+          "eyebrow": "Che cosa fornisce HYT",
+          "heading": "I sistemi del deposito in un unico contratto",
+          "cols": 3,
+          "items": [
+            {
+              "icon": "train-front",
+              "title": "Binario di riprofilatura",
+              "text": "Torni in fossa singoli o tandem, dimensionati in base alla Sua flotta e al numero di assi per sosta."
+            },
+            {
+              "icon": "bricks",
+              "title": "Fosse e interfaccia con il binario",
+              "text": "Fosse per il tornio, linee con fosse di ispezione e appoggio delle rotaie coordinati con le opere civili e con il piano binari del deposito."
+            },
+            {
+              "icon": "droplet",
+              "title": "Lavaggio treni",
+              "text": "Impianto di lavaggio a passaggio collocato sul percorso di ingresso, così i treni vengono lavati senza manovre aggiuntive."
+            },
+            {
+              "icon": "truck",
+              "title": "Manovra",
+              "text": "Veicolo strada-rotaia (mezzo di manovra) per gli spostamenti tra binario del tornio, linea di lavaggio, binari con fossa e binari di ricovero."
+            },
+            {
+              "icon": "lightning-charge",
+              "title": "Motori di trazione",
+              "text": "Lavorazione degli indotti dei motori di trazione in corrente continua, eseguita in deposito anziché in un'officina lontana."
+            },
+            {
+              "icon": "calendar-check",
+              "title": "Supporto orientato alla disponibilità",
+              "text": "Contratti di manutenzione che mantengono pronte le macchine del deposito ogni volta che i treni devono utilizzarle."
+            }
+          ]
+        },
+        {
+          "type": "steps",
+          "id": "process",
+          "eyebrow": "Flusso nel deposito",
+          "heading": "La sosta di un treno in deposito",
+          "items": [
+            {
+              "title": "Arrivo e lavaggio",
+              "text": "I treni in ingresso attraversano l'[impianto automatico di lavaggio treni](page:automated-train-washing-plant) diretti ai binari di visita."
+            },
+            {
+              "title": "Ispezione sui binari con fossa",
+              "text": "Rodiggio, freni e apparecchiature sottocassa vengono esaminati dalla fossa; i difetti delle ruote riscontrati qui vengono prenotati per il tornio."
+            },
+            {
+              "title": "Riprofilatura delle ruote",
+              "text": "Il treno viene portato sopra il [tornio in fossa](page:underfloor-wheel-lathe); le sale montate usurate vengono misurate e riprofilate senza calare il carrello."
+            },
+            {
+              "title": "Riparazione dei componenti",
+              "text": "Gli indotti sostituiti dei motori di trazione vengono ripristinati sulla [macchina multifunzione per indotti](page:multi-purpose-armature-machine) e restituiti al magazzino."
+            },
+            {
+              "title": "Manovra e ricovero",
+              "text": "Il [veicolo strada-rotaia (mezzo di manovra)](page:rail-cum-road-vehicle-shunter) sposta i veicoli tra i binari e verso i binari di ricovero."
+            },
+            {
+              "title": "Rientro in esercizio",
+              "text": "Le registrazioni dei lavori vengono chiuse e il treno torna in orario."
+            }
+          ]
+        },
+        {
+          "type": "cards",
+          "id": "equipment",
+          "eyebrow": "Macchine HYT",
+          "heading": "Le attrezzature del deposito",
+          "cols": 3,
+          "items": [
+            {"page": "underfloor-wheel-lathe", "image": "products/underfloor-wheel-lathe-yul-08"},
+            {"page": "tandem-underfloor-wheel-lathe", "image": "products/tandem-underfloor-wheel-lathe-yul-12t"},
+            {"page": "automated-train-washing-plant", "image": "products/automated-train-washing-plant"},
+            {"page": "rail-cum-road-vehicle-shunter", "image": "products/rail-cum-road-vehicle-shunter"},
+            {"page": "multi-purpose-armature-machine", "image": "products/multi-purpose-armature-machine"},
+            {"page": "vertical-turning-boring-machine", "image": "products/vertical-turning-boring-machine"}
+          ]
+        },
+        {
+          "type": "list",
+          "id": "delivery",
+          "heading": "Come realizziamo un progetto di deposito",
+          "intro": "Spesso i depositi vengono costruiti o ampliati mentre la flotta continua a circolare. Il nostro approccio per [Progetti chiavi in mano (EPC)](page:turnkey-project) è adattato a questa realtà.",
+          "cols": 1,
+          "items": [
+            "**Pianificazione guidata dalla manutenzione:** intervalli di visita, frequenza di riprofilatura e crescita della flotta determinano il numero di binari del tornio, la capacità di lavaggio e le esigenze di manovra.",
+            "**Interfaccia fosse e binari:** disegni delle fosse, dettagli di ancoraggio, drenaggio e quote delle rotaie consegnati all'impresa edile, con verifica della prontezza prima dell'installazione.",
+            "**Installazione e messa in servizio:** ogni sistema collaudato sui Suoi veicoli – consulti [Installazione e messa in servizio](page:installation-commissioning).",
+            "**Formazione del personale:** operatori del tornio, conduttori del mezzo di manovra e manutentori formati in loco con il nostro programma di [Formazione](page:training).",
+            "**Assistenza per l'intero ciclo di vita:** un [contratto di manutenzione annuale](page:annual-maintenance-contract), un [contratto di manutenzione completo (CMC)](page:comprehensive-annual-maintenance-contract) o la piena [conduzione e manutenzione](page:operation-and-maintenance) delle macchine del deposito."
+          ]
+        },
+        {
+          "type": "features",
+          "id": "benefits",
+          "eyebrow": "Risultati",
+          "heading": "Che cosa ottiene il gestore del deposito",
+          "cols": 3,
+          "items": [
+            {
+              "icon": "clock-history",
+              "title": "Più treni in servizio",
+              "text": "La riprofilatura senza smontare il carrello e meno manovre di attesa accorciano ogni sosta in deposito."
+            },
+            {
+              "icon": "shield-check",
+              "title": "Attività di deposito più sicure",
+              "text": "Meno pulizia manuale in quota e meno manovre con locomotiva vicino al personale che lavora sui binari."
+            },
+            {
+              "icon": "people",
+              "title": "Un unico partner responsabile",
+              "text": "Tornio, lavaggio, manovra e attrezzature per indotti assistiti dall'azienda che li ha forniti."
+            }
+          ]
+        },
+        {
+          "type": "faq",
+          "id": "faq",
+          "heading": "Domande sui depositi",
+          "items": [
+            {
+              "q": "Tornio in fossa singolo o tandem?",
+              "a": "Un [tornio in fossa tandem](page:tandem-underfloor-wheel-lathe) riprofila entrambe le sale montate di un carrello in un unico piazzamento, accorciando ogni sosta per le flotte con molti assi. Una macchina singola richiede una fossa più corta ed è adatta a volumi minori. Dimensioniamo la scelta in base alla Sua flotta e al Suo piano di manutenzione."
+            },
+            {
+              "q": "È possibile aggiungere nuove attrezzature a un deposito già in esercizio?",
+              "a": "Sì. Le fosse per il tornio e gli impianti di lavaggio vengono di norma realizzati su binari che possono essere messi fuori servizio per un certo periodo, mentre il resto del deposito continua a lavorare. Programmiamo i lavori insieme al Suo team di esercizio."
+            },
+            {
+              "q": "Un deposito per elettrotreni ha bisogno di una propria capacità di lavorazione delle ruote sciolte?",
+              "a": "Alcuni sì. HYT ha fornito un tornio verticale CNC al deposito elettrotreni di Sanpada, a Mumbai, dotandolo di una capacità interna di lavorazione delle ruote – consulti [Progetti realizzati](page:executed-projects#sanpada-emu-car-shed)."
+            },
+            {
+              "q": "Un veicolo strada-rotaia può sostituire una locomotiva di manovra?",
+              "a": "Per molte manovre in deposito, sì. Si aggancia al materiale rotabile sulle rotaie e circola su strada tra un binario e l'altro, così un solo veicolo può servire più binari. Capacità di traino, aggancio e freni vengono adattati ai Suoi veicoli."
+            }
+          ]
+        },
+        {
+          "type": "cta",
+          "heading": "Sta costruendo o ampliando un deposito?",
+          "text": "Ci descriva la Sua flotta, il programma di manutenzione e il piano dei binari. Le proporremo i sistemi del deposito e un piano di realizzazione che non ferma i treni.",
+          "primary": {"label": "Discuta il Suo progetto", "page": "contact-us"},
+          "secondary": {"label": "Progetti realizzati", "page": "executed-projects"}
+        }
+      ]
+    },
+    "ts-rolling-stock-facilities": {
+      "nav": "Stabilimenti di produzione di materiale rotabile",
+      "title": "Officine ruote e assi chiavi in mano per costruttori",
+      "description": "Officine ruote e assi chiavi in mano per stabilimenti di carrozze, locomotive e metro: tornitura, calettamento, misura ed equilibratura integrati nel flusso.",
+      "eyebrow": "Soluzioni chiavi in mano",
+      "h1": "Officine ruote e assi per stabilimenti di produzione di materiale rotabile",
+      "lede": "Gli stabilimenti di carrozze, locomotive e veicoli metropolitani dipendono da una fornitura costante di sale montate finite. HYT progetta e allestisce l'officina ruote e assi all'interno dello stabilimento, adattandola al ritmo di produzione.",
+      "summary": "Officine ruote e assi chiavi in mano all'interno di stabilimenti di carrozze, locomotive e veicoli metropolitani, integrate nel flusso produttivo.",
+      "blocks": [
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "HYT deve confermare le eventuali installazioni di riferimento presso costruttori di materiale rotabile citabili in questa pagina e il grado di integrazione nello stabilimento (movimentazione, scambio dati) che è in grado di offrire."
+        },
+        {
+          "type": "text",
+          "id": "overview",
+          "eyebrow": "L'impianto",
+          "heading": "La fornitura di sale montate all'interno di uno stabilimento di veicoli",
+          "paragraphs": [
+            "Uno stabilimento di materiale rotabile costruisce casse, carrelli e veicoli completi secondo un programma di consegna prefissato. Le sale montate sono un componente di cui il montaggio carrelli non può fare a meno, e sono critiche per la sicurezza: ognuna deve essere lavorata, calettata e documentata secondo la specifica del veicolo e i requisiti di approvazione del committente.",
+            "Gli stabilimenti che realizzano una propria officina ruote e assi affrontano problemi specifici. La produzione deve tenere il passo del montaggio carrelli, non semplicemente girare a piena capacità. Possono essere in corso più progetti di veicoli contemporaneamente, ciascuno con i propri disegni di ruote e assi. E la documentazione di qualità di ogni sala montata deve essere pronta quando il veicolo viene presentato al collaudo.",
+            "Il ruolo di HYT è chiaramente definito. Non costruiamo casse né telai dei carrelli. Progettiamo, allestiamo e mettiamo in servizio l'officina ruote e assi – lavorazione, calettamento, misura ed equilibratura – e la colleghiamo al flusso dei materiali e al sistema qualità dello stabilimento come un unico pacchetto chiavi in mano."
+          ],
+          "image": "products/wheel-measuring-station",
+          "image_alt": "Illustrazione esemplificativa di una stazione di misura ruote che controlla una sala montata finita prima del montaggio del carrello",
+          "layout": "image-right"
+        },
+        {
+          "type": "features",
+          "id": "scope",
+          "eyebrow": "Che cosa fornisce HYT",
+          "heading": "La nostra parte dello stabilimento",
+          "cols": 3,
+          "items": [
+            {
+              "icon": "gear-wide-connected",
+              "title": "Attrezzature di produzione per ruote e assi",
+              "text": "Macchine per la tornitura degli assi, l'alesatura e la profilatura delle ruote, il calettamento, la misura e l'equilibratura dinamica."
+            },
+            {
+              "icon": "diagram-3",
+              "title": "Integrazione nello stabilimento",
+              "text": "Layout dell'officina, polmoni e punti di consegna allineati con il montaggio carrelli e la logistica interna dello stabilimento."
+            },
+            {
+              "icon": "clipboard-data",
+              "title": "Documentazione di qualità",
+              "text": "Dati di misura, calettamento ed equilibratura organizzati per sala montata a supporto del collaudo del veicolo."
+            }
+          ]
+        },
+        {
+          "type": "steps",
+          "id": "process",
+          "eyebrow": "Flusso di processo",
+          "heading": "Dai componenti in ingresso al montaggio carrelli",
+          "items": [
+            {
+              "title": "Ruote e assi in ingresso",
+              "text": "Ruote e assi fucinati o prelavorati vengono ricevuti, identificati e assegnati al progetto di veicolo a cui appartengono."
+            },
+            {
+              "title": "Lavorazione degli assi",
+              "text": "Gli assi vengono torniti a disegno sul [tornio CNC per assi ATL-01](page:axle-turning-lathe)."
+            },
+            {
+              "title": "Lavorazione delle ruote",
+              "text": "Fori del mozzo, facce del cerchio e profili vengono lavorati sul [tornio verticale CNC per tornitura e alesatura](page:vertical-turning-boring-machine), con i fori dimensionati sulle sedi d'asse misurate."
+            },
+            {
+              "title": "Calettamento",
+              "text": "Le ruote vengono calettate sull'asse con una [pressa per ruote](page:wheel-presses) e la curva di forza di ogni calettamento viene registrata."
+            },
+            {
+              "title": "Misura ed equilibratura",
+              "text": "Si controllano scartamento interno e diametri, e le sale montate vengono equilibrate quando la specifica del veicolo lo richiede."
+            },
+            {
+              "title": "Consegna al montaggio carrelli",
+              "text": "Le sale montate finite passano alla linea carrelli con la relativa documentazione, al ritmo richiesto dal programma di montaggio."
+            }
+          ]
+        },
+        {
+          "type": "cards",
+          "id": "equipment",
+          "eyebrow": "Macchine HYT",
+          "heading": "Le attrezzature dell'officina ruote e assi",
+          "cols": 3,
+          "items": [
+            {"page": "axle-turning-lathe", "image": "products/axle-turning-lathe"},
+            {"page": "vertical-turning-boring-machine", "image": "products/vertical-turning-boring-machine"},
+            {"page": "wheel-presses", "image": "products/wheel-press"},
+            {"page": "wheel-measuring-station", "image": "products/wheel-measuring-station"},
+            {"page": "dynamic-wheel-balancing-machine", "image": "products/dynamic-wheel-balancing-machine"},
+            {"page": "rail-cum-road-vehicle-shunter", "image": "products/rail-cum-road-vehicle-shunter"}
+          ]
+        },
+        {
+          "type": "steps",
+          "id": "delivery",
+          "eyebrow": "Realizzazione del progetto",
+          "heading": "Come lo realizziamo",
+          "intro": "Il nostro approccio per [Progetti chiavi in mano (EPC)](page:turnkey-project), adattato a uno stabilimento spesso in costruzione o in ampliamento nello stesso momento.",
+          "items": [
+            {
+              "title": "Studio di produzione",
+              "text": "Il fabbisogno di sale montate per progetto di veicolo, le varianti di prodotto e il ritmo del montaggio carrelli definiscono capacità e layout."
+            },
+            {
+              "title": "Interfaccia con l'edificio",
+              "text": "I requisiti di fondazioni, gru e utenze vengono recepiti nel progetto dello stabilimento quando è ancora sulla carta."
+            },
+            {
+              "title": "Fornitura e installazione",
+              "text": "Le macchine vengono costruite e collaudate a Pune, quindi installate e collegate in cantiere. Consulti [Installazione e messa in servizio](page:installation-commissioning)."
+            },
+            {
+              "title": "Avviamento della produzione",
+              "text": "Le prime sale montate campione vengono prodotte e verificate con il Suo team qualità prima dell'avvio della produzione di serie."
+            },
+            {
+              "title": "Competenze e supporto",
+              "text": "Operatori e manutentori vengono formati con il nostro programma di [Formazione](page:training); seguono [ricambi](page:spare-supply) e contratti di assistenza."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "id": "benefits",
+          "eyebrow": "Risultati",
+          "heading": "Perché gli stabilimenti affidano questa officina a un unico partner",
+          "paragraphs": [
+            "Quando l'officina ruote e assi viene progettata come un unico sistema, fornisce sale montate finite al ritmo richiesto dalla linea carrelli – e con esse arriva la documentazione necessaria al collaudo del veicolo."
+          ],
+          "bullets": [
+            "Produzione di sale montate allineata al programma di montaggio",
+            "Interferenze di calettamento e geometrie uniformi tra i diversi progetti di veicolo",
+            "Documentazione completa per ogni sala montata ai fini del collaudo",
+            "Cambi tra varianti di prodotto previsti già nelle macchine e nelle attrezzature",
+            "Un unico contratto per attrezzature, integrazione e supporto dell'officina"
+          ]
+        },
+        {
+          "type": "faq",
+          "id": "faq",
+          "heading": "Domande dei costruttori",
+          "items": [
+            {
+              "q": "HYT fornisce telai di carrelli o attrezzature per le casse?",
+              "a": "No. L'ambito di HYT comprende l'officina ruote e assi: lavorazione, calettamento, misura ed equilibratura delle sale montate, oltre a movimentazione e integrazione all'interno di questa officina. La produzione di carrelli e casse resta di competenza del costruttore e dei suoi altri fornitori."
+            },
+            {
+              "q": "L'officina può servire più progetti di veicoli contemporaneamente?",
+              "a": "Sì. Le macchine vengono specificate per la gamma di ruote e assi prevista, e programmi pezzo e attrezzature vengono preparati per ogni variante, così i cambi di produzione diventano routine."
+            },
+            {
+              "q": "Possiamo partire in piccolo e ampliare in seguito?",
+              "a": "Sì. Il layout può riservare spazi e utenze per macchine aggiuntive, così la capacità cresce con il portafoglio ordini senza ricostruire l'officina. Si può aggiungere anche un veicolo strada-rotaia (mezzo di manovra) per movimentare i veicoli finiti nel piazzale dello stabilimento."
+            },
+            {
+              "q": "Come viene collegata l'officina al nostro sistema qualità?",
+              "a": "I risultati di misura, calettamento ed equilibratura vengono registrati in base all'identificativo di ogni sala montata. Formato dei dati e modalità di trasferimento vengono concordati con i Suoi team qualità e IT durante l'ingegneria. Per movimentazione e dati interconnessi, consulti [Automazione dell'officina sale montate](page:wheel-shop-automation)."
+            }
+          ]
+        },
+        {
+          "type": "cta",
+          "heading": "Sta realizzando un'officina ruote e assi nel Suo stabilimento?",
+          "text": "Ci illustri il Suo programma veicoli e il fabbisogno di sale montate. Le delineeremo un'officina in grado di tenere il passo della Sua linea carrelli.",
+          "primary": {"label": "Discuta il Suo progetto", "page": "contact-us"},
+          "secondary": {"label": "Progetti chiavi in mano (EPC)", "page": "turnkey-project"}
+        }
+      ]
+    },
+    "ts-wheelset-plants": {
+      "nav": "Impianti di produzione di sale montate",
+      "title": "Impianti chiavi in mano per la produzione di sale montate",
+      "description": "Impianti chiavi in mano (EPC) per sale montate nuove: lavorazione assi e ruote, calettamento, misura, equilibratura dinamica, tracciabilità e collaudo finale.",
+      "eyebrow": "Soluzioni chiavi in mano",
+      "h1": "Impianti chiavi in mano per la produzione di sale montate nuove",
+      "lede": "Un impianto di produzione trasforma ruote e assi fucinati in sale montate finite e tracciabili. HYT progetta l'intera sequenza produttiva e fornisce le macchine che ne costituiscono il cuore.",
+      "summary": "Impianti per la produzione di sale montate nuove – lavorazione di assi e ruote, calettamento, misura, equilibratura, tracciabilità e collaudo finale.",
+      "blocks": [
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "HYT deve confermare se è possibile citare impianti di produzione di sale montate di riferimento, nonché il software di tracciabilità e le attrezzature di movimentazione comprese nella propria fornitura."
+        },
+        {
+          "type": "text",
+          "id": "overview",
+          "eyebrow": "L'impianto",
+          "heading": "La sala montata come prodotto",
+          "paragraphs": [
+            "A differenza di un'officina sale montate, che ripristina sale già in esercizio, un impianto di produzione parte da componenti nuovi: ruote fucinate o laminate e assi fucinati. La sua produzione è destinata a costruttori di veicoli, ferrovie ed esercenti di metropolitane, spesso secondo più specifiche cliente contemporaneamente.",
+            "I requisiti tecnici sono severi. Ogni foro ruota deve adattarsi alla sede d'asse su cui verrà calettato, ogni calettamento deve essere comprovato dalla relativa registrazione della forza, ed equilibratura e geometria devono rispettare i limiti del cliente. Gli acquirenti si aspettano una storia completa di ogni sala montata, dall'identificativo dei fucinati al verbale di collaudo finale.",
+            "Progettare l'impianto come un unico sistema, invece di acquistare le macchine una alla volta, è ciò che tiene sotto controllo questi requisiti. HYT progetta insieme la sequenza delle postazioni, i collegamenti dati e la movimentazione, e fornisce dal proprio stabilimento le attrezzature di lavorazione, calettamento, misura ed equilibratura."
+          ],
+          "image": "projects/wheel-shop-automation-line",
+          "image_alt": "Illustrazione esemplificativa di una linea di produzione di sale montate con ruote e assi che si spostano tra le macchine",
+          "layout": "image-right"
+        },
+        {
+          "type": "features",
+          "id": "scope",
+          "eyebrow": "Che cosa fornisce HYT",
+          "heading": "Che cosa comprende un progetto di impianto per sale montate",
+          "cols": 3,
+          "items": [
+            {
+              "icon": "compass",
+              "title": "Concept dell'impianto",
+              "text": "Gamma di prodotti, obiettivo di produzione e organizzazione dei turni tradotti in una sequenza di postazioni e nel layout dell'edificio."
+            },
+            {
+              "icon": "disc",
+              "title": "Lavorazione di assi e ruote",
+              "text": "Postazioni di tornitura degli assi e di alesatura e profilatura delle ruote dimensionate sui volumi dell'impianto."
+            },
+            {
+              "icon": "arrow-left-right",
+              "title": "Calettamento accoppiato",
+              "text": "Misure di foro e sede abbinate, perché ogni ruota ottenga sull'asse l'interferenza prescritta."
+            },
+            {
+              "icon": "speedometer",
+              "title": "Equilibratura e geometria",
+              "text": "Equilibratura dinamica e misura delle sale montate secondo i limiti di ciascun cliente."
+            },
+            {
+              "icon": "upc-scan",
+              "title": "Tracciabilità",
+              "text": "Identificativi dei componenti collegati a misure, curve di calettamento e risultati dei controlli."
+            },
+            {
+              "icon": "tools",
+              "title": "Avviamento e supporto",
+              "text": "Dalla produzione di prova alla produzione di serie, formazione del personale e assistenza a lungo termine per ogni macchina HYT."
+            }
+          ]
+        },
+        {
+          "type": "steps",
+          "id": "process",
+          "eyebrow": "Flusso di processo",
+          "heading": "Postazione per postazione attraverso un impianto per sale montate",
+          "items": [
+            {
+              "title": "Accettazione dei componenti",
+              "text": "Ruote e assi fucinati vengono identificati, verificati rispetto ai documenti e registrati nel sistema di tracciabilità."
+            },
+            {
+              "title": "Lavorazione degli assi",
+              "text": "Il [tornio CNC per assi ATL-01](page:axle-turning-lathe) tornisce fuselli, sedi, raccordi e corpo dell'asse; i diametri delle sedi vengono misurati per l'abbinamento."
+            },
+            {
+              "title": "Lavorazione delle ruote",
+              "text": "Ogni ruota viene alesata e profilata sul [tornio verticale per tornitura e alesatura](page:vertical-turning-boring-machine), con il foro dimensionato sulla sede d'asse abbinata."
+            },
+            {
+              "title": "Calettamento",
+              "text": "Una [pressa per ruote](page:wheel-presses) caletta entrambe le ruote allo scartamento interno prescritto e registra la curva forza–spostamento."
+            },
+            {
+              "title": "Misura ed equilibratura",
+              "text": "La [stazione di misura ruote](page:wheel-measuring-station) controlla la geometria; l'[equilibratrice dinamica](page:dynamic-wheel-balancing-machine) misura lo squilibrio e ne guida la correzione."
+            },
+            {
+              "title": "Collaudo finale e spedizione",
+              "text": "La documentazione completa viene verificata e la sala montata viene marcata, protetta e rilasciata al cliente."
+            }
+          ]
+        },
+        {
+          "type": "cards",
+          "id": "equipment",
+          "eyebrow": "Macchine HYT",
+          "heading": "Le attrezzature dell'impianto",
+          "cols": 3,
+          "items": [
+            {"page": "axle-turning-lathe", "image": "products/axle-turning-lathe"},
+            {"page": "vertical-turning-boring-machine", "image": "products/vertical-turning-boring-machine"},
+            {"page": "wheel-presses", "image": "products/wheel-press"},
+            {"page": "wheel-measuring-station", "image": "products/wheel-measuring-station"},
+            {"page": "dynamic-wheel-balancing-machine", "image": "products/dynamic-wheel-balancing-machine"},
+            {"page": "surface-wheel-lathe", "image": "products/surface-wheel-lathe"}
+          ]
+        },
+        {
+          "type": "steps",
+          "id": "delivery",
+          "eyebrow": "Realizzazione del progetto",
+          "heading": "Come realizziamo l'impianto",
+          "intro": "Il nostro approccio per [Progetti chiavi in mano (EPC)](page:turnkey-project), applicato alla produzione di serie di un componente critico per la sicurezza.",
+          "items": [
+            {
+              "title": "Definizione di prodotto e capacità",
+              "text": "Tipi di ruote e assi, norme del cliente e obiettivi di produzione vengono fissati insieme al Suo team."
+            },
+            {
+              "title": "Ingegneria dell'impianto",
+              "text": "Layout, fondazioni, gru, movimentazione e modello dati della tracciabilità vengono progettati insieme."
+            },
+            {
+              "title": "Costruzione e collaudi in fabbrica",
+              "text": "Le macchine HYT vengono costruite e collaudate nel nostro stabilimento di Pune prima della spedizione."
+            },
+            {
+              "title": "Installazione e avviamento",
+              "text": "[Installazione e messa in servizio](page:installation-commissioning) in cantiere, quindi produzione di prova fino al raggiungimento della produttività e della qualità concordate."
+            },
+            {
+              "title": "Supporto alla produzione",
+              "text": "[Formazione](page:training), [ricambi](page:spare-supply) e un [contratto di manutenzione completo (CMC)](page:comprehensive-annual-maintenance-contract) mantengono costante la produzione."
+            }
+          ]
+        },
+        {
+          "type": "features",
+          "id": "benefits",
+          "eyebrow": "Risultati",
+          "heading": "Che cosa ottiene il titolare dell'impianto",
+          "cols": 3,
+          "items": [
+            {
+              "icon": "graph-up",
+              "title": "Produzione prevedibile",
+              "text": "Una sequenza bilanciata di postazioni, in cui nessuna singola macchina detta il ritmo dell'intero impianto."
+            },
+            {
+              "icon": "check2-circle",
+              "title": "Qualità dimostrabile",
+              "text": "Ogni sala montata esce con la propria curva di calettamento e i risultati di geometria ed equilibratura documentati."
+            },
+            {
+              "icon": "link-45deg",
+              "title": "Un unico responsabile",
+              "text": "Un solo partner risponde di macchine, collegamenti dati e prestazioni dell'impianto."
+            }
+          ]
+        },
+        {
+          "type": "faq",
+          "id": "faq",
+          "heading": "Domande sugli impianti per sale montate",
+          "items": [
+            {
+              "q": "In che cosa un impianto di produzione di sale montate si differenzia da un'officina sale montate?",
+              "a": "Un impianto di produzione realizza sale montate nuove a partire da ruote e assi nuovi. Un'officina sale montate revisiona sale già in esercizio – consulti [Officine sale montate](page:ts-wheel-shops)."
+            },
+            {
+              "q": "Come si ottiene la tracciabilità?",
+              "a": "Ogni ruota e ogni asse viene identificato all'arrivo. Le sue misure, l'abbinamento utilizzato al calettamento, la registrazione forza–spostamento e i risultati di equilibratura e collaudo finale vengono archiviati in base a quell'identificativo, così la storia di una sala montata può essere consultata in qualsiasi momento."
+            },
+            {
+              "q": "È possibile eseguire la profilatura di finitura delle sale montate nell'impianto?",
+              "a": "Alcune specifiche prescrivono di finire il profilo di rotolamento dopo il calettamento, così che entrambe le ruote girino concentriche all'asse. A questo scopo si può inserire nella linea un [tornio CNC a pavimento](page:surface-wheel-lathe)."
+            },
+            {
+              "q": "Un unico impianto può produrre secondo norme cliente diverse?",
+              "a": "Sì. Campi di lavoro delle macchine, utensili, programmi di calettamento e limiti di collaudo vengono specificati per l'intera gamma di prodotti durante l'ingegneria, e ogni sala montata viene lavorata secondo i requisiti del proprio ordine."
+            }
+          ]
+        },
+        {
+          "type": "cta",
+          "heading": "Sta pianificando un impianto per sale montate?",
+          "text": "Ci invii la Sua gamma di prodotti e gli obiettivi di produzione. Le delineeremo l'impianto, le sue macchine principali e il percorso verso la produzione di serie.",
+          "primary": {"label": "Discuta il Suo progetto", "page": "contact-us"},
+          "secondary": {"label": "Progetti chiavi in mano (EPC)", "page": "turnkey-project"}
+        }
+      ]
+    },
+    "ts-wheel-machining-lines": {
+      "nav": "Linee di lavorazione ruote",
+      "title": "Linee chiavi in mano per la lavorazione di ruote ferroviarie",
+      "description": "Linee CNC chiavi in mano per ruote ferroviarie: sgrossatura e finitura del profilo, alesatura del mozzo su torni verticali, misura in linea e movimentazione.",
+      "eyebrow": "Soluzioni chiavi in mano",
+      "h1": "Linee chiavi in mano per la lavorazione delle ruote",
+      "lede": "Le ruote ferroviarie devono uscire dalla lavorazione con un foro esatto e un profilo preciso. HYT progetta linee dedicate attorno ai propri torni verticali CNC per tornitura e alesatura, con misura e movimentazione tra le postazioni.",
+      "summary": "Linee dedicate alla lavorazione delle ruote ferroviarie – sgrossatura e finitura, alesatura del mozzo, misura e movimentazione tra le postazioni.",
+      "blocks": [
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "HYT deve confermare le eventuali referenze di linee di lavorazione ruote citabili e quali attrezzature di movimentazione (caricatori, trasportatori, ribaltatori) rientrano nella propria fornitura."
+        },
+        {
+          "type": "text",
+          "id": "overview",
+          "eyebrow": "L'impianto",
+          "heading": "Una linea, non una fila di macchine",
+          "paragraphs": [
+            "Una linea di lavorazione ruote riceve ruote ferroviarie sciolte – fucinati nuovi o ruote di ricambio per la revisione – e lavora a disegno superficie di rotolamento, bordino, facce del cerchio, facce del mozzo e foro del mozzo. Può essere autonoma, al servizio di un reparto calettamento, oppure costituire una sezione di un impianto di produzione di sale montate più ampio.",
+            "La difficoltà maggiore sta tra una lavorazione e l'altra. Una ruota viene normalmente lavorata in due piazzamenti, quindi va ribaltata; è pesante, e un operatore in attesa della gru finisce presto per dettare il ritmo dell'intera linea. Le sgrossature attraverso la crosta di fucinatura sollecitano duramente gli utensili, mentre la finitura deve mantenere diametro del foro e oscillazione entro limiti ristretti. Il modo in cui queste operazioni vengono ripartite tra le macchine determina la produttività della linea.",
+            "HYT progetta la linea nel suo insieme: la ripartizione delle operazioni tra le postazioni, la movimentazione e il ribaltamento tra di esse e i punti in cui avviene la misura. Le postazioni di lavorazione sono [torni verticali CNC per tornitura e alesatura](page:vertical-turning-boring-machine) HYT."
+          ],
+          "image": "products/wheelset-profile-closeup",
+          "image_alt": "Illustrazione esemplificativa del profilo di rotolamento e del bordino di una ruota ferroviaria dopo la lavorazione",
+          "layout": "image-right"
+        },
+        {
+          "type": "features",
+          "id": "scope",
+          "eyebrow": "Che cosa fornisce HYT",
+          "heading": "Tre elementi che fanno funzionare una linea ruote",
+          "cols": 3,
+          "items": [
+            {
+              "icon": "layers",
+              "title": "Ripartizione delle operazioni e bilanciamento dei cicli",
+              "text": "Sgrossatura e finitura distribuite tra le postazioni, così che nessuna singola macchina rallenti le altre."
+            },
+            {
+              "icon": "arrow-down-up",
+              "title": "Movimentazione e ribaltamento",
+              "text": "Carico, trasferimento tra le postazioni e ribaltamento della ruota tra i suoi due piazzamenti."
+            },
+            {
+              "icon": "rulers",
+              "title": "Misura in linea",
+              "text": "Foro, cerchio e profilo controllati in punti definiti, con i risultati registrati per ogni ruota."
+            }
+          ]
+        },
+        {
+          "type": "steps",
+          "id": "process",
+          "eyebrow": "Flusso di processo",
+          "heading": "Le operazioni lungo la linea",
+          "items": [
+            {
+              "title": "Carico e identificazione",
+              "text": "Ogni ruota viene identificata e posizionata sulla prima postazione, in appoggio sulle proprie facce di riferimento."
+            },
+            {
+              "title": "Primo piazzamento",
+              "text": "Si lavora il primo lato: facce del cerchio e del mozzo, parte del profilo e una prealesatura che asporta il sovrametallo di fucinatura."
+            },
+            {
+              "title": "Ribaltamento",
+              "text": "La ruota viene ribaltata, così il secondo lato può essere lavorato riferendosi alle facce già eseguite."
+            },
+            {
+              "title": "Secondo piazzamento e finitura",
+              "text": "Si lavorano le facce rimanenti, superficie di rotolamento e bordino vengono finiti a profilo e il foro del mozzo viene portato al diametro finale."
+            },
+            {
+              "title": "Misura ed equilibratura",
+              "text": "Foro, dimensioni del cerchio e profilo vengono controllati in linea; quando la specifica lo richiede, la ruota viene equilibrata prima del rilascio."
+            },
+            {
+              "title": "Trasferimento a valle",
+              "text": "Le ruote accettate passano al reparto calettamento, al magazzino o alla spedizione con i relativi dati; le ruote fuori tolleranza vengono indirizzate alla correzione."
+            }
+          ]
+        },
+        {
+          "type": "cards",
+          "id": "equipment",
+          "eyebrow": "Macchine HYT",
+          "heading": "Le attrezzature della linea",
+          "cols": 3,
+          "items": [
+            {"page": "vertical-turning-boring-machine", "image": "products/vertical-turning-boring-machine"},
+            {"page": "wheel-measuring-station", "image": "products/wheel-measuring-station"},
+            {"page": "dynamic-wheel-balancing-machine", "image": "products/dynamic-wheel-balancing-machine"}
+          ]
+        },
+        {
+          "type": "list",
+          "id": "delivery",
+          "heading": "Come realizziamo una linea di lavorazione ruote",
+          "intro": "Un'applicazione mirata del nostro approccio per [Progetti chiavi in mano (EPC)](page:turnkey-project).",
+          "cols": 1,
+          "items": [
+            "**Analisi di pezzi e volumi:** disegni delle ruote, sovrametalli di fucinatura e quantità annue definiscono il numero di postazioni e i rispettivi compiti.",
+            "**Layout della linea e fondazioni:** posizioni delle macchine, ingombri di movimentazione e fondazioni vengono concordati e consegnati per le opere civili.",
+            "**Utensili e programmi pezzo:** strategie di taglio e programmi CNC vengono preparati e collaudati sulle Sue ruote durante l'[installazione e messa in servizio](page:installation-commissioning).",
+            "**Formazione degli operatori:** attrezzisti e operatori vengono formati sulle macchine e sulle procedure di linea con il nostro programma di [Formazione](page:training).",
+            "**Supporto e sviluppo:** [Ricambi e supporto](page:spare-supply) e un [contratto di manutenzione annuale](page:annual-maintenance-contract) mantengono produttiva la linea; con l'[automazione dell'officina sale montate](page:wheel-shop-automation) è possibile interconnetterla ulteriormente in seguito."
+          ]
+        },
+        {
+          "type": "text",
+          "id": "benefits",
+          "eyebrow": "Risultati",
+          "heading": "I risultati per il titolare della linea",
+          "paragraphs": [
+            "Una linea bilanciata e misurata come un unico processo garantisce una produzione costante – e ruote che si calettano correttamente al primo tentativo."
+          ],
+          "bullets": [
+            "Diametri del foro uniformi per accoppiamenti con interferenza affidabili",
+            "Profili conformi a disegno, così le ruote nuove entrano in servizio senza lavorazioni correttive",
+            "Meno movimentazioni con la gru e meno ribaltamenti manuali",
+            "Dati di misura che accompagnano ogni ruota fino alla pressa",
+            "Un unico fornitore responsabile di macchine, movimentazione e prestazioni della linea"
+          ]
+        },
+        {
+          "type": "faq",
+          "id": "faq",
+          "heading": "Domande sulle linee ruote",
+          "items": [
+            {
+              "q": "Perché utilizzare torni verticali per le ruote ferroviarie?",
+              "a": "La ruota è appoggiata in piano su una tavola rotante, il che rende semplice il carico anche di ruote pesanti e le mantiene stabili sotto lo sforzo di taglio. Superficie di rotolamento, bordino, facce e foro sono tutti raggiungibili dall'alto. Consulti il [tornio verticale CNC per tornitura e alesatura YVM-04](page:vertical-turning-boring-machine)."
+            },
+            {
+              "q": "Di quante macchine ha bisogno una linea ruote?",
+              "a": "Dipende da dimensioni della ruota, sovrametallo di fucinatura, produzione richiesta e organizzazione dei turni. Calcoliamo i tempi ciclo per le Sue ruote e proponiamo il numero di postazioni e la ripartizione delle operazioni tra di esse."
+            },
+            {
+              "q": "La linea può lavorare anche i cerchioni?",
+              "a": "Sì, se la Sua flotta utilizza ruote cerchiate. Il tornio verticale per tornitura e alesatura lavora anche cerchioni e altri componenti circolari delle sale montate, e il layout della linea li prevede se richiesto."
+            },
+            {
+              "q": "HYT ha già fornito torni verticali per ruote ferroviarie?",
+              "a": "Sì. HYT ha fornito un tornio verticale CNC al deposito elettrotreni di Sanpada, a Mumbai, e un tornio verticale a torretta CNC alla State Railway of Thailand a Bangkok. I dettagli sono disponibili in [Progetti realizzati](page:executed-projects)."
+            }
+          ]
+        },
+        {
+          "type": "cta",
+          "heading": "Sta pianificando una linea di lavorazione ruote?",
+          "text": "Ci invii i disegni delle Sue ruote e i volumi annui. Le proporremo un concept di linea, un layout delle postazioni e una stima dei tempi ciclo.",
+          "primary": {"label": "Discuta il Suo progetto", "page": "contact-us"},
+          "secondary": {"label": "Progetti realizzati", "page": "executed-projects"}
+        }
+      ]
+    },
+    "ts-axle-machining-lines": {
+      "nav": "Linee di lavorazione assi",
+      "title": "Linee chiavi in mano per la lavorazione di assi ferroviari",
+      "description": "Linee chiavi in mano per assi ferroviari nuovi e revisionati: tornitura CNC degli assi, tornitura e rullatura dei fuselli, misura e movimentazione.",
+      "eyebrow": "Soluzioni chiavi in mano",
+      "h1": "Linee chiavi in mano per la lavorazione degli assi",
+      "lede": "Gli assi ferroviari sopportano l'intero carico del veicolo e devono resistere alla fatica per decenni. HYT progetta linee assi per la nuova produzione, la revisione o entrambe, basate sui propri torni CNC per assi e per la rullatura dei fuselli.",
+      "summary": "Linee per tornitura degli assi, tornitura e rullatura dei fuselli, misura e movimentazione – per nuova produzione, revisione o entrambe.",
+      "blocks": [
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "HYT deve confermare le eventuali installazioni di riferimento di linee di lavorazione assi e le attrezzature di movimentazione e misura degli assi comprese nella propria fornitura."
+        },
+        {
+          "type": "text",
+          "id": "overview",
+          "eyebrow": "L'impianto",
+          "heading": "Due tipi di lavorazione degli assi, un unico concept di linea",
+          "paragraphs": [
+            "Una linea di lavorazione assi tornisce gli assi ferroviari a disegno e rifinisce le superfici su cui verranno montati cuscinetti e ruote. Diametri, concentricità e raggi di raccordo tra le sedi sono tutti determinanti, perché le cricche di fatica nascono dove la geometria o la finitura superficiale non sono all'altezza.",
+            "Sotto questa definizione rientrano due compiti molto diversi. La **nuova produzione** parte da un grezzo fucinato che deve essere tornito per tutta la sua lunghezza. La **revisione** parte da un asse che ha già percorso anni di servizio: i fuselli vanno ripristinati e rifiniti, mentre il resto dell'asse rimane invariato. Mescolare i due compiti su macchine non adatte significa piazzamenti lunghi, capacità sprecata e superfici non uniformi.",
+            "HYT costruisce una macchina per ciascun compito. Per gli assi nuovi, il [tornio CNC per assi ATL-01](page:axle-turning-lathe) tornisce fuselli, sedi parapolvere, sedi ruota, raccordi e corpo. Per la revisione, il [tornio per tornitura e rullatura dei fuselli](page:axle-journal-turning-burnishing-lathe) riporta entro i limiti i fuselli usurati e poi li rulla. Progettiamo la linea attorno alle lavorazioni svolte dal Suo impianto – o a entrambe, quando un'officina produce assi nuovi e revisiona quelli usati."
+          ],
+          "image": "products/axle-journal-turning-burnishing-lathe",
+          "image_alt": "Illustrazione esemplificativa di un tornio per tornitura e rullatura dei fuselli che ripristina il fusello di un asse ferroviario",
+          "layout": "image-right"
+        },
+        {
+          "type": "features",
+          "id": "scope",
+          "eyebrow": "Che cosa fornisce HYT",
+          "heading": "L'ambito di una linea assi",
+          "cols": 3,
+          "items": [
+            {
+              "icon": "signpost-split",
+              "title": "Produzione, revisione o mista",
+              "text": "Un concept di linea per assi nuovi, assi in revisione o entrambi i flussi con movimentazione e misura in comune."
+            },
+            {
+              "icon": "gear",
+              "title": "Tornitura completa dell'asse",
+              "text": "Postazioni ATL-01 che torniscono a disegno gli assi fucinati per tutta la loro lunghezza."
+            },
+            {
+              "icon": "record-circle",
+              "title": "Ripristino dei fuselli",
+              "text": "Postazioni di tornitura e rullatura dei fuselli per gli assi che rientrano dall'esercizio."
+            },
+            {
+              "icon": "rulers",
+              "title": "Misura degli assi",
+              "text": "Diametri e dimensioni delle sedi registrati prima e dopo la lavorazione, pronti per l'abbinamento con le ruote."
+            },
+            {
+              "icon": "arrows-move",
+              "title": "Movimentazione degli assi",
+              "text": "Trasferimento sicuro di assi lunghi e pesanti tra postazioni, rastrelliere e magazzini."
+            },
+            {
+              "icon": "person-gear",
+              "title": "Formazione e assistenza",
+              "text": "Formazione degli operatori, ricambi e contratti di manutenzione per ogni macchina HYT della linea."
+            }
+          ]
+        },
+        {
+          "type": "steps",
+          "id": "process",
+          "eyebrow": "Flusso di processo",
+          "heading": "La sequenza tipica in una linea assi",
+          "intro": "Gli assi nuovi e quelli in revisione seguono percorsi diversi nella linea. Le fasi mostrano dove si separano e dove si ricongiungono.",
+          "items": [
+            {
+              "title": "Accettazione e identificazione",
+              "text": "Grezzi fucinati o assi usati vengono identificati e registrati; gli assi usati vengono puliti e rilasciati dal Suo personale di controllo prima della lavorazione."
+            },
+            {
+              "title": "Centraggio e piazzamento",
+              "text": "L'asse viene posizionato tra le punte, così ogni diametro viene lavorato concentrico allo stesso asse geometrico."
+            },
+            {
+              "title": "Tornitura completa (assi nuovi)",
+              "text": "L'ATL-01 tornisce a disegno fuselli, sedi parapolvere, sedi ruota, raggi di raccordo e corpo dell'asse."
+            },
+            {
+              "title": "Ripristino dei fuselli (assi in revisione)",
+              "text": "I fuselli usurati o danneggiati vengono torniti entro i limiti ammessi e rullati fino alla finitura superficiale prescritta."
+            },
+            {
+              "title": "Misura",
+              "text": "Diametri e dimensioni delle sedi vengono registrati; per il calettamento delle ruote, i dati delle sedi vengono trasmessi per l'abbinamento con i fori delle ruote."
+            },
+            {
+              "title": "Trasferimento al calettamento o al magazzino",
+              "text": "Gli assi accettati passano alla [pressa per ruote](page:wheel-presses) o al magazzino, accompagnati dai relativi dati."
+            }
+          ]
+        },
+        {
+          "type": "cards",
+          "id": "equipment",
+          "eyebrow": "Macchine HYT",
+          "heading": "Le attrezzature della linea",
+          "cols": 3,
+          "items": [
+            {"page": "axle-turning-lathe", "image": "products/axle-turning-lathe"},
+            {"page": "axle-journal-turning-burnishing-lathe", "image": "products/axle-journal-turning-burnishing-lathe"},
+            {"page": "wheel-presses", "image": "products/wheel-press"}
+          ]
+        },
+        {
+          "type": "steps",
+          "id": "delivery",
+          "eyebrow": "Realizzazione del progetto",
+          "heading": "Come realizziamo una linea assi",
+          "intro": "Un'applicazione mirata del nostro approccio per [Progetti chiavi in mano (EPC)](page:turnkey-project).",
+          "items": [
+            {
+              "title": "Gamma di assi e volumi",
+              "text": "Disegni degli assi, quantità di nuova produzione e di revisione e requisiti di controllo definiscono il concept della linea."
+            },
+            {
+              "title": "Layout e fondazioni",
+              "text": "Si pianificano posizioni delle macchine, rastrelliere per assi e percorsi di movimentazione e si forniscono i dati delle fondazioni per le opere civili."
+            },
+            {
+              "title": "Fornitura e installazione",
+              "text": "Le macchine vengono costruite e collaudate a Pune, quindi installate e collaudate sui Suoi assi – consulti [Installazione e messa in servizio](page:installation-commissioning)."
+            },
+            {
+              "title": "Formazione e supporto per l'intero ciclo di vita",
+              "text": "[Formazione](page:training) per operatori e manutentori, quindi contratti di manutenzione e [retrofit e ammodernamento](page:retro-fitment-upgradation) per tutta la vita della linea."
+            }
+          ]
+        },
+        {
+          "type": "features",
+          "id": "benefits",
+          "eyebrow": "Risultati",
+          "heading": "Che cosa ottiene il titolare della linea",
+          "cols": 3,
+          "items": [
+            {
+              "icon": "shield-check",
+              "title": "Lavorazione attenta alla fatica",
+              "text": "Geometria e superficie corrette su sedi, raccordi e fuselli – dove si decide la vita utile di un asse."
+            },
+            {
+              "icon": "recycle",
+              "title": "Più assi di nuovo in servizio",
+              "text": "Il ripristino dei fuselli consente di riutilizzare gli assi ancora idonei invece di sostituirli."
+            },
+            {
+              "icon": "diagram-2",
+              "title": "La macchina giusta per ogni compito",
+              "text": "Produzione e revisione eseguite su macchine progettate per ciascuna, evitando piazzamenti lunghi e capacità inutilizzata."
+            }
+          ]
+        },
+        {
+          "type": "faq",
+          "id": "faq",
+          "heading": "Domande sulle linee assi",
+          "items": [
+            {
+              "q": "Qual è la differenza tra l'ATL-01 e il tornio per tornitura e rullatura dei fuselli?",
+              "a": "L'[ATL-01](page:axle-turning-lathe) è una macchina di produzione che tornisce un asse completo partendo da un grezzo o da un fucinato. Il [tornio per tornitura e rullatura dei fuselli](page:axle-journal-turning-burnishing-lathe) è una macchina di revisione che ripristina e rulla i fuselli di assi già in esercizio. Una linea per assi nuovi si costruisce attorno alla prima; una linea di revisione attorno alla seconda."
+            },
+            {
+              "q": "Perché rullare i fuselli dopo la tornitura?",
+              "a": "Rulli temprati schiacciano le creste lasciate dall'utensile di tornitura e lasciano al cuscinetto una superficie liscia e compattata. La rullatura è una lavorazione a freddo e non produce trucioli."
+            },
+            {
+              "q": "Una sola linea può gestire sia assi nuovi sia assi in revisione?",
+              "a": "Sì, se il Suo impianto ne ha bisogno. I due flussi utilizzano macchine diverse ma possono condividere accettazione, movimentazione, misura e magazzino, il che mantiene compatto l'edificio."
+            },
+            {
+              "q": "I controlli non distruttivi degli assi fanno parte della linea?",
+              "a": "I controlli a ultrasuoni e magnetoscopici vengono normalmente eseguiti dal personale di controllo del committente secondo le procedure della propria ferrovia. Nel layout prevediamo lo spazio per i controlli e il flusso degli assi da e verso quest'area."
+            }
+          ]
+        },
+        {
+          "type": "cta",
+          "heading": "Sta pianificando una linea assi?",
+          "text": "Ci invii i disegni dei Suoi assi e il mix tra nuova produzione e revisione. Le proporremo le macchine e un layout per la linea.",
+          "primary": {"label": "Discuta il Suo progetto", "page": "contact-us"},
+          "secondary": {"label": "Progetti chiavi in mano (EPC)", "page": "turnkey-project"}
+        }
+      ]
+    }
+  }
+}
