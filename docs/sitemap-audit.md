@@ -7,7 +7,7 @@ All four worksheets were analysed: **Summary**, **Page Inventory** (74 rows incl
 
 | Item | Workbook | Built | Notes |
 |------|----------|-------|-------|
-| Pages | 74 | 73 per language, 438 in total (Annual Return removed at HYT's request, 14 Oct 2026) | `src/registry.py` holds one entry per row; `sr` = Sr. No. |
+| Pages | 74 | 79 per language, 474 in total (Annual Return removed; six Turnkey Solutions pages added – both at HYT's request, 14 Oct 2026) | `src/registry.py` holds one entry per row; `sr` = Sr. No. |
 | Existing URLs kept | 39 | 39 | |
 | New pages | 26 | 26 | URLs from the "Recommended URL" column |
 | Changed URLs (301) | 9 + `/wheel-press/` = 10 | 10 + 1 | plus `/installation-and-commissioning/` → `/installation-commissioning/` (row 34 note) |
@@ -54,3 +54,10 @@ All four worksheets were analysed: **Summary**, **Page Inventory** (74 rows incl
 | 73 | Heavy Engineering | No machines/customers confirmed | Capability-based copy | Confirm what to feature |
 
 The full list of on-page review notes (35) is generated in [`review-notices.md`](review-notices.md).
+
+## Changes requested by HYT after the workbook (14 Oct 2026)
+
+| Change | Pages / URLs | Notes |
+|--------|--------------|-------|
+| Removed | Annual Return – `/annual-return-2/` | Now 404; Company Secretary to confirm s. 92(3) publication and any redirect (outstanding item B14). |
+| Added – **Turnkey Solutions** (Level 3 under Turnkey Projects, new dropdown heading "Turnkey Solutions") | `/turnkey-project/wheel-shops/` · `/turnkey-project/railway-maintenance-depots/` · `/turnkey-project/rolling-stock-manufacturing-facilities/` · `/turnkey-project/wheelset-manufacturing-plants/` · `/turnkey-project/wheel-machining-lines/` · `/turnkey-project/axle-machining-lines/` | Registry `sr` 75–80. Nested under `/turnkey-project/` (like `/industries/…` and `/compliance/…`) so the hierarchy shows in the URL. Labels made plural and consistent ("Wheelshops" → "Wheel Shops"). Listed on the Turnkey Projects hub, in the mega menu, breadcrumbs, HTML sitemap and sitemap.xml with hreflang. The existing Executed Projects, Under Execution and Wheel Shop Automation pages sit under a second dropdown heading, "Projects & Automation". |

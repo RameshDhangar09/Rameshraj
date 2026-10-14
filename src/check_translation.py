@@ -19,7 +19,7 @@ STRUCT = {"type", "id", "icon", "image", "page", "pages", "href", "file", "layou
           "anchor", "products", "status_key", "related", "limit", "carousel"}
 LINK = re.compile(r"\]\(([^)\s]+)\)")
 MODELS = re.compile(r"\b(YUL-08|YUL-12T|YUGLX|YUGL|YPL-0[24]|YSL-(?:08|12|21)|YVM-04|ATL-01)\b")
-FILES = ["common", "home", "about", "products", "projects", "services", "industries", "media", "work", "utility", "legal"]
+FILES = ["common", "home", "about", "products", "projects", "turnkey", "services", "industries", "media", "work", "utility", "legal"]
 
 
 def compare(en, tr, path, errors, same):

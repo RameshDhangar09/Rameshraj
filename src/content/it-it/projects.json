@@ -24,6 +24,40 @@
           "layout": "image-right"
         },
         {
+          "type": "cards",
+          "id": "solutions",
+          "eyebrow": "Soluzioni chiavi in mano",
+          "heading": "Impianti che progettiamo, attrezziamo e mettiamo in servizio",
+          "intro": "Sei tipologie di impianto, un unico approccio: un solo partner responsabile di layout, macchine, installazione e assistenza per l’intero ciclo di vita.",
+          "cols": 3,
+          "items": [
+            {
+              "page": "ts-wheel-shops",
+              "image": "projects/railway-wheel-shop"
+            },
+            {
+              "page": "ts-maintenance-depots",
+              "image": "projects/metro-depot"
+            },
+            {
+              "page": "ts-rolling-stock-facilities",
+              "image": "industries/rolling-stock-manufacturers"
+            },
+            {
+              "page": "ts-wheelset-plants",
+              "image": "products/wheel-press"
+            },
+            {
+              "page": "ts-wheel-machining-lines",
+              "image": "products/vertical-turning-boring-machine"
+            },
+            {
+              "page": "ts-axle-machining-lines",
+              "image": "products/axle-turning-lathe"
+            }
+          ]
+        },
+        {
           "type": "features",
           "id": "scope",
           "eyebrow": "Ambito tipico",

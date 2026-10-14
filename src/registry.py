@@ -83,6 +83,15 @@ page(29, "turnkey-project",       "/turnkey-project/",       "home",            
 page(30, "executed-projects",     "/executed-projects/",     "turnkey-project", image="projects/emu-car-shed")
 page(31, "under-execution",       "/under-execution/",       "turnkey-project", image="projects/pit-foundation-civil-works")
 page(32, "wheel-shop-automation", "/wheel-shop-automation/", "turnkey-project", image="projects/wheel-shop-automation-line")
+# Turnkey Solutions – six solution pages added at HYT's request (14 Oct 2026); not rows of the v2 workbook (sr 75–80).
+page(75, "ts-wheel-shops",              "/turnkey-project/wheel-shops/",                            "turnkey-project", image="projects/railway-wheel-shop")
+page(76, "ts-maintenance-depots",       "/turnkey-project/railway-maintenance-depots/",             "turnkey-project", image="projects/metro-depot")
+page(77, "ts-rolling-stock-facilities", "/turnkey-project/rolling-stock-manufacturing-facilities/", "turnkey-project", image="industries/rolling-stock-manufacturers")
+page(78, "ts-wheelset-plants",          "/turnkey-project/wheelset-manufacturing-plants/",          "turnkey-project", image="products/wheel-press")
+page(79, "ts-wheel-machining-lines",    "/turnkey-project/wheel-machining-lines/",                  "turnkey-project", image="products/vertical-turning-boring-machine")
+page(80, "ts-axle-machining-lines",     "/turnkey-project/axle-machining-lines/",                   "turnkey-project", image="products/axle-turning-lathe")
+TURNKEY_SOLUTIONS = ["ts-wheel-shops", "ts-maintenance-depots", "ts-rolling-stock-facilities",
+                     "ts-wheelset-plants", "ts-wheel-machining-lines", "ts-axle-machining-lines"]
 
 # --- Services
 page(33, "services",                   "/services/",                   "home",        image="company/service-maintenance")
@@ -138,8 +147,8 @@ page(58, "thank-you", "/thank-you/", "contact-us", "utility", sitemap=False)
 page(74, "404",       "/404.html",   "home", "utility", sitemap=False)
 
 PAGES = {p["id"]: p for p in P}
-assert len(P) == 73, len(P)
-assert len({p["sr"] for p in P}) == 73
+assert len(P) == 79, len(P)
+assert len({p["sr"] for p in P}) == 79
 
 # Main menu (desktop mega menu + mobile accordion). Headings are not pages.
 MENU = [
@@ -161,7 +170,9 @@ MENU = [
         {"heading": "partner-products", "anchor": "partner-products", "items": ["skc-gleittechnik-gmbh-germany"]},
     ]},
     {"id": "turnkey-project", "feature": "wheel-shop-automation", "columns": [
-        {"items": ["executed-projects", "under-execution", "wheel-shop-automation"]}]},
+        {"heading": "turnkey-solutions", "items": ["ts-wheel-shops", "ts-maintenance-depots", "ts-rolling-stock-facilities",
+                                                   "ts-wheelset-plants", "ts-wheel-machining-lines", "ts-axle-machining-lines"]},
+        {"heading": "project-references", "items": ["executed-projects", "under-execution", "wheel-shop-automation"]}]},
     {"id": "services", "feature": "wet-leasing", "columns": [
         {"items": ["installation-commissioning", "maintenance",
                    ("operation-and-maintenance", 1), ("annual-maintenance-contract", 1),

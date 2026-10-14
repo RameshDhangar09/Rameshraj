@@ -24,6 +24,40 @@
           "layout": "image-right"
         },
         {
+          "type": "cards",
+          "id": "solutions",
+          "eyebrow": "Turnkey Solutions",
+          "heading": "Facilities we design, equip and commission",
+          "intro": "Six facility types, one approach: a single partner responsible for layout, machines, installation and lifetime support.",
+          "cols": 3,
+          "items": [
+            {
+              "page": "ts-wheel-shops",
+              "image": "projects/railway-wheel-shop"
+            },
+            {
+              "page": "ts-maintenance-depots",
+              "image": "projects/metro-depot"
+            },
+            {
+              "page": "ts-rolling-stock-facilities",
+              "image": "industries/rolling-stock-manufacturers"
+            },
+            {
+              "page": "ts-wheelset-plants",
+              "image": "products/wheel-press"
+            },
+            {
+              "page": "ts-wheel-machining-lines",
+              "image": "products/vertical-turning-boring-machine"
+            },
+            {
+              "page": "ts-axle-machining-lines",
+              "image": "products/axle-turning-lathe"
+            }
+          ]
+        },
+        {
           "type": "features",
           "id": "scope",
           "eyebrow": "Typical scope",
@@ -31,12 +65,36 @@
           "intro": "Every project is scoped to the client's needs. The elements below can be combined as required.",
           "cols": 3,
           "items": [
-            {"icon": "diagram-3", "title": "Process and layout engineering", "text": "Fleet analysis, capacity planning and a wheelset flow that avoids bottlenecks and unnecessary handling."},
-            {"icon": "bricks", "title": "Civil and building interface", "text": "Pit, foundation and rail-support design, coordinated with your civil contractor or executed within our scope."},
-            {"icon": "gear-wide-connected", "title": "Machines", "text": "Wheel lathes, vertical turning machines, axle lathes, wheel presses, measuring stations and balancing machines."},
-            {"icon": "arrows-move", "title": "Wheelset handling", "text": "Transfer and handling arrangements that move heavy wheelsets safely between workstations."},
-            {"icon": "plug", "title": "Utilities and integration", "text": "Power distribution, compressed air, chip handling and data connections planned as one system."},
-            {"icon": "people", "title": "Commissioning and support", "text": "Facility-level acceptance, staff training and long-term maintenance contracts."}
+            {
+              "icon": "diagram-3",
+              "title": "Process and layout engineering",
+              "text": "Fleet analysis, capacity planning and a wheelset flow that avoids bottlenecks and unnecessary handling."
+            },
+            {
+              "icon": "bricks",
+              "title": "Civil and building interface",
+              "text": "Pit, foundation and rail-support design, coordinated with your civil contractor or executed within our scope."
+            },
+            {
+              "icon": "gear-wide-connected",
+              "title": "Machines",
+              "text": "Wheel lathes, vertical turning machines, axle lathes, wheel presses, measuring stations and balancing machines."
+            },
+            {
+              "icon": "arrows-move",
+              "title": "Wheelset handling",
+              "text": "Transfer and handling arrangements that move heavy wheelsets safely between workstations."
+            },
+            {
+              "icon": "plug",
+              "title": "Utilities and integration",
+              "text": "Power distribution, compressed air, chip handling and data connections planned as one system."
+            },
+            {
+              "icon": "people",
+              "title": "Commissioning and support",
+              "text": "Facility-level acceptance, staff training and long-term maintenance contracts."
+            }
           ]
         },
         {
@@ -46,14 +104,38 @@
           "heading": "How a turnkey project is delivered",
           "intro": "Each phase ends with a clear deliverable that you review and approve before the next begins.",
           "items": [
-            {"title": "Requirement study", "text": "Fleet mix, wheel and axle types, throughput targets and site constraints are analysed with your team."},
-            {"title": "Concept and layout", "text": "Process flow, machine selection and building layout are developed and agreed."},
-            {"title": "Detailed engineering", "text": "Machine designs, pit and foundation drawings, utilities and interfaces are finalised."},
-            {"title": "Manufacturing and procurement", "text": "Machines are built and tested at our works in Pune; bought-out equipment is sourced and inspected."},
-            {"title": "Site preparation", "text": "Civil works are executed or supervised, and readiness is checked before machines are shipped."},
-            {"title": "Installation and integration", "text": "Machines, handling and utilities are installed, connected and tested as a system."},
-            {"title": "Commissioning and acceptance", "text": "The facility is proven on your own wheelsets against agreed performance criteria."},
-            {"title": "Training, handover and support", "text": "Staff are trained, documentation is handed over and long-term [maintenance](page:maintenance) begins."}
+            {
+              "title": "Requirement study",
+              "text": "Fleet mix, wheel and axle types, throughput targets and site constraints are analysed with your team."
+            },
+            {
+              "title": "Concept and layout",
+              "text": "Process flow, machine selection and building layout are developed and agreed."
+            },
+            {
+              "title": "Detailed engineering",
+              "text": "Machine designs, pit and foundation drawings, utilities and interfaces are finalised."
+            },
+            {
+              "title": "Manufacturing and procurement",
+              "text": "Machines are built and tested at our works in Pune; bought-out equipment is sourced and inspected."
+            },
+            {
+              "title": "Site preparation",
+              "text": "Civil works are executed or supervised, and readiness is checked before machines are shipped."
+            },
+            {
+              "title": "Installation and integration",
+              "text": "Machines, handling and utilities are installed, connected and tested as a system."
+            },
+            {
+              "title": "Commissioning and acceptance",
+              "text": "The facility is proven on your own wheelsets against agreed performance criteria."
+            },
+            {
+              "title": "Training, handover and support",
+              "text": "Staff are trained, documentation is handed over and long-term [maintenance](page:maintenance) begins."
+            }
           ]
         },
         {
@@ -81,21 +163,35 @@
           "heading": "See our work",
           "cols": 3,
           "items": [
-            {"page": "executed-projects", "image": "projects/emu-car-shed"},
-            {"page": "under-execution", "image": "projects/metro-depot"},
-            {"page": "wheel-shop-automation", "image": "projects/wheel-shop-automation-line"}
+            {
+              "page": "executed-projects",
+              "image": "projects/emu-car-shed"
+            },
+            {
+              "page": "under-execution",
+              "image": "projects/metro-depot"
+            },
+            {
+              "page": "wheel-shop-automation",
+              "image": "projects/wheel-shop-automation-line"
+            }
           ]
         },
         {
           "type": "cta",
           "heading": "Planning a new wheel shop or depot?",
           "text": "Share your fleet, throughput targets and site plans. Our project engineers will outline a concept and the steps to deliver it.",
-          "primary": {"label": "Discuss Your Requirement", "page": "contact-us"},
-          "secondary": {"label": "Explore Our Products", "page": "products"}
+          "primary": {
+            "label": "Discuss Your Requirement",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Explore Our Products",
+            "page": "products"
+          }
         }
       ]
     },
-
     "executed-projects": {
       "nav": "Executed Projects",
       "title": "Executed Railway Machine Tool Projects",
@@ -139,7 +235,9 @@
                 "In-house wheel machining capacity for the car shed"
               ],
               "text": "Suburban EMU fleets run intensive timetables, so every wheelset returned to service quickly counts. A CNC vertical turning lathe gives a car shed its own capacity to machine wheels to profile with accuracy and repeatability, rather than depending on external workshops.",
-              "products": ["vertical-turning-boring-machine"]
+              "products": [
+                "vertical-turning-boring-machine"
+              ]
             },
             {
               "id": "state-railway-of-thailand",
@@ -155,7 +253,9 @@
                 "Machine designed and built at HYT's works in Pune"
               ],
               "text": "HYT supplied and installed a CNC vertical turret lathe for the State Railway of Thailand in Bangkok. The project shows how HYT machines and engineering support reach railway operators beyond India.",
-              "products": ["vertical-turning-boring-machine"]
+              "products": [
+                "vertical-turning-boring-machine"
+              ]
             },
             {
               "id": "indian-railways-underfloor-wheel-lathes",
@@ -171,7 +271,9 @@
                 "Typical scope for underfloor lathes: pit drawings, installation, commissioning and training"
               ],
               "text": "Indian Railways awarded HYT a contract to supply nine CNC underfloor wheel lathes. Underfloor lathes restore wheel profiles while the wheelset stays in the vehicle, so locomotives and coaches return to traffic without bogie removal.",
-              "products": ["underfloor-wheel-lathe"]
+              "products": [
+                "underfloor-wheel-lathe"
+              ]
             }
           ]
         },
@@ -179,12 +281,17 @@
           "type": "cta",
           "heading": "Planning a similar project?",
           "text": "Tell us about your fleet and workshop. We will recommend the right machines and share relevant experience.",
-          "primary": {"label": "Discuss Your Requirement", "page": "contact-us"},
-          "secondary": {"label": "Projects Under Execution", "page": "under-execution"}
+          "primary": {
+            "label": "Discuss Your Requirement",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Projects Under Execution",
+            "page": "under-execution"
+          }
         }
       ]
     },
-
     "under-execution": {
       "nav": "Projects Under Execution",
       "title": "Railway Projects Under Execution",
@@ -228,7 +335,9 @@
                 "Typical scope for underfloor lathes: pit drawings, installation, commissioning and training"
               ],
               "text": "National Capital Region Transport Corporation has issued HYT a Letter of Acceptance for fully automatic CNC underfloor wheel lathes. For a regional rapid transit fleet, automatic measurement and machining cycles help keep re-profiling fast, consistent and economical with wheel material.",
-              "products": ["underfloor-wheel-lathe"]
+              "products": [
+                "underfloor-wheel-lathe"
+              ]
             },
             {
               "id": "dmrc-tandem-underfloor-wheel-lathe",
@@ -244,7 +353,9 @@
                 "Typical scope for underfloor lathes: pit drawings, installation, commissioning and training"
               ],
               "text": "Delhi Metro Rail Corporation has awarded HYT a contract for a new CNC tandem underfloor wheel lathe. A tandem machine re-profiles both wheelsets of a bogie at once, reducing the time each train spends on the lathe.",
-              "products": ["tandem-underfloor-wheel-lathe"]
+              "products": [
+                "tandem-underfloor-wheel-lathe"
+              ]
             }
           ]
         },
@@ -252,12 +363,17 @@
           "type": "cta",
           "heading": "Expanding your depot's re-profiling capacity?",
           "text": "Talk to our application engineers about single or tandem underfloor lathes for your fleet.",
-          "primary": {"label": "Discuss Your Requirement", "page": "contact-us"},
-          "secondary": {"label": "Executed Projects", "page": "executed-projects"}
+          "primary": {
+            "label": "Discuss Your Requirement",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Executed Projects",
+            "page": "executed-projects"
+          }
         }
       ]
     },
-
     "wheel-shop-automation": {
       "nav": "Wheel Shop Automation",
       "title": "Wheel Shop Automation Solutions",
@@ -293,10 +409,26 @@
           "heading": "Four elements of an automated wheel shop",
           "cols": 4,
           "items": [
-            {"icon": "arrows-move", "title": "Automated handling", "text": "Wheelsets and components transferred between workstations with less crane work and manual lifting."},
-            {"icon": "rulers", "title": "Integrated measurement", "text": "Wheels, axles and wheelsets measured at defined points, with results stored automatically."},
-            {"icon": "diagram-3", "title": "Data flow between machines", "text": "Measured values passed directly to the next machine – for example, bore and seat data used for pressing."},
-            {"icon": "upc-scan", "title": "Traceability", "text": "Each component identified and its measurements, machining and pressing records kept together."}
+            {
+              "icon": "arrows-move",
+              "title": "Automated handling",
+              "text": "Wheelsets and components transferred between workstations with less crane work and manual lifting."
+            },
+            {
+              "icon": "rulers",
+              "title": "Integrated measurement",
+              "text": "Wheels, axles and wheelsets measured at defined points, with results stored automatically."
+            },
+            {
+              "icon": "diagram-3",
+              "title": "Data flow between machines",
+              "text": "Measured values passed directly to the next machine – for example, bore and seat data used for pressing."
+            },
+            {
+              "icon": "upc-scan",
+              "title": "Traceability",
+              "text": "Each component identified and its measurements, machining and pressing records kept together."
+            }
           ]
         },
         {
@@ -305,12 +437,30 @@
           "eyebrow": "Process flow",
           "heading": "A wheelset's journey through an automated shop",
           "items": [
-            {"title": "Receipt and identification", "text": "Wheels, axles or wheelsets are identified and registered when they enter the shop."},
-            {"title": "Measurement", "text": "A [wheel measuring station](page:wheel-measuring-station) records the dimensions needed for the next operations."},
-            {"title": "Machining", "text": "Wheels are machined on a [CNC vertical turning machine](page:vertical-turning-boring-machine); axles on [axle turning](page:axle-turning-lathe) and [journal burnishing](page:axle-journal-turning-burnishing-lathe) lathes."},
-            {"title": "Pressing", "text": "A [wheel press](page:wheel-presses) mounts wheels on the axle, with the press-fit record linked to the components."},
-            {"title": "Balancing", "text": "A [dynamic wheel balancing machine](page:dynamic-wheel-balancing-machine) checks and corrects imbalance."},
-            {"title": "Final inspection and release", "text": "The complete record travels with the wheelset into service."}
+            {
+              "title": "Receipt and identification",
+              "text": "Wheels, axles or wheelsets are identified and registered when they enter the shop."
+            },
+            {
+              "title": "Measurement",
+              "text": "A [wheel measuring station](page:wheel-measuring-station) records the dimensions needed for the next operations."
+            },
+            {
+              "title": "Machining",
+              "text": "Wheels are machined on a [CNC vertical turning machine](page:vertical-turning-boring-machine); axles on [axle turning](page:axle-turning-lathe) and [journal burnishing](page:axle-journal-turning-burnishing-lathe) lathes."
+            },
+            {
+              "title": "Pressing",
+              "text": "A [wheel press](page:wheel-presses) mounts wheels on the axle, with the press-fit record linked to the components."
+            },
+            {
+              "title": "Balancing",
+              "text": "A [dynamic wheel balancing machine](page:dynamic-wheel-balancing-machine) checks and corrects imbalance."
+            },
+            {
+              "title": "Final inspection and release",
+              "text": "The complete record travels with the wheelset into service."
+            }
           ]
         },
         {
@@ -334,7 +484,14 @@
                 "Installation, commissioning and staff training"
               ],
               "text": "Automation can be introduced in stages: connect the machines and their data first, then add handling as throughput grows. Each stage is planned so the shop keeps producing while it is upgraded.",
-              "products": ["wheel-measuring-station", "vertical-turning-boring-machine", "wheel-presses", "dynamic-wheel-balancing-machine", "axle-turning-lathe", "axle-journal-turning-burnishing-lathe"]
+              "products": [
+                "wheel-measuring-station",
+                "vertical-turning-boring-machine",
+                "wheel-presses",
+                "dynamic-wheel-balancing-machine",
+                "axle-turning-lathe",
+                "axle-journal-turning-burnishing-lathe"
+              ]
             }
           ]
         },
@@ -345,18 +502,36 @@
           "heading": "The machines at the heart of the line",
           "cols": 4,
           "items": [
-            {"page": "wheel-measuring-station", "image": "products/wheel-measuring-station"},
-            {"page": "vertical-turning-boring-machine", "image": "products/vertical-turning-boring-machine"},
-            {"page": "wheel-presses", "image": "products/wheel-press"},
-            {"page": "dynamic-wheel-balancing-machine", "image": "products/dynamic-wheel-balancing-machine"}
+            {
+              "page": "wheel-measuring-station",
+              "image": "products/wheel-measuring-station"
+            },
+            {
+              "page": "vertical-turning-boring-machine",
+              "image": "products/vertical-turning-boring-machine"
+            },
+            {
+              "page": "wheel-presses",
+              "image": "products/wheel-press"
+            },
+            {
+              "page": "dynamic-wheel-balancing-machine",
+              "image": "products/dynamic-wheel-balancing-machine"
+            }
           ]
         },
         {
           "type": "cta",
           "heading": "Ready to connect your wheel shop?",
           "text": "Tell us about your current machines, throughput and goals. We will suggest where automation will make the biggest difference – as a stand-alone upgrade or within a [turnkey project](page:turnkey-project).",
-          "primary": {"label": "Discuss Your Requirement", "page": "contact-us"},
-          "secondary": {"label": "Turnkey (EPC) Projects", "page": "turnkey-project"}
+          "primary": {
+            "label": "Discuss Your Requirement",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Turnkey (EPC) Projects",
+            "page": "turnkey-project"
+          }
         }
       ]
     }

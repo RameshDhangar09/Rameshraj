@@ -24,6 +24,40 @@
           "layout": "image-right"
         },
         {
+          "type": "cards",
+          "id": "solutions",
+          "eyebrow": "Solutions clés en main",
+          "heading": "Les installations que nous concevons, équipons et mettons en service",
+          "intro": "Six types d’installations, une même approche : un seul partenaire responsable de l’implantation, des machines, de l’installation et du support sur toute la durée de vie.",
+          "cols": 3,
+          "items": [
+            {
+              "page": "ts-wheel-shops",
+              "image": "projects/railway-wheel-shop"
+            },
+            {
+              "page": "ts-maintenance-depots",
+              "image": "projects/metro-depot"
+            },
+            {
+              "page": "ts-rolling-stock-facilities",
+              "image": "industries/rolling-stock-manufacturers"
+            },
+            {
+              "page": "ts-wheelset-plants",
+              "image": "products/wheel-press"
+            },
+            {
+              "page": "ts-wheel-machining-lines",
+              "image": "products/vertical-turning-boring-machine"
+            },
+            {
+              "page": "ts-axle-machining-lines",
+              "image": "products/axle-turning-lathe"
+            }
+          ]
+        },
+        {
           "type": "features",
           "id": "scope",
           "eyebrow": "Périmètre type",

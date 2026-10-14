@@ -24,6 +24,40 @@
           "layout": "image-right"
         },
         {
+          "type": "cards",
+          "id": "solutions",
+          "eyebrow": "Schlüsselfertige Lösungen",
+          "heading": "Anlagen, die wir planen, ausrüsten und in Betrieb nehmen",
+          "intro": "Sechs Anlagentypen, ein Ansatz: ein Partner, der für Layout, Maschinen, Montage und lebenslange Betreuung verantwortlich ist.",
+          "cols": 3,
+          "items": [
+            {
+              "page": "ts-wheel-shops",
+              "image": "projects/railway-wheel-shop"
+            },
+            {
+              "page": "ts-maintenance-depots",
+              "image": "projects/metro-depot"
+            },
+            {
+              "page": "ts-rolling-stock-facilities",
+              "image": "industries/rolling-stock-manufacturers"
+            },
+            {
+              "page": "ts-wheelset-plants",
+              "image": "products/wheel-press"
+            },
+            {
+              "page": "ts-wheel-machining-lines",
+              "image": "products/vertical-turning-boring-machine"
+            },
+            {
+              "page": "ts-axle-machining-lines",
+              "image": "products/axle-turning-lathe"
+            }
+          ]
+        },
+        {
           "type": "features",
           "id": "scope",
           "eyebrow": "Typischer Leistungsumfang",
@@ -31,12 +65,36 @@
           "intro": "Jedes Projekt wird auf die Anforderungen des Auftraggebers zugeschnitten. Die folgenden Bausteine lassen sich nach Bedarf kombinieren.",
           "cols": 3,
           "items": [
-            {"icon": "diagram-3", "title": "Prozess- und Layoutplanung", "text": "Flottenanalyse, Kapazitätsplanung und ein Radsatzfluss ohne Engpässe und unnötige Umschlagvorgänge."},
-            {"icon": "bricks", "title": "Bau- und Gebäudeschnittstelle", "text": "Planung von Grube, Fundament und Schienenauflagen – abgestimmt mit Ihrem Bauunternehmen oder in unserem Leistungsumfang ausgeführt."},
-            {"icon": "gear-wide-connected", "title": "Maschinen", "text": "Radsatzdrehmaschinen, Vertikaldrehmaschinen, Achsdrehmaschinen, Radsatzpressen, Messstationen und Auswuchtmaschinen."},
-            {"icon": "arrows-move", "title": "Radsatzhandling", "text": "Transport- und Handhabungseinrichtungen, die schwere Radsätze sicher zwischen den Arbeitsplätzen bewegen."},
-            {"icon": "plug", "title": "Versorgung und Integration", "text": "Stromverteilung, Druckluft, Späneentsorgung und Datenanbindung als ein Gesamtsystem geplant."},
-            {"icon": "people", "title": "Inbetriebnahme und Service", "text": "Abnahme auf Anlagenebene, Schulung des Personals und langfristige Wartungsverträge."}
+            {
+              "icon": "diagram-3",
+              "title": "Prozess- und Layoutplanung",
+              "text": "Flottenanalyse, Kapazitätsplanung und ein Radsatzfluss ohne Engpässe und unnötige Umschlagvorgänge."
+            },
+            {
+              "icon": "bricks",
+              "title": "Bau- und Gebäudeschnittstelle",
+              "text": "Planung von Grube, Fundament und Schienenauflagen – abgestimmt mit Ihrem Bauunternehmen oder in unserem Leistungsumfang ausgeführt."
+            },
+            {
+              "icon": "gear-wide-connected",
+              "title": "Maschinen",
+              "text": "Radsatzdrehmaschinen, Vertikaldrehmaschinen, Achsdrehmaschinen, Radsatzpressen, Messstationen und Auswuchtmaschinen."
+            },
+            {
+              "icon": "arrows-move",
+              "title": "Radsatzhandling",
+              "text": "Transport- und Handhabungseinrichtungen, die schwere Radsätze sicher zwischen den Arbeitsplätzen bewegen."
+            },
+            {
+              "icon": "plug",
+              "title": "Versorgung und Integration",
+              "text": "Stromverteilung, Druckluft, Späneentsorgung und Datenanbindung als ein Gesamtsystem geplant."
+            },
+            {
+              "icon": "people",
+              "title": "Inbetriebnahme und Service",
+              "text": "Abnahme auf Anlagenebene, Schulung des Personals und langfristige Wartungsverträge."
+            }
           ]
         },
         {
@@ -46,14 +104,38 @@
           "heading": "So wird ein schlüsselfertiges Projekt umgesetzt",
           "intro": "Jede Phase endet mit einem klar definierten Ergebnis, das Sie prüfen und freigeben, bevor die nächste beginnt.",
           "items": [
-            {"title": "Anforderungsanalyse", "text": "Flottenzusammensetzung, Rad- und Achstypen, Durchsatzziele und örtliche Randbedingungen werden gemeinsam mit Ihrem Team analysiert."},
-            {"title": "Konzept und Layout", "text": "Prozessablauf, Maschinenauswahl und Hallenlayout werden ausgearbeitet und abgestimmt."},
-            {"title": "Detailplanung", "text": "Maschinenkonstruktion, Gruben- und Fundamentzeichnungen, Versorgung und Schnittstellen werden finalisiert."},
-            {"title": "Fertigung und Beschaffung", "text": "Die Maschinen werden in unserem Werk in Pune gebaut und geprüft; Zukaufkomponenten werden beschafft und abgenommen."},
-            {"title": "Baustellenvorbereitung", "text": "Die Bauarbeiten werden ausgeführt oder überwacht, und die Baubereitschaft wird vor dem Versand der Maschinen geprüft."},
-            {"title": "Montage und Integration", "text": "Maschinen, Handhabungstechnik und Versorgung werden installiert, angeschlossen und als Gesamtsystem getestet."},
-            {"title": "Inbetriebnahme und Abnahme", "text": "Die Anlage weist ihre Leistung mit Ihren eigenen Radsätzen anhand vereinbarter Leistungskriterien nach."},
-            {"title": "Schulung, Übergabe und Service", "text": "Das Personal wird geschult, die Dokumentation übergeben, und die langfristige [Instandhaltung](page:maintenance) beginnt."}
+            {
+              "title": "Anforderungsanalyse",
+              "text": "Flottenzusammensetzung, Rad- und Achstypen, Durchsatzziele und örtliche Randbedingungen werden gemeinsam mit Ihrem Team analysiert."
+            },
+            {
+              "title": "Konzept und Layout",
+              "text": "Prozessablauf, Maschinenauswahl und Hallenlayout werden ausgearbeitet und abgestimmt."
+            },
+            {
+              "title": "Detailplanung",
+              "text": "Maschinenkonstruktion, Gruben- und Fundamentzeichnungen, Versorgung und Schnittstellen werden finalisiert."
+            },
+            {
+              "title": "Fertigung und Beschaffung",
+              "text": "Die Maschinen werden in unserem Werk in Pune gebaut und geprüft; Zukaufkomponenten werden beschafft und abgenommen."
+            },
+            {
+              "title": "Baustellenvorbereitung",
+              "text": "Die Bauarbeiten werden ausgeführt oder überwacht, und die Baubereitschaft wird vor dem Versand der Maschinen geprüft."
+            },
+            {
+              "title": "Montage und Integration",
+              "text": "Maschinen, Handhabungstechnik und Versorgung werden installiert, angeschlossen und als Gesamtsystem getestet."
+            },
+            {
+              "title": "Inbetriebnahme und Abnahme",
+              "text": "Die Anlage weist ihre Leistung mit Ihren eigenen Radsätzen anhand vereinbarter Leistungskriterien nach."
+            },
+            {
+              "title": "Schulung, Übergabe und Service",
+              "text": "Das Personal wird geschult, die Dokumentation übergeben, und die langfristige [Instandhaltung](page:maintenance) beginnt."
+            }
           ]
         },
         {
@@ -81,21 +163,35 @@
           "heading": "Unsere Referenzen",
           "cols": 3,
           "items": [
-            {"page": "executed-projects", "image": "projects/emu-car-shed"},
-            {"page": "under-execution", "image": "projects/metro-depot"},
-            {"page": "wheel-shop-automation", "image": "projects/wheel-shop-automation-line"}
+            {
+              "page": "executed-projects",
+              "image": "projects/emu-car-shed"
+            },
+            {
+              "page": "under-execution",
+              "image": "projects/metro-depot"
+            },
+            {
+              "page": "wheel-shop-automation",
+              "image": "projects/wheel-shop-automation-line"
+            }
           ]
         },
         {
           "type": "cta",
           "heading": "Planen Sie eine neue Radsatzwerkstatt oder ein neues Betriebswerk?",
           "text": "Teilen Sie uns Ihre Flotte, Ihre Durchsatzziele und Ihre Standortpläne mit. Unsere Projektingenieure skizzieren ein Konzept und die Schritte zu seiner Umsetzung.",
-          "primary": {"label": "Anforderung besprechen", "page": "contact-us"},
-          "secondary": {"label": "Unsere Produkte entdecken", "page": "products"}
+          "primary": {
+            "label": "Anforderung besprechen",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Unsere Produkte entdecken",
+            "page": "products"
+          }
         }
       ]
     },
-
     "executed-projects": {
       "nav": "Realisierte Projekte",
       "title": "Realisierte Projekte: Werkzeugmaschinen für die Bahn",
@@ -139,7 +235,9 @@
                 "Eigene Radbearbeitungskapazität für das Betriebswerk"
               ],
               "text": "Elektrische Vorortzüge (EMU) fahren in dichtem Takt – jeder Radsatz, der schnell wieder in Betrieb geht, zählt. Mit einer CNC-Vertikaldrehmaschine erhält ein Betriebswerk eigene Kapazität, um Räder präzise und wiederholgenau auf Profil zu bearbeiten, statt auf externe Werkstätten angewiesen zu sein.",
-              "products": ["vertical-turning-boring-machine"]
+              "products": [
+                "vertical-turning-boring-machine"
+              ]
             },
             {
               "id": "state-railway-of-thailand",
@@ -155,7 +253,9 @@
                 "Maschine konstruiert und gebaut im HYT-Werk in Pune"
               ],
               "text": "HYT hat für die State Railway of Thailand in Bangkok eine CNC-Vertikal-Revolverdrehmaschine geliefert und montiert. Das Projekt zeigt, wie HYT-Maschinen und unser technischer Support Bahnbetreiber auch außerhalb Indiens erreichen.",
-              "products": ["vertical-turning-boring-machine"]
+              "products": [
+                "vertical-turning-boring-machine"
+              ]
             },
             {
               "id": "indian-railways-underfloor-wheel-lathes",
@@ -171,7 +271,9 @@
                 "Typischer Leistungsumfang bei Unterflurdrehmaschinen: Grubenzeichnungen, Montage, Inbetriebnahme und Schulung"
               ],
               "text": "Indian Railways hat HYT mit der Lieferung von neun CNC-Unterflur-Radsatzdrehmaschinen beauftragt. Unterflurdrehmaschinen stellen das Radprofil wieder her, während der Radsatz im Fahrzeug bleibt – Lokomotiven und Reisezugwagen kehren so ohne Drehgestellausbau in den Betrieb zurück.",
-              "products": ["underfloor-wheel-lathe"]
+              "products": [
+                "underfloor-wheel-lathe"
+              ]
             }
           ]
         },
@@ -179,12 +281,17 @@
           "type": "cta",
           "heading": "Planen Sie ein ähnliches Projekt?",
           "text": "Erzählen Sie uns von Ihrer Flotte und Ihrer Werkstatt. Wir empfehlen Ihnen die passenden Maschinen und teilen relevante Erfahrungen.",
-          "primary": {"label": "Anforderung besprechen", "page": "contact-us"},
-          "secondary": {"label": "Projekte in Ausführung", "page": "under-execution"}
+          "primary": {
+            "label": "Anforderung besprechen",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Projekte in Ausführung",
+            "page": "under-execution"
+          }
         }
       ]
     },
-
     "under-execution": {
       "nav": "Projekte in Ausführung",
       "title": "Laufende Bahnprojekte von HYT",
@@ -228,7 +335,9 @@
                 "Typischer Leistungsumfang bei Unterflurdrehmaschinen: Grubenzeichnungen, Montage, Inbetriebnahme und Schulung"
               ],
               "text": "Die National Capital Region Transport Corporation hat HYT den Zuschlag (Letter of Acceptance) für vollautomatische CNC-Unterflur-Radsatzdrehmaschinen erteilt. Bei einer Regionalschnellbahnflotte sorgen automatische Mess- und Bearbeitungszyklen dafür, dass die Reprofilierung schnell, gleichmäßig und materialschonend erfolgt.",
-              "products": ["underfloor-wheel-lathe"]
+              "products": [
+                "underfloor-wheel-lathe"
+              ]
             },
             {
               "id": "dmrc-tandem-underfloor-wheel-lathe",
@@ -244,7 +353,9 @@
                 "Typischer Leistungsumfang bei Unterflurdrehmaschinen: Grubenzeichnungen, Montage, Inbetriebnahme und Schulung"
               ],
               "text": "Die Delhi Metro Rail Corporation hat HYT mit einer neuen CNC-Tandem-Unterflur-Radsatzdrehmaschine beauftragt. Eine Tandemmaschine reprofiliert beide Radsätze eines Drehgestells gleichzeitig und verkürzt so die Standzeit jedes Zuges an der Maschine.",
-              "products": ["tandem-underfloor-wheel-lathe"]
+              "products": [
+                "tandem-underfloor-wheel-lathe"
+              ]
             }
           ]
         },
@@ -252,12 +363,17 @@
           "type": "cta",
           "heading": "Möchten Sie die Reprofilierungskapazität Ihres Betriebswerks erweitern?",
           "text": "Sprechen Sie mit unseren Anwendungstechnikern über Unterflur-Radsatzdrehmaschinen in Einzel- oder Tandemausführung für Ihre Flotte.",
-          "primary": {"label": "Anforderung besprechen", "page": "contact-us"},
-          "secondary": {"label": "Realisierte Projekte", "page": "executed-projects"}
+          "primary": {
+            "label": "Anforderung besprechen",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Realisierte Projekte",
+            "page": "executed-projects"
+          }
         }
       ]
     },
-
     "wheel-shop-automation": {
       "nav": "Automatisierung der Radsatzwerkstatt",
       "title": "Automatisierung für Radsatzwerkstätten",
@@ -293,10 +409,26 @@
           "heading": "Vier Elemente einer automatisierten Radsatzwerkstatt",
           "cols": 4,
           "items": [
-            {"icon": "arrows-move", "title": "Automatisiertes Handling", "text": "Radsätze und Bauteile werden zwischen den Arbeitsplätzen mit weniger Kraneinsatz und weniger manuellem Heben transportiert."},
-            {"icon": "rulers", "title": "Integrierte Messtechnik", "text": "Räder, Achsen und Radsätze werden an definierten Punkten gemessen, die Ergebnisse automatisch gespeichert."},
-            {"icon": "diagram-3", "title": "Datenfluss zwischen Maschinen", "text": "Messwerte werden direkt an die nächste Maschine übergeben – etwa Bohrungs- und Sitzdaten für das Aufpressen."},
-            {"icon": "upc-scan", "title": "Rückverfolgbarkeit", "text": "Jedes Bauteil wird identifiziert; Mess-, Bearbeitungs- und Aufpressdaten werden gemeinsam gespeichert."}
+            {
+              "icon": "arrows-move",
+              "title": "Automatisiertes Handling",
+              "text": "Radsätze und Bauteile werden zwischen den Arbeitsplätzen mit weniger Kraneinsatz und weniger manuellem Heben transportiert."
+            },
+            {
+              "icon": "rulers",
+              "title": "Integrierte Messtechnik",
+              "text": "Räder, Achsen und Radsätze werden an definierten Punkten gemessen, die Ergebnisse automatisch gespeichert."
+            },
+            {
+              "icon": "diagram-3",
+              "title": "Datenfluss zwischen Maschinen",
+              "text": "Messwerte werden direkt an die nächste Maschine übergeben – etwa Bohrungs- und Sitzdaten für das Aufpressen."
+            },
+            {
+              "icon": "upc-scan",
+              "title": "Rückverfolgbarkeit",
+              "text": "Jedes Bauteil wird identifiziert; Mess-, Bearbeitungs- und Aufpressdaten werden gemeinsam gespeichert."
+            }
           ]
         },
         {
@@ -305,12 +437,30 @@
           "eyebrow": "Prozessablauf",
           "heading": "Der Weg eines Radsatzes durch eine automatisierte Werkstatt",
           "items": [
-            {"title": "Eingang und Identifikation", "text": "Räder, Achsen oder Radsätze werden beim Eintreffen in der Werkstatt identifiziert und erfasst."},
-            {"title": "Messung", "text": "Eine [Radmessstation](page:wheel-measuring-station) erfasst die Maße, die für die folgenden Arbeitsgänge benötigt werden."},
-            {"title": "Bearbeitung", "text": "Räder werden auf einer [CNC-Vertikaldrehmaschine](page:vertical-turning-boring-machine) bearbeitet, Achsen auf [Achsdrehmaschinen](page:axle-turning-lathe) und [Achsschenkel-Dreh- und Glattwalzmaschinen](page:axle-journal-turning-burnishing-lathe)."},
-            {"title": "Aufpressen", "text": "Eine [Radsatzpresse](page:wheel-presses) presst die Räder auf die Achswelle; das Aufpressdiagramm wird den Bauteilen zugeordnet."},
-            {"title": "Auswuchten", "text": "Eine [dynamische Radsatz-Auswuchtmaschine](page:dynamic-wheel-balancing-machine) prüft und korrigiert Unwuchten."},
-            {"title": "Endprüfung und Freigabe", "text": "Die vollständige Dokumentation begleitet den Radsatz in den Betrieb."}
+            {
+              "title": "Eingang und Identifikation",
+              "text": "Räder, Achsen oder Radsätze werden beim Eintreffen in der Werkstatt identifiziert und erfasst."
+            },
+            {
+              "title": "Messung",
+              "text": "Eine [Radmessstation](page:wheel-measuring-station) erfasst die Maße, die für die folgenden Arbeitsgänge benötigt werden."
+            },
+            {
+              "title": "Bearbeitung",
+              "text": "Räder werden auf einer [CNC-Vertikaldrehmaschine](page:vertical-turning-boring-machine) bearbeitet, Achsen auf [Achsdrehmaschinen](page:axle-turning-lathe) und [Achsschenkel-Dreh- und Glattwalzmaschinen](page:axle-journal-turning-burnishing-lathe)."
+            },
+            {
+              "title": "Aufpressen",
+              "text": "Eine [Radsatzpresse](page:wheel-presses) presst die Räder auf die Achswelle; das Aufpressdiagramm wird den Bauteilen zugeordnet."
+            },
+            {
+              "title": "Auswuchten",
+              "text": "Eine [dynamische Radsatz-Auswuchtmaschine](page:dynamic-wheel-balancing-machine) prüft und korrigiert Unwuchten."
+            },
+            {
+              "title": "Endprüfung und Freigabe",
+              "text": "Die vollständige Dokumentation begleitet den Radsatz in den Betrieb."
+            }
           ]
         },
         {
@@ -334,7 +484,14 @@
                 "Montage, Inbetriebnahme und Schulung des Personals"
               ],
               "text": "Die Automatisierung lässt sich schrittweise einführen: Zuerst werden die Maschinen und ihre Daten vernetzt, mit wachsendem Durchsatz kommt das Handling hinzu. Jede Stufe wird so geplant, dass die Werkstatt während der Modernisierung weiter produziert.",
-              "products": ["wheel-measuring-station", "vertical-turning-boring-machine", "wheel-presses", "dynamic-wheel-balancing-machine", "axle-turning-lathe", "axle-journal-turning-burnishing-lathe"]
+              "products": [
+                "wheel-measuring-station",
+                "vertical-turning-boring-machine",
+                "wheel-presses",
+                "dynamic-wheel-balancing-machine",
+                "axle-turning-lathe",
+                "axle-journal-turning-burnishing-lathe"
+              ]
             }
           ]
         },
@@ -345,18 +502,36 @@
           "heading": "Die Maschinen im Zentrum der Linie",
           "cols": 4,
           "items": [
-            {"page": "wheel-measuring-station", "image": "products/wheel-measuring-station"},
-            {"page": "vertical-turning-boring-machine", "image": "products/vertical-turning-boring-machine"},
-            {"page": "wheel-presses", "image": "products/wheel-press"},
-            {"page": "dynamic-wheel-balancing-machine", "image": "products/dynamic-wheel-balancing-machine"}
+            {
+              "page": "wheel-measuring-station",
+              "image": "products/wheel-measuring-station"
+            },
+            {
+              "page": "vertical-turning-boring-machine",
+              "image": "products/vertical-turning-boring-machine"
+            },
+            {
+              "page": "wheel-presses",
+              "image": "products/wheel-press"
+            },
+            {
+              "page": "dynamic-wheel-balancing-machine",
+              "image": "products/dynamic-wheel-balancing-machine"
+            }
           ]
         },
         {
           "type": "cta",
           "heading": "Bereit, Ihre Radsatzwerkstatt zu vernetzen?",
           "text": "Erzählen Sie uns von Ihren vorhandenen Maschinen, Ihrem Durchsatz und Ihren Zielen. Wir zeigen Ihnen, wo Automatisierung am meisten bewirkt – als eigenständige Modernisierung oder im Rahmen eines [schlüsselfertigen Projekts](page:turnkey-project).",
-          "primary": {"label": "Anforderung besprechen", "page": "contact-us"},
-          "secondary": {"label": "Schlüsselfertige EPC-Projekte", "page": "turnkey-project"}
+          "primary": {
+            "label": "Anforderung besprechen",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Schlüsselfertige EPC-Projekte",
+            "page": "turnkey-project"
+          }
         }
       ]
     }

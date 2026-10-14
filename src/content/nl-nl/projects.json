@@ -24,6 +24,40 @@
           "layout": "image-right"
         },
         {
+          "type": "cards",
+          "id": "solutions",
+          "eyebrow": "Turnkey-oplossingen",
+          "heading": "Faciliteiten die wij ontwerpen, uitrusten en in bedrijf stellen",
+          "intro": "Zes soorten faciliteiten, één aanpak: één partner verantwoordelijk voor lay-out, machines, installatie en ondersteuning gedurende de hele levensduur.",
+          "cols": 3,
+          "items": [
+            {
+              "page": "ts-wheel-shops",
+              "image": "projects/railway-wheel-shop"
+            },
+            {
+              "page": "ts-maintenance-depots",
+              "image": "projects/metro-depot"
+            },
+            {
+              "page": "ts-rolling-stock-facilities",
+              "image": "industries/rolling-stock-manufacturers"
+            },
+            {
+              "page": "ts-wheelset-plants",
+              "image": "products/wheel-press"
+            },
+            {
+              "page": "ts-wheel-machining-lines",
+              "image": "products/vertical-turning-boring-machine"
+            },
+            {
+              "page": "ts-axle-machining-lines",
+              "image": "products/axle-turning-lathe"
+            }
+          ]
+        },
+        {
           "type": "features",
           "id": "scope",
           "eyebrow": "Typische scope",

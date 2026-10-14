@@ -30,7 +30,7 @@ PRODUCTION = "--production" in sys.argv
 SHOW_REVIEW = CONFIG.get("show_review_notices", True) and not PRODUCTION
 BASE = CONFIG["base_url"].rstrip("/")
 ASSET_VERSION = date.today().strftime("%Y%m%d")
-CONTENT_FILES = ["home", "about", "products", "projects", "services", "industries", "media", "work", "utility", "legal"]
+CONTENT_FILES = ["home", "about", "products", "projects", "turnkey", "services", "industries", "media", "work", "utility", "legal"]
 MEDIA_IDS = {"news", "international-exhibitions", "domestic-exhibitions", "blog", "knowledge-centre", "downloads"}
 WARNINGS = []
 
