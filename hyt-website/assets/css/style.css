@@ -24,6 +24,7 @@
   --hyt-graphite: #2E3338;      /* graphite grey – primary dark (replaces navy, per HYT feedback) */
   --hyt-dark: #1F2326;          /* deep graphite – footer, hero overlays */
   --hyt-dark-soft: #4A5057;
+  --hyt-blue: #184A72;          /* HYT blue – top bar and footer bottom strip */
   --hyt-white: #FFFFFF;
   --hyt-black: #252525;
   --hyt-grey: #6B7280;
@@ -126,7 +127,7 @@ main:focus { outline: none; }
    so the page below cannot jump (the old height animation caused jerky scrolling). */
 .site-header.is-scrolled { transform: translateY(calc(var(--topbar-h) * -1)); }
 .site-header.is-scrolled { box-shadow: 0 6px 24px -12px rgba(30, 34, 37, 0.25); }
-.topbar { background: var(--hyt-graphite); color: var(--hyt-on-dark); font-size: 0.84rem; height: var(--topbar-h); position: relative; z-index: 3; }
+.topbar { background: var(--hyt-blue); color: #D6E2EE; font-size: 0.84rem; height: var(--topbar-h); position: relative; z-index: 3; }
 .topbar__inner { display: flex; align-items: center; justify-content: space-between; height: 100%; gap: 1rem; }
 .topbar__contact { display: flex; gap: 1.5rem; list-style: none; margin: 0; padding: 0; }
 .topbar a { color: var(--hyt-on-dark); text-decoration: none; display: inline-flex; gap: 0.45rem; align-items: center; }
@@ -734,3 +735,31 @@ html.js-ready .lang-switch:not(.is-open) .lang-switch__menu { opacity: 0; visibi
 @media (prefers-reduced-motion: reduce) {
   .topbar__event, .topbar__event-dot { animation: none; }
 }
+
+/* ---------- HYT blue bars (top bar + footer bottom strip) ---------- */
+.topbar a, .topbar__links a, .topbar__search, .topbar .lang-switch__btn { color: #D6E2EE; }
+.topbar__search { border-color: rgba(255, 255, 255, 0.3); }
+.footer-bottom { background: var(--hyt-blue); border-top: 0; color: #D6E2EE; }
+.footer-bottom__copy, .footer__sample, .footer-bottom__langs { color: #D6E2EE; }
+.footer-bottom__legal a { color: #E4ECF4; }
+.footer-bottom__legal a:hover { color: #fff; text-decoration-color: var(--hyt-orange); }
+.footer-langs a { background: transparent; border-color: rgba(255, 255, 255, 0.35); color: #fff; }
+.footer-langs a:hover { border-color: #fff; background: rgba(255, 255, 255, 0.08); }
+.footer-langs a[aria-current] { background: var(--hyt-orange); border-color: var(--hyt-orange); color: #1F2326; }
+.footer-bottom :focus-visible, .topbar :focus-visible { outline-color: #fff; }
+
+/* ---------- Back-to-top: rotating dotted ring on hover ---------- */
+.back-to-top { overflow: visible; }
+.back-to-top::before { content: ""; position: absolute; inset: -7px; border-radius: 50%; border: 2px dotted var(--hyt-orange); opacity: 0; transform: scale(0.8) rotate(0deg); transition: opacity 250ms var(--ease), transform 350ms var(--ease); pointer-events: none; }
+.back-to-top:hover::before, .back-to-top:focus-visible::before { opacity: 1; transform: scale(1); animation: ring-spin 3.2s linear infinite; }
+.back-to-top .bi { transition: transform 300ms var(--ease); }
+.back-to-top:hover .bi, .back-to-top:focus-visible .bi { animation: arrow-hop 900ms var(--ease) infinite; }
+@keyframes ring-spin { from { transform: scale(1) rotate(0deg); } to { transform: scale(1) rotate(360deg); } }
+@keyframes arrow-hop { 0%, 100% { transform: translateY(0); } 45% { transform: translateY(-4px); } }
+@media (prefers-reduced-motion: reduce) {
+  .back-to-top:hover::before, .back-to-top:focus-visible::before { animation: none; }
+  .back-to-top:hover .bi, .back-to-top:focus-visible .bi { animation: none; }
+}
+/* keep the bottom-strip links clear of the fixed back-to-top button */
+.footer-bottom { padding-right: 4.5rem; }
+@media (min-width: 1500px) { .footer-bottom { padding-right: 0; } }

@@ -1178,7 +1178,7 @@ def head(ctx, pid, pg, crumbs_ld):
 {robots}
 {''.join(links)}
 {''.join(og)}
-<meta name="theme-color" content="#2E3338">
+<meta name="theme-color" content="#184A72">
 <link rel="icon" href="/assets/images/logo/favicon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="/assets/images/logo/apple-touch-icon.png">
 {fonts}{preload_img}
