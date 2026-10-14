@@ -105,120 +105,356 @@
     },
     "career": {
       "nav": "Vacatures",
-      "title": "Vacatures bij HYT Engineering, Pune",
-      "description": "Vacatures in engineering, service, productie en commercie bij HYT Engineering in Pune. Lees wat we bieden, hoe we werven en stuur ons uw sollicitatie.",
-      "eyebrow": "Werken met ons",
-      "h1": "Werken bij HYT Engineering",
-      "lede": "Ontwerp, bouw en onderhoud de machines die spoorwielen veilig houden. We zoeken mensen die trots zijn op nauwkeurig werk en het in de praktijk willen zien draaien.",
-      "summary": "Waarom HYT, de vakgebieden waarin u kunt werken, hoe onze werving verloopt en hoe u solliciteert.",
+      "title": "Werken bij HYT Engineering – banen in spoortechniek",
+      "description": "Bouw aan uw carrière in de spoortechniek bij HYT in Pune: 45+ jaar precisiefabricage, echte verantwoordelijkheid, wereldwijde projecten en goede voordelen.",
+      "eyebrow": "Werken bij HYT",
+      "h1": "Bouw aan uw carrière in de spoortechniek",
+      "lede": "Wij bieden niet zomaar banen – wij bouwen aan loopbanen. Word onderdeel van 45 jaar precisiefabricage en internationale spoorprojecten, in een cultuur waarin ambities werkelijkheid worden.",
+      "summary": "Cultuur, voordelen, werkplekken en de teams waarin u kunt werken – en hoe u solliciteert.",
+      "hero_actions": [
+        {
+          "label": "Solliciteer nu",
+          "page": "career",
+          "anchor": "apply",
+          "icon": "send"
+        },
+        {
+          "label": "Het leven bij HYT",
+          "page": "memorialization"
+        }
+      ],
       "blocks": [
         {
-          "type": "features",
-          "eyebrow": "Waarom HYT",
-          "heading": "Wat werken bij ons u biedt",
-          "cols": 3,
+          "type": "stats",
           "items": [
             {
-              "icon": "gear-wide-connected",
-              "title": "De hele levenscyclus van het product",
-              "text": "Ontwerp, productie, inbedrijfstelling en service onder één dak – u ziet het volledige plaatje, niet slechts één stukje."
+              "value": "45+",
+              "label": "Jaar ervaring in precisiemachinebouw"
             },
             {
-              "icon": "mortarboard",
-              "title": "Leren in de praktijk",
-              "text": "Werk samen met ervaren engineers en technici, met gestructureerde training op onze machines."
+              "value": "Heel India",
+              "label": "Actief in spoor- en metroprojecten in heel India"
             },
             {
-              "icon": "globe2",
-              "title": "Projecten in India en daarbuiten",
-              "text": "Machines voor nationale spoorwegen, metrobedrijven en werkplaatsen, met werk op locatie voor servicefuncties."
+              "value": "1.100+",
+              "label": "Machines wereldwijd geleverd"
             },
             {
-              "icon": "shield-check",
-              "title": "Veiligheid voorop",
-              "text": "Een managementsysteem voor gezond en veilig werken, gecertificeerd volgens ISO 45001:2018."
-            },
-            {
-              "icon": "people",
-              "title": "Een hecht team",
-              "text": "Jaarlijkse bijeenkomsten, veiligheidsweken, maatschappelijke acties en feesten – zie [Het leven bij HYT](page:memorialization)."
-            },
-            {
-              "icon": "graph-up-arrow",
-              "title": "Ruimte om te groeien",
-              "text": "Wie eigenaarschap en betrokkenheid toont, krijgt al vroeg verantwoordelijkheid."
+              "value": "Wereldwijd",
+              "label": "Projecten in India en op internationale markten"
             }
           ]
         },
         {
-          "type": "list",
-          "eyebrow": "Vakgebieden",
-          "heading": "Waar u kunt werken",
-          "intro": "Typische functies in onze fabriek in Pune en op locaties van klanten.",
-          "cols": 2,
+          "type": "quote_band",
+          "quote": "Wij bieden niet zomaar banen – wij bouwen aan loopbanen.",
+          "cite": "HYT Engineering Company Pvt. Ltd."
+        },
+        {
+          "type": "pillars",
+          "id": "culture",
+          "eyebrow": "Onze cultuur",
+          "heading": "Waar ambities werkelijkheid worden",
+          "paragraphs": [
+            "HYT is meer dan een werkplek – het is een omgeving waarin engineers, managers en specialisten uitgroeien tot leiders. Met een aanwezigheid in heel India en een groeiende internationale reikwijdte draagt elke functie bij HYT bij aan echte spoorinfrastructuur die dagelijks miljoenen mensen vervoert."
+          ],
+          "image": "careers/hyt-campus",
+          "image_alt": "Campusgebouw van HYT Engineering in Pune met aangelegde tuinen",
+          "badge_value": "45+",
+          "badge_label": "jaar engineeringervaring",
           "items": [
-            "Werktuigbouwkundig ontwerp en engineering",
-            "Elektrotechniek, CNC en automatisering",
-            "Productie, verspaning en assemblage",
-            "Kwaliteit en inspectie",
-            "Installatie, inbedrijfstelling en buitendienst",
-            "Projecten en uitvoering op locatie",
-            "Verkoop, marketing en applicatie-engineering",
-            "Inkoop, planning en administratie",
-            "Stages en traineeprogramma’s voor afgestudeerden"
+            {
+              "icon": "lightbulb",
+              "title": "Gedreven door innovatie",
+              "text": "Regelmatig nieuwe uitdagingen die u buiten uw comfortzone brengen, in een omgeving waar goed werk wordt gezien en benut."
+            },
+            {
+              "icon": "person-check",
+              "title": "Verantwoordelijkheid & groei",
+              "text": "Echte verantwoordelijkheid voor projecten – van de werkvloer tot de installatie bij de klant – zodat u al vroeg in uw loopbaan expertise en verantwoordelijkheidsgevoel opbouwt."
+            },
+            {
+              "icon": "globe-americas",
+              "title": "Internationale ervaring",
+              "text": "Werk aan spoorprojecten in heel India en op internationale markten en bouw zeldzame vakkennis op van precisiemachines voor het spoor."
+            }
+          ]
+        },
+        {
+          "type": "benefits",
+          "id": "benefits",
+          "eyebrow": "Arbeidsvoorwaarden",
+          "heading": "Uiteenlopende voordelen voor u en uw gezin",
+          "intro": "Wij zorgen voor de mensen die onze machines bouwen – op het werk, thuis en onderweg.",
+          "items": [
+            {
+              "icon": "heart-pulse",
+              "title": "Medische voorzieningen",
+              "text": "Uitgebreide medische dekking voor medewerkers en hun gezin, inclusief ondersteuning bij spoedeisende zorg en programma’s voor gezondheid en welzijn."
+            },
+            {
+              "icon": "people",
+              "title": "Prettige werkomgeving",
+              "text": "Een open, collegiale cultuur waarin respect, diversiteit en teamgeest centraal staan, in alle afdelingen en op alle niveaus."
+            },
+            {
+              "icon": "bank",
+              "title": "Personeelslening",
+              "text": "Leningen tegen gunstige rente voor persoonlijke, medische of studiedoeleinden – omdat wij investeren in uw financiële zekerheid."
+            },
+            {
+              "icon": "mortarboard",
+              "title": "Opleiding & ontwikkeling",
+              "text": "Gestructureerde technische en professionele trainingen, mentoring en leren in de praktijk naast ervaren specialisten."
+            },
+            {
+              "icon": "cup-hot",
+              "title": "Bedrijfskantine",
+              "text": "Een gesubsidieerde eigen kantine met voedzame maaltijden, zodat u de hele werkdag goed op krachten blijft."
+            },
+            {
+              "icon": "bus-front",
+              "title": "Vervoersregeling",
+              "text": "Door het bedrijf geregeld taxivervoer voor medewerkers die daarvoor in aanmerking komen, voor een veiliger en makkelijker woon-werkverkeer."
+            }
+          ]
+        },
+        {
+          "type": "facilities",
+          "id": "facilities",
+          "eyebrow": "Faciliteiten & werkplek",
+          "heading": "Waar u gaat werken",
+          "intro": "Van ontwerpafdeling tot assemblagehal en klantlocatie: dit zijn de plekken waar loopbanen bij HYT vorm krijgen.",
+          "items": [
+            {
+              "icon": "building",
+              "title": "Campus & kantoren in Pune",
+              "image": "careers/hyt-campus",
+              "image_alt": "Campusgebouw van HYT Engineering in Pune",
+              "text": "Op onze campus in Pune werken directie, ontwerp, inkoop, verkoop en support samen in een groene, verzorgde omgeving vlak bij de fabriek.",
+              "bullets": [
+                "Moderne kantoren en vergaderruimtes",
+                "Korte lijnen naar de werkvloer en testruimtes",
+                "Groene, goed onderhouden omgeving"
+              ]
+            },
+            {
+              "icon": "gear-wide-connected",
+              "title": "Productie & assemblage",
+              "image": "company/manufacturing-facility",
+              "image_alt": "Voorbeeldillustratie van een assemblagehal voor machines met bovenloopkranen",
+              "text": "Onze machines worden in eigen hallen gebouwd, bedraad en getest. Assemblageteams werken zij aan zij met de ontwerpers, zodat ideeën snel van tekening naar machine gaan.",
+              "bullets": [
+                "Grote assemblagehallen met bovenloopkranen",
+                "Verspaning, montage en elektrische assemblage",
+                "Fabriekstests vóór verzending"
+              ]
+            },
+            {
+              "icon": "pc-display",
+              "title": "Engineering & ontwerp",
+              "image": "company/engineering-design",
+              "image_alt": "Voorbeeldillustratie van een ontwerpwerkplek met een CAD-model van een draaibank",
+              "text": "Werktuigbouwkundige, elektrotechnische en CNC-engineers ontwerpen elke HYT-machine in eigen huis – van concept en berekeningen tot tekeningen, programma’s en documentatie.",
+              "bullets": [
+                "3D-ontwerp en simulatie",
+                "Elektrotechniek, hydrauliek en CNC-engineering",
+                "Direct contact met de engineers van klanten"
+              ]
+            },
+            {
+              "icon": "rulers",
+              "title": "Kwaliteit & inspectie",
+              "image": "company/quality-inspection",
+              "image_alt": "Voorbeeldillustratie van een meetmachine die een bewerkt onderdeel inspecteert",
+              "text": "Ons kwaliteitsteam controleert onderdelen en complete machines aan de hand van tekeningen, normen en klantspecificaties, conform ISO 9001:2015.",
+              "bullets": [
+                "Ingangs- en tussentijdse controle",
+                "Proefdraaien met echte wielstellen",
+                "Managementsystemen volgens ISO 9001, 14001 en 45001"
+              ]
+            },
+            {
+              "icon": "easel",
+              "title": "Training & leren",
+              "image": "company/training-session",
+              "image_alt": "Voorbeeldillustratie van een trainingsruimte met een presentatie over een machine",
+              "text": "Nieuwe collega’s leren de machines, veiligheidsregels en klanteisen kennen via gestructureerde trainingen, mentoring en meewerken aan echte projecten.",
+              "bullets": [
+                "Introductie- en veiligheidstraining",
+                "Technische trainingen en soft-skillsprogramma’s",
+                "Mentoring door ervaren specialisten"
+              ]
+            },
+            {
+              "icon": "cup-hot",
+              "title": "Kantine & woon-werkverkeer",
+              "image": "company/life-at-hyt",
+              "image_alt": "Voorbeeldillustratie van een bijeenkomstzaal in het bedrijf",
+              "text": "Een gesubsidieerde kantine en door het bedrijf geregeld vervoer voor medewerkers die daarvoor in aanmerking komen, regelen het dagelijkse – zodat u zich op uw werk kunt richten.",
+              "bullets": [
+                "Voedzame, gesubsidieerde maaltijden",
+                "Bedrijfsvervoer voor medewerkers die in aanmerking komen",
+                "Vieringen, veiligheidsweken en welzijnsactiviteiten"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "chips",
+          "id": "teams",
+          "eyebrow": "Teams & functies",
+          "heading": "Waar u zou kunnen werken",
+          "intro": "Engineers, technici en commerciële specialisten dragen allemaal bij aan het leveren van een machine – en aan het decennialang draaiende houden ervan.",
+          "items": [
+            {
+              "icon": "bezier2",
+              "title": "Werktuigbouwkundig ontwerp"
+            },
+            {
+              "icon": "cpu",
+              "title": "Elektrotechniek & CNC-engineering"
+            },
+            {
+              "icon": "tools",
+              "title": "Service & inbedrijfstelling"
+            },
+            {
+              "icon": "gear",
+              "title": "Productie & assemblage"
+            },
+            {
+              "icon": "clipboard-check",
+              "title": "Kwaliteit & inspectie"
+            },
+            {
+              "icon": "diagram-3",
+              "title": "Projecten & uitvoering op locatie"
+            },
+            {
+              "icon": "graph-up-arrow",
+              "title": "Verkoop & marketing"
+            },
+            {
+              "icon": "briefcase",
+              "title": "Financiën, HR & administratie"
+            },
+            {
+              "icon": "mortarboard",
+              "title": "Stages & traineeships"
+            }
+          ]
+        },
+        {
+          "type": "steps",
+          "id": "journey",
+          "eyebrow": "Uw traject",
+          "heading": "Van sollicitatie tot uw eerste project",
+          "items": [
+            {
+              "title": "Solliciteren",
+              "text": "Verstuur het formulier hieronder of mail uw cv naar careers@hytengineering.com."
+            },
+            {
+              "title": "Beoordeling",
+              "text": "Ons HR-team en de betreffende afdeling beoordelen uw profiel op basis van huidige en toekomstige behoeften."
+            },
+            {
+              "title": "Gesprekken",
+              "text": "Een technisch gesprek met het team waarin u zou gaan werken, gevolgd door een gesprek met HR."
+            },
+            {
+              "title": "Aanbod & onboarding",
+              "text": "Een helder aanbod, gevolgd door introductie, veiligheidstraining en kennismaking met onze machines."
+            },
+            {
+              "title": "Groeien",
+              "text": "Mentoring, training en steeds meer verantwoordelijkheid – van de werkvloer tot bij de klant op locatie."
+            }
           ]
         },
         {
           "type": "text",
           "id": "openings",
-          "eyebrow": "Actuele vacatures",
-          "heading": "Openstaande functies",
+          "eyebrow": "Open sollicitaties",
+          "heading": "Geen passende vacature? Solliciteer toch",
           "paragraphs": [
-            "Actuele vacatures worden hier vermeld, met de functie, de locatie en de ervaring die we zoeken.",
-            "Staat er geen vacature tussen die bij u past, stuur dan een open sollicitatie via het onderstaande formulier. Kies het vakgebied dat het dichtst bij uw interesse ligt; we bewaren uw gegevens voor passende functies, zoals beschreven in onze [privacyverklaring](page:privacy-policy)."
+            "Wij publiceren geen afzonderlijke vacatures op deze website. In plaats daarvan verwelkomen wij het hele jaar door open sollicitaties en koppelen die aan de functies die in onze teams vrijkomen.",
+            "Vertel ons waar u goed in bent en waarin u wilt groeien. Uw sollicitatie gaat rechtstreeks naar ons HR-team via [careers@hytengineering.com](mailto:careers@hytengineering.com)."
           ],
-          "image": "company/manufacturing-facility",
-          "image_alt": "Voorbeeldillustratie van de HYT-montagehal met een wielenbank in aanbouw",
+          "image": "careers/career-hero",
+          "image_alt": "HYT-engineer op de werkvloer met collega’s op de achtergrond",
           "layout": "image-right"
         },
         {
-          "type": "steps",
-          "eyebrow": "Zo verloopt de werving",
-          "heading": "Van sollicitatie tot eerste werkdag",
+          "type": "form",
+          "form": "career",
+          "id": "apply",
+          "eyebrow": "Online solliciteren",
+          "heading": "Verstuur uw sollicitatie",
+          "intro": "Vul het formulier in en voeg uw cv toe als pdf, of mail het naar careers@hytengineering.com. Elke sollicitatie wordt gelezen door ons HR-team."
+        },
+        {
+          "type": "cards",
+          "eyebrow": "Ontdek HYT",
+          "heading": "Zo is het om bij ons te werken",
+          "cols": 3,
           "items": [
             {
-              "title": "Solliciteren",
-              "text": "Verstuur het formulier met uw cv. Laat ons weten welke functie of welk vakgebied u interesseert."
+              "page": "memorialization",
+              "image": "company/life-at-hyt"
             },
             {
-              "title": "Beoordeling",
-              "text": "Ons HR-team en de leidinggevende van de functie beoordelen uw sollicitatie aan de hand van de functie-eisen."
+              "page": "about",
+              "image": "company/manufacturing-facility"
             },
             {
-              "title": "Gesprek",
-              "text": "Geselecteerde kandidaten maken kennis met het team – persoonlijk in Pune of online – en voeren mogelijk een technisch gesprek of maken een test."
-            },
-            {
-              "title": "Aanbod",
-              "text": "Geslaagde kandidaten ontvangen een schriftelijk aanbod met functie, arbeidsvoorwaarden en startdatum."
-            },
-            {
-              "title": "Introductie",
-              "text": "Uw eerste weken omvatten een veiligheidsinstructie, een kennismaking met onze machines en tijd met uw team."
+              "page": "csr",
+              "image": "company/csr-community"
             }
           ]
         },
         {
-          "type": "form",
-          "id": "apply",
-          "form": "career",
-          "heading": "Solliciteer bij HYT",
-          "intro": "Vertel ons over uzelf en voeg uw cv toe als pdf. We reageren op sollicitanten van wie het profiel past bij een huidige of toekomstige functie."
+          "type": "faq",
+          "id": "faq",
+          "heading": "Vragen van kandidaten",
+          "items": [
+            {
+              "q": "Publiceert u vacatures?",
+              "a": "Nee. Wij ontvangen het hele jaar door open sollicitaties en nemen contact op met kandidaten van wie het profiel past bij de functies die wij willen invullen."
+            },
+            {
+              "q": "Kunnen afgestudeerden en stagiairs solliciteren?",
+              "a": "Ja. Kies in het formulier “Stage / afstudeerder / traineeship” en vertel ons over uw opleiding, projecten en interesses."
+            },
+            {
+              "q": "Waar bevinden de banen zich?",
+              "a": "De meeste functies zijn gevestigd op onze campus en in onze fabriek in Pune. Service- en projectfuncties omvatten reizen naar klantlocaties in India en het buitenland."
+            },
+            {
+              "q": "Wat moet ik meesturen met mijn sollicitatie?",
+              "a": "Een actueel cv in pdf-formaat, het vakgebied dat u interesseert, uw totale werkervaring en – als u wilt – een korte toelichting op wat u wilt bereiken."
+            },
+            {
+              "q": "Hoe hoor ik iets terug?",
+              "a": "Ons HR-team neemt telefonisch of per e-mail contact op met geselecteerde kandidaten. Is er op dit moment geen geschikte functie, dan bewaren wij uw profiel mogelijk voor toekomstige functies."
+            }
+          ]
         },
         {
-          "type": "notice",
-          "variant": "review",
-          "text": "De vacatures op de huidige site dateren uit 2022 en er zijn geen actuele vacatures geverifieerd. HYT levert de actuele vacatures aan (functietitel, locatie, ervaring, korte omschrijving) en actualiseert deze vóór de lancering."
+          "type": "cta",
+          "heading": "Klaar om iets te bouwen dat India in beweging brengt?",
+          "text": "Word onderdeel van een team van engineers en professionals dat de toekomst van spoorinfrastructuur vormgeeft – van Pune tot projecten over de hele wereld.",
+          "primary": {
+            "label": "Open sollicitatie versturen",
+            "href": "mailto:careers@hytengineering.com?subject=Open%20application",
+            "icon": "envelope"
+          },
+          "secondary": {
+            "label": "Online solliciteren",
+            "page": "career",
+            "anchor": "apply"
+          }
         }
       ]
     },
