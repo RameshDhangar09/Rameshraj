@@ -130,7 +130,7 @@ page(52, "contact-us", "/contact-us/", "home", image="company/corporate-office")
 page(53, "privacy-policy", "/privacy-policy/", "home", "legal")
 page(56, "cookie-policy",  "/cookie-policy/",  "home", "legal")
 page(54, "disclaimer",     "/disclaimer/",     "home", "legal")
-page(55, "annual-return",  "/annual-return-2/", "home", "legal")
+# Sr. No. 55 "Annual Return" (/annual-return-2/) removed at HYT's request (14 Oct 2026).
 
 # --- Utility pages
 page(57, "sitemap",   "/sitemap/",   "home", "utility")
@@ -138,8 +138,8 @@ page(58, "thank-you", "/thank-you/", "contact-us", "utility", sitemap=False)
 page(74, "404",       "/404.html",   "home", "utility", sitemap=False)
 
 PAGES = {p["id"]: p for p in P}
-assert len(P) == 74, len(P)
-assert len({p["sr"] for p in P}) == 74
+assert len(P) == 73, len(P)
+assert len({p["sr"] for p in P}) == 73
 
 # Main menu (desktop mega menu + mobile accordion). Headings are not pages.
 MENU = [
@@ -187,7 +187,7 @@ FOOTER = [
                                        "retro-fitment-upgradation", "wet-leasing", "training", "service-centers"]},
     {"heading": "resources", "items": ["industries", "news", "blog", "knowledge-centre", "downloads", "career", "supplier-registration", "contact-us"]},
 ]
-LEGAL_FOOTER = ["privacy-policy", "cookie-policy", "disclaimer", "annual-return", "sitemap"]
+LEGAL_FOOTER = ["privacy-policy", "cookie-policy", "disclaimer", "sitemap"]
 
 # Ten 301s from the Redirects tab + the duplicate noted on Page Inventory row 34.
 REDIRECTS = [

@@ -5,7 +5,7 @@ machine tools, CNC wheel lathes, wheel & axle shop machines, turnkey workshop
 projects and after-sales services).
 
 * **Deployable site:** [`hyt-website/`](hyt-website/) – plain HTML5, CSS3, ES-module JavaScript, Bootstrap 5.3 CSS. No PHP, no Node.js runtime, no database.
-* **Pages:** all 74 pages of `HYT_Website_Sitemap_and_Page_Hierarchy_v2.xlsx` × 6 languages = **444 HTML pages**.
+* **Pages:** 73 pages from `HYT_Website_Sitemap_and_Page_Hierarchy_v2.xlsx` × 6 languages = **438 HTML pages** (the workbook's 74 rows minus the Annual Return page, removed at HYT's request on 14 Oct 2026).
 * **Languages:** `/` English (Global) · `/de-de/` Deutsch · `/fr-fr/` Français · `/it-it/` Italiano · `/nl-nl/` Nederlands · `/en-us/` English (North America).
 
 > **Status: pre-launch build.** Images and the catalogue are clearly labelled
@@ -128,8 +128,8 @@ ready reference handler: [`docs/forms-integration.md`](docs/forms-integration.md
 ```
 hyt-website/
 ├── index.html, 404.html, sitemap.xml, robots.txt, .htaccess, _redirects
-├── <page>/index.html … (74 pages)        English (Global)
-├── de-de/ fr-fr/ it-it/ nl-nl/ en-us/    the same 74 pages per language
+├── <page>/index.html … (73 pages)        English (Global)
+├── de-de/ fr-fr/ it-it/ nl-nl/ en-us/    the same 73 pages per language
 ├── translations/{en,de-de,fr-fr,it-it,nl-nl,en-us}.json   UI strings loaded by JS
 └── assets/
     ├── css/style.css          design tokens (CSS custom properties) + components

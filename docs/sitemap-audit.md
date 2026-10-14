@@ -7,13 +7,13 @@ All four worksheets were analysed: **Summary**, **Page Inventory** (74 rows incl
 
 | Item | Workbook | Built | Notes |
 |------|----------|-------|-------|
-| Pages | 74 | 74 per language, 444 in total | `src/registry.py` holds one entry per row; `sr` = Sr. No. |
+| Pages | 74 | 73 per language, 438 in total (Annual Return removed at HYT's request, 14 Oct 2026) | `src/registry.py` holds one entry per row; `sr` = Sr. No. |
 | Existing URLs kept | 39 | 39 | |
 | New pages | 26 | 26 | URLs from the "Recommended URL" column |
 | Changed URLs (301) | 9 + `/wheel-press/` = 10 | 10 + 1 | plus `/installation-and-commissioning/` → `/installation-commissioning/` (row 34 note) |
 | Main menu items | 8 (Home is the logo) | 7 menu items + logo + Contact button | |
 | Level-3 pages | 10 | 10 | Maintenance children (6), Certifications, Compliance children (3) |
-| Footer pages | 4 | 4 | Privacy, Cookie, Disclaimer, Annual Return |
+| Footer pages | 4 | 3 | Privacy, Cookie, Disclaimer – Annual Return removed |
 | Utility pages | 3 | 3 | /sitemap/, /thank-you/ (noindex), /404.html (noindex; one per language) |
 
 ## How menu rules were implemented
@@ -42,7 +42,7 @@ All four worksheets were analysed: **Summary**, **Page Inventory** (74 rows incl
 | 44 | SPM Relocation | "SPM Machine" repetition | Menu "Machine Relocation & Shifting"; title tag "SPM Relocation & Shifting" | – |
 | 51 | Careers | Job posts from 2022 | "Current openings" placeholder + application form | Supply current openings |
 | 53 / 54 / 56 | Privacy, Disclaimer, Cookie | Old texts (2021) | New drafts written, flagged for legal review | Legal review |
-| 55 | Annual Return | `-2` URL may be quoted in filings | URL kept unchanged | Company Secretary to supply PDFs and confirm |
+| 55 | Annual Return | `-2` URL may be quoted in filings | **Page removed at HYT's request (14 Oct 2026)**; URL now returns 404 | Company Secretary to confirm s. 92(3) publication and any redirect |
 | 58 | Thank You | Static site needs form service | Front end + reference serverless handler; see forms-integration.md | Choose provider / deploy endpoint |
 | 59 / 60 | Knowledge Centre vs Blog | Overlap | Knowledge Centre = evergreen guides + FAQ; Blog = dated articles (topics listed as "coming soon") | Confirm split; supply articles |
 | 62 | Certifications | Overlap with Quality | Single place for certificates, listed beside Quality | Certificate PDFs |

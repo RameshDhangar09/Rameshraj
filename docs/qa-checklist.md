@@ -9,14 +9,14 @@ repeat the go-live checks on the real host.
 
 | Check | Tool | Result |
 |-------|------|--------|
-| 444 HTML pages generated (74 × 6) | `src/build.py` | ✅ 444 pages, 0 build warnings, 0 English fall-backs |
+| 438 HTML pages generated (73 × 6) | `src/build.py` | ✅ 438 pages, 0 build warnings, 0 English fall-backs |
 | Translation structure (44 files) | `src/check_translation.py` | ✅ all OK |
 | Internal links, anchors, images, scripts, styles, downloads resolve | `tools/qa_check.py` | ✅ 0 errors |
 | Every page: correct `lang`, one `<h1>`, no duplicate ids, all images have `alt` | `tools/qa_check.py` | ✅ |
 | Self-canonical per language; 7 reciprocal hreflang links (6 + x-default) | `tools/qa_check.py` | ✅ |
 | Unique `<title>` and meta description within each language | `tools/qa_check.py` | ✅ |
 | Redirect sources are not published as pages | `tools/qa_check.py` | ✅ |
-| `sitemap.xml` – 432 URLs (72 indexable pages × 6) with hreflang alternates; thank-you and 404 excluded | build | ✅ |
+| `sitemap.xml` – 426 URLs (71 indexable pages × 6) with hreflang alternates; thank-you and 404 excluded | build | ✅ |
 | Accessibility – axe-core 4.10 (WCAG 2.1 A/AA + best practice) on 14 representative pages in 3 languages | axe-core | ✅ 0 violations (after fixing orange-text contrast) |
 | No horizontal scrolling at 390 px on 8 templates | Playwright | ✅ |
 | Desktop menu labels fit on one line at 1200 px in all languages | Playwright | ✅ |

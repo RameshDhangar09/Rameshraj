@@ -346,62 +346,6 @@
           ]
         }
       ]
-    },
-    "annual-return": {
-      "nav": "Annual Return",
-      "title": "Annual Return – openbaarmaking volgens Section 92(3)",
-      "description": "HYT Engineering Company Pvt. Ltd. publiceert hier per boekjaar haar annual return (jaarlijkse opgave) conform Section 92(3) van de Companies Act, 2013.",
-      "eyebrow": "Juridisch",
-      "h1": "Annual Return",
-      "lede": "Op deze pagina publiceert HYT Engineering Company Pvt. Ltd. haar annual return (jaarlijkse opgave), zoals voorgeschreven door de Companies Act, 2013.",
-      "summary": "De annual return (jaarlijkse opgave) van de onderneming op grond van Section 92(3) van de Companies Act, 2013.",
-      "blocks": [
-        {
-          "type": "prose",
-          "updated": "In afwachting van documenten – oktober 2026",
-          "sections": [
-            {
-              "heading": "Waarom deze pagina bestaat",
-              "paragraphs": [
-                "Section 92(3) van de Companies Act, 2013 verplicht elke onderneming met een website om een kopie van haar annual return op die website te plaatsen en de weblink te vermelden in het verslag van de Board (raad van bestuur). Deze pagina is die plek voor HYT Engineering Company Pvt. Ltd. (CIN U29299PN1989PTC052195)."
-              ]
-            },
-            {
-              "heading": "Wat de annual return bevat",
-              "paragraphs": [
-                "De annual return wordt jaarlijks gedeponeerd bij de Registrar of Companies (handelsregister) in de vorm die is voorgeschreven in de Companies (Management and Administration) Rules, 2014. Daarin staat, per het einde van het boekjaar, onder meer de volgende informatie:"
-              ],
-              "bullets": [
-                "de statutaire zetel en de voornaamste bedrijfsactiviteiten van de onderneming;",
-                "het aandelenkapitaal en de aandeelhoudersstructuur;",
-                "de aandeelhouders en wijzigingen daarin;",
-                "de bestuurders en het leidinggevend kernpersoneel (key managerial personnel), en wijzigingen gedurende het jaar;",
-                "vergaderingen van aandeelhouders en van de Board, en de aanwezigheid daarbij;",
-                "de bezoldiging van bestuurders en leidinggevend kernpersoneel;",
-                "eventuele boetes of schikkingen (compounding) van overtredingen;",
-                "overige wettelijk vereiste openbaarmakingen en verklaringen."
-              ]
-            },
-            {
-              "heading": "Documenten",
-              "paragraphs": [
-                "De annual return voor elk boekjaar wordt op deze pagina gepubliceerd als pdf-document, te beginnen met het meest recente jaar. De wettelijke deponeringen van de onderneming kunnen ook worden ingezien via het Ministry of Corporate Affairs."
-              ]
-            },
-            {
-              "heading": "Contact",
-              "paragraphs": [
-                "Vragen over deze pagina kunt u richten aan de Company Secretary, HYT Engineering Company Pvt. Ltd., 29/10, 29/10/1, 29/10/2, D-II Block, MIDC Chinchwad, Pune 411019, Maharashtra, India, of aan info@hytengineering.com. Meer over de manier waarop we de onderneming besturen, leest u onder [Compliance](page:compliance)."
-              ]
-            }
-          ]
-        },
-        {
-          "type": "notice",
-          "variant": "review",
-          "text": "De Company Secretary dient voor elk boekjaar de pdf van de annual return aan te leveren (met het jaartal in de bestandsnaam), zodat die hier kan worden gepubliceerd. De URL /annual-return-2/ wordt genoemd in de verslagen van de Board en mag niet veranderen; elke toekomstige wijziging moet eerst door de Company Secretary worden bevestigd."
-        }
-      ]
     }
   }
 }

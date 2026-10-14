@@ -1,7 +1,7 @@
 # Content pending HYT approval (generated)
 
 Every yellow review note on the preview site, by page. Generated from the English master by `tools/gen_docs.py`.
-**35 notes on 35 pages.**
+**34 notes on 34 pages.**
 
 These notes are hidden by `python3 src/build.py --production`; resolve them before launch.
 
@@ -41,4 +41,3 @@ These notes are hidden by `python3 src/build.py --production`; resolve them befo
 | Privacy Policy | `/privacy-policy/` | Draft for review. HYT's legal adviser to check this policy together with the Cookie Policy (the current policy was last updated in December 2021), confirm the retention periods proposed below, name the form-processing provider and confirm whether an EU or UK representative is required. |
 | Cookie Policy | `/cookie-policy/` | Draft for review together with the Privacy Policy. HYT's legal adviser to confirm the text, and the web team to confirm before launch that no cookies, analytics or third-party embeds are active. Update this policy and add a consent banner before any such tool is introduced. |
 | Disclaimer | `/disclaimer/` | Draft for review. The current disclaimer was last updated in October 2021. HYT's legal adviser to check and approve this text, including the governing law and jurisdiction clause. |
-| Annual Return | `/annual-return-2/` | Company Secretary to supply the annual return PDF for each financial year (with the year in the file name) so it can be published here. The URL /annual-return-2/ is referenced in Board's reports and must not change; any future change must first be confirmed by the Company Secretary. |

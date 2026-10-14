@@ -346,62 +346,6 @@
           ]
         }
       ]
-    },
-    "annual-return": {
-      "nav": "Déclaration annuelle",
-      "title": "Déclaration annuelle – publication selon la section 92(3)",
-      "description": "HYT Engineering Company Pvt. Ltd. publie ici sa déclaration annuelle (annual return) pour chaque exercice, selon la section 92(3) du Companies Act, 2013.",
-      "eyebrow": "Informations légales",
-      "h1": "Déclaration annuelle (Annual Return)",
-      "lede": "Cette page publie la déclaration annuelle (annual return) de HYT Engineering Company Pvt. Ltd., conformément au Companies Act, 2013.",
-      "summary": "La déclaration annuelle de la société au titre de la section 92(3) du Companies Act, 2013.",
-      "blocks": [
-        {
-          "type": "prose",
-          "updated": "Documents en attente – octobre 2026",
-          "sections": [
-            {
-              "heading": "Raison d’être de cette page",
-              "paragraphs": [
-                "La section 92(3) du Companies Act, 2013 impose à toute société disposant d’un site web d’y publier une copie de sa déclaration annuelle et d’indiquer le lien correspondant dans le rapport du conseil d’administration (Board’s report). Cette page est l’emplacement prévu à cet effet pour HYT Engineering Company Pvt. Ltd. (CIN U29299PN1989PTC052195)."
-              ]
-            },
-            {
-              "heading": "Contenu de la déclaration annuelle",
-              "paragraphs": [
-                "La déclaration annuelle est déposée chaque année auprès du Registrar of Companies (registre des sociétés), selon le formulaire prescrit par les Companies (Management and Administration) Rules, 2014. Elle présente, à la clôture de l’exercice, des informations portant notamment sur :"
-              ],
-              "bullets": [
-                "le siège social et les principales activités de la société ;",
-                "le capital social et la répartition de l’actionnariat ;",
-                "les associés et les changements intervenus parmi eux ;",
-                "les administrateurs et les principaux dirigeants (key managerial personnel), ainsi que les changements intervenus au cours de l’exercice ;",
-                "les assemblées des associés et les réunions du conseil d’administration, ainsi que la participation à celles-ci ;",
-                "la rémunération des administrateurs et des principaux dirigeants ;",
-                "les éventuelles sanctions ou transactions relatives à des infractions ;",
-                "les autres informations et certifications exigées par la loi."
-              ]
-            },
-            {
-              "heading": "Documents",
-              "paragraphs": [
-                "La déclaration annuelle de chaque exercice sera publiée sur cette page au format PDF, en commençant par l’exercice le plus récent. Les dépôts légaux de la société peuvent également être consultés auprès du Ministry of Corporate Affairs (ministère indien des Affaires des sociétés)."
-              ]
-            },
-            {
-              "heading": "Contact",
-              "paragraphs": [
-                "Les questions relatives à cette page peuvent être adressées au Company Secretary (secrétaire général de la société), HYT Engineering Company Pvt. Ltd., 29/10, 29/10/1, 29/10/2, D-II Block, MIDC Chinchwad, Pune 411019, Maharashtra, India, ou à info@hytengineering.com. Pour en savoir plus sur la gouvernance de l’entreprise, consultez la page [Conformité](page:compliance)."
-              ]
-            }
-          ]
-        },
-        {
-          "type": "notice",
-          "variant": "review",
-          "text": "À fournir par le Company Secretary : le PDF de la déclaration annuelle de chaque exercice (avec l’année dans le nom du fichier) afin de le publier ici. L’URL /annual-return-2/ est citée dans les rapports du conseil d’administration et ne doit pas changer ; toute modification future doit d’abord être confirmée par le Company Secretary."
-        }
-      ]
     }
   }
 }

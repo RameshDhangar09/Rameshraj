@@ -346,62 +346,6 @@
           ]
         }
       ]
-    },
-    "annual-return": {
-      "nav": "Annual Return",
-      "title": "Annual Return – Section 92(3) Disclosure",
-      "description": "HYT Engineering Company Pvt. Ltd. publishes its annual return on this page in line with Section 92(3) of the Companies Act, 2013, for each financial year.",
-      "eyebrow": "Legal",
-      "h1": "Annual Return",
-      "lede": "This page publishes the annual return of HYT Engineering Company Pvt. Ltd. as required by the Companies Act, 2013.",
-      "summary": "The company's annual return under Section 92(3) of the Companies Act, 2013.",
-      "blocks": [
-        {
-          "type": "prose",
-          "updated": "Awaiting documents – October 2026",
-          "sections": [
-            {
-              "heading": "Why this page exists",
-              "paragraphs": [
-                "Section 92(3) of the Companies Act, 2013 requires every company that has a website to place a copy of its annual return on that website, and to disclose the web link in the Board's report. This page is that location for HYT Engineering Company Pvt. Ltd. (CIN U29299PN1989PTC052195)."
-              ]
-            },
-            {
-              "heading": "What the annual return contains",
-              "paragraphs": [
-                "The annual return is filed each year with the Registrar of Companies in the form prescribed under the Companies (Management and Administration) Rules, 2014. It sets out, as at the close of the financial year, information including:"
-              ],
-              "bullets": [
-                "the registered office and principal business activities of the company;",
-                "share capital and shareholding pattern;",
-                "members and changes in membership;",
-                "directors and key managerial personnel, and changes during the year;",
-                "meetings of members and of the Board and their attendance;",
-                "remuneration of directors and key managerial personnel;",
-                "penalties or compounding of offences, if any;",
-                "other disclosures and certifications required by law."
-              ]
-            },
-            {
-              "heading": "Documents",
-              "paragraphs": [
-                "The annual return for each financial year will be published on this page as a PDF document, starting with the most recent year. The company's statutory filings can also be inspected through the Ministry of Corporate Affairs."
-              ]
-            },
-            {
-              "heading": "Contact",
-              "paragraphs": [
-                "Questions about this page can be addressed to the Company Secretary, HYT Engineering Company Pvt. Ltd., 29/10, 29/10/1, 29/10/2, D-II Block, MIDC Chinchwad, Pune 411019, Maharashtra, India, or to info@hytengineering.com. For more on how we run the company, see [Compliance](page:compliance)."
-              ]
-            }
-          ]
-        },
-        {
-          "type": "notice",
-          "variant": "review",
-          "text": "Company Secretary to supply the annual return PDF for each financial year (with the year in the file name) so it can be published here. The URL /annual-return-2/ is referenced in Board's reports and must not change; any future change must first be confirmed by the Company Secretary."
-        }
-      ]
     }
   }
 }

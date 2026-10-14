@@ -346,62 +346,6 @@
           ]
         }
       ]
-    },
-    "annual-return": {
-      "nav": "Annual Return",
-      "title": "Annual Return – Offenlegung nach Section 92(3)",
-      "description": "HYT Engineering Company Pvt. Ltd. veröffentlicht hier für jedes Geschäftsjahr ihre Annual Return gemäß Section 92(3) des Companies Act, 2013 (Jahresmeldung).",
-      "eyebrow": "Rechtliches",
-      "h1": "Annual Return (Jahresmeldung)",
-      "lede": "Auf dieser Seite wird die jährliche Meldung (Annual Return) der HYT Engineering Company Pvt. Ltd. gemäß dem Companies Act, 2013 veröffentlicht.",
-      "summary": "Die jährliche Meldung (Annual Return) des Unternehmens gemäß Section 92(3) des Companies Act, 2013.",
-      "blocks": [
-        {
-          "type": "prose",
-          "updated": "Unterlagen ausstehend – Oktober 2026",
-          "sections": [
-            {
-              "heading": "Warum es diese Seite gibt",
-              "paragraphs": [
-                "Section 92(3) des Companies Act, 2013 verpflichtet jedes Unternehmen mit eigener Website, eine Kopie seiner jährlichen Meldung (Annual Return) auf dieser Website zu veröffentlichen und den Link im Bericht des Board of Directors anzugeben. Diese Seite ist dieser Ort für die HYT Engineering Company Pvt. Ltd. (CIN U29299PN1989PTC052195)."
-              ]
-            },
-            {
-              "heading": "Was die Annual Return enthält",
-              "paragraphs": [
-                "Die Annual Return wird jedes Jahr beim Registrar of Companies in der nach den Companies (Management and Administration) Rules, 2014 vorgeschriebenen Form eingereicht. Sie enthält zum Ende des Geschäftsjahres unter anderem folgende Angaben:"
-              ],
-              "bullets": [
-                "eingetragener Sitz und Haupttätigkeiten des Unternehmens;",
-                "Stammkapital und Gesellschafterstruktur;",
-                "Gesellschafter und Veränderungen im Gesellschafterkreis;",
-                "Direktoren und leitende Führungskräfte (Key Managerial Personnel) sowie Veränderungen im Laufe des Jahres;",
-                "Gesellschafterversammlungen und Sitzungen des Board of Directors sowie die jeweilige Teilnahme;",
-                "Vergütung der Direktoren und der leitenden Führungskräfte;",
-                "gegebenenfalls Strafen oder Vergleiche über Ordnungswidrigkeiten (Compounding of Offences);",
-                "sonstige gesetzlich vorgeschriebene Angaben und Bescheinigungen."
-              ]
-            },
-            {
-              "heading": "Dokumente",
-              "paragraphs": [
-                "Die Annual Return für jedes Geschäftsjahr wird auf dieser Seite als PDF-Dokument veröffentlicht, beginnend mit dem jüngsten Jahr. Die gesetzlich vorgeschriebenen Einreichungen des Unternehmens können außerdem über das Ministry of Corporate Affairs eingesehen werden."
-              ]
-            },
-            {
-              "heading": "Kontakt",
-              "paragraphs": [
-                "Fragen zu dieser Seite richten Sie bitte an den Company Secretary, HYT Engineering Company Pvt. Ltd., 29/10, 29/10/1, 29/10/2, D-II Block, MIDC Chinchwad, Pune 411019, Maharashtra, India, oder an info@hytengineering.com. Mehr darüber, wie wir das Unternehmen führen, erfahren Sie unter [Compliance](page:compliance)."
-              ]
-            }
-          ]
-        },
-        {
-          "type": "notice",
-          "variant": "review",
-          "text": "Der Company Secretary muss die Annual Return für jedes Geschäftsjahr als PDF (mit dem Jahr im Dateinamen) bereitstellen, damit sie hier veröffentlicht werden kann. Die URL /annual-return-2/ wird in den Berichten des Board of Directors genannt und darf sich nicht ändern; jede künftige Änderung muss zuvor vom Company Secretary bestätigt werden."
-        }
-      ]
     }
   }
 }

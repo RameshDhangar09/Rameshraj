@@ -36,7 +36,7 @@ site replaces hytengineering.com. Owner suggestions in brackets.
 | B11 | CSR policy and projects | CSR | HR / CSR committee |
 | B12 | Approval of Code of Conduct, Business Conduct Guidelines, Policy Statement (signatory, date); Supplier Code of Conduct and Information Security documents | Compliance pages | Management / Legal |
 | B13 | Legal review of Privacy Policy, Cookie Policy, Disclaimer (incl. retention periods, form processor name, EU/UK representative question) | Legal pages | Legal |
-| B14 | Annual return PDFs by financial year; Company Secretary confirmation that `/annual-return-2/` must not change | Annual Return | Company Secretary |
+| B14 | **Annual Return page removed** at HYT's request (14 Oct 2026). Company Secretary to confirm where the annual return will be published instead (Companies Act 2013, s. 92(3) requires it on the company website if one exists) and whether `/annual-return-2/` should 301-redirect somewhere; it now returns 404 | – | Company Secretary |
 | B15 | Current job openings (2022 posts are outdated) | Careers | HR |
 | B16 | Service-centre / field-engineer locations | After-Sales Service Network | Service |
 | B17 | News dates, press releases, photos; exhibition years and stand photos; domestic exhibition list | News, Exhibitions | Marketing |
