@@ -105,13 +105,13 @@ html.lenis, html.lenis body { scroll-behavior: auto !important; }
   @keyframes rail-run { to { left: 100%; } }
 
   /* Words rise out of their masks */
-  .home-fx .split-i { transform: translateY(110%); transition: transform 900ms var(--ease) calc(var(--i, 0) * 45ms + 80ms); }
-  .home-fx.hero-in .hero-home__title .split-i, .home-fx .reveal.is-visible .split-i { transform: none; }
-  .home-fx .hero-home__text > .hero-home__title { opacity: 1; transform: none; }
+  .fx-on .split-i { transform: translateY(110%); transition: transform 900ms var(--ease) calc(var(--i, 0) * 45ms + 80ms); }
+  .fx-on.hero-in .hero-home__title .split-i, .fx-on .reveal.is-visible .split-i { transform: none; }
+  .fx-on .hero-home__text > .hero-home__title { opacity: 1; transform: none; }
 
   /* Hero content drifts away on scroll */
-  .home-fx .hero-home__content { translate: 0 calc(var(--hero-p, 0) * -70px); opacity: calc(1 - var(--hero-p, 0) * 0.85); }
-  .home-fx .hero-home__media { translate: calc(var(--mx, 0) * -16px) calc(var(--my, 0) * -10px); }
+  .fx-on .hero-home__content { translate: 0 calc(var(--hero-p, 0) * -70px); opacity: calc(1 - var(--hero-p, 0) * 0.85); }
+  .fx-on .hero-home__media { translate: calc(var(--mx, 0) * -16px) calc(var(--my, 0) * -10px); }
 
   /* Floating dotted plate behind framed images */
   .page-home .section--split .row > div:has(> .media-frame)::before { animation: float-plate 7s ease-in-out infinite alternate; }
@@ -127,4 +127,43 @@ html.lenis, html.lenis body { scroll-behavior: auto !important; }
   /* Floating stats card rises into place */
   .anim-ready .page-home .section--stats .stats { transform: translateY(40px); opacity: 0; transition: transform 1000ms var(--ease) 500ms, opacity 800ms ease 500ms; }
   .anim-ready.hero-in .page-home .section--stats .stats { transform: none; opacity: 1; }
+}
+
+/* ---------- Product page motion ---------- */
+@media (prefers-reduced-motion: no-preference) {
+  .fx-on .product-hero__title .split-i { transform: translateY(110%); }
+  .fx-on.hero-in .product-hero__title .split-i { transform: none; }
+  .anim-ready .product-hero__text > * { opacity: 0; transform: translateY(16px); transition: opacity 800ms var(--ease), transform 800ms var(--ease); }
+  .anim-ready.hero-in .product-hero__text > * { opacity: 1; transform: none; }
+  .anim-ready.hero-in .product-hero__text > :nth-child(2) { transition-delay: 100ms; }
+  .anim-ready.hero-in .product-hero__text > :nth-child(3) { transition-delay: 200ms; }
+  .anim-ready.hero-in .product-hero__text > :nth-child(4) { transition-delay: 300ms; }
+  .anim-ready.hero-in .product-hero__text > :nth-child(5) { transition-delay: 400ms; }
+
+  /* Measuring "laser" sweeps the machine image; corner brackets lock on */
+  .anim-ready.hero-in .product-hero__scan { animation: scan 5.5s var(--ease) 1.3s infinite; }
+  @keyframes scan { 0% { top: 0; opacity: 0; } 8% { opacity: 1; } 55% { top: 100%; opacity: 1; } 62%, 100% { top: 100%; opacity: 0; } }
+  .anim-ready .product-hero__corner { opacity: 0; transition: opacity 600ms ease 900ms, transform 900ms var(--ease) 900ms; }
+  .anim-ready .product-hero__corner--tl { transform: translate(-18px, -18px); }
+  .anim-ready .product-hero__corner--br { transform: translate(18px, 18px); }
+  .anim-ready.hero-in .product-hero__corner { opacity: 1; transform: none; }
+  .fx-on .product-hero__stage { translate: calc(var(--mx, 0) * -10px) calc(var(--my, 0) * -8px); transition: translate 200ms linear; }
+
+  /* Spec rows and checklists cascade */
+  .cascade > * { opacity: 0; transform: translateX(-14px); transition: opacity 500ms ease calc(var(--row, 0) * 60ms), transform 600ms var(--ease) calc(var(--row, 0) * 60ms), background-color var(--t); }
+  .cascade.is-in > * { opacity: 1; transform: none; }
+
+  /* Product steps: line fills in sequence, numbers pop */
+  .anim-ready .tpl-product .step.reveal::before, .anim-ready .tpl-product .step.reveal.is-visible::before { width: 100%; }
+  .anim-ready .tpl-product .step.reveal::before { transform: scaleX(0); transform-origin: left; transition: transform 900ms var(--ease) calc(var(--reveal-delay, 0ms) * 4 + 250ms); }
+  .anim-ready .tpl-product .step.reveal.is-visible::before { transform: scaleX(1); }
+  .anim-ready .tpl-product .step.reveal .step__num { transform: scale(0.4); opacity: 0; transition: transform 650ms cubic-bezier(.34, 1.56, .64, 1) calc(var(--reveal-delay, 0ms) * 4 + 200ms), opacity 400ms ease calc(var(--reveal-delay, 0ms) * 4 + 200ms), background-color var(--t), color var(--t); }
+  .anim-ready .tpl-product .step.reveal.is-visible .step__num { transform: none; opacity: 1; }
+
+  /* Catalogue icon bobs; play button pulses */
+  .tpl-product .catalogue-panel__icon { animation: bob 3.2s ease-in-out infinite; }
+  @keyframes bob { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-5px); } }
+  .tpl-product .video-frame::after { content: ""; position: absolute; left: 50%; top: 50%; width: 96px; height: 96px; margin: -48px 0 0 -48px; border-radius: 50%; border: 2px solid rgba(255, 255, 255, 0.7); pointer-events: none; animation: pulse-ring 2.4s ease-out infinite; }
+  .tpl-product .video-frame.is-playing::after, .tpl-product .video-frame:has(iframe)::after { display: none; }
+  @keyframes pulse-ring { 0% { transform: scale(0.6); opacity: 0.9; } 100% { transform: scale(1.5); opacity: 0; } }
 }

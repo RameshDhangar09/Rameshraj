@@ -1126,12 +1126,14 @@ def hero(ctx, pid, pg, crumbs):
     if t == "product":
         model = f'<p class="product-hero__model"><span>{esc(ctx.t("product.model"))}</span> {esc(p["model"])}</p>' if p.get("model") else ""
         enquire = ctx.url("contact-us") + f"?product={pid}#enquiry"
-        return (f'<section class="product-hero" aria-labelledby="page-title"><div class="container">{crumbs}'
+        return (f'<section class="product-hero" aria-labelledby="page-title" data-hero-fx>{HERO_FX}<div class="container">{crumbs}'
                 f'<div class="row align-items-center g-4 g-lg-5"><div class="col-lg-6"><div class="product-hero__text">{eyebrow}'
                 f'<h1 class="product-hero__title" id="page-title">{inline(ctx, pg["h1"])}</h1>{model}{lede}'
                 f'<div class="hero__actions"><a class="btn-hyt btn-hyt--primary" href="{esc(enquire)}">{esc(ctx.t("buttons.enquire"))}</a>'
                 f'<a class="btn-hyt btn-hyt--outline" href="{esc(CONFIG["catalogue_pdf"])}" data-catalogue-open="{esc(pid)}">{icon("file-earmark-pdf")} {esc(ctx.t("buttons.download_catalogue"))}</a></div></div></div>'
-                f'<div class="col-lg-6"><figure class="product-hero__media hero-reveal">{picture(p["image"], plain(pg.get("h1", "")), "(min-width: 992px) 50vw, 100vw", eager=True)}</figure></div>'
+                f'<div class="col-lg-6"><div class="product-hero__stage"><figure class="product-hero__media hero-reveal">{picture(p["image"], plain(pg.get("h1", "")), "(min-width: 992px) 50vw, 100vw", eager=True)}'
+                f'<span class="product-hero__scan" aria-hidden="true"></span></figure>'
+                f'<span class="product-hero__corner product-hero__corner--tl" aria-hidden="true"></span><span class="product-hero__corner product-hero__corner--br" aria-hidden="true"></span></div></div>'
                 f'</div></div></section>')
     if t in ("legal", "utility"):
         return (f'<section class="page-hero page-hero--plain" aria-labelledby="page-title"><div class="container">{crumbs}{eyebrow}'

@@ -947,7 +947,7 @@ html.js-ready .facilities[data-ready] .facility-panel.is-entering .facility-pane
 
 /* Tilt cards (home-fx.js) */
 .is-tilt { transform-style: preserve-3d; will-change: transform; }
-html.home-fx .card-hyt.is-tilting, html.home-fx .page-home .section--stats .stat.is-tilting { transform: perspective(900px) rotateX(var(--rx, 0)) rotateY(var(--ry, 0)) translateY(-4px); transition: transform 120ms linear, box-shadow var(--t), border-color var(--t); }
+html.fx-on .card-hyt.is-tilting, html.fx-on .page-home .section--stats .stat.is-tilting { transform: perspective(900px) rotateX(var(--rx, 0)) rotateY(var(--ry, 0)) translateY(-4px); transition: transform 120ms linear, box-shadow var(--t), border-color var(--t); }
 .card-hyt.is-tilt::before { content: ""; position: absolute; inset: 0; z-index: 2; pointer-events: none; opacity: 0; transition: opacity 300ms ease;
   background: radial-gradient(380px circle at var(--gx, 50%) var(--gy, 50%), rgba(255, 255, 255, 0.35), transparent 55%); }
 .card-hyt.is-tilting::before { opacity: 1; }
@@ -972,4 +972,68 @@ html.home-fx .card-hyt.is-tilting, html.home-fx .page-home .section--stats .stat
   .page-home .section--stats { margin-top: -48px; }
   .page-home .section--stats .stat { padding: 1.25rem 0.9rem; }
   .page-home .section--split .row > div:has(> .media-frame)::before { display: none; }
+}
+
+/* ==========================================================================
+   Product pages – blue technical hero, reading progress, livelier sections
+   ========================================================================== */
+.product-hero { position: relative; overflow: hidden; isolation: isolate; color: rgba(255, 255, 255, 0.86);
+  background: linear-gradient(120deg, #184A72 0%, #133D5F 55%, #0F3150 100%); padding-bottom: clamp(3rem, 2rem + 3vw, 4.5rem); }
+.product-hero .hero-fx { z-index: -1; }
+.product-hero .hero-fx__grid { mask-image: radial-gradient(ellipse 60% 90% at 80% 50%, #000 0%, transparent 75%); }
+.product-hero .hero-fx__wheel { width: min(46vw, 620px); right: -14vw; opacity: 0.55; }
+.product-hero__title { color: #fff; }
+.product-hero .hero__lede { color: rgba(255, 255, 255, 0.84); }
+.product-hero .eyebrow--hero, .product-hero .eyebrow { color: #FFB066; }
+.product-hero__model { color: #fff; }
+.product-hero__model span { background: var(--hyt-orange-text); color: #fff; }
+.product-hero .breadcrumb-hyt__item, .product-hero .breadcrumb-hyt a { color: rgba(255, 255, 255, 0.75); }
+.product-hero .breadcrumb-hyt__item[aria-current] { color: #fff; }
+.product-hero .breadcrumb-hyt a:hover { color: #fff; }
+.product-hero .breadcrumb-hyt__item + .breadcrumb-hyt__item::before { color: rgba(255, 255, 255, 0.4); }
+.product-hero .btn-hyt--outline, .product-hero .btn-hyt--ghost-dark { color: #fff; border-color: rgba(255, 255, 255, 0.7); background: transparent; }
+.product-hero .btn-hyt--outline:hover, .product-hero .btn-hyt--ghost-dark:hover { background: #fff; color: var(--hyt-blue); border-color: #fff; }
+.product-hero__stage { position: relative; padding: 14px; }
+.product-hero__media { position: relative; border-radius: 10px; box-shadow: 0 34px 70px -30px rgba(0, 0, 0, 0.65); }
+.product-hero__scan { position: absolute; left: 0; right: 0; top: 0; height: 2px; background: linear-gradient(90deg, transparent, #FFB066 20%, var(--hyt-orange) 50%, #FFB066 80%, transparent); box-shadow: 0 0 18px 4px rgba(245, 130, 32, 0.45); opacity: 0; pointer-events: none; }
+.product-hero__corner { position: absolute; width: 46px; height: 46px; border: 0 solid var(--hyt-orange); pointer-events: none; }
+.product-hero__corner--tl { left: 0; top: 0; border-top-width: 3px; border-left-width: 3px; }
+.product-hero__corner--br { right: 0; bottom: 0; border-bottom-width: 3px; border-right-width: 3px; }
+
+/* Reading progress on the sticky "On this page" bar */
+.subnav__progress { position: absolute; left: 0; bottom: -1px; height: 2px; width: 100%; background: linear-gradient(90deg, var(--hyt-orange), #FFB066); transform: scaleX(var(--read, 0)); transform-origin: left; pointer-events: none; }
+.subnav__list a { position: relative; border-bottom: 0; transition: color var(--t); }
+.subnav__list a::after { content: ""; position: absolute; left: 0.8rem; right: 0.8rem; bottom: 0; height: 2px; background: var(--hyt-orange); transform: scaleX(0); transition: transform 350ms var(--ease); }
+.subnav__list a:hover::after { transform: scaleX(0.5); }
+.subnav__list a.is-active::after { transform: scaleX(1); }
+
+/* Video band in HYT blue with a pulsing play cue */
+.tpl-product .section--video { background: linear-gradient(135deg, #10324F 0%, #184A72 100%); overflow: hidden; isolation: isolate; }
+.tpl-product .section--video::before { content: ""; position: absolute; inset: 0; z-index: -1; background-image: linear-gradient(rgba(255, 255, 255, 0.05) 1px, transparent 1px), linear-gradient(90deg, rgba(255, 255, 255, 0.05) 1px, transparent 1px); background-size: 48px 48px; mask-image: linear-gradient(90deg, transparent, #000 60%); }
+.tpl-product .section--video .eyebrow { color: #FFB066; }
+.tpl-product .section--video .section-intro, .tpl-product .section--video .video-note { color: rgba(255, 255, 255, 0.75); }
+.tpl-product .video-frame { outline: 1px solid rgba(255, 255, 255, 0.14); outline-offset: 10px; }
+
+/* Specification table */
+.tpl-product .spec-table thead th { background: var(--hyt-blue); }
+.tpl-product .spec-table thead th + th { color: #FFB066; }
+.tpl-product .spec-table tbody tr { position: relative; transition: background-color var(--t); }
+.tpl-product .spec-table tbody th { box-shadow: inset 0 0 0 var(--hyt-orange); transition: box-shadow 250ms var(--ease); }
+.tpl-product .spec-table tbody tr:hover th { box-shadow: inset 4px 0 0 var(--hyt-orange); }
+
+/* Operating-principle steps: numbered circles joined by a filling line */
+.tpl-product .step { border-top-color: var(--hyt-border); padding-top: 1.75rem; }
+.tpl-product .step::before { width: 100%; }
+.tpl-product .step__num { display: inline-grid; place-items: center; width: 3rem; height: 3rem; border-radius: 50%; font-size: 1.3rem; color: var(--hyt-blue); background: #fff; border: 1.5px solid var(--hyt-orange); transition: background-color var(--t), color var(--t), transform var(--t) var(--ease); }
+.tpl-product .step:hover .step__num { background: var(--hyt-orange); color: #fff; }
+
+/* Catalogue panel: gradient edge and a gently bobbing icon */
+.tpl-product .catalogue-panel { position: relative; overflow: hidden; background: linear-gradient(100deg, #fff 60%, var(--hyt-orange-tint)); }
+.tpl-product .catalogue-panel__icon { background: var(--hyt-blue); }
+
+/* Closing call to action in HYT blue */
+.tpl-product .section--cta { background: radial-gradient(460px circle at var(--sx, -999px) var(--sy, -999px), rgba(245, 130, 32, 0.16), transparent 60%), linear-gradient(120deg, #184A72 0%, #123A5B 55%, #0F3150 100%); }
+
+@media (max-width: 991.98px) {
+  .product-hero .hero-fx__wheel { width: 90vw; right: -45vw; top: 22%; opacity: 0.3; }
 }

@@ -8,10 +8,14 @@ const reduce = () => window.matchMedia('(prefers-reduced-motion: reduce)').match
 const finePointer = () => window.matchMedia('(hover: hover) and (pointer: fine)').matches;
 
 export function initHomeFx() {
-  if (!document.body.classList.contains('page-home') || reduce()) return;
-  document.documentElement.classList.add('home-fx');
+  const body = document.body;
+  const home = body.classList.contains('page-home');
+  const product = body.classList.contains('tpl-product');
+  if ((!home && !product) || reduce()) return;
+  document.documentElement.classList.add('fx-on');
   splitHeadings();
-  heroScroll();
+  if (home) heroScroll();
+  if (product) { readingProgress(); staggerRows(); }
   if (!finePointer()) return;
   heroPointer();
   spotlights();
@@ -21,10 +25,10 @@ export function initHomeFx() {
 
 /** Wrap each word of the headings in a mask so it can slide up into view. */
 function splitHeadings() {
-  const heads = document.querySelectorAll('.hero-home__title, .page-home main .section-title, .page-home .cta-band__title');
+  const heads = document.querySelectorAll('.hero-home__title, .product-hero__title, .page-home main .section-title, .tpl-product main .section-title, .cta-band__title');
   heads.forEach((h) => {
     // Only headings that a reveal (or the hero entrance) will bring back in
-    if (h.dataset.split || (!h.closest('.reveal') && !h.classList.contains('hero-home__title'))) return;
+    if (h.dataset.split || (!h.closest('.reveal') && !h.matches('.hero-home__title, .product-hero__title'))) return;
     h.dataset.split = '1';
     let i = 0;
     const walk = (node) => {
@@ -92,7 +96,7 @@ function heroPointer() {
 
 /** Soft light that follows the pointer on the dark/blue bands. */
 function spotlights() {
-  document.querySelectorAll('[data-hero-fx], .page-home .section--navy, .page-home .section--cta').forEach((el) => {
+  document.querySelectorAll('[data-hero-fx], .page-home .section--navy, .section--cta, .tpl-product .section--video').forEach((el) => {
     el.classList.add('has-spot');
     el.addEventListener('pointermove', (e) => {
       const r = el.getBoundingClientRect();
@@ -105,7 +109,7 @@ function spotlights() {
 
 /** Cards tilt towards the pointer with a moving glare. */
 function tilt() {
-  document.querySelectorAll('.page-home .card-hyt, .page-home .stat').forEach((card) => {
+  document.querySelectorAll('.page-home .card-hyt, .page-home .stat, .tpl-product .card-hyt').forEach((card) => {
     const max = card.classList.contains('stat') ? 4 : 6;
     let raf = 0;
     card.classList.add('is-tilt');
@@ -133,7 +137,7 @@ function tilt() {
 
 /** Primary actions lean towards the pointer. */
 function magnetic() {
-  document.querySelectorAll('.hero-home .btn-hyt, .page-home .section--cta .btn-hyt').forEach((btn) => {
+  document.querySelectorAll('.hero-home .btn-hyt, .product-hero .btn-hyt, .section--cta .btn-hyt, .catalogue-panel .btn-hyt').forEach((btn) => {
     btn.classList.add('is-magnetic');
     btn.addEventListener('pointermove', (e) => {
       const r = btn.getBoundingClientRect();
@@ -146,5 +150,40 @@ function magnetic() {
       btn.style.setProperty('--bx', '0px');
       btn.style.setProperty('--by', '0px');
     });
+  });
+}
+
+/** Product pages: a thin bar on the sticky "On this page" menu shows reading progress. */
+function readingProgress() {
+  const nav = document.querySelector('[data-subnav]');
+  const main = document.querySelector('main');
+  if (!nav || !main) return;
+  const bar = document.createElement('span');
+  bar.className = 'subnav__progress';
+  bar.setAttribute('aria-hidden', 'true');
+  nav.appendChild(bar);
+  let ticking = false;
+  const update = () => {
+    const r = main.getBoundingClientRect();
+    const total = Math.max(1, r.height - window.innerHeight);
+    nav.style.setProperty('--read', Math.min(1, Math.max(0, -r.top / total)).toFixed(4));
+    ticking = false;
+  };
+  window.addEventListener('scroll', () => { if (!ticking) { ticking = true; requestAnimationFrame(update); } }, { passive: true });
+  update();
+}
+
+/** Specification rows and feature checklists cascade in one after another. */
+function staggerRows() {
+  const groups = document.querySelectorAll('.tpl-product .spec-table tbody, .tpl-product .check-list');
+  if (!groups.length || !('IntersectionObserver' in window)) return;
+  const io = new IntersectionObserver((entries) => {
+    entries.forEach((e) => { if (e.isIntersecting) { e.target.classList.add('is-in'); io.unobserve(e.target); } });
+  }, { threshold: 0.15 });
+  groups.forEach((g) => {
+    [...g.children].forEach((row, i) => row.style.setProperty('--row', Math.min(i, 12)));
+    g.classList.add('cascade');
+    const r = g.getBoundingClientRect();
+    if (r.top < window.innerHeight && r.bottom > 0) g.classList.add('is-in'); else io.observe(g);
   });
 }

@@ -19,6 +19,14 @@ export function initVideos() {
       iframe.focus();
     });
   });
+  // Hide the decorative play cue while a video is playing
+  document.querySelectorAll('video.video-player').forEach((v) => {
+    const frame = v.closest('.video-frame');
+    if (!frame) return;
+    v.addEventListener('play', () => frame.classList.add('is-playing'));
+    v.addEventListener('pause', () => frame.classList.remove('is-playing'));
+    v.addEventListener('ended', () => frame.classList.remove('is-playing'));
+  });
   // Pause any playing video when it scrolls out of view
   if ('IntersectionObserver' in window) {
     const io = new IntersectionObserver((entries) => entries.forEach((e) => {
