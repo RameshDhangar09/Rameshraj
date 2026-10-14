@@ -154,7 +154,8 @@
           "link": {
             "label": "Scopra i progetti chiavi in mano",
             "page": "turnkey-project"
-          }
+          },
+          "variant": "navy"
         },
         {
           "type": "cards",

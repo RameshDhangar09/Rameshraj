@@ -154,7 +154,8 @@
           "link": {
             "label": "Discover turnkey projects",
             "page": "turnkey-project"
-          }
+          },
+          "variant": "navy"
         },
         {
           "type": "cards",

@@ -27,15 +27,24 @@ export function initAnimations() {
     });
   });
 
+  // Elements that start clipped to nothing (image wipes use clip-path) never
+  // report an intersection themselves, so their parent is observed instead.
+  const targetOf = new Map();
   const io = new IntersectionObserver((entries) => {
     entries.forEach((entry) => {
       if (entry.isIntersecting) {
-        entry.target.classList.add('is-visible');
+        (targetOf.get(entry.target) || [entry.target]).forEach((el) => el.classList.add('is-visible'));
         io.unobserve(entry.target);
       }
     });
   }, { rootMargin: '0px 0px -8% 0px', threshold: 0.08 });
-  items.forEach((el) => { if (!el.classList.contains('is-visible')) io.observe(el); });
+  items.forEach((el) => {
+    if (el.classList.contains('is-visible')) return;
+    const watch = el.classList.contains('media-frame') && el.parentElement ? el.parentElement : el;
+    if (!targetOf.has(watch)) targetOf.set(watch, []);
+    targetOf.get(watch).push(el);
+    io.observe(watch);
+  });
 
   // Safety net: never leave content hidden (e.g. print, unusual scroll containers)
   window.addEventListener('beforeprint', () => items.forEach((el) => el.classList.add('is-visible')));

@@ -141,7 +141,7 @@
   .nav-cta { display: none; }
   .hero-home { min-height: 0; }
   .hero-home__content { padding-top: 4rem; padding-bottom: 5rem; }
-  .hero-home::before { background: linear-gradient(180deg, rgba(30, 34, 37, 0.82) 0%, rgba(30, 34, 37, 0.92) 100%); }
+  .hero-home::before { background: linear-gradient(180deg, rgba(24, 74, 114, 0.86) 0%, rgba(16, 50, 79, 0.94) 100%); }
   .hero__actions .btn-hyt { width: 100%; }
   .cta-band__actions .btn-hyt { width: 100%; }
   .stat { padding-right: 0.5rem; }

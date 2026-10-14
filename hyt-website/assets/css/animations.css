@@ -81,3 +81,50 @@
 
 /* Lenis drives scrolling itself – native smooth scrolling would fight it every frame */
 html.lenis, html.lenis body { scroll-behavior: auto !important; }
+
+/* ---------- Home page motion (round 4) ---------- */
+@media (prefers-reduced-motion: no-preference) {
+  /* Railway-wheel dial: each ring turns at its own pace, a tool point orbits the tread */
+  .hero-wheel__ticks, .hero-wheel__ring--dash, .hero-wheel__web, .hero-wheel__orbit { transform-origin: 300px 300px; }
+  .hero-wheel__ticks { animation: spin 90s linear infinite; }
+  .hero-wheel__ring--dash { animation: spin 60s linear infinite reverse; }
+  .hero-wheel__web { animation: spin 36s linear infinite; }
+  .hero-wheel__orbit { animation: spin 9s cubic-bezier(.45, .05, .55, .95) infinite; }
+  .hero-wheel__arc { animation: arc-draw 7s var(--ease) 1.2s infinite; }
+  @keyframes spin { to { transform: rotate(360deg); } }
+  @keyframes arc-draw { 0% { stroke-dashoffset: 100; } 45%, 60% { stroke-dashoffset: 0; } 100% { stroke-dashoffset: -100; } }
+
+  .anim-ready .hero-fx__wheel .hero-wheel { opacity: 0; transform: scale(0.82) rotate(-25deg); transition: opacity 1400ms var(--ease) 300ms, transform 1800ms var(--ease) 300ms; }
+  .anim-ready.hero-in .hero-fx__wheel .hero-wheel { opacity: 1; transform: none; }
+  .anim-ready .hero-fx__grid { opacity: 0; transition: opacity 1600ms ease 200ms; }
+  .anim-ready.hero-in .hero-fx__grid { opacity: 1; }
+
+  .hero-fx__beam { animation: beam 9s ease-in-out 1.5s infinite; }
+  @keyframes beam { 0% { left: -30%; } 45%, 100% { left: 130%; } }
+  .hero-fx__rail::after { content: ""; position: absolute; top: 0; height: 100%; width: 12%; left: -12%; background: linear-gradient(90deg, transparent, #FFB066, transparent); animation: rail-run 6s linear infinite; }
+  @keyframes rail-run { to { left: 100%; } }
+
+  /* Words rise out of their masks */
+  .home-fx .split-i { transform: translateY(110%); transition: transform 900ms var(--ease) calc(var(--i, 0) * 45ms + 80ms); }
+  .home-fx.hero-in .hero-home__title .split-i, .home-fx .reveal.is-visible .split-i { transform: none; }
+  .home-fx .hero-home__text > .hero-home__title { opacity: 1; transform: none; }
+
+  /* Hero content drifts away on scroll */
+  .home-fx .hero-home__content { translate: 0 calc(var(--hero-p, 0) * -70px); opacity: calc(1 - var(--hero-p, 0) * 0.85); }
+  .home-fx .hero-home__media { translate: calc(var(--mx, 0) * -16px) calc(var(--my, 0) * -10px); }
+
+  /* Floating dotted plate behind framed images */
+  .page-home .section--split .row > div:has(> .media-frame)::before { animation: float-plate 7s ease-in-out infinite alternate; }
+  @keyframes float-plate { from { transform: translate(0, 0); } to { transform: translate(-10px, 12px); } }
+
+  /* Process band: the line fills step by step, numbers pop */
+  .anim-ready .page-home .section--navy .step.reveal::before { transform: scaleX(0); transform-origin: left; width: 100%; transition: transform 900ms var(--ease) calc(var(--reveal-delay, 0ms) * 4 + 250ms); }
+  .anim-ready .page-home .section--navy .step.reveal.is-visible::before { transform: scaleX(1); }
+  .anim-ready .page-home .section--navy .step.reveal .step__num { transform: scale(0.4); opacity: 0; transition: transform 650ms cubic-bezier(.34, 1.56, .64, 1) calc(var(--reveal-delay, 0ms) * 4 + 200ms), opacity 400ms ease calc(var(--reveal-delay, 0ms) * 4 + 200ms), background-color var(--t); }
+  .anim-ready .page-home .section--navy .step.reveal.is-visible .step__num { transform: none; opacity: 1; }
+  .anim-ready .page-home .section--navy .step.reveal.is-visible:hover .step__num { transform: translateY(-3px); }
+
+  /* Floating stats card rises into place */
+  .anim-ready .page-home .section--stats .stats { transform: translateY(40px); opacity: 0; transition: transform 1000ms var(--ease) 500ms, opacity 800ms ease 500ms; }
+  .anim-ready.hero-in .page-home .section--stats .stats { transform: none; opacity: 1; }
+}

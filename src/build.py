@@ -992,7 +992,7 @@ def header(ctx, pid):
     return (f'<header class="site-header" data-header>{topbar}'
             f'<div class="navbar-hyt"><div class="container navbar-hyt__inner">'
             f'<a class="brand" href="{esc(ctx.url("home"))}" aria-label="{esc(c["company_name"])} – {esc(ctx.t("home_label"))}">'
-            f'<img src="/assets/images/logo/hyt-logo.svg" alt="{esc(c["company_name"])}" width="188" height="93" class="brand__logo"></a>'
+            f'<img src="/assets/images/logo/hyt-logo.svg" alt="{esc(c["company_name"])}" width="180" height="87" class="brand__logo"></a>'
             f'<button type="button" class="nav-burger" aria-expanded="false" aria-controls="primary-nav" data-nav-open>'
             f'<span class="nav-burger__bars" aria-hidden="true"><span></span><span></span><span></span></span>'
             f'<span class="visually-hidden" data-label-open="{esc(ctx.t("menu.open"))}" data-label-close="{esc(ctx.t("menu.close"))}">{esc(ctx.t("menu.open"))}</span></button>'
@@ -1032,7 +1032,7 @@ def footer(ctx, pid):
     # 2. Brand column + link columns (pages marked "Footer" in the workbook)
     certs = "".join(f'<li>{icon("patch-check-fill")}<span>{esc(x.strip())}</span></li>' for x in ctx.t("footer.certified").split("·"))
     brand = (f'<div class="footer-brand"><a href="{esc(ctx.url("home"))}" class="footer-brand__logo">'
-             f'<img src="/assets/images/logo/hyt-logo.svg" alt="{esc(c["company_name"])}" width="188" height="93" loading="lazy"></a>'
+             f'<img src="/assets/images/logo/hyt-logo.svg" alt="{esc(c["company_name"])}" width="180" height="87" loading="lazy"></a>'
              f'<p class="footer-brand__about">{esc(ctx.t("footer.about"))}</p>'
              f'<address class="footer-brand__address">{icon("geo-alt")}<span>{"<br>".join(esc(x) for x in con["address_lines"][1:])}</span></address>'
              f'<ul class="footer-certs" aria-label="{esc(ctx.nav("certifications"))}">{certs}</ul>'
@@ -1082,14 +1082,41 @@ def breadcrumb(ctx, pid):
     return html_, ld
 
 
+# Decorative motion layer for the home hero: blueprint grid, a railway-wheel
+# "dial" (tyre, flange, web, hub, measuring ticks) and a light sweep. Purely
+# visual – hidden from assistive technology.
+def _wheel_svg():
+    ticks = "".join(
+        f'<line x1="300" y1="{14 if i % 5 == 0 else 22}" x2="300" y2="34" transform="rotate({i * 6} 300 300)"/>'
+        for i in range(60))
+    spokes = "".join(f'<line x1="300" y1="168" x2="300" y2="236" transform="rotate({i * 45} 300 300)"/>' for i in range(8))
+    return ('<svg class="hero-wheel" viewBox="0 0 600 600" focusable="false">'
+            f'<g class="hero-wheel__ticks">{ticks}</g>'
+            '<circle class="hero-wheel__ring hero-wheel__ring--dash" cx="300" cy="300" r="262"/>'
+            '<circle class="hero-wheel__ring" cx="300" cy="300" r="228"/>'
+            '<circle class="hero-wheel__ring hero-wheel__ring--thin" cx="300" cy="300" r="200"/>'
+            f'<g class="hero-wheel__web">{spokes}<circle class="hero-wheel__ring hero-wheel__ring--dash2" cx="300" cy="300" r="150"/></g>'
+            '<circle class="hero-wheel__ring" cx="300" cy="300" r="72"/>'
+            '<circle class="hero-wheel__hub" cx="300" cy="300" r="34"/>'
+            '<g class="hero-wheel__orbit"><circle class="hero-wheel__tool" cx="300" cy="38" r="7"/></g>'
+            '<path class="hero-wheel__arc" d="M 300 72 A 228 228 0 0 1 528 300" pathLength="100"/>'
+            '</svg>')
+
+
+HERO_FX = ('<div class="hero-fx" aria-hidden="true"><div class="hero-fx__grid"></div>'
+           '<div class="hero-fx__spot"></div><div class="hero-fx__wheel">' + _wheel_svg() + '</div>'
+           '<span class="hero-fx__beam"></span><span class="hero-fx__rail"></span></div>')
+
+
 def hero(ctx, pid, pg, crumbs):
     p = R.PAGES[pid]
     t = p["template"]
     eyebrow = f'<p class="eyebrow eyebrow--hero">{esc(pg.get("eyebrow"))}</p>' if pg.get("eyebrow") else ""
     lede = f'<p class="hero__lede">{inline(ctx, pg.get("lede", ""))}</p>' if pg.get("lede") else ""
     if t == "home":
-        return (f'<section class="hero-home" aria-labelledby="page-title"><div class="hero-home__media">'
+        return (f'<section class="hero-home" aria-labelledby="page-title" data-hero-fx><div class="hero-home__media">'
                 f'{picture(p["image"], "", "100vw", eager=True, cls="hero-home__img", hero=True)}</div>'
+                f'{HERO_FX}'
                 f'<div class="container hero-home__content"><div class="hero-home__text">{eyebrow}'
                 f'<h1 class="hero-home__title" id="page-title">{inline(ctx, pg["h1"])}</h1>{lede}'
                 f'<div class="hero__actions"><a class="btn-hyt btn-hyt--primary btn-hyt--lg" href="{esc(ctx.url("products"))}">{esc(ctx.t("buttons.explore_products"))}</a>'

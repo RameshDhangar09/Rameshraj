@@ -18,6 +18,7 @@ import { initCatalogueGate } from './catalogue.js';
 import { initLogoMarquee } from './marquee.js';
 import { initVideos } from './video.js';
 import { initFacilities } from './facilities.js';
+import { initHomeFx } from './home-fx.js';
 
 const root = document.documentElement;
 
@@ -30,6 +31,7 @@ async function boot() {
   const [strings] = await Promise.all([loadStrings(root.dataset.lang || 'en'), initSmoothScroll().catch(() => null)]);
   safe('navigation', () => initNavigation(strings));
   safe('language switcher', () => initLanguageSwitcher());
+  safe('home effects', () => initHomeFx());
   safe('animations', () => initAnimations());
   safe('accordions', () => initAccordions());
   safe('gallery', () => initGallery(strings));

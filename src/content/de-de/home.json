@@ -154,7 +154,8 @@
           "link": {
             "label": "Schlüsselfertige Projekte entdecken",
             "page": "turnkey-project"
-          }
+          },
+          "variant": "navy"
         },
         {
           "type": "cards",
