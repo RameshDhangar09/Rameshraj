@@ -70,7 +70,7 @@
             {
               "icon": "diagram-3",
               "title": "Einzelmaschine oder Teil einer Linie?",
-              "text": "In Verbindung mit [Messstationen](page:wheel-measuring-station) und Radsatzhandling kann eine Radsatzdrehmaschine Teil einer [automatisierten Radsatzwerkstatt](page:wheel-shop-automation) werden. Planen Sie die Schnittstellen von Anfang an mit."
+              "text": "In Verbindung mit [Messstationen](page:wheel-measuring-station) und Radsatzhandling kann eine Radsatzdrehmaschine Teil einer [automatisierten Radsatzwerkstatt](page:ts-wheel-shops#automation) werden. Planen Sie die Schnittstellen von Anfang an mit."
             }
           ]
         },
@@ -1712,7 +1712,7 @@
           "heading": "In Ihre Radsatzwerkstatt eingeplant",
           "paragraphs": [
             "Eine Portal-Radsatzdrehmaschine bringt die beste Leistung, wenn die Radsätze ohne Wartezeit zu ihr gelangen. HYT plant den Standort der Maschine in der Werkstatt zusammen mit Radsatzgleisen, Lagerflächen und den nachfolgenden Prozessschritten, liefert die Fundamentzeichnung und nimmt die Maschine mit Ihren Radsätzen in Betrieb.",
-            "Für größere Anlagen liefern wir den kompletten Prozess als [schlüsselfertiges Projekt](page:turnkey-project) oder als Teil einer [Radsatzwerkstatt-Automatisierung](page:wheel-shop-automation). [Ersatzteilversorgung](page:spare-supply) und Wartungsverträge begleiten die Maschine über ihre gesamte Lebensdauer."
+            "Für größere Anlagen liefern wir den kompletten Prozess als [schlüsselfertiges Projekt](page:turnkey-project) oder als Teil einer [Radsatzwerkstatt-Automatisierung](page:ts-wheel-shops#automation). [Ersatzteilversorgung](page:spare-supply) und Wartungsverträge begleiten die Maschine über ihre gesamte Lebensdauer."
           ],
           "image": "projects/railway-wheel-shop",
           "image_alt": "Beispielabbildung einer Radsatzwerkstatt mit Radsatzgleisen, die zu den Bearbeitungsstationen führen",
@@ -1764,7 +1764,7 @@
             },
             {
               "q": "Kann die YPL-02 Teil einer automatisierten Radsatzwerkstatt sein?",
-              "a": "Ja. Sie lässt sich im Rahmen eines Projekts zur [Radsatzwerkstatt-Automatisierung](page:wheel-shop-automation) mit Radsatzhandling und [Messstationen](page:wheel-measuring-station) verknüpfen."
+              "a": "Ja. Sie lässt sich im Rahmen eines Projekts zur [Radsatzwerkstatt-Automatisierung](page:ts-wheel-shops#automation) mit Radsatzhandling und [Messstationen](page:wheel-measuring-station) verknüpfen."
             }
           ]
         }
@@ -2966,7 +2966,7 @@
           "heading": "Eine Presse, auf die Sie sich verlassen können",
           "paragraphs": [
             "HYT legt die Presse auf Ihre Räder, Achswellen und Übermaßvorgaben aus, montiert sie, nimmt sie in Betrieb und schult Ihr Team in Pressvorgang und Dokumentation.",
-            "Hydraulikkomponenten und Dichtungen erhalten Sie über die [Ersatzteilversorgung](page:spare-supply), und die Presse lässt sich für einen kontinuierlichen Radsatzfluss in eine [Radsatzwerkstatt-Automatisierung](page:wheel-shop-automation) einbinden."
+            "Hydraulikkomponenten und Dichtungen erhalten Sie über die [Ersatzteilversorgung](page:spare-supply), und die Presse lässt sich für einen kontinuierlichen Radsatzfluss in eine [Radsatzwerkstatt-Automatisierung](page:ts-wheel-shops#automation) einbinden."
           ],
           "image": "projects/wheel-shop-automation-line",
           "image_alt": "Beispielabbildung einer automatisierten Radsatz-Fertigungslinie mit Pressstation",
@@ -3018,7 +3018,7 @@
             },
             {
               "q": "Wie fügt sich die Presse in eine automatisierte Radsatzwerkstatt ein?",
-              "a": "Sie kann im Rahmen einer [Radsatzwerkstatt-Automatisierung](page:wheel-shop-automation) mit Handlingeinrichtungen und [Messstationen](page:wheel-measuring-station) verknüpft werden."
+              "a": "Sie kann im Rahmen einer [Radsatzwerkstatt-Automatisierung](page:ts-wheel-shops#automation) mit Handlingeinrichtungen und [Messstationen](page:wheel-measuring-station) verknüpft werden."
             }
           ]
         }
@@ -3047,7 +3047,7 @@
           "paragraphs": [
             "Soll dieser Radsatz reprofiliert, neu bestückt oder ausgemustert werden? Liegt der neue Radsatz innerhalb der Toleranz, bevor er die Werkstatt verlässt? Die Antworten hängen von Messungen ab – und manuelle Lehren sind langsam, bedienerabhängig und schwer zu dokumentieren.",
             "Eine Radsatzmessstation erfasst die wichtigsten Geometriemerkmale von Rädern und Radsätzen in einem wiederholgenauen Zyklus: Laufkreisdurchmesser, Spurkranzhöhe und -dicke, Radinnenabstand sowie weitere vom Betreiber festgelegte Parameter. Die Ergebnisse werden gespeichert und mit Ihren Grenzwerten verglichen.",
-            "Vor einer Radsatzdrehmaschine hilft die Station bei der Planung des Schnitts; nach der Bearbeitung oder dem Aufpressen bestätigt sie das Ergebnis. In einer [automatisierten Radsatzwerkstatt](page:wheel-shop-automation) wird sie zum Datenpunkt, der jedem Radsatz seinen nächsten Weg vorgibt."
+            "Vor einer Radsatzdrehmaschine hilft die Station bei der Planung des Schnitts; nach der Bearbeitung oder dem Aufpressen bestätigt sie das Ergebnis. In einer [automatisierten Radsatzwerkstatt](page:ts-wheel-shops#automation) wird sie zum Datenpunkt, der jedem Radsatz seinen nächsten Weg vorgibt."
           ],
           "image": "products/wheel-measuring-station",
           "image_alt": "Beispielabbildung eines Radsatzes auf einer automatischen Radsatzmessstation",
@@ -3206,7 +3206,7 @@
             {
               "icon": "diagram-3",
               "title": "Automatisierte Linien",
-              "text": "Der Entscheidungspunkt in einem System zur [Radsatzwerkstatt-Automatisierung](page:wheel-shop-automation)."
+              "text": "Der Entscheidungspunkt in einem System zur [Radsatzwerkstatt-Automatisierung](page:ts-wheel-shops#automation)."
             }
           ]
         },
@@ -3217,7 +3217,7 @@
           "heading": "Messwerte, denen Sie vertrauen können",
           "paragraphs": [
             "Eine Messstation ist nur so gut wie ihre Kalibrierung. HYT nimmt die Station anhand von Referenznormalen in Betrieb, schult Ihre Prüfer und nimmt die regelmäßige Überprüfung in [Wartungsverträge](page:annual-maintenance-contract) auf.",
-            "Für neue Anlagen planen wir die Station als Teil des gesamten Material- und Datenflusses – siehe [Radsatzwerkstatt-Automatisierung](page:wheel-shop-automation)."
+            "Für neue Anlagen planen wir die Station als Teil des gesamten Material- und Datenflusses – siehe [Radsatzwerkstätten](page:ts-wheel-shops)."
           ],
           "image": "company/quality-inspection",
           "image_alt": "Beispielabbildung eines Prüfers bei der Auswertung von Radsatz-Messergebnissen",
@@ -3269,7 +3269,7 @@
             },
             {
               "q": "Ist die Station Teil der Radsatzwerkstatt-Automatisierung von HYT?",
-              "a": "Sie kann einzeln oder als Teil einer kompletten Lösung zur [Radsatzwerkstatt-Automatisierung](page:wheel-shop-automation) geliefert werden."
+              "a": "Sie kann einzeln oder als Teil einer kompletten Lösung zur [Radsatzwerkstatt-Automatisierung](page:ts-wheel-shops#automation) geliefert werden."
             }
           ]
         }

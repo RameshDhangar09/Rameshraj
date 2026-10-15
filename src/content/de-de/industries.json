@@ -576,7 +576,7 @@
             {
               "icon": "diagram-3",
               "title": "Automatisierung und Materialfluss",
-              "text": "Verkettete Maschinen, Handhabung und Daten in einer [automatisierten Radsatzwerkstatt](page:wheel-shop-automation)."
+              "text": "Verkettete Maschinen, Handhabung und Daten in einer [automatisierten Radsatzwerkstatt](page:ts-wheel-shops#automation)."
             }
           ]
         },
@@ -619,7 +619,7 @@
           "cols": 4,
           "items": [
             {
-              "page": "wheel-shop-automation",
+              "page": "ts-wheel-shops",
               "icon": "diagram-3"
             },
             {
@@ -665,7 +665,7 @@
           "items": [
             {
               "q": "Kann HYT statt einzelner Maschinen eine komplette Radsatzwerkstatt liefern?",
-              "a": "Ja. Wir planen den Prozessablauf, wählen und verketten die Maschinen, ergänzen Handhabungs- und Datensysteme und nehmen die Linie in Betrieb. Siehe [Automatisierung der Radsatzwerkstatt](page:wheel-shop-automation) und [Schlüsselfertige Projekte](page:turnkey-project)."
+              "a": "Ja. Wir planen den Prozessablauf, wählen und verketten die Maschinen, ergänzen Handhabungs- und Datensysteme und nehmen die Linie in Betrieb. Siehe [Radsatzwerkstätten](page:ts-wheel-shops) und [Schlüsselfertige Projekte](page:turnkey-project)."
             },
             {
               "q": "Können die Maschinen unterschiedliche Radgrößen und Spurweiten bearbeiten?",
@@ -686,8 +686,8 @@
             "page": "contact-us"
           },
           "secondary": {
-            "label": "Automatisierung der Radsatzwerkstatt",
-            "page": "wheel-shop-automation"
+            "label": "Schlüsselfertige Radsatzwerkstätten",
+            "page": "ts-wheel-shops"
           }
         }
       ]

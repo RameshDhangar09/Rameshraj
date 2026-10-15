@@ -576,7 +576,7 @@
             {
               "icon": "diagram-3",
               "title": "Automatisering en doorstroming",
-              "text": "Gekoppelde machines, handling en data in een [geautomatiseerde wielstelwerkplaats](page:wheel-shop-automation)."
+              "text": "Gekoppelde machines, handling en data in een [geautomatiseerde wielstelwerkplaats](page:ts-wheel-shops#automation)."
             }
           ]
         },
@@ -619,7 +619,7 @@
           "cols": 4,
           "items": [
             {
-              "page": "wheel-shop-automation",
+              "page": "ts-wheel-shops",
               "icon": "diagram-3"
             },
             {
@@ -665,7 +665,7 @@
           "items": [
             {
               "q": "Kan HYT een complete wielstelwerkplaats leveren in plaats van losse machines?",
-              "a": "Ja. Wij plannen de processtroom, selecteren en koppelen de machines, voegen handling- en datasystemen toe en stellen de lijn in bedrijf. Zie [Automatisering van wielstelwerkplaatsen](page:wheel-shop-automation) en [Turnkey projecten](page:turnkey-project)."
+              "a": "Ja. Wij plannen de processtroom, selecteren en koppelen de machines, voegen handling- en datasystemen toe en stellen de lijn in bedrijf. Zie [Wielstelwerkplaatsen](page:ts-wheel-shops) en [Turnkey projecten](page:turnkey-project)."
             },
             {
               "q": "Kunnen de machines verschillende wielmaten en spoorwijdten aan?",
@@ -686,8 +686,8 @@
             "page": "contact-us"
           },
           "secondary": {
-            "label": "Automatisering van wielstelwerkplaatsen",
-            "page": "wheel-shop-automation"
+            "label": "Turnkey wielstelwerkplaatsen",
+            "page": "ts-wheel-shops"
           }
         }
       ]

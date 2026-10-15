@@ -70,7 +70,7 @@
             {
               "icon": "diagram-3",
               "title": "Losstaand of onderdeel van een lijn?",
-              "text": "Gekoppeld aan [meetstations](page:wheel-measuring-station) en wielstelhandling kan een wielenbank onderdeel worden van een [geautomatiseerde wielstelwerkplaats](page:wheel-shop-automation). Plan de interfaces vanaf het begin."
+              "text": "Gekoppeld aan [meetstations](page:wheel-measuring-station) en wielstelhandling kan een wielenbank onderdeel worden van een [geautomatiseerde wielstelwerkplaats](page:ts-wheel-shops#automation). Plan de interfaces vanaf het begin."
             }
           ]
         },
@@ -1712,7 +1712,7 @@
           "heading": "Ingepast in uw wielstelwerkplaats",
           "paragraphs": [
             "Een portaalwielenbank presteert het best als de wielstellen er zonder wachttijd aankomen. HYT plant de positie van de machine in de werkplaats samen met wielstelsporen, opslag en de volgende processtappen, levert de fundatietekening en stelt de draaibank in bedrijf met uw wielstellen.",
-            "Voor grotere faciliteiten leveren we het complete proces als [turnkeyproject](page:turnkey-project) of als onderdeel van [automatisering van de wielstelwerkplaats](page:wheel-shop-automation). [Levering van reserveonderdelen](page:spare-supply) en onderhoudscontracten volgen gedurende de hele levensduur van de machine."
+            "Voor grotere faciliteiten leveren we het complete proces als [turnkeyproject](page:turnkey-project) of als onderdeel van [automatisering van de wielstelwerkplaats](page:ts-wheel-shops#automation). [Levering van reserveonderdelen](page:spare-supply) en onderhoudscontracten volgen gedurende de hele levensduur van de machine."
           ],
           "image": "projects/railway-wheel-shop",
           "image_alt": "Voorbeeldillustratie van een wielstelwerkplaats met wielstelsporen naar de bewerkingsstations",
@@ -1764,7 +1764,7 @@
             },
             {
               "q": "Kan de YPL-02 deel uitmaken van een geautomatiseerde wielstelwerkplaats?",
-              "a": "Ja. Ze kan worden gekoppeld aan wielstelhandling en [meetstations](page:wheel-measuring-station) binnen een project voor [automatisering van de wielstelwerkplaats](page:wheel-shop-automation)."
+              "a": "Ja. Ze kan worden gekoppeld aan wielstelhandling en [meetstations](page:wheel-measuring-station) binnen een project voor [automatisering van de wielstelwerkplaats](page:ts-wheel-shops#automation)."
             }
           ]
         }
@@ -2966,7 +2966,7 @@
           "heading": "Een pers waarop u kunt vertrouwen",
           "paragraphs": [
             "HYT dimensioneert de pers op uw wielen, assen en overmaatspecificatie, installeert hem, stelt hem in bedrijf en leidt uw team op in het persen en documenteren.",
-            "Hydraulische componenten en afdichtingen zijn verkrijgbaar via [levering van reserveonderdelen](page:spare-supply), en de pers kan worden geïntegreerd in [automatisering van de wielstelwerkplaats](page:wheel-shop-automation) voor een continue wielstelstroom."
+            "Hydraulische componenten en afdichtingen zijn verkrijgbaar via [levering van reserveonderdelen](page:spare-supply), en de pers kan worden geïntegreerd in [automatisering van de wielstelwerkplaats](page:ts-wheel-shops#automation) voor een continue wielstelstroom."
           ],
           "image": "projects/wheel-shop-automation-line",
           "image_alt": "Voorbeeldillustratie van een geautomatiseerde productielijn voor wielstellen met een persstation",
@@ -3018,7 +3018,7 @@
             },
             {
               "q": "Hoe past de pers in een geautomatiseerde wielstelwerkplaats?",
-              "a": "De pers kan worden gekoppeld aan handlingsapparatuur en [meetstations](page:wheel-measuring-station) als onderdeel van [automatisering van de wielstelwerkplaats](page:wheel-shop-automation)."
+              "a": "De pers kan worden gekoppeld aan handlingsapparatuur en [meetstations](page:wheel-measuring-station) als onderdeel van [automatisering van de wielstelwerkplaats](page:ts-wheel-shops#automation)."
             }
           ]
         }
@@ -3047,7 +3047,7 @@
           "paragraphs": [
             "Moet dit wielstel worden geherprofileerd, van nieuwe wielen worden voorzien of worden afgekeurd? Valt het nieuwe wielstel binnen de toleranties voordat het de werkplaats verlaat? Het antwoord hangt af van metingen – en handmatige meetmiddelen zijn traag, afhankelijk van de operator en lastig te documenteren.",
             "Een wielmeetstation legt de belangrijkste geometrie van wielen en wielstellen vast in een herhaalbare cyclus: loopcirkeldiameters, flenshoogte en flensdikte, binnenwerkse afstand en verdere parameters die de exploitant specificeert. De resultaten worden opgeslagen en vergeleken met uw grenswaarden.",
-            "Vóór een wielenbank helpt het station de snede te plannen; na het bewerken of persen bevestigt het het resultaat. In een [geautomatiseerde wielstelwerkplaats](page:wheel-shop-automation) wordt het het meetpunt dat bepaalt waar elk wielstel vervolgens naartoe gaat."
+            "Vóór een wielenbank helpt het station de snede te plannen; na het bewerken of persen bevestigt het het resultaat. In een [geautomatiseerde wielstelwerkplaats](page:ts-wheel-shops#automation) wordt het het meetpunt dat bepaalt waar elk wielstel vervolgens naartoe gaat."
           ],
           "image": "products/wheel-measuring-station",
           "image_alt": "Voorbeeldillustratie van een wielstel op een automatisch wielmeetstation",
@@ -3206,7 +3206,7 @@
             {
               "icon": "diagram-3",
               "title": "Geautomatiseerde lijnen",
-              "text": "Het beslispunt in een systeem voor [automatisering van de wielstelwerkplaats](page:wheel-shop-automation)."
+              "text": "Het beslispunt in een systeem voor [automatisering van de wielstelwerkplaats](page:ts-wheel-shops#automation)."
             }
           ]
         },
@@ -3217,7 +3217,7 @@
           "heading": "Metingen waarop u kunt vertrouwen",
           "paragraphs": [
             "Een meetstation is maar zo goed als zijn kalibratie. HYT stelt het station in bedrijf aan de hand van referentienormalen, leidt uw inspecteurs op en neemt periodieke verificatie op in [onderhoudscontracten](page:annual-maintenance-contract).",
-            "Voor nieuwe faciliteiten plannen we het station als onderdeel van de complete materiaal- en datastroom – zie [automatisering van de wielstelwerkplaats](page:wheel-shop-automation)."
+            "Voor nieuwe faciliteiten plannen we het station als onderdeel van de complete materiaal- en datastroom – zie [Wielstelwerkplaatsen](page:ts-wheel-shops)."
           ],
           "image": "company/quality-inspection",
           "image_alt": "Voorbeeldillustratie van een inspecteur die meetresultaten van wielstellen beoordeelt",
@@ -3269,7 +3269,7 @@
             },
             {
               "q": "Maakt het station deel uit van de wielstelwerkplaatsautomatisering van HYT?",
-              "a": "Het kan los worden geleverd of als onderdeel van een complete oplossing voor [automatisering van de wielstelwerkplaats](page:wheel-shop-automation)."
+              "a": "Het kan los worden geleverd of als onderdeel van een complete oplossing voor [automatisering van de wielstelwerkplaats](page:ts-wheel-shops#automation)."
             }
           ]
         }
