@@ -49,7 +49,7 @@ c.push(p('Hosting, deployment, security, bandwidth, forms, maintenance and accep
 c.push(gap());
 c.push(table(['Item', 'Detail'], [
   ['Document', 'Requirements for vendor quotation and delivery'],
-  ['Version / date', `1.0 – ${D.date}`],
+  ['Version / date', `1.1 – ${D.date} (adds AI chat assistant)`],
   ['Status', 'Draft for vendor discussion'],
   ['Owner', 'HYT Engineering – Digital Marketing (digitalmkt@hytengineering.com)'],
   ['Related files', 'HYT-Website-Page-List.xlsx (page list) · website source package (hyt-website-project.zip)'],
@@ -57,8 +57,8 @@ c.push(table(['Item', 'Detail'], [
 c.push(new Paragraph({ children: [new PageBreak()] }));
 c.push(new Paragraph({ spacing: { after: 200 }, children: [new TextRun({ text: 'Contents', font: FONT, size: 32, bold: true, color: BLUE })] }));
 ['1. Purpose and scope', '2. Website overview', '3. Functional requirements', '4. Hosting requirements', '5. Bandwidth and storage requirements',
- '6. Security requirements', '7. Performance, accessibility and compatibility', '8. SEO and launch requirements', '9. Maintenance and support (SLA)',
- '10. Deliverables and acceptance criteria', '11. What the vendor must include in the quotation', '12. Items HYT will provide', 'Appendix – Reference files in the website package']
+ '6. Security requirements', '7. AI chat assistant for visitors', '8. Performance, accessibility and compatibility', '9. SEO and launch requirements', '10. Maintenance and support (SLA)',
+ '11. Deliverables and acceptance criteria', '12. What the vendor must include in the quotation', '13. Items HYT will provide', 'Appendix – Reference files in the website package']
   .forEach(t => c.push(new Paragraph({ spacing: { after: 160 }, children: [new TextRun({ text: t, font: FONT, size: 23, color: '2E3338' })] })));
 c.push(new Paragraph({ children: [new PageBreak()] }));
 
@@ -71,7 +71,7 @@ c.push(h2('1.1 Vendor scope'));
  ['Server-side 301 redirects and custom 404 pages', 'MUST'], ['Secure form backend and email delivery (4 forms)', 'MUST'],
  ['Security hardening, monitoring and backups', 'MUST'], ['Go-live support, SEO launch tasks and acceptance testing', 'MUST'],
  ['Annual maintenance and support (SLA)', 'MUST'], ['Content updates (pages, images, news, events) on request', 'SHOULD'],
- ['Video hosting / YouTube channel integration', 'SHOULD'], ['Web analytics with cookie consent', 'MAY'], ['Native-language review of DE/FR/IT/NL text', 'MAY']]
+ ['Video hosting / YouTube channel integration', 'SHOULD'], ['AI chat assistant for visitor assistance (section 7) – phase 2, quote separately', 'MUST'], ['Web analytics with cookie consent', 'MAY'], ['Native-language review of DE/FR/IT/NL text', 'MAY']]
   .forEach(([a, b]) => c.push(bl(`${a} – **${b}**`)));
 c.push(h2('1.2 Out of scope'));
 c.push(bl('Redesign or rebuild of the website – the design, templates and content are complete.'));
@@ -104,7 +104,7 @@ const fr = [
   ['F5', 'Enquiry, supplier and catalogue forms are delivered to digitalmkt@hytengineering.com; job applications (with CV) to careers@hytengineering.com.', 'MUST'],
   ['F6', 'The website shows "thank you" only when the form backend confirms receipt (HTTP 2xx). Failures show an honest error message.', 'MUST'],
   ['F7', 'Catalogue download: visitor completes a short form, is redirected to the localised thank-you page and the PDF downloads automatically.', 'MUST'],
-  ['F8', 'Site search, product filter, galleries, videos and accordions work in all supported browsers (section 7).', 'MUST'],
+  ['F8', 'Site search, product filter, galleries, videos and accordions work in all supported browsers (section 8).', 'MUST'],
   ['F9', 'Product videos: self-hosted MP4/WebM or YouTube via the built-in privacy-friendly "click to load" player (youtube-nocookie.com).', 'SHOULD'],
   ['F10', '"Next Event" link in the top bar can be pointed to a new page or news item without developer effort (single config value).', 'SHOULD'],
 ];
@@ -153,6 +153,7 @@ c.push(table(['#', 'Requirement', 'Priority'], [
   ['B4', 'Product videos SHOULD be published on HYT\'s YouTube channel and embedded with the built-in click-to-load player. This removes the largest bandwidth cost.', 'SHOULD'],
   ['B5', 'Large downloads (catalogues > 10 MB, videos) SHOULD be served through the CDN with range requests (resumable downloads).', 'SHOULD'],
   ['B6', 'Monthly bandwidth and visitor report shared with HYT.', 'SHOULD'],
+  ['B7', 'AI chat assistant (section 7): text-only traffic of a few KB per message – negligible for bandwidth; its usage cost is metered separately by the AI service (see C21).', 'MUST'],
 ], [700, 7126, 1200]));
 
 // ---------- 6 Security ----------
@@ -195,8 +196,56 @@ c.push(table(['#', 'Requirement', 'Priority'], [
   ['S25', 'SSL certificate, domain and DNS expiry monitoring with reminders at 30 and 7 days.', 'MUST'],
 ], [700, 7126, 1200]));
 
-// ---------- 7 Performance / accessibility ----------
-c.push(h1('7. Performance, accessibility and compatibility'));
+
+// ---------- 7 AI chat assistant ----------
+c.push(h1('7. AI chat assistant for visitors'));
+c.push(p('HYT plans to add an AI chat assistant that helps visitors find the right machine, service or contact in their own language, 24 hours a day. It must give reliable answers based only on HYT\'s approved information, hand complex or commercial questions to HYT staff, and meet the same security and privacy standards as the rest of the website.'));
+c.push(h2('7.1 What the assistant must do'));
+c.push(table(['#', 'Requirement', 'Priority'], [
+  ['C1', 'Answer visitor questions about HYT products, services, turnkey solutions, industries served, downloads, careers and contact details, with a link to the relevant website page in every answer.', 'MUST'],
+  ['C2', 'Reply in the language of the page the visitor is on (English, German, French, Italian, Dutch; North American English on /en-us/), or in the language the visitor writes in.', 'MUST'],
+  ['C3', 'Guide visitors to the right product (e.g. underfloor vs surface vs portal wheel lathe) by asking simple questions about their fleet and workshop, then link to the product page and catalogue.', 'SHOULD'],
+  ['C4', 'Lead capture: with the visitor\'s consent, collect name, company, email, phone, country and requirement, and send it to digitalmkt@hytengineering.com (or HYT\'s CRM) with the chat transcript.', 'MUST'],
+  ['C5', 'Hand-over to a human: offer "Talk to our team" at any time – enquiry form, email, phone (+91 20 6634 3900) and toll-free service line (1800 2100 456); during office hours, optional live hand-over to a staff member.', 'MUST'],
+  ['C6', 'After-sales visitors are directed to the toll-free service line and the service network page; career questions to the Careers page and careers@hytengineering.com.', 'MUST'],
+], [700, 7126, 1200]));
+c.push(h2('7.2 Accuracy and content rules'));
+c.push(table(['#', 'Requirement', 'Priority'], [
+  ['C7', '**Grounded answers only:** the assistant answers from an approved knowledge base (the published website content in all languages and approved catalogues/datasheets). It must not use general internet knowledge for statements about HYT.', 'MUST'],
+  ['C8', '**Never invent** technical specifications, prices, delivery times, warranties, customer names or project details. Values shown as "On request" on the website must be answered as "on request – our engineers will confirm".', 'MUST'],
+  ['C9', 'No commercial commitments: quotations, prices, discounts, delivery dates, tender questions and contract terms are always handed to the sales team.', 'MUST'],
+  ['C10', 'No answers on competitors, legal advice, or topics unrelated to HYT; polite refusal with a link to contact HYT.', 'MUST'],
+  ['C11', 'When unsure, the assistant says so and offers the hand-over (C5) instead of guessing.', 'MUST'],
+  ['C12', 'Knowledge base updates automatically when the website is rebuilt or redeployed (re-index within 24 hours); content marked "pending HYT approval" is excluded until approved.', 'MUST'],
+  ['C13', 'Clear disclosure in the chat window: "AI assistant – answers may contain errors; please confirm technical and commercial details with HYT."', 'MUST'],
+], [700, 7126, 1200]));
+c.push(h2('7.3 User interface and performance'));
+c.push(table(['#', 'Requirement', 'Priority'], [
+  ['C14', 'Chat button bottom-right on every page, in HYT colours, not overlapping the existing back-to-top button, the mobile menu or any future cookie banner; no automatic pop-up that covers content (one subtle prompt after 30 seconds MAY be used).', 'MUST'],
+  ['C15', 'Accessible to WCAG 2.1 AA: keyboard operation, focus management, screen-reader labels and live-region announcements, sufficient contrast, works at 200 % zoom and on 360 px phones.', 'MUST'],
+  ['C16', 'No impact on page speed: the chat code loads only after the page has loaded or when the button is clicked; ≤ 100 KB before opening; Core Web Vitals targets (section 8) still met.', 'MUST'],
+  ['C17', 'If the chat service is unavailable, the button shows contact details instead – the website itself must never fail because of the chat.', 'MUST'],
+  ['C18', 'Suggested starter questions per language (e.g. "Which wheel lathe suits a metro depot?", "Download a catalogue", "Contact service").', 'SHOULD'],
+], [700, 7126, 1200]));
+c.push(h2('7.4 Security, privacy and cost control'));
+c.push(table(['#', 'Requirement', 'Priority'], [
+  ['C19', 'AI service keys are held only on the server side (proxy endpoint) – never in the website code. The Content-Security-Policy is extended only to the chat endpoint\'s domain.', 'MUST'],
+  ['C20', 'Abuse protection: rate limits per visitor/IP, maximum message length, bot/CAPTCHA check before high-volume use, blocking of abusive sessions, and protection against prompt-injection (the assistant cannot be instructed to reveal its configuration, change its rules or access other systems).', 'MUST'],
+  ['C21', 'Cost control: monthly usage cap set by HYT, alerts at 50 % and 80 %, and automatic fall-back to contact details when the cap is reached.', 'MUST'],
+  ['C22', 'Privacy notice shown before the first message; the visitor accepts it to start chatting. The Privacy Policy names the AI provider and retention period.', 'MUST'],
+  ['C23', 'Conversation logs: stored in the agreed region, access-controlled (MFA), personal data masked where possible, retained max. 90 days unless converted to a lead; visitors can request deletion.', 'MUST'],
+  ['C24', 'The AI provider must not use HYT conversations or content to train its models; a data processing agreement covering DPDP Act 2023 and GDPR is required.', 'MUST'],
+  ['C25', 'The assistant has read-only access to public website content only – no access to HYT internal systems, email, ERP or customer data.', 'MUST'],
+], [700, 7126, 1200]));
+c.push(h2('7.5 Administration and reporting'));
+[ 'Admin dashboard for HYT: conversations, leads, questions the assistant could not answer, satisfaction (thumbs up/down).',
+  'Monthly report: number of conversations per language, top topics, leads generated, hand-overs, unanswered questions and recommended content improvements.',
+  'HYT can edit approved answers for frequent questions, the greeting and starter questions without developer help.',
+  'Quality review: the vendor checks a sample of conversations every month and corrects wrong answers within 5 business days.',
+].forEach(t => c.push(bl(t)));
+
+// ---------- 8 Performance / accessibility ----------
+c.push(h1('8. Performance, accessibility and compatibility'));
 c.push(table(['#', 'Requirement', 'Target'], [
   ['P1', 'Core Web Vitals (mobile, 4G) for home, product and contact pages', 'LCP < 2.5 s · INP < 200 ms · CLS < 0.1'],
   ['P2', 'Google Lighthouse (mobile)', 'Performance ≥ 85 · Accessibility ≥ 95 · Best practices ≥ 95 · SEO ≥ 95'],
@@ -208,7 +257,7 @@ c.push(table(['#', 'Requirement', 'Target'], [
 ], [700, 4100, 4226]));
 
 // ---------- 8 SEO ----------
-c.push(h1('8. SEO and launch requirements'));
+c.push(h1('9. SEO and launch requirements'));
 [ 'Keep every URL, title, description, canonical, hreflang and structured-data tag unchanged when deploying.',
   'Verify all 72 redirects return 301 to the correct page (test commands provided in docs/redirects.md).',
   'Submit sitemap.xml to Google Search Console and Bing Webmaster Tools under HYT\'s accounts; monitor crawl errors and 404s for 4 weeks after launch and add redirects for any old URL still receiving traffic.',
@@ -217,7 +266,7 @@ c.push(h1('8. SEO and launch requirements'));
 ].forEach(t => c.push(bl(t)));
 
 // ---------- 9 Maintenance ----------
-c.push(h1('9. Maintenance and support (SLA)'));
+c.push(h1('10. Maintenance and support (SLA)'));
 c.push(table(['Severity', 'Example', 'Response', 'Resolution'], [
   ['Critical', 'Website down, security breach, forms not delivering', '1 hour (24×7)', '4 hours'],
   ['High', 'Section or language broken, redirect failure, SSL warning', '4 business hours', '1 business day'],
@@ -232,7 +281,7 @@ c.push(gap());
 ].forEach(t => c.push(bl(t)));
 
 // ---------- 10 Acceptance ----------
-c.push(h1('10. Deliverables and acceptance criteria'));
+c.push(h1('11. Deliverables and acceptance criteria'));
 c.push(table(['#', 'Acceptance test', 'Pass criterion'], [
   ['A1', 'Page check', 'All 468 pages return 200; automated link check shows 0 broken links'],
   ['A2', 'Redirects', 'All 72 old URLs return 301 to the right page; http and www variants redirect to https://hytengineering.com'],
@@ -240,30 +289,33 @@ c.push(table(['#', 'Acceptance test', 'Pass criterion'], [
   ['A4', 'Forms', 'Test submission of each form in all 6 languages arrives at the correct mailbox; CV attachment intact; spam test blocked; thank-you shown only after delivery'],
   ['A5', 'Catalogue', 'Form → thank-you page → PDF downloads automatically'],
   ['A6', 'Security', 'SSL Labs A or better; securityheaders.com A; vulnerability scan with no high/critical findings'],
-  ['A7', 'Performance', 'Section 7 targets met on home, one product page and contact page'],
+  ['A7', 'Performance', 'Section 8 targets met on home, one product page and contact page'],
   ['A8', 'Accessibility', 'Automated WCAG 2.1 AA scan with no violations on 5 representative pages'],
   ['A9', 'SEO', 'Sitemap submitted and accepted; hreflang and canonical tags verified on a sample of pages'],
+  ['A11', 'AI chat assistant', 'Test set of at least 40 questions per language (EN, DE, FR, IT, NL) answered correctly from website content in ≥ 90 % of cases; 0 invented specifications, prices or delivery times; hand-over to a human works; widget passes accessibility test; site works normally if the chat service is down'],
   ['A10', 'Documentation', 'Hand-over document: architecture, accounts (owner = HYT), deployment steps, backup/restore procedure, contacts'],
 ], [700, 2200, 6126]));
 
 // ---------- 11 Vendor response ----------
-c.push(h1('11. What the vendor must include in the quotation'));
+c.push(h1('12. What the vendor must include in the quotation'));
 [ 'Proposed hosting/CDN platform, server locations and why it suits visitors in India and Europe.',
   'Included bandwidth, storage and overage prices (section 5).',
   'Form backend and email-delivery solution, including where personal data is processed and stored.',
   'Security measures against each requirement in section 6 (a compliance table: Met / Partly / Alternative).',
   'One-time costs (setup, migration, launch) and annual recurring costs (hosting, CDN, form service, SSL if any, maintenance, support hours), with taxes shown separately.',
   'Project plan and timeline to go-live (target: within 3–4 weeks of order).',
+  'AI chat assistant: proposed platform/AI provider, data location, set-up cost, monthly running cost at 1,000 / 5,000 / 20,000 conversations, cost caps, and how the knowledge base is kept in sync with the website.',
   'SLA, support hours, escalation contacts and references from similar corporate or multilingual websites.',
 ].forEach(t => c.push(bl(t)));
 
 // ---------- 12 HYT inputs ----------
-c.push(h1('12. Items HYT will provide'));
+c.push(h1('13. Items HYT will provide'));
 [ 'Access to the website source package and Git repository.',
   'Decision on domain form (hytengineering.com vs www) and DNS access.',
   'Approved photographs, product videos (or YouTube links) and real catalogues to replace sample material.',
   'Approval of pending content (marked "Content pending HYT approval" on the preview site; list in docs/outstanding-items.md).',
-  'Legal review of Privacy Policy, Cookie Policy and Disclaimer (form processor name, retention periods).',
+  'Legal review of Privacy Policy, Cookie Policy and Disclaimer (form processor name, AI chat provider, retention periods).',
+  'For the AI chat assistant: approved list of topics it may answer, escalation contacts and office hours, and a set of typical visitor questions for testing.',
   'Recipient mailboxes: digitalmkt@hytengineering.com (enquiries, supplier, catalogue) and careers@hytengineering.com (applications).',
 ].forEach(t => c.push(bl(t)));
 
