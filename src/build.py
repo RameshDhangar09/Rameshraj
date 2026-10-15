@@ -1136,7 +1136,7 @@ def hero(ctx, pid, pg, crumbs):
                 f'<span class="product-hero__corner product-hero__corner--tl" aria-hidden="true"></span><span class="product-hero__corner product-hero__corner--br" aria-hidden="true"></span></div></div>'
                 f'</div></div></section>')
     if t in ("legal", "utility"):
-        return (f'<section class="page-hero page-hero--plain" aria-labelledby="page-title"><div class="container">{crumbs}{eyebrow}'
+        return (f'<section class="page-hero page-hero--plain" aria-labelledby="page-title" data-hero-fx>{HERO_FX}<div class="container page-hero__content">{crumbs}{eyebrow}'
                 f'<h1 class="page-hero__title" id="page-title">{inline(ctx, pg["h1"])}</h1>{lede}</div></section>')
     img = p.get("image")
     media = f'<div class="page-hero__media">{picture(img, "", "100vw", eager=True, cls="page-hero__img")}</div>' if img else ""
@@ -1146,7 +1146,7 @@ def hero(ctx, pid, pg, crumbs):
         actions = '<div class="hero__actions page-hero__actions">' + "".join(
             btn(ctx, a, "btn-hyt--primary" if i == 0 else "btn-hyt--ghost") for i, a in enumerate(acts)) + "</div>"
     big = " page-hero--tall" if pg.get("hero_actions") else ""
-    return (f'<section class="page-hero{" page-hero--image" if img else ""}{big}" aria-labelledby="page-title">{media}'
+    return (f'<section class="page-hero{" page-hero--image" if img else ""}{big}" aria-labelledby="page-title" data-hero-fx>{media}{HERO_FX}'
             f'<div class="container page-hero__content">{crumbs}{eyebrow}'
             f'<h1 class="page-hero__title" id="page-title">{inline(ctx, pg["h1"])}</h1>{lede}{actions}</div></section>')
 

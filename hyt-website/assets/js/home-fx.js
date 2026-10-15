@@ -1,21 +1,20 @@
 /**
- * Home page motion: word-by-word headline reveals, pointer-driven hero depth,
- * spotlight glow, 3D card tilt, magnetic buttons and a scroll-linked hero fade.
- * Everything here is decorative: it only runs on the home page, never for
- * users who prefer reduced motion, and pointer effects only on mouse/trackpad.
+ * Site-wide motion: word-by-word headline reveals, pointer-driven hero depth,
+ * spotlight glow, 3D card tilt, magnetic buttons, cascading lists, reading
+ * progress and a scroll-linked hero fade. Everything here is decorative: it
+ * never runs for users who prefer reduced motion, and pointer effects only
+ * run on mouse/trackpad.
  */
 const reduce = () => window.matchMedia('(prefers-reduced-motion: reduce)').matches;
 const finePointer = () => window.matchMedia('(hover: hover) and (pointer: fine)').matches;
 
 export function initHomeFx() {
-  const body = document.body;
-  const home = body.classList.contains('page-home');
-  const product = body.classList.contains('tpl-product');
-  if ((!home && !product) || reduce()) return;
+  if (reduce()) return;
   document.documentElement.classList.add('fx-on');
   splitHeadings();
-  if (home) heroScroll();
-  if (product) { readingProgress(); staggerRows(); }
+  heroScroll();
+  readingProgress();
+  staggerRows();
   if (!finePointer()) return;
   heroPointer();
   spotlights();
@@ -25,10 +24,10 @@ export function initHomeFx() {
 
 /** Wrap each word of the headings in a mask so it can slide up into view. */
 function splitHeadings() {
-  const heads = document.querySelectorAll('.hero-home__title, .product-hero__title, .page-home main .section-title, .tpl-product main .section-title, .cta-band__title');
+  const heads = document.querySelectorAll('.hero-home__title, .product-hero__title, .page-hero__title, main .section-title, .cta-band__title');
   heads.forEach((h) => {
     // Only headings that a reveal (or the hero entrance) will bring back in
-    if (h.dataset.split || (!h.closest('.reveal') && !h.matches('.hero-home__title, .product-hero__title'))) return;
+    if (h.dataset.split || (!h.closest('.reveal') && !h.matches('.hero-home__title, .product-hero__title, .page-hero__title'))) return;
     h.dataset.split = '1';
     let i = 0;
     const walk = (node) => {
@@ -96,7 +95,7 @@ function heroPointer() {
 
 /** Soft light that follows the pointer on the dark/blue bands. */
 function spotlights() {
-  document.querySelectorAll('[data-hero-fx], .page-home .section--navy, .section--cta, .tpl-product .section--video').forEach((el) => {
+  document.querySelectorAll('[data-hero-fx], .section--navy, .section--cta, .section--video').forEach((el) => {
     el.classList.add('has-spot');
     el.addEventListener('pointermove', (e) => {
       const r = el.getBoundingClientRect();
@@ -109,7 +108,7 @@ function spotlights() {
 
 /** Cards tilt towards the pointer with a moving glare. */
 function tilt() {
-  document.querySelectorAll('.page-home .card-hyt, .page-home .stat, .tpl-product .card-hyt').forEach((card) => {
+  document.querySelectorAll('.card-hyt, .page-home .stat, .benefit, .news-card').forEach((card) => {
     const max = card.classList.contains('stat') ? 4 : 6;
     let raf = 0;
     card.classList.add('is-tilt');
@@ -137,7 +136,7 @@ function tilt() {
 
 /** Primary actions lean towards the pointer. */
 function magnetic() {
-  document.querySelectorAll('.hero-home .btn-hyt, .product-hero .btn-hyt, .section--cta .btn-hyt, .catalogue-panel .btn-hyt').forEach((btn) => {
+  document.querySelectorAll('.hero-home .btn-hyt, .product-hero .btn-hyt, .page-hero .btn-hyt, .section--cta .btn-hyt, .catalogue-panel .btn-hyt').forEach((btn) => {
     btn.classList.add('is-magnetic');
     btn.addEventListener('pointermove', (e) => {
       const r = btn.getBoundingClientRect();
@@ -175,12 +174,14 @@ function readingProgress() {
 
 /** Specification rows and feature checklists cascade in one after another. */
 function staggerRows() {
-  const groups = document.querySelectorAll('.tpl-product .spec-table tbody, .tpl-product .check-list');
+  const groups = document.querySelectorAll('.spec-table tbody, main .check-list');
   if (!groups.length || !('IntersectionObserver' in window)) return;
   const io = new IntersectionObserver((entries) => {
     entries.forEach((e) => { if (e.isIntersecting) { e.target.classList.add('is-in'); io.unobserve(e.target); } });
   }, { threshold: 0.15 });
   groups.forEach((g) => {
+    // Lists inside tabs or collapsed panels stay as they are (they may be hidden now)
+    if (g.closest('[hidden], [role="tabpanel"], .facility-panel, .accordion-hyt__panel')) return;
     [...g.children].forEach((row, i) => row.style.setProperty('--row', Math.min(i, 12)));
     g.classList.add('cascade');
     const r = g.getBoundingClientRect();
