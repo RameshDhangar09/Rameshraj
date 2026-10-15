@@ -70,7 +70,7 @@
             {
               "icon": "diagram-3",
               "title": "Machine autonome ou intégrée à une ligne ?",
-              "text": "Associé à des [stations de mesure](page:wheel-measuring-station) et à la manutention des essieux montés, un tour peut s'intégrer à un [atelier de roues automatisé](page:wheel-shop-automation). Prévoyez les interfaces dès le départ."
+              "text": "Associé à des [stations de mesure](page:wheel-measuring-station) et à la manutention des essieux montés, un tour peut s'intégrer à un [atelier de roues automatisé](page:ts-wheel-shops#automation). Prévoyez les interfaces dès le départ."
             }
           ]
         },
@@ -1712,7 +1712,7 @@
           "heading": "Intégré à votre atelier d'essieux",
           "paragraphs": [
             "Un tour à portique donne sa pleine mesure lorsque les essieux montés lui parviennent sans attente. HYT planifie l'emplacement de la machine dans l'atelier en tenant compte des voies d'essieux, du stockage et des étapes de processus suivantes, fournit le plan de fondation et met le tour en service sur vos essieux montés.",
-            "Pour les installations plus importantes, nous livrons l'ensemble du processus sous forme de [projet clés en main](page:turnkey-project) ou dans le cadre de l'[automatisation d'atelier d'essieux](page:wheel-shop-automation). La [fourniture de pièces de rechange](page:spare-supply) et les contrats de maintenance accompagnent ensuite la machine tout au long de sa vie."
+            "Pour les installations plus importantes, nous livrons l'ensemble du processus sous forme de [projet clés en main](page:turnkey-project) ou dans le cadre de l'[automatisation d'atelier d'essieux](page:ts-wheel-shops#automation). La [fourniture de pièces de rechange](page:spare-supply) et les contrats de maintenance accompagnent ensuite la machine tout au long de sa vie."
           ],
           "image": "projects/railway-wheel-shop",
           "image_alt": "Illustration d'exemple d'un atelier d'essieux ferroviaire avec des voies d'essieux menant aux postes d'usinage",
@@ -1764,7 +1764,7 @@
             },
             {
               "q": "Le YPL-02 peut-il s'intégrer à un atelier d'essieux automatisé ?",
-              "a": "Oui. Il peut être relié à la manutention des essieux montés et à des [stations de mesure](page:wheel-measuring-station) dans le cadre d'un projet d'[automatisation d'atelier d'essieux](page:wheel-shop-automation)."
+              "a": "Oui. Il peut être relié à la manutention des essieux montés et à des [stations de mesure](page:wheel-measuring-station) dans le cadre d'un projet d'[automatisation d'atelier d'essieux](page:ts-wheel-shops#automation)."
             }
           ]
         }
@@ -2966,7 +2966,7 @@
           "heading": "Une presse sur laquelle vous pouvez compter",
           "paragraphs": [
             "HYT dimensionne la presse selon vos roues, vos essieux et votre spécification de serrage, l'installe, la met en service et forme votre équipe au calage et à sa documentation.",
-            "Les composants hydrauliques et les joints sont disponibles via la [fourniture de pièces de rechange](page:spare-supply), et la presse peut être intégrée à l'[automatisation d'atelier d'essieux](page:wheel-shop-automation) pour un flux continu d'essieux montés."
+            "Les composants hydrauliques et les joints sont disponibles via la [fourniture de pièces de rechange](page:spare-supply), et la presse peut être intégrée à l'[automatisation d'atelier d'essieux](page:ts-wheel-shops#automation) pour un flux continu d'essieux montés."
           ],
           "image": "projects/wheel-shop-automation-line",
           "image_alt": "Illustration d'exemple d'une ligne automatisée de production d'essieux montés avec un poste de calage",
@@ -3018,7 +3018,7 @@
             },
             {
               "q": "Comment la presse s'intègre-t-elle dans un atelier d'essieux automatisé ?",
-              "a": "Elle peut être reliée à des équipements de manutention et à des [stations de mesure](page:wheel-measuring-station) dans le cadre de l'[automatisation d'atelier d'essieux](page:wheel-shop-automation)."
+              "a": "Elle peut être reliée à des équipements de manutention et à des [stations de mesure](page:wheel-measuring-station) dans le cadre de l'[automatisation d'atelier d'essieux](page:ts-wheel-shops#automation)."
             }
           ]
         }
@@ -3047,7 +3047,7 @@
           "paragraphs": [
             "Cet essieu monté doit-il être reprofilé, recevoir de nouvelles roues ou être mis au rebut ? L'essieu monté neuf est-il dans les tolérances avant de quitter l'atelier ? Les réponses dépendent des mesures – et les jauges manuelles sont lentes, dépendantes de l'opérateur et difficiles à documenter.",
             "Une station de mesure des roues relève la géométrie essentielle des roues et des essieux montés selon un cycle reproductible : diamètres de roulement, hauteur et épaisseur du boudin, cote entre faces internes et autres paramètres spécifiés par l'exploitant. Les résultats sont enregistrés et comparés à vos limites.",
-            "Placée en amont d'un tour à roues, la station aide à planifier la passe ; placée après l'usinage ou le calage, elle confirme le résultat. Dans un [atelier d'essieux automatisé](page:wheel-shop-automation), elle devient le point de données qui indique à chaque essieu monté sa prochaine destination."
+            "Placée en amont d'un tour à roues, la station aide à planifier la passe ; placée après l'usinage ou le calage, elle confirme le résultat. Dans un [atelier d'essieux automatisé](page:ts-wheel-shops#automation), elle devient le point de données qui indique à chaque essieu monté sa prochaine destination."
           ],
           "image": "products/wheel-measuring-station",
           "image_alt": "Illustration d'exemple d'un essieu monté sur une station de mesure automatique des roues",
@@ -3206,7 +3206,7 @@
             {
               "icon": "diagram-3",
               "title": "Lignes automatisées",
-              "text": "Le point de décision d'un système d'[automatisation d'atelier d'essieux](page:wheel-shop-automation)."
+              "text": "Le point de décision d'un système d'[automatisation d'atelier d'essieux](page:ts-wheel-shops#automation)."
             }
           ]
         },
@@ -3217,7 +3217,7 @@
           "heading": "Des mesures fiables",
           "paragraphs": [
             "Une station de mesure ne vaut que par son étalonnage. HYT met la station en service à l'aide d'étalons de référence, forme vos contrôleurs et intègre la vérification périodique dans les [contrats de maintenance](page:annual-maintenance-contract).",
-            "Pour les nouvelles installations, nous planifions la station dans le cadre de l'ensemble du flux de matériel et de données – voir [Automatisation d'atelier d'essieux](page:wheel-shop-automation)."
+            "Pour les nouvelles installations, nous planifions la station dans le cadre de l'ensemble du flux de matériel et de données – voir [Ateliers d'essieux](page:ts-wheel-shops)."
           ],
           "image": "company/quality-inspection",
           "image_alt": "Illustration d'exemple d'un contrôleur analysant les résultats de mesure d'un essieu monté",
@@ -3269,7 +3269,7 @@
             },
             {
               "q": "La station fait-elle partie de l'automatisation d'atelier d'essieux HYT ?",
-              "a": "Elle peut être fournie seule ou dans le cadre d'une solution complète d'[automatisation d'atelier d'essieux](page:wheel-shop-automation)."
+              "a": "Elle peut être fournie seule ou dans le cadre d'une solution complète d'[automatisation d'atelier d'essieux](page:ts-wheel-shops#automation)."
             }
           ]
         }

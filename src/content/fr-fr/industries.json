@@ -576,7 +576,7 @@
             {
               "icon": "diagram-3",
               "title": "Automatisation et flux",
-              "text": "Machines interconnectées, manutention et données dans un [atelier d’essieux automatisé](page:wheel-shop-automation)."
+              "text": "Machines interconnectées, manutention et données dans un [atelier d’essieux automatisé](page:ts-wheel-shops#automation)."
             }
           ]
         },
@@ -619,7 +619,7 @@
           "cols": 4,
           "items": [
             {
-              "page": "wheel-shop-automation",
+              "page": "ts-wheel-shops",
               "icon": "diagram-3"
             },
             {
@@ -665,7 +665,7 @@
           "items": [
             {
               "q": "HYT peut-elle fournir un atelier d’essieux complet plutôt que des machines isolées ?",
-              "a": "Oui. Nous planifions le flux de production, sélectionnons et relions les machines, ajoutons les systèmes de manutention et de données et mettons la ligne en service. Voir [Automatisation d’atelier d’essieux](page:wheel-shop-automation) et [Projets clés en main](page:turnkey-project)."
+              "a": "Oui. Nous planifions le flux de production, sélectionnons et relions les machines, ajoutons les systèmes de manutention et de données et mettons la ligne en service. Voir [Ateliers d’essieux](page:ts-wheel-shops) et [Projets clés en main](page:turnkey-project)."
             },
             {
               "q": "Les machines peuvent-elles traiter différentes dimensions de roue et différents écartements ?",
@@ -686,8 +686,8 @@
             "page": "contact-us"
           },
           "secondary": {
-            "label": "Automatisation d’atelier d’essieux",
-            "page": "wheel-shop-automation"
+            "label": "Ateliers d’essieux clés en main",
+            "page": "ts-wheel-shops"
           }
         }
       ]

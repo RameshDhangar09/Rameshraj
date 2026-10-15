@@ -70,7 +70,7 @@
             {
               "icon": "diagram-3",
               "title": "Macchina singola o parte di una linea?",
-              "text": "Collegato a [stazioni di misura](page:wheel-measuring-station) e a sistemi di movimentazione delle sale montate, un tornio può diventare parte di un'[officina sale automatizzata](page:wheel-shop-automation). Pianifichi le interfacce fin dall'inizio."
+              "text": "Collegato a [stazioni di misura](page:wheel-measuring-station) e a sistemi di movimentazione delle sale montate, un tornio può diventare parte di un'[officina sale automatizzata](page:ts-wheel-shops#automation). Pianifichi le interfacce fin dall'inizio."
             }
           ]
         },
@@ -1712,7 +1712,7 @@
           "heading": "Integrato nella Sua officina sale",
           "paragraphs": [
             "Un tornio a portale rende al meglio quando le sale montate lo raggiungono senza attese. HYT pianifica la posizione della macchina nell'officina insieme ai binari per le sale montate, al magazzino e alle fasi di processo successive, fornisce il disegno delle fondazioni ed esegue la messa in servizio del tornio sulle Sue sale montate.",
-            "Per impianti più grandi realizziamo l'intero processo come [progetto chiavi in mano](page:turnkey-project) o nell'ambito dell'[automazione dell'officina sale](page:wheel-shop-automation). [Fornitura di ricambi](page:spare-supply) e contratti di manutenzione accompagnano la macchina per tutta la sua vita utile."
+            "Per impianti più grandi realizziamo l'intero processo come [progetto chiavi in mano](page:turnkey-project) o nell'ambito dell'[automazione dell'officina sale](page:ts-wheel-shops#automation). [Fornitura di ricambi](page:spare-supply) e contratti di manutenzione accompagnano la macchina per tutta la sua vita utile."
           ],
           "image": "projects/railway-wheel-shop",
           "image_alt": "Illustrazione esemplificativa di un'officina sale ferroviaria con binari per sale montate che conducono alle stazioni di lavorazione",
@@ -1764,7 +1764,7 @@
             },
             {
               "q": "Lo YPL-02 può far parte di un'officina sale automatizzata?",
-              "a": "Sì. Può essere collegato a sistemi di movimentazione delle sale montate e a [stazioni di misura](page:wheel-measuring-station) nell'ambito di un progetto di [automazione dell'officina sale](page:wheel-shop-automation)."
+              "a": "Sì. Può essere collegato a sistemi di movimentazione delle sale montate e a [stazioni di misura](page:wheel-measuring-station) nell'ambito di un progetto di [automazione dell'officina sale](page:ts-wheel-shops#automation)."
             }
           ]
         }
@@ -2966,7 +2966,7 @@
           "heading": "Una pressa su cui contare",
           "paragraphs": [
             "HYT dimensiona la pressa in base a ruote, assi e specifica di interferenza, la installa, esegue la messa in servizio e forma il Suo personale su pressatura e documentazione.",
-            "Componenti idraulici e guarnizioni sono disponibili tramite la [fornitura di ricambi](page:spare-supply), e la pressa può essere integrata nell'[automazione dell'officina sale](page:wheel-shop-automation) per un flusso continuo delle sale montate."
+            "Componenti idraulici e guarnizioni sono disponibili tramite la [fornitura di ricambi](page:spare-supply), e la pressa può essere integrata nell'[automazione dell'officina sale](page:ts-wheel-shops#automation) per un flusso continuo delle sale montate."
           ],
           "image": "projects/wheel-shop-automation-line",
           "image_alt": "Illustrazione esemplificativa di una linea automatizzata di produzione di sale montate con stazione di pressatura",
@@ -3018,7 +3018,7 @@
             },
             {
               "q": "Come si integra la pressa in un'officina sale automatizzata?",
-              "a": "Può essere collegata ad attrezzature di movimentazione e a [stazioni di misura](page:wheel-measuring-station) nell'ambito dell'[automazione dell'officina sale](page:wheel-shop-automation)."
+              "a": "Può essere collegata ad attrezzature di movimentazione e a [stazioni di misura](page:wheel-measuring-station) nell'ambito dell'[automazione dell'officina sale](page:ts-wheel-shops#automation)."
             }
           ]
         }
@@ -3047,7 +3047,7 @@
           "paragraphs": [
             "Questa sala montata va riprofilata, dotata di ruote nuove o rottamata? La nuova sala montata rientra nelle tolleranze prima di lasciare l'officina? Le risposte dipendono dalle misure – e i calibri manuali sono lenti, dipendono dall'operatore e sono difficili da documentare.",
             "Una stazione di misura ruote rileva la geometria principale di ruote e sale montate in un ciclo ripetibile: diametri di rotolamento, altezza e spessore del bordino, scartamento interno e ulteriori parametri specificati dal gestore. I risultati vengono memorizzati e confrontati con i Suoi limiti.",
-            "Posizionata prima di un tornio per sale montate, la stazione aiuta a pianificare l'asportazione; posizionata dopo la lavorazione o la pressatura, ne conferma il risultato. In un'[officina sale automatizzata](page:wheel-shop-automation) diventa il punto di rilevamento dati che indica a ogni sala montata dove proseguire."
+            "Posizionata prima di un tornio per sale montate, la stazione aiuta a pianificare l'asportazione; posizionata dopo la lavorazione o la pressatura, ne conferma il risultato. In un'[officina sale automatizzata](page:ts-wheel-shops#automation) diventa il punto di rilevamento dati che indica a ogni sala montata dove proseguire."
           ],
           "image": "products/wheel-measuring-station",
           "image_alt": "Illustrazione esemplificativa di una sala montata su una stazione di misura ruote automatica",
@@ -3206,7 +3206,7 @@
             {
               "icon": "diagram-3",
               "title": "Linee automatizzate",
-              "text": "Il punto decisionale in un sistema di [automazione dell'officina sale](page:wheel-shop-automation)."
+              "text": "Il punto decisionale in un sistema di [automazione dell'officina sale](page:ts-wheel-shops#automation)."
             }
           ]
         },
@@ -3217,7 +3217,7 @@
           "heading": "Misure di cui fidarsi",
           "paragraphs": [
             "Una stazione di misura vale quanto la sua taratura. HYT esegue la messa in servizio della stazione rispetto a campioni di riferimento, forma i Suoi addetti al controllo e include la verifica periodica nei [contratti di manutenzione](page:annual-maintenance-contract).",
-            "Per i nuovi impianti pianifichiamo la stazione come parte dell'intero flusso di materiali e dati – veda [Automazione dell'officina sale](page:wheel-shop-automation)."
+            "Per i nuovi impianti pianifichiamo la stazione come parte dell'intero flusso di materiali e dati – veda [Officine sale montate](page:ts-wheel-shops)."
           ],
           "image": "company/quality-inspection",
           "image_alt": "Illustrazione esemplificativa di un addetto al controllo che esamina i risultati di misura di una sala montata",
@@ -3269,7 +3269,7 @@
             },
             {
               "q": "La stazione fa parte dell'automazione dell'officina sale HYT?",
-              "a": "Può essere fornita singolarmente o come parte di una soluzione completa di [automazione dell'officina sale](page:wheel-shop-automation)."
+              "a": "Può essere fornita singolarmente o come parte di una soluzione completa di [automazione dell'officina sale](page:ts-wheel-shops#automation)."
             }
           ]
         }

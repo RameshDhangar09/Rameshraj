@@ -2,26 +2,55 @@
   "pages": {
     "ts-wheel-shops": {
       "nav": "Officine sale montate",
-      "title": "Officine sale montate chiavi in mano per la revisione",
-      "description": "Officine sale montate chiavi in mano per flotte in esercizio: scalettamento, ispezione, lavorazione ruote e assi, calettamento, misura ed equilibratura.",
+      "title": "Officine sale montate chiavi in mano e automazione",
+      "description": "Officine sale montate chiavi in mano HYT: misura, riprofilatura, alesatura, lavorazione assi, calettamento ed equilibratura in un flusso connesso e tracciabile.",
       "eyebrow": "Soluzioni chiavi in mano",
-      "h1": "Officine sale montate chiavi in mano per la revisione",
-      "lede": "È l'officina sale montate a decidere quanto rapidamente le sale usurate tornano in esercizio. HYT progetta e allestisce l'intero flusso di revisione – dallo scalettamento al rimontaggio – come un unico progetto coordinato.",
-      "summary": "Officine complete per la revisione delle sale montate in esercizio: scalettamento, ispezione, lavorazione, calettamento, misura, equilibratura e rimontaggio.",
+      "h1": "Officine sale montate chiavi in mano – dalla sala usurata al rilascio certificato",
+      "lede": "È l'officina sale montate a decidere quanto rapidamente le sale usurate tornano in esercizio. HYT progetta, allestisce e interconnette l'intero flusso di revisione – misura, lavorazione, calettamento ed equilibratura – in un unico processo coordinato e tracciabile.",
+      "summary": "Officine complete per la revisione delle sale montate – scalettamento, ispezione, lavorazione, calettamento, misura ed equilibratura – con movimentazione automatica e flusso dati dove conviene.",
+      "hero_actions": [
+        {
+          "label": "Parli con noi della Sua officina",
+          "page": "contact-us",
+          "icon": "chat-dots"
+        },
+        {
+          "label": "Scopra il processo",
+          "page": "ts-wheel-shops",
+          "anchor": "process"
+        }
+      ],
       "blocks": [
         {
-          "type": "text",
+          "type": "pillars",
           "id": "overview",
           "eyebrow": "L'impianto",
           "heading": "Dove le sale montate usurate tornano efficienti",
           "paragraphs": [
             "In un'officina ferroviaria o in un'officina di revisione periodica (POH), l'officina sale montate riceve sale che hanno raggiunto i limiti di usura, hanno subito danni o sono in scadenza per la revisione programmata. Ad alcune basta un nuovo profilo; altre richiedono ruote nuove, fuselli ripristinati o un nuovo calettamento.",
-            "Raramente il problema è una singola macchina. La difficoltà sta nel flusso: sale montate in coda alla pressa mentre il tornio è fermo, misure digitate due volte, gru condivise tra troppe postazioni. Ogni ritardo nell'officina sale montate tiene fuori servizio un veicolo altrove.",
-            "Con un unico partner chiavi in mano, postazioni, movimentazione e fondazioni vengono progettate in funzione del Suo mix di sale montate e del Suo ciclo di revisione. HYT costruisce in proprio le macchine principali: processo e attrezzature vengono così progettati insieme e un'unica organizzazione risponde del risultato."
+            "Raramente il problema è una singola macchina. La difficoltà sta nel flusso: sale montate in coda alla pressa mentre il tornio è fermo, misure digitate due volte, gru condivise tra troppe postazioni. HYT progetta l'officina in funzione del Suo mix di sale montate e del Suo ciclo di revisione e costruisce in proprio le macchine principali – processo e attrezzature vengono così progettati insieme e un'unica organizzazione risponde del risultato."
           ],
           "image": "products/portal-wheel-lathe",
           "image_alt": "Illustrazione esemplificativa di un tornio a portale che riprofila una sala montata smontata in un'officina sale montate ferroviaria",
-          "layout": "image-right"
+          "badge_value": "1977",
+          "badge_label": "costruiamo macchine utensili ferroviarie dal",
+          "items": [
+            {
+              "icon": "arrow-repeat",
+              "title": "Riprofilatura",
+              "text": "Le sale montate con ruote ancora idonee ricevono un nuovo profilo con la minima asportazione di materiale, così le ruote durano più cicli."
+            },
+            {
+              "icon": "arrow-left-right",
+              "title": "Sostituzione delle ruote",
+              "text": "Le ruote da scartare vengono scalettate, quelle di ricambio alesate in funzione della sede sull'asse e calettate registrando la curva di forza."
+            },
+            {
+              "icon": "patch-check",
+              "title": "Ripristino e rilascio",
+              "text": "I fuselli vengono ripristinati, le sale montate equilibrate ove previsto, e ognuna lascia l'officina con la documentazione completa degli interventi eseguiti."
+            }
+          ]
         },
         {
           "type": "features",
@@ -63,6 +92,87 @@
           ]
         },
         {
+          "type": "facilities",
+          "id": "stations",
+          "eyebrow": "Dentro l'officina sale montate",
+          "heading": "Le postazioni di un'officina sale montate HYT",
+          "intro": "Ogni postazione è una macchina HYT progettata per lavorare insieme alla successiva. Selezioni una postazione per scoprirne il ruolo nel flusso.",
+          "items": [
+            {
+              "icon": "rulers",
+              "title": "Misura e ispezione",
+              "image": "products/wheel-measuring-station",
+              "image_alt": "Illustrazione esemplificativa di una stazione di misura ruote che rileva la geometria di una sala montata",
+              "text": "Ogni sala montata viene misurata all'arrivo e di nuovo prima del rilascio. La [stazione di misura ruote](page:wheel-measuring-station) rileva profilo, diametri e scartamento interno – i dati che decidono tra riprofilatura e sostituzione delle ruote.",
+              "bullets": [
+                "Punto decisionale per il percorso di ogni sala montata",
+                "Risultati registrati in base all'identificativo della sala montata",
+                "Controllo finale prima del rientro in servizio"
+              ]
+            },
+            {
+              "icon": "bullseye",
+              "title": "Riprofilatura delle ruote",
+              "image": "products/surface-wheel-lathe",
+              "image_alt": "Illustrazione esemplificativa di un tornio CNC a pavimento che riprofila una sala montata smontata",
+              "text": "Le sale montate recuperate ricevono un nuovo profilo di rotolamento e del bordino su un [tornio CNC a pavimento](page:surface-wheel-lathe) o su un [tornio a portale](page:portal-wheel-lathe), scelto in base ai Suoi tipi di sale montate e ai difetti tipici.",
+              "bullets": [
+                "Programmi di profilo per la Sua flotta",
+                "Misura prima del taglio per limitare l'asportazione di materiale",
+                "Versioni a pavimento o a portale"
+              ]
+            },
+            {
+              "icon": "circle",
+              "title": "Alesatura delle ruote",
+              "image": "products/vertical-turning-boring-machine",
+              "image_alt": "Illustrazione esemplificativa di un tornio verticale CNC per tornitura e alesatura che lavora una ruota ferroviaria",
+              "text": "Le ruote di ricambio vengono tornite e il loro foro viene alesato in funzione della sede sull'asse su un [tornio verticale CNC per tornitura e alesatura](page:vertical-turning-boring-machine).",
+              "bullets": [
+                "Foro dimensionato sulla sede dell'asse misurata",
+                "Lavorazione di vela, cerchione e mozzo",
+                "Adatto sia alle nuove costruzioni sia alla revisione"
+              ]
+            },
+            {
+              "icon": "distribute-horizontal",
+              "title": "Lavorazione di assi e fuselli",
+              "image": "products/axle-journal-turning-burnishing-lathe",
+              "image_alt": "Illustrazione esemplificativa di un tornio per tornitura e rullatura dei fuselli",
+              "text": "Gli assi vengono ripristinati su un [tornio per tornitura e rullatura dei fuselli](page:axle-journal-turning-burnishing-lathe); gli assi nuovi vengono lavorati su un [tornio per assi](page:axle-turning-lathe).",
+              "bullets": [
+                "Fuselli torniti e rullati per sedi dei cuscinetti durature",
+                "Sedi delle ruote preparate per il calettamento",
+                "Assi tracciabili lungo tutta l'officina"
+              ]
+            },
+            {
+              "icon": "arrows-collapse",
+              "title": "Calettamento",
+              "image": "products/wheel-press",
+              "image_alt": "Illustrazione esemplificativa di una pressa idraulica per ruote che caletta una ruota sull'asse",
+              "text": "Una [pressa per ruote](page:wheel-presses) rimuove le ruote da scartare e caletta quelle nuove, registrando la curva di forza di calettamento per ogni ruota.",
+              "bullets": [
+                "Scalettamento e calettamento su un'unica macchina",
+                "Curva di forza registrata per ogni calettamento",
+                "Dati collegati alla documentazione della sala montata"
+              ]
+            },
+            {
+              "icon": "speedometer2",
+              "title": "Equilibratura e rilascio",
+              "image": "products/dynamic-wheel-balancing-machine",
+              "image_alt": "Illustrazione esemplificativa di un'equilibratrice dinamica per ruote",
+              "text": "Ove previsto, un'[equilibratrice dinamica per ruote](page:dynamic-wheel-balancing-machine) verifica e corregge lo squilibrio prima che cuscinetti e boccole vengano rimontati e la sala montata venga rilasciata.",
+              "bullets": [
+                "Squilibrio misurato e corretto",
+                "Ispezione finale registrata",
+                "La documentazione completa accompagna la sala montata"
+              ]
+            }
+          ]
+        },
+        {
           "type": "steps",
           "id": "process",
           "eyebrow": "Flusso di processo",
@@ -96,18 +206,159 @@
           ]
         },
         {
+          "type": "notice",
+          "variant": "review",
+          "text": "HYT deve confermare l'ambito di automazione offerto (apparecchiature di movimentazione, software e integrazione dati) ed eventuali installazioni di riferimento che possono essere citate in questa pagina."
+        },
+        {
+          "type": "text",
+          "id": "automation",
+          "eyebrow": "Automazione dell'officina sale montate",
+          "heading": "Da macchine separate a un unico processo connesso",
+          "paragraphs": [
+            "In molte officine sale montate ogni macchina funziona bene da sola, ma il processo tra una macchina e l'altra no. Le sale montate pesanti vengono spostate con il carroponte e a mano, le misure vengono annotate e poi reinserite, e l'accoppiamento tra foro della ruota e sede di calettamento dell'asse dipende da una scrupolosa gestione documentale. Ogni passaggio manuale costa tempo e aumenta il rischio di errore su un componente critico per la sicurezza.",
+            "L'automazione collega misura, lavorazione, calettamento ed equilibratura, in modo che le sale montate si spostino in sicurezza tra le postazioni, i dati passino direttamente da una macchina alla successiva e ogni ruota e ogni asse siano tracciabili dal ricevimento al rilascio. Può essere introdotta per fasi – prima si collegano le macchine e i loro dati, poi si aggiunge la movimentazione man mano che la produzione cresce – senza che l'officina smetta di produrre."
+          ],
+          "image": "projects/wheel-shop-automation-line",
+          "image_alt": "Illustrazione esemplificativa di una linea automatizzata per sale montate con sale che si spostano tra le macchine",
+          "layout": "image-left"
+        },
+        {
+          "type": "features",
+          "id": "building-blocks",
+          "eyebrow": "Elementi costitutivi",
+          "heading": "Quattro elementi di un'officina sale montate automatizzata",
+          "cols": 4,
+          "items": [
+            {
+              "icon": "arrows-move",
+              "title": "Movimentazione automatica",
+              "text": "Sale montate e componenti trasferiti tra le postazioni con meno interventi del carroponte e meno sollevamenti manuali."
+            },
+            {
+              "icon": "rulers",
+              "title": "Misura integrata",
+              "text": "Ruote, assi e sale montate misurati in punti definiti, con memorizzazione automatica dei risultati."
+            },
+            {
+              "icon": "diagram-3",
+              "title": "Flusso dati tra le macchine",
+              "text": "Valori misurati trasmessi direttamente alla macchina successiva – ad esempio i dati di foro e sede utilizzati per il calettamento."
+            },
+            {
+              "icon": "upc-scan",
+              "title": "Tracciabilità",
+              "text": "Ogni componente identificato, con i relativi dati di misura, lavorazione e calettamento conservati insieme."
+            }
+          ]
+        },
+        {
+          "type": "projects",
+          "id": "solution",
+          "heading": "La soluzione in sintesi",
+          "items": [
+            {
+              "id": "turnkey-wheel-shop",
+              "title": "Officina ruote e assi chiavi in mano",
+              "client": "Esercenti ferroviari e metropolitani, officine di revisione, costruttori di materiale rotabile",
+              "location": "Configurata per ogni sito",
+              "status_key": "solution",
+              "image": "projects/wheel-shop-automation-line",
+              "image_alt": "Illustrazione esemplificativa di un'officina ruote e assi connessa con movimentazione automatica",
+              "scope": [
+                "Ingegneria di processo e layout per la produttività richiesta",
+                "Fondazioni e interfaccia con le opere civili",
+                "Macchine di misura, lavorazione, calettamento ed equilibratura",
+                "Movimentazione di sale montate e componenti tra le postazioni",
+                "Scambio dati tra le macchine e tracciabilità dei componenti",
+                "Installazione, messa in servizio e formazione del personale"
+              ],
+              "text": "Ogni officina sale montate viene configurata in base alla flotta, ai volumi e all'edificio. I progetti possono essere realizzati in un'unica soluzione o per fasi, compreso l'ammodernamento di un'officina che deve continuare a lavorare.",
+              "products": [
+                "wheel-measuring-station",
+                "surface-wheel-lathe",
+                "portal-wheel-lathe",
+                "vertical-turning-boring-machine",
+                "axle-journal-turning-burnishing-lathe",
+                "axle-turning-lathe",
+                "wheel-presses",
+                "dynamic-wheel-balancing-machine"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "chips",
+          "id": "fleets",
+          "eyebrow": "Le sale montate per cui progettiamo",
+          "heading": "Su misura per la Sua flotta",
+          "intro": "Dimensioni delle postazioni, programmi di profilo e movimentazione sono adeguati alle sale montate revisionate nella Sua officina.",
+          "items": [
+            {
+              "icon": "train-front",
+              "title": "Locomotive"
+            },
+            {
+              "icon": "train-front-fill",
+              "title": "Carrozze passeggeri"
+            },
+            {
+              "icon": "train-lightrail-front",
+              "title": "Elettrotreni e automotrici"
+            },
+            {
+              "icon": "buildings",
+              "title": "Vetture metropolitane e per il trasporto rapido"
+            },
+            {
+              "icon": "box-seam",
+              "title": "Carri merci"
+            },
+            {
+              "icon": "gear-wide-connected",
+              "title": "Sale montate di nuova costruzione"
+            }
+          ]
+        },
+        {
           "type": "cards",
           "id": "equipment",
           "eyebrow": "Macchine HYT",
           "heading": "Le attrezzature principali dell'officina sale montate",
-          "cols": 3,
+          "cols": 4,
           "items": [
-            {"page": "surface-wheel-lathe", "image": "products/surface-wheel-lathe"},
-            {"page": "portal-wheel-lathe", "image": "products/portal-wheel-lathe"},
-            {"page": "vertical-turning-boring-machine", "image": "products/vertical-turning-boring-machine"},
-            {"page": "axle-journal-turning-burnishing-lathe", "image": "products/axle-journal-turning-burnishing-lathe"},
-            {"page": "wheel-presses", "image": "products/wheel-press"},
-            {"page": "wheel-measuring-station", "image": "products/wheel-measuring-station"}
+            {
+              "page": "surface-wheel-lathe",
+              "image": "products/surface-wheel-lathe"
+            },
+            {
+              "page": "portal-wheel-lathe",
+              "image": "products/portal-wheel-lathe"
+            },
+            {
+              "page": "vertical-turning-boring-machine",
+              "image": "products/vertical-turning-boring-machine"
+            },
+            {
+              "page": "axle-journal-turning-burnishing-lathe",
+              "image": "products/axle-journal-turning-burnishing-lathe"
+            },
+            {
+              "page": "wheel-presses",
+              "image": "products/wheel-press"
+            },
+            {
+              "page": "wheel-measuring-station",
+              "image": "products/wheel-measuring-station"
+            },
+            {
+              "page": "axle-turning-lathe",
+              "image": "products/axle-turning-lathe"
+            },
+            {
+              "page": "dynamic-wheel-balancing-machine",
+              "image": "products/dynamic-wheel-balancing-machine"
+            }
           ]
         },
         {
@@ -137,7 +388,8 @@
               "title": "Formazione e supporto",
               "text": "Il personale viene formato su macchine e processo con il nostro programma di [Formazione](page:training); dopo la consegna può seguire un [contratto di manutenzione annuale](page:annual-maintenance-contract)."
             }
-          ]
+          ],
+          "variant": "navy"
         },
         {
           "type": "text",
@@ -151,6 +403,7 @@
             "Tempi più brevi tra l'arrivo di una sala montata e il suo rilascio",
             "Asportazione minima di materiale, perché le ruote reggano più cicli di riprofilatura prima della sostituzione",
             "Calettamenti e misure documentati per ogni sala montata revisionata",
+            "Una documentazione completa e tracciabile per ogni ruota e ogni asse",
             "Meno lavoro di gru e meno movimentazione manuale di componenti pesanti",
             "Un unico partner responsabile di macchine, layout e prestazioni"
           ]
@@ -175,6 +428,14 @@
             {
               "q": "Possiamo mantenere macchine esistenti di altri costruttori?",
               "a": "Sì, se sono in buono stato. Le integriamo nel layout e ne definiamo le interfacce, così l'officina funziona come un unico processo."
+            },
+            {
+              "q": "È possibile automatizzare un'officina sale montate esistente?",
+              "a": "Sì. L'automazione viene di norma introdotta per fasi: prima si collegano le macchine e i loro dati, poi si aggiunge la movimentazione man mano che la produzione cresce. Ogni fase è pianificata in modo che l'officina continui a produrre."
+            },
+            {
+              "q": "Come vengono conservati i dati delle sale montate?",
+              "a": "I risultati di misura, lavorazione, calettamento ed equilibratura vengono registrati in base all'identificativo di ogni sala montata. Il formato dei dati e il trasferimento ai Suoi sistemi vengono concordati con i Suoi team qualità e IT durante l'ingegneria."
             }
           ]
         },
@@ -182,8 +443,14 @@
           "type": "cta",
           "heading": "Sta pianificando una nuova officina sale montate o il suo ammodernamento?",
           "text": "Ci invii i Suoi volumi di revisione, i tipi di sale montate e i disegni dell'edificio. I nostri ingegneri di progetto Le proporranno un layout e un percorso di realizzazione.",
-          "primary": {"label": "Discuta il Suo progetto", "page": "contact-us"},
-          "secondary": {"label": "Progetti chiavi in mano (EPC)", "page": "turnkey-project"}
+          "primary": {
+            "label": "Discuta il Suo progetto",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Progetti chiavi in mano (EPC)",
+            "page": "turnkey-project"
+          }
         }
       ]
     },
@@ -288,12 +555,30 @@
           "heading": "Le attrezzature del deposito",
           "cols": 3,
           "items": [
-            {"page": "underfloor-wheel-lathe", "image": "products/underfloor-wheel-lathe-yul-08"},
-            {"page": "tandem-underfloor-wheel-lathe", "image": "products/tandem-underfloor-wheel-lathe-yul-12t"},
-            {"page": "automated-train-washing-plant", "image": "products/automated-train-washing-plant"},
-            {"page": "rail-cum-road-vehicle-shunter", "image": "products/rail-cum-road-vehicle-shunter"},
-            {"page": "multi-purpose-armature-machine", "image": "products/multi-purpose-armature-machine"},
-            {"page": "vertical-turning-boring-machine", "image": "products/vertical-turning-boring-machine"}
+            {
+              "page": "underfloor-wheel-lathe",
+              "image": "products/underfloor-wheel-lathe-yul-08"
+            },
+            {
+              "page": "tandem-underfloor-wheel-lathe",
+              "image": "products/tandem-underfloor-wheel-lathe-yul-12t"
+            },
+            {
+              "page": "automated-train-washing-plant",
+              "image": "products/automated-train-washing-plant"
+            },
+            {
+              "page": "rail-cum-road-vehicle-shunter",
+              "image": "products/rail-cum-road-vehicle-shunter"
+            },
+            {
+              "page": "multi-purpose-armature-machine",
+              "image": "products/multi-purpose-armature-machine"
+            },
+            {
+              "page": "vertical-turning-boring-machine",
+              "image": "products/vertical-turning-boring-machine"
+            }
           ]
         },
         {
@@ -361,8 +646,14 @@
           "type": "cta",
           "heading": "Sta costruendo o ampliando un deposito?",
           "text": "Ci descriva la Sua flotta, il programma di manutenzione e il piano dei binari. Le proporremo i sistemi del deposito e un piano di realizzazione che non ferma i treni.",
-          "primary": {"label": "Discuta il Suo progetto", "page": "contact-us"},
-          "secondary": {"label": "Progetti realizzati", "page": "executed-projects"}
+          "primary": {
+            "label": "Discuta il Suo progetto",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Progetti realizzati",
+            "page": "executed-projects"
+          }
         }
       ]
     },
@@ -457,12 +748,30 @@
           "heading": "Le attrezzature dell'officina ruote e assi",
           "cols": 3,
           "items": [
-            {"page": "axle-turning-lathe", "image": "products/axle-turning-lathe"},
-            {"page": "vertical-turning-boring-machine", "image": "products/vertical-turning-boring-machine"},
-            {"page": "wheel-presses", "image": "products/wheel-press"},
-            {"page": "wheel-measuring-station", "image": "products/wheel-measuring-station"},
-            {"page": "dynamic-wheel-balancing-machine", "image": "products/dynamic-wheel-balancing-machine"},
-            {"page": "rail-cum-road-vehicle-shunter", "image": "products/rail-cum-road-vehicle-shunter"}
+            {
+              "page": "axle-turning-lathe",
+              "image": "products/axle-turning-lathe"
+            },
+            {
+              "page": "vertical-turning-boring-machine",
+              "image": "products/vertical-turning-boring-machine"
+            },
+            {
+              "page": "wheel-presses",
+              "image": "products/wheel-press"
+            },
+            {
+              "page": "wheel-measuring-station",
+              "image": "products/wheel-measuring-station"
+            },
+            {
+              "page": "dynamic-wheel-balancing-machine",
+              "image": "products/dynamic-wheel-balancing-machine"
+            },
+            {
+              "page": "rail-cum-road-vehicle-shunter",
+              "image": "products/rail-cum-road-vehicle-shunter"
+            }
           ]
         },
         {
@@ -529,7 +838,7 @@
             },
             {
               "q": "Come viene collegata l'officina al nostro sistema qualità?",
-              "a": "I risultati di misura, calettamento ed equilibratura vengono registrati in base all'identificativo di ogni sala montata. Formato dei dati e modalità di trasferimento vengono concordati con i Suoi team qualità e IT durante l'ingegneria. Per movimentazione e dati interconnessi, consulti [Automazione dell'officina sale montate](page:wheel-shop-automation)."
+              "a": "I risultati di misura, calettamento ed equilibratura vengono registrati in base all'identificativo di ogni sala montata. Formato dei dati e modalità di trasferimento vengono concordati con i Suoi team qualità e IT durante l'ingegneria. Per movimentazione e dati interconnessi, consulti l'[automazione dell'officina sale montate](page:ts-wheel-shops#automation)."
             }
           ]
         },
@@ -537,8 +846,14 @@
           "type": "cta",
           "heading": "Sta realizzando un'officina ruote e assi nel Suo stabilimento?",
           "text": "Ci illustri il Suo programma veicoli e il fabbisogno di sale montate. Le delineeremo un'officina in grado di tenere il passo della Sua linea carrelli.",
-          "primary": {"label": "Discuta il Suo progetto", "page": "contact-us"},
-          "secondary": {"label": "Progetti chiavi in mano (EPC)", "page": "turnkey-project"}
+          "primary": {
+            "label": "Discuta il Suo progetto",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Progetti chiavi in mano (EPC)",
+            "page": "turnkey-project"
+          }
         }
       ]
     },
@@ -648,12 +963,30 @@
           "heading": "Le attrezzature dell'impianto",
           "cols": 3,
           "items": [
-            {"page": "axle-turning-lathe", "image": "products/axle-turning-lathe"},
-            {"page": "vertical-turning-boring-machine", "image": "products/vertical-turning-boring-machine"},
-            {"page": "wheel-presses", "image": "products/wheel-press"},
-            {"page": "wheel-measuring-station", "image": "products/wheel-measuring-station"},
-            {"page": "dynamic-wheel-balancing-machine", "image": "products/dynamic-wheel-balancing-machine"},
-            {"page": "surface-wheel-lathe", "image": "products/surface-wheel-lathe"}
+            {
+              "page": "axle-turning-lathe",
+              "image": "products/axle-turning-lathe"
+            },
+            {
+              "page": "vertical-turning-boring-machine",
+              "image": "products/vertical-turning-boring-machine"
+            },
+            {
+              "page": "wheel-presses",
+              "image": "products/wheel-press"
+            },
+            {
+              "page": "wheel-measuring-station",
+              "image": "products/wheel-measuring-station"
+            },
+            {
+              "page": "dynamic-wheel-balancing-machine",
+              "image": "products/dynamic-wheel-balancing-machine"
+            },
+            {
+              "page": "surface-wheel-lathe",
+              "image": "products/surface-wheel-lathe"
+            }
           ]
         },
         {
@@ -736,8 +1069,14 @@
           "type": "cta",
           "heading": "Sta pianificando un impianto per sale montate?",
           "text": "Ci invii la Sua gamma di prodotti e gli obiettivi di produzione. Le delineeremo l'impianto, le sue macchine principali e il percorso verso la produzione di serie.",
-          "primary": {"label": "Discuta il Suo progetto", "page": "contact-us"},
-          "secondary": {"label": "Progetti chiavi in mano (EPC)", "page": "turnkey-project"}
+          "primary": {
+            "label": "Discuta il Suo progetto",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Progetti chiavi in mano (EPC)",
+            "page": "turnkey-project"
+          }
         }
       ]
     },
@@ -832,9 +1171,18 @@
           "heading": "Le attrezzature della linea",
           "cols": 3,
           "items": [
-            {"page": "vertical-turning-boring-machine", "image": "products/vertical-turning-boring-machine"},
-            {"page": "wheel-measuring-station", "image": "products/wheel-measuring-station"},
-            {"page": "dynamic-wheel-balancing-machine", "image": "products/dynamic-wheel-balancing-machine"}
+            {
+              "page": "vertical-turning-boring-machine",
+              "image": "products/vertical-turning-boring-machine"
+            },
+            {
+              "page": "wheel-measuring-station",
+              "image": "products/wheel-measuring-station"
+            },
+            {
+              "page": "dynamic-wheel-balancing-machine",
+              "image": "products/dynamic-wheel-balancing-machine"
+            }
           ]
         },
         {
@@ -848,7 +1196,7 @@
             "**Layout della linea e fondazioni:** posizioni delle macchine, ingombri di movimentazione e fondazioni vengono concordati e consegnati per le opere civili.",
             "**Utensili e programmi pezzo:** strategie di taglio e programmi CNC vengono preparati e collaudati sulle Sue ruote durante l'[installazione e messa in servizio](page:installation-commissioning).",
             "**Formazione degli operatori:** attrezzisti e operatori vengono formati sulle macchine e sulle procedure di linea con il nostro programma di [Formazione](page:training).",
-            "**Supporto e sviluppo:** [Ricambi e supporto](page:spare-supply) e un [contratto di manutenzione annuale](page:annual-maintenance-contract) mantengono produttiva la linea; con l'[automazione dell'officina sale montate](page:wheel-shop-automation) è possibile interconnetterla ulteriormente in seguito."
+            "**Supporto e sviluppo:** [Ricambi e supporto](page:spare-supply) e un [contratto di manutenzione annuale](page:annual-maintenance-contract) mantengono produttiva la linea; con l'[automazione dell'officina sale montate](page:ts-wheel-shops#automation) è possibile interconnetterla ulteriormente in seguito."
           ]
         },
         {
@@ -894,8 +1242,14 @@
           "type": "cta",
           "heading": "Sta pianificando una linea di lavorazione ruote?",
           "text": "Ci invii i disegni delle Sue ruote e i volumi annui. Le proporremo un concept di linea, un layout delle postazioni e una stima dei tempi ciclo.",
-          "primary": {"label": "Discuta il Suo progetto", "page": "contact-us"},
-          "secondary": {"label": "Progetti realizzati", "page": "executed-projects"}
+          "primary": {
+            "label": "Discuta il Suo progetto",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Progetti realizzati",
+            "page": "executed-projects"
+          }
         }
       ]
     },
@@ -1006,9 +1360,18 @@
           "heading": "Le attrezzature della linea",
           "cols": 3,
           "items": [
-            {"page": "axle-turning-lathe", "image": "products/axle-turning-lathe"},
-            {"page": "axle-journal-turning-burnishing-lathe", "image": "products/axle-journal-turning-burnishing-lathe"},
-            {"page": "wheel-presses", "image": "products/wheel-press"}
+            {
+              "page": "axle-turning-lathe",
+              "image": "products/axle-turning-lathe"
+            },
+            {
+              "page": "axle-journal-turning-burnishing-lathe",
+              "image": "products/axle-journal-turning-burnishing-lathe"
+            },
+            {
+              "page": "wheel-presses",
+              "image": "products/wheel-press"
+            }
           ]
         },
         {
@@ -1087,8 +1450,14 @@
           "type": "cta",
           "heading": "Sta pianificando una linea assi?",
           "text": "Ci invii i disegni dei Suoi assi e il mix tra nuova produzione e revisione. Le proporremo le macchine e un layout per la linea.",
-          "primary": {"label": "Discuta il Suo progetto", "page": "contact-us"},
-          "secondary": {"label": "Progetti chiavi in mano (EPC)", "page": "turnkey-project"}
+          "primary": {
+            "label": "Discuta il Suo progetto",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Progetti chiavi in mano (EPC)",
+            "page": "turnkey-project"
+          }
         }
       ]
     }

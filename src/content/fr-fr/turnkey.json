@@ -2,26 +2,55 @@
   "pages": {
     "ts-wheel-shops": {
       "nav": "Ateliers d’essieux",
-      "title": "Ateliers d’essieux clés en main pour la révision ferroviaire",
-      "description": "Ateliers d’essieux clés en main pour flottes en service : décalage, contrôle, usinage roues et essieux, calage, mesure et équilibrage, conçus et livrés par HYT.",
+      "title": "Ateliers d’essieux clés en main et leur automatisation",
+      "description": "Ateliers d’essieux clés en main par HYT : mesure, reprofilage, alésage, usinage des essieux, calage et équilibrage reliés en un flux automatisé et traçable.",
       "eyebrow": "Solutions clés en main",
-      "h1": "Ateliers d’essieux clés en main pour la révision des essieux montés",
-      "lede": "C’est l’atelier d’essieux qui décide de la vitesse à laquelle les essieux montés usés reprennent du service. HYT conçoit et équipe l’ensemble du flux de révision – du décalage au remontage – dans un seul projet coordonné.",
-      "summary": "Ateliers de révision complets pour essieux montés en service : décalage, contrôle, usinage, calage, mesure, équilibrage et remontage.",
+      "h1": "Ateliers d’essieux clés en main – de l’essieu monté usé à la remise en service certifiée",
+      "lede": "C’est l’atelier d’essieux qui décide de la vitesse à laquelle les essieux montés usés reprennent du service. HYT conçoit, équipe et interconnecte l’ensemble du flux de révision – mesure, usinage, calage et équilibrage – en un seul processus coordonné et traçable.",
+      "summary": "Ateliers de révision complets pour essieux montés – décalage, contrôle, usinage, calage, mesure et équilibrage – avec manutention automatisée et flux de données là où ils sont rentables.",
+      "hero_actions": [
+        {
+          "label": "Parlons de votre atelier d’essieux",
+          "page": "contact-us",
+          "icon": "chat-dots"
+        },
+        {
+          "label": "Voir le déroulement",
+          "page": "ts-wheel-shops",
+          "anchor": "process"
+        }
+      ],
       "blocks": [
         {
-          "type": "text",
+          "type": "pillars",
           "id": "overview",
           "eyebrow": "L’installation",
           "heading": "Là où les essieux montés usés redeviennent aptes au service",
           "paragraphs": [
             "Dans un atelier ferroviaire ou un atelier de révision périodique (POH), l’atelier d’essieux reçoit les essieux montés qui ont atteint leurs limites d’usure, qui ont subi un dommage ou dont la révision programmée arrive à échéance. Certains n’ont besoin que d’un nouveau profil ; d’autres exigent des roues neuves, des fusées remises en état ou un nouveau calage.",
-            "Les exploitants butent rarement sur une machine isolée. La difficulté réside dans le flux : des essieux montés qui attendent devant la presse pendant que le tour reste à l’arrêt, des mesures saisies deux fois, des ponts roulants partagés entre trop de postes. Chaque retard à l’atelier d’essieux immobilise un véhicule ailleurs.",
-            "Avec un partenaire clés en main unique, les postes, la manutention et les fondations sont conçus en fonction de vos types d’essieux montés et de votre cycle de révision. HYT construit elle-même les machines principales : procédé et équipements sont ainsi étudiés ensemble, et un seul interlocuteur répond du résultat."
+            "Les exploitants butent rarement sur une machine isolée. La difficulté réside dans le flux : des essieux montés qui attendent devant la presse pendant que le tour reste à l’arrêt, des mesures saisies deux fois, des ponts roulants partagés entre trop de postes. HYT conçoit l’atelier en fonction de vos types d’essieux montés et de votre cycle de révision, et construit elle-même les machines principales – procédé et équipements sont ainsi étudiés ensemble, et un seul interlocuteur répond du résultat."
           ],
           "image": "products/portal-wheel-lathe",
           "image_alt": "Illustration d’exemple d’un tour à roues à portique reprofilant un essieu monté déposé dans un atelier d’essieux ferroviaire",
-          "layout": "image-right"
+          "badge_value": "1977",
+          "badge_label": "nous construisons des machines-outils ferroviaires depuis",
+          "items": [
+            {
+              "icon": "arrow-repeat",
+              "title": "Reprofilage",
+              "text": "Les essieux montés dont les roues sont encore aptes reçoivent un nouveau profil avec un enlèvement de matière minimal : les roues tiennent ainsi davantage de cycles."
+            },
+            {
+              "icon": "arrow-left-right",
+              "title": "Remplacement des roues",
+              "text": "Les roues réformées sont décalées, les roues de remplacement alésées en fonction de la portée de calage puis calées avec enregistrement de la courbe d’effort."
+            },
+            {
+              "icon": "patch-check",
+              "title": "Remise en état et remise en service",
+              "text": "Les fusées sont remises en état, les essieux montés équilibrés si le cahier des charges l’exige, et chacun repart avec l’historique complet des opérations réalisées."
+            }
+          ]
         },
         {
           "type": "features",
@@ -63,6 +92,87 @@
           ]
         },
         {
+          "type": "facilities",
+          "id": "stations",
+          "eyebrow": "Au cœur de l’atelier d’essieux",
+          "heading": "Les postes d’un atelier d’essieux HYT",
+          "intro": "Chaque poste est une machine HYT conçue pour fonctionner avec la suivante. Sélectionnez un poste pour découvrir son rôle dans le flux.",
+          "items": [
+            {
+              "icon": "rulers",
+              "title": "Mesure et contrôle",
+              "image": "products/wheel-measuring-station",
+              "image_alt": "Illustration d’exemple d’une station de mesure des roues relevant la géométrie d’un essieu monté",
+              "text": "Chaque essieu monté est mesuré à son arrivée, puis de nouveau avant sa remise en service. La [station de mesure des roues](page:wheel-measuring-station) relève le profil, les diamètres et la cote entre faces internes – les données qui déterminent s’il faut reprofiler ou remplacer les roues.",
+              "bullets": [
+                "Point de décision pour le parcours de chaque essieu monté",
+                "Résultats enregistrés sous l’identifiant de l’essieu monté",
+                "Contrôle final avant la remise en service"
+              ]
+            },
+            {
+              "icon": "bullseye",
+              "title": "Reprofilage des roues",
+              "image": "products/surface-wheel-lathe",
+              "image_alt": "Illustration d’exemple d’un tour à roues sur sol CNC reprofilant un essieu monté déposé",
+              "text": "Les essieux montés conservés reçoivent un nouveau profil de table de roulement et de boudin sur un [tour à roues sur sol CNC](page:surface-wheel-lathe) ou un [tour à roues à portique](page:portal-wheel-lathe), choisi en fonction de vos types d’essieux montés et des défauts habituels.",
+              "bullets": [
+                "Programmes de profils adaptés à votre flotte",
+                "Mesure avant la passe pour limiter l’enlèvement de matière",
+                "Versions sur sol ou à portique"
+              ]
+            },
+            {
+              "icon": "circle",
+              "title": "Alésage des roues",
+              "image": "products/vertical-turning-boring-machine",
+              "image_alt": "Illustration d’exemple d’un tour vertical CNC de tournage et d’alésage usinant une roue ferroviaire",
+              "text": "Les roues de remplacement sont tournées et leur alésage est usiné en fonction de la portée de calage de l’essieu sur un [tour vertical CNC de tournage et d’alésage](page:vertical-turning-boring-machine).",
+              "bullets": [
+                "Alésage dimensionné d’après la portée de calage mesurée",
+                "Usinage de la toile, du bandage et du moyeu",
+                "Adapté à la construction neuve comme à la révision"
+              ]
+            },
+            {
+              "icon": "distribute-horizontal",
+              "title": "Usinage des essieux et des fusées",
+              "image": "products/axle-journal-turning-burnishing-lathe",
+              "image_alt": "Illustration d’exemple d’un tour de tournage et galetage de fusées d’essieu",
+              "text": "Les essieux sont remis en état sur un [tour de tournage et galetage de fusées d’essieu](page:axle-journal-turning-burnishing-lathe) ; les essieux neufs sont usinés sur un [tour à essieux](page:axle-turning-lathe).",
+              "bullets": [
+                "Fusées tournées et galetées pour des portées de roulement durables",
+                "Portées de calage préparées pour le calage",
+                "Essieux traçables tout au long de l’atelier"
+              ]
+            },
+            {
+              "icon": "arrows-collapse",
+              "title": "Calage",
+              "image": "products/wheel-press",
+              "image_alt": "Illustration d’exemple d’une presse hydraulique à caler les roues montant une roue sur un essieu",
+              "text": "Une [presse à caler les roues](page:wheel-presses) retire les roues réformées et monte les roues neuves, avec enregistrement de la courbe d’effort de calage pour chaque roue.",
+              "bullets": [
+                "Décalage et calage sur une seule machine",
+                "Courbe d’effort enregistrée pour chaque calage",
+                "Données associées à l’historique de l’essieu monté"
+              ]
+            },
+            {
+              "icon": "speedometer2",
+              "title": "Équilibrage et remise en service",
+              "image": "products/dynamic-wheel-balancing-machine",
+              "image_alt": "Illustration d’exemple d’une équilibreuse dynamique de roues",
+              "text": "Si le cahier des charges l’exige, une [équilibreuse dynamique de roues](page:dynamic-wheel-balancing-machine) contrôle et corrige le balourd avant le remontage des roulements et des boîtes d’essieu et la remise en service de l’essieu monté.",
+              "bullets": [
+                "Balourd mesuré et corrigé",
+                "Contrôle final enregistré",
+                "L’historique complet accompagne l’essieu monté"
+              ]
+            }
+          ]
+        },
+        {
           "type": "steps",
           "id": "process",
           "eyebrow": "Déroulement",
@@ -96,11 +206,126 @@
           ]
         },
         {
+          "type": "notice",
+          "variant": "review",
+          "text": "À confirmer par HYT : le périmètre d’automatisation proposé (équipements de manutention, logiciels et intégration des données) et les éventuelles installations de référence pouvant être citées sur cette page."
+        },
+        {
+          "type": "text",
+          "id": "automation",
+          "eyebrow": "Automatisation de l’atelier d’essieux",
+          "heading": "De machines isolées à un processus connecté",
+          "paragraphs": [
+            "Dans de nombreux ateliers d’essieux, chaque machine fonctionne bien seule, mais pas le processus qui les relie. Les essieux montés lourds sont déplacés au pont roulant et à la main, les mesures sont notées puis ressaisies, et l’appairage de l’alésage d’une roue avec la portée de calage d’un essieu repose sur une gestion documentaire rigoureuse. Chaque étape manuelle coûte du temps et ajoute un risque d’erreur sur un composant critique pour la sécurité.",
+            "L’automatisation relie mesure, usinage, calage et équilibrage afin que les essieux montés circulent en toute sécurité entre les postes, que les données passent directement d’une machine à la suivante et que chaque roue et chaque essieu soient traçables de la réception à la remise en service. Elle peut être introduite par étapes – connecter d’abord les machines et leurs données, puis ajouter la manutention à mesure que le débit augmente – sans interrompre la production de l’atelier."
+          ],
+          "image": "projects/wheel-shop-automation-line",
+          "image_alt": "Illustration d’exemple d’une ligne automatisée d’atelier d’essieux avec des essieux montés circulant entre les machines",
+          "layout": "image-left"
+        },
+        {
+          "type": "features",
+          "id": "building-blocks",
+          "eyebrow": "Briques fonctionnelles",
+          "heading": "Quatre éléments d’un atelier d’essieux automatisé",
+          "cols": 4,
+          "items": [
+            {
+              "icon": "arrows-move",
+              "title": "Manutention automatisée",
+              "text": "Transfert des essieux montés et des composants entre les postes avec moins d’opérations au pont roulant et de levages manuels."
+            },
+            {
+              "icon": "rulers",
+              "title": "Mesure intégrée",
+              "text": "Roues, essieux et essieux montés mesurés à des points définis, avec enregistrement automatique des résultats."
+            },
+            {
+              "icon": "diagram-3",
+              "title": "Flux de données entre machines",
+              "text": "Valeurs mesurées transmises directement à la machine suivante – par exemple les cotes d’alésage et de portée utilisées pour le calage."
+            },
+            {
+              "icon": "upc-scan",
+              "title": "Traçabilité",
+              "text": "Chaque composant est identifié, et ses relevés de mesure, d’usinage et de calage sont conservés ensemble."
+            }
+          ]
+        },
+        {
+          "type": "projects",
+          "id": "solution",
+          "heading": "La solution en un coup d’œil",
+          "items": [
+            {
+              "id": "turnkey-wheel-shop",
+              "title": "Atelier de roues et d’essieux clés en main",
+              "client": "Exploitants ferroviaires et de métro, ateliers de révision, constructeurs de matériel roulant",
+              "location": "Configuré pour chaque site",
+              "status_key": "solution",
+              "image": "projects/wheel-shop-automation-line",
+              "image_alt": "Illustration d’exemple d’un atelier de roues et d’essieux connecté avec manutention automatisée",
+              "scope": [
+                "Ingénierie des processus et de l’implantation pour le débit requis",
+                "Fondations et interface génie civil",
+                "Machines de mesure, d’usinage, de calage et d’équilibrage",
+                "Manutention des essieux montés et des composants entre les postes",
+                "Échange de données entre machines et traçabilité des composants",
+                "Installation, mise en service et formation du personnel"
+              ],
+              "text": "Chaque atelier d’essieux est configuré en fonction de sa flotte, de ses volumes et de son bâtiment. Les projets peuvent être réalisés en une fois ou par phases, y compris la modernisation d’un atelier qui doit continuer à produire.",
+              "products": [
+                "wheel-measuring-station",
+                "surface-wheel-lathe",
+                "portal-wheel-lathe",
+                "vertical-turning-boring-machine",
+                "axle-journal-turning-burnishing-lathe",
+                "axle-turning-lathe",
+                "wheel-presses",
+                "dynamic-wheel-balancing-machine"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "chips",
+          "id": "fleets",
+          "eyebrow": "Les essieux montés que nous prenons en compte",
+          "heading": "Conçu autour de votre flotte",
+          "intro": "Dimensions des postes, programmes de profils et manutention sont adaptés aux essieux montés que votre atelier révise.",
+          "items": [
+            {
+              "icon": "train-front",
+              "title": "Locomotives"
+            },
+            {
+              "icon": "train-front-fill",
+              "title": "Voitures voyageurs"
+            },
+            {
+              "icon": "train-lightrail-front",
+              "title": "Automotrices électriques et autorails"
+            },
+            {
+              "icon": "buildings",
+              "title": "Voitures de métro et de transport rapide"
+            },
+            {
+              "icon": "box-seam",
+              "title": "Wagons de fret"
+            },
+            {
+              "icon": "gear-wide-connected",
+              "title": "Essieux montés neufs"
+            }
+          ]
+        },
+        {
           "type": "cards",
           "id": "equipment",
           "eyebrow": "Machines HYT",
           "heading": "Les équipements clés de l’atelier d’essieux",
-          "cols": 3,
+          "cols": 4,
           "items": [
             {
               "page": "surface-wheel-lathe",
@@ -125,6 +350,14 @@
             {
               "page": "wheel-measuring-station",
               "image": "products/wheel-measuring-station"
+            },
+            {
+              "page": "axle-turning-lathe",
+              "image": "products/axle-turning-lathe"
+            },
+            {
+              "page": "dynamic-wheel-balancing-machine",
+              "image": "products/dynamic-wheel-balancing-machine"
             }
           ]
         },
@@ -155,7 +388,8 @@
               "title": "Formation et assistance",
               "text": "Les équipes sont formées aux machines et au procédé dans le cadre de notre programme de [formation](page:training) ; un [contrat de maintenance annuel](page:annual-maintenance-contract) peut prendre le relais après la réception."
             }
-          ]
+          ],
+          "variant": "navy"
         },
         {
           "type": "text",
@@ -169,6 +403,7 @@
             "Un délai plus court entre l’arrivée d’un essieu monté et sa remise en service",
             "Un enlèvement de matière minimal : les roues supportent davantage de reprofilages avant d’être remplacées",
             "Des calages et des mesures documentés pour chaque essieu monté révisé",
+            "Un historique complet et traçable pour chaque roue et chaque essieu",
             "Moins de levages au pont roulant et de manutention manuelle de composants lourds",
             "Un seul partenaire responsable des machines, de l’implantation et des performances"
           ]
@@ -193,6 +428,14 @@
             {
               "q": "Peut-on conserver des machines existantes d’autres constructeurs ?",
               "a": "Oui, si elles sont en bon état. Nous les intégrons à l’implantation et définissons leurs interfaces, pour que l’atelier fonctionne comme un seul processus."
+            },
+            {
+              "q": "Peut-on automatiser un atelier d’essieux existant ?",
+              "a": "Oui. L’automatisation est généralement introduite par étapes : on connecte d’abord les machines et leurs données, puis on ajoute la manutention à mesure que le débit augmente. Chaque étape est planifiée pour que l’atelier continue de produire."
+            },
+            {
+              "q": "Comment l’historique des essieux montés est-il conservé ?",
+              "a": "Les résultats de mesure, d’usinage, de calage et d’équilibrage sont enregistrés sous l’identifiant de chaque essieu monté. Le format des données et leur transfert vers vos propres systèmes sont définis avec vos équipes qualité et informatique pendant les études."
             }
           ]
         },
@@ -595,7 +838,7 @@
             },
             {
               "q": "Comment l’atelier est-il relié à notre système qualité ?",
-              "a": "Les résultats de mesure, de calage et d’équilibrage sont enregistrés sous l’identifiant de chaque essieu monté. Le format des données et le mode de transfert sont définis avec vos équipes qualité et informatique pendant les études. Pour une manutention et des données connectées, voir [Automatisation d’atelier d’essieux](page:wheel-shop-automation)."
+              "a": "Les résultats de mesure, de calage et d’équilibrage sont enregistrés sous l’identifiant de chaque essieu monté. Le format des données et le mode de transfert sont définis avec vos équipes qualité et informatique pendant les études. Pour une manutention et des données connectées, voir l’[automatisation d’atelier d’essieux](page:ts-wheel-shops#automation)."
             }
           ]
         },
@@ -953,7 +1196,7 @@
             "**Implantation de la ligne et fondations :** positions des machines, enveloppe de manutention et fondations sont validées et transmises pour le génie civil.",
             "**Outillage et programmes pièces :** stratégies de coupe et programmes CNC sont préparés et validés sur vos roues lors de l’[installation et de la mise en service](page:installation-commissioning).",
             "**Formation des opérateurs :** régleurs et opérateurs sont formés aux machines et aux routines de la ligne dans le cadre de notre programme de [formation](page:training).",
-            "**Assistance et évolution :** les [pièces de rechange et l’assistance](page:spare-supply) ainsi qu’un [contrat de maintenance annuel](page:annual-maintenance-contract) maintiennent la ligne en production ; l’[automatisation d’atelier d’essieux](page:wheel-shop-automation) permettra de la connecter davantage par la suite."
+            "**Assistance et évolution :** les [pièces de rechange et l’assistance](page:spare-supply) ainsi qu’un [contrat de maintenance annuel](page:annual-maintenance-contract) maintiennent la ligne en production ; l’[automatisation d’atelier d’essieux](page:ts-wheel-shops#automation) permettra de la connecter davantage par la suite."
           ]
         },
         {

@@ -576,7 +576,7 @@
             {
               "icon": "diagram-3",
               "title": "Automazione e flusso",
-              "text": "Macchine collegate, movimentazione e dati in un'[officina ruote automatizzata](page:wheel-shop-automation)."
+              "text": "Macchine collegate, movimentazione e dati in un'[officina ruote automatizzata](page:ts-wheel-shops#automation)."
             }
           ]
         },
@@ -619,7 +619,7 @@
           "cols": 4,
           "items": [
             {
-              "page": "wheel-shop-automation",
+              "page": "ts-wheel-shops",
               "icon": "diagram-3"
             },
             {
@@ -665,7 +665,7 @@
           "items": [
             {
               "q": "HYT può fornire un'officina ruote completa anziché singole macchine?",
-              "a": "Sì. Pianifichiamo il flusso di processo, selezioniamo e colleghiamo le macchine, aggiungiamo sistemi di movimentazione e gestione dati e mettiamo in servizio la linea. Consulti [Automazione dell'officina ruote](page:wheel-shop-automation) e [Progetti chiavi in mano](page:turnkey-project)."
+              "a": "Sì. Pianifichiamo il flusso di processo, selezioniamo e colleghiamo le macchine, aggiungiamo sistemi di movimentazione e gestione dati e mettiamo in servizio la linea. Consulti [Officine sale montate](page:ts-wheel-shops) e [Progetti chiavi in mano](page:turnkey-project)."
             },
             {
               "q": "Le macchine possono lavorare ruote di dimensioni e scartamenti diversi?",
@@ -686,8 +686,8 @@
             "page": "contact-us"
           },
           "secondary": {
-            "label": "Automazione dell'officina ruote",
-            "page": "wheel-shop-automation"
+            "label": "Officine sale montate chiavi in mano",
+            "page": "ts-wheel-shops"
           }
         }
       ]
