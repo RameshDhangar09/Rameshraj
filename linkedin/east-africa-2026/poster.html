@@ -1,0 +1,61 @@
+<!doctype html>
+<html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700;800&family=Inter:wght@400;500;600&display=block" rel="stylesheet">
+<style>
+:root{--ink:#14181d;--ink-2:#1f252c;--hyt:#e2531f;--gold:#f2b632;--paper:#f6f3ee;--muted:#a9b0b8;--blue:#1f5fbf}
+*{margin:0;padding:0;box-sizing:border-box}
+body{width:1080px;height:1350px;background:var(--ink);font-family:Inter,system-ui,sans-serif;color:var(--paper);overflow:hidden}
+.poster{position:relative;width:1080px;height:1350px;padding:44px 44px 0;display:flex;flex-direction:column}
+.top{display:flex;justify-content:space-between;align-items:flex-start}
+.kicker{font:600 15px/1 Inter;letter-spacing:.22em;text-transform:uppercase;color:var(--hyt)}
+.kicker b{color:var(--paper);font-weight:600}
+.edition{font:700 15px/1 'Barlow Condensed';letter-spacing:.14em;color:var(--muted);text-transform:uppercase;text-align:right}
+h1{font:800 76px/.92 'Barlow Condensed',sans-serif;text-transform:uppercase;letter-spacing:-.005em;margin-top:22px}
+h1 .no{color:var(--hyt)}
+h1 sup{font-size:.42em;vertical-align:.95em;margin-left:2px}
+.meta{display:flex;gap:28px;margin-top:18px;font:500 17px/1 Inter;color:#d9dde2}
+.meta span{display:flex;align-items:center;gap:10px}
+.meta i{width:8px;height:8px;background:var(--hyt);display:inline-block}
+.grid{margin-top:30px;display:grid;gap:10px;grid-template-columns:repeat(6,1fr);grid-template-rows:400px 280px 215px;flex:none}
+.ph{position:relative;overflow:hidden;background:#222}
+.ph img{width:100%;height:100%;object-fit:cover;display:block}
+.a{grid-column:1/7}
+.b{grid-column:1/3;grid-row:2/4}
+.c{grid-column:3/7}
+.d{grid-column:3/5}
+.e{grid-column:5/7}
+.tag{position:absolute;left:0;bottom:0;background:var(--hyt);color:#fff;font:700 19px/1 'Barlow Condensed';letter-spacing:.06em;text-transform:uppercase;padding:11px 16px 10px}
+.tag small{display:block;font:500 12px/1 Inter;letter-spacing:.02em;text-transform:none;opacity:.92;margin-top:5px}
+.foot{margin-top:auto;height:104px;padding-bottom:6px;display:flex;align-items:center;justify-content:space-between;border-top:1px solid #2c333b}
+.foot .co{font:800 30px/1 'Barlow Condensed';letter-spacing:.02em;text-transform:uppercase}
+.foot .co span{color:var(--hyt)}
+.foot .co small{display:block;font:500 13px/1.3 Inter;letter-spacing:0;text-transform:none;color:var(--muted);margin-top:6px}
+.foot .thx{font:500 14px/1.4 Inter;color:var(--muted);text-align:right;max-width:430px}
+.foot .thx b{color:var(--paper);font-weight:600}
+.bar{position:absolute;top:0;right:0;width:220px;height:10px;background:var(--hyt)}
+.bar2{position:absolute;top:0;right:220px;width:70px;height:10px;background:var(--gold)}
+</style></head><body>
+<div class="poster">
+  <div class="bar2"></div><div class="bar"></div>
+  <div class="top">
+    <div class="kicker"><b>HYT Engineering</b> &nbsp;·&nbsp; Associate Partner</div>
+    <div class="edition">Bricsa Consulting<br><span style="display:block;margin-top:6px">Event Highlights</span></div>
+  </div>
+  <h1><span class="no">12<sup>th</sup></span> East Africa<br>Transport &amp; Infrastructure</h1>
+  <div class="meta">
+    <span><i></i>12–13 October 2026</span>
+    <span><i></i>Hyatt Regency, Dar es Salaam, Tanzania</span>
+  </div>
+  <div class="grid">
+    <div class="ph a"><img src="photos/1.jpg" style="object-position:50% 40%"><div class="tag">Complete Wheel Shop — HYT Turnkey Solution<small>Stage 3 · Workshop Overhaul presentation</small></div></div>
+    <div class="ph b"><img src="photos/3.jpg" style="object-position:92% 50%"></div>
+    <div class="ph c"><img src="photos/4.jpg" style="object-position:50% 38%"></div>
+    <div class="ph d"><img src="photos/2.jpg" style="object-position:48% 30%"></div>
+    <div class="ph e"><img src="photos/5.jpg" style="object-position:60% 35%"></div>
+  </div>
+  <div class="foot">
+    <div class="co"><span>HYT</span> Engineering Company<small>Railway workshop &amp; wheel shop solutions · India</small></div>
+    <div class="thx">Thank you <b>Bricsa Consulting</b>, partners and every delegate who joined the conversation on East Africa's rail future.</div>
+  </div>
+</div>
+</body></html>
