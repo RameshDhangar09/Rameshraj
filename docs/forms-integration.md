@@ -13,7 +13,7 @@ message by email.
 | Enquiry | `/contact-us/` (all languages) | `enquiry` | name*, company*, email*, phone, country*, interest* (product/service), subject*, message* (≥20 chars), privacy_consent* |
 | Supplier registration | `/supplier-registration/` | `supplier` | name*, company*, email*, phone*, country*, designation, website, gst, supply_category*, years, certs, message, privacy_consent* |
 | Job application (→ **careers@hytengineering.com**, approved by the MD) | `/career/` | `career` | name*, company, email*, phone*, country*, position*, experience*, cv (PDF ≤5 MB), cv_link, message, privacy_consent* |
-| Catalogue download | Dialog on every product page and Downloads ("Download catalogue" buttons) | `catalogue` | name*, company*, email*, phone, country*, catalogue (file), privacy_consent* – after delivery the visitor lands on the thank-you page and the PDF downloads |
+| Catalogue download | Dialog on every product page and Downloads ("Download catalogue" buttons) | `catalogue` | name*, company*, email*, phone*, country*, privacy_consent*, plus hidden `catalogue` (PDF path) and `interest` (product) – after delivery the visitor lands on the thank-you page and the PDF downloads |
 
 Every form also sends hidden fields: `form_type`, `language`, `page` (absolute
 URL), `_next` (localised thank-you URL), `started_at` (timestamp for bot
