@@ -2,26 +2,55 @@
   "pages": {
     "ts-wheel-shops": {
       "nav": "Wheel Shops",
-      "title": "Turnkey Railway Wheel Shops for Wheelset Overhaul",
-      "description": "Turnkey wheel shops for in-service fleets: dismounting, inspection, wheel and axle machining, pressing, measuring and balancing, planned and delivered by HYT.",
+      "title": "Turnkey Railway Wheel Shops & Wheel Shop Automation",
+      "description": "Turnkey railway wheel shops by HYT: measuring, re-profiling, boring, axle machining, pressing and balancing, linked by handling and data into one traceable flow.",
       "eyebrow": "Turnkey Solutions",
-      "h1": "Turnkey wheel shops for wheelset overhaul",
-      "lede": "A wheel shop decides how quickly worn wheelsets return to traffic. HYT plans and equips the complete overhaul flow – from dismounting to reassembly – as one coordinated project.",
-      "summary": "Complete overhaul shops for in-service wheelsets: dismounting, inspection, machining, pressing, measuring, balancing and reassembly.",
+      "h1": "Turnkey wheel shops – from worn wheelset to certified release",
+      "lede": "A wheel shop decides how quickly worn wheelsets return to traffic. HYT plans, equips and connects the complete overhaul flow – measuring, machining, pressing and balancing – as one coordinated, traceable process.",
+      "summary": "Complete overhaul shops for wheelsets – dismounting, inspection, machining, pressing, measuring and balancing – with automated handling and data flow where it pays.",
+      "hero_actions": [
+        {
+          "label": "Discuss your wheel shop",
+          "page": "contact-us",
+          "icon": "chat-dots"
+        },
+        {
+          "label": "See the process",
+          "page": "ts-wheel-shops",
+          "anchor": "process"
+        }
+      ],
       "blocks": [
         {
-          "type": "text",
+          "type": "pillars",
           "id": "overview",
           "eyebrow": "The facility",
           "heading": "Where worn wheelsets become serviceable again",
           "paragraphs": [
             "In a railway workshop or periodic overhaul (POH) shop, the wheel shop receives wheelsets that have reached their wear limits, suffered damage or fallen due for scheduled overhaul. Some need only a new profile; others need new wheels, reconditioned journals or a fresh press-fit.",
-            "Owners rarely struggle with a single machine. The difficulty lies in the flow: wheelsets queuing at the press while the lathe stands idle, measurements keyed in twice, and cranes shared between too many stations. Every delay in the wheel shop holds a vehicle out of service elsewhere.",
-            "With one turnkey partner, stations, handling and foundations are designed around your mix of wheelsets and your overhaul cycle. HYT builds the core machines itself, so process and equipment are engineered together and one organisation answers for the result."
+            "Owners rarely struggle with a single machine. The difficulty lies in the flow: wheelsets queuing at the press while the lathe stands idle, measurements keyed in twice, cranes shared between too many stations. HYT designs the shop around your wheelset mix and overhaul cycle, and builds the core machines itself – so process and equipment are engineered together and one organisation answers for the result."
           ],
           "image": "products/portal-wheel-lathe",
           "image_alt": "Sample illustration of a portal wheel lathe re-profiling a removed wheelset in a railway wheel shop",
-          "layout": "image-right"
+          "badge_value": "1977",
+          "badge_label": "building railway machine tools since",
+          "items": [
+            {
+              "icon": "arrow-repeat",
+              "title": "Re-profile",
+              "text": "Wheelsets with serviceable wheels receive a new profile with the minimum material removal, so the wheels last more cycles."
+            },
+            {
+              "icon": "arrow-left-right",
+              "title": "Re-wheel",
+              "text": "Condemned wheels are pressed off, replacement wheels bored to suit the axle seat and pressed on with a recorded force curve."
+            },
+            {
+              "icon": "patch-check",
+              "title": "Recondition & release",
+              "text": "Journals are restored, wheelsets balanced where specified, and each one leaves with a complete record of what was done."
+            }
+          ]
         },
         {
           "type": "features",
@@ -63,6 +92,87 @@
           ]
         },
         {
+          "type": "facilities",
+          "id": "stations",
+          "eyebrow": "Inside the wheel shop",
+          "heading": "The stations of an HYT wheel shop",
+          "intro": "Each station is an HYT machine designed to work with the next one. Select a station to see its role in the flow.",
+          "items": [
+            {
+              "icon": "rulers",
+              "title": "Measuring & inspection",
+              "image": "products/wheel-measuring-station",
+              "image_alt": "Sample illustration of a wheel measuring station recording wheelset geometry",
+              "text": "Every wheelset is measured on arrival and again before release. The [wheel measuring station](page:wheel-measuring-station) records profile, diameters and back-to-back distance – the data that decides between re-profiling and re-wheeling.",
+              "bullets": [
+                "Decision point for each wheelset's route",
+                "Results stored against the wheelset identity",
+                "Final check before return to service"
+              ]
+            },
+            {
+              "icon": "bullseye",
+              "title": "Wheel re-profiling",
+              "image": "products/surface-wheel-lathe",
+              "image_alt": "Sample illustration of a CNC surface wheel lathe re-profiling a removed wheelset",
+              "text": "Retained wheelsets get a new tread and flange profile on a [CNC surface wheel lathe](page:surface-wheel-lathe) or a [portal wheel lathe](page:portal-wheel-lathe), chosen to suit your wheelset types and typical defects.",
+              "bullets": [
+                "Profile programs for your fleet",
+                "Measurement before the cut to limit material removal",
+                "Floor-level or portal designs"
+              ]
+            },
+            {
+              "icon": "circle",
+              "title": "Wheel boring",
+              "image": "products/vertical-turning-boring-machine",
+              "image_alt": "Sample illustration of a CNC vertical turning and boring machine machining a railway wheel",
+              "text": "Replacement wheels are turned and their bores machined to match the axle seat on a [CNC vertical turning and boring machine](page:vertical-turning-boring-machine).",
+              "bullets": [
+                "Bore sized to the measured axle seat",
+                "Disc, tyre and hub machining",
+                "Suits new-build and overhaul work"
+              ]
+            },
+            {
+              "icon": "distribute-horizontal",
+              "title": "Axle & journal machining",
+              "image": "products/axle-journal-turning-burnishing-lathe",
+              "image_alt": "Sample illustration of an axle journal turning and burnishing lathe",
+              "text": "Axles are restored on an [axle journal turning and burnishing lathe](page:axle-journal-turning-burnishing-lathe); new axles are machined on an [axle turning lathe](page:axle-turning-lathe).",
+              "bullets": [
+                "Journals turned and burnished for durable bearing seats",
+                "Wheel seats prepared for pressing",
+                "Axles traceable through the shop"
+              ]
+            },
+            {
+              "icon": "arrows-collapse",
+              "title": "Pressing",
+              "image": "products/wheel-press",
+              "image_alt": "Sample illustration of a hydraulic wheel press mounting a wheel on an axle",
+              "text": "A [wheel press](page:wheel-presses) removes condemned wheels and mounts new ones, with the press-fit force curve recorded for every wheel.",
+              "bullets": [
+                "Dismounting and mounting on one machine",
+                "Recorded force curve for each press-fit",
+                "Data linked to the wheelset record"
+              ]
+            },
+            {
+              "icon": "speedometer2",
+              "title": "Balancing & release",
+              "image": "products/dynamic-wheel-balancing-machine",
+              "image_alt": "Sample illustration of a dynamic wheel balancing machine",
+              "text": "Where specified, a [dynamic wheel balancing machine](page:dynamic-wheel-balancing-machine) checks and corrects imbalance before bearings and axleboxes are refitted and the wheelset is released.",
+              "bullets": [
+                "Imbalance measured and corrected",
+                "Final inspection recorded",
+                "Complete record travels with the wheelset"
+              ]
+            }
+          ]
+        },
+        {
           "type": "steps",
           "id": "process",
           "eyebrow": "Process flow",
@@ -96,18 +206,159 @@
           ]
         },
         {
+          "type": "notice",
+          "variant": "review",
+          "text": "HYT to confirm the automation scope it offers (handling equipment, software and data integration) and any reference installations that may be named on this page."
+        },
+        {
+          "type": "text",
+          "id": "automation",
+          "eyebrow": "Wheel shop automation",
+          "heading": "From separate machines to one connected process",
+          "paragraphs": [
+            "In many wheel shops each machine works well on its own, but the process between them does not. Heavy wheelsets are moved by crane and hand, measurements are written down and re-entered, and matching a wheel bore to an axle seat depends on careful paperwork. Every manual step costs time and adds a chance of error on a safety-critical component.",
+            "Automation links measuring, machining, pressing and balancing so that wheelsets move safely between stations, data passes directly from one machine to the next, and every wheel and axle can be traced from receipt to release. It can be introduced in stages – connect the machines and their data first, then add handling as throughput grows – while the shop keeps producing."
+          ],
+          "image": "projects/wheel-shop-automation-line",
+          "image_alt": "Sample illustration of an automated wheel shop line with wheelsets moving between machines",
+          "layout": "image-left"
+        },
+        {
+          "type": "features",
+          "id": "building-blocks",
+          "eyebrow": "Building blocks",
+          "heading": "Four elements of an automated wheel shop",
+          "cols": 4,
+          "items": [
+            {
+              "icon": "arrows-move",
+              "title": "Automated handling",
+              "text": "Wheelsets and components transferred between stations with less crane work and manual lifting."
+            },
+            {
+              "icon": "rulers",
+              "title": "Integrated measurement",
+              "text": "Wheels, axles and wheelsets measured at defined points, with results stored automatically."
+            },
+            {
+              "icon": "diagram-3",
+              "title": "Data flow between machines",
+              "text": "Measured values passed directly to the next machine – for example, bore and seat data used for pressing."
+            },
+            {
+              "icon": "upc-scan",
+              "title": "Traceability",
+              "text": "Each component identified, with its measuring, machining and pressing records kept together."
+            }
+          ]
+        },
+        {
+          "type": "projects",
+          "id": "solution",
+          "heading": "The solution at a glance",
+          "items": [
+            {
+              "id": "turnkey-wheel-shop",
+              "title": "Turnkey wheel and axle shop",
+              "client": "Railway and metro operators, overhaul workshops, rolling stock manufacturers",
+              "location": "Configured for each site",
+              "status_key": "solution",
+              "image": "projects/wheel-shop-automation-line",
+              "image_alt": "Sample illustration of a connected wheel and axle shop with automated handling",
+              "scope": [
+                "Process and layout engineering for the required throughput",
+                "Foundations and civil interface",
+                "Measuring, machining, pressing and balancing machines",
+                "Wheelset and component handling between stations",
+                "Data exchange between machines and component traceability",
+                "Installation, commissioning and staff training"
+              ],
+              "text": "Each wheel shop is configured for its fleet, volumes and building. Projects can be delivered complete or in phases, including modernisation of a shop that must keep working.",
+              "products": [
+                "wheel-measuring-station",
+                "surface-wheel-lathe",
+                "portal-wheel-lathe",
+                "vertical-turning-boring-machine",
+                "axle-journal-turning-burnishing-lathe",
+                "axle-turning-lathe",
+                "wheel-presses",
+                "dynamic-wheel-balancing-machine"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "chips",
+          "id": "fleets",
+          "eyebrow": "Wheelsets we plan for",
+          "heading": "Built around your fleet",
+          "intro": "Station sizes, profile programs and handling are matched to the wheelsets your shop overhauls.",
+          "items": [
+            {
+              "icon": "train-front",
+              "title": "Locomotives"
+            },
+            {
+              "icon": "train-front-fill",
+              "title": "Passenger coaches"
+            },
+            {
+              "icon": "train-lightrail-front",
+              "title": "EMUs and multiple units"
+            },
+            {
+              "icon": "buildings",
+              "title": "Metro and rapid-transit cars"
+            },
+            {
+              "icon": "box-seam",
+              "title": "Freight wagons"
+            },
+            {
+              "icon": "gear-wide-connected",
+              "title": "New-build wheelsets"
+            }
+          ]
+        },
+        {
           "type": "cards",
           "id": "equipment",
           "eyebrow": "HYT machines",
           "heading": "Core equipment in the wheel shop",
-          "cols": 3,
+          "cols": 4,
           "items": [
-            {"page": "surface-wheel-lathe", "image": "products/surface-wheel-lathe"},
-            {"page": "portal-wheel-lathe", "image": "products/portal-wheel-lathe"},
-            {"page": "vertical-turning-boring-machine", "image": "products/vertical-turning-boring-machine"},
-            {"page": "axle-journal-turning-burnishing-lathe", "image": "products/axle-journal-turning-burnishing-lathe"},
-            {"page": "wheel-presses", "image": "products/wheel-press"},
-            {"page": "wheel-measuring-station", "image": "products/wheel-measuring-station"}
+            {
+              "page": "surface-wheel-lathe",
+              "image": "products/surface-wheel-lathe"
+            },
+            {
+              "page": "portal-wheel-lathe",
+              "image": "products/portal-wheel-lathe"
+            },
+            {
+              "page": "vertical-turning-boring-machine",
+              "image": "products/vertical-turning-boring-machine"
+            },
+            {
+              "page": "axle-journal-turning-burnishing-lathe",
+              "image": "products/axle-journal-turning-burnishing-lathe"
+            },
+            {
+              "page": "wheel-presses",
+              "image": "products/wheel-press"
+            },
+            {
+              "page": "wheel-measuring-station",
+              "image": "products/wheel-measuring-station"
+            },
+            {
+              "page": "axle-turning-lathe",
+              "image": "products/axle-turning-lathe"
+            },
+            {
+              "page": "dynamic-wheel-balancing-machine",
+              "image": "products/dynamic-wheel-balancing-machine"
+            }
           ]
         },
         {
@@ -137,7 +388,8 @@
               "title": "Training and support",
               "text": "Crews are trained on machines and process through our [Training](page:training) programme; an [Annual Maintenance Contract](page:annual-maintenance-contract) can follow handover."
             }
-          ]
+          ],
+          "variant": "navy"
         },
         {
           "type": "text",
@@ -151,6 +403,7 @@
             "Shorter time between a wheelset arriving and its release",
             "Minimum material removal, so wheels survive more re-profiling cycles before replacement",
             "Documented press-fits and measurements for every overhauled wheelset",
+            "A complete, traceable record for every wheel and axle",
             "Less crane work and manual handling around heavy components",
             "One partner accountable for machines, layout and performance"
           ]
@@ -175,6 +428,14 @@
             {
               "q": "Can we keep existing machines from other makers?",
               "a": "Where they are in good condition, yes. We include them in the layout and define their interfaces, so the shop works as one process."
+            },
+            {
+              "q": "Can automation be added to an existing wheel shop?",
+              "a": "Yes. Automation is usually introduced in stages: first the machines and their data are connected, then handling is added as throughput grows. Each stage is planned so the shop keeps producing."
+            },
+            {
+              "q": "How are wheelset records kept?",
+              "a": "Measuring, machining, pressing and balancing results are recorded against each wheelset's identity. The data format and transfer to your own systems are agreed with your quality and IT teams during engineering."
             }
           ]
         },
@@ -182,8 +443,14 @@
           "type": "cta",
           "heading": "Planning a new or upgraded wheel shop?",
           "text": "Send us your overhaul volumes, wheelset types and building drawings. Our project engineers will propose a layout and a way to deliver it.",
-          "primary": {"label": "Discuss your project", "page": "contact-us"},
-          "secondary": {"label": "Turnkey (EPC) Projects", "page": "turnkey-project"}
+          "primary": {
+            "label": "Discuss your project",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Turnkey (EPC) Projects",
+            "page": "turnkey-project"
+          }
         }
       ]
     },
@@ -288,12 +555,30 @@
           "heading": "Equipment in the depot",
           "cols": 3,
           "items": [
-            {"page": "underfloor-wheel-lathe", "image": "products/underfloor-wheel-lathe-yul-08"},
-            {"page": "tandem-underfloor-wheel-lathe", "image": "products/tandem-underfloor-wheel-lathe-yul-12t"},
-            {"page": "automated-train-washing-plant", "image": "products/automated-train-washing-plant"},
-            {"page": "rail-cum-road-vehicle-shunter", "image": "products/rail-cum-road-vehicle-shunter"},
-            {"page": "multi-purpose-armature-machine", "image": "products/multi-purpose-armature-machine"},
-            {"page": "vertical-turning-boring-machine", "image": "products/vertical-turning-boring-machine"}
+            {
+              "page": "underfloor-wheel-lathe",
+              "image": "products/underfloor-wheel-lathe-yul-08"
+            },
+            {
+              "page": "tandem-underfloor-wheel-lathe",
+              "image": "products/tandem-underfloor-wheel-lathe-yul-12t"
+            },
+            {
+              "page": "automated-train-washing-plant",
+              "image": "products/automated-train-washing-plant"
+            },
+            {
+              "page": "rail-cum-road-vehicle-shunter",
+              "image": "products/rail-cum-road-vehicle-shunter"
+            },
+            {
+              "page": "multi-purpose-armature-machine",
+              "image": "products/multi-purpose-armature-machine"
+            },
+            {
+              "page": "vertical-turning-boring-machine",
+              "image": "products/vertical-turning-boring-machine"
+            }
           ]
         },
         {
@@ -361,8 +646,14 @@
           "type": "cta",
           "heading": "Building or extending a depot?",
           "text": "Tell us about your fleet, maintenance schedule and track layout. We will propose the depot systems and a delivery plan that keeps trains running.",
-          "primary": {"label": "Discuss your project", "page": "contact-us"},
-          "secondary": {"label": "Executed Projects", "page": "executed-projects"}
+          "primary": {
+            "label": "Discuss your project",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Executed Projects",
+            "page": "executed-projects"
+          }
         }
       ]
     },
@@ -457,12 +748,30 @@
           "heading": "Equipment in the wheel and axle shop",
           "cols": 3,
           "items": [
-            {"page": "axle-turning-lathe", "image": "products/axle-turning-lathe"},
-            {"page": "vertical-turning-boring-machine", "image": "products/vertical-turning-boring-machine"},
-            {"page": "wheel-presses", "image": "products/wheel-press"},
-            {"page": "wheel-measuring-station", "image": "products/wheel-measuring-station"},
-            {"page": "dynamic-wheel-balancing-machine", "image": "products/dynamic-wheel-balancing-machine"},
-            {"page": "rail-cum-road-vehicle-shunter", "image": "products/rail-cum-road-vehicle-shunter"}
+            {
+              "page": "axle-turning-lathe",
+              "image": "products/axle-turning-lathe"
+            },
+            {
+              "page": "vertical-turning-boring-machine",
+              "image": "products/vertical-turning-boring-machine"
+            },
+            {
+              "page": "wheel-presses",
+              "image": "products/wheel-press"
+            },
+            {
+              "page": "wheel-measuring-station",
+              "image": "products/wheel-measuring-station"
+            },
+            {
+              "page": "dynamic-wheel-balancing-machine",
+              "image": "products/dynamic-wheel-balancing-machine"
+            },
+            {
+              "page": "rail-cum-road-vehicle-shunter",
+              "image": "products/rail-cum-road-vehicle-shunter"
+            }
           ]
         },
         {
@@ -529,7 +838,7 @@
             },
             {
               "q": "How is the shop linked to our quality system?",
-              "a": "Measurement, pressing and balancing results are recorded against each wheelset's identity. We agree the data format and transfer method with your quality and IT teams during engineering. For connected handling and data, see [Wheel Shop Automation](page:wheel-shop-automation)."
+              "a": "Measurement, pressing and balancing results are recorded against each wheelset's identity. We agree the data format and transfer method with your quality and IT teams during engineering. For connected handling and data, see [wheel shop automation](page:ts-wheel-shops#automation)."
             }
           ]
         },
@@ -537,8 +846,14 @@
           "type": "cta",
           "heading": "Setting up a wheel and axle shop in your factory?",
           "text": "Share your vehicle programme and wheelset demand. We will outline a shop that keeps pace with your bogie line.",
-          "primary": {"label": "Discuss your project", "page": "contact-us"},
-          "secondary": {"label": "Turnkey (EPC) Projects", "page": "turnkey-project"}
+          "primary": {
+            "label": "Discuss your project",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Turnkey (EPC) Projects",
+            "page": "turnkey-project"
+          }
         }
       ]
     },
@@ -648,12 +963,30 @@
           "heading": "Equipment in the plant",
           "cols": 3,
           "items": [
-            {"page": "axle-turning-lathe", "image": "products/axle-turning-lathe"},
-            {"page": "vertical-turning-boring-machine", "image": "products/vertical-turning-boring-machine"},
-            {"page": "wheel-presses", "image": "products/wheel-press"},
-            {"page": "wheel-measuring-station", "image": "products/wheel-measuring-station"},
-            {"page": "dynamic-wheel-balancing-machine", "image": "products/dynamic-wheel-balancing-machine"},
-            {"page": "surface-wheel-lathe", "image": "products/surface-wheel-lathe"}
+            {
+              "page": "axle-turning-lathe",
+              "image": "products/axle-turning-lathe"
+            },
+            {
+              "page": "vertical-turning-boring-machine",
+              "image": "products/vertical-turning-boring-machine"
+            },
+            {
+              "page": "wheel-presses",
+              "image": "products/wheel-press"
+            },
+            {
+              "page": "wheel-measuring-station",
+              "image": "products/wheel-measuring-station"
+            },
+            {
+              "page": "dynamic-wheel-balancing-machine",
+              "image": "products/dynamic-wheel-balancing-machine"
+            },
+            {
+              "page": "surface-wheel-lathe",
+              "image": "products/surface-wheel-lathe"
+            }
           ]
         },
         {
@@ -736,8 +1069,14 @@
           "type": "cta",
           "heading": "Planning a wheelset plant?",
           "text": "Send us your product range and output targets. We will outline the plant, its key machines and the route to series production.",
-          "primary": {"label": "Discuss your project", "page": "contact-us"},
-          "secondary": {"label": "Turnkey (EPC) Projects", "page": "turnkey-project"}
+          "primary": {
+            "label": "Discuss your project",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Turnkey (EPC) Projects",
+            "page": "turnkey-project"
+          }
         }
       ]
     },
@@ -832,9 +1171,18 @@
           "heading": "Equipment in the line",
           "cols": 3,
           "items": [
-            {"page": "vertical-turning-boring-machine", "image": "products/vertical-turning-boring-machine"},
-            {"page": "wheel-measuring-station", "image": "products/wheel-measuring-station"},
-            {"page": "dynamic-wheel-balancing-machine", "image": "products/dynamic-wheel-balancing-machine"}
+            {
+              "page": "vertical-turning-boring-machine",
+              "image": "products/vertical-turning-boring-machine"
+            },
+            {
+              "page": "wheel-measuring-station",
+              "image": "products/wheel-measuring-station"
+            },
+            {
+              "page": "dynamic-wheel-balancing-machine",
+              "image": "products/dynamic-wheel-balancing-machine"
+            }
           ]
         },
         {
@@ -848,7 +1196,7 @@
             "**Line layout and foundations:** machine positions, handling envelope and foundations are agreed and issued for civil work.",
             "**Tooling and part programs:** cutting strategies and CNC programs are prepared and proven on your wheels during [Installation & Commissioning](page:installation-commissioning).",
             "**Operator training:** setters and operators are trained on the machines and line routines through our [Training](page:training) programme.",
-            "**Support and growth:** [Spare Parts & Support](page:spare-supply) and an [Annual Maintenance Contract](page:annual-maintenance-contract) keep the line producing; [Wheel Shop Automation](page:wheel-shop-automation) can connect it further later."
+            "**Support and growth:** [Spare Parts & Support](page:spare-supply) and an [Annual Maintenance Contract](page:annual-maintenance-contract) keep the line producing; [wheel shop automation](page:ts-wheel-shops#automation) can connect it further later."
           ]
         },
         {
@@ -894,8 +1242,14 @@
           "type": "cta",
           "heading": "Planning a wheel machining line?",
           "text": "Send us your wheel drawings and annual volumes. We will propose a line concept, a station layout and an estimate of cycle times.",
-          "primary": {"label": "Discuss your project", "page": "contact-us"},
-          "secondary": {"label": "Executed Projects", "page": "executed-projects"}
+          "primary": {
+            "label": "Discuss your project",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Executed Projects",
+            "page": "executed-projects"
+          }
         }
       ]
     },
@@ -1006,9 +1360,18 @@
           "heading": "Equipment in the line",
           "cols": 3,
           "items": [
-            {"page": "axle-turning-lathe", "image": "products/axle-turning-lathe"},
-            {"page": "axle-journal-turning-burnishing-lathe", "image": "products/axle-journal-turning-burnishing-lathe"},
-            {"page": "wheel-presses", "image": "products/wheel-press"}
+            {
+              "page": "axle-turning-lathe",
+              "image": "products/axle-turning-lathe"
+            },
+            {
+              "page": "axle-journal-turning-burnishing-lathe",
+              "image": "products/axle-journal-turning-burnishing-lathe"
+            },
+            {
+              "page": "wheel-presses",
+              "image": "products/wheel-press"
+            }
           ]
         },
         {
@@ -1087,8 +1450,14 @@
           "type": "cta",
           "heading": "Planning an axle line?",
           "text": "Share your axle drawings and the mix of new and overhaul work. We will propose the machines and a layout for the line.",
-          "primary": {"label": "Discuss your project", "page": "contact-us"},
-          "secondary": {"label": "Turnkey (EPC) Projects", "page": "turnkey-project"}
+          "primary": {
+            "label": "Discuss your project",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Turnkey (EPC) Projects",
+            "page": "turnkey-project"
+          }
         }
       ]
     }

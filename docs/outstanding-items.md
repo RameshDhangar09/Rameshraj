@@ -12,7 +12,7 @@ site replaces hytengineering.com. Owner suggestions in brackets.
 | A3 | SPF / DKIM / DMARC for the sending domain | DNS | Open |
 | A4 | Choose hosting; upload `hyt-website/`; enable `.htaccess` (Apache) or `_redirects` (Netlify/Cloudflare) or `deploy/nginx-hyt.conf` | – | Open |
 | A5 | Enable HTTPS + canonical host block in `.htaccess` (non-www, as in the workbook URLs) | `.htaccess` section 1 | Open |
-| A6 | Verify all 66 redirects return 301 (commands in `docs/redirects.md`) | live server | Open |
+| A6 | Verify all 72 redirects return 301 (commands in `docs/redirects.md`) | live server | Open |
 | A7 | Tighten Content-Security-Policy to the chosen form endpoint | `.htaccess` | Open |
 | A8 | Build with `python3 src/build.py --production` for launch (hides review notes and sample-material line) | – | Open |
 | A9 | Submit `sitemap.xml` to Google Search Console and Bing; monitor 404s for 4 weeks | – | Open |
@@ -50,6 +50,7 @@ site replaces hytengineering.com. Owner suggestions in brackets.
 | B26 | Product videos (MP4 or YouTube IDs) for each machine – all product pages currently show one sample clip labelled "Sample video" | Product pages (`src/videos.json`) | Marketing |
 | B27 | Catalogue gating: implemented as a short form before download (per HYT request). Confirm fields and whether a separate datasheet per product will be offered | Product pages, Downloads | Marketing |
 | B28 | Name, dates and page/news item of the next event for the highlighted "Next Event" link (currently points to International Exhibitions) | Top bar (`src/config.json` → `next_event`) | Marketing |
+| B29 | **Wheel Shop Automation page merged into Wheel Shops** at HYT's request (15 Oct 2026); `/wheel-shop-automation/` now 301-redirects to `/turnkey-project/wheel-shops/` (all languages). HYT to confirm the automation scope it offers (handling, software, data integration) – shown as a review note on the Wheel Shops page | Wheel Shops | Projects / Engineering |
 | B24 | Confirm the New Delhi sales office details (mentioned on an old page; not published) | Contact | Sales |
 
 Every on-page review note is listed with its exact wording in

@@ -1065,3 +1065,9 @@ html.fx-on .card-hyt.is-tilting, html.fx-on .page-home .section--stats .stat.is-
 .benefit.is-tilt, .news-card.is-tilt { position: relative; }
 html.fx-on .benefit.is-tilting, html.fx-on .news-card.is-tilting { transform: perspective(900px) rotateX(var(--rx, 0)) rotateY(var(--ry, 0)) translateY(-4px); transition: transform 120ms linear, box-shadow var(--t), border-color var(--t); }
 .page-hero .hero-fx__rail { display: none; }
+
+/* Paragraph rhythm in multi-paragraph intros */
+.section-intro + .section-intro { margin-top: 0.9rem; }
+/* Inline links stay readable on blue bands */
+.section--navy p a:not(.btn-hyt), .section--navy .section-intro a, .section--cta p a:not(.btn-hyt), .section--video p a:not(.btn-hyt) { color: #fff; text-decoration: underline; text-decoration-color: rgba(245, 130, 32, 0.85); text-underline-offset: 3px; }
+.section--navy p a:not(.btn-hyt):hover, .section--cta p a:not(.btn-hyt):hover, .section--video p a:not(.btn-hyt):hover { color: #FFB066; }

@@ -2,12 +2,12 @@
 
 | Version | Folder | `lang` | Source files | Status | Validator |
 |---------|--------|--------|--------------|--------|-----------|
-| English (Global) | `/` | `en` | `src/content/en/` (master, British spelling) | ✅ complete – 79 pages | – |
-| Deutsch | `/de-de/` | `de-DE` | `src/content/de-de/` (12 files) | ✅ complete – 79 pages | ✅ `check_translation.py de-de` |
-| Français | `/fr-fr/` | `fr-FR` | `src/content/fr-fr/` (12 files) | ✅ complete – 79 pages | ✅ |
-| Italiano | `/it-it/` | `it-IT` | `src/content/it-it/` (12 files) | ✅ complete – 79 pages | ✅ |
-| Nederlands | `/nl-nl/` | `nl-NL` | `src/content/nl-nl/` (12 files) | ✅ complete – 79 pages | ✅ |
-| English (North America) | `/en-us/` | `en-US` | derived by `src/en_us.py` | ✅ complete – 79 pages | – |
+| English (Global) | `/` | `en` | `src/content/en/` (master, British spelling) | ✅ complete – 78 pages | – |
+| Deutsch | `/de-de/` | `de-DE` | `src/content/de-de/` (12 files) | ✅ complete – 78 pages | ✅ `check_translation.py de-de` |
+| Français | `/fr-fr/` | `fr-FR` | `src/content/fr-fr/` (12 files) | ✅ complete – 78 pages | ✅ |
+| Italiano | `/it-it/` | `it-IT` | `src/content/it-it/` (12 files) | ✅ complete – 78 pages | ✅ |
+| Nederlands | `/nl-nl/` | `nl-NL` | `src/content/nl-nl/` (12 files) | ✅ complete – 78 pages | ✅ |
+| English (North America) | `/en-us/` | `en-US` | derived by `src/en_us.py` | ✅ complete – 78 pages | – |
 
 Scope translated in every language: navigation, menu headings, page titles and
 H1s, body copy, product descriptions, specification labels, project and

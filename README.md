@@ -5,7 +5,7 @@ machine tools, CNC wheel lathes, wheel & axle shop machines, turnkey workshop
 projects and after-sales services).
 
 * **Deployable site:** [`hyt-website/`](hyt-website/) – plain HTML5, CSS3, ES-module JavaScript, Bootstrap 5.3 CSS. No PHP, no Node.js runtime, no database.
-* **Pages:** 79 pages × 6 languages = **474 HTML pages** – the 74 rows of `HYT_Website_Sitemap_and_Page_Hierarchy_v2.xlsx`, minus the Annual Return page (removed at HYT's request), plus six Turnkey Solutions pages added at HYT's request (14 Oct 2026).
+* **Pages:** 78 pages × 6 languages = **468 HTML pages** – the 74 rows of `HYT_Website_Sitemap_and_Page_Hierarchy_v2.xlsx`, minus the Annual Return page (removed at HYT's request) and the Wheel Shop Automation page (merged into Wheel Shops at HYT's request, 15 Oct 2026; its URL 301-redirects there), plus six Turnkey Solutions pages added at HYT's request (14 Oct 2026).
 * **Languages:** `/` English (Global) · `/de-de/` Deutsch · `/fr-fr/` Français · `/it-it/` Italiano · `/nl-nl/` Nederlands · `/en-us/` English (North America).
 
 > **Status: pre-launch build.** Images and the catalogue are clearly labelled
@@ -91,7 +91,7 @@ Upload the **contents** of `hyt-website/` to the web root.
 
 | Host | Redirects & 404 | Notes |
 |------|-----------------|-------|
-| Apache / cPanel (typical Indian hosting) | `hyt-website/.htaccess` (generated) | 66 permanent 301s (10 workbook redirects + `/installation-and-commissioning/`, × 6 language folders), `/index.html` → `/`, trailing slashes, per-language 404 pages, security headers, caching, compression. Uncomment the HTTPS/non-www block once TLS is active. |
+| Apache / cPanel (typical Indian hosting) | `hyt-website/.htaccess` (generated) | 72 permanent 301s (10 workbook redirects + `/installation-and-commissioning/` + `/wheel-shop-automation/`, × 6 language folders), `/index.html` → `/`, trailing slashes, per-language 404 pages, security headers, caching, compression. Uncomment the HTTPS/non-www block once TLS is active. |
 | Netlify / Cloudflare Pages | `hyt-website/_redirects` (generated) | Same 301s + per-language 404s. |
 | nginx | `deploy/nginx-hyt.conf` (generated) | Paste into the server block. |
 
@@ -135,8 +135,8 @@ ready reference handler: [`docs/forms-integration.md`](docs/forms-integration.md
 ```
 hyt-website/
 ├── index.html, 404.html, sitemap.xml, robots.txt, .htaccess, _redirects
-├── <page>/index.html … (79 pages)        English (Global)
-├── de-de/ fr-fr/ it-it/ nl-nl/ en-us/    the same 79 pages per language
+├── <page>/index.html … (78 pages)        English (Global)
+├── de-de/ fr-fr/ it-it/ nl-nl/ en-us/    the same 78 pages per language
 ├── translations/{en,de-de,fr-fr,it-it,nl-nl,en-us}.json   UI strings loaded by JS
 └── assets/
     ├── css/style.css          design tokens (CSS custom properties) + components

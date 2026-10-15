@@ -21,14 +21,16 @@ LINK = re.compile(r"\[([^\]]+)\]\([^)]+\)")
 
 def redirects():
     rows = ["# Redirect map (HTTP 301)", "",
-            "Generated from `src/registry.py` (Redirects tab of the workbook + the duplicate noted on Page Inventory row 34).",
+            "Generated from `src/registry.py` (Redirects tab of the workbook, the duplicate noted on Page Inventory row 34 and pages merged later).",
             "Each rule is applied to the root and to every language folder, giving "
             f"{(len(R.REDIRECTS) + len(R.EXTRA_REDIRECTS)) * len(R.LANGS)} rules in `.htaccess`, `_redirects` and `deploy/nginx-hyt.conf`.", "",
             "| # | Old URL | New URL | Source |", "|---|---------|---------|--------|"]
     for i, (old, new) in enumerate(R.REDIRECTS, 1):
         rows.append(f"| {i} | {BASE}{old} | {BASE}{new} | Redirects tab |")
+    sources = {"/installation-and-commissioning/": "Page Inventory row 34 (old duplicate page)",
+               "/wheel-shop-automation/": "Page merged into Wheel Shops at HYT's request (15 Oct 2026)"}
     for old, new in R.EXTRA_REDIRECTS:
-        rows.append(f"| + | {BASE}{old} | {BASE}{new} | Page Inventory row 34 (old duplicate page) |")
+        rows.append(f"| + | {BASE}{old} | {BASE}{new} | {sources.get(old, 'Added')} |")
     rows += ["", "Note: the workbook's SEO notes for rows 13 and 14 read '301 /underfloor-wheel-lathe/ to /underfloor-wheel-lathe/' "
              "(old and new identical – a typo). The Redirects tab gives the correct old URLs (`/cnc-underfloor-wheel-lathe/`, "
              "`/cnc-tandem-underfloor-wheel-lathe/`), which are used here.", "",

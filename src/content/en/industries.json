@@ -576,7 +576,7 @@
             {
               "icon": "diagram-3",
               "title": "Automation and flow",
-              "text": "Linked machines, handling and data in an [automated wheel shop](page:wheel-shop-automation)."
+              "text": "Linked machines, handling and data in an [automated wheel shop](page:ts-wheel-shops#automation)."
             }
           ]
         },
@@ -619,7 +619,7 @@
           "cols": 4,
           "items": [
             {
-              "page": "wheel-shop-automation",
+              "page": "ts-wheel-shops",
               "icon": "diagram-3"
             },
             {
@@ -665,7 +665,7 @@
           "items": [
             {
               "q": "Can HYT supply a complete wheel shop rather than single machines?",
-              "a": "Yes. We plan the process flow, select and link the machines, add handling and data systems and commission the line. See [Wheel Shop Automation](page:wheel-shop-automation) and [Turnkey Projects](page:turnkey-project)."
+              "a": "Yes. We plan the process flow, select and link the machines, add handling and data systems and commission the line. See [Wheel Shops](page:ts-wheel-shops) and [Turnkey Projects](page:turnkey-project)."
             },
             {
               "q": "Can the machines handle different wheel sizes and gauges?",
@@ -686,8 +686,8 @@
             "page": "contact-us"
           },
           "secondary": {
-            "label": "Wheel Shop Automation",
-            "page": "wheel-shop-automation"
+            "label": "Turnkey Wheel Shops",
+            "page": "ts-wheel-shops"
           }
         }
       ]

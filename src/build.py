@@ -601,7 +601,7 @@ def interest_options(ctx):
     for c in R.PRODUCT_CATEGORIES:
         opts = "".join(f'<option value="{p["id"]}">{esc(ctx.nav(p["id"]))}</option>' for p in R.P if p.get("category") == c)
         groups.append(f'<optgroup label="{esc(ctx.t("categories." + c))}">{opts}</optgroup>')
-    svc = ["turnkey-project", "wheel-shop-automation", "installation-commissioning", "maintenance", "annual-maintenance-contract",
+    svc = ["turnkey-project", "ts-wheel-shops", "installation-commissioning", "maintenance", "annual-maintenance-contract",
            "comprehensive-annual-maintenance-contract", "spare-supply", "retro-fitment-upgradation", "repair", "shifting",
            "wet-leasing", "training"]
     groups.append(f'<optgroup label="{esc(ctx.nav("services"))}">' + "".join(f'<option value="{s}">{esc(ctx.nav(s))}</option>' for s in svc) + "</optgroup>")

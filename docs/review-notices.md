@@ -1,7 +1,7 @@
 # Content pending HYT approval (generated)
 
 Every yellow review note on the preview site, by page. Generated from the English master by `tools/gen_docs.py`.
-**38 notes on 38 pages.**
+**37 notes on 37 pages.**
 
 These notes are hidden by `python3 src/build.py --production`; resolve them before launch.
 
@@ -25,7 +25,7 @@ These notes are hidden by `python3 src/build.py --production`; resolve them befo
 | SKC Gleittechnik (Germany) | `/skc-gleittechnik-gmbh-germany/` | Awaiting HYT input: the SKC Gleittechnik product range and technical data to be listed on this page, and approved partner text and logo usage. |
 | Executed Projects | `/executed-projects/` | HYT to supply the full list of approved executed projects with completion year, scope, photographs and written client permission to publish. HYT must also confirm whether the Indian Railways contract for nine CNC underfloor wheel lathes is complete (Executed) or still in progress (Under Execution). |
 | Projects Under Execution | `/under-execution/` | HYT to confirm the current status, scope and publishable details (photographs, client permission) for each project. Internal note: when a project is completed, move its section to Executed Projects. |
-| Wheel Shop Automation | `/wheel-shop-automation/` | HYT to confirm the automation scope it offers (handling equipment, software and data integration) and any reference installations that may be named on this page. |
+| Wheel Shops | `/turnkey-project/wheel-shops/` | HYT to confirm the automation scope it offers (handling equipment, software and data integration) and any reference installations that may be named on this page. |
 | Rolling Stock Manufacturing Facilities | `/turnkey-project/rolling-stock-manufacturing-facilities/` | HYT to confirm any reference installations at rolling stock manufacturers that may be named on this page, and the extent of factory integration (handling, data exchange) it offers. |
 | Wheelset Manufacturing Plants | `/turnkey-project/wheelset-manufacturing-plants/` | HYT to confirm whether any reference wheelset plants can be named, and the traceability software and handling equipment within its own supply. |
 | Wheel Machining Lines | `/turnkey-project/wheel-machining-lines/` | HYT to confirm any wheel machining line references that may be named, and which handling equipment (loaders, conveyors, turnover units) is within its own supply. |
@@ -40,7 +40,6 @@ These notes are hidden by `python3 src/build.py --production`; resolve them befo
 | Domestic Exhibitions | `/domestic-exhibitions/` | No Indian exhibitions are verified yet. HYT to supply the list of domestic exhibitions attended (event name, city, year), stand photographs and upcoming events with dates and stand numbers. |
 | Blog | `/blog/` | No articles exist yet; posts will be published at /blog/article-name/. HYT to confirm whether the Blog and Knowledge Centre stay separate (as proposed: Blog for dated articles, Knowledge Centre for evergreen guides) or are merged, and to approve the planned topics and authors. |
 | Downloads | `/downloads/` | The catalogue listed is a sample file. On the current site, catalogues are released after a short form – HYT to decide whether that form stays or files are downloaded directly. HYT to supply the final catalogue and individual product datasheets. |
-| Careers | `/career/` | Job posts on the current site date from 2022 and no current openings are verified. HYT to supply current openings (title, location, experience, short description) and refresh them before launch. |
 | Life at HYT | `/memorialization/` | HYT to confirm the new label "Life at HYT" (replacing "Memorialization") and the move of this page under Work With Us; the URL /memorialization/ is kept. HYT to supply event photographs with captions (event name and year). |
 | Privacy Policy | `/privacy-policy/` | Draft for review. HYT's legal adviser to check this policy together with the Cookie Policy (the current policy was last updated in December 2021), confirm the retention periods proposed below, name the form-processing provider and confirm whether an EU or UK representative is required. |
 | Cookie Policy | `/cookie-policy/` | Draft for review together with the Privacy Policy. HYT's legal adviser to confirm the text, and the web team to confirm before launch that no cookies, analytics or third-party embeds are active. Update this policy and add a consent banner before any such tool is introduced. |

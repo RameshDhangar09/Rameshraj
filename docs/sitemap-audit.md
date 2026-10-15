@@ -7,7 +7,7 @@ All four worksheets were analysed: **Summary**, **Page Inventory** (74 rows incl
 
 | Item | Workbook | Built | Notes |
 |------|----------|-------|-------|
-| Pages | 74 | 79 per language, 474 in total (Annual Return removed; six Turnkey Solutions pages added – both at HYT's request, 14 Oct 2026) | `src/registry.py` holds one entry per row; `sr` = Sr. No. |
+| Pages | 74 | 78 per language, 468 in total (Annual Return removed and six Turnkey Solutions pages added at HYT's request, 14 Oct 2026; Wheel Shop Automation merged into Wheel Shops, 15 Oct 2026 – `/wheel-shop-automation/` 301-redirects to `/turnkey-project/wheel-shops/`) | `src/registry.py` holds one entry per row; `sr` = Sr. No. |
 | Existing URLs kept | 39 | 39 | |
 | New pages | 26 | 26 | URLs from the "Recommended URL" column |
 | Changed URLs (301) | 9 + `/wheel-press/` = 10 | 10 + 1 | plus `/installation-and-commissioning/` → `/installation-commissioning/` (row 34 note) |

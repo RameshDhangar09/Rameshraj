@@ -43,7 +43,7 @@ repeat the go-live checks on the real host.
 
 ## Go-live checklist (to run on the production host)
 
-- [ ] All 66 redirects return **301** to the right URL (`docs/redirects.md`)
+- [ ] All 72 redirects return **301** to the right URL (`docs/redirects.md`)
 - [ ] `/products` → 301 → `/products/`; `/products/index.html` → 301 → `/products/`
 - [ ] Unknown URL returns **404** with the custom page; `/de-de/xyz` shows the German 404
 - [ ] HTTPS enforced; non-www canonical host redirect active

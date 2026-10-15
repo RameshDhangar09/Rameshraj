@@ -101,6 +101,12 @@ RewriteRule ^fr\-fr/installation\-and\-commissioning/?$ /fr-fr/installation-comm
 RewriteRule ^it\-it/installation\-and\-commissioning/?$ /it-it/installation-commissioning/ [R=301,L,NC]
 RewriteRule ^nl\-nl/installation\-and\-commissioning/?$ /nl-nl/installation-commissioning/ [R=301,L,NC]
 RewriteRule ^en\-us/installation\-and\-commissioning/?$ /en-us/installation-commissioning/ [R=301,L,NC]
+RewriteRule ^wheel\-shop\-automation/?$ /turnkey-project/wheel-shops/ [R=301,L,NC]
+RewriteRule ^de\-de/wheel\-shop\-automation/?$ /de-de/turnkey-project/wheel-shops/ [R=301,L,NC]
+RewriteRule ^fr\-fr/wheel\-shop\-automation/?$ /fr-fr/turnkey-project/wheel-shops/ [R=301,L,NC]
+RewriteRule ^it\-it/wheel\-shop\-automation/?$ /it-it/turnkey-project/wheel-shops/ [R=301,L,NC]
+RewriteRule ^nl\-nl/wheel\-shop\-automation/?$ /nl-nl/turnkey-project/wheel-shops/ [R=301,L,NC]
+RewriteRule ^en\-us/wheel\-shop\-automation/?$ /en-us/turnkey-project/wheel-shops/ [R=301,L,NC]
 
 # 3. Never expose /index.html – redirect to the clean directory URL.
 RewriteCond %{THE_REQUEST} \s/+(.*/)?index\.html[\s?] [NC]

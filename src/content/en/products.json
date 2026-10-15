@@ -70,7 +70,7 @@
             {
               "icon": "diagram-3",
               "title": "Stand-alone or part of a line?",
-              "text": "Linked with [measuring stations](page:wheel-measuring-station) and wheelset handling, a lathe can become part of an [automated wheel shop](page:wheel-shop-automation). Plan the interfaces from the start."
+              "text": "Linked with [measuring stations](page:wheel-measuring-station) and wheelset handling, a lathe can become part of an [automated wheel shop](page:ts-wheel-shops#automation). Plan the interfaces from the start."
             }
           ]
         },
@@ -1712,7 +1712,7 @@
           "heading": "Engineered into your wheel shop",
           "paragraphs": [
             "A portal lathe performs best when wheelsets reach it without waiting. HYT plans the machine's position in the shop together with wheelset tracks, storage and the next process steps, provides the foundation drawing and commissions the lathe on your wheelsets.",
-            "For larger facilities we deliver the complete process as a [turnkey project](page:turnkey-project) or as part of [wheel shop automation](page:wheel-shop-automation). [Spare supply](page:spare-supply) and maintenance contracts follow for the life of the machine."
+            "For larger facilities we deliver the complete process as a [turnkey project](page:turnkey-project) or as part of [wheel shop automation](page:ts-wheel-shops#automation). [Spare supply](page:spare-supply) and maintenance contracts follow for the life of the machine."
           ],
           "image": "projects/railway-wheel-shop",
           "image_alt": "Sample illustration of a railway wheel shop with wheelset tracks leading to machining stations",
@@ -1764,7 +1764,7 @@
             },
             {
               "q": "Can the YPL-02 be part of an automated wheel shop?",
-              "a": "Yes. It can be linked with wheelset handling and [measuring stations](page:wheel-measuring-station) as part of a [wheel shop automation](page:wheel-shop-automation) project."
+              "a": "Yes. It can be linked with wheelset handling and [measuring stations](page:wheel-measuring-station) as part of a [wheel shop automation](page:ts-wheel-shops#automation) project."
             }
           ]
         }
@@ -2966,7 +2966,7 @@
           "heading": "A press you can rely on",
           "paragraphs": [
             "HYT sizes the press to your wheels, axles and interference specification, installs and commissions it, and trains your team on pressing and documentation.",
-            "Hydraulic components and seals are available through [spare supply](page:spare-supply), and the press can be integrated into [wheel shop automation](page:wheel-shop-automation) for a continuous wheelset flow."
+            "Hydraulic components and seals are available through [spare supply](page:spare-supply), and the press can be integrated into [wheel shop automation](page:ts-wheel-shops#automation) for a continuous wheelset flow."
           ],
           "image": "projects/wheel-shop-automation-line",
           "image_alt": "Sample illustration of an automated wheelset production line with a press station",
@@ -3018,7 +3018,7 @@
             },
             {
               "q": "How does the press fit into an automated wheel shop?",
-              "a": "It can be linked to handling equipment and [measuring stations](page:wheel-measuring-station) as part of [wheel shop automation](page:wheel-shop-automation)."
+              "a": "It can be linked to handling equipment and [measuring stations](page:wheel-measuring-station) as part of [wheel shop automation](page:ts-wheel-shops#automation)."
             }
           ]
         }
@@ -3047,7 +3047,7 @@
           "paragraphs": [
             "Should this wheelset be re-profiled, re-wheeled or scrapped? Is the new wheelset within tolerance before it leaves the shop? The answers depend on measurements – and manual gauges are slow, operator-dependent and hard to document.",
             "A wheel measuring station records the key geometry of wheels and wheelsets in a repeatable cycle: tread diameters, flange height and thickness, back-to-back distance and further parameters specified by the operator. Results are stored and compared with your limits.",
-            "Placed before a wheel lathe, the station helps plan the cut; placed after machining or pressing, it confirms the result. In an [automated wheel shop](page:wheel-shop-automation) it becomes the data point that tells each wheelset where to go next."
+            "Placed before a wheel lathe, the station helps plan the cut; placed after machining or pressing, it confirms the result. In an [automated wheel shop](page:ts-wheel-shops#automation) it becomes the data point that tells each wheelset where to go next."
           ],
           "image": "products/wheel-measuring-station",
           "image_alt": "Sample illustration of a wheelset on an automatic wheel measuring station",
@@ -3206,7 +3206,7 @@
             {
               "icon": "diagram-3",
               "title": "Automated lines",
-              "text": "The decision point in a [wheel shop automation](page:wheel-shop-automation) system."
+              "text": "The decision point in a [wheel shop automation](page:ts-wheel-shops#automation) system."
             }
           ]
         },
@@ -3217,7 +3217,7 @@
           "heading": "Measurements you can trust",
           "paragraphs": [
             "A measuring station is only as good as its calibration. HYT commissions the station against reference standards, trains your inspectors and includes routine verification in [maintenance contracts](page:annual-maintenance-contract).",
-            "For new facilities we plan the station as part of the complete material and data flow – see [Wheel Shop Automation](page:wheel-shop-automation)."
+            "For new facilities we plan the station as part of the complete material and data flow – see [Wheel Shops](page:ts-wheel-shops)."
           ],
           "image": "company/quality-inspection",
           "image_alt": "Sample illustration of an inspector reviewing wheelset measurement results",
@@ -3269,7 +3269,7 @@
             },
             {
               "q": "Is the station part of HYT's wheel shop automation?",
-              "a": "It can be supplied on its own or as part of a complete [wheel shop automation](page:wheel-shop-automation) solution."
+              "a": "It can be supplied on its own or as part of a complete [wheel shop automation](page:ts-wheel-shops#automation) solution."
             }
           ]
         }

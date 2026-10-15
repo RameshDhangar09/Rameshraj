@@ -82,7 +82,6 @@ product(28, "skc-gleittechnik-gmbh-germany",       "/skc-gleittechnik-gmbh-germa
 page(29, "turnkey-project",       "/turnkey-project/",       "home",            image="projects/railway-wheel-shop")
 page(30, "executed-projects",     "/executed-projects/",     "turnkey-project", image="projects/emu-car-shed")
 page(31, "under-execution",       "/under-execution/",       "turnkey-project", image="projects/pit-foundation-civil-works")
-page(32, "wheel-shop-automation", "/wheel-shop-automation/", "turnkey-project", image="projects/wheel-shop-automation-line")
 # Turnkey Solutions – six solution pages added at HYT's request (14 Oct 2026); not rows of the v2 workbook (sr 75–80).
 page(75, "ts-wheel-shops",              "/turnkey-project/wheel-shops/",                            "turnkey-project", image="projects/railway-wheel-shop")
 page(76, "ts-maintenance-depots",       "/turnkey-project/railway-maintenance-depots/",             "turnkey-project", image="projects/metro-depot")
@@ -147,8 +146,8 @@ page(58, "thank-you", "/thank-you/", "contact-us", "utility", sitemap=False)
 page(74, "404",       "/404.html",   "home", "utility", sitemap=False)
 
 PAGES = {p["id"]: p for p in P}
-assert len(P) == 79, len(P)
-assert len({p["sr"] for p in P}) == 79
+assert len(P) == 78, len(P)
+assert len({p["sr"] for p in P}) == 78
 
 # Main menu (desktop mega menu + mobile accordion). Headings are not pages.
 MENU = [
@@ -169,10 +168,10 @@ MENU = [
             "multi-purpose-armature-machine", "automated-train-washing-plant", "rail-cum-road-vehicle-shunter"]},
         {"heading": "partner-products", "anchor": "partner-products", "items": ["skc-gleittechnik-gmbh-germany"]},
     ]},
-    {"id": "turnkey-project", "feature": "wheel-shop-automation", "columns": [
+    {"id": "turnkey-project", "feature": "ts-wheel-shops", "columns": [
         {"heading": "turnkey-solutions", "items": ["ts-wheel-shops", "ts-maintenance-depots", "ts-rolling-stock-facilities",
                                                    "ts-wheelset-plants", "ts-wheel-machining-lines", "ts-axle-machining-lines"]},
-        {"heading": "project-references", "items": ["executed-projects", "under-execution", "wheel-shop-automation"]}]},
+        {"heading": "project-references", "items": ["executed-projects", "under-execution"]}]},
     {"id": "services", "feature": "wet-leasing", "columns": [
         {"items": ["installation-commissioning", "maintenance",
                    ("operation-and-maintenance", 1), ("annual-maintenance-contract", 1),
@@ -213,7 +212,9 @@ REDIRECTS = [
     ("/epc-project/", "/turnkey-project/"),
     ("/maintainance/", "/maintenance/"),
 ]
-EXTRA_REDIRECTS = [("/installation-and-commissioning/", "/installation-commissioning/")]
+# /wheel-shop-automation/ was merged into the Wheel Shops page at HYT's request (15 Oct 2026)
+EXTRA_REDIRECTS = [("/installation-and-commissioning/", "/installation-commissioning/"),
+                   ("/wheel-shop-automation/", "/turnkey-project/wheel-shops/")]
 
 # Customer marks for the home-page logo carousel (verified customers only, see docs/verified-facts.md).
 # Files in hyt-website/assets/images/clients/ are neutral PLACEHOLDERS – replace with approved logos.
