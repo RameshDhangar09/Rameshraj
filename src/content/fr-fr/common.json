@@ -324,5 +324,11 @@
     "heading": "Suivre HYT",
     "linkedin": "HYT Engineering sur LinkedIn",
     "youtube": "HYT Engineering sur YouTube"
+  },
+  "hero": {
+    "label": "Temps forts",
+    "pause": "Mettre le diaporama en pause",
+    "play": "Lancer le diaporama",
+    "slide": "Diapositive {n} sur {total}"
   }
 }

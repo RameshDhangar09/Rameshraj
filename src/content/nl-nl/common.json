@@ -324,5 +324,11 @@
     "heading": "Volg HYT",
     "linkedin": "HYT Engineering op LinkedIn",
     "youtube": "HYT Engineering op YouTube"
+  },
+  "hero": {
+    "label": "Uitgelicht",
+    "pause": "Diavoorstelling pauzeren",
+    "play": "Diavoorstelling afspelen",
+    "slide": "Dia {n} van {total}"
   }
 }

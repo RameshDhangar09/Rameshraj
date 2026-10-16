@@ -324,5 +324,11 @@
     "heading": "HYT folgen",
     "linkedin": "HYT Engineering auf LinkedIn",
     "youtube": "HYT Engineering auf YouTube"
+  },
+  "hero": {
+    "label": "Highlights",
+    "pause": "Diashow anhalten",
+    "play": "Diashow abspielen",
+    "slide": "Folie {n} von {total}"
   }
 }

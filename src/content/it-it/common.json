@@ -324,5 +324,11 @@
     "heading": "Segua HYT",
     "linkedin": "HYT Engineering su LinkedIn",
     "youtube": "HYT Engineering su YouTube"
+  },
+  "hero": {
+    "label": "In evidenza",
+    "pause": "Metti in pausa la presentazione",
+    "play": "Avvia la presentazione",
+    "slide": "Diapositiva {n} di {total}"
   }
 }

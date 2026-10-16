@@ -18,5 +18,28 @@
     "page": "international-exhibitions",
     "anchor": null,
     "_comment": "Where the highlighted 'Next Event' link in the top bar points. Change page/anchor when an event is announced (e.g. a news item)."
-  }
+  },
+  "hero_interval_seconds": 10,
+  "hero_slides": [
+    {
+      "type": "embed",
+      "src": "https://www.canva.com/design/DAHYJcQ7hxM/ROLXbgGFozbgHHvQPfrbhw/watch?embed",
+      "poster": "homepage/hero-wheel-lathe-workshop",
+      "poster_hero": true,
+      "page": "products",
+      "anchor": "wheel-lathes",
+      "label_key": "categories.wheel-lathes",
+      "_note": "Canva embed. For a true silent background loop, export the design from Canva as MP4, save it as assets/videos/hero-1.mp4 and change type to \"video\" with src \"/assets/videos/hero-1.mp4\"."
+    },
+    {
+      "type": "image",
+      "image": "projects/railway-wheel-shop",
+      "page": "ts-wheel-shops"
+    },
+    {
+      "type": "image",
+      "image": "company/service-maintenance",
+      "page": "services"
+    }
+  ]
 }

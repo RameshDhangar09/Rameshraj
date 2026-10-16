@@ -1103,6 +1103,58 @@ def _wheel_svg():
             '</svg>')
 
 
+# --------------------------------------------------------------------------
+# Home hero slideshow (src/config.json -> hero_slides). Slide media can be an
+# image, a self-hosted video or an embedded player (e.g. Canva "watch?embed").
+# Videos and embeds always sit on a poster image, so the hero is never empty.
+# --------------------------------------------------------------------------
+def hero_slide_label(ctx, s):
+    return ctx.t(s["label_key"]) if s.get("label_key") else ctx.nav(s["page"])
+
+
+def hero_slides(ctx, slides):
+    out = []
+    for i, s in enumerate(slides):
+        first = i == 0
+        poster = s.get("poster") or s.get("image")
+        img = picture(poster, "", "100vw", eager=first, cls="hero-home__img", hero=bool(s.get("poster_hero")))
+        extra = ""
+        if s.get("type") == "video":
+            extra = (f'<video class="hero-slide__video" muted loop playsinline preload="none" aria-hidden="true" tabindex="-1" '
+                     f'data-src="{esc(s["src"])}"></video>')
+        elif s.get("type") == "embed":
+            extra = (f'<div class="hero-slide__embed"><iframe title="{esc(hero_slide_label(ctx, s))}" aria-hidden="true" tabindex="-1" data-src="{esc(s["src"])}" '
+                     f'allow="autoplay; fullscreen" referrerpolicy="strict-origin-when-cross-origin"></iframe></div>')
+        state = ' is-active"' if first else '" aria-hidden="true"'
+        out.append(f'<div class="hero-slide{state} data-hero-slide data-type="{esc(s.get("type", "image"))}">{img}{extra}</div>')
+    return '<div class="hero-slides" data-hero-slides>' + "".join(out) + "</div>"
+
+
+def hero_controls(ctx, slides):
+    n = len(slides)
+    secs = int(CONFIG.get("hero_interval_seconds", 10))
+    cur = ' aria-current="true"'
+    dots = "".join(
+        f'<li><button type="button" class="hero-dot{" is-active" if i == 0 else ""}" data-hero-goto="{i}" '
+        f'aria-label="{esc(ctx.t("hero.slide").replace("{n}", str(i + 1)).replace("{total}", str(n)))}: {esc(hero_slide_label(ctx, s))}"'
+        f'{cur if i == 0 else ""}><span class="hero-dot__label">{esc(hero_slide_label(ctx, s))}</span>'
+        f'<span class="hero-dot__bar" aria-hidden="true"><span></span></span></button></li>'
+        for i, s in enumerate(slides))
+    links = "".join(
+        f'<a class="hero-caption{" is-active" if i == 0 else ""}" href="{esc(ctx.url(s["page"], s.get("anchor")))}" data-hero-caption'
+        f'{"" if i == 0 else " hidden"}>{icon("play-circle") if s.get("type") in ("video", "embed") else ""}<span>{esc(hero_slide_label(ctx, s))}</span>{icon("arrow-right")}</a>'
+        for i, s in enumerate(slides))
+    return (f'<div class="hero-nav" data-hero-nav data-interval="{secs}" role="group" aria-roledescription="{esc(ctx.t("carousel.label"))}" '
+            f'aria-label="{esc(ctx.t("hero.label"))}"><div class="container hero-nav__inner">'
+            f'<div class="hero-nav__captions">{links}</div>'
+            f'<div class="hero-nav__controls"><ol class="hero-dots">{dots}</ol>'
+            f'<button type="button" class="hero-nav__btn" data-hero-prev aria-label="{esc(ctx.t("carousel.prev"))}">{icon("chevron-left")}</button>'
+            f'<button type="button" class="hero-nav__btn" data-hero-next aria-label="{esc(ctx.t("carousel.next"))}">{icon("chevron-right")}</button>'
+            f'<button type="button" class="hero-nav__btn" data-hero-toggle aria-label="{esc(ctx.t("hero.pause"))}" '
+            f'data-label-pause="{esc(ctx.t("hero.pause"))}" data-label-play="{esc(ctx.t("hero.play"))}">'
+            f'{icon("pause-fill", "hero-nav__pause")}{icon("play-fill", "hero-nav__play")}</button></div></div></div>')
+
+
 HERO_FX = ('<div class="hero-fx" aria-hidden="true"><div class="hero-fx__grid"></div>'
            '<div class="hero-fx__spot"></div><div class="hero-fx__wheel">' + _wheel_svg() + '</div>'
            '<span class="hero-fx__beam"></span><span class="hero-fx__rail"></span></div>')
@@ -1114,14 +1166,16 @@ def hero(ctx, pid, pg, crumbs):
     eyebrow = f'<p class="eyebrow eyebrow--hero">{esc(pg.get("eyebrow"))}</p>' if pg.get("eyebrow") else ""
     lede = f'<p class="hero__lede">{inline(ctx, pg.get("lede", ""))}</p>' if pg.get("lede") else ""
     if t == "home":
-        return (f'<section class="hero-home" aria-labelledby="page-title" data-hero-fx><div class="hero-home__media">'
-                f'{picture(p["image"], "", "100vw", eager=True, cls="hero-home__img", hero=True)}</div>'
+        slides = CONFIG.get("hero_slides") or []
+        media = hero_slides(ctx, slides) if slides else picture(p["image"], "", "100vw", eager=True, cls="hero-home__img", hero=True)
+        return (f'<section class="hero-home{" hero-home--slides" if slides else ""}" aria-labelledby="page-title" data-hero-fx><div class="hero-home__media">'
+                f'{media}</div>'
                 f'{HERO_FX}'
                 f'<div class="container hero-home__content"><div class="hero-home__text">{eyebrow}'
                 f'<h1 class="hero-home__title" id="page-title">{inline(ctx, pg["h1"])}</h1>{lede}'
                 f'<div class="hero__actions"><a class="btn-hyt btn-hyt--primary btn-hyt--lg" href="{esc(ctx.url("products"))}">{esc(ctx.t("buttons.explore_products"))}</a>'
                 f'<a class="btn-hyt btn-hyt--ghost btn-hyt--lg" href="{esc(ctx.url("contact-us"))}">{esc(ctx.t("buttons.discuss_requirement"))}</a></div>'
-                f'</div></div><a class="hero-home__scroll" href="#main-content-start" aria-label="{esc(ctx.t("skip_link"))}">{icon("chevron-down")}</a></section>'
+                f'</div></div>{hero_controls(ctx, slides) if slides else ""}<a class="hero-home__scroll" href="#main-content-start" aria-label="{esc(ctx.t("skip_link"))}">{icon("chevron-down")}</a></section>'
                 f'<span id="main-content-start"></span>')
     if t == "product":
         model = f'<p class="product-hero__model"><span>{esc(ctx.t("product.model"))}</span> {esc(p["model"])}</p>' if p.get("model") else ""
@@ -1449,7 +1503,7 @@ Header always set Referrer-Policy "strict-origin-when-cross-origin"
 Header always set X-Frame-Options "SAMEORIGIN"
 Header always set Permissions-Policy "camera=(), microphone=(), geolocation=()"
 # Tighten connect-src/form-action to your form provider once chosen (see docs/forms-integration.md).
-Header always set Content-Security-Policy "default-src 'self'; script-src 'self' 'unsafe-inline' https://cdn.jsdelivr.net https://challenges.cloudflare.com; style-src 'self' https://cdn.jsdelivr.net; font-src 'self' https://cdn.jsdelivr.net; img-src 'self' data:; connect-src 'self' https:; form-action 'self' https:; frame-src https://challenges.cloudflare.com https://www.youtube-nocookie.com; media-src 'self'; base-uri 'self'; object-src 'none'"
+Header always set Content-Security-Policy "default-src 'self'; script-src 'self' 'unsafe-inline' https://cdn.jsdelivr.net https://challenges.cloudflare.com; style-src 'self' https://cdn.jsdelivr.net; font-src 'self' https://cdn.jsdelivr.net; img-src 'self' data:; connect-src 'self' https:; form-action 'self' https:; frame-src https://challenges.cloudflare.com https://www.youtube-nocookie.com https://www.canva.com; media-src 'self'; base-uri 'self'; object-src 'none'"
 <FilesMatch "\\.(css|js|woff2|jpg|jpeg|png|svg|webp|pdf)$">
 Header set Cache-Control "public, max-age=2592000"
 </FilesMatch>
