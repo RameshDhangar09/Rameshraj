@@ -19,6 +19,21 @@ export function initVideos() {
       iframe.focus();
     });
   });
+  // Embedded players (e.g. a Canva video) – same click-to-load approach
+  document.querySelectorAll('[data-embed]').forEach((btn) => {
+    btn.addEventListener('click', () => {
+      const src = btn.dataset.embed;
+      if (!/^https:\/\/www\.canva\.com\/design\/[\w-]+\/[\w-]+\/watch\?embed$/.test(src)) return;
+      const iframe = document.createElement('iframe');
+      iframe.src = src;
+      iframe.title = btn.getAttribute('aria-label') || 'Video';
+      iframe.allow = 'autoplay; fullscreen';
+      iframe.allowFullscreen = true;
+      iframe.className = 'video-iframe';
+      btn.replaceWith(iframe);
+      iframe.focus();
+    });
+  });
   // Hide the decorative play cue while a video is playing
   document.querySelectorAll('video.video-player').forEach((v) => {
     const frame = v.closest('.video-frame');

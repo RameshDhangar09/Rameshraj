@@ -45,7 +45,11 @@
           ],
           "image": "company/manufacturing-facility",
           "image_alt": "Sample illustration of a machine assembly hall with a railway wheel lathe under construction",
-          "layout": "image-right"
+          "layout": "image-right",
+          "video": {
+            "embed": "https://www.canva.com/design/DAHYJ-LJa_w/Rb5Ihk5HNeqx7aHRnmLx_A/watch?embed",
+            "title": "HYT Engineering – corporate video"
+          }
         },
         {
           "type": "cards",

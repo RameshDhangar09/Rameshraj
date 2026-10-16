@@ -45,7 +45,11 @@
           ],
           "image": "company/manufacturing-facility",
           "image_alt": "Beispielillustration einer Montagehalle mit einer Radsatzdrehmaschine im Aufbau",
-          "layout": "image-right"
+          "layout": "image-right",
+          "video": {
+            "embed": "https://www.canva.com/design/DAHYJ-LJa_w/Rb5Ihk5HNeqx7aHRnmLx_A/watch?embed",
+            "title": "HYT Engineering – Unternehmensfilm"
+          }
         },
         {
           "type": "cards",

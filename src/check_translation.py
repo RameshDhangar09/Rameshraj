@@ -15,7 +15,7 @@ import sys
 from pathlib import Path
 
 SRC = Path(__file__).resolve().parent
-STRUCT = {"type", "id", "icon", "image", "page", "pages", "href", "file", "layout", "cols", "variant", "form",
+STRUCT = {"type", "id", "icon", "image", "page", "pages", "href", "file", "layout", "cols", "variant", "embed", "poster", "form",
           "anchor", "products", "status_key", "related", "limit", "carousel", "href"}
 LINK = re.compile(r"\]\(([^)\s]+)\)")
 MODELS = re.compile(r"\b(YUL-08|YUL-12T|YUGLX|YUGL|YPL-0[24]|YSL-(?:08|12|21)|YVM-04|ATL-01)\b")

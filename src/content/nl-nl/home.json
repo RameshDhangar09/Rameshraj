@@ -45,7 +45,11 @@
           ],
           "image": "company/manufacturing-facility",
           "image_alt": "Voorbeeldillustratie van een montagehal met een wielenbank in aanbouw",
-          "layout": "image-right"
+          "layout": "image-right",
+          "video": {
+            "embed": "https://www.canva.com/design/DAHYJ-LJa_w/Rb5Ihk5HNeqx7aHRnmLx_A/watch?embed",
+            "title": "HYT Engineering – bedrijfsfilm"
+          }
         },
         {
           "type": "cards",

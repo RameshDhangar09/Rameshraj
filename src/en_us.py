@@ -72,7 +72,7 @@ WORDS = {
 _PATTERN = re.compile(r"\b(" + "|".join(sorted(map(re.escape, WORDS), key=len, reverse=True)) + r")\b", re.IGNORECASE)
 _LINK = re.compile(r"(\]\([^)]*\))")  # protect link targets like ](page:knowledge-centre)
 
-STRUCTURAL = {"type", "id", "icon", "image", "page", "pages", "href", "file", "layout", "cols", "variant", "form",
+STRUCTURAL = {"type", "id", "icon", "image", "page", "pages", "href", "file", "layout", "cols", "variant", "embed", "poster", "form",
               "anchor", "products", "status_key", "related", "limit", "carousel"}
 
 

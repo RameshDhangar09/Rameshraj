@@ -1137,3 +1137,13 @@ html:not(.js-ready) .hero-slide:not(:first-child) { display: none; }
   .hero-slide, .hero-slide.is-active { transform: none; transition: opacity 200ms linear; }
   .hero-dot.is-active .hero-dot__bar span { animation: none; transform: scaleX(1); }
 }
+
+/* Corporate video in a text section (click to load) */
+.media-frame--video { overflow: hidden; aspect-ratio: 16 / 9; background: #0c263c; }
+.media-frame--video .video-frame { height: 100%; aspect-ratio: auto; box-shadow: none; }
+.media-frame--video .video-frame { border-radius: 10px; }
+.video-facade__label { position: absolute; left: 1rem; bottom: 1rem; display: inline-flex; align-items: center; gap: 0.5rem; padding: 0.45rem 0.85rem;
+  border-radius: 999px; background: rgba(12, 38, 60, 0.72); color: #fff; font-family: var(--font-head); font-weight: 600; font-size: 0.92rem; backdrop-filter: blur(6px); }
+.media-frame--video .video-facade::after { content: ""; position: absolute; inset: 0; background: linear-gradient(0deg, rgba(12, 38, 60, 0.45), transparent 55%); pointer-events: none; }
+.media-frame--video .video-facade img { transition: transform 900ms var(--ease); }
+.media-frame--video .video-facade:hover img { transform: scale(1.04); }

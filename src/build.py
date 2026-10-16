@@ -260,6 +260,13 @@ def b_text(ctx, b):
     if not b.get("image"):
         return section(f'<div class="row"><div class="col-lg-9 reveal">{text}</div></div>', b)
     img = f'<figure class="media-frame reveal">{picture(b["image"], b.get("image_alt", ""))}</figure>'
+    if b.get("video") and b["video"].get("embed"):
+        # Click-to-load video: nothing is requested from the video host until the visitor presses play
+        v = b["video"]
+        img = (f'<figure class="media-frame media-frame--video reveal"><div class="video-frame" data-video>'
+               f'<button type="button" class="video-facade" data-embed="{esc(v["embed"])}" aria-label="{esc(ctx.t("product.play_video"))}: {esc(v.get("title", ""))}">'
+               f'{picture(v.get("poster") or b["image"], "")}<span class="video-facade__play">{icon("play-fill")}</span>'
+               f'<span class="video-facade__label">{esc(v.get("title", ""))}</span></button></div></figure>')
     left = b.get("layout") == "image-left"
     cols = (f'<div class="col-lg-6 {"order-lg-1" if left else "order-lg-2"}">{img}</div>'
             f'<div class="col-lg-6 {"order-lg-2" if left else "order-lg-1"} reveal">{text}</div>')
@@ -1507,7 +1514,7 @@ Header always set Referrer-Policy "strict-origin-when-cross-origin"
 Header always set X-Frame-Options "SAMEORIGIN"
 Header always set Permissions-Policy "camera=(), microphone=(), geolocation=()"
 # Tighten connect-src/form-action to your form provider once chosen (see docs/forms-integration.md).
-Header always set Content-Security-Policy "default-src 'self'; script-src 'self' 'unsafe-inline' https://cdn.jsdelivr.net https://challenges.cloudflare.com; style-src 'self' https://cdn.jsdelivr.net; font-src 'self' https://cdn.jsdelivr.net; img-src 'self' data:; connect-src 'self' https:; form-action 'self' https:; frame-src https://challenges.cloudflare.com https://www.youtube-nocookie.com; media-src 'self'; base-uri 'self'; object-src 'none'"
+Header always set Content-Security-Policy "default-src 'self'; script-src 'self' 'unsafe-inline' https://cdn.jsdelivr.net https://challenges.cloudflare.com; style-src 'self' https://cdn.jsdelivr.net; font-src 'self' https://cdn.jsdelivr.net; img-src 'self' data:; connect-src 'self' https:; form-action 'self' https:; frame-src https://challenges.cloudflare.com https://www.youtube-nocookie.com https://www.canva.com; media-src 'self'; base-uri 'self'; object-src 'none'"
 <FilesMatch "\\.(css|js|woff2|jpg|jpeg|png|svg|webp|pdf)$">
 Header set Cache-Control "public, max-age=2592000"
 </FilesMatch>

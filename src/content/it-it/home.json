@@ -45,7 +45,11 @@
           ],
           "image": "company/manufacturing-facility",
           "image_alt": "Illustrazione di esempio di un reparto di montaggio con un tornio per sale montate in costruzione",
-          "layout": "image-right"
+          "layout": "image-right",
+          "video": {
+            "embed": "https://www.canva.com/design/DAHYJ-LJa_w/Rb5Ihk5HNeqx7aHRnmLx_A/watch?embed",
+            "title": "HYT Engineering – video aziendale"
+          }
         },
         {
           "type": "cards",
