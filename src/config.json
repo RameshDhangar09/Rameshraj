@@ -54,5 +54,6 @@
       "page": "services"
     }
   ],
-  "hero_slides_note": "Videos supplied by HYT (16 Oct 2026): Wheel Lathes, Turnkey wheel shop, Services. Audio removed; WebM/VP9 preferred, MP4/H.264 fallback; 1920x960 desktop, 1280x640 phones."
+  "hero_slides_note": "Videos supplied by HYT (16 Oct 2026): Wheel Lathes, Turnkey wheel shop, Services. Audio removed; WebM/VP9 preferred, MP4/H.264 fallback; 1920x960 desktop, 1280x640 phones.",
+  "chat_endpoint": ""
 }

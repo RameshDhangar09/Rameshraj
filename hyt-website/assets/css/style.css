@@ -1147,3 +1147,111 @@ html:not(.js-ready) .hero-slide:not(:first-child) { display: none; }
 .media-frame--video .video-facade::after { content: ""; position: absolute; inset: 0; background: linear-gradient(0deg, rgba(12, 38, 60, 0.45), transparent 55%); pointer-events: none; }
 .media-frame--video .video-facade img { transition: transform 900ms var(--ease); }
 .media-frame--video .video-facade:hover img { transform: scale(1.04); }
+
+/* ==========================================================================
+   Axiom – website chat assistant
+   ========================================================================== */
+.back-to-top { bottom: 6.6rem; }
+.axiom { position: fixed; right: 1.25rem; bottom: 1.25rem; z-index: 1040; font-family: var(--font-body); }
+.axiom-launcher { position: relative; display: flex; align-items: center; gap: 0; padding: 0; border: 0; background: none; cursor: pointer; }
+.axiom-launcher img { width: 64px; height: 64px; border-radius: 50%; border: 3px solid #fff; box-shadow: 0 12px 30px -8px rgba(13, 43, 69, 0.55), 0 0 0 0 rgba(245, 130, 32, 0.6);
+  transition: transform 300ms var(--ease), box-shadow 300ms var(--ease); position: relative; z-index: 1; }
+.axiom-launcher:hover img { transform: scale(1.06) rotate(-3deg); }
+.axiom-launcher::before { content: ""; position: absolute; right: 0; bottom: 0; width: 64px; height: 64px; border-radius: 50%; border: 2px solid var(--hyt-orange); opacity: 0; z-index: 0; }
+.axiom-launcher__label { position: absolute; right: 74px; top: 50%; transform: translate(8px, -50%); white-space: nowrap; padding: 0.45rem 0.85rem; border-radius: 999px;
+  background: var(--hyt-blue); color: #fff; font-family: var(--font-head); font-weight: 600; font-size: 0.9rem; box-shadow: var(--shadow); opacity: 0; pointer-events: none; transition: opacity 250ms ease, transform 250ms var(--ease); }
+.axiom-launcher:hover .axiom-launcher__label, .axiom-launcher:focus-visible .axiom-launcher__label { opacity: 1; transform: translate(0, -50%); }
+.axiom-launcher:focus-visible { outline: none; }
+.axiom-launcher:focus-visible img { outline: 3px solid var(--hyt-orange); outline-offset: 3px; }
+.axiom-launcher.is-loading img { animation: axiom-spin-glow 900ms linear infinite; }
+.axiom.is-open .axiom-launcher img { transform: scale(0.92); }
+.axiom-bubble { position: absolute; right: 0; bottom: 80px; width: 250px; padding: 0.9rem 2.2rem 0.9rem 1rem; border-radius: 14px 14px 4px 14px; background: #fff; color: var(--hyt-graphite);
+  box-shadow: 0 18px 40px -16px rgba(13, 43, 69, 0.45); border: 1px solid var(--hyt-border); font-size: 0.92rem; line-height: 1.45; animation: axiom-pop 450ms cubic-bezier(.34, 1.56, .64, 1); }
+.axiom-bubble p { margin: 0; }
+.axiom-bubble__close { position: absolute; top: 0.4rem; right: 0.4rem; width: 26px; height: 26px; display: grid; place-items: center; border: 0; border-radius: 50%; background: transparent; color: var(--hyt-grey-text); font-size: 0.75rem; cursor: pointer; }
+.axiom-bubble__close:hover { background: var(--hyt-grey-light); }
+
+.axiom-panel { position: absolute; right: 0; bottom: 80px; width: min(390px, calc(100vw - 2.5rem)); height: min(620px, calc(100vh - 8rem)); display: flex; flex-direction: column;
+  background: #fff; border-radius: 18px; overflow: hidden; box-shadow: 0 30px 80px -24px rgba(13, 43, 69, 0.55), 0 0 0 1px rgba(13, 43, 69, 0.06); transform-origin: bottom right; animation: axiom-open 380ms var(--ease); }
+.axiom-panel[hidden] { display: none; }
+.axiom-panel__head { position: relative; display: flex; align-items: center; gap: 0.75rem; padding: 0.9rem 0.75rem 0.9rem 1rem; color: #fff; isolation: isolate;
+  background: linear-gradient(120deg, #184A72 0%, #123A5B 60%, #0F3150 100%); }
+.axiom-panel__head::after { content: ""; position: absolute; left: 0; right: 0; bottom: 0; height: 3px; background: linear-gradient(90deg, var(--hyt-orange), #FFB066 50%, #4FA3FF); }
+.axiom-panel__avatar { width: 48px; height: 48px; border-radius: 50%; border: 2px solid rgba(255, 255, 255, 0.85); }
+.axiom-panel__who { flex: 1; min-width: 0; }
+.axiom-panel__who h2 { margin: 0; color: #fff; font-size: 1.1rem; letter-spacing: 0.02em; }
+.axiom-panel__who p { margin: 0; font-size: 0.8rem; color: rgba(255, 255, 255, 0.82); display: flex; align-items: center; gap: 0.4rem; }
+.axiom-dot { width: 8px; height: 8px; border-radius: 50%; background: #3DDC84; box-shadow: 0 0 0 3px rgba(61, 220, 132, 0.25); }
+.axiom-panel__icon { width: 36px; height: 36px; display: grid; place-items: center; border-radius: 50%; border: 0; background: rgba(255, 255, 255, 0.1); color: #fff; cursor: pointer; transition: background-color var(--t); }
+.axiom-panel__icon:hover { background: rgba(255, 255, 255, 0.22); }
+.axiom-panel__icon:focus-visible, .axiom-send:focus-visible, .axiom-chip:focus-visible, .axiom-consent__btn:focus-visible { outline: 3px solid var(--hyt-orange); outline-offset: 2px; }
+
+.axiom-consent { flex: 1; overflow-y: auto; padding: 1.25rem 1.5rem 1.5rem; text-align: center; background: radial-gradient(circle at 50% 0%, #EAF2FA, #fff 60%); }
+.axiom-consent__figure { display: block; width: 150px; height: auto; margin: 0 auto 0.5rem; filter: drop-shadow(0 18px 24px rgba(24, 74, 114, 0.35)); animation: axiom-float 4s ease-in-out infinite; }
+.axiom-consent__title { font-size: 1.15rem; margin: 0 0 0.5rem; }
+.axiom-privacy__text { font-size: 0.86rem; color: var(--hyt-grey-text); line-height: 1.5; text-align: left; margin-bottom: 1rem; }
+.axiom-consent__btn { width: 100%; padding: 0.8rem 1rem; border: 0; border-radius: 10px; background: var(--hyt-orange); color: var(--hyt-black); font-family: var(--font-head); font-weight: 700; cursor: pointer; transition: filter var(--t); }
+.axiom-consent__btn:hover { filter: brightness(1.06); }
+
+.axiom-chat { flex: 1; display: flex; flex-direction: column; min-height: 0; }
+.axiom-chat[hidden], .axiom-consent[hidden] { display: none; }
+.axiom-log { flex: 1; overflow-y: auto; padding: 1rem; display: flex; flex-direction: column; gap: 0.6rem; background: #F5F7FA; overscroll-behavior: contain; }
+.axiom-msg { max-width: 88%; padding: 0.7rem 0.9rem; border-radius: 14px; font-size: 0.92rem; line-height: 1.5; animation: axiom-msg 320ms var(--ease); }
+.axiom-msg p { margin: 0 0 0.35rem; } .axiom-msg p:last-child { margin-bottom: 0; }
+.axiom-msg--bot { align-self: flex-start; background: #fff; border: 1px solid var(--hyt-border); border-top-left-radius: 4px; color: var(--hyt-graphite); }
+.axiom-msg--user { align-self: flex-end; background: var(--hyt-blue); color: #fff; border-top-right-radius: 4px; }
+.axiom-msg__source { font-size: 0.8rem; color: var(--hyt-grey-text); }
+.axiom-msg a { color: var(--hyt-blue); }
+.axiom-cards { list-style: none; margin: 0.6rem 0 0; padding: 0; display: grid; gap: 0.45rem; }
+.axiom-card { display: block; padding: 0.6rem 0.75rem; border-radius: 10px; border: 1px solid var(--hyt-border); background: #FAFBFC; text-decoration: none; color: var(--hyt-graphite); transition: border-color var(--t), background-color var(--t), transform var(--t); }
+.axiom-card:hover { border-color: var(--hyt-orange); background: #fff; transform: translateX(2px); color: var(--hyt-graphite); }
+.axiom-card strong { display: block; font-size: 0.88rem; }
+.axiom-card span { display: block; font-size: 0.8rem; color: var(--hyt-grey-text); margin-top: 0.15rem; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+.axiom-card em { display: inline-flex; align-items: center; gap: 0.3rem; margin-top: 0.3rem; font-style: normal; font-size: 0.78rem; font-weight: 600; color: var(--hyt-orange-text); }
+.axiom-contact { display: grid; gap: 0.4rem; margin-top: 0.6rem; }
+.axiom-contact__btn { display: flex; align-items: center; gap: 0.5rem; padding: 0.5rem 0.7rem; border-radius: 8px; background: var(--hyt-grey-light); color: var(--hyt-graphite); font-size: 0.85rem; font-weight: 600; text-decoration: none; }
+.axiom-contact__btn:hover { background: #E9EDF1; color: var(--hyt-graphite); }
+.axiom-contact__btn--primary { background: var(--hyt-orange); color: var(--hyt-black); }
+.axiom-contact__btn--primary:hover { background: #F79A47; color: var(--hyt-black); }
+.axiom-chips { display: flex; flex-wrap: wrap; gap: 0.4rem; padding-left: 0.25rem; }
+.axiom-chip { padding: 0.45rem 0.8rem; border-radius: 999px; border: 1.5px solid var(--hyt-blue); background: #fff; color: var(--hyt-blue); font-size: 0.84rem; font-weight: 600; cursor: pointer; transition: background-color var(--t), color var(--t); animation: axiom-msg 380ms var(--ease) backwards; }
+.axiom-chip:nth-child(2) { animation-delay: 60ms; } .axiom-chip:nth-child(3) { animation-delay: 120ms; } .axiom-chip:nth-child(4) { animation-delay: 180ms; } .axiom-chip:nth-child(n+5) { animation-delay: 240ms; }
+.axiom-chip:hover { background: var(--hyt-blue); color: #fff; }
+.axiom-typing { align-self: flex-start; display: flex; gap: 4px; padding: 0.75rem 0.9rem; background: #fff; border: 1px solid var(--hyt-border); border-radius: 14px; border-top-left-radius: 4px; }
+.axiom-typing span { width: 7px; height: 7px; border-radius: 50%; background: var(--hyt-blue); animation: axiom-dot 1s ease-in-out infinite; }
+.axiom-typing span:nth-child(2) { animation-delay: 150ms; } .axiom-typing span:nth-child(3) { animation-delay: 300ms; }
+.axiom-form { display: flex; gap: 0.5rem; padding: 0.7rem 0.75rem; border-top: 1px solid var(--hyt-border); background: #fff; }
+.axiom-input { flex: 1; min-width: 0; padding: 0.65rem 0.9rem; border: 1.5px solid var(--hyt-border-strong); border-radius: 999px; font-size: 0.95rem; color: var(--hyt-graphite); }
+.axiom-input:focus { outline: none; border-color: var(--hyt-blue); box-shadow: 0 0 0 3px rgba(24, 74, 114, 0.15); }
+.axiom-send { width: 44px; height: 44px; flex: 0 0 auto; display: grid; place-items: center; border-radius: 50%; border: 0; background: var(--hyt-blue); color: #fff; cursor: pointer; transition: background-color var(--t), transform var(--t); }
+.axiom-send:hover { background: var(--hyt-orange); transform: rotate(-12deg); }
+.axiom-disclaimer { margin: 0; padding: 0 0.9rem 0.6rem; background: #fff; font-size: 0.72rem; color: var(--hyt-grey-text); line-height: 1.4; }
+
+@keyframes axiom-open { from { opacity: 0; transform: translateY(16px) scale(0.96); } to { opacity: 1; transform: none; } }
+@keyframes axiom-pop { from { opacity: 0; transform: translateY(10px) scale(0.9); } to { opacity: 1; transform: none; } }
+@keyframes axiom-msg { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+@keyframes axiom-dot { 0%, 60%, 100% { transform: translateY(0); opacity: 0.5; } 30% { transform: translateY(-4px); opacity: 1; } }
+@keyframes axiom-float { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-6px); } }
+@keyframes axiom-ring { 0% { transform: scale(1); opacity: 0.8; } 100% { transform: scale(1.55); opacity: 0; } }
+@keyframes axiom-spin-glow { 0% { box-shadow: 0 0 0 0 rgba(245, 130, 32, 0.7); } 100% { box-shadow: 0 0 0 14px rgba(245, 130, 32, 0); } }
+@media (prefers-reduced-motion: no-preference) {
+  .axiom:not(.is-open) .axiom-launcher::before { animation: axiom-ring 2.4s ease-out 3s infinite; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .axiom-panel, .axiom-msg, .axiom-chip, .axiom-bubble, .axiom-consent__figure { animation: none !important; }
+}
+@media (max-width: 575.98px) {
+  .axiom { right: 0.9rem; bottom: 0.9rem; }
+  .axiom-launcher img, .axiom-launcher::before { width: 56px; height: 56px; }
+  .back-to-top { bottom: 5.6rem; right: 1rem; }
+  .axiom.is-open { inset: 0; right: 0; bottom: 0; }
+  .axiom.is-open .axiom-launcher { display: none; }
+  .axiom-panel { position: fixed; inset: 0; width: 100%; height: 100%; border-radius: 0; bottom: 0; }
+  .axiom-bubble { width: min(250px, calc(100vw - 6rem)); }
+}
+@media print { .axiom { display: none !important; } }
+/* Keep the hero slideshow controls clear of the Axiom launcher */
+@media (min-width: 768px) { .hero-home--slides .hero-nav__controls { margin-right: 4.75rem; } }
+@media (max-width: 575.98px) { .axiom.is-open { z-index: 2000; } }
+.axiom-msg .axiom-contact__btn, .axiom-msg .axiom-card { color: var(--hyt-graphite); }
+.axiom-msg .axiom-contact__btn--primary, .axiom-msg .axiom-contact__btn--primary:hover { color: var(--hyt-black); }

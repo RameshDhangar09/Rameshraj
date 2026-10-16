@@ -793,6 +793,48 @@ def write_search_index(ctx):
     (OUT / "search-index" / f"{name}.json").write_text(json.dumps(out, ensure_ascii=False, separators=(",", ":")))
 
 
+# --------------------------------------------------------------------------
+# Axiom – website chat assistant. The launcher is in every page; the chat
+# panel and its data (/axiom/<lang>.json) load only when a visitor opens it.
+# --------------------------------------------------------------------------
+def axiom_launcher(ctx):
+    if not ctx.c.get("chat"):
+        return ""
+    name = "en" if ctx.lang["code"] == "en" else ctx.lang["code"]
+    return (f'<aside class="axiom" data-axiom data-src="/axiom/{name}.json" aria-label="{esc(ctx.t("chat.name"))} – {esc(ctx.t("chat.role"))}">'
+            f'<div class="axiom-bubble" data-axiom-bubble hidden><p>{esc(ctx.t("chat.bubble"))}</p>'
+            f'<button type="button" class="axiom-bubble__close" data-axiom-bubble-close aria-label="{esc(ctx.t("chat.bubble_close"))}">{icon("x-lg")}</button></div>'
+            f'<button type="button" class="axiom-launcher" data-axiom-open aria-expanded="false" aria-controls="axiom-panel" '
+            f'aria-label="{esc(ctx.t("chat.open"))}"><img src="/assets/images/axiom/axiom-avatar-96.webp" width="96" height="96" alt="" '
+            f'loading="lazy" decoding="async"><span class="axiom-launcher__label">{esc(ctx.t("chat.launcher"))}</span></button></aside>')
+
+
+def write_axiom_data(ctx):
+    """Knowledge for the Axiom chat assistant: interface text, pages and FAQ answers of this language."""
+    chat = dict(ctx.c.get("chat") or {})
+    if not chat:
+        return
+    chat["privacy_html"] = inline(ctx, chat.get("privacy_text", ""))
+    pages, faqs = {}, []
+    for p in R.P:
+        if p["id"] in ("404", "thank-you"):
+            continue
+        pg = ctx.pages.get(p["id"]) or {}
+        pages[p["id"]] = {"t": plain(pg.get("nav", "")), "u": ctx.url(p["id"]), "d": plain(pg.get("summary") or pg.get("description", ""))}
+        for b in pg.get("blocks", []):
+            if b.get("type") == "faq":
+                for it in b.get("items", []):
+                    faqs.append({"q": plain(it["q"]), "a": plain(it["a"]), "p": p["id"]})
+    con = ctx.c["contact"]
+    data = {"lang": ctx.lang["code"], "strings": chat, "pages": pages, "faqs": faqs,
+            "contact": {"phone": con["phone"], "tollfree": con["tollfree"], "email": con["email"],
+                        "careers_email": "careers@hytengineering.com"},
+            "endpoint": CONFIG.get("chat_endpoint", "")}
+    name = "en" if ctx.lang["code"] == "en" else ctx.lang["code"]
+    (OUT / "axiom").mkdir(exist_ok=True)
+    (OUT / "axiom" / f"{name}.json").write_text(json.dumps(data, ensure_ascii=False, separators=(",", ":")))
+
+
 def b_quote_band(ctx, b):
     cite = f'<p class="quote-band__cite">{inline(ctx, b["cite"])}</p>' if b.get("cite") else ""
     inner = (f'<figure class="quote-band reveal"><span class="quote-band__mark" aria-hidden="true">&ldquo;</span>'
@@ -1061,7 +1103,8 @@ def footer(ctx, pid):
               f'<nav aria-label="{esc(ctx.t("footer.legal_label"))}"><ul class="footer-bottom__legal">{legal}</ul></nav></div>{sample}</div></div>')
 
     return (f'<footer class="site-footer"><div class="container">{band}{main}</div>{bottom}'
-            f'<a href="#top" class="back-to-top" data-back-to-top aria-label="{esc(ctx.t("buttons.back_to_top"))}">{icon("arrow-up")}</a></footer>')
+            f'<a href="#top" class="back-to-top" data-back-to-top aria-label="{esc(ctx.t("buttons.back_to_top"))}">{icon("arrow-up")}</a></footer>'
+            f'{axiom_launcher(ctx)}')
 
 
 def breadcrumb(ctx, pid):
@@ -1574,6 +1617,7 @@ def main():
         (OUT / "translations" / f"{tr_name}.json").write_text(json.dumps(common, ensure_ascii=False, indent=2))
         ctx = Ctx(L, common, pages)
         write_search_index(ctx)
+        write_axiom_data(ctx)
         for p in R.P:
             html_ = render_page(ctx, p["id"])
             dest = out_path(L, p["id"])

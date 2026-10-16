@@ -20,6 +20,7 @@ import { initVideos } from './video.js';
 import { initFacilities } from './facilities.js';
 import { initHomeFx } from './home-fx.js';
 import { initHeroCarousel } from './hero-carousel.js';
+import { initAxiomLauncher } from './axiom-launcher.js';
 
 const root = document.documentElement;
 
@@ -33,6 +34,7 @@ async function boot() {
   safe('navigation', () => initNavigation(strings));
   safe('language switcher', () => initLanguageSwitcher());
   safe('hero carousel', () => initHeroCarousel());
+  safe('axiom', () => initAxiomLauncher());
   safe('home effects', () => initHomeFx());
   safe('animations', () => initAnimations());
   safe('accordions', () => initAccordions());
