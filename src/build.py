@@ -1122,7 +1122,7 @@ def hero_slides(ctx, slides):
         if s.get("type") == "video":
             small = "".join(f' data-{a}="{esc(s[k])}"' for k, a in (("src_small", "src-small"), ("src_webm", "src-webm"),
                                                                      ("src_webm_small", "src-webm-small")) if s.get(k))
-            extra = (f'<video class="hero-slide__video" muted loop playsinline autoplay preload="none" disablepictureinpicture '
+            extra = (f'<video class="hero-slide__video" muted loop playsinline preload="none" disablepictureinpicture '
                      f'aria-hidden="true" tabindex="-1" data-src="{esc(s["src"])}"{small}></video>')
         elif s.get("type") == "embed":
             extra = (f'<div class="hero-slide__embed"><iframe title="{esc(hero_slide_label(ctx, s))}" aria-hidden="true" tabindex="-1" data-src="{esc(s["src"])}" '

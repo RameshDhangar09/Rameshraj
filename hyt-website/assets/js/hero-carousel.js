@@ -40,21 +40,25 @@ export function initHeroCarousel() {
   const paused = () => userPaused || hidden || offscreen || focusInside;
 
   /* ---------- media ---------- */
+  // WebM/VP9 where the browser supports it (smaller files), MP4/H.264 otherwise;
+  // the lighter 1280-px files on phones.
+  const pickSource = (video) => {
+    const small = window.matchMedia('(max-width: 767.98px)').matches;
+    const d = video.dataset;
+    const webm = d.srcWebm && video.canPlayType('video/webm; codecs="vp9"') === 'probably';
+    const mp4 = video.canPlayType('video/mp4; codecs="avc1.640028"') !== '';
+    return webm || (!mp4 && d.srcWebm)
+      ? (small && d.srcWebmSmall) || d.srcWebm
+      : (small && d.srcSmall) || d.src;
+  };
   const loadMedia = (slide) => {
     const video = slide.querySelector('video[data-src]');
     // Videos start after the page has loaded (the poster image is the first paint),
     // never for reduced-motion users, and not when the visitor asked to save data.
     if (video && pageLoaded && !reduce && !saveData) {
       if (!video.src) {
-        const small = window.matchMedia('(max-width: 767.98px)').matches;
-        const d = video.dataset;
-        const webm = d.srcWebm && video.canPlayType('video/webm; codecs="vp9"') === 'probably';
-        const mp4 = video.canPlayType('video/mp4; codecs="avc1.640028"') !== '';
-        const pick = webm || !mp4 && d.srcWebm
-          ? (small && d.srcWebmSmall) || d.srcWebm
-          : (small && d.srcSmall) || d.src;
         video.muted = true;
-        video.src = pick;
+        video.src = pickSource(video);
         video.addEventListener('playing', () => slide.classList.add('media-ready'), { once: true });
       }
       video.play().catch(() => {});
@@ -72,6 +76,14 @@ export function initHeroCarousel() {
   const warmNext = (n) => {
     const img = slides[n]?.querySelector('img[loading="lazy"]');
     if (img) img.loading = 'eager';
+    // Start buffering the next slide's video so it is ready when its turn comes
+    const video = slides[n]?.querySelector('video[data-src]');
+    if (video && !video.src && pageLoaded && !reduce && !saveData) {
+      video.muted = true;
+      video.preload = 'auto';
+      video.src = pickSource(video);
+      video.addEventListener('playing', () => slides[n].classList.add('media-ready'), { once: true });
+    }
   };
 
   /* ---------- timing ---------- */
@@ -105,6 +117,8 @@ export function initHeroCarousel() {
       current = n;
     }
     const slide = slides[current];
+    const clip = slide.querySelector('video');
+    if (clip && clip.currentTime > 0) clip.currentTime = 0; // each visit starts the clip from the beginning
     slide.classList.add('is-active');
     slide.removeAttribute('aria-hidden');
     captions[current]?.removeAttribute('hidden');
