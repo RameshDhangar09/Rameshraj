@@ -6,8 +6,9 @@
  * buttons with aria-current, previous/next and a pause/play button (WCAG
  * 2.2.2). Autoplay pauses while the hero is off-screen, the tab is hidden or
  * keyboard focus is inside the controls, and never starts for visitors who
- * prefer reduced motion. Embedded players load only after the page has
- * finished loading, so they never delay the first paint.
+ * prefer reduced motion. Videos and embedded players load only after the page
+ * has finished loading, on top of a poster image, so they never delay the first
+ * paint; phones get a lighter video file.
  */
 export function initHeroCarousel() {
   const stage = document.querySelector('[data-hero-slides]');
@@ -21,6 +22,7 @@ export function initHeroCarousel() {
   if (slides.length < 2) return;
 
   const reduce = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  const saveData = Boolean(navigator.connection && navigator.connection.saveData);
   const interval = (Number(nav.dataset.interval) || 10) * 1000;
   nav.style.setProperty('--interval', `${interval}ms`);
   hero.classList.add('is-carousel');
@@ -40,12 +42,22 @@ export function initHeroCarousel() {
   /* ---------- media ---------- */
   const loadMedia = (slide) => {
     const video = slide.querySelector('video[data-src]');
-    if (video) {
+    // Videos start after the page has loaded (the poster image is the first paint),
+    // never for reduced-motion users, and not when the visitor asked to save data.
+    if (video && pageLoaded && !reduce && !saveData) {
       if (!video.src) {
-        video.src = video.dataset.src;
+        const small = window.matchMedia('(max-width: 767.98px)').matches;
+        const d = video.dataset;
+        const webm = d.srcWebm && video.canPlayType('video/webm; codecs="vp9"') === 'probably';
+        const mp4 = video.canPlayType('video/mp4; codecs="avc1.640028"') !== '';
+        const pick = webm || !mp4 && d.srcWebm
+          ? (small && d.srcWebmSmall) || d.srcWebm
+          : (small && d.srcSmall) || d.src;
+        video.muted = true;
+        video.src = pick;
         video.addEventListener('playing', () => slide.classList.add('media-ready'), { once: true });
       }
-      if (!reduce) video.play().catch(() => {});
+      video.play().catch(() => {});
     }
     const frame = slide.querySelector('iframe[data-src]');
     if (frame && !frame.src && pageLoaded) {

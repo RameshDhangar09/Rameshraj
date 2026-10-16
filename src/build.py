@@ -1120,8 +1120,10 @@ def hero_slides(ctx, slides):
         img = picture(poster, "", "100vw", eager=first, cls="hero-home__img", hero=bool(s.get("poster_hero")))
         extra = ""
         if s.get("type") == "video":
-            extra = (f'<video class="hero-slide__video" muted loop playsinline preload="none" aria-hidden="true" tabindex="-1" '
-                     f'data-src="{esc(s["src"])}"></video>')
+            small = "".join(f' data-{a}="{esc(s[k])}"' for k, a in (("src_small", "src-small"), ("src_webm", "src-webm"),
+                                                                     ("src_webm_small", "src-webm-small")) if s.get(k))
+            extra = (f'<video class="hero-slide__video" muted loop playsinline autoplay preload="none" disablepictureinpicture '
+                     f'aria-hidden="true" tabindex="-1" data-src="{esc(s["src"])}"{small}></video>')
         elif s.get("type") == "embed":
             extra = (f'<div class="hero-slide__embed"><iframe title="{esc(hero_slide_label(ctx, s))}" aria-hidden="true" tabindex="-1" data-src="{esc(s["src"])}" '
                      f'allow="autoplay; fullscreen" referrerpolicy="strict-origin-when-cross-origin"></iframe></div>')
@@ -1471,6 +1473,8 @@ DirectorySlash On
 AddDefaultCharset UTF-8
 AddType image/svg+xml .svg
 AddType font/woff2 .woff2
+AddType video/webm .webm
+AddType video/mp4 .mp4
 AddType application/manifest+json .webmanifest
 
 ErrorDocument 404 /404.html
@@ -1503,7 +1507,7 @@ Header always set Referrer-Policy "strict-origin-when-cross-origin"
 Header always set X-Frame-Options "SAMEORIGIN"
 Header always set Permissions-Policy "camera=(), microphone=(), geolocation=()"
 # Tighten connect-src/form-action to your form provider once chosen (see docs/forms-integration.md).
-Header always set Content-Security-Policy "default-src 'self'; script-src 'self' 'unsafe-inline' https://cdn.jsdelivr.net https://challenges.cloudflare.com; style-src 'self' https://cdn.jsdelivr.net; font-src 'self' https://cdn.jsdelivr.net; img-src 'self' data:; connect-src 'self' https:; form-action 'self' https:; frame-src https://challenges.cloudflare.com https://www.youtube-nocookie.com https://www.canva.com; media-src 'self'; base-uri 'self'; object-src 'none'"
+Header always set Content-Security-Policy "default-src 'self'; script-src 'self' 'unsafe-inline' https://cdn.jsdelivr.net https://challenges.cloudflare.com; style-src 'self' https://cdn.jsdelivr.net; font-src 'self' https://cdn.jsdelivr.net; img-src 'self' data:; connect-src 'self' https:; form-action 'self' https:; frame-src https://challenges.cloudflare.com https://www.youtube-nocookie.com; media-src 'self'; base-uri 'self'; object-src 'none'"
 <FilesMatch "\\.(css|js|woff2|jpg|jpeg|png|svg|webp|pdf)$">
 Header set Cache-Control "public, max-age=2592000"
 </FilesMatch>

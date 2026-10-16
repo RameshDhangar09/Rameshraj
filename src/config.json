@@ -22,14 +22,17 @@
   "hero_interval_seconds": 10,
   "hero_slides": [
     {
-      "type": "embed",
-      "src": "https://www.canva.com/design/DAHYJcQ7hxM/ROLXbgGFozbgHHvQPfrbhw/watch?embed",
-      "poster": "homepage/hero-wheel-lathe-workshop",
+      "type": "video",
+      "src": "/assets/videos/hyt-hero.mp4",
+      "src_small": "/assets/videos/hyt-hero-720.mp4",
+      "poster": "homepage/hero-video-poster",
       "poster_hero": true,
       "page": "products",
       "anchor": "wheel-lathes",
       "label_key": "categories.wheel-lathes",
-      "_note": "Canva embed. For a true silent background loop, export the design from Canva as MP4, save it as assets/videos/hero-1.mp4 and change type to \"video\" with src \"/assets/videos/hero-1.mp4\"."
+      "_note": "Background video supplied by HYT (16 Oct 2026): WebM/VP9 preferred where supported, MP4/H.264 otherwise; 1920x960 desktop, 1280x640 phones; no audio; loops silently.",
+      "src_webm": "/assets/videos/hyt-hero.webm",
+      "src_webm_small": "/assets/videos/hyt-hero-720.webm"
     },
     {
       "type": "image",

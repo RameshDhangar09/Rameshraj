@@ -51,7 +51,7 @@ site replaces hytengineering.com. Owner suggestions in brackets.
 | B27 | Catalogue gating: implemented as a short form before download (per HYT request). Confirm fields and whether a separate datasheet per product will be offered | Product pages, Downloads | Marketing |
 | B28 | Name, dates and page/news item of the next event for the highlighted "Next Event" link (currently points to International Exhibitions) | Top bar (`src/config.json` → `next_event`) | Marketing |
 | B29 | **Wheel Shop Automation page merged into Wheel Shops** at HYT's request (15 Oct 2026); `/wheel-shop-automation/` now 301-redirects to `/turnkey-project/wheel-shops/` (all languages). HYT to confirm the automation scope it offers (handling, software, data integration) – shown as a review note on the Wheel Shops page | Wheel Shops | Projects / Engineering |
-| B30 | Home hero slideshow: slide 1 embeds the Canva video (`…/watch?embed`; the design must be shared publicly). Check in a normal browser that it plays as a silent background – if Canva shows its player controls or a play button, export the design as MP4 (Canva → Share → Download → MP4) and self-host it (see README). Supply final images/videos for slides 2 and 3 | Home | Marketing |
+| B30 | Home hero slideshow: slide 1 now uses HYT's own hero video (self-hosted, autoplays silently; the Canva embed was removed). Supply final images – or videos – for slides 2 and 3 | Home | Marketing |
 | B24 | Confirm the New Delhi sales office details (mentioned on an old page; not published) | Contact | Sales |
 
 Every on-page review note is listed with its exact wording in
