@@ -1,0 +1,196 @@
+{
+  "pages": {
+    "contact-us": {
+      "nav": "Contact",
+      "title": "Contacter HYT Engineering – tours à roues CNC",
+      "description": "Contactez HYT Engineering à Pune pour vos tours à roues CNC, machines d’atelier d’essieux, ateliers clés en main ou le SAV : téléphone, e-mail ou formulaire.",
+      "eyebrow": "Contact",
+      "h1": "Contacter HYT Engineering",
+      "lede": "Parlez-nous de votre parc, de votre atelier ou du problème que vous devez résoudre. Un ingénieur d’application reviendra vers vous – généralement avec des questions avant d’apporter des réponses.",
+      "summary": "Téléphone, e-mail, adresse et formulaire de demande de HYT Engineering à Pune.",
+      "blocks": [
+        {
+          "type": "text",
+          "eyebrow": "Comment pouvons-nous vous aider ?",
+          "heading": "Échangez avec ceux qui construisent les machines",
+          "paragraphs": [
+            "Les demandes sont traitées par l’équipe technique et commerciale de HYT à Pune – des personnes qui connaissent les machines et les ateliers ferroviaires dans lesquels elles travaillent. Que vous prévoyiez un nouvel atelier de maintenance, le remplacement d’un ancien tour ou que vous ayez besoin d’un devis pour une seule machine : plus vous nous en dites, plus notre première réponse vous sera utile.",
+            "Informations utiles : types de véhicules et taille du parc, plage de diamètres et profils de roue, écartement de la voie, nombre d’essieux montés prévu par poste, ainsi qu’un croquis de l’implantation de votre atelier ou dépôt."
+          ],
+          "image": "company/corporate-office",
+          "image_alt": "Illustration d’exemple des bureaux et de l’usine de HYT Engineering à Pune",
+          "layout": "image-right"
+        },
+        {
+          "type": "contact",
+          "heading": "Coordonnées"
+        },
+        {
+          "type": "form",
+          "id": "enquiry",
+          "form": "enquiry",
+          "heading": "Envoyer une demande",
+          "intro": "Utilisez ce formulaire pour toute demande concernant nos produits, projets et services. Plus vous nous donnez de détails, plus notre première réponse pourra être précise."
+        },
+        {
+          "type": "split_cta",
+          "items": [
+            {
+              "icon": "headset",
+              "heading": "Service après-vente",
+              "text": "Machine à l’arrêt ou besoin de pièces de rechange ? Trouvez le bon contact SAV pour votre installation.",
+              "label": "Réseau de service",
+              "page": "service-centers"
+            },
+            {
+              "icon": "truck",
+              "heading": "Fournisseurs",
+              "text": "Vous souhaitez fournir des composants ou des prestations à HYT ? Référencez votre entreprise auprès de notre service achats.",
+              "label": "Référencement fournisseur",
+              "page": "supplier-registration"
+            },
+            {
+              "icon": "briefcase",
+              "heading": "Carrières",
+              "text": "Vous cherchez un poste en ingénierie, en fabrication ou en service ? Postulez via notre page carrières.",
+              "label": "Voir les offres",
+              "page": "career"
+            }
+          ]
+        }
+      ]
+    },
+    "sitemap": {
+      "nav": "Plan du site",
+      "title": "Plan du site – toutes les pages",
+      "description": "Toutes les pages du site HYT Engineering en une liste : entreprise, produits, projets clés en main, services, secteurs, médias, carrières, mentions légales.",
+      "eyebrow": "Informations sur le site",
+      "h1": "Plan du site",
+      "lede": "Toutes les pages de ce site, regroupées par rubrique. Saisissez un terme dans le champ de recherche pour filtrer la liste.",
+      "summary": "Vue d’ensemble de toutes les pages du site HYT Engineering.",
+      "blocks": [
+        {
+          "type": "sitemap",
+          "heading": "Toutes les pages"
+        },
+        {
+          "type": "cards",
+          "eyebrow": "Points de départ populaires",
+          "heading": "Vous ne savez pas par où commencer ?",
+          "cols": 4,
+          "items": [
+            {
+              "page": "products",
+              "icon": "grid-3x3-gap"
+            },
+            {
+              "page": "services",
+              "icon": "tools"
+            },
+            {
+              "page": "knowledge-centre",
+              "icon": "lightbulb"
+            },
+            {
+              "page": "contact-us",
+              "icon": "envelope"
+            }
+          ]
+        }
+      ]
+    },
+    "thank-you": {
+      "nav": "Merci",
+      "title": "Merci – votre envoi a bien été reçu",
+      "description": "Merci d’avoir contacté HYT Engineering. Votre envoi a bien été reçu : découvrez les prochaines étapes et nos contenus à lire en attendant notre réponse.",
+      "eyebrow": "Envoi reçu",
+      "h1": "Merci – nous avons bien reçu vos informations",
+      "lede": "Demande d’information, demande de catalogue, référencement fournisseur ou candidature : votre envoi est bien parvenu à l’équipe concernée chez HYT.",
+      "summary": "Confirmation de la réception de votre envoi et prochaines étapes.",
+      "blocks": [
+        {
+          "type": "steps",
+          "eyebrow": "Prochaines étapes",
+          "heading": "Trois étapes à partir de maintenant",
+          "items": [
+            {
+              "title": "Accusé de réception",
+              "text": "Votre envoi est enregistré et transmis à l’équipe compétente – ventes, service, achats ou ressources humaines."
+            },
+            {
+              "title": "Examen par un spécialiste",
+              "text": "Un spécialiste HYT examine les informations transmises. S’il nous faut des compléments, par exemple des profils de roue ou des plans, nous vous les demanderons."
+            },
+            {
+              "title": "Réponse",
+              "text": "Nous vous répondons par e-mail ou par téléphone. Pour une demande produit, il peut s’agir d’une recommandation, d’une proposition de rendez-vous ou d’une offre technique."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "eyebrow": "Besoin d’une réponse plus rapide ?",
+          "heading": "Demandes urgentes",
+          "paragraphs": [
+            "Si une machine est à l’arrêt ou si votre demande est urgente, appelez-nous pendant les heures d’ouverture au +91 20 6634 3900 ou au numéro gratuit 1800 2100 456, en rappelant les informations que vous avez transmises. Vous pouvez également écrire à info@hytengineering.com."
+          ]
+        },
+        {
+          "type": "cards",
+          "eyebrow": "En attendant",
+          "heading": "Poursuivez votre visite",
+          "cols": 3,
+          "items": [
+            {
+              "page": "products",
+              "icon": "grid-3x3-gap"
+            },
+            {
+              "page": "knowledge-centre",
+              "icon": "lightbulb"
+            },
+            {
+              "page": "turnkey-project",
+              "icon": "building-gear"
+            }
+          ]
+        }
+      ]
+    },
+    "404": {
+      "nav": "Page introuvable",
+      "title": "Page introuvable",
+      "description": "La page recherchée sur le site de HYT Engineering est introuvable. Elle a peut-être été déplacée : retrouvez nos produits, services ou contacts via ces liens.",
+      "eyebrow": "Erreur 404",
+      "h1": "Page introuvable",
+      "lede": "La page que vous recherchez n’existe pas ou a été déplacée. Notre site ayant été réorganisé, certaines anciennes adresses ont changé.",
+      "summary": "La page demandée est introuvable.",
+      "blocks": [
+        {
+          "type": "cards",
+          "heading": "Essayez l’une de ces pages",
+          "intro": "Vous pouvez aussi parcourir le [plan du site](page:sitemap) complet pour trouver ce que vous cherchez.",
+          "cols": 4,
+          "items": [
+            {
+              "page": "home",
+              "icon": "house"
+            },
+            {
+              "page": "products",
+              "icon": "grid-3x3-gap"
+            },
+            {
+              "page": "services",
+              "icon": "tools"
+            },
+            {
+              "page": "contact-us",
+              "icon": "envelope"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

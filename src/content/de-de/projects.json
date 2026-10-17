@@ -1,0 +1,378 @@
+{
+  "pages": {
+    "turnkey-project": {
+      "nav": "Schlüsselfertige Projekte",
+      "title": "Schlüsselfertige EPC-Projekte für Radsatzwerkstätten",
+      "description": "Schlüsselfertige EPC-Projekte für Radsatzwerkstätten und Betriebswerke: Layout, Bauschnittstelle, Maschinen, Montage, Schulung und Service aus einer Hand.",
+      "eyebrow": "Schlüsselfertige Projekte",
+      "h1": "Schlüsselfertige EPC-Projekte für Radsatzwerkstätten und Betriebswerke",
+      "lede": "Wenn ein Bahn- oder Metrobetreiber eine komplette Radsatzwerkstatt oder ein ganzes Betriebswerk benötigt, übernimmt HYT die Verantwortung vom ersten Layout bis zur laufenden Werkstatt – ein Vertrag, ein Terminplan, ein verantwortlicher Partner.",
+      "summary": "Komplette Radsatzwerkstätten und Betriebswerksanlagen – von Layout und Bauschnittstelle über Maschinen und Inbetriebnahme bis zur Betreuung über die gesamte Lebensdauer.",
+      "blocks": [
+        {
+          "type": "text",
+          "id": "overview",
+          "eyebrow": "Was schlüsselfertig bedeutet",
+          "heading": "Ein Partner von der leeren Halle bis zur produzierenden Werkstatt",
+          "paragraphs": [
+            "Eine Radsatzwerkstatt oder ein Betriebswerk ist mehr als eine Ansammlung von Maschinen. Radsätze müssen ohne Engpässe vom Eingang bis zur Freigabe durchlaufen, Gruben und Fundamente müssen millimetergenau zur Maschinenkonstruktion passen, und Strom, Druckluft und Daten müssen zur richtigen Zeit am richtigen Ort ankommen. Werden diese Bausteine bei verschiedenen Lieferanten beschafft, werden die Lücken dazwischen zum Problem des Auftraggebers.",
+            "Bei einem schlüsselfertigen Projekt – auch EPC-Projekt (Engineering, Procurement and Construction, also Planung, Beschaffung und Bau) – übernimmt HYT die Verantwortung für genau diese Lücken. Wir analysieren Ihre Flotte und Ihren Durchsatz, planen Prozess und Layout, liefern und integrieren die Maschinen, koordinieren oder realisieren die Bauschnittstelle und nehmen die gesamte Anlage mit Ihren eigenen Radsätzen in Betrieb.",
+            "Da wir die Kernmaschinen selbst konstruieren und bauen, werden Prozess, Fundamente und Ausrüstung von Anfang an gemeinsam geplant. Das verringert Schnittstellenrisiken, verkürzt die Inbetriebnahme und gibt Ihnen einen einzigen Verantwortlichen für die Leistung der Anlage."
+          ],
+          "image": "projects/railway-wheel-shop",
+          "image_alt": "Beispielillustration einer Radsatzwerkstatt mit Radsatzdrehmaschinen und Radsätzen auf Verschiebegleisen",
+          "layout": "image-right"
+        },
+        {
+          "type": "cards",
+          "id": "solutions",
+          "eyebrow": "Schlüsselfertige Lösungen",
+          "heading": "Anlagen, die wir planen, ausrüsten und in Betrieb nehmen",
+          "intro": "Sechs Anlagentypen, ein Ansatz: ein Partner, der für Layout, Maschinen, Montage und lebenslange Betreuung verantwortlich ist.",
+          "cols": 3,
+          "items": [
+            {
+              "page": "ts-wheel-shops",
+              "image": "projects/railway-wheel-shop"
+            },
+            {
+              "page": "ts-maintenance-depots",
+              "image": "projects/metro-depot"
+            },
+            {
+              "page": "ts-rolling-stock-facilities",
+              "image": "industries/rolling-stock-manufacturers"
+            },
+            {
+              "page": "ts-wheelset-plants",
+              "image": "products/wheel-press"
+            },
+            {
+              "page": "ts-wheel-machining-lines",
+              "image": "products/vertical-turning-boring-machine"
+            },
+            {
+              "page": "ts-axle-machining-lines",
+              "image": "products/axle-turning-lathe"
+            }
+          ]
+        },
+        {
+          "type": "features",
+          "id": "scope",
+          "eyebrow": "Typischer Leistungsumfang",
+          "heading": "Was ein schlüsselfertiges Projekt für Radsatzwerkstatt oder Betriebswerk umfassen kann",
+          "intro": "Jedes Projekt wird auf die Anforderungen des Auftraggebers zugeschnitten. Die folgenden Bausteine lassen sich nach Bedarf kombinieren.",
+          "cols": 3,
+          "items": [
+            {
+              "icon": "diagram-3",
+              "title": "Prozess- und Layoutplanung",
+              "text": "Flottenanalyse, Kapazitätsplanung und ein Radsatzfluss ohne Engpässe und unnötige Umschlagvorgänge."
+            },
+            {
+              "icon": "bricks",
+              "title": "Bau- und Gebäudeschnittstelle",
+              "text": "Planung von Grube, Fundament und Schienenauflagen – abgestimmt mit Ihrem Bauunternehmen oder in unserem Leistungsumfang ausgeführt."
+            },
+            {
+              "icon": "gear-wide-connected",
+              "title": "Maschinen",
+              "text": "Radsatzdrehmaschinen, Vertikaldrehmaschinen, Achsdrehmaschinen, Radsatzpressen, Messstationen und Auswuchtmaschinen."
+            },
+            {
+              "icon": "arrows-move",
+              "title": "Radsatzhandling",
+              "text": "Transport- und Handhabungseinrichtungen, die schwere Radsätze sicher zwischen den Arbeitsplätzen bewegen."
+            },
+            {
+              "icon": "plug",
+              "title": "Versorgung und Integration",
+              "text": "Stromverteilung, Druckluft, Späneentsorgung und Datenanbindung als ein Gesamtsystem geplant."
+            },
+            {
+              "icon": "people",
+              "title": "Inbetriebnahme und Service",
+              "text": "Abnahme auf Anlagenebene, Schulung des Personals und langfristige Wartungsverträge."
+            }
+          ]
+        },
+        {
+          "type": "steps",
+          "id": "phases",
+          "eyebrow": "Projektphasen",
+          "heading": "So wird ein schlüsselfertiges Projekt umgesetzt",
+          "intro": "Jede Phase endet mit einem klar definierten Ergebnis, das Sie prüfen und freigeben, bevor die nächste beginnt.",
+          "items": [
+            {
+              "title": "Anforderungsanalyse",
+              "text": "Flottenzusammensetzung, Rad- und Achstypen, Durchsatzziele und örtliche Randbedingungen werden gemeinsam mit Ihrem Team analysiert."
+            },
+            {
+              "title": "Konzept und Layout",
+              "text": "Prozessablauf, Maschinenauswahl und Hallenlayout werden ausgearbeitet und abgestimmt."
+            },
+            {
+              "title": "Detailplanung",
+              "text": "Maschinenkonstruktion, Gruben- und Fundamentzeichnungen, Versorgung und Schnittstellen werden finalisiert."
+            },
+            {
+              "title": "Fertigung und Beschaffung",
+              "text": "Die Maschinen werden in unserem Werk in Pune gebaut und geprüft; Zukaufkomponenten werden beschafft und abgenommen."
+            },
+            {
+              "title": "Baustellenvorbereitung",
+              "text": "Die Bauarbeiten werden ausgeführt oder überwacht, und die Baubereitschaft wird vor dem Versand der Maschinen geprüft."
+            },
+            {
+              "title": "Montage und Integration",
+              "text": "Maschinen, Handhabungstechnik und Versorgung werden installiert, angeschlossen und als Gesamtsystem getestet."
+            },
+            {
+              "title": "Inbetriebnahme und Abnahme",
+              "text": "Die Anlage weist ihre Leistung mit Ihren eigenen Radsätzen anhand vereinbarter Leistungskriterien nach."
+            },
+            {
+              "title": "Schulung, Übergabe und Service",
+              "text": "Das Personal wird geschult, die Dokumentation übergeben, und die langfristige [Instandhaltung](page:maintenance) beginnt."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "id": "why-hyt",
+          "eyebrow": "Warum das wichtig ist",
+          "heading": "Weniger Schnittstellen, weniger Risiko, früher produktiv",
+          "paragraphs": [
+            "Die meisten Verzögerungen in Werkstattprojekten entstehen an Schnittstellen: eine Grube, die nicht zur Maschine passt, eine Stromversorgung, die zu spät bereitsteht, eine Handhabungsanlage, die einen Arbeitsplatz nicht erreicht. Ein einziger Generalunternehmer beseitigt diese Schnittstellenprobleme bereits in der Planung – noch bevor gebaut wird.",
+            "Für [Eisenbahnen](page:ind-railways), [Metros](page:ind-metros) und [Schienenfahrzeughersteller](page:ind-rolling-stock) bedeutet das eine Anlage, die früher in Produktion geht und wie geplant arbeitet – mit einer einzigen Organisation, die dafür einsteht."
+          ],
+          "bullets": [
+            "Prozess, Fundamente und Maschinen gemeinsam geplant",
+            "Ein Terminplan und ein Ansprechpartner für die gesamte Anlage",
+            "Service über die gesamte Lebensdauer vom Hersteller der Maschinen"
+          ],
+          "image": "projects/pit-foundation-civil-works",
+          "image_alt": "Beispielillustration von Gruben- und Fundamentarbeiten für Radsatzdrehmaschinen in einem neuen Betriebswerk",
+          "layout": "image-left"
+        },
+        {
+          "type": "cards",
+          "id": "projects",
+          "eyebrow": "Projekte und Lösungen",
+          "heading": "Unsere Referenzen",
+          "cols": 3,
+          "items": [
+            {
+              "page": "executed-projects",
+              "image": "projects/emu-car-shed"
+            },
+            {
+              "page": "under-execution",
+              "image": "projects/metro-depot"
+            },
+            {
+              "page": "ts-wheel-shops",
+              "image": "projects/wheel-shop-automation-line"
+            }
+          ]
+        },
+        {
+          "type": "cta",
+          "heading": "Planen Sie eine neue Radsatzwerkstatt oder ein neues Betriebswerk?",
+          "text": "Teilen Sie uns Ihre Flotte, Ihre Durchsatzziele und Ihre Standortpläne mit. Unsere Projektingenieure skizzieren ein Konzept und die Schritte zu seiner Umsetzung.",
+          "primary": {
+            "label": "Anforderung besprechen",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Unsere Produkte entdecken",
+            "page": "products"
+          }
+        }
+      ]
+    },
+    "executed-projects": {
+      "nav": "Realisierte Projekte",
+      "title": "Realisierte Projekte: Werkzeugmaschinen für die Bahn",
+      "description": "Ausgewählte HYT-Referenzen: CNC-Vertikaldrehmaschinen für das EMU-Betriebswerk Sanpada (Mumbai) und die State Railway of Thailand sowie Unterflurdrehmaschinen.",
+      "eyebrow": "Schlüsselfertige Projekte",
+      "h1": "Realisierte Projekte",
+      "lede": "Eine Auswahl von Maschinen, die HYT an Bahnwerkstätten in Indien und im Ausland geliefert hat. Jeder Eintrag enthält die Angaben, die wir veröffentlichen dürfen.",
+      "summary": "Maschinen und Projekte, die HYT für Bahnwerkstätten in Indien und im Ausland realisiert hat.",
+      "blocks": [
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "HYT muss die vollständige Liste der freigegebenen realisierten Projekte mit Fertigstellungsjahr, Leistungsumfang, Fotos und schriftlicher Veröffentlichungsgenehmigung des Kunden liefern. HYT muss außerdem bestätigen, ob der Auftrag von Indian Railways über neun CNC-Unterflur-Radsatzdrehmaschinen abgeschlossen ist (Realisiert) oder noch läuft (In Ausführung)."
+        },
+        {
+          "type": "text",
+          "id": "overview",
+          "eyebrow": "Unsere Bilanz",
+          "heading": "Maschinen im Einsatz in Bahnwerkstätten",
+          "paragraphs": [
+            "Unsere Projekte reichen von einer einzelnen Maschine für ein bestehendes Betriebswerk bis zu ganzen Serien von Radsatzdrehmaschinen für eine nationale Eisenbahn. Der Erfolgsmaßstab ist dabei immer derselbe: Radsätze, die präzise und termingerecht instand gesetzt werden – über viele Jahre nach der Übergabe.",
+            "Die folgenden Projekte werden mit Kundenname, Standort und Leistungsumfang dargestellt, soweit wir diese veröffentlichen dürfen. Laufende Projekte finden Sie unter [Projekte in Ausführung](page:under-execution). Wenn Sie eine für Ihre Flotte relevante Referenzanlage besprechen möchten, [kontaktieren Sie uns](page:contact-us)."
+          ]
+        },
+        {
+          "type": "projects",
+          "id": "project-list",
+          "heading": "Realisierte Projekte",
+          "items": [
+            {
+              "id": "sanpada-emu-car-shed",
+              "title": "CNC-Vertikaldrehmaschine – EMU-Betriebswerk Sanpada",
+              "client": "EMU-Betriebswerk Sanpada (Sanpada EMU Car Shed)",
+              "location": "Mumbai, Indien",
+              "status_key": "executed",
+              "image": "projects/emu-car-shed",
+              "image_alt": "Beispielillustration eines EMU-Betriebswerks mit Vorortzügen in der Instandhaltung",
+              "scope": [
+                "Lieferung einer CNC-Vertikaldrehmaschine",
+                "Maschine konstruiert und gebaut im HYT-Werk in Pune",
+                "Eigene Radbearbeitungskapazität für das Betriebswerk"
+              ],
+              "text": "Elektrische Vorortzüge (EMU) fahren in dichtem Takt – jeder Radsatz, der schnell wieder in Betrieb geht, zählt. Mit einer CNC-Vertikaldrehmaschine erhält ein Betriebswerk eigene Kapazität, um Räder präzise und wiederholgenau auf Profil zu bearbeiten, statt auf externe Werkstätten angewiesen zu sein.",
+              "products": [
+                "vertical-turning-boring-machine"
+              ]
+            },
+            {
+              "id": "state-railway-of-thailand",
+              "title": "CNC-Vertikal-Revolverdrehmaschine – State Railway of Thailand",
+              "client": "State Railway of Thailand",
+              "location": "Bangkok, Thailand",
+              "status_key": "executed",
+              "image": "projects/railway-wheel-shop",
+              "image_alt": "Beispielillustration einer Radsatzwerkstatt mit einer Vertikaldrehmaschine",
+              "scope": [
+                "Lieferung einer CNC-Vertikal-Revolverdrehmaschine",
+                "Montage im Werk des Kunden in Bangkok",
+                "Maschine konstruiert und gebaut im HYT-Werk in Pune"
+              ],
+              "text": "HYT hat für die State Railway of Thailand in Bangkok eine CNC-Vertikal-Revolverdrehmaschine geliefert und montiert. Das Projekt zeigt, wie HYT-Maschinen und unser technischer Support Bahnbetreiber auch außerhalb Indiens erreichen.",
+              "products": [
+                "vertical-turning-boring-machine"
+              ]
+            },
+            {
+              "id": "indian-railways-underfloor-wheel-lathes",
+              "title": "Neun CNC-Unterflur-Radsatzdrehmaschinen – Indian Railways",
+              "client": "Indian Railways",
+              "location": "Indien",
+              "status_key": "executed",
+              "image": "products/underfloor-wheel-lathe-yul-08",
+              "image_alt": "Beispielillustration einer CNC-Unterflur-Radsatzdrehmaschine, installiert in der Grube eines Betriebswerks",
+              "scope": [
+                "Auftrag über die Lieferung von neun CNC-Unterflur-Radsatzdrehmaschinen",
+                "Maschinen, die beide Räder eines Radsatzes reprofilieren, ohne ihn aus dem Fahrzeug auszubauen",
+                "Typischer Leistungsumfang bei Unterflurdrehmaschinen: Grubenzeichnungen, Montage, Inbetriebnahme und Schulung"
+              ],
+              "text": "Indian Railways hat HYT mit der Lieferung von neun CNC-Unterflur-Radsatzdrehmaschinen beauftragt. Unterflurdrehmaschinen stellen das Radprofil wieder her, während der Radsatz im Fahrzeug bleibt – Lokomotiven und Reisezugwagen kehren so ohne Drehgestellausbau in den Betrieb zurück.",
+              "products": [
+                "underfloor-wheel-lathe"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "cta",
+          "heading": "Planen Sie ein ähnliches Projekt?",
+          "text": "Erzählen Sie uns von Ihrer Flotte und Ihrer Werkstatt. Wir empfehlen Ihnen die passenden Maschinen und teilen relevante Erfahrungen.",
+          "primary": {
+            "label": "Anforderung besprechen",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Projekte in Ausführung",
+            "page": "under-execution"
+          }
+        }
+      ]
+    },
+    "under-execution": {
+      "nav": "Projekte in Ausführung",
+      "title": "Laufende Bahnprojekte von HYT",
+      "description": "Laufende HYT-Projekte: vollautomatische CNC-Unterflur-Radsatzdrehmaschinen für NCRTC und eine neue CNC-Tandem-Unterflurdrehmaschine für die Delhi Metro (DMRC).",
+      "eyebrow": "Schlüsselfertige Projekte",
+      "h1": "Projekte in Ausführung",
+      "lede": "Aktuelle HYT-Projekte für Metro- und Regionalschnellbahnbetreiber in Indien – Maschinen, die neue und wachsende Flotten auf Profil halten.",
+      "summary": "Aktuelle HYT-Projekte, darunter Unterflur-Radsatzdrehmaschinen für NCRTC und eine Tandem-Unterflur-Radsatzdrehmaschine für DMRC.",
+      "blocks": [
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "HYT muss für jedes Projekt den aktuellen Stand, den Leistungsumfang und die veröffentlichungsfähigen Angaben (Fotos, Genehmigung des Kunden) bestätigen. Interner Hinweis: Nach Abschluss eines Projekts ist der entsprechende Abschnitt nach „Realisierte Projekte“ zu verschieben."
+        },
+        {
+          "type": "text",
+          "id": "overview",
+          "eyebrow": "In Arbeit",
+          "heading": "Maschinen für städtische Flotten im dichten Takt",
+          "paragraphs": [
+            "Metro- und Schnellbahnzüge verkehren in dichtem Takt mit kurzen Wendezeiten. Ihre Räder verschleißen schnell und müssen instand gesetzt werden, ohne die Züge lange aus dem Betrieb zu nehmen. Unterflur-Radsatzdrehmaschinen – einzeln oder als Tandem – sind genau für diese Aufgabe gebaut.",
+            "Projekte dieser Art durchlaufen in der Regel den vollständigen HYT-Prozess: Engineering, Fertigung in unserem Werk in Pune, Baustellenvorbereitung, Montage, Inbetriebnahme und Schulung. Abgeschlossene Projekte finden Sie unter [Realisierte Projekte](page:executed-projects)."
+          ]
+        },
+        {
+          "type": "projects",
+          "id": "project-list",
+          "heading": "Projekte in Ausführung",
+          "items": [
+            {
+              "id": "ncrtc-underfloor-wheel-lathes",
+              "title": "Vollautomatische CNC-Unterflur-Radsatzdrehmaschinen – NCRTC",
+              "client": "National Capital Region Transport Corporation (NCRTC)",
+              "location": "Hauptstadtregion (National Capital Region), Indien",
+              "status_key": "under-execution",
+              "image": "projects/metro-depot",
+              "image_alt": "Beispielillustration eines Schnellbahn-Betriebswerks mit einem Zug über einer Unterflur-Radsatzdrehmaschine",
+              "scope": [
+                "Zuschlag (Letter of Acceptance) an HYT für vollautomatische CNC-Unterflur-Radsatzdrehmaschinen",
+                "Reprofilierung der Radsätze im Fahrzeug, ohne Drehgestellausbau",
+                "Typischer Leistungsumfang bei Unterflurdrehmaschinen: Grubenzeichnungen, Montage, Inbetriebnahme und Schulung"
+              ],
+              "text": "Die National Capital Region Transport Corporation hat HYT den Zuschlag (Letter of Acceptance) für vollautomatische CNC-Unterflur-Radsatzdrehmaschinen erteilt. Bei einer Regionalschnellbahnflotte sorgen automatische Mess- und Bearbeitungszyklen dafür, dass die Reprofilierung schnell, gleichmäßig und materialschonend erfolgt.",
+              "products": [
+                "underfloor-wheel-lathe"
+              ]
+            },
+            {
+              "id": "dmrc-tandem-underfloor-wheel-lathe",
+              "title": "Neue CNC-Tandem-Unterflur-Radsatzdrehmaschine – DMRC",
+              "client": "Delhi Metro Rail Corporation (DMRC)",
+              "location": "Delhi, Indien",
+              "status_key": "under-execution",
+              "image": "products/tandem-underfloor-wheel-lathe-yul-12t",
+              "image_alt": "Beispielillustration zweier synchronisierter Unterflur-Radsatzdrehmaschinen unter einem Metro-Drehgestell",
+              "scope": [
+                "Auftrag für eine neue CNC-Tandem-Unterflur-Radsatzdrehmaschine",
+                "Zwei synchronisierte Maschinen, die beide Radsätze eines Drehgestells in einer Aufspannung reprofilieren",
+                "Typischer Leistungsumfang bei Unterflurdrehmaschinen: Grubenzeichnungen, Montage, Inbetriebnahme und Schulung"
+              ],
+              "text": "Die Delhi Metro Rail Corporation hat HYT mit einer neuen CNC-Tandem-Unterflur-Radsatzdrehmaschine beauftragt. Eine Tandemmaschine reprofiliert beide Radsätze eines Drehgestells gleichzeitig und verkürzt so die Standzeit jedes Zuges an der Maschine.",
+              "products": [
+                "tandem-underfloor-wheel-lathe"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "cta",
+          "heading": "Möchten Sie die Reprofilierungskapazität Ihres Betriebswerks erweitern?",
+          "text": "Sprechen Sie mit unseren Anwendungstechnikern über Unterflur-Radsatzdrehmaschinen in Einzel- oder Tandemausführung für Ihre Flotte.",
+          "primary": {
+            "label": "Anforderung besprechen",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Realisierte Projekte",
+            "page": "executed-projects"
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,194 @@
+/* ==========================================================================
+   HYT Engineering – motion
+   Reveal styles only apply once animations.js has added .anim-ready to <html>,
+   so content is always visible if JavaScript is disabled or fails.
+   ========================================================================== */
+
+.anim-ready .reveal { opacity: 0; transform: translateY(22px); transition: opacity 700ms var(--ease), transform 700ms var(--ease); transition-delay: var(--reveal-delay, 0ms); }
+.anim-ready .reveal.is-visible { opacity: 1; transform: none; }
+
+/* Hero entrance */
+.anim-ready .hero-home__img { transform: scale(1.06); transition: transform 2200ms var(--ease); }
+.anim-ready.hero-in .hero-home__img { transform: scale(1); }
+.anim-ready .hero-home__text > * { opacity: 0; transform: translateY(18px); transition: opacity 800ms var(--ease), transform 800ms var(--ease); }
+.anim-ready.hero-in .hero-home__text > * { opacity: 1; transform: none; }
+.anim-ready.hero-in .hero-home__text > :nth-child(2) { transition-delay: 120ms; }
+.anim-ready.hero-in .hero-home__text > :nth-child(3) { transition-delay: 240ms; }
+.anim-ready.hero-in .hero-home__text > :nth-child(4) { transition-delay: 360ms; }
+
+.anim-ready .hero-reveal { clip-path: inset(0 0 0 100%); transition: clip-path 1100ms var(--ease); }
+.anim-ready.hero-in .hero-reveal { clip-path: inset(0 0 0 0); }
+
+.hero-home__scroll .bi { animation: nudge 2.4s var(--ease) infinite; }
+@keyframes nudge { 0%, 60%, 100% { transform: translateY(0); } 30% { transform: translateY(4px); } }
+
+/* Accordion height animation (JS sets --panel-h) */
+.accordion-hyt__panel.is-animating { transition: height 320ms var(--ease); }
+
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  *, *::before, *::after { animation-duration: 0.01ms !important; animation-iteration-count: 1 !important; transition-duration: 0.01ms !important; transition-delay: 0ms !important; }
+  .anim-ready .reveal, .anim-ready .hero-home__text > * { opacity: 1; transform: none; }
+  .anim-ready .hero-home__img { transform: none; }
+  .anim-ready .hero-reveal { clip-path: none; }
+}
+
+/* ---------- Round 2 motion ---------- */
+/* Image wipe: framed images reveal left-to-right with a gentle settle */
+.anim-ready .media-frame.reveal { opacity: 1; transform: none; clip-path: inset(0 100% 0 0); transition: clip-path 1100ms var(--ease); }
+.anim-ready .media-frame.reveal img { transform: scale(1.12); transition: transform 1600ms var(--ease); }
+.anim-ready .media-frame.reveal.is-visible { clip-path: inset(0 0 0 0); }
+.anim-ready .media-frame.reveal.is-visible img { transform: scale(1); }
+
+/* Eyebrow rule draws in */
+.anim-ready .reveal .eyebrow::before, .anim-ready .reveal.eyebrow::before { width: 0; transition: width 700ms var(--ease) 200ms; }
+.anim-ready .reveal.is-visible .eyebrow::before { width: 28px; }
+
+/* Feature icons pop in */
+.anim-ready .feature.reveal .feature__icon { transform: scale(0.6) rotate(-8deg); opacity: 0; transition: transform 600ms cubic-bezier(.34,1.56,.64,1) 150ms, opacity 400ms ease 150ms; }
+.anim-ready .feature.reveal.is-visible .feature__icon { transform: none; opacity: 1; }
+
+/* Step numbers slide up */
+.anim-ready .step.reveal .step__num { transform: translateY(14px); opacity: 0; transition: transform 700ms var(--ease) 120ms, opacity 700ms var(--ease) 120ms; }
+.anim-ready .step.reveal.is-visible .step__num { transform: none; opacity: 1; }
+.anim-ready .step.reveal::before { width: 0; transition: width 900ms var(--ease) 250ms; }
+.anim-ready .step.reveal.is-visible::before { width: 40%; }
+
+/* Slow cinematic drift on the home hero image (after the entrance) */
+.hero-in .hero-home__media { animation: hero-drift 24s ease-in-out 2.4s infinite alternate; }
+@keyframes hero-drift { from { transform: scale(1) translate3d(0, 0, 0); } to { transform: scale(1.05) translate3d(-1.2%, -0.8%, 0); } }
+
+/* Parallax layers (JS sets --parallax) */
+.hero-home__img, .page-hero__img { transform: translate3d(0, var(--parallax, 0px), 0) scale(1.08); }
+.anim-ready .hero-home__img { transform: translate3d(0, var(--parallax, 0px), 0) scale(1.14); }
+.anim-ready.hero-in .hero-home__img { transform: translate3d(0, var(--parallax, 0px), 0) scale(1.08); }
+
+/* Primary button sheen */
+.btn-hyt--primary { position: relative; overflow: hidden; isolation: isolate; }
+.btn-hyt--primary::after { content: ""; position: absolute; inset: 0; z-index: -1; background: linear-gradient(110deg, transparent 30%, rgba(255, 255, 255, 0.45) 50%, transparent 70%); transform: translateX(-120%); transition: transform 700ms var(--ease); }
+.btn-hyt--primary:hover::after { transform: translateX(120%); }
+
+/* Card image + text lift */
+.card-hyt__title, .news-card__title { transition: color var(--t-fast); }
+.card-hyt:hover .card-hyt__title .card-hyt__link { color: var(--hyt-orange-text); }
+
+@media (prefers-reduced-motion: reduce) {
+  .anim-ready .media-frame.reveal { clip-path: none; }
+  .anim-ready .media-frame.reveal img, .hero-home__img, .page-hero__img { transform: none !important; }
+  .hero-in .hero-home__media { animation: none; }
+  .anim-ready .feature.reveal .feature__icon, .anim-ready .step.reveal .step__num { transform: none; opacity: 1; }
+}
+
+/* Lenis drives scrolling itself – native smooth scrolling would fight it every frame */
+html.lenis, html.lenis body { scroll-behavior: auto !important; }
+
+/* ---------- Home page motion (round 4) ---------- */
+@media (prefers-reduced-motion: no-preference) {
+  /* Railway-wheel dial: each ring turns at its own pace, a tool point orbits the tread */
+  .hero-wheel__ticks, .hero-wheel__ring--dash, .hero-wheel__web, .hero-wheel__orbit { transform-origin: 300px 300px; }
+  .hero-wheel__ticks { animation: spin 90s linear infinite; }
+  .hero-wheel__ring--dash { animation: spin 60s linear infinite reverse; }
+  .hero-wheel__web { animation: spin 36s linear infinite; }
+  .hero-wheel__orbit { animation: spin 9s cubic-bezier(.45, .05, .55, .95) infinite; }
+  .hero-wheel__arc { animation: arc-draw 7s var(--ease) 1.2s infinite; }
+  @keyframes spin { to { transform: rotate(360deg); } }
+  @keyframes arc-draw { 0% { stroke-dashoffset: 100; } 45%, 60% { stroke-dashoffset: 0; } 100% { stroke-dashoffset: -100; } }
+
+  .anim-ready .hero-fx__wheel .hero-wheel { opacity: 0; transform: scale(0.82) rotate(-25deg); transition: opacity 1400ms var(--ease) 300ms, transform 1800ms var(--ease) 300ms; }
+  .anim-ready.hero-in .hero-fx__wheel .hero-wheel { opacity: 1; transform: none; }
+  .anim-ready .hero-fx__grid { opacity: 0; transition: opacity 1600ms ease 200ms; }
+  .anim-ready.hero-in .hero-fx__grid { opacity: 1; }
+
+  .hero-fx__beam { animation: beam 9s ease-in-out 1.5s infinite; }
+  @keyframes beam { 0% { left: -30%; } 45%, 100% { left: 130%; } }
+  .hero-fx__rail::after { content: ""; position: absolute; top: 0; height: 100%; width: 12%; left: -12%; background: linear-gradient(90deg, transparent, #FFB066, transparent); animation: rail-run 6s linear infinite; }
+  @keyframes rail-run { to { left: 100%; } }
+
+  /* Words rise out of their masks */
+  .fx-on .split-i { transform: translateY(110%); transition: transform 900ms var(--ease) calc(var(--i, 0) * 45ms + 80ms); }
+  .fx-on.hero-in .hero-home__title .split-i, .fx-on .reveal.is-visible .split-i { transform: none; }
+  .fx-on .hero-home__text > .hero-home__title { opacity: 1; transform: none; }
+
+  /* Hero content drifts away on scroll */
+  .fx-on .hero-home__content { translate: 0 calc(var(--hero-p, 0) * -70px); opacity: calc(1 - var(--hero-p, 0) * 0.85); }
+  .fx-on .hero-home__media { translate: calc(var(--mx, 0) * -16px) calc(var(--my, 0) * -10px); }
+
+  /* Floating dotted plate behind framed images */
+  .section--split .row > div:has(> .media-frame)::before { animation: float-plate 7s ease-in-out infinite alternate; }
+  @keyframes float-plate { from { transform: translate(0, 0); } to { transform: translate(-10px, 12px); } }
+
+  /* Process band: the line fills step by step, numbers pop */
+  .anim-ready .section--navy .step.reveal::before { transform: scaleX(0); transform-origin: left; width: 100%; transition: transform 900ms var(--ease) calc(var(--reveal-delay, 0ms) * 4 + 250ms); }
+  .anim-ready .section--navy .step.reveal.is-visible::before { transform: scaleX(1); }
+  .anim-ready .section--navy .step.reveal .step__num { transform: scale(0.4); opacity: 0; transition: transform 650ms cubic-bezier(.34, 1.56, .64, 1) calc(var(--reveal-delay, 0ms) * 4 + 200ms), opacity 400ms ease calc(var(--reveal-delay, 0ms) * 4 + 200ms), background-color var(--t); }
+  .anim-ready .section--navy .step.reveal.is-visible .step__num { transform: none; opacity: 1; }
+  .anim-ready .section--navy .step.reveal.is-visible:hover .step__num { transform: translateY(-3px); }
+
+  /* Floating stats card rises into place */
+  .anim-ready .page-home .section--stats .stats { transform: translateY(40px); opacity: 0; transition: transform 1000ms var(--ease) 500ms, opacity 800ms ease 500ms; }
+  .anim-ready.hero-in .page-home .section--stats .stats { transform: none; opacity: 1; }
+}
+
+/* ---------- Product page motion ---------- */
+@media (prefers-reduced-motion: no-preference) {
+  .fx-on .product-hero__title .split-i { transform: translateY(110%); }
+  .fx-on.hero-in .product-hero__title .split-i { transform: none; }
+  .anim-ready .product-hero__text > * { opacity: 0; transform: translateY(16px); transition: opacity 800ms var(--ease), transform 800ms var(--ease); }
+  .anim-ready.hero-in .product-hero__text > * { opacity: 1; transform: none; }
+  .anim-ready.hero-in .product-hero__text > :nth-child(2) { transition-delay: 100ms; }
+  .anim-ready.hero-in .product-hero__text > :nth-child(3) { transition-delay: 200ms; }
+  .anim-ready.hero-in .product-hero__text > :nth-child(4) { transition-delay: 300ms; }
+  .anim-ready.hero-in .product-hero__text > :nth-child(5) { transition-delay: 400ms; }
+
+  /* Measuring "laser" sweeps the machine image; corner brackets lock on */
+  .anim-ready.hero-in .product-hero__scan { animation: scan 5.5s var(--ease) 1.3s infinite; }
+  @keyframes scan { 0% { top: 0; opacity: 0; } 8% { opacity: 1; } 55% { top: 100%; opacity: 1; } 62%, 100% { top: 100%; opacity: 0; } }
+  .anim-ready .product-hero__corner { opacity: 0; transition: opacity 600ms ease 900ms, transform 900ms var(--ease) 900ms; }
+  .anim-ready .product-hero__corner--tl { transform: translate(-18px, -18px); }
+  .anim-ready .product-hero__corner--br { transform: translate(18px, 18px); }
+  .anim-ready.hero-in .product-hero__corner { opacity: 1; transform: none; }
+  .fx-on .product-hero__stage { translate: calc(var(--mx, 0) * -10px) calc(var(--my, 0) * -8px); transition: translate 200ms linear; }
+
+  /* Spec rows and checklists cascade */
+  .cascade > * { opacity: 0; transform: translateX(-14px); transition: opacity 500ms ease calc(var(--row, 0) * 60ms), transform 600ms var(--ease) calc(var(--row, 0) * 60ms), background-color var(--t); }
+  .cascade.is-in > * { opacity: 1; transform: none; }
+
+  /* Product steps: line fills in sequence, numbers pop */
+  .anim-ready .step.reveal::before, .anim-ready .step.reveal.is-visible::before { width: 100%; }
+  .anim-ready .step.reveal::before { transform: scaleX(0); transform-origin: left; transition: transform 900ms var(--ease) calc(var(--reveal-delay, 0ms) * 4 + 250ms); }
+  .anim-ready .step.reveal.is-visible::before { transform: scaleX(1); }
+  .anim-ready .step.reveal .step__num { transform: scale(0.4); opacity: 0; transition: transform 650ms cubic-bezier(.34, 1.56, .64, 1) calc(var(--reveal-delay, 0ms) * 4 + 200ms), opacity 400ms ease calc(var(--reveal-delay, 0ms) * 4 + 200ms), background-color var(--t), color var(--t); }
+  .anim-ready .step.reveal.is-visible .step__num { transform: none; opacity: 1; }
+
+  /* Catalogue icon bobs; play button pulses */
+  .catalogue-panel__icon { animation: bob 3.2s ease-in-out infinite; }
+  @keyframes bob { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-5px); } }
+  .video-frame::after { content: ""; position: absolute; left: 50%; top: 50%; width: 96px; height: 96px; margin: -48px 0 0 -48px; border-radius: 50%; border: 2px solid rgba(255, 255, 255, 0.7); pointer-events: none; animation: pulse-ring 2.4s ease-out infinite; }
+  .video-frame.is-playing::after, .video-frame:has(iframe)::after { display: none; }
+  @keyframes pulse-ring { 0% { transform: scale(0.6); opacity: 0.9; } 100% { transform: scale(1.5); opacity: 0; } }
+}
+
+/* ---------- Interior page hero motion ---------- */
+@media (prefers-reduced-motion: no-preference) {
+  /* Image settles from a slow zoom, then drifts – the Careers "slide" feel */
+  .anim-ready .page-hero__media { transform: scale(1.12); transition: transform 2400ms var(--ease); }
+  .anim-ready.hero-in .page-hero__media { transform: scale(1); animation: hero-drift 26s ease-in-out 2.6s infinite alternate; }
+  /* Content enters in sequence */
+  .anim-ready .page-hero__content > * { opacity: 0; transform: translateY(18px); transition: opacity 800ms var(--ease), transform 800ms var(--ease); }
+  .anim-ready.hero-in .page-hero__content > * { opacity: 1; transform: none; }
+  .anim-ready.hero-in .page-hero__content > :nth-child(2) { transition-delay: 90ms; }
+  .anim-ready.hero-in .page-hero__content > :nth-child(3) { transition-delay: 180ms; }
+  .anim-ready.hero-in .page-hero__content > :nth-child(4) { transition-delay: 300ms; }
+  .anim-ready.hero-in .page-hero__content > :nth-child(5) { transition-delay: 420ms; }
+  .fx-on .page-hero__title .split-i { transform: translateY(110%); }
+  .fx-on.hero-in .page-hero__title .split-i { transform: none; }
+  /* Orange accent bar grows in */
+  .anim-ready .page-hero::after { transform: scaleX(0); transform-origin: left; transition: transform 1200ms var(--ease) 600ms; }
+  .anim-ready.hero-in .page-hero::after { transform: scaleX(1); }
+  /* Hero content drifts away on scroll */
+  .fx-on .page-hero__content { translate: 0 calc(var(--hero-p, 0) * -50px); opacity: calc(1 - var(--hero-p, 0) * 0.8); }
+
+  /* Timeline items slide from the rail */
+  .anim-ready .timeline__item.reveal { transform: translateX(-24px); }
+  .anim-ready .timeline__item.reveal.is-visible { transform: none; }
+}

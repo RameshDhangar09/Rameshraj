@@ -1,0 +1,779 @@
+{
+  "pages": {
+    "news": {
+      "nav": "Laatste nieuws",
+      "title": "Laatste nieuws – orders, projecten en erkenning",
+      "description": "Bedrijfsnieuws van HYT Engineering: nieuwe orders voor wielenbanken van spoorwegen en metro’s, opgeleverde projecten, erkenningen en deelname aan beurzen.",
+      "eyebrow": "Media & documentatie",
+      "h1": "Laatste nieuws van HYT Engineering",
+      "lede": "Orders, opgeleverde projecten, erkenningen en beurzen – de mededelingen die de voortgang van HYT markeren, op één plek.",
+      "summary": "Bedrijfsnieuws: nieuwe orders, opgeleverde projecten, erkenningen en deelname aan beurzen.",
+      "blocks": [
+        {
+          "type": "news",
+          "eyebrow": "Mededelingen",
+          "heading": "Recente mededelingen",
+          "items": [
+            {
+              "title": "NCRTC verstrekt Letter of Acceptance voor volautomatische CNC-onderloopdraaibanken",
+              "date": "Order",
+              "category": "Orders",
+              "text": "National Capital Region Transport Corporation heeft HYT een Letter of Acceptance (gunningsbrief) verstrekt voor volautomatische CNC-onderloopdraaibanken. De machines herprofileren wielstellen in het voertuig, zodat treinen minder lang buiten dienst zijn.",
+              "page": "under-execution"
+            },
+            {
+              "title": "Delhi Metro gunt HYT een nieuwe CNC-tandem-onderloopdraaibank",
+              "date": "Order",
+              "category": "Orders",
+              "text": "Delhi Metro Rail Corporation heeft HYT een contract gegund voor een nieuwe CNC-tandem-onderloopdraaibank. Een tandemmachine herprofileert twee wielstellen van een draaistel in één opspanning – een voordeel voor metrovloten met hoge frequentie.",
+              "page": "tandem-underfloor-wheel-lathe"
+            },
+            {
+              "title": "Contract van Indian Railways voor negen CNC-onderloopdraaibanken",
+              "date": "Order",
+              "category": "Orders",
+              "text": "Indian Railways heeft HYT opdracht gegeven negen CNC-onderloopdraaibanken te leveren, waarmee het onderhoudsnetwerk extra capaciteit krijgt voor herprofileren in het voertuig.",
+              "page": "underfloor-wheel-lathe"
+            },
+            {
+              "title": "HYT opgenomen in D&B Leading Mid-Corporates of India 2023",
+              "date": "Erkenning",
+              "category": "Erkenning",
+              "text": "HYT Engineering Company Pvt. Ltd. is opgenomen in de publicatie Leading Mid-Corporates of India 2023 van Dun & Bradstreet.",
+              "page": "awards"
+            },
+            {
+              "title": "HYT op Africa Rail 2020",
+              "date": "Beurs",
+              "category": "Beurzen",
+              "text": "HYT stond op Africa Rail 2020 en presenteerde daar zijn wielenbanken en werkplaatsoplossingen aan de Afrikaanse spoorsector.",
+              "page": "international-exhibitions"
+            },
+            {
+              "title": "In gesprek met vervoerders op Asia Pacific Rail, Middle East Rail en AusRAIL",
+              "date": "Beurs",
+              "category": "Beurzen",
+              "text": "HYT heeft geëxposeerd op Asia Pacific Rail, Middle East Rail en AusRAIL en sprak daar met spoorbedrijven en engineers over het herprofileren van wielen en de planning van depots.",
+              "page": "international-exhibitions"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "eyebrow": "Over deze pagina",
+          "heading": "Wat we hier publiceren",
+          "paragraphs": [
+            "Op deze pagina staan de bedrijfsmededelingen van HYT: nieuwe orders, opgeleverde en overgedragen projecten, erkenningen voor het bedrijf en de beurzen waar u onze engineers kunt ontmoeten. Elk bericht is kort en feitelijk en verwijst naar de pagina met meer details.",
+            "Zoekt u liever technische achtergrond dan bedrijfsnieuws? Op ons [blog](page:blog) staan gedateerde artikelen en projectverhalen, en het [Kenniscentrum](page:knowledge-centre) bevat blijvend actuele handleidingen over wielslijtage, de keuze van een wielenbank en werkplaatsplanning.",
+            "Journalisten en vakbladen kunnen achtergrondinformatie, citaten of beeldmateriaal aanvragen via info@hytengineering.com, met “Media enquiry” in de onderwerpregel."
+          ],
+          "image": "company/exhibition-stand",
+          "image_alt": "Voorbeeldillustratie van een HYT-beursstand met een model van een wielenbank en bezoekers in gesprek",
+          "layout": "image-right"
+        },
+        {
+          "type": "cards",
+          "eyebrow": "Lees verder",
+          "heading": "Meer van HYT",
+          "cols": 4,
+          "items": [
+            {
+              "page": "under-execution",
+              "icon": "gear-wide-connected"
+            },
+            {
+              "page": "awards",
+              "icon": "award"
+            },
+            {
+              "page": "international-exhibitions",
+              "icon": "globe2"
+            },
+            {
+              "page": "domestic-exhibitions",
+              "icon": "geo-alt"
+            }
+          ]
+        },
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "De berichten zijn gebaseerd op openbare bronnen en hebben geen datum. HYT dient voor elk bericht de datum, een kort persbericht en foto’s aan te leveren en de formulering te bevestigen. Afzonderlijke nieuwspagina’s worden gepubliceerd onder /news/item-name/."
+        }
+      ]
+    },
+    "international-exhibitions": {
+      "nav": "Internationale beurzen",
+      "title": "Internationale spoorbeurzen",
+      "description": "HYT Engineering stond op Asia Pacific Rail, Middle East Rail, Africa Rail 2020 en AusRAIL. Lees waarom wij deelnemen en wat u met ons team kunt bespreken.",
+      "eyebrow": "Media & documentatie",
+      "h1": "HYT op internationale spoorbeurzen",
+      "lede": "Op spoorbeurzen ontmoeten we persoonlijk de vervoerders, projectteams en engineers die wereldwijd vloten onderhouden. We komen er net zo goed om te luisteren als om te presenteren.",
+      "summary": "Asia Pacific Rail, Middle East Rail, Africa Rail en AusRAIL – waar HYT de internationale spoorsector heeft ontmoet.",
+      "blocks": [
+        {
+          "type": "text",
+          "eyebrow": "Waarom we exposeren",
+          "heading": "Gesprekken die tot betere werkplaatsen leiden",
+          "paragraphs": [
+            "Een wielenbank of wielstelwerkplaats is een beslissing voor de lange termijn. Wie die beslissing neemt, wil de techniek achter de machine begrijpen, de mensen kennen die haar gaan ondersteunen en weten hoe ze past bij de eigen vloot, spoorwijdte en depotindeling. Dat gesprek begint het best persoonlijk.",
+            "Op internationale beurzen ontmoeten we in een paar dagen spoorwegen, metrobedrijven, fabrikanten van rollend materieel en adviseurs uit veel regio’s. We leren hoe onderhoudspraktijken per netwerk verschillen, welke problemen werkplaatsmanagers wakker houden en waar nieuwe lijnen en depots worden gepland. Die kennis vloeit rechtstreeks terug in ons machineontwerp en onze [turnkey-projecten](page:turnkey-project)."
+          ],
+          "image": "company/exhibition-stand",
+          "image_alt": "Voorbeeldillustratie van een HYT-beursstand op een internationale spoorbeurs",
+          "layout": "image-right"
+        },
+        {
+          "type": "logos",
+          "eyebrow": "Staat van dienst",
+          "heading": "Waar we hebben geëxposeerd",
+          "intro": "HYT heeft als exposant deelgenomen aan deze internationale spoorevenementen.",
+          "items": [
+            {
+              "name": "Asia Pacific Rail",
+              "note": "Exposant"
+            },
+            {
+              "name": "Middle East Rail",
+              "note": "Exposant"
+            },
+            {
+              "name": "Africa Rail 2020",
+              "note": "Exposant"
+            },
+            {
+              "name": "AusRAIL",
+              "note": "Exposant"
+            }
+          ]
+        },
+        {
+          "type": "features",
+          "eyebrow": "Op de stand",
+          "heading": "Wat u met ons kunt bespreken",
+          "intro": "Onze stand wordt bemand door mensen die de machines ontwerpen, bouwen en onderhouden. Neem uw vragen mee – en als het kan ook uw wielprofielen en depottekeningen.",
+          "cols": 3,
+          "items": [
+            {
+              "icon": "rulers",
+              "title": "Strategie voor het herprofileren van wielen",
+              "text": "Hoe u profielen herstelt met zo min mogelijk materiaalverlies en de levensduur van wielen in de hele vloot verlengt."
+            },
+            {
+              "icon": "gear-wide-connected",
+              "title": "De keuze van een wielenbank",
+              "text": "Onderloop, tandem, bovenvloers of portaal: welk ontwerp past bij uw voertuigen, spoorwijdte en doorzet."
+            },
+            {
+              "icon": "diagram-3",
+              "title": "Planning van depots en wielstelwerkplaatsen",
+              "text": "Processtroom, machinekeuze en bouwkundige raakvlakken voor nieuwe of uit te breiden faciliteiten."
+            },
+            {
+              "icon": "building-gear",
+              "title": "Turnkey-projecten",
+              "text": "Eén verantwoordelijke partij, van layoutstudie tot inbedrijfstelling en overdracht."
+            },
+            {
+              "icon": "arrow-repeat",
+              "title": "Upgrades voor bestaande machines",
+              "text": "Retrofit van nieuwe CNC-besturingen, aandrijvingen en meettechniek om de levensduur van machines te verlengen."
+            },
+            {
+              "icon": "truck",
+              "title": "Wet leasing",
+              "text": "Herprofileringscapaciteit inclusief machine en bedieningspersoneel, betaald per output."
+            }
+          ],
+          "link": {
+            "label": "Bekijk onze producten",
+            "page": "products"
+          }
+        },
+        {
+          "type": "gallery",
+          "heading": "Impressies",
+          "items": [
+            {
+              "image": "company/exhibition-stand",
+              "caption": "Voorbeeldillustratie van de HYT-beursstand"
+            },
+            {
+              "image": "products/underfloor-wheel-lathe-yul-08",
+              "caption": "Voorbeeldillustratie van een onderloopdraaibank van het type dat aan bezoekers werd gepresenteerd"
+            },
+            {
+              "image": "products/wheelset-profile-closeup",
+              "caption": "Voorbeeldillustratie van een geherprofileerd loopvlak en een geherprofileerde flens"
+            },
+            {
+              "image": "company/engineering-design",
+              "caption": "Voorbeeldillustratie van HYT-engineers die een machineontwerp beoordelen"
+            }
+          ]
+        },
+        {
+          "type": "cards",
+          "eyebrow": "Ook interessant",
+          "heading": "Meer evenementen en nieuws",
+          "cols": 2,
+          "items": [
+            {
+              "page": "domestic-exhibitions",
+              "icon": "geo-alt"
+            },
+            {
+              "page": "news",
+              "icon": "newspaper"
+            }
+          ]
+        },
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "De beurzen zijn overgenomen uit exposantenlijsten van de organisatoren. HYT dient de jaren van deelname te bevestigen (alleen Africa Rail 2020 is gedateerd), standfoto’s aan te leveren en komende evenementen met data en standnummers te vermelden."
+        },
+        {
+          "type": "cta",
+          "heading": "Bezoekt u binnenkort een spoorbeurs?",
+          "text": "Laat ons weten welk evenement u bezoekt en wat u wilt bespreken. Wij plannen een afspraak met de juiste engineer – op de beurs of daarna.",
+          "primary": {
+            "label": "Plan een afspraak",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Bekijk onze producten",
+            "page": "products"
+          }
+        }
+      ]
+    },
+    "domestic-exhibitions": {
+      "nav": "Beurzen in India",
+      "title": "Beurzen in India",
+      "description": "Ontmoet HYT Engineering op spoor- en techniekbeurzen in India. Bespreek wielenbanken, machines voor wielstelwerkplaatsen, depotuitrusting en service.",
+      "eyebrow": "Media & documentatie",
+      "h1": "HYT op beurzen in India",
+      "lede": "India is onze thuismarkt. Op Indiase spoor- en techniekbeurzen ontmoeten we de teams van depots, remises en werkplaatsen die dagelijks met onze machines werken.",
+      "summary": "Spoor- en techniekbeurzen in India waar u de engineers van HYT kunt ontmoeten.",
+      "blocks": [
+        {
+          "type": "text",
+          "eyebrow": "Dicht bij onze klanten",
+          "heading": "Waarom Indiase evenementen belangrijk voor ons zijn",
+          "paragraphs": [
+            "HYT ontwerpt en bouwt sinds 1977 werktuigmachines in Pune. Een groot deel van onze geïnstalleerde machines werkt in Indiase locomotiefremises, rijtuigdepots, EMU-werkplaatsen, metrodepots en wielstelwerkplaatsen – en op Indiase beurzen komen die gebruikers, hun planners en hun inkoopteams samen.",
+            "We gebruiken deze evenementen om nieuwe ontwikkelingen te tonen, te horen hoe onze machines in de dagelijkse praktijk presteren en de engineers te ontmoeten die de volgende generatie depots plannen voor groeiende metro- en regionale spoornetten. Ook zijn ze een goede plek om leveranciers en jonge engineers te ontmoeten die misschien [bij ons willen werken](page:work-with-us)."
+          ],
+          "image": "company/exhibition-stand",
+          "image_alt": "Voorbeeldillustratie van een HYT-stand op een Indiase techniekbeurs",
+          "layout": "image-right"
+        },
+        {
+          "type": "features",
+          "eyebrow": "Wie we ontmoeten",
+          "heading": "Gesprekken waar we naar uitkijken",
+          "cols": 4,
+          "items": [
+            {
+              "icon": "train-front",
+              "title": "Spoorwerkplaatsen en remises",
+              "text": "Herprofileringscapaciteit, machine-upgrades en onderhoudscontracten voor bestaande apparatuur."
+            },
+            {
+              "icon": "train-lightrail-front",
+              "title": "Metro en regionaal spoor",
+              "text": "Onderloop- en tandemdraaibanken voor nieuwe depots met vloten die met hoge frequentie rijden."
+            },
+            {
+              "icon": "building-gear",
+              "title": "Fabrikanten van rollend materieel",
+              "text": "Machines voor wiel- en aswerkplaatsen voor nieuwbouwwielstellen en beproeving."
+            },
+            {
+              "icon": "people",
+              "title": "Adviseurs en aannemers",
+              "text": "Depotindelingen, puttekeningen en bouwkundige raakvlakken voor aanbestedingsontwerpen."
+            }
+          ]
+        },
+        {
+          "type": "cards",
+          "eyebrow": "Ook interessant",
+          "heading": "Meer evenementen en nieuws",
+          "cols": 2,
+          "items": [
+            {
+              "page": "international-exhibitions",
+              "icon": "globe2"
+            },
+            {
+              "page": "news",
+              "icon": "newspaper"
+            }
+          ]
+        },
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "Er zijn nog geen Indiase beurzen geverifieerd. HYT dient de lijst van bezochte binnenlandse beurzen (naam evenement, stad, jaar), standfoto’s en komende evenementen met data en standnummers aan te leveren."
+        },
+        {
+          "type": "cta",
+          "heading": "Ontmoet ons team in India",
+          "text": "Of het nu op een beurs is of in onze fabriek in Pune: we bespreken graag uw vloot en uw werkplaats.",
+          "primary": {
+            "label": "Neem contact op met ons team",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Servicenetwerk",
+            "page": "service-centers"
+          }
+        }
+      ]
+    },
+    "blog": {
+      "nav": "Blog",
+      "title": "Blog – artikelen over spooronderhoud en projectverhalen",
+      "description": "Blog van HYT Engineering: gedateerde artikelen, visies en projectverhalen over het herprofileren van wielen, depotplanning en onderhoud in spoorwerkplaatsen.",
+      "eyebrow": "Media & documentatie",
+      "h1": "HYT-blog",
+      "lede": "Artikelen, visies en verhalen van de mensen die HYT-machines ontwerpen, bouwen en onderhouden.",
+      "summary": "Gedateerde artikelen, visies en projectverhalen van de engineers van HYT.",
+      "blocks": [
+        {
+          "type": "text",
+          "eyebrow": "Blog of Kenniscentrum?",
+          "heading": "Twee soorten leesvoer",
+          "paragraphs": [
+            "Op het **blog** publiceren we gedateerde artikelen: meningen over onderhoudspraktijk, lessen van inbedrijfstellingslocaties, verhalen uit onze projecten en beschouwingen over de toekomst van spoorwerkplaatsen. Elk bericht is een momentopname en heeft een publicatiedatum.",
+            "Het [Kenniscentrum](page:knowledge-centre) bevat blijvend actuele technische handleidingen en antwoorden op veelgestelde vragen – materiaal dat we up-to-date houden en waar u op kunt teruggrijpen bij de planning van een draaibank, een put of een herprofileringsprogramma.",
+            "Zoekt u bedrijfsmededelingen zoals orders en beurzen? Kijk dan bij [Laatste nieuws](page:news)."
+          ],
+          "image": "products/wheelset-profile-closeup",
+          "image_alt": "Voorbeeldillustratie van het loopvlak en de flens van een spoorwiel na het herprofileren",
+          "layout": "image-right"
+        },
+        {
+          "type": "features",
+          "eyebrow": "Geplande artikelen",
+          "heading": "Binnenkort",
+          "intro": "De eerste artikelen worden voorbereid. Dit zijn de onderwerpen die we willen behandelen.",
+          "cols": 2,
+          "items": [
+            {
+              "icon": "clock-history",
+              "title": "Wat een dag in de put werkelijk kost",
+              "text": "Waarom de tijd die een trein wacht op herprofilering vaak zwaarder weegt dan de prijs van de draaibank – en hoe u die meet."
+            },
+            {
+              "icon": "train-lightrail-front",
+              "title": "Wielonderhoud plannen voor een nieuw metrodepot",
+              "text": "Vragen die u vroeg moet beantwoorden – vlootomvang, wielprofielen, positie van de put – voordat de depotindeling wordt vastgelegd."
+            },
+            {
+              "icon": "arrow-repeat",
+              "title": "Retrofit of vervangen?",
+              "text": "Hoe u beoordeelt of een oudere wielenbank een nieuwe CNC-besturing en nieuwe aandrijvingen verdient, of het einde van haar levensduur heeft bereikt."
+            },
+            {
+              "icon": "tools",
+              "title": "Aantekeningen van een inbedrijfstellingslocatie",
+              "text": "Wat er gebeurt tussen de aankomst van de machine in een depot en het eerste wielstel dat het depot verlaat, verteld door een HYT-site-engineer."
+            }
+          ]
+        },
+        {
+          "type": "cards",
+          "eyebrow": "Nu te lezen",
+          "heading": "Handig in de tussentijd",
+          "cols": 2,
+          "items": [
+            {
+              "page": "knowledge-centre",
+              "icon": "lightbulb"
+            },
+            {
+              "page": "news",
+              "icon": "newspaper"
+            }
+          ]
+        },
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "Er zijn nog geen artikelen; berichten worden gepubliceerd onder /blog/article-name/. HYT dient te bevestigen of Blog en Kenniscentrum gescheiden blijven (zoals voorgesteld: Blog voor gedateerde artikelen, Kenniscentrum voor blijvend actuele handleidingen) of worden samengevoegd, en de geplande onderwerpen en auteurs goed te keuren."
+        }
+      ]
+    },
+    "knowledge-centre": {
+      "nav": "Kenniscentrum",
+      "title": "Kenniscentrum – wielslijtage en wielenbanken",
+      "description": "Praktische handleidingen over wielslijtage, de keuze tussen onderloop-, portaal- en vloerwielenbanken, putplanning en langere wiellevensduur.",
+      "eyebrow": "Media & documentatie",
+      "h1": "Kenniscentrum: wielslijtage, herprofileren en planning van wielenbanken",
+      "lede": "Praktische, leveranciersonafhankelijke informatie voor engineers en managers die verantwoordelijk zijn voor wielstellen – van het herkennen van slijtage tot het plannen van de machine die haar corrigeert.",
+      "summary": "Praktische handleidingen over wielslijtage, de keuze van een wielenbank, putplanning en herprofileringsstrategie, plus antwoorden op veelgestelde vragen.",
+      "blocks": [
+        {
+          "type": "cards",
+          "eyebrow": "Handleidingen op deze pagina",
+          "heading": "Begin bij uw vraag",
+          "cols": 4,
+          "items": [
+            {
+              "page": "knowledge-centre",
+              "anchor": "wheel-wear",
+              "icon": "search",
+              "title": "Wielslijtage begrijpen",
+              "text": "Vlakke plekken, hol gesleten loopvlakken en dunne of scherpe flenzen – waardoor ze ontstaan en waarom ze ertoe doen."
+            },
+            {
+              "page": "knowledge-centre",
+              "anchor": "choosing-a-lathe",
+              "icon": "gear-wide-connected",
+              "title": "Zo kiest u een wielenbank",
+              "text": "Onderloop-, portaal- en vloerwielenbanken vergeleken."
+            },
+            {
+              "page": "knowledge-centre",
+              "anchor": "pit-planning",
+              "icon": "bricks",
+              "title": "Een put voor een onderloopdraaibank plannen",
+              "text": "De bouwkundige en installatietechnische vragen die u vroeg moet beantwoorden."
+            },
+            {
+              "page": "knowledge-centre",
+              "anchor": "re-profiling-strategy",
+              "icon": "graph-up-arrow",
+              "title": "Langere levensduur van wielen",
+              "text": "Een herprofileringsstrategie die materiaal en geld bespaart."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "id": "wheel-wear",
+          "eyebrow": "Handleiding 1",
+          "heading": "Wielslijtage begrijpen",
+          "paragraphs": [
+            "Een spoorwiel is geen eenvoudige cilinder. Het loopvlak is conisch of gebogen, zodat het wielstel zichzelf door bogen stuurt en zich op recht spoor centreert, en de flens houdt het wiel op de spoorstaaf wanneer sturen alleen niet genoeg is. Elke kilometer verandert die geometrie een beetje. Herprofileren herstelt haar voordat de veranderingen gevolgen hebben voor veiligheid, rijcomfort of spoorslijtage.",
+            "De meeste slijtage valt in een handvol herkenbare patronen. Wie weet met welk patroon hij te maken heeft – en waardoor het ontstaat – kan beter bepalen hoe vaak er gemeten moet worden, wanneer er ingegrepen moet worden en of de oorzaak bij het voertuig, de remmen of het spoor ligt."
+          ],
+          "bullets": [
+            "**Vlakke plekken** – platte plekken die in het loopvlak slijten wanneer een wiel bij het remmen glijdt, meestal bij lage adhesie. Ze veroorzaken stootbelastingen die spoor, lagers en voertuig beschadigen, en geluid dat reizigers direct opmerken.",
+            "**Hol gesleten loopvlak** – het loopvlak slijt hol. Het wiel gedraagt zich dan alsof het een veel steilere conus heeft, wat kan leiden tot instabiel loopgedrag bij hoge snelheid, hogere contactspanningen en een ‘valse flens’ aan de buitenrand die tegen wissels en kruisingen slaat.",
+            "**Dunne flens** – langdurig contact met de binnenzijde van de spoorstaafkop, vooral in bogen, maakt de flens dunner. Onder de grenswaarde van de vervoerder neemt het risico toe dat de flens opklimt of een wissel openrijdt.",
+            "**Scherpe of verticale flens** – het flensvlak slijt steil en de flensvoet wordt scherp, waardoor opklimmen van de flens waarschijnlijker wordt en wisseltongen beschadigd raken.",
+            "**Hoge flens** – naarmate het loopvlak afslijt, wordt de flens relatief hoger en kan hij lassen, bouten en onderdelen van kruisingen raken.",
+            "**Afschilfering, uitbrokkeling en thermische scheuren** – oppervlaktevermoeiing en warmte van blokremmen doen kleine stukjes metaal uitbreken of laten fijne scheurtjes achter die groeien als ze niet worden weggedraaid.",
+            "**Onrondheid en diameterverschillen** – polygonisatie en ongelijke diameters op één as of binnen één draaistel veroorzaken trillingen en slecht stuurgedrag."
+          ],
+          "image": "products/wheelset-profile-closeup",
+          "image_alt": "Voorbeeldillustratie van een spoorwielprofiel met loopvlak en flens",
+          "layout": "image-right",
+          "link": {
+            "label": "Wielen nauwkeurig meten: wielmeetstation",
+            "page": "wheel-measuring-station"
+          }
+        },
+        {
+          "type": "table",
+          "id": "choosing-a-lathe",
+          "heading": "Onderloop, portaal of bovenvloers: zo kiest u een wielenbank",
+          "intro": "De juiste machine hangt minder af van de draaibank zelf dan van de plek waar het wielstel zich bevindt wanneer het bewerkt moet worden. Blijven wielstellen in het voertuig, dan bespaart een onderloopdraaibank de meeste tijd. Zijn ze al uitgebouwd – in een wielstelwerkplaats of tijdens revisie – dan ligt een portaal- of vloerwielenbank voor de hand.",
+          "columns": [
+            "Vraag",
+            "Onderloopdraaibank",
+            "Portaalwielenbank",
+            "Bovenvloerse wielenbank"
+          ],
+          "rows": [
+            [
+              "Waar is het wielstel?",
+              "In het voertuig – zonder uitbouw van draaistel of wielstel",
+              "Uitgebouwd uit het voertuig",
+              "Uitgebouwd uit het voertuig"
+            ],
+            [
+              "Typische locatie",
+              "Onderhoudsdepot, remise of EMU-werkplaats",
+              "Wielstelwerkplaats, revisiewerkplaats of productielijn",
+              "Depot of werkplaats die uitgebouwde wielstellen verwerkt"
+            ],
+            [
+              "Bouwkundige werkzaamheden",
+              "Gewapende put onder een recht spoorgedeelte",
+              "Machinefundering; laadvoorziening voor wielstellen",
+              "Fundering op vloerniveau; geen diepe put"
+            ],
+            [
+              "Belangrijkste voordeel",
+              "Kortste buitendiensttijd voor het voertuig",
+              "Zware, reproduceerbare bewerking en hoge doorzet; geschikt voor geautomatiseerd laden",
+              "Compacte, veelzijdige machine voor herprofileren en, bij geschikte modellen, bewerking van remschijven"
+            ],
+            [
+              "Typische gebruikers",
+              "Spoor-, metro- en EMU-vloten met hoge inzet",
+              "Wielstelwerkplaatsen, bouwers van rollend materieel en revisiebedrijven",
+              "Werkplaatsen met gemiddelde volumes en uiteenlopende wielstellen"
+            ],
+            [
+              "Voorbeelden van HYT",
+              "YUL-08, YUGL; tandem YUL-12T, YUGLX",
+              "YPL-02, YPL-04 met rollenaandrijving",
+              "YSL-08 / YSL-12 / YSL-21"
+            ]
+          ],
+          "note": "Veel vervoerders combineren beide benaderingen: een onderloopdraaibank houdt de vloot tussen revisies door rijdend, terwijl een portaal- of vloerwielenbank de wielstellen verwerkt die bij zwaar onderhoud worden uitgebouwd.",
+          "link": {
+            "label": "Vergelijk alle wielenbanken",
+            "page": "products",
+            "anchor": "wheel-lathes"
+          }
+        },
+        {
+          "type": "text",
+          "eyebrow": "Meer over de keuze",
+          "heading": "Enkel of tandem, één draaibank of twee",
+          "paragraphs": [
+            "Weet u welke familie past, dan is de volgende vraag de capaciteit. Een enkele [onderloopdraaibank](page:underfloor-wheel-lathe) bewerkt één wielstel tegelijk. Een [tandem-onderloopdraaibank](page:tandem-underfloor-wheel-lathe) combineert twee gesynchroniseerde machines, zodat beide wielstellen van een draaistel in één opspanning worden bewerkt – de juiste keuze wanneer lange treinen binnen een krap tijdvenster weer in dienst moeten.",
+            "Voor wielstellen die al zijn uitgebouwd vergelijkt u de [portaalwielenbank](page:portal-wheel-lathe), de [portaalwielenbank met rollenaandrijving](page:roller-type-portal-wheel-lathe) en de [vloerwielenbank](page:surface-wheel-lathe). Baseer de keuze op het aantal wielstellen per dienst, het bereik aan diameters en aslengtes, de vraag of remschijven bewerkt moeten worden en de manier waarop wielstellen de machine bereiken.",
+            "Dimensioneer de installatie voor de vloot die u straks heeft, niet alleen voor de vloot van vandaag. Een tweede machine later toevoegen is veel eenvoudiger als put, spoor en voorzieningen daar vanaf het begin op zijn ingericht."
+          ],
+          "image": "products/tandem-underfloor-wheel-lathe-yul-12t",
+          "image_alt": "Voorbeeldillustratie van een tandem-onderloopdraaibank die twee wielstellen van een draaistel bewerkt",
+          "layout": "image-left"
+        },
+        {
+          "type": "text",
+          "id": "pit-planning",
+          "eyebrow": "Handleiding 2",
+          "heading": "Een put voor een onderloopdraaibank plannen",
+          "paragraphs": [
+            "Een onderloopdraaibank wordt onderdeel van het gebouw. De put, het spoor erboven en de voorzieningen eromheen liggen tientallen jaren vast, dus beslissingen in de ontwerpfase hebben blijvend effect op de productiviteit. Betrek de machineleverancier erbij voordat de depotindeling wordt vastgelegd.",
+            "Gebruik de onderstaande checklist als vertrekpunt voor overleg tussen vervoerder, depotontwerper, bouwaannemer en fabrikant van de draaibank."
+          ],
+          "bullets": [
+            "**Spoorligging** – een recht, horizontaal spoorgedeelte met aan beide zijden voldoende lengte om elk voertuigtype, ook de langste trein, boven de machine te positioneren.",
+            "**Putafmetingen en fundering** – een put van gewapend beton volgens de tekeningen van de machineleverancier, met funderingsbelastingen, ankerposities en toleranties schriftelijk vastgelegd.",
+            "**Spoorstaven boven de machine** – hoe de spoorstaafdelen boven de draaibank worden ondersteund en verplaatst, en hoe ze aansluiten op het depotspoor.",
+            "**Voertuigbeweging** – hoe treinen over de put worden getrokken en per as worden gepositioneerd: met een depotlocomotief, een kabel- of kaapstandersysteem of een [Rail cum Road Vehicle (rangeervoertuig)](page:rail-cum-road-vehicle-shunter).",
+            "**Voorzieningen** – elektrische voeding, aarding, perslucht waar nodig, verlichting, ventilatie en dataverbindingen voor diagnose op afstand.",
+            "**Afwatering en spanen** – afvoer van water en olie uit de put en een praktische route om spanen af te voeren.",
+            "**Toegang en veiligheid** – trappen, looppaden, afschermingen en hijsvoorzieningen voor onderhoud, en een duidelijke scheiding tussen bedieners en rijdende voertuigen.",
+            "**Toekomstige capaciteit** – ruimte en voorzieningen voor een tweede machine of een tandemupgrade als vlootgroei wordt verwacht."
+          ],
+          "image": "projects/pit-foundation-civil-works",
+          "image_alt": "Voorbeeldillustratie van een put van gewapend beton die wordt voorbereid voor een onderloopdraaibank",
+          "layout": "image-right",
+          "link": {
+            "label": "Montage en inbedrijfstelling",
+            "page": "installation-commissioning"
+          }
+        },
+        {
+          "type": "text",
+          "id": "re-profiling-strategy",
+          "eyebrow": "Handleiding 3",
+          "heading": "Langere levensduur van wielen: herprofileringsstrategie",
+          "paragraphs": [
+            "Een wiel kan alleen worden geherprofileerd tot het zijn afkeurdiameter bereikt. Elke millimeter diameter die onnodig wordt weggenomen, verkort de levensduur en haalt de kosten van nieuwe wielen of banden en de stilstand om ze te monteren naar voren. Het doel van een goede herprofileringsstrategie is eenvoudig: telkens een veilig profiel herstellen, met zo min mogelijk diameterverlies.",
+            "Meestal bepaalt de flensdikte de snede. Om een dunne flens weer op te bouwen, moet de draaibank materiaal van het loopvlak wegnemen tot de volledige flensvorm weer verschijnt – een beetje flensslijtage kan dus een veelvoud aan diameter kosten. Daarom is ingrijpen op het juiste moment, met het juiste doelprofiel, zo belangrijk."
+          ],
+          "bullets": [
+            "Meet regelmatig en registreer elk wiel, zodat trends zichtbaar worden voordat grenswaarden worden bereikt.",
+            "Leg ingrijpgrenzen vast onder de veiligheidsgrenzen, zodat er ruimte is om werk te plannen zonder voertuigen met spoed uit dienst te nemen.",
+            "Gebruik, waar de normen van de vervoerder dat toestaan, goedgekeurde tussenprofielen met verminderde flensdikte om per snede diameter te besparen.",
+            "Draai vlakke plekken en oppervlaktedefecten tijdig weg; kleine defecten groeien en vragen later om diepere sneden.",
+            "Houd diameterverschillen binnen een as, een draaistel en een voertuig binnen de voorgeschreven toleranties.",
+            "Onderzoek de grondoorzaken – remafstelling, uitlijning van het draaistel, antislipbeveiliging of spoorgeometrie – wanneer één voertuig of traject sneller slijt dan de rest."
+          ],
+          "image": "homepage/engineering-technology",
+          "image_alt": "Voorbeeldillustratie van een CNC-scherm dat een gemeten wielprofiel vergelijkt met het doelprofiel",
+          "layout": "image-left"
+        },
+        {
+          "type": "steps",
+          "heading": "Een programma voor wiellevensduur opzetten",
+          "intro": "Een gestructureerde cyclus maakt van herprofileren geen noodklus meer, maar een gepland onderhoudsproces.",
+          "items": [
+            {
+              "title": "Meten",
+              "text": "Leg met vaste intervallen voor elk wiel de diameter, flenshoogte, flensdikte en flenshelling vast."
+            },
+            {
+              "title": "Trends volgen",
+              "text": "Volg slijtagesnelheden per voertuigtype, traject en seizoen om te voorspellen wanneer elk wielstel aandacht nodig heeft."
+            },
+            {
+              "title": "Plannen",
+              "text": "Plan het herprofileren voordat grenswaarden worden bereikt en stem het af op ander werk in het depot."
+            },
+            {
+              "title": "Minimaal verspanen",
+              "text": "Laat de draaibank eerst meten en neem alleen de diepte weg die nodig is om het gekozen profiel te herstellen."
+            },
+            {
+              "title": "Registreren en evalueren",
+              "text": "Sla de meetwaarden na de bewerking op en evalueer de wiellevensduur regelmatig om grenswaarden en profielen te verfijnen."
+            }
+          ],
+          "link": {
+            "label": "Training voor bedieners en onderhoudsteams",
+            "page": "training"
+          }
+        },
+        {
+          "type": "faq",
+          "id": "faq",
+          "heading": "Veelgestelde vragen",
+          "items": [
+            {
+              "q": "Hoe vaak moeten wielen worden geherprofileerd?",
+              "a": "Er is geen vast interval. Het hangt af van het voertuig, de inzet, het traject, het remsysteem en de grenswaarden van de vervoerder. De meeste vervoerders herprofileren toestandsafhankelijk, op basis van regelmatige metingen, in plaats van na een vast aantal kilometers."
+            },
+            {
+              "q": "Wat is het verschil tussen herprofileren en een wiel vervangen?",
+              "a": "Bij herprofileren wordt het bestaande wiel teruggebracht naar de voorgeschreven vorm van loopvlak en flens. Vervanging wordt nodig wanneer het wiel of de band zijn afkeurdiameter bereikt of schade heeft die niet veilig kan worden weggedraaid."
+            },
+            {
+              "q": "Waarom kost een dunne flens zoveel diameter?",
+              "a": "Een flens kan niet worden opgebouwd; de vorm kan alleen worden hersteld door het loopvlak af te draaien tot er weer een flens op volle dikte staat. Een beetje flensslijtage kan daardoor een veel groter diameterverlies betekenen."
+            },
+            {
+              "q": "Kunnen wielen met vlakke plekken worden bewerkt zonder het wielstel uit te bouwen?",
+              "a": "Ja. Een [onderloopdraaibank](page:underfloor-wheel-lathe) bewerkt wielen in het voertuig en kan in dezelfde cyclus vlakke plekken wegdraaien en het profiel herstellen."
+            },
+            {
+              "q": "Moeten beide wielen van een as samen worden bewerkt?",
+              "a": "In de praktijk wel. De twee wielen van een as moeten binnen een nauwe diametertolerantie van elkaar blijven, anders stuurt het wielstel niet correct. Onderloop-, portaal- en vloerwielenbanken bewerken beide wielen in één opspanning."
+            },
+            {
+              "q": "Wanneer loont een tandem-onderloopdraaibank?",
+              "a": "Wanneer het depot lange vloten of vloten met hoge frequentie verwerkt en de tijd die elke trein op de draaibank doorbrengt kritisch is. Een [tandemdraaibank](page:tandem-underfloor-wheel-lathe) bewerkt beide wielstellen van een draaistel in één opspanning."
+            },
+            {
+              "q": "Kunnen remschijven op een wielenbank worden bewerkt?",
+              "a": "Bij geschikte configuraties wel. Asremschijven kunnen worden bewerkt op sommige vloerwielenbanken en op onderloopdraaibanken die met die optie zijn uitgevoerd. Geef deze eis al in de aanvraagfase door."
+            },
+            {
+              "q": "Hoe lang duurt het plannen en installeren van een onderloopdraaibank?",
+              "a": "Dat hangt vooral af van de bouwkundige werkzaamheden. Begin vroeg in het depotontwerp met het putontwerp, want put en spoor liggen na de bouw vast. Vraag ons in de planningsfase om funderingstekeningen."
+            },
+            {
+              "q": "Welke informatie heeft u nodig om een machine te adviseren?",
+              "a": "Voertuigtypen en vlootomvang, bereik van wieldiameters, wielprofielen, spoorwijdte, asbelastingen, verwachte aantal wielstellen per dienst en een schets van de indeling van het depot of de werkplaats."
+            },
+            {
+              "q": "Kan een oudere wielenbank worden gemoderniseerd?",
+              "a": "Vaak wel. Een gezonde machineconstructie kan een nieuwe CNC-besturing, nieuwe aandrijvingen en nieuwe meetapparatuur krijgen. Zie [retrofit en upgrades](page:retro-fitment-upgradation)."
+            }
+          ]
+        },
+        {
+          "type": "related",
+          "heading": "Machines die in deze handleidingen worden genoemd",
+          "pages": [
+            "underfloor-wheel-lathe",
+            "tandem-underfloor-wheel-lathe",
+            "portal-wheel-lathe",
+            "surface-wheel-lathe"
+          ]
+        },
+        {
+          "type": "cta",
+          "heading": "Heeft u een vraag die deze handleidingen niet beantwoorden?",
+          "text": "Onze applicatie-engineers bekijken graag uw wielslijtagegegevens, vloot of depotplannen en stellen een praktische aanpak voor.",
+          "primary": {
+            "label": "Vraag het een engineer",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Naar downloads",
+            "page": "downloads"
+          }
+        }
+      ]
+    },
+    "downloads": {
+      "nav": "Downloads",
+      "title": "Downloads – productcatalogi",
+      "description": "Download productcatalogi van HYT Engineering als pdf: CNC-wielenbanken, machines voor wiel- en aswerkplaatsen en depotuitrusting, met gegevens voor een offerte.",
+      "eyebrow": "Media & documentatie",
+      "h1": "Downloads",
+      "lede": "Catalogi en productdocumentatie van HYT Engineering, op één plek verzameld.",
+      "summary": "Productcatalogi en documenten in pdf-formaat.",
+      "blocks": [
+        {
+          "type": "downloads",
+          "heading": "Productcatalogi",
+          "items": [
+            {
+              "title": "HYT-productcatalogus (voorbeeld)",
+              "text": "Een overzicht van de wielenbanken, machines voor wiel- en aswerkplaatsen en depotuitrusting van HYT, met de informatie die we nodig hebben om een technische offerte op te stellen.",
+              "file": "/assets/documents/catalogue/hyt-sample-catalogue.pdf",
+              "meta": "PDF · voorbeeld voor ontwerp en test"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "eyebrow": "Werken met onze documenten",
+          "heading": "Van catalogus naar offerte",
+          "paragraphs": [
+            "Catalogi geven een overzicht van elke machine, de belangrijkste opties en de typische toepassingen. Elke HYT-machine wordt geconfigureerd voor de spoorwijdte, wielprofielen en voertuigen van de klant; de definitieve technische gegevens worden daarom altijd in de technische offerte bevestigd.",
+            "Elke productpagina heeft ook een eigen catalogusknop, zodat u het document voor één machine kunt downloaden terwijl u erover leest. Begin bij het [productoverzicht](page:products) om de machine te vinden die u zoekt.",
+            "Heeft u een tekening, datasheet of aanbestedingsdocumentatie nodig die hier niet staat? [Neem contact met ons op](page:contact-us) en laat ons weten om welke machine en welk project het gaat."
+          ],
+          "image": "company/engineering-design",
+          "image_alt": "Voorbeeldillustratie van engineers die machinetekeningen en documentatie beoordelen",
+          "layout": "image-right"
+        },
+        {
+          "type": "cards",
+          "eyebrow": "Zoeken per productfamilie",
+          "heading": "Vind een machine",
+          "cols": 4,
+          "items": [
+            {
+              "page": "products",
+              "anchor": "wheel-lathes",
+              "title": "Wielenbanken",
+              "text": "CNC-onderloop-, tandem-, bovenvloerse en portaalwielenbanken.",
+              "icon": "gear-wide-connected"
+            },
+            {
+              "page": "products",
+              "anchor": "wheel-axle-shop-machines",
+              "title": "Machines voor wiel- en aswerkplaatsen",
+              "text": "Draaien, uitboren, rolpolijsten, persen, meten en balanceren.",
+              "icon": "tools"
+            },
+            {
+              "page": "products",
+              "anchor": "depot-workshop-equipment",
+              "title": "Depot- en werkplaatsuitrusting",
+              "text": "Machines voor tractiemotorankers, treinwasinstallaties en rangeervoertuigen.",
+              "icon": "building-gear"
+            },
+            {
+              "page": "products",
+              "anchor": "partner-products",
+              "title": "Partnerproducten",
+              "text": "Glijtechniek van SKC Gleittechnik uit Duitsland.",
+              "icon": "box-seam"
+            }
+          ]
+        },
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "De vermelde catalogus is een voorbeeldbestand. Op de huidige website worden catalogi vrijgegeven na een kort formulier – HYT dient te beslissen of dat formulier blijft of dat bestanden direct worden gedownload. HYT dient de definitieve catalogus en afzonderlijke productdatasheets aan te leveren."
+        }
+      ]
+    }
+  }
+}

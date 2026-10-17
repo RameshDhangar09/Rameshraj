@@ -1,0 +1,93 @@
+{
+ "date": "15 October 2026",
+ "pages": 78,
+ "html": 468,
+ "redirects": 72,
+ "siteMB": 49,
+ "htmlFiles": 468,
+ "imgMB": 6,
+ "videoMB": 2.0,
+ "pdfMB": 2.3,
+ "weights": [
+  {
+   "page": "Home",
+   "req": 58,
+   "gz": "1,221",
+   "img": "853",
+   "shared": "337"
+  },
+  {
+   "page": "Product page (YUL-08)",
+   "req": 54,
+   "gz": "1,125",
+   "img": "733",
+   "shared": "361"
+  },
+  {
+   "page": "Turnkey \u2013 Wheel Shops",
+   "req": 55,
+   "gz": "1,147",
+   "img": "731",
+   "shared": "381"
+  },
+  {
+   "page": "Careers",
+   "req": 51,
+   "gz": "1,165",
+   "img": "750",
+   "shared": "381"
+  },
+  {
+   "page": "Contact Us",
+   "req": 48,
+   "gz": "884",
+   "img": "474",
+   "shared": "381"
+  }
+ ],
+ "firstMB": 1.1,
+ "sharedKB": 368,
+ "nextMB": 0.74,
+ "pagesPerVisit": 3,
+ "visitMB": 3.9,
+ "catPct": 5,
+ "catMB": 10,
+ "vidPct": 10,
+ "vidMB": 25,
+ "botPct": 25,
+ "scen": [
+  {
+   "name": "Low",
+   "visits": 5000,
+   "pages": 20,
+   "cat": 2,
+   "vid": 12,
+   "bots": 9,
+   "total": 43,
+   "yt": 28
+  },
+  {
+   "name": "Expected",
+   "visits": 20000,
+   "pages": 78,
+   "cat": 10,
+   "vid": 50,
+   "bots": 34,
+   "total": 172,
+   "yt": 110
+  },
+  {
+   "name": "High (campaign / exhibition)",
+   "visits": 50000,
+   "pages": 195,
+   "cat": 25,
+   "vid": 125,
+   "bots": 86,
+   "total": 431,
+   "yt": 275
+  }
+ ],
+ "reqGB": 250,
+ "storeGB": 5,
+ "storeVidGB": 20
+}

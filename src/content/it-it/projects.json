@@ -1,0 +1,378 @@
+{
+  "pages": {
+    "turnkey-project": {
+      "nav": "Progetti chiavi in mano",
+      "title": "Progetti chiavi in mano (EPC) per officine ferroviarie",
+      "description": "Progetti EPC chiavi in mano per officine sale montate e depositi ferroviari: layout, opere civili, macchine, installazione, formazione e assistenza a vita.",
+      "eyebrow": "Progetti chiavi in mano",
+      "h1": "Progetti chiavi in mano (EPC) per officine sale montate e depositi",
+      "lede": "Quando un operatore ferroviario o metropolitano ha bisogno di un'officina sale montate o di un deposito completo, HYT se ne assume la responsabilità dal primo layout all'officina operativa – un solo contratto, un solo programma, un solo partner responsabile.",
+      "summary": "Officine sale montate e depositi completi, dal layout e dall'interfaccia con le opere civili fino a macchine, messa in servizio e assistenza per l'intero ciclo di vita.",
+      "blocks": [
+        {
+          "type": "text",
+          "id": "overview",
+          "eyebrow": "Cosa significa chiavi in mano",
+          "heading": "Un unico partner, dal capannone vuoto all'officina operativa",
+          "paragraphs": [
+            "Un'officina sale montate o un deposito è molto più di un insieme di macchine. Le sale montate devono scorrere dall'arrivo al rilascio senza colli di bottiglia, fosse e fondazioni devono corrispondere al millimetro al progetto delle macchine, ed energia elettrica, aria compressa e dati devono arrivare nel punto giusto al momento giusto. Quando questi elementi vengono acquistati da fornitori diversi, le lacune tra l'uno e l'altro diventano un problema del cliente.",
+            "In un progetto chiavi in mano – o EPC (engineering, procurement and construction: progettazione, approvvigionamento e costruzione) – HYT si assume la responsabilità di queste lacune. Analizziamo la Sua flotta e la produttività richiesta, progettiamo il processo e il layout, forniamo e integriamo le macchine, coordiniamo o realizziamo l'interfaccia con le opere civili e mettiamo in servizio l'intero impianto sulle Sue sale montate.",
+            "Poiché progettiamo e costruiamo noi stessi le macchine principali, processo, fondazioni e attrezzature vengono progettati insieme fin dall'inizio. Ciò riduce i rischi di interfaccia, accorcia la messa in servizio e Le offre un unico referente responsabile delle prestazioni."
+          ],
+          "image": "projects/railway-wheel-shop",
+          "image_alt": "Illustrazione di esempio di un'officina sale montate con torni per ruote e sale montate su binari di trasferimento",
+          "layout": "image-right"
+        },
+        {
+          "type": "cards",
+          "id": "solutions",
+          "eyebrow": "Soluzioni chiavi in mano",
+          "heading": "Impianti che progettiamo, attrezziamo e mettiamo in servizio",
+          "intro": "Sei tipologie di impianto, un unico approccio: un solo partner responsabile di layout, macchine, installazione e assistenza per l’intero ciclo di vita.",
+          "cols": 3,
+          "items": [
+            {
+              "page": "ts-wheel-shops",
+              "image": "projects/railway-wheel-shop"
+            },
+            {
+              "page": "ts-maintenance-depots",
+              "image": "projects/metro-depot"
+            },
+            {
+              "page": "ts-rolling-stock-facilities",
+              "image": "industries/rolling-stock-manufacturers"
+            },
+            {
+              "page": "ts-wheelset-plants",
+              "image": "products/wheel-press"
+            },
+            {
+              "page": "ts-wheel-machining-lines",
+              "image": "products/vertical-turning-boring-machine"
+            },
+            {
+              "page": "ts-axle-machining-lines",
+              "image": "products/axle-turning-lathe"
+            }
+          ]
+        },
+        {
+          "type": "features",
+          "id": "scope",
+          "eyebrow": "Ambito tipico",
+          "heading": "Cosa può comprendere un progetto chiavi in mano per officine sale montate o depositi",
+          "intro": "Ogni progetto viene definito in base alle esigenze del cliente. Gli elementi seguenti possono essere combinati secondo necessità.",
+          "cols": 3,
+          "items": [
+            {
+              "icon": "diagram-3",
+              "title": "Ingegneria di processo e layout",
+              "text": "Analisi della flotta, pianificazione della capacità e un flusso delle sale montate che evita colli di bottiglia e movimentazioni superflue."
+            },
+            {
+              "icon": "bricks",
+              "title": "Interfaccia con opere civili ed edifici",
+              "text": "Progettazione di fosse, fondazioni e supporti delle rotaie, coordinata con la Sua impresa edile o eseguita nell'ambito della nostra fornitura."
+            },
+            {
+              "icon": "gear-wide-connected",
+              "title": "Macchine",
+              "text": "Torni per ruote, torni verticali, torni per assi, presse per ruote, stazioni di misura ed equilibratrici."
+            },
+            {
+              "icon": "arrows-move",
+              "title": "Movimentazione delle sale montate",
+              "text": "Sistemi di trasferimento e movimentazione che spostano in sicurezza sale montate pesanti tra le postazioni di lavoro."
+            },
+            {
+              "icon": "plug",
+              "title": "Impianti e integrazione",
+              "text": "Distribuzione dell'energia, aria compressa, gestione dei trucioli e connessioni dati pianificate come un unico sistema."
+            },
+            {
+              "icon": "people",
+              "title": "Messa in servizio e assistenza",
+              "text": "Collaudo a livello di impianto, formazione del personale e contratti di manutenzione a lungo termine."
+            }
+          ]
+        },
+        {
+          "type": "steps",
+          "id": "phases",
+          "eyebrow": "Fasi del progetto",
+          "heading": "Come viene realizzato un progetto chiavi in mano",
+          "intro": "Ogni fase si conclude con un risultato chiaro, che Lei esamina e approva prima dell'avvio della fase successiva.",
+          "items": [
+            {
+              "title": "Analisi dei requisiti",
+              "text": "Composizione della flotta, tipi di ruote e assi, obiettivi di produttività e vincoli del sito vengono analizzati insieme al Suo team."
+            },
+            {
+              "title": "Concept e layout",
+              "text": "Flusso di processo, scelta delle macchine e layout dell'edificio vengono sviluppati e concordati."
+            },
+            {
+              "title": "Progettazione esecutiva",
+              "text": "Progetti delle macchine, disegni di fosse e fondazioni, impianti e interfacce vengono definiti in via finale."
+            },
+            {
+              "title": "Produzione e approvvigionamento",
+              "text": "Le macchine vengono costruite e collaudate nel nostro stabilimento di Pune; le apparecchiature di terzi vengono acquistate e ispezionate."
+            },
+            {
+              "title": "Preparazione del sito",
+              "text": "Le opere civili vengono eseguite o supervisionate e la prontezza del sito viene verificata prima della spedizione delle macchine."
+            },
+            {
+              "title": "Installazione e integrazione",
+              "text": "Macchine, sistemi di movimentazione e impianti vengono installati, collegati e collaudati come un unico sistema."
+            },
+            {
+              "title": "Messa in servizio e collaudo",
+              "text": "L'impianto dimostra le proprie prestazioni sulle Sue sale montate, secondo criteri concordati."
+            },
+            {
+              "title": "Formazione, consegna e assistenza",
+              "text": "Il personale viene formato, la documentazione viene consegnata e ha inizio la [manutenzione](page:maintenance) a lungo termine."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "id": "why-hyt",
+          "eyebrow": "Perché è importante",
+          "heading": "Meno interfacce, meno rischi, produzione anticipata",
+          "paragraphs": [
+            "La maggior parte dei ritardi nei progetti di officina nasce dalle interfacce: una fossa che non corrisponde alla macchina, un'alimentazione elettrica che arriva in ritardo, un sistema di movimentazione che non raggiunge una postazione di lavoro. Un unico partner chiavi in mano elimina queste interfacce già in fase di progettazione, prima dell'inizio dei lavori.",
+            "Per [ferrovie](page:ind-railways), [metropolitane](page:ind-metros) e [costruttori di materiale rotabile](page:ind-rolling-stock) il risultato è un impianto che entra in produzione prima e funziona come previsto – con un'unica organizzazione che ne risponde."
+          ],
+          "bullets": [
+            "Processo, fondazioni e macchine progettati insieme",
+            "Un unico programma e un unico referente per l'intero impianto",
+            "Assistenza per tutto il ciclo di vita dall'azienda che ha costruito le macchine"
+          ],
+          "image": "projects/pit-foundation-civil-works",
+          "image_alt": "Illustrazione di esempio di lavori di fosse e fondazioni in preparazione per torni per ruote in un nuovo deposito",
+          "layout": "image-left"
+        },
+        {
+          "type": "cards",
+          "id": "projects",
+          "eyebrow": "Progetti e soluzioni",
+          "heading": "Scopra i nostri lavori",
+          "cols": 3,
+          "items": [
+            {
+              "page": "executed-projects",
+              "image": "projects/emu-car-shed"
+            },
+            {
+              "page": "under-execution",
+              "image": "projects/metro-depot"
+            },
+            {
+              "page": "ts-wheel-shops",
+              "image": "projects/wheel-shop-automation-line"
+            }
+          ]
+        },
+        {
+          "type": "cta",
+          "heading": "Sta pianificando una nuova officina sale montate o un nuovo deposito?",
+          "text": "Ci comunichi flotta, obiettivi di produttività e planimetrie del sito. I nostri ingegneri di progetto Le presenteranno un concept e le fasi per realizzarlo.",
+          "primary": {
+            "label": "Discuta la Sua esigenza",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Scopra i nostri prodotti",
+            "page": "products"
+          }
+        }
+      ]
+    },
+    "executed-projects": {
+      "nav": "Progetti realizzati",
+      "title": "Progetti realizzati di macchine utensili ferroviarie",
+      "description": "Progetti HYT realizzati: torni verticali CNC per il deposito EMU di Sanpada (Mumbai) e per la State Railway of Thailand, oltre a torni in fossa CNC.",
+      "eyebrow": "Progetti chiavi in mano",
+      "h1": "Progetti realizzati",
+      "lede": "Una selezione delle macchine che HYT ha fornito a officine ferroviarie in India e all'estero. Ogni scheda riporta i dati che siamo autorizzati a pubblicare.",
+      "summary": "Macchine e progetti che HYT ha realizzato per officine ferroviarie in India e all'estero.",
+      "blocks": [
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "HYT deve fornire l'elenco completo dei progetti realizzati approvati, con anno di completamento, ambito, fotografie e autorizzazione scritta del cliente alla pubblicazione. HYT deve inoltre confermare se il contratto con Indian Railways per nove torni in fossa CNC è concluso (Realizzato) o ancora in corso (In corso di realizzazione)."
+        },
+        {
+          "type": "text",
+          "id": "overview",
+          "eyebrow": "Le nostre referenze",
+          "heading": "Macchine al lavoro nelle officine ferroviarie",
+          "paragraphs": [
+            "I nostri progetti spaziano da una singola macchina aggiunta a un deposito esistente fino a intere serie di torni per ruote per una rete ferroviaria nazionale. In ogni caso il criterio di successo è lo stesso: sale montate ripristinate con precisione e nei tempi previsti, per anni dopo la consegna.",
+            "I progetti seguenti sono presentati con nome del cliente, località e ambito, nella misura in cui siamo autorizzati a pubblicarli. Per i progetti ancora in corso, consulti [Progetti in corso di realizzazione](page:under-execution). Per discutere un'installazione di riferimento pertinente alla Sua flotta, [ci contatti](page:contact-us)."
+          ]
+        },
+        {
+          "type": "projects",
+          "id": "project-list",
+          "heading": "Progetti realizzati",
+          "items": [
+            {
+              "id": "sanpada-emu-car-shed",
+              "title": "Tornio verticale CNC – deposito EMU di Sanpada",
+              "client": "Deposito EMU di Sanpada",
+              "location": "Mumbai, India",
+              "status_key": "executed",
+              "image": "projects/emu-car-shed",
+              "image_alt": "Illustrazione di esempio di un deposito EMU con treni suburbani in manutenzione",
+              "scope": [
+                "Fornitura di un tornio verticale CNC",
+                "Macchina progettata e costruita nello stabilimento HYT di Pune",
+                "Capacità interna di lavorazione delle ruote per il deposito"
+              ],
+              "text": "Le flotte EMU suburbane operano con orari intensi, quindi ogni sala montata restituita rapidamente al servizio conta. Un tornio verticale CNC offre al deposito una propria capacità di lavorare le ruote a profilo con precisione e ripetibilità, senza dipendere da officine esterne.",
+              "products": [
+                "vertical-turning-boring-machine"
+              ]
+            },
+            {
+              "id": "state-railway-of-thailand",
+              "title": "Tornio verticale a torretta CNC – State Railway of Thailand",
+              "client": "State Railway of Thailand",
+              "location": "Bangkok, Thailandia",
+              "status_key": "executed",
+              "image": "projects/railway-wheel-shop",
+              "image_alt": "Illustrazione di esempio di un'officina sale montate con un tornio verticale",
+              "scope": [
+                "Fornitura di un tornio verticale a torretta CNC",
+                "Installazione presso lo stabilimento del cliente a Bangkok",
+                "Macchina progettata e costruita nello stabilimento HYT di Pune"
+              ],
+              "text": "HYT ha fornito e installato un tornio verticale a torretta CNC per la State Railway of Thailand a Bangkok. Il progetto dimostra come le macchine e il supporto tecnico HYT raggiungano gli operatori ferroviari anche oltre l'India.",
+              "products": [
+                "vertical-turning-boring-machine"
+              ]
+            },
+            {
+              "id": "indian-railways-underfloor-wheel-lathes",
+              "title": "Nove torni in fossa CNC – Indian Railways",
+              "client": "Indian Railways",
+              "location": "India",
+              "status_key": "executed",
+              "image": "products/underfloor-wheel-lathe-yul-08",
+              "image_alt": "Illustrazione di esempio di un tornio in fossa CNC installato nella fossa di un deposito",
+              "scope": [
+                "Contratto per la fornitura di nove torni in fossa CNC",
+                "Macchine che riprofilano entrambe le ruote di una sala montata senza smontarla dal veicolo",
+                "Ambito tipico per i torni in fossa: disegni della fossa, installazione, messa in servizio e formazione"
+              ],
+              "text": "Indian Railways ha aggiudicato a HYT un contratto per la fornitura di nove torni in fossa CNC. I torni in fossa (torni sottocassa) ripristinano il profilo delle ruote mentre la sala montata resta nel veicolo, così locomotive e carrozze tornano in servizio senza smontaggio dei carrelli.",
+              "products": [
+                "underfloor-wheel-lathe"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "cta",
+          "heading": "Sta pianificando un progetto simile?",
+          "text": "Ci parli della Sua flotta e della Sua officina. Le consiglieremo le macchine più adatte e condivideremo le esperienze pertinenti.",
+          "primary": {
+            "label": "Discuta la Sua esigenza",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Progetti in corso di realizzazione",
+            "page": "under-execution"
+          }
+        }
+      ]
+    },
+    "under-execution": {
+      "nav": "Progetti in corso di realizzazione",
+      "title": "Progetti ferroviari in corso di realizzazione",
+      "description": "Progetti HYT in corso: torni in fossa CNC completamente automatici per NCRTC e un nuovo tornio in fossa CNC tandem per Delhi Metro Rail Corporation (DMRC).",
+      "eyebrow": "Progetti chiavi in mano",
+      "h1": "Progetti in corso di realizzazione",
+      "lede": "Progetti HYT in corso per gli operatori indiani di metropolitane e di trasporto rapido regionale – macchine che manterranno a profilo flotte nuove e in crescita.",
+      "summary": "Progetti HYT in corso, tra cui torni in fossa per NCRTC e un tornio in fossa tandem per DMRC.",
+      "blocks": [
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "HYT deve confermare lo stato attuale, l'ambito e i dettagli pubblicabili (fotografie, autorizzazione del cliente) di ciascun progetto. Nota interna: al completamento di un progetto, spostarne la sezione in Progetti realizzati."
+        },
+        {
+          "type": "text",
+          "id": "overview",
+          "eyebrow": "In corso",
+          "heading": "Macchine per flotte urbane ad alta frequenza",
+          "paragraphs": [
+            "I treni metropolitani e di trasporto rapido effettuano servizi frequenti con tempi di inversione brevi. Le loro ruote si usurano rapidamente e devono essere ripristinate senza togliere a lungo i treni dal servizio. I torni in fossa, singoli o in tandem, sono costruiti esattamente per questo compito.",
+            "I progetti di questo tipo seguono di norma l'intero processo HYT: progettazione, produzione nel nostro stabilimento di Pune, preparazione del sito, installazione, messa in servizio e formazione. I progetti completati sono elencati in [Progetti realizzati](page:executed-projects)."
+          ]
+        },
+        {
+          "type": "projects",
+          "id": "project-list",
+          "heading": "Progetti in corso di realizzazione",
+          "items": [
+            {
+              "id": "ncrtc-underfloor-wheel-lathes",
+              "title": "Torni in fossa CNC completamente automatici – NCRTC",
+              "client": "National Capital Region Transport Corporation (NCRTC)",
+              "location": "National Capital Region, India",
+              "status_key": "under-execution",
+              "image": "projects/metro-depot",
+              "image_alt": "Illustrazione di esempio di un deposito di trasporto rapido con un treno sopra un tornio in fossa",
+              "scope": [
+                "Lettera di accettazione (Letter of Acceptance) emessa a favore di HYT per torni in fossa CNC completamente automatici",
+                "Riprofilatura delle sale montate nel veicolo, senza smontaggio dei carrelli",
+                "Ambito tipico per i torni in fossa: disegni della fossa, installazione, messa in servizio e formazione"
+              ],
+              "text": "National Capital Region Transport Corporation ha emesso a favore di HYT una lettera di accettazione (Letter of Acceptance) per torni in fossa CNC completamente automatici. Per una flotta di trasporto rapido regionale, i cicli automatici di misura e lavorazione contribuiscono a rendere la riprofilatura rapida, uniforme e parsimoniosa nell'asportazione di materiale dalle ruote.",
+              "products": [
+                "underfloor-wheel-lathe"
+              ]
+            },
+            {
+              "id": "dmrc-tandem-underfloor-wheel-lathe",
+              "title": "Nuovo tornio in fossa CNC tandem – DMRC",
+              "client": "Delhi Metro Rail Corporation (DMRC)",
+              "location": "Delhi, India",
+              "status_key": "under-execution",
+              "image": "products/tandem-underfloor-wheel-lathe-yul-12t",
+              "image_alt": "Illustrazione di esempio di due torni in fossa sincronizzati sotto un carrello di metropolitana",
+              "scope": [
+                "Aggiudicazione di un nuovo tornio in fossa CNC tandem",
+                "Due macchine sincronizzate che riprofilano entrambe le sale montate di un carrello in un unico piazzamento",
+                "Ambito tipico per i torni in fossa: disegni della fossa, installazione, messa in servizio e formazione"
+              ],
+              "text": "Delhi Metro Rail Corporation ha aggiudicato a HYT un contratto per un nuovo tornio in fossa CNC tandem. Una macchina tandem riprofila contemporaneamente entrambe le sale montate di un carrello, riducendo il tempo che ogni treno trascorre sul tornio.",
+              "products": [
+                "tandem-underfloor-wheel-lathe"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "cta",
+          "heading": "Vuole aumentare la capacità di riprofilatura del Suo deposito?",
+          "text": "Si confronti con i nostri ingegneri applicativi sui torni in fossa singoli o tandem per la Sua flotta.",
+          "primary": {
+            "label": "Discuta la Sua esigenza",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Progetti realizzati",
+            "page": "executed-projects"
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,507 @@
+{
+  "pages": {
+    "news": {
+      "nav": "Aktuelles",
+      "title": "Aktuelles – Aufträge, Projekte und Auszeichnungen",
+      "description": "Neuigkeiten von HYT Engineering: neue Aufträge für Radsatzdrehmaschinen von Bahnen und Metros, abgeschlossene Projekte, Auszeichnungen und Messeauftritte.",
+      "eyebrow": "Medien & Ressourcen",
+      "h1": "Aktuelles von HYT Engineering",
+      "lede": "Aufträge, abgeschlossene Projekte, Auszeichnungen und Messen – die Meldungen, die den Fortschritt von HYT dokumentieren, an einem Ort.",
+      "summary": "Unternehmensmeldungen: neue Aufträge, abgeschlossene Projekte, Auszeichnungen und Messeauftritte.",
+      "blocks": [
+        {
+          "type": "news",
+          "eyebrow": "Meldungen",
+          "heading": "Aktuelle Meldungen",
+          "items": [
+            {
+              "title": "NCRTC erteilt Zuschlag für vollautomatische CNC-Unterflur-Radsatzdrehmaschinen",
+              "date": "Auftrag",
+              "category": "Aufträge",
+              "text": "Die National Capital Region Transport Corporation hat HYT den Zuschlag (Letter of Acceptance) für vollautomatische CNC-Unterflur-Radsatzdrehmaschinen erteilt. Die Maschinen reprofilieren Radsätze im eingebauten Zustand, sodass die Züge kürzer außer Betrieb sind.",
+              "page": "under-execution"
+            },
+            {
+              "title": "Delhi Metro beauftragt HYT mit neuer CNC-Tandem-Unterflur-Radsatzdrehmaschine",
+              "date": "Auftrag",
+              "category": "Aufträge",
+              "text": "Die Delhi Metro Rail Corporation hat HYT mit einer neuen CNC-Tandem-Unterflur-Radsatzdrehmaschine beauftragt. Eine Tandemmaschine reprofiliert zwei Radsätze eines Drehgestells in einer Aufspannung – ein Vorteil für Metroflotten im dichten Takt.",
+              "page": "tandem-underfloor-wheel-lathe"
+            },
+            {
+              "title": "Auftrag von Indian Railways über neun CNC-Unterflur-Radsatzdrehmaschinen",
+              "date": "Auftrag",
+              "category": "Aufträge",
+              "text": "Indian Railways hat HYT mit der Lieferung von neun CNC-Unterflur-Radsatzdrehmaschinen beauftragt und erweitert damit die Kapazität seines Instandhaltungsnetzes für die Reprofilierung im eingebauten Zustand.",
+              "page": "underfloor-wheel-lathe"
+            },
+            {
+              "title": "HYT im D&B-Verzeichnis „Leading Mid-Corporates of India 2023“",
+              "date": "Auszeichnung",
+              "category": "Auszeichnungen",
+              "text": "HYT Engineering Company Pvt. Ltd. wird in der Dun & Bradstreet-Publikation „Leading Mid-Corporates of India 2023“ aufgeführt.",
+              "page": "awards"
+            },
+            {
+              "title": "HYT auf der Africa Rail 2020",
+              "date": "Messe",
+              "category": "Messen",
+              "text": "HYT stellte auf der Africa Rail 2020 aus und präsentierte der afrikanischen Bahnbranche seine Radsatzdrehmaschinen und Werkstattlösungen.",
+              "page": "international-exhibitions"
+            },
+            {
+              "title": "Im Gespräch mit Betreibern auf der Asia Pacific Rail, Middle East Rail und AusRAIL",
+              "date": "Messe",
+              "category": "Messen",
+              "text": "HYT war Aussteller auf der Asia Pacific Rail, der Middle East Rail und der AusRAIL und hat dort mit Bahnbetreibern und Ingenieuren über Radsatz-Reprofilierung und Betriebswerksplanung gesprochen.",
+              "page": "international-exhibitions"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "eyebrow": "Über diese Seite",
+          "heading": "Was wir hier veröffentlichen",
+          "paragraphs": [
+            "Auf dieser Seite finden Sie die Unternehmensmeldungen von HYT: neue Aufträge, abgeschlossene und übergebene Projekte, Auszeichnungen für das Unternehmen und die Messen, auf denen Sie unsere Ingenieure treffen können. Jede Meldung ist kurz und sachlich und verweist auf die Seite mit weiteren Details.",
+            "Sie suchen eher Fachlektüre als Unternehmensnachrichten? In unserem [Blog](page:blog) erscheinen datierte Fachbeiträge und Projektberichte, und das [Wissenszentrum](page:knowledge-centre) bietet dauerhaft gültige Leitfäden zu Radverschleiß, Maschinenauswahl und Werkstattplanung.",
+            "Journalisten und Fachmedien können Hintergrundinformationen, Zitate oder Bildmaterial per E-Mail an info@hytengineering.com mit dem Betreff „Medienanfrage“ anfordern."
+          ],
+          "image": "company/exhibition-stand",
+          "image_alt": "Beispielillustration eines HYT-Messestands mit dem Modell einer Radsatzdrehmaschine und Besuchern im Gespräch",
+          "layout": "image-right"
+        },
+        {
+          "type": "cards",
+          "eyebrow": "Weiterlesen",
+          "heading": "Mehr von HYT",
+          "cols": 4,
+          "items": [
+            {"page": "under-execution", "icon": "gear-wide-connected"},
+            {"page": "awards", "icon": "award"},
+            {"page": "international-exhibitions", "icon": "globe2"},
+            {"page": "domestic-exhibitions", "icon": "geo-alt"}
+          ]
+        },
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "Die Meldungen beruhen auf öffentlichen Quellen und sind nicht datiert. HYT muss für jede Meldung das Datum, eine kurze Pressemitteilung und Fotos liefern sowie den Wortlaut bestätigen. Einzelne Nachrichtenseiten werden unter /news/item-name/ veröffentlicht."
+        }
+      ]
+    },
+
+    "international-exhibitions": {
+      "nav": "Internationale Messen",
+      "title": "Internationale Bahnmessen mit HYT",
+      "description": "HYT Engineering stellte auf Asia Pacific Rail, Middle East Rail, Africa Rail 2020 und AusRAIL aus. Warum wir dabei sind und was Sie mit uns besprechen können.",
+      "eyebrow": "Medien & Ressourcen",
+      "h1": "HYT auf internationalen Bahnmessen",
+      "lede": "Auf Bahnmessen begegnen wir persönlich den Betreibern, Projektteams und Ingenieuren, die weltweit Flotten instand halten. Wir kommen ebenso zum Zuhören wie zum Präsentieren.",
+      "summary": "Asia Pacific Rail, Middle East Rail, Africa Rail und AusRAIL – hier ist HYT der internationalen Bahnbranche begegnet.",
+      "blocks": [
+        {
+          "type": "text",
+          "eyebrow": "Warum wir ausstellen",
+          "heading": "Gespräche, die bessere Werkstätten ermöglichen",
+          "paragraphs": [
+            "Eine Radsatzdrehmaschine oder eine Radsatzwerkstatt ist eine langfristige Entscheidung. Die Betreiber, die sie treffen, möchten die Technik hinter der Maschine verstehen, die Menschen kennenlernen, die sie betreuen werden, und wissen, wie sie zu ihrer eigenen Flotte, Spurweite und Betriebswerksanordnung passt. Dieses Gespräch beginnt am besten persönlich.",
+            "Auf internationalen Messen treffen wir in wenigen Tagen Eisenbahnen, Metrobetreiber, Schienenfahrzeughersteller und Berater aus vielen Regionen. Wir erfahren, wie sich die Instandhaltungspraxis zwischen den Netzen unterscheidet, welche Probleme Werkstattleitern den Schlaf rauben und wo neue Strecken und Betriebswerke geplant werden. Dieses Wissen fließt direkt in unsere Maschinenkonstruktion und unsere [schlüsselfertigen Projekte](page:turnkey-project) ein."
+          ],
+          "image": "company/exhibition-stand",
+          "image_alt": "Beispielillustration eines HYT-Messestands auf einer internationalen Bahnmesse",
+          "layout": "image-right"
+        },
+        {
+          "type": "logos",
+          "eyebrow": "Unsere Messepräsenz",
+          "heading": "Wo wir ausgestellt haben",
+          "intro": "HYT hat als Aussteller an diesen internationalen Bahnveranstaltungen teilgenommen.",
+          "items": [
+            {"name": "Asia Pacific Rail", "note": "Aussteller"},
+            {"name": "Middle East Rail", "note": "Aussteller"},
+            {"name": "Africa Rail 2020", "note": "Aussteller"},
+            {"name": "AusRAIL", "note": "Aussteller"}
+          ]
+        },
+        {
+          "type": "features",
+          "eyebrow": "Am Messestand",
+          "heading": "Was Sie mit uns besprechen können",
+          "intro": "An unserem Stand stehen Ihnen die Menschen gegenüber, die die Maschinen konstruieren, bauen und warten. Bringen Sie Ihre Fragen mit – und nach Möglichkeit Ihre Radprofile und Betriebswerkszeichnungen.",
+          "cols": 3,
+          "items": [
+            {"icon": "rulers", "title": "Strategie für die Radsatz-Reprofilierung", "text": "Wie Sie Profile mit minimalem Materialabtrag wiederherstellen und die Lebensdauer der Räder in der gesamten Flotte verlängern."},
+            {"icon": "gear-wide-connected", "title": "Die richtige Radsatzdrehmaschine", "text": "Unterflur, Tandem, Überflur oder Portal: welche Bauart zu Ihren Fahrzeugen, Ihrer Spurweite und Ihrem Durchsatz passt."},
+            {"icon": "diagram-3", "title": "Planung von Betriebswerk und Radsatzwerkstatt", "text": "Prozessablauf, Maschinenauswahl und Bauschnittstellen für neue oder zu erweiternde Anlagen."},
+            {"icon": "building-gear", "title": "Schlüsselfertige Projekte", "text": "Verantwortung aus einer Hand – von der Layoutstudie bis zu Inbetriebnahme und Übergabe."},
+            {"icon": "arrow-repeat", "title": "Modernisierung bestehender Maschinen", "text": "Nachrüstung neuer CNC-Steuerungen, Antriebe und Messtechnik zur Verlängerung der Maschinenlebensdauer."},
+            {"icon": "truck", "title": "Wet Leasing", "text": "Reprofilierungskapazität inklusive Maschine und Bedienpersonal, abgerechnet nach Leistung."}
+          ],
+          "link": {"label": "Unsere Produkte entdecken", "page": "products"}
+        },
+        {
+          "type": "gallery",
+          "heading": "Impressionen",
+          "items": [
+            {"image": "company/exhibition-stand", "caption": "Beispielillustration des HYT-Messestands"},
+            {"image": "products/underfloor-wheel-lathe-yul-08", "caption": "Beispielillustration einer Unterflur-Radsatzdrehmaschine der Art, wie sie den Besuchern vorgestellt wurde"},
+            {"image": "products/wheelset-profile-closeup", "caption": "Beispielillustration einer reprofilierten Lauffläche mit Spurkranz"},
+            {"image": "company/engineering-design", "caption": "Beispielillustration von HYT-Ingenieuren bei der Prüfung einer Maschinenkonstruktion"}
+          ]
+        },
+        {
+          "type": "cards",
+          "eyebrow": "Ebenfalls interessant",
+          "heading": "Weitere Veranstaltungen und Neuigkeiten",
+          "cols": 2,
+          "items": [
+            {"page": "domestic-exhibitions", "icon": "geo-alt"},
+            {"page": "news", "icon": "newspaper"}
+          ]
+        },
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "Die Messen stammen aus den Ausstellerverzeichnissen der Veranstalter. HYT muss die Teilnahmejahre bestätigen (nur Africa Rail 2020 ist datiert), Standfotos liefern und kommende Veranstaltungen mit Datum und Standnummer angeben."
+        },
+        {
+          "type": "cta",
+          "heading": "Sie planen den Besuch einer Bahnmesse?",
+          "text": "Teilen Sie uns mit, welche Veranstaltung Sie besuchen und was Sie besprechen möchten. Wir vereinbaren einen Termin mit dem richtigen Ingenieur – auf der Messe oder im Anschluss.",
+          "primary": {"label": "Termin vereinbaren", "page": "contact-us"},
+          "secondary": {"label": "Unsere Produkte entdecken", "page": "products"}
+        }
+      ]
+    },
+
+    "domestic-exhibitions": {
+      "nav": "Messen in Indien",
+      "title": "HYT auf Fachmessen in Indien",
+      "description": "Treffen Sie HYT Engineering auf Bahn- und Technikmessen in Indien – im Gespräch über Radsatzdrehmaschinen, Werkstattmaschinen, Depottechnik und Service.",
+      "eyebrow": "Medien & Ressourcen",
+      "h1": "HYT auf Messen in Indien",
+      "lede": "Indien ist unser Heimatmarkt. Auf indischen Bahn- und Technikveranstaltungen treffen wir die Teams aus Betriebswerken, Lokschuppen und Werkstätten, die täglich mit unseren Maschinen arbeiten.",
+      "summary": "Bahn- und Technikmessen in Indien, auf denen Sie die Ingenieure von HYT treffen können.",
+      "blocks": [
+        {
+          "type": "text",
+          "eyebrow": "Nah am Kunden",
+          "heading": "Warum indische Veranstaltungen für uns wichtig sind",
+          "paragraphs": [
+            "HYT konstruiert und baut seit 1977 Werkzeugmaschinen in Pune. Ein Großteil unserer installierten Maschinen arbeitet in indischen Lokbetriebswerken, Reisezugwagen-Betriebswerken, EMU-Betriebswerken, Metro-Betriebswerken und Radsatzwerkstätten – und auf indischen Messen kommen diese Anwender, ihre Planer und ihre Einkaufsteams zusammen.",
+            "Wir nutzen diese Veranstaltungen, um Neuheiten zu zeigen, zu hören, wie sich unsere Maschinen im täglichen Einsatz bewähren, und die Ingenieure zu treffen, die die nächste Generation von Betriebswerken für wachsende Metro- und Regionalbahnnetze planen. Außerdem treffen wir hier Lieferanten und junge Ingenieure, die vielleicht [bei uns arbeiten](page:work-with-us) möchten."
+          ],
+          "image": "company/exhibition-stand",
+          "image_alt": "Beispielillustration eines HYT-Stands auf einer indischen Technikmesse",
+          "layout": "image-right"
+        },
+        {
+          "type": "features",
+          "eyebrow": "Wen wir treffen",
+          "heading": "Gespräche, auf die wir uns freuen",
+          "cols": 4,
+          "items": [
+            {"icon": "train-front", "title": "Bahnwerkstätten und Betriebswerke", "text": "Reprofilierungskapazität, Maschinenmodernisierung und Wartungsverträge für vorhandene Anlagen."},
+            {"icon": "train-lightrail-front", "title": "Metro und Regionalbahn", "text": "Unterflur- und Tandemdrehmaschinen für neue Betriebswerke mit Flotten im dichten Takt."},
+            {"icon": "building-gear", "title": "Schienenfahrzeughersteller", "text": "Maschinen für Rad- und Achswerkstätten zur Fertigung und Prüfung neuer Radsätze."},
+            {"icon": "people", "title": "Berater und Bauunternehmen", "text": "Betriebswerkslayouts, Grubenzeichnungen und Bauschnittstellen für Ausschreibungsplanungen."}
+          ]
+        },
+        {
+          "type": "cards",
+          "eyebrow": "Ebenfalls interessant",
+          "heading": "Weitere Veranstaltungen und Neuigkeiten",
+          "cols": 2,
+          "items": [
+            {"page": "international-exhibitions", "icon": "globe2"},
+            {"page": "news", "icon": "newspaper"}
+          ]
+        },
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "Es sind noch keine indischen Messen verifiziert. HYT muss die Liste der besuchten Inlandsmessen (Veranstaltung, Stadt, Jahr), Standfotos sowie kommende Veranstaltungen mit Datum und Standnummer liefern."
+        },
+        {
+          "type": "cta",
+          "heading": "Treffen Sie unser Team in Indien",
+          "text": "Ob auf einer Messe oder in unserem Werk in Pune – wir besprechen gern Ihre Flotte und Ihre Werkstatt.",
+          "primary": {"label": "Kontakt zu unserem Team", "page": "contact-us"},
+          "secondary": {"label": "Servicenetz", "page": "service-centers"}
+        }
+      ]
+    },
+
+    "blog": {
+      "nav": "Blog",
+      "title": "Blog – Fachbeiträge zur Bahninstandhaltung",
+      "description": "Der HYT-Engineering-Blog: datierte Fachbeiträge, Standpunkte und Projektberichte zu Radsatz-Reprofilierung, Betriebswerksplanung und Instandhaltung.",
+      "eyebrow": "Medien & Ressourcen",
+      "h1": "HYT-Blog",
+      "lede": "Beiträge, Standpunkte und Geschichten von den Menschen, die HYT-Maschinen konstruieren, bauen und warten.",
+      "summary": "Datierte Fachbeiträge, Standpunkte und Projektberichte der Ingenieure von HYT.",
+      "blocks": [
+        {
+          "type": "text",
+          "eyebrow": "Blog oder Wissenszentrum?",
+          "heading": "Zwei Arten von Lektüre",
+          "paragraphs": [
+            "Im **Blog** veröffentlichen wir datierte Beiträge: Meinungen zur Instandhaltungspraxis, Erkenntnisse von Inbetriebnahmen, Geschichten aus unseren Projekten und Gedanken dazu, wohin sich Bahnwerkstätten entwickeln. Jeder Beitrag spiegelt seinen Zeitpunkt wider und trägt ein Veröffentlichungsdatum.",
+            "Das [Wissenszentrum](page:knowledge-centre) enthält dauerhaft gültige technische Leitfäden und Antworten auf häufig gestellte Fragen – Inhalte, die wir aktuell halten und auf die Sie bei der Planung einer Drehmaschine, einer Grube oder eines Reprofilierungsprogramms zurückgreifen können.",
+            "Unternehmensmeldungen wie Aufträge und Messen finden Sie unter [Aktuelles](page:news)."
+          ],
+          "image": "products/wheelset-profile-closeup",
+          "image_alt": "Beispielillustration einer Radlauffläche mit Spurkranz nach der Reprofilierung",
+          "layout": "image-right"
+        },
+        {
+          "type": "features",
+          "eyebrow": "Geplante Beiträge",
+          "heading": "Demnächst",
+          "intro": "Die ersten Beiträge sind in Vorbereitung. Diese Themen möchten wir behandeln.",
+          "cols": 2,
+          "items": [
+            {"icon": "clock-history", "title": "Was ein Tag in der Grube wirklich kostet", "text": "Warum die Zeit, die ein Zug auf die Reprofilierung wartet, oft schwerer wiegt als der Preis der Drehmaschine – und wie man sie misst."},
+            {"icon": "train-lightrail-front", "title": "Radsatzinstandhaltung für ein neues Metro-Betriebswerk planen", "text": "Fragen, die früh geklärt werden sollten – Flottengröße, Radprofile, Lage der Grube –, bevor das Betriebswerkslayout feststeht."},
+            {"icon": "arrow-repeat", "title": "Nachrüsten oder ersetzen?", "text": "Wie Sie beurteilen, ob eine ältere Radsatzdrehmaschine eine neue CNC-Steuerung und neue Antriebe verdient oder das Ende ihrer Lebensdauer erreicht hat."},
+            {"icon": "tools", "title": "Notizen von einer Inbetriebnahme", "text": "Was zwischen der Anlieferung der Maschine im Betriebswerk und dem ersten fertigen Radsatz geschieht – erzählt von einem HYT-Inbetriebnahmeingenieur."}
+          ]
+        },
+        {
+          "type": "cards",
+          "eyebrow": "Jetzt lesen",
+          "heading": "Nützlich in der Zwischenzeit",
+          "cols": 2,
+          "items": [
+            {"page": "knowledge-centre", "icon": "lightbulb"},
+            {"page": "news", "icon": "newspaper"}
+          ]
+        },
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "Es gibt noch keine Beiträge; sie werden unter /blog/article-name/ veröffentlicht. HYT muss bestätigen, ob Blog und Wissenszentrum getrennt bleiben (wie vorgeschlagen: Blog für datierte Beiträge, Wissenszentrum für dauerhaft gültige Leitfäden) oder zusammengeführt werden, und die geplanten Themen und Autoren freigeben."
+        }
+      ]
+    },
+
+    "knowledge-centre": {
+      "nav": "Wissenszentrum",
+      "title": "Wissenszentrum – Radverschleiß und Radsatzdrehmaschinen",
+      "description": "Praxisleitfäden zu Radverschleiß, zur Wahl zwischen Unterflur-, Portal- und Überflurdrehmaschine, zur Grubenplanung und zur Verlängerung der Radlebensdauer.",
+      "eyebrow": "Medien & Ressourcen",
+      "h1": "Wissenszentrum: Radverschleiß, Reprofilierung und Maschinenplanung",
+      "lede": "Praxisnahe, herstellerneutrale Orientierung für Ingenieure und Führungskräfte, die für Radsätze verantwortlich sind – vom Erkennen des Verschleißes bis zur Planung der Maschine, die ihn behebt.",
+      "summary": "Praxisleitfäden zu Radverschleiß, Maschinenauswahl, Grubenplanung und Reprofilierungsstrategie sowie Antworten auf häufige Fragen.",
+      "blocks": [
+        {
+          "type": "cards",
+          "eyebrow": "Leitfäden auf dieser Seite",
+          "heading": "Beginnen Sie mit Ihrer Frage",
+          "cols": 4,
+          "items": [
+            {"page": "knowledge-centre", "anchor": "wheel-wear", "icon": "search", "title": "Radverschleiß verstehen", "text": "Flachstellen, Hohllauf sowie dünne oder scharfe Spurkränze – Ursachen und Bedeutung."},
+            {"page": "knowledge-centre", "anchor": "choosing-a-lathe", "icon": "gear-wide-connected", "title": "Die richtige Radsatzdrehmaschine wählen", "text": "Unterflur-, Portal- und Überflurdrehmaschinen im Vergleich."},
+            {"page": "knowledge-centre", "anchor": "pit-planning", "icon": "bricks", "title": "Grube für eine Unterflurdrehmaschine planen", "text": "Bau- und Versorgungsfragen, die früh geklärt werden sollten."},
+            {"page": "knowledge-centre", "anchor": "re-profiling-strategy", "icon": "graph-up-arrow", "title": "Radlebensdauer verlängern", "text": "Eine Reprofilierungsstrategie, die Material und Kosten spart."}
+          ]
+        },
+        {
+          "type": "text",
+          "id": "wheel-wear",
+          "eyebrow": "Leitfaden 1",
+          "heading": "Radverschleiß verstehen",
+          "paragraphs": [
+            "Ein Eisenbahnrad ist kein einfacher Zylinder. Seine Lauffläche ist konisch oder gekrümmt, damit sich der Radsatz in Bögen selbst lenkt und auf gerader Strecke selbst zentriert, und sein Spurkranz hält das Rad auf der Schiene, wenn die Lenkwirkung allein nicht ausreicht. Jeder Kilometer verändert diese Geometrie ein wenig. Die Reprofilierung stellt sie wieder her, bevor die Veränderungen Sicherheit, Fahrkomfort oder Gleisverschleiß beeinträchtigen.",
+            "Der meiste Verschleiß folgt einigen wenigen, gut erkennbaren Mustern. Wer weiß, mit welchem er es zu tun hat – und warum es auftritt –, kann besser entscheiden, wie oft gemessen werden sollte, wann einzugreifen ist und ob die eigentliche Ursache beim Fahrzeug, bei der Bremse oder beim Gleis liegt."
+          ],
+          "bullets": [
+            "**Flachstellen** – abgeflachte Stellen auf der Lauffläche, die entstehen, wenn ein Rad beim Bremsen gleitet, typischerweise bei geringem Kraftschluss. Sie verursachen Stoßbelastungen, die Gleis, Lager und Fahrzeug schädigen, sowie Geräusche, die Fahrgäste sofort bemerken.",
+            "**Hohllauf** – die Lauffläche verschleißt zu einer konkaven Form. Das Rad verhält sich dann, als hätte es eine deutlich steilere Konizität. Das kann zu instabilem Lauf bei hoher Geschwindigkeit, höheren Kontaktspannungen und einem „falschen Spurkranz“ an der Außenkante führen, der an Weichen und Kreuzungen anschlägt.",
+            "**Dünner Spurkranz** – anhaltender Kontakt mit der Fahrkante der Schiene, vor allem in Bögen, verringert die Spurkranzdicke. Unterhalb des Grenzmaßes des Betreibers steigt das Risiko, dass der Spurkranz aufklettert oder Weichen auffährt.",
+            "**Scharfer oder steiler Spurkranz** – die Spurkranzflanke verschleißt steil und ihr Übergang wird scharf, wodurch Aufklettern wahrscheinlicher wird und Weichenzungen beschädigt werden.",
+            "**Hoher Spurkranz** – mit fortschreitendem Laufflächenverschleiß nimmt die Spurkranzhöhe relativ zu, sodass der Spurkranz an Laschen, Schrauben und Herzstückteilen anschlagen kann.",
+            "**Schalenbildung, Ausbröckelungen und thermische Risse** – Oberflächenermüdung und die Wärme aus der Klotzbremsung lösen kleine Metallteile heraus oder hinterlassen feine Risse, die wachsen, wenn sie nicht abgedreht werden.",
+            "**Unrundheit und Durchmesserunterschiede** – polygonaler Verschleiß und abweichende Laufkreisdurchmesser an einer Achse oder innerhalb eines Drehgestells verursachen Schwingungen und schlechte Lenkeigenschaften."
+          ],
+          "image": "products/wheelset-profile-closeup",
+          "image_alt": "Beispielillustration eines Radprofils mit Lauffläche und Spurkranz",
+          "layout": "image-right",
+          "link": {"label": "Räder präzise messen: Radmessstation", "page": "wheel-measuring-station"}
+        },
+        {
+          "type": "table",
+          "id": "choosing-a-lathe",
+          "heading": "Unterflur-, Portal- oder Überflurdrehmaschine: die richtige Wahl",
+          "intro": "Die passende Maschine hängt weniger von der Drehmaschine selbst ab als davon, wo sich der Radsatz befindet, wenn er bearbeitet werden muss. Bleiben die Radsätze im Fahrzeug, spart eine Unterflurdrehmaschine die meiste Zeit. Sind sie bereits ausgebaut – in einer Radsatzwerkstatt oder bei der Hauptuntersuchung –, ist eine Portal- oder Überflurdrehmaschine die naheliegende Wahl.",
+          "columns": ["Frage", "Unterflurdrehmaschine", "Portaldrehmaschine", "Überflurdrehmaschine"],
+          "rows": [
+            ["Wo befindet sich der Radsatz?", "Im Fahrzeug – kein Absenken des Drehgestells, kein Ausbau des Radsatzes", "Aus dem Fahrzeug ausgebaut", "Aus dem Fahrzeug ausgebaut"],
+            ["Typischer Einsatzort", "Betriebswerk, Lokschuppen oder Triebwagenhalle", "Radsatzwerkstatt, Ausbesserungswerk oder Fertigungslinie", "Betriebswerk oder Werkstatt mit ausgebauten Radsätzen"],
+            ["Bauarbeiten", "Bewehrte Grube unter einem geraden Gleisabschnitt", "Maschinenfundament; Beladeeinrichtung für Radsätze", "Fundament auf Hallenbodenniveau; keine tiefe Grube"],
+            ["Hauptvorteil", "Kürzeste Ausfallzeit des Fahrzeugs", "Schwere, wiederholgenaue Bearbeitung und hoher Durchsatz; geeignet für automatisierte Beladung", "Kompakte, vielseitige Maschine für die Reprofilierung und, bei geeigneten Modellen, für die Bremsscheibenbearbeitung"],
+            ["Typische Anwender", "Bahn-, Metro- und EMU-Flotten mit hoher Auslastung", "Radsatzwerkstätten, Schienenfahrzeughersteller und Ausbesserungswerke", "Werkstätten mit mittleren Stückzahlen und gemischten Radsätzen"],
+            ["HYT-Beispiele", "YUL-08, YUGL; Tandem: YUL-12T, YUGLX", "YPL-02, Rollenausführung YPL-04", "YSL-08 / YSL-12 / YSL-21"]
+          ],
+          "note": "Viele Betreiber kombinieren beide Ansätze: Eine Unterflurdrehmaschine hält die Flotte zwischen den Hauptuntersuchungen in Betrieb, während eine Portal- oder Überflurdrehmaschine die bei der schweren Instandhaltung ausgebauten Radsätze bearbeitet.",
+          "link": {"label": "Alle Radsatzdrehmaschinen vergleichen", "page": "products", "anchor": "wheel-lathes"}
+        },
+        {
+          "type": "text",
+          "eyebrow": "Mehr zur Auswahl",
+          "heading": "Einzel- oder Tandemmaschine, eine Maschine oder zwei",
+          "paragraphs": [
+            "Steht fest, welche Bauart passt, geht es um die Kapazität. Eine einzelne [Unterflur-Radsatzdrehmaschine](page:underfloor-wheel-lathe) bearbeitet jeweils einen Radsatz. Eine [Tandem-Unterflur-Radsatzdrehmaschine](page:tandem-underfloor-wheel-lathe) koppelt zwei synchronisierte Maschinen, sodass beide Radsätze eines Drehgestells in einer Aufspannung bearbeitet werden – die richtige Wahl, wenn lange Züge innerhalb eines engen Zeitfensters wieder in Betrieb gehen müssen.",
+            "Für bereits ausgebaute Radsätze vergleichen Sie die [Portal-Radsatzdrehmaschine](page:portal-wheel-lathe), die [Portal-Radsatzdrehmaschine in Rollenausführung](page:roller-type-portal-wheel-lathe) und die [Überflur-Radsatzdrehmaschine](page:surface-wheel-lathe). Entscheidend sind die Anzahl der Radsätze pro Schicht, der Bereich der Raddurchmesser und Achslängen, ob Bremsscheiben bearbeitet werden müssen und wie die Radsätze zur Maschine gelangen.",
+            "Legen Sie die Anlage für die Flotte aus, die Sie haben werden – nicht nur für die heutige. Eine zweite Maschine lässt sich später wesentlich leichter ergänzen, wenn Grube, Gleis und Versorgung von Anfang an dafür geplant wurden."
+          ],
+          "image": "products/tandem-underfloor-wheel-lathe-yul-12t",
+          "image_alt": "Beispielillustration einer Tandem-Unterflur-Radsatzdrehmaschine bei der Bearbeitung zweier Radsätze eines Drehgestells",
+          "layout": "image-left"
+        },
+        {
+          "type": "text",
+          "id": "pit-planning",
+          "eyebrow": "Leitfaden 2",
+          "heading": "Grube für eine Unterflurdrehmaschine planen",
+          "paragraphs": [
+            "Eine Unterflur-Radsatzdrehmaschine wird Teil des Gebäudes. Grube, Gleis darüber und Versorgung ringsum sind für Jahrzehnte festgelegt – Entscheidungen in der Planungsphase wirken sich daher dauerhaft auf die Produktivität aus. Beziehen Sie den Maschinenlieferanten ein, bevor das Betriebswerkslayout feststeht.",
+            "Die folgende Checkliste dient als Ausgangspunkt für die Abstimmung zwischen Betreiber, Betriebswerksplaner, Bauunternehmen und Maschinenhersteller."
+          ],
+          "bullets": [
+            "**Gleisführung** – ein gerader, ebener Abschnitt mit ausreichender Länge auf beiden Seiten, um jeden Fahrzeugtyp, einschließlich des längsten Zuges, über der Maschine zu positionieren.",
+            "**Grubenmaße und Fundament** – eine Stahlbetongrube nach den Zeichnungen des Maschinenlieferanten, mit schriftlich vereinbarten Fundamentlasten, Ankerpositionen und Toleranzen.",
+            "**Schienen über der Maschine** – wie die Schienenstücke über der Drehmaschine abgestützt und bewegt werden und wie sie an das Betriebswerksgleis anschließen.",
+            "**Fahrzeugbewegung** – wie Züge über die Grube gezogen und Achse für Achse positioniert werden: Rangierlok, Seil- oder Spillanlage oder ein [Zweiwege-Rangierfahrzeug (Rail cum Road Vehicle)](page:rail-cum-road-vehicle-shunter).",
+            "**Versorgung** – Stromversorgung, Erdung, Druckluft wo erforderlich, Beleuchtung, Lüftung und Datenanbindung für die Ferndiagnose.",
+            "**Entwässerung und Späne** – Ableitung von Wasser und Öl aus der Grube und ein praktikabler Weg für die Späneentsorgung.",
+            "**Zugang und Sicherheit** – Treppen, Laufwege, Schutzeinrichtungen und Hebevorrichtungen für die Wartung sowie eine klare Trennung zwischen Bedienpersonal und bewegten Fahrzeugen.",
+            "**Künftige Kapazität** – Platz und Versorgung für eine zweite Maschine oder eine Tandem-Erweiterung, falls die Flotte wachsen soll."
+          ],
+          "image": "projects/pit-foundation-civil-works",
+          "image_alt": "Beispielillustration einer Stahlbetongrube in Vorbereitung für eine Unterflur-Radsatzdrehmaschine",
+          "layout": "image-right",
+          "link": {"label": "Montage und Inbetriebnahme", "page": "installation-commissioning"}
+        },
+        {
+          "type": "text",
+          "id": "re-profiling-strategy",
+          "eyebrow": "Leitfaden 3",
+          "heading": "Radlebensdauer verlängern: Strategie für die Reprofilierung",
+          "paragraphs": [
+            "Ein Rad kann nur so lange reprofiliert werden, bis es seinen Grenzdurchmesser erreicht. Jeder unnötig abgetragene Millimeter Durchmesser verkürzt seine Lebensdauer und zieht die Kosten für neue Räder oder Radreifen sowie die Ausfallzeit für deren Montage vor. Das Ziel einer guten Reprofilierungsstrategie ist einfach: jedes Mal ein sicheres Profil herstellen – mit dem geringstmöglichen Durchmesserverlust.",
+            "Meist bestimmt die Spurkranzdicke die Schnitttiefe. Um einen dünnen Spurkranz wieder aufzubauen, muss die Maschine so lange Material von der Lauffläche abtragen, bis die vollständige Spurkranzform wieder entsteht – ein geringer Spurkranzverschleiß kann daher ein Vielfaches an Durchmesser kosten. Deshalb ist es so wichtig, im richtigen Moment einzugreifen und das richtige Zielprofil zu wählen."
+          ],
+          "bullets": [
+            "Regelmäßig messen und jedes Rad dokumentieren, damit Trends sichtbar werden, bevor Grenzwerte erreicht sind.",
+            "Eingriffsgrenzen unterhalb der Sicherheitsgrenzwerte festlegen, damit Arbeiten ohne Notabstellungen geplant werden können.",
+            "Wo die Regelwerke des Betreibers es zulassen, zugelassene Zwischenprofile mit reduzierter Spurkranzdicke verwenden, um pro Schnitt Durchmesser zu sparen.",
+            "Flachstellen und Oberflächenfehler zügig abdrehen; kleine Fehler wachsen und erfordern später tiefere Schnitte.",
+            "Durchmesserunterschiede an einer Achse, in einem Drehgestell und an einem Fahrzeug innerhalb der vorgegebenen Toleranzen halten.",
+            "Ursachen untersuchen – Bremseinstellung, Drehgestellausrichtung, Gleitschutz oder Gleisgeometrie –, wenn ein Fahrzeug oder eine Strecke schneller verschleißt als die übrigen."
+          ],
+          "image": "homepage/engineering-technology",
+          "image_alt": "Beispielillustration eines CNC-Bildschirms, der ein gemessenes Radprofil mit dem Zielprofil vergleicht",
+          "layout": "image-left"
+        },
+        {
+          "type": "steps",
+          "heading": "Ein Programm für die Radlebensdauer aufbauen",
+          "intro": "Ein strukturierter Zyklus macht aus der Reprofilierung statt einer Notfallmaßnahme eine planbare Instandhaltungstätigkeit.",
+          "items": [
+            {"title": "Messen", "text": "Laufkreisdurchmesser, Spurkranzhöhe, Spurkranzdicke und Spurkranzflanke (qR-Maß) jedes Rades in festen Abständen erfassen."},
+            {"title": "Trends erkennen", "text": "Verschleißraten nach Fahrzeugtyp, Strecke und Jahreszeit verfolgen, um vorherzusagen, wann jeder Radsatz Aufmerksamkeit braucht."},
+            {"title": "Planen", "text": "Die Reprofilierung vor Erreichen der Grenzwerte einplanen und mit anderen Arbeiten im Betriebswerk abstimmen."},
+            {"title": "Minimal bearbeiten", "text": "Die Maschine zuerst messen lassen und nur so viel abtragen, wie zur Wiederherstellung des gewählten Profils nötig ist."},
+            {"title": "Dokumentieren und auswerten", "text": "Die Messwerte nach der Bearbeitung speichern und die Radlebensdauer regelmäßig auswerten, um Grenzwerte und Profile zu optimieren."}
+          ],
+          "link": {"label": "Schulungen für Bedien- und Instandhaltungspersonal", "page": "training"}
+        },
+        {
+          "type": "faq",
+          "id": "faq",
+          "heading": "Häufig gestellte Fragen",
+          "items": [
+            {"q": "Wie oft sollten Räder reprofiliert werden?", "a": "Es gibt kein einheitliches Intervall. Es hängt vom Fahrzeug, seinem Einsatz, der Strecke, dem Bremssystem und den Grenzwerten des Betreibers ab. Die meisten Betreiber reprofilieren zustandsabhängig auf Basis regelmäßiger Messungen statt nach festen Laufleistungen."},
+            {"q": "Was ist der Unterschied zwischen Reprofilieren und Radtausch?", "a": "Beim Reprofilieren wird das vorhandene Rad wieder auf seine vorgegebene Lauf- und Spurkranzform bearbeitet. Ein Austausch wird erforderlich, wenn Rad oder Radreifen den Grenzdurchmesser erreicht hat oder Schäden aufweist, die sich nicht sicher abdrehen lassen."},
+            {"q": "Warum kostet ein dünner Spurkranz so viel Durchmesser?", "a": "Der Spurkranz lässt sich nicht aufbauen; seine Form kann nur wiederhergestellt werden, indem die Lauffläche so weit abgedreht wird, bis wieder ein Spurkranz in voller Dicke hervorsteht. Ein geringer Spurkranzverschleiß kann daher einen deutlich größeren Durchmesserverlust bedeuten."},
+            {"q": "Lassen sich Räder mit Flachstellen ohne Ausbau des Radsatzes bearbeiten?", "a": "Ja. Eine [Unterflur-Radsatzdrehmaschine](page:underfloor-wheel-lathe) bearbeitet die Räder im Fahrzeug und kann Flachstellen entfernen und das Profil im selben Zyklus wiederherstellen."},
+            {"q": "Müssen beide Räder einer Achse gemeinsam bearbeitet werden?", "a": "In der Praxis ja. Die beiden Räder einer Achse müssen innerhalb einer engen Durchmessertoleranz zueinander liegen, damit der Radsatz korrekt lenkt. Unterflur-, Portal- und Überflurdrehmaschinen bearbeiten beide Räder in einer Aufspannung."},
+            {"q": "Wann lohnt sich eine Tandem-Unterflurdrehmaschine?", "a": "Wenn das Betriebswerk lange Züge oder Flotten im dichten Takt betreut und die Standzeit jedes Zuges an der Maschine entscheidend ist. Eine [Tandemmaschine](page:tandem-underfloor-wheel-lathe) bearbeitet beide Radsätze eines Drehgestells in einer Aufspannung."},
+            {"q": "Können Bremsscheiben auf einer Radsatzdrehmaschine bearbeitet werden?", "a": "Bei geeigneter Konfiguration ja. Wellenbremsscheiben lassen sich auf einigen Überflurdrehmaschinen sowie auf Unterflurdrehmaschinen bearbeiten, die mit dieser Option ausgelegt sind. Bitte nennen Sie diese Anforderung bereits bei der Anfrage."},
+            {"q": "Wie lange dauern Planung und Installation einer Unterflurdrehmaschine?", "a": "Das hängt vor allem von den Bauarbeiten ab. Die Grubenplanung sollte früh in der Betriebswerksplanung beginnen, da Grube und Gleis nach dem Bau festgelegt sind. Fordern Sie Fundamentzeichnungen bereits in der Planungsphase bei uns an."},
+            {"q": "Welche Informationen benötigen Sie für eine Maschinenempfehlung?", "a": "Fahrzeugtypen und Flottengröße, Raddurchmesserbereich, Radprofile, Spurweite, Achslasten, die erwartete Anzahl von Radsätzen pro Schicht und eine Skizze des Betriebswerks- oder Werkstattlayouts."},
+            {"q": "Lässt sich eine ältere Radsatzdrehmaschine modernisieren?", "a": "Oft ja. Eine solide Maschinenstruktur kann eine neue CNC-Steuerung, neue Antriebe und neue Messtechnik erhalten. Siehe [Retrofit und Modernisierung](page:retro-fitment-upgradation)."}
+          ]
+        },
+        {
+          "type": "related",
+          "heading": "In diesen Leitfäden erwähnte Maschinen",
+          "pages": ["underfloor-wheel-lathe", "tandem-underfloor-wheel-lathe", "portal-wheel-lathe", "surface-wheel-lathe"]
+        },
+        {
+          "type": "cta",
+          "heading": "Ihre Frage wird hier nicht beantwortet?",
+          "text": "Unsere Anwendungstechniker sehen sich gern Ihre Verschleißdaten, Ihre Flotte oder Ihre Betriebswerkspläne an und schlagen einen praktikablen Weg vor.",
+          "primary": {"label": "Einen Ingenieur fragen", "page": "contact-us"},
+          "secondary": {"label": "Zu den Downloads", "page": "downloads"}
+        }
+      ]
+    },
+
+    "downloads": {
+      "nav": "Downloads",
+      "title": "Downloads – Produktkataloge von HYT",
+      "description": "HYT-Produktkataloge als PDF: CNC-Radsatzdrehmaschinen, Maschinen für Rad- und Achswerkstätten und Betriebswerkstechnik – mit den Angaben für Ihr Angebot.",
+      "eyebrow": "Medien & Ressourcen",
+      "h1": "Downloads",
+      "lede": "Kataloge und Produktunterlagen von HYT Engineering an einem Ort.",
+      "summary": "Produktkataloge und Unterlagen im PDF-Format.",
+      "blocks": [
+        {
+          "type": "downloads",
+          "heading": "Produktkataloge",
+          "items": [
+            {
+              "title": "HYT-Produktkatalog (Muster)",
+              "text": "Ein Überblick über die Radsatzdrehmaschinen, Maschinen für Rad- und Achswerkstätten und die Betriebswerkstechnik von HYT – mit den Angaben, die wir für die Ausarbeitung eines technischen Angebots benötigen.",
+              "file": "/assets/documents/catalogue/hyt-sample-catalogue.pdf",
+              "meta": "PDF · Muster für Gestaltung und Tests"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "eyebrow": "Unsere Unterlagen nutzen",
+          "heading": "Vom Katalog zum Angebot",
+          "paragraphs": [
+            "Die Kataloge geben einen Überblick über jede Maschine, ihre wichtigsten Optionen und ihre typischen Einsatzbereiche. Jede HYT-Maschine wird für die Spurweite, die Radprofile und die Fahrzeuge des Kunden konfiguriert; die endgültigen technischen Daten werden daher stets im technischen Angebot bestätigt.",
+            "Jede Produktseite hat außerdem eine eigene Katalog-Schaltfläche, sodass Sie das Dokument für eine einzelne Maschine direkt beim Lesen herunterladen können. Beginnen Sie in der [Produktübersicht](page:products), um die passende Maschine zu finden.",
+            "Sie benötigen eine Zeichnung, ein Datenblatt oder Ausschreibungsunterlagen, die hier nicht aufgeführt sind? [Kontaktieren Sie uns](page:contact-us) und nennen Sie uns Maschine und Projekt."
+          ],
+          "image": "company/engineering-design",
+          "image_alt": "Beispielillustration von Ingenieuren bei der Prüfung von Maschinenzeichnungen und Dokumentation",
+          "layout": "image-right"
+        },
+        {
+          "type": "cards",
+          "eyebrow": "Nach Produktfamilie",
+          "heading": "Maschine finden",
+          "cols": 4,
+          "items": [
+            {"page": "products", "anchor": "wheel-lathes", "title": "Radsatzdrehmaschinen", "text": "CNC-Unterflur-, Tandem-, Überflur- und Portal-Radsatzdrehmaschinen.", "icon": "gear-wide-connected"},
+            {"page": "products", "anchor": "wheel-axle-shop-machines", "title": "Maschinen für Rad- und Achswerkstätten", "text": "Drehen, Bohren, Glattwalzen, Aufpressen, Messen und Auswuchten.", "icon": "tools"},
+            {"page": "products", "anchor": "depot-workshop-equipment", "title": "Betriebswerks- und Werkstattausrüstung", "text": "Maschinen für Fahrmotor-Anker, Zugwaschanlagen und Rangierfahrzeuge.", "icon": "building-gear"},
+            {"page": "products", "anchor": "partner-products", "title": "Partnerprodukte", "text": "Gleittechnik von SKC Gleittechnik aus Deutschland.", "icon": "box-seam"}
+          ]
+        },
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "Der aufgeführte Katalog ist eine Musterdatei. Auf der aktuellen Website werden Kataloge erst nach Ausfüllen eines kurzen Formulars freigegeben – HYT muss entscheiden, ob dieses Formular bleibt oder die Dateien direkt heruntergeladen werden. HYT muss den endgültigen Katalog und die einzelnen Produktdatenblätter liefern."
+        }
+      ]
+    }
+  }
+}

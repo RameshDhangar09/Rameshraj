@@ -1,0 +1,8 @@
+{
+  // Live Server must serve the hyt-website folder as the web root,
+  // otherwise root-relative links such as /assets/... and /products/ break.
+  "liveServer.settings.root": "/hyt-website",
+  "liveServer.settings.port": 5500,
+  "liveServer.settings.file": "index.html",
+  "files.associations": { ".htaccess": "apacheconf" }
+}
