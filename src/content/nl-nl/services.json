@@ -1,0 +1,2244 @@
+{
+  "pages": {
+    "services": {
+      "nav": "Service",
+      "title": "Service en support voor werktuigmachines in de spoorsector",
+      "description": "Montage, onderhoudscontracten, reserveonderdelen, retrofit, reparatie, verplaatsing, wet leasing en training voor HYT-wielenbanken en werkplaatsmachines.",
+      "eyebrow": "Service",
+      "h1": "Service die werktuigmachines voor het spoor hun hele levensduur productief houdt",
+      "lede": "Een wielenbank bewijst haar waarde over tientallen jaren, niet op de dag van overdracht. HYT installeert, onderhoudt, repareert en moderniseert zijn machines en kan ze zelfs bedienen, zodat uw werkplaats wielen kan herprofileren wanneer de vloot dat nodig heeft.",
+      "summary": "Montage, onderhoudscontracten, reserveonderdelen, upgrades, reparatie, verplaatsing, wet leasing en training voor HYT-machines.",
+      "blocks": [
+        {
+          "type": "text",
+          "eyebrow": "Waarom service ertoe doet",
+          "heading": "Staat de wielenbank stil, dan wachten de treinen",
+          "paragraphs": [
+            "Een wielenbank ligt op het kritieke pad van de vlootbeschikbaarheid. Valt ze uit, dan kunnen wielstellen met vlakke plekken of dunne flenzen niet worden hersteld, blijven voertuigen buiten dienst en loopt de werkplaats achter op het onderhoudsplan. De kosten van een verloren dag worden gemeten in treinen, niet in machine-uren.",
+            "We ontwerpen en bouwen onze machines zelf, dus onze service-engineers kennen ze van de funderingsbouten tot het CNC-programma. Die kennis verkort de diagnose, zorgt dat reparaties in één keer goed zijn en stelt ons in staat de reserveonderdelen en upgrades te adviseren die de levensduur van de machine werkelijk verlengen.",
+            "Elke dienst hieronder is los af te nemen of te combineren in een langlopend contract. Vertel ons hoe uw werkplaats draait, dan stellen wij het supportniveau voor dat past – niet meer en niet minder."
+          ],
+          "bullets": [
+            "Support van de engineers die de machine hebben ontworpen en gebouwd",
+            "Heldere contractscopes, zodat u altijd weet wat er gedekt is",
+            "Originele reserveonderdelen, geselecteerd aan de hand van de bouwgegevens van uw machine"
+          ],
+          "image": "company/service-maintenance",
+          "image_alt": "Voorbeeldillustratie van HYT-service-engineers die onderhoud uitvoeren aan een wielenbank",
+          "layout": "image-right"
+        },
+        {
+          "type": "cards",
+          "id": "all-services",
+          "eyebrow": "Onze diensten",
+          "heading": "Kies de support die uw werkplaats nodig heeft",
+          "intro": "Van de eerste funderingstekening tot verplaatsing of upgrade tientallen jaren later: elke dienst is gericht op een specifiek moment in de levensduur van de machine.",
+          "cols": 4,
+          "items": [
+            {
+              "page": "installation-commissioning",
+              "icon": "tools"
+            },
+            {
+              "page": "maintenance",
+              "icon": "clipboard-check"
+            },
+            {
+              "page": "retro-fitment-upgradation",
+              "icon": "arrow-repeat"
+            },
+            {
+              "page": "repair",
+              "icon": "wrench-adjustable"
+            },
+            {
+              "page": "shifting",
+              "icon": "truck"
+            },
+            {
+              "page": "wet-leasing",
+              "icon": "cash-coin"
+            },
+            {
+              "page": "training",
+              "icon": "mortarboard"
+            },
+            {
+              "page": "service-centers",
+              "icon": "headset"
+            }
+          ]
+        },
+        {
+          "type": "cards",
+          "id": "maintenance-contracts",
+          "eyebrow": "Onderhoudsdiensten",
+          "heading": "Zes manieren om onderhoud te contracteren",
+          "intro": "Van hulp op afroep tot volledige bediening van de machine door HYT-personeel. Vergelijk scope, reserveonderdelen en verantwoordelijkheden naast elkaar op de pagina [Onderhoudsdiensten](page:maintenance#compare).",
+          "cols": 3,
+          "items": [
+            {
+              "page": "operation-and-maintenance",
+              "icon": "people"
+            },
+            {
+              "page": "annual-maintenance-contract",
+              "icon": "calendar-check"
+            },
+            {
+              "page": "comprehensive-annual-maintenance-contract",
+              "icon": "shield-check"
+            },
+            {
+              "page": "operation-contract",
+              "icon": "person-gear"
+            },
+            {
+              "page": "service-contract",
+              "icon": "telephone"
+            },
+            {
+              "page": "spare-supply",
+              "icon": "box-seam"
+            }
+          ]
+        },
+        {
+          "type": "steps",
+          "eyebrow": "Levenscyclus van de machine",
+          "heading": "Zo ondersteunen we u gedurende de hele levenscyclus van de machine",
+          "intro": "De juiste support verandert naarmate een machine van project naar productie en naar halverwege haar levensduur gaat. Wij plannen elke fase vanaf het begin.",
+          "items": [
+            {
+              "title": "Vóór levering",
+              "text": "Funderings- en puttekeningen, eisen aan nutsvoorzieningen en een trainingsplan worden vroeg afgestemd, zodat de locatie klaar is wanneer de machine arriveert."
+            },
+            {
+              "title": "Montage & inbedrijfstelling",
+              "text": "Opstelling, uitlijning en proefbewerkingen met uw eigen wielstellen, gevolgd door een gedocumenteerde overdracht. [Meer informatie](page:installation-commissioning)."
+            },
+            {
+              "title": "Eerste productiefase",
+              "text": "Begeleiding van bedieners, een aanbevolen lijst met reserveonderdelen voor het eerste jaar en snelle antwoorden terwijl uw team ervaring opdoet."
+            },
+            {
+              "title": "Gepland onderhoud",
+              "text": "Preventieve bezoeken en storingsdekking via een [AMC](page:annual-maintenance-contract)-, [CMC](page:comprehensive-annual-maintenance-contract)- of [O&M](page:operation-and-maintenance)-contract."
+            },
+            {
+              "title": "Midlife-vernieuwing",
+              "text": "[Retrofit](page:retro-fitment-upgradation) van CNC, aandrijvingen en meetsystemen, grote [reparaties](page:repair) of [verplaatsing](page:shifting) naar een nieuw depot."
+            },
+            {
+              "title": "Blijvende vakbekwaamheid",
+              "text": "[Opfristraining](page:training) voor nieuw personeel en bijgewerkte profielprogramma’s wanneer uw vloot verandert."
+            }
+          ]
+        },
+        {
+          "type": "features",
+          "eyebrow": "Onze werkwijze",
+          "heading": "Wat u van de service van HYT mag verwachten",
+          "cols": 4,
+          "items": [
+            {
+              "icon": "person-check",
+              "title": "Eén aanspreekpunt",
+              "text": "Verzoeken worden geregistreerd en door ons serviceteam in Pune tot afronding opgevolgd."
+            },
+            {
+              "icon": "file-earmark-text",
+              "title": "Gedocumenteerd werk",
+              "text": "Elk bezoek wordt afgesloten met een schriftelijk rapport van bevindingen, uitgevoerde werkzaamheden en aanbevelingen."
+            },
+            {
+              "icon": "box-seam",
+              "title": "Originele onderdelen",
+              "text": "Reserveonderdelen afgestemd op de bouwgegevens van uw machine, niet op een algemene catalogus."
+            },
+            {
+              "icon": "telephone",
+              "title": "Gratis servicenummer",
+              "text": "Bel 1800 2100 456 met het serienummer van uw machine om de servicedesk te bereiken."
+            }
+          ]
+        },
+        {
+          "type": "cta",
+          "heading": "Vertel ons wat uw machine nodig heeft",
+          "text": "Of het nu gaat om een nieuwe installatie, een storing of een contractverlenging: geef het machinetype, het serienummer en de locatie door. Wij komen terug met een helder voorstel.",
+          "primary": {
+            "label": "Bespreek uw vraag",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Aftersales-servicenetwerk",
+            "page": "service-centers"
+          }
+        }
+      ]
+    },
+    "installation-commissioning": {
+      "nav": "Montage & inbedrijfstelling",
+      "title": "Montage en inbedrijfstelling van wielenbanken",
+      "description": "Funderingstekeningen, montagebegeleiding, uitlijning, proefbewerking met uw eigen wielstellen en gedocumenteerde overdracht van HYT-wielenbanken en -machines.",
+      "eyebrow": "Service",
+      "h1": "Montage en inbedrijfstelling van werktuigmachines voor het spoor",
+      "lede": "De nauwkeurigheid van een machine wordt bepaald op de dag dat ze wordt geïnstalleerd. Onze engineers begeleiden haar van fundering tot bewezen productie met uw eigen wielstellen en dragen haar over met volledige documentatie.",
+      "summary": "Van funderingstekeningen tot acceptatieproeven met uw wielstellen – gemonteerd en in bedrijf gesteld door de engineers die de machine hebben gebouwd.",
+      "blocks": [
+        {
+          "type": "text",
+          "id": "overview",
+          "eyebrow": "Waarom het ertoe doet",
+          "heading": "Nauwkeurigheid begint bij de fundering",
+          "paragraphs": [
+            "Een onderloopdraaibank is onderdeel van het gebouw: ze staat in een put onder het spoor en moet exact aansluiten op de spoorstaven erboven. Een portaal- of vloerwielenbank heeft een vlakke, stabiele fundering nodig die niet zakt onder zware wielstellen. Kleine fouten in deze fase zijn nog jaren later zichtbaar als profielafwijkingen, trillingen en vroegtijdige slijtage.",
+            "Daarom behandelt HYT montage als engineeringwerk en niet als leveringstaak. We leveren funderings- en puttekeningen vroeg in het project, controleren de locatie voordat de machine wordt verscheept en sturen engineers die het ontwerp van de machine kennen om haar op te stellen, uit te lijnen en te beproeven.",
+            "Het resultaat is een machine die met uw eigen voertuigen en wielstellen aan haar acceptatiecriteria voldoet, en een team dat vanaf de eerste dienst weet hoe het haar moet bedienen."
+          ],
+          "image": "projects/installation-commissioning",
+          "image_alt": "Voorbeeldillustratie van engineers die een module van een wielenbank uitlijnen tijdens de montage in een werkplaats",
+          "layout": "image-right"
+        },
+        {
+          "type": "steps",
+          "id": "process",
+          "eyebrow": "Onze aanpak",
+          "heading": "Van levering tot overdracht in zeven stappen",
+          "items": [
+            {
+              "title": "Planning vóór de montage",
+              "text": "Funderings-, put- en railondersteuningstekeningen, plus eisen voor stroom, perslucht en hijsmiddelen, verstrekt aan u en uw bouwaannemer."
+            },
+            {
+              "title": "Controle van de gereedheid van de locatie",
+              "text": "Onze engineers inspecteren put of fundering, hoogtes, ankerposities en kabeltracés voordat de machine wordt verzonden."
+            },
+            {
+              "title": "Ontvangst en plaatsing",
+              "text": "De machinedelen worden bij aankomst gekeurd, op hun plaats gehesen en in de geplande volgorde op de fundering gezet."
+            },
+            {
+              "title": "Uitlijnen en waterpassen",
+              "text": "De machines worden waterpas gesteld en – bij putdraaibanken – uitgelijnd op de hartlijn van het spoor en de spoorstaafhoogte, voordat ze worden ondergiet en definitief bevestigd."
+            },
+            {
+              "title": "Aansluitingen",
+              "text": "Elektrische, hydraulische, pneumatische en spaanafvoersystemen worden aangesloten en de veiligheidsvergrendelingen worden getest."
+            },
+            {
+              "title": "Proefbewerkingen",
+              "text": "Na proefdraaien zonder belasting volgt het bewerken van uw eigen wielstellen, waarbij de resultaten worden gemeten tegen de overeengekomen profieltoleranties."
+            },
+            {
+              "title": "Training en overdracht",
+              "text": "Bedieners en onderhoudsmonteurs worden getraind, documenten worden overgedragen en het acceptatieprotocol wordt gezamenlijk ondertekend."
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "id": "responsibilities",
+          "heading": "Wie doet wat",
+          "intro": "Een duidelijke verdeling van verantwoordelijkheden voorkomt vertraging op de locatie. Hieronder ziet u een gebruikelijke verdeling; de exacte scope wordt per contract vastgelegd.",
+          "columns": [
+            "Activiteit",
+            "HYT",
+            "Klant"
+          ],
+          "rows": [
+            [
+              "Funderings- en puttekeningen",
+              "Stelt op en verstrekt",
+              "Beoordeelt en keurt goed"
+            ],
+            [
+              "Bouwkundige werkzaamheden (put, fundering, railondersteuningen)",
+              "Adviseert en controleert de aansluitpunten",
+              "Voert uit via eigen bouwaannemer"
+            ],
+            [
+              "Stroomvoorziening tot aan de hoofdschakelaar van de machine",
+              "Specificeert de eisen",
+              "Verzorgt"
+            ],
+            [
+              "Opstelling, uitlijning en aansluitingen",
+              "Voert uit of begeleidt",
+              "Zorgt voor toegang tot de locatie en de overeengekomen hijsondersteuning"
+            ],
+            [
+              "Proefvoertuigen of -wielstellen",
+              "Bewerkt en meet",
+              "Stelt voertuigen of wielstellen beschikbaar"
+            ],
+            [
+              "Training",
+              "Verzorgt op locatie",
+              "Wijst bedieners en onderhoudsmonteurs aan"
+            ],
+            [
+              "Acceptatie",
+              "Toont de prestaties aan",
+              "Is aanwezig en tekent af"
+            ]
+          ],
+          "note": "Bij turnkey-projecten kunnen de bouwkundige werkzaamheden en andere raakvlakken naar HYT worden overgedragen – zie Turnkey (EPC) projecten."
+        },
+        {
+          "type": "features",
+          "id": "included",
+          "eyebrow": "Inbegrepen bij de inbedrijfstelling",
+          "heading": "Wat u bij de overdracht ontvangt",
+          "cols": 3,
+          "items": [
+            {
+              "icon": "rulers",
+              "title": "Geometrische controles",
+              "text": "Uitlijnings- en nauwkeurigheidscontroles, vastgelegd tegen de acceptatiecriteria van de machine."
+            },
+            {
+              "icon": "cpu",
+              "title": "Profielen geladen",
+              "text": "Uw gespecificeerde wielprofielen opgeslagen in de CNC en beproefd op echte wielstellen."
+            },
+            {
+              "icon": "shield-check",
+              "title": "Veiligheid geverifieerd",
+              "text": "Afschermingen, vergrendelingen en noodstoppen getest en gedocumenteerd."
+            },
+            {
+              "icon": "journal-text",
+              "title": "Documentatie",
+              "text": "Bedienings- en onderhoudshandleidingen, elektrische en hydraulische schema’s en de aanbevolen lijst met reserveonderdelen."
+            },
+            {
+              "icon": "mortarboard",
+              "title": "Eerste training",
+              "text": "Praktijksessies voor bedieners en onderhoudspersoneel tijdens de inbedrijfstelling."
+            },
+            {
+              "icon": "calendar-check",
+              "title": "Start van de garantie",
+              "text": "Een ondertekend acceptatieprotocol dat het begin van de garantieperiode markeert."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "id": "live-depots",
+          "eyebrow": "Werken in operationele depots",
+          "heading": "Installeren zonder de werkplaats stil te leggen",
+          "paragraphs": [
+            "Veel installaties vinden plaats in depots die moeten blijven draaien. Een put bouwen onder een spoor dat in gebruik is, kabels omleggen of zware machinedelen door een drukke remise transporteren vraagt om zorgvuldige planning met uw verkeers- en veiligheidsteams.",
+            "We spreken werkvensters, vrijschakelprocedures en hijsplannen vooraf af en houden de ruimte die onze werkzaamheden innemen zo klein mogelijk. Gaat het om een complete faciliteit, dan kan ons team voor [Turnkey (EPC) projecten](page:turnkey-project) ook de verantwoordelijkheid voor bouwkundige werkzaamheden en raakvlakken nemen. Het verplaatsen van een bestaande machine naar een nieuwe locatie valt onder onze dienst [verplaatsing van speciaalmachines (SPM)](page:shifting)."
+          ],
+          "image": "projects/pit-foundation-civil-works",
+          "image_alt": "Voorbeeldillustratie van een put van gewapend beton die onder een depotspoor wordt voorbereid voor een wielenbank",
+          "layout": "image-left"
+        },
+        {
+          "type": "faq",
+          "id": "faq",
+          "heading": "Veelgestelde vragen",
+          "items": [
+            {
+              "q": "Hoe vroeg moeten we HYT betrekken?",
+              "a": "Zodra de machine is besteld – bij voorkeur terwijl de depotindeling nog wordt uitgewerkt. Put- en funderingstekeningen beïnvloeden het bouwkundig ontwerp en de planning, dus vroege afstemming bespaart later tijd."
+            },
+            {
+              "q": "Wie voert de bouwkundige werkzaamheden uit?",
+              "a": "Normaal gesproken uw bouwaannemer, op basis van tekeningen van HYT. Wij controleren de aansluitpunten voordat de machine arriveert. Bij een turnkey-project kunnen de bouwkundige werkzaamheden binnen de scope van HYT vallen."
+            },
+            {
+              "q": "Hoe lang duurt de inbedrijfstelling?",
+              "a": "Dat hangt af van het machinetype, de gereedheid van de locatie en de beschikbaarheid van wielstellen voor de proefbewerkingen. Bij de offerte ontvangt u een realistische planning, die we na de controle van de locatie bijwerken."
+            },
+            {
+              "q": "Hoort training van bedieners bij de inbedrijfstelling?",
+              "a": "Ja. De eerste training voor bedieners en onderhoudspersoneel wordt tijdens de inbedrijfstelling gegeven. Uitgebreide of opfrisprogramma’s zijn beschikbaar via onze dienst [Training](page:training)."
+            },
+            {
+              "q": "Wat gebeurt er na de overdracht?",
+              "a": "Uw machine gaat haar garantieperiode in. Veel klanten gaan daarna verder met een [jaarlijks onderhoudscontract (AMC)](page:annual-maintenance-contract) of een [allesomvattend onderhoudscontract (CMC)](page:comprehensive-annual-maintenance-contract)."
+            }
+          ]
+        },
+        {
+          "type": "cta",
+          "heading": "Plant u de installatie van een nieuwe machine?",
+          "text": "Stuur ons uw depotindeling en de machine die u overweegt. Wij vertellen u wat de locatie nodig heeft en wanneer.",
+          "primary": {
+            "label": "Bespreek uw vraag",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Bekijk onze producten",
+            "page": "products"
+          }
+        }
+      ]
+    },
+    "maintenance": {
+      "nav": "Onderhoudsdiensten",
+      "title": "Onderhoudsdiensten en -contracten voor wielenbanken",
+      "description": "Vergelijk de onderhoudscontracten van HYT – O&M, AMC, CMC, bediening, service op afroep en onderdelensupport – en kies de juiste dekking voor uw wielenbank.",
+      "eyebrow": "Service",
+      "h1": "Onderhoudsdiensten en -contracten",
+      "lede": "Zes manieren om uw HYT-machine beschikbaar te houden, van een serviceovereenkomst op afroep tot volledige bediening en onderhoud door ons eigen team. Vergelijk de scopes en kies wat bij uw depot past.",
+      "summary": "Vergelijk O&M-, AMC-, CMC-, bedienings-, service- en onderdelencontracten en kies het juiste dekkingsniveau.",
+      "blocks": [
+        {
+          "type": "text",
+          "id": "overview",
+          "eyebrow": "Gepland onderhoud",
+          "heading": "Gepland onderhoud kost minder dan stilstand",
+          "paragraphs": [
+            "Een wielenbank werkt hard: zware wielstellen, harde en versleten loopvlakken, schurende spanen en lange diensten. Geleidingen, rollen, hydrauliek en meetsystemen hebben allemaal regelmatig aandacht nodig. Zonder die aandacht worden kleine gebreken storingen – meestal net op het moment dat de vloot de machine het hardst nodig heeft.",
+            "Onze onderhoudscontracten brengen die aandacht in een vast schema. Ze verschillen op drie punten: wie de machine bedient, of reserveonderdelen zijn inbegrepen en hoe het werk wordt betaald. Kies de combinatie die past bij uw eigen vakkennis, uw budgetmodel en het belang van de machine voor de vlootbeschikbaarheid."
+          ],
+          "image": "company/service-maintenance",
+          "image_alt": "Voorbeeldillustratie van een technicus die tijdens een preventief onderhoudsbezoek de hydraulische unit van een wielenbank inspecteert",
+          "layout": "image-right"
+        },
+        {
+          "type": "cards",
+          "id": "contracts",
+          "eyebrow": "Contractvormen",
+          "heading": "Onze onderhoudsdiensten",
+          "cols": 3,
+          "items": [
+            {
+              "page": "operation-and-maintenance",
+              "icon": "people"
+            },
+            {
+              "page": "annual-maintenance-contract",
+              "icon": "calendar-check"
+            },
+            {
+              "page": "comprehensive-annual-maintenance-contract",
+              "icon": "shield-check"
+            },
+            {
+              "page": "operation-contract",
+              "icon": "person-gear"
+            },
+            {
+              "page": "service-contract",
+              "icon": "telephone"
+            },
+            {
+              "page": "spare-supply",
+              "icon": "box-seam"
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "id": "compare",
+          "heading": "Contractvormen vergeleken",
+          "intro": "Een gebruikelijke scope per contractvorm. Elk contract is maatwerk; de definitieve inbegrepen en uitgesloten onderdelen staan in de offerte.",
+          "columns": [
+            "Wat is inbegrepen",
+            "O&M",
+            "AMC",
+            "CMC",
+            "Bedieningscontract",
+            "Servicecontract",
+            "Reserveonderdelen & support"
+          ],
+          "rows": [
+            [
+              "Preventieve onderhoudsbezoeken",
+              "Ja",
+              "Ja, volgens planning",
+              "Ja, volgens planning",
+              "Nee – klant of apart contract",
+              "Op aanvraag, per bezoek",
+              "Nee"
+            ],
+            [
+              "Storingsafhandeling",
+              "Ja",
+              "Ja",
+              "Ja",
+              "Nee – klant of apart contract",
+              "Per oproep",
+              "Telefonisch advies; bezoeken op locatie op offertebasis"
+            ],
+            [
+              "Reserveonderdelen",
+              "Zoals contractueel overeengekomen",
+              "Apart geoffreerd",
+              "Inbegrepen, volgens lijst",
+              "Nee",
+              "Apart geoffreerd",
+              "Geleverd op bestelling"
+            ],
+            [
+              "Verbruiksmaterialen en snijgereedschap",
+              "Zoals contractueel overeengekomen",
+              "Nee",
+              "Nee, tenzij vermeld",
+              "Zoals contractueel overeengekomen",
+              "Nee",
+              "Geleverd op bestelling"
+            ],
+            [
+              "Machinebedieners",
+              "HYT",
+              "Nee",
+              "Nee",
+              "HYT",
+              "Nee",
+              "Nee"
+            ],
+            [
+              "Wie bedient de machine",
+              "HYT",
+              "Klant",
+              "Klant",
+              "HYT",
+              "Klant",
+              "Klant"
+            ],
+            [
+              "Basis voor facturering",
+              "Periodieke vergoeding",
+              "Vaste jaarlijkse vergoeding",
+              "Vaste jaarlijkse vergoeding",
+              "Periodieke vergoeding",
+              "Per bezoek of oproep",
+              "Per bestelling"
+            ],
+            [
+              "Geschikt voor",
+              "Depots zonder eigen draaibankteam",
+              "Eigen bedieners, voorspelbare arbeidskosten",
+              "Eigen bedieners, vast budget inclusief reserveonderdelen",
+              "Eigen onderhoudsteam, geen getrainde bedieners",
+              "Lage bezettingsgraad, sterk eigen onderhoud",
+              "Werkplaatsen die volledig zelf onderhouden"
+            ]
+          ],
+          "note": "Schade door ongevallen, verkeerd gebruik, storingen in de stroomvoorziening of bouwkundige gebreken, evenals upgrades of retrofit, vallen buiten de standaardscope van alle contracten, tenzij anders overeengekomen."
+        },
+        {
+          "type": "faq",
+          "id": "choosing",
+          "heading": "Welk contract past bij ons?",
+          "items": [
+            {
+              "q": "We hebben bedieners, maar geen gespecialiseerd onderhoudspersoneel.",
+              "a": "Een [AMC](page:annual-maintenance-contract) biedt u geplande preventieve bezoeken en storingsafhandeling. Wilt u ook reserveonderdelen gedekt hebben binnen een vast jaarbudget, kies dan een [CMC](page:comprehensive-annual-maintenance-contract)."
+            },
+            {
+              "q": "We openen een nieuw depot en hebben geen getraind draaibankteam.",
+              "a": "Met een [O&M-contract](page:operation-and-maintenance) bedient en onderhoudt HYT de machine. Neemt uw eigen onderhoudsafdeling het onderhoud voor haar rekening, dan dekt een [bedieningscontract](page:operation-contract) alleen de bedieners."
+            },
+            {
+              "q": "Onze machine wordt weinig gebruikt en ons eigen team onderhoudt haar.",
+              "a": "Een [servicecontract](page:service-contract) op afroep geeft u vaste tarieven voor bezoeken wanneer u ze nodig heeft, en met [Reserveonderdelen & support](page:spare-supply) blijven originele onderdelen binnen handbereik."
+            },
+            {
+              "q": "Kunnen contracten later worden gecombineerd of gewijzigd?",
+              "a": "Ja. Veel klanten beginnen met een O&M-contract terwijl ze hun eigen personeel opleiden en stappen daarna over op een CMC of AMC. Bij elke verlenging bekijken we de scope samen met u."
+            }
+          ]
+        },
+        {
+          "type": "cta",
+          "heading": "Twijfelt u welk contract past?",
+          "text": "Vertel ons over uw machine, de bezettingsgraad en uw eigen team. Wij adviseren een contract en sturen een heldere werkomschrijving.",
+          "primary": {
+            "label": "Bespreek uw vraag",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Alle diensten",
+            "page": "services"
+          }
+        }
+      ]
+    },
+    "operation-and-maintenance": {
+      "nav": "Bediening & onderhoud (O&M)",
+      "title": "Bedienings- en onderhoudscontracten (O&M)",
+      "description": "Met een O&M-contract van HYT bedienen onze operators uw wielenbank en onderhouden onze technici haar – incl. gepland onderhoud, storingsdekking en rapportage.",
+      "eyebrow": "Onderhoudsdiensten",
+      "h1": "Bedienings- en onderhoudscontracten (O&M) voor wielenbanken",
+      "lede": "Operators van HYT bedienen de machine en technici van HYT onderhouden haar. U ontvangt geherprofileerde wielstellen volgens planning, zonder zelf een gespecialiseerd draaibankteam te hoeven opbouwen.",
+      "summary": "Operators van HYT bedienen uw machine en technici van HYT onderhouden haar – één contract, één verantwoordelijke partij.",
+      "blocks": [
+        {
+          "type": "text",
+          "id": "overview",
+          "eyebrow": "Zo werkt het",
+          "heading": "Eén team verantwoordelijk voor output en machineconditie",
+          "paragraphs": [
+            "Een CNC-wielenbank goed bedienen is meer dan op start drukken. Operators moeten voertuigen veilig positioneren, meetresultaten interpreteren, het juiste profiel kiezen en vroege signalen van problemen herkennen. Het onderhoud van de machine vraagt om mechanische, hydraulische, elektrische en CNC-vaardigheden die veel depots niet in huis hebben.",
+            "Bij een O&M-contract levert HYT beide. Onze operators werken volgens uw dienstrooster en onderhoudsplan; onze technici houden de machine in conditie met gepland onderhoud en verhelpen storingen. Omdat dezelfde organisatie verantwoordelijk is voor bediening én onderhoud, is er geen discussie over de vraag of een stilstand door de operator of door de machine is veroorzaakt.",
+            "O&M is geschikt voor nieuwe depots die nog geen draaibankteam hebben opgeleid, voor vervoerders die specialistische activiteiten uit beleid uitbesteden en voor machines met een hoge bezettingsgraad, waar elk uur beschikbaarheid telt."
+          ],
+          "image": "projects/metro-depot",
+          "image_alt": "Voorbeeldillustratie van een metrodepot met een trein boven een onderloopdraaibank",
+          "layout": "image-right"
+        },
+        {
+          "type": "features",
+          "id": "included",
+          "eyebrow": "Inbegrepen",
+          "heading": "Wat een O&M-contract omvat",
+          "cols": 3,
+          "items": [
+            {
+              "icon": "person-workspace",
+              "title": "Bediening van de machine",
+              "text": "Getrainde operators van HYT bedienen de machine volgens het dienstrooster en de werklast die met u zijn afgesproken."
+            },
+            {
+              "icon": "calendar-check",
+              "title": "Preventief onderhoud",
+              "text": "Dagelijkse, wekelijkse en periodieke onderhoudstaken, uitgevoerd volgens het onderhoudsschema van HYT."
+            },
+            {
+              "icon": "lightning-charge",
+              "title": "Storingsafhandeling",
+              "text": "Storingen worden door technici van HYT gediagnosticeerd en verholpen, met escalatie naar ons engineeringteam."
+            },
+            {
+              "icon": "clipboard-data",
+              "title": "Registratie en rapportage",
+              "text": "Bewerkte wielstellen, meetresultaten, stilstanden en onderhoudswerk worden vastgelegd en gerapporteerd."
+            },
+            {
+              "icon": "box-seam",
+              "title": "Planning van reserveonderdelen",
+              "text": "Voorraadniveaus worden bewaakt en aanvulling wordt gepland; levering van onderdelen zoals in het contract vastgelegd."
+            },
+            {
+              "icon": "shield-check",
+              "title": "Veilig werken",
+              "text": "Werkzaamheden volgens de afgesproken veiligheidsprocedures en de werkvergunningsregels van uw depot."
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "id": "not-included",
+          "heading": "Wat niet is inbegrepen (tenzij contractueel overeengekomen)",
+          "intro": "Duidelijke uitsluitingen voorkomen verrassingen. Het volgende valt normaal gesproken buiten een O&M-scope:",
+          "cols": 2,
+          "items": [
+            "Bouwkundige en constructieve reparaties aan put, gebouw of spoor",
+            "Stroom, perslucht en andere nutsvoorzieningen tot aan het aansluitpunt van de machine",
+            "Rangeren en verplaatsen van rollend materieel naar en van de machine",
+            "Schade door ongevallen, verkeerd gebruik door derden, brand, overstroming of storingen in de voeding",
+            "Reserveonderdelen en verbruiksmaterialen boven de in het contract vastgelegde hoeveelheden",
+            "Retrofit, upgrades of wijzigingen aan de machine"
+          ]
+        },
+        {
+          "type": "steps",
+          "id": "process",
+          "eyebrow": "Contractcyclus",
+          "heading": "Zo verloopt een O&M-contract",
+          "items": [
+            {
+              "title": "Vaststellen van de scope",
+              "text": "Diensten, verwachte werklast, rapportageformaat en de verdeling van verantwoordelijkheden worden afgesproken."
+            },
+            {
+              "title": "Mobilisatie",
+              "text": "Het HYT-team, gereedschap en een eerste voorraad reserveonderdelen worden ingezet en de conditie van de machine wordt vastgelegd."
+            },
+            {
+              "title": "Dagelijkse bediening",
+              "text": "Voertuigen worden geherprofileerd volgens uw onderhoudsplan, waarbij de resultaten voor elk wielstel worden vastgelegd."
+            },
+            {
+              "title": "Gepland onderhoud",
+              "text": "Onderhoudstaken worden ingepland in rustige perioden om de beschikbaarheid te beschermen."
+            },
+            {
+              "title": "Evaluatie",
+              "text": "Output, stilstanden en de conditie van de machine worden met vaste tussenpozen met u geëvalueerd."
+            },
+            {
+              "title": "Verlenging of overgang",
+              "text": "Het contract wordt verlengd, of uw eigen personeel wordt opgeleid om de bediening over te nemen."
+            }
+          ]
+        },
+        {
+          "type": "faq",
+          "id": "faq",
+          "heading": "Veelgestelde vragen",
+          "items": [
+            {
+              "q": "Wat is het verschil tussen O&M en een bedieningscontract?",
+              "a": "Een O&M-contract omvat zowel bediening als onderhoud. Een [bedieningscontract](page:operation-contract) levert alleen operators; het onderhoud blijft bij uw team of valt onder een apart [AMC](page:annual-maintenance-contract) of [CMC](page:comprehensive-annual-maintenance-contract)."
+            },
+            {
+              "q": "Moet ons eigen personeel aanwezig zijn?",
+              "a": "Uw depot blijft verantwoordelijk voor bewegingen van rollend materieel, werkvergunningen en het onderhoudsplan. Een aangewezen supervisor aan uw kant houdt de coördinatie eenvoudig."
+            },
+            {
+              "q": "Kan ons personeel later worden opgeleid om het over te nemen?",
+              "a": "Ja. Een O&M-contract kan gestructureerde [training](page:training) omvatten, zodat uw team de bediening geleidelijk overneemt en HYT verdergaat onder een AMC of CMC."
+            },
+            {
+              "q": "Hoe wordt de prijs van het contract bepaald?",
+              "a": "Meestal als periodieke vergoeding op basis van diensten, werklast en de afgesproken scope. We maken een offerte nadat we uw vloot en de werkwijze van uw depot kennen."
+            }
+          ]
+        },
+        {
+          "type": "cta",
+          "heading": "Bespreek een O&M-contract voor uw depot",
+          "text": "Deel uw vlootomvang, herprofileringsbehoefte en dienstrooster. Wij stellen een team en scope voor die passen.",
+          "primary": {
+            "label": "Bespreek uw vraag",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Contracten vergelijken",
+            "page": "maintenance",
+            "anchor": "compare"
+          }
+        }
+      ]
+    },
+    "annual-maintenance-contract": {
+      "nav": "Jaarlijks onderhoudscontract (AMC)",
+      "title": "Jaarlijks onderhoudscontract (AMC) voor machines",
+      "description": "Een jaarlijks onderhoudscontract van HYT omvat geplande preventieve bezoeken en storingsafhandeling door getrainde engineers. Onderdelen apart geoffreerd.",
+      "eyebrow": "Onderhoudsdiensten",
+      "h1": "Jaarlijks onderhoudscontract (AMC)",
+      "lede": "Geplande preventieve bezoeken en storingsafhandeling door engineers die uw machine kennen, tegen een vaste jaarlijkse vergoeding. Uw team bedient de machine; wij houden haar in goede conditie.",
+      "summary": "Geplande preventieve bezoeken en storingsafhandeling tegen een vaste jaarlijkse vergoeding; reserveonderdelen worden apart geoffreerd.",
+      "blocks": [
+        {
+          "type": "text",
+          "id": "overview",
+          "eyebrow": "Zo werkt het",
+          "heading": "Voorspelbare arbeidskosten, gepland machineonderhoud",
+          "paragraphs": [
+            "Een AMC is de meest gebruikelijke manier om een HYT-machine na de garantieperiode in conditie te houden. Uw operators blijven de machine dagelijks bedienen. Engineers van HYT komen met afgesproken tussenpozen langs om haar te inspecteren, af te stellen en te onderhouden, en komen ter plaatse wanneer er iets misgaat.",
+            "De vergoeding dekt de tijd van onze engineers voor het afgesproken aantal preventieve bezoeken en voor storingsafhandeling gedurende het contractjaar. Reserveonderdelen zijn niet inbegrepen: als er een onderdeel nodig is, vertellen we u welk onderdeel, waarom en wat het kost, en leveren we het op uw bestelling. Wilt u ook reserveonderdelen binnen een vast budget, kijk dan naar het [allesomvattend onderhoudscontract (CMC)](page:comprehensive-annual-maintenance-contract).",
+            "Regelmatige bezoeken signaleren slijtage voordat die tot een storing leidt, houden de bewerkingsnauwkeurigheid binnen de grenzen en bouwen een servicehistorie op die helpt bij het plannen van upgrades of vervanging."
+          ],
+          "image": "company/service-maintenance",
+          "image_alt": "Voorbeeldillustratie van een HYT-engineer die tijdens een gepland AMC-bezoek de sleden van een wielenbank controleert",
+          "layout": "image-right"
+        },
+        {
+          "type": "features",
+          "id": "included",
+          "eyebrow": "Inbegrepen",
+          "heading": "Wat een AMC omvat",
+          "cols": 3,
+          "items": [
+            {
+              "icon": "calendar-check",
+              "title": "Geplande preventieve bezoeken",
+              "text": "Een afgesproken aantal bezoeken per jaar, ingepland rond het programma van uw werkplaats."
+            },
+            {
+              "icon": "list-check",
+              "title": "Inspectiechecklists",
+              "text": "Mechanische, hydraulische, pneumatische, elektrische en CNC-controles volgens een standaardchecklist van HYT."
+            },
+            {
+              "icon": "rulers",
+              "title": "Nauwkeurigheidscontroles",
+              "text": "Meetsysteem en bewerkingsresultaten worden geverifieerd en waar nodig bijgesteld."
+            },
+            {
+              "icon": "lightning-charge",
+              "title": "Storingsafhandeling",
+              "text": "Engineers komen ter plaatse bij storingen die tijdens het contractjaar worden gemeld, om fouten te diagnosticeren en te verhelpen."
+            },
+            {
+              "icon": "file-earmark-text",
+              "title": "Bezoekrapporten",
+              "text": "Na elk bezoek een schriftelijk rapport met bevindingen, uitgevoerde werkzaamheden en openstaande punten."
+            },
+            {
+              "icon": "box-seam",
+              "title": "Advies over reserveonderdelen",
+              "text": "Tijdige melding van onderdelen die het einde van hun levensduur naderen, zodat u ze kunt bestellen voordat ze uitvallen."
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "id": "not-included",
+          "heading": "Wat niet is inbegrepen",
+          "intro": "Tenzij specifiek in uw contract vermeld, vallen de volgende zaken buiten de AMC-scope:",
+          "cols": 2,
+          "items": [
+            "Reserveonderdelen – apart geoffreerd en geleverd op uw bestelling",
+            "Verbruiksmaterialen zoals wisselplaten, smeermiddelen, hydraulische olie en filters",
+            "Dagelijkse bediening van de machine",
+            "Schade door ongevallen, verkeerd gebruik, brand, overstroming of storingen in de stroomvoorziening",
+            "Bouwkundig, constructief en spoorwerk rond de machine",
+            "Retrofit, upgrades en wijzigingen"
+          ]
+        },
+        {
+          "type": "steps",
+          "id": "process",
+          "eyebrow": "Het contractjaar",
+          "heading": "Zo ziet een gemiddeld AMC-jaar eruit",
+          "items": [
+            {
+              "title": "Begininspectie",
+              "text": "We leggen de conditie van de machine vast bij de start van het contract en signaleren eventueel benodigd werk."
+            },
+            {
+              "title": "Bezoekplanning",
+              "text": "De data van de preventieve bezoeken worden vooraf afgesproken en afgestemd op het programma van uw werkplaats."
+            },
+            {
+              "title": "Preventieve bezoeken",
+              "text": "Controles, afstellingen en onderhoud worden uitgevoerd en gedocumenteerd."
+            },
+            {
+              "title": "Storingsmeldingen",
+              "text": "U meldt een storing via de servicedesk; er wordt een engineer toegewezen die ter plaatse komt."
+            },
+            {
+              "title": "Jaarlijkse evaluatie",
+              "text": "De machinehistorie en aanbevelingen worden vóór de verlenging besproken."
+            }
+          ]
+        },
+        {
+          "type": "faq",
+          "id": "faq",
+          "heading": "Veelgestelde vragen",
+          "items": [
+            {
+              "q": "Wat is het verschil tussen een AMC en een CMC?",
+              "a": "Een AMC dekt de arbeid voor preventieve bezoeken en storingsafhandeling. Een [CMC](page:comprehensive-annual-maintenance-contract) voegt daar de in het contract vermelde reserveonderdelen aan toe, zodat uw jaarlijkse onderhoudskosten vastliggen."
+            },
+            {
+              "q": "Hoeveel preventieve bezoeken zijn inbegrepen?",
+              "a": "Het aantal wordt met u afgesproken, op basis van machinetype, bezettingsgraad en bedrijfsomstandigheden. Het staat in het contract."
+            },
+            {
+              "q": "Kunnen we een AMC afsluiten voor een oudere machine?",
+              "a": "Ja, na een inspectie van de conditie. Moet de machine eerst worden gerepareerd, dan offreren we dat apart – zie [Reparatie](page:repair)."
+            },
+            {
+              "q": "Welke reactietijd kunnen we bij een storing verwachten?",
+              "a": "Reactietijden worden in elk contract vastgelegd, op basis van de locatie van de machine en het belang ervan voor uw vloot. We spreken ze met u af voordat het contract ingaat, zodat er geen onduidelijkheid is wanneer er een melding binnenkomt."
+            },
+            {
+              "q": "Hoe melden we een storing?",
+              "a": "Bel het gratis servicenummer 1800 2100 456 of stuur ons een e-mail met het serienummer van de machine en een beschrijving van de storing. Zie [Aftersales-servicenetwerk](page:service-centers)."
+            }
+          ]
+        },
+        {
+          "type": "cta",
+          "heading": "Vraag een AMC-voorstel aan",
+          "text": "Stuur ons het machinemodel, het serienummer en de locatie. Wij inspecteren de machine, stellen een bezoekplanning voor en offreren de jaarlijkse vergoeding.",
+          "primary": {
+            "label": "Bespreek uw vraag",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Contracten vergelijken",
+            "page": "maintenance",
+            "anchor": "compare"
+          }
+        }
+      ]
+    },
+    "comprehensive-annual-maintenance-contract": {
+      "nav": "Allesomvattend onderhoudscontract (CMC)",
+      "title": "Allesomvattend onderhoudscontract (CMC)",
+      "description": "Het allesomvattende onderhoudscontract (CMC) van HYT combineert preventieve bezoeken, storingsafhandeling en reserveonderdelen tegen vaste jaarkosten.",
+      "eyebrow": "Onderhoudsdiensten",
+      "h1": "Allesomvattend onderhoudscontract (CMC)",
+      "lede": "Preventief onderhoud, storingsafhandeling en de reserveonderdelen om de machine te repareren – allemaal binnen één jaarlijkse vergoeding. Een CMC maakt van onderhoud geen onvoorspelbare kostenpost meer, maar een vaste budgetregel.",
+      "summary": "Preventieve bezoeken, storingsafhandeling en vermelde reserveonderdelen binnen één vaste jaarlijkse vergoeding.",
+      "blocks": [
+        {
+          "type": "text",
+          "id": "overview",
+          "eyebrow": "Zo werkt het",
+          "heading": "Onderhoud en reserveonderdelen voor één vaste vergoeding",
+          "paragraphs": [
+            "Een CMC omvat alles uit een [jaarlijks onderhoudscontract (AMC)](page:annual-maintenance-contract) – geplande preventieve bezoeken en storingsafhandeling – en voegt daar de reserveonderdelen aan toe die nodig zijn om de machine draaiend te houden. Valt een gedekt onderdeel uit of bereikt het het einde van zijn levensduur, dan levert en monteert HYT het zonder aparte inkooporder.",
+            "Dat is belangrijk in organisaties waar de inkoop van één onderdeel langer kan duren dan de reparatie zelf. Met een CMC is de machine weer in bedrijf zodra het onderdeel binnen is, en kent u uw jaarlijkse onderhoudskosten vooraf.",
+            "Omdat HYT de kosten van onderdelen draagt, hebben wij er alle belang bij de machine grondig te onderhouden en slijtdelen te vervangen voordat ze elders schade veroorzaken. Uw operators blijven de machine bedienen; wij zorgen voor haar conditie."
+          ],
+          "image": "products/wheelset-profile-closeup",
+          "image_alt": "Voorbeeldillustratie van een pas geherprofileerd loopvlak en flens van een wielstel op een wielenbank",
+          "layout": "image-right"
+        },
+        {
+          "type": "features",
+          "id": "included",
+          "eyebrow": "Inbegrepen",
+          "heading": "Wat een CMC omvat",
+          "cols": 3,
+          "items": [
+            {
+              "icon": "calendar-check",
+              "title": "Geplande preventieve bezoeken",
+              "text": "Een afgesproken bezoekplanning met inspectie, afstelling en onderhoud volgens de checklist van HYT."
+            },
+            {
+              "icon": "lightning-charge",
+              "title": "Storingsafhandeling",
+              "text": "Engineers diagnosticeren en verhelpen storingen die tijdens de contractperiode worden gemeld."
+            },
+            {
+              "icon": "box-seam",
+              "title": "Reserveonderdelen",
+              "text": "Mechanische, hydraulische, elektrische en elektronische onderdelen zoals vermeld in het contract, geleverd en gemonteerd."
+            },
+            {
+              "icon": "rulers",
+              "title": "Nauwkeurigheidscontroles",
+              "text": "Meetsysteem en bewerkingsresultaten worden geverifieerd en waar nodig bijgesteld."
+            },
+            {
+              "icon": "file-earmark-text",
+              "title": "Rapporten en historie",
+              "text": "Bezoekrapporten en een onderdelenhistorie die budgettering en langetermijnplanning ondersteunen."
+            },
+            {
+              "icon": "cash-stack",
+              "title": "Vaste jaarlijkse vergoeding",
+              "text": "Eén budgetregel voor arbeid en vermelde reserveonderdelen, afgesproken voordat het contract ingaat."
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "id": "not-included",
+          "heading": "Wat niet is inbegrepen",
+          "intro": "Tenzij specifiek in uw contract vermeld, vallen de volgende zaken buiten de CMC-scope:",
+          "cols": 2,
+          "items": [
+            "Verbruiksmaterialen zoals wisselplaten, smeermiddelen, hydraulische olie en filters",
+            "Dagelijkse bediening van de machine",
+            "Onderdelen die beschadigd zijn door ongevallen, verkeerd gebruik, brand, overstroming of storingen in de stroomvoorziening",
+            "Bouwkundig, constructief en spoorwerk rond de machine",
+            "Retrofit, upgrades en wijzigingen",
+            "Onderdelen die niet in de contractbijlage zijn vermeld"
+          ]
+        },
+        {
+          "type": "table",
+          "id": "amc-vs-cmc",
+          "heading": "AMC of CMC?",
+          "columns": [
+            "",
+            "AMC",
+            "CMC"
+          ],
+          "rows": [
+            [
+              "Preventieve onderhoudsbezoeken",
+              "Inbegrepen",
+              "Inbegrepen"
+            ],
+            [
+              "Storingsafhandeling",
+              "Inbegrepen",
+              "Inbegrepen"
+            ],
+            [
+              "Reserveonderdelen",
+              "Apart geoffreerd en besteld",
+              "Inbegrepen, zoals vermeld in het contract"
+            ],
+            [
+              "Verbruiksmaterialen",
+              "Niet inbegrepen",
+              "Niet inbegrepen, tenzij vermeld"
+            ],
+            [
+              "Budget",
+              "Vaste arbeidskosten; onderdelen variëren",
+              "Vaste jaarlijkse kosten voor arbeid en vermelde onderdelen"
+            ],
+            [
+              "Het meest geschikt voor",
+              "Werkplaatsen met een flexibel onderdelenbudget",
+              "Organisaties die een voorspelbaar onderhoudsbudget nodig hebben"
+            ]
+          ],
+          "note": "Beide contracten zijn maatwerk. De definitieve scope en onderdelenlijst staan in de offerte."
+        },
+        {
+          "type": "faq",
+          "id": "faq",
+          "heading": "Veelgestelde vragen",
+          "items": [
+            {
+              "q": "Welke reserveonderdelen zijn gedekt?",
+              "a": "Het contract bevat een bijlage met gedekte onderdelen, die wordt afgesproken na een inspectie van de conditie van uw machine. Verbruiksmaterialen zijn normaal gesproken uitgesloten."
+            },
+            {
+              "q": "Kan een oudere machine onder een CMC worden gebracht?",
+              "a": "Meestal wel, na een inspectie. Reparaties die nodig zijn om de machine in een aanvaardbare uitgangsconditie te brengen, worden apart geoffreerd voordat de CMC ingaat."
+            },
+            {
+              "q": "Hoe wordt de jaarlijkse vergoeding vastgesteld?",
+              "a": "Na inspectie van de machine kijken we naar leeftijd, conditie, bezettingsgraad en de onderdelenbijlage die u kiest. De vergoeding ligt vast voor het contractjaar en de scope wordt bij elke verlenging met u geëvalueerd."
+            },
+            {
+              "q": "Wie bedient de machine onder een CMC?",
+              "a": "Uw eigen operators. Wilt u dat HYT de machine ook bedient, zie dan [Bediening & onderhoud (O&M)](page:operation-and-maintenance)."
+            },
+            {
+              "q": "Wat gebeurt er als een onderdeel door een ongeval beschadigd raakt?",
+              "a": "Ongevalsschade valt buiten de CMC-scope. We beoordelen de schade, offreren de [reparatie](page:repair) en zodra die is afgerond, valt de machine weer onder de CMC."
+            }
+          ]
+        },
+        {
+          "type": "cta",
+          "heading": "Leg uw onderhoudsbudget vast",
+          "text": "Vertel ons welke machine u gedekt wilt hebben. Wij inspecteren haar, spreken de onderdelenbijlage met u af en offreren een vaste jaarlijkse vergoeding.",
+          "primary": {
+            "label": "Bespreek uw vraag",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Contracten vergelijken",
+            "page": "maintenance",
+            "anchor": "compare"
+          }
+        }
+      ]
+    },
+    "operation-contract": {
+      "nav": "Bedieningscontract",
+      "title": "Bedieningscontract – operators voor wielenbanken",
+      "description": "Met een bedieningscontract bedienen getrainde HYT-operators uw wielenbank, terwijl het onderhoud bij uw eigen team of een apart onderhoudscontract blijft.",
+      "eyebrow": "Onderhoudsdiensten",
+      "h1": "Bedieningscontract: getrainde operators voor uw machine",
+      "lede": "Operators van HYT bedienen de machine; het onderhoud blijft bij uw eigen team of valt onder een apart contract. U krijgt vakkundige bediening zonder het onderhoud van de machine uit handen te geven.",
+      "summary": "Getrainde operators van HYT bedienen uw machine, terwijl het onderhoud bij uw team of onder een apart contract blijft.",
+      "blocks": [
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "Deze dienst overlapt met Bediening & onderhoud (O&M). HYT dient te bevestigen dat beide pagina’s moeten blijven en dat de onderstaande scope (alleen bediening, onderhoud uitgesloten) juist is."
+        },
+        {
+          "type": "text",
+          "id": "overview",
+          "eyebrow": "Zo werkt het",
+          "heading": "Alleen bediening – een heldere, afgebakende scope",
+          "paragraphs": [
+            "Sommige depots hebben een sterke onderhoudsafdeling, maar geen operators die getraind zijn op een CNC-wielenbank. Andere hebben te maken met een tijdelijk tekort: een nieuwe machine die arriveert voordat er personeel is geworven, of een periode met een hoge herprofileringsbehoefte. Een bedieningscontract vult dat gat met operators van HYT die de machine, het meetsysteem en de profielprogramma’s kennen.",
+            "Onze operators werken volgens uw dienstrooster en onderhoudsplan. Ze positioneren wielstellen, meten, kiezen het juiste profiel, bewerken en registreren het resultaat. Ze voeren het onderhoud op operatorniveau uit – reinigen, routinematig smeren en dagelijkse controles – en melden afwijkingen direct aan uw onderhoudsteam.",
+            "Preventief onderhoud, storingsreparaties en reserveonderdelen maken geen deel uit van dit contract. Ze blijven bij uw eigen team of kunnen bij HYT worden ondergebracht via een [AMC](page:annual-maintenance-contract) of [CMC](page:comprehensive-annual-maintenance-contract). Heeft u liever één contract voor alles, kies dan [Bediening & onderhoud (O&M)](page:operation-and-maintenance)."
+          ],
+          "image": "projects/railway-wheel-shop",
+          "image_alt": "Voorbeeldillustratie van een operator aan het bedieningspaneel van een wielenbank in een wielstelwerkplaats",
+          "layout": "image-right"
+        },
+        {
+          "type": "list",
+          "id": "included",
+          "heading": "Inbegrepen",
+          "cols": 2,
+          "items": [
+            "Getrainde operators van HYT voor de afgesproken diensten",
+            "Meten van wielstellen, profielkeuze en bewerking",
+            "Onderhoud op operatorniveau: reinigen, routinematig smeren en dagelijkse controles",
+            "Registratie van bewerkte wielstellen en meetresultaten",
+            "Directe melding van storingen aan uw onderhoudsteam",
+            "Werken volgens de veiligheidsregels en het werkvergunningensysteem van uw depot"
+          ]
+        },
+        {
+          "type": "list",
+          "id": "not-included",
+          "heading": "Niet inbegrepen",
+          "cols": 2,
+          "items": [
+            "Preventief onderhoud van de machine",
+            "Storingsdiagnose en -reparatie",
+            "Reserveonderdelen",
+            "Bouwkundig werk, nutsvoorzieningen en spoorwerk",
+            "Rangeren en verplaatsen van rollend materieel, tenzij afgesproken",
+            "Retrofit en upgrades"
+          ]
+        },
+        {
+          "type": "faq",
+          "id": "faq",
+          "heading": "Veelgestelde vragen",
+          "items": [
+            {
+              "q": "Wie is verantwoordelijk als de machine uitvalt?",
+              "a": "Uw onderhoudsteam, of HYT als u ook een AMC of CMC heeft. Onze operators melden de storing en ondersteunen de diagnose met wat ze hebben waargenomen."
+            },
+            {
+              "q": "Kan een bedieningscontract ons helpen onze eigen operators op te leiden?",
+              "a": "Ja. Uw personeel kan naast de operators van HYT meewerken en formele [training](page:training) volgen, zodat het de bediening kan overnemen wanneer het contract afloopt."
+            },
+            {
+              "q": "Hoe wordt de prijs van het contract bepaald?",
+              "a": "Normaal gesproken als periodieke vergoeding op basis van het aantal operators en diensten. We maken een offerte nadat we uw werklast kennen."
+            }
+          ]
+        },
+        {
+          "type": "cta",
+          "heading": "Operators nodig voor uw wielenbank?",
+          "text": "Vertel ons welke machine u heeft, wat uw dienstrooster is en welke werklast u verwacht, dan stellen wij een bedieningsteam voor.",
+          "primary": {
+            "label": "Bespreek uw vraag",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Contracten vergelijken",
+            "page": "maintenance",
+            "anchor": "compare"
+          }
+        }
+      ]
+    },
+    "service-contract": {
+      "nav": "Servicecontract",
+      "title": "Servicecontract – machineservice op afroep",
+      "description": "Flexibel servicecontract van HYT: vaste tarieven, betalen per bezoek of oproep, geen jaarvergoeding. Ideaal bij weinig gebruikte machines en eigen onderhoud.",
+      "eyebrow": "Onderhoudsdiensten",
+      "h1": "Servicecontract: support op afroep tegen vaste tarieven",
+      "lede": "Betaal voor bezoeken van engineers wanneer u ze nodig heeft, tegen vooraf afgesproken tarieven. Een servicecontract geeft u toegang tot de expertise van HYT zonder dat u zich vastlegt op een vaste jaarlijkse vergoeding.",
+      "summary": "Flexibele service op afroep: vaste tarieven, betalen per bezoek, geen vaste jaarlijkse vergoeding.",
+      "blocks": [
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "Deze dienst overlapt met AMC en CMC. HYT dient te bevestigen dat het servicecontract moet worden aangeboden als overeenkomst op afroep met betaling per bezoek, en de scope ervan te bevestigen."
+        },
+        {
+          "type": "text",
+          "id": "overview",
+          "eyebrow": "Zo werkt het",
+          "heading": "Flexibele support zonder jaarlijkse verplichting",
+          "paragraphs": [
+            "Niet elke machine heeft een volledig onderhoudscontract nodig. Een draaibank die een paar diensten per maand draait, of een werkplaats met een ervaren eigen onderhoudsteam, heeft misschien maar af en toe specialistische hulp nodig. Een servicecontract legt de commerciële voorwaarden vooraf vast, zodat er niets wordt opgehouden door onderhandelingen of inkoopgoedkeuringen wanneer u ons nodig heeft.",
+            "We spreken met u een tarievenlijst af – dagtarieven voor engineers, reiskosten en eventuele standaardkosten – voor een afgesproken periode. Wanneer u een melding doet, wijzen we een engineer toe die ter plaatse komt, diagnosticeert en repareert, en factureren we alleen dat bezoek. Preventieve bezoeken kunt u op dezelfde voorwaarden boeken wanneer u wilt.",
+            "Neemt het aantal meldingen toe, dan is een [jaarlijks onderhoudscontract (AMC)](page:annual-maintenance-contract) of een [CMC](page:comprehensive-annual-maintenance-contract) meestal voordeliger, met daarbij gepland preventief onderhoud. We laten u weten wanneer dat punt is bereikt."
+          ],
+          "image": "company/service-maintenance",
+          "image_alt": "Voorbeeldillustratie van een HYT-buitendienstengineer die een storing in de schakelkast van een wielenbank diagnosticeert",
+          "layout": "image-right"
+        },
+        {
+          "type": "steps",
+          "id": "process",
+          "eyebrow": "Werkwijze",
+          "heading": "Zo verloopt een servicemelding",
+          "items": [
+            {
+              "title": "Voorwaarden afspreken",
+              "text": "Tarieven, reiskosten en de contractperiode worden vooraf vastgelegd."
+            },
+            {
+              "title": "Melding doen",
+              "text": "Meld de storing of vraag een bezoek aan via het gratis servicenummer of per e-mail, met vermelding van het serienummer van de machine."
+            },
+            {
+              "title": "Eerste diagnose",
+              "text": "Onze servicedesk bespreekt de symptomen met uw team om de juiste engineer en onderdelen voor te bereiden."
+            },
+            {
+              "title": "Bezoek op locatie",
+              "text": "De engineer komt ter plaatse, diagnosticeert en repareert, en stemt eventueel benodigde onderdelen met u af."
+            },
+            {
+              "title": "Rapport en factuur",
+              "text": "U ontvangt een bezoekrapport en een factuur voor dat bezoek tegen de afgesproken tarieven."
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "id": "scope",
+          "heading": "Wat wel en niet is inbegrepen",
+          "cols": 2,
+          "items": [
+            "Inbegrepen: aanwezigheid van een engineer bij elke melding tegen afgesproken tarieven",
+            "Inbegrepen: arbeid voor diagnose en reparatie tijdens het bezoek",
+            "Inbegrepen: preventieve bezoeken wanneer u die boekt",
+            "Inbegrepen: een schriftelijk rapport bij elk bezoek",
+            "Niet inbegrepen: reserveonderdelen – apart geoffreerd",
+            "Niet inbegrepen: een vast aantal geplande bezoeken per jaar",
+            "Niet inbegrepen: bediening van de machine",
+            "Niet inbegrepen: schade door ongevallen, verkeerd gebruik of storingen in de voeding"
+          ]
+        },
+        {
+          "type": "faq",
+          "id": "faq",
+          "heading": "Veelgestelde vragen",
+          "items": [
+            {
+              "q": "Is er een minimumaantal bezoeken?",
+              "a": "Nee. Het contract legt de tarieven vast voor een afgesproken periode; u betaalt alleen voor de bezoeken die u aanvraagt."
+            },
+            {
+              "q": "Kunnen we later overstappen op een AMC of CMC?",
+              "a": "Ja. Neemt het aantal meldingen toe of wilt u gepland preventief onderhoud, dan kunnen we de overeenkomst op elk moment omzetten in een [AMC](page:annual-maintenance-contract) of [CMC](page:comprehensive-annual-maintenance-contract)."
+            },
+            {
+              "q": "Zijn reserveonderdelen verkrijgbaar onder een servicecontract?",
+              "a": "Ja, per behoefte apart geoffreerd. Zie [Reserveonderdelen & support](page:spare-supply)."
+            }
+          ]
+        },
+        {
+          "type": "cta",
+          "heading": "Sluit een servicecontract af",
+          "text": "Stuur ons de gegevens van uw machine, dan stellen wij een tarievenlijst en contractperiode voor.",
+          "primary": {
+            "label": "Bespreek uw vraag",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Contracten vergelijken",
+            "page": "maintenance",
+            "anchor": "compare"
+          }
+        }
+      ]
+    },
+    "spare-supply": {
+      "nav": "Reserveonderdelen & support",
+      "title": "Reserveonderdelen en technische support voor wielenbanken",
+      "description": "Originele reserveonderdelen, aanbevolen onderdelenlijsten, obsolescentieplanning en technische support per telefoon voor HYT-wielenbanken en -wielstelmachines.",
+      "eyebrow": "Onderhoudsdiensten",
+      "h1": "Reserveonderdelen en technische support",
+      "lede": "Originele onderdelen, afgestemd op de bouwgegevens van uw machine, en engineers aan de telefoon die uw team helpen ze correct te monteren. Minder vertraging, minder verkeerde onderdelen, een langere levensduur van de machine.",
+      "summary": "Originele reserveonderdelen, aanbevolen onderdelenlijsten en technische support voor HYT-machines.",
+      "blocks": [
+        {
+          "type": "text",
+          "id": "overview",
+          "eyebrow": "Waarom originele onderdelen",
+          "heading": "Het juiste onderdeel, in één keer",
+          "paragraphs": [
+            "Machines die over meerdere decennia zijn gebouwd en geconfigureerd voor verschillende spoorwijdten, profielen en voertuigtypen, zijn zelden identiek. De rol, afdichting of sensor die in de ene machine past, past misschien niet in de volgende. Wij bepalen reserveonderdelen aan de hand van het serienummer en de bouwgegevens van uw machine, zodat het onderdeel dat aankomt ook het onderdeel is dat past.",
+            "Originele onderdelen worden gemaakt volgens de oorspronkelijke tekeningen en materialen. Dat beschermt de bewerkingsnauwkeurigheid, voorkomt schade aan aangrenzende componenten en houdt uw garantie- en contractvoorwaarden intact.",
+            "Voor werkplaatsen die hun machines zelf onderhouden, zijn onze engineers telefonisch en per e-mail bereikbaar voor advies over storingzoeken, het vervangen van onderdelen en instellingen."
+          ],
+          "image": "company/spare-parts",
+          "image_alt": "Voorbeeldillustratie van gelabelde reserveonderdelen voor wielenbanken in de stellingen van een onderdelenmagazijn",
+          "layout": "image-right"
+        },
+        {
+          "type": "features",
+          "id": "range",
+          "eyebrow": "Wat we leveren",
+          "heading": "Reserveonderdelen en support voor de hele machine",
+          "cols": 3,
+          "items": [
+            {
+              "icon": "gear",
+              "title": "Mechanische onderdelen",
+              "text": "Rollen, lagers, sleden, kogelomloopspindels, spanelementen en andere slijtdelen."
+            },
+            {
+              "icon": "droplet",
+              "title": "Hydrauliek en pneumatiek",
+              "text": "Ventielen, cilinders, pompen, afdichtingen en koppelingen voor de vloeistofsystemen van de machine."
+            },
+            {
+              "icon": "cpu",
+              "title": "Elektrisch en CNC",
+              "text": "Aandrijvingen, motoren, sensoren, besturingscomponenten en onderdelen voor schakelkasten."
+            },
+            {
+              "icon": "rulers",
+              "title": "Onderdelen voor het meetsysteem",
+              "text": "Tasters en componenten voor het meetsysteem voor wielprofielen."
+            },
+            {
+              "icon": "list-check",
+              "title": "Aanbevolen onderdelenlijsten",
+              "text": "Lijsten met kritieke onderdelen en slijtdelen om op locatie aan te houden, gerangschikt naar risico en levertijd."
+            },
+            {
+              "icon": "hourglass-split",
+              "title": "Obsolescentieplanning",
+              "text": "Tijdige melding wanneer componenten uit productie gaan, met alternatieven of upgrademogelijkheden."
+            }
+          ]
+        },
+        {
+          "type": "steps",
+          "id": "process",
+          "eyebrow": "Bestellen",
+          "heading": "Van aanvraag tot verzending",
+          "items": [
+            {
+              "title": "Identificeren",
+              "text": "Stuur het serienummer van de machine en het onderdeelnummer uit de handleiding, of een foto van het onderdeel."
+            },
+            {
+              "title": "Bevestigen",
+              "text": "We controleren het onderdeel aan de hand van de gegevens van uw machine en bevestigen het juiste artikel."
+            },
+            {
+              "title": "Offerte",
+              "text": "U ontvangt een offerte met prijs en levertijd."
+            },
+            {
+              "title": "Verzending",
+              "text": "Na ontvangst van uw bestelling wordt het onderdeel verpakt en verzonden vanuit onze fabriek in Pune."
+            },
+            {
+              "title": "Support",
+              "text": "Onze engineers adviseren telefonisch over de montage, of komen ter plaatse als u dat wilt."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "id": "critical-spares",
+          "eyebrow": "Vooruit plannen",
+          "heading": "Houd de onderdelen op voorraad die de machine stilleggen",
+          "paragraphs": [
+            "Sommige onderdelen slijten voorspelbaar; andere vallen zelden uit, maar leggen de machine stil als het gebeurt. Een kleine voorraad kritieke onderdelen op locatie kan een week stilstand terugbrengen tot een paar uur. Onze aanbevolen onderdelenlijst rangschikt onderdelen naar hun belang voor de bedrijfsvoering en hun levertijd, zodat u kunt bepalen wat u in uw magazijn aanhoudt en wat u bestelt wanneer het nodig is.",
+            "We evalueren de lijst met u naarmate de machine ouder wordt, wanneer componenten uit productie gaan en nadat een [retrofit](page:retro-fitment-upgradation) de configuratie van de machine heeft gewijzigd."
+          ]
+        },
+        {
+          "type": "list",
+          "id": "enquiry-checklist",
+          "heading": "Informatie die u bij een onderdelenaanvraag meestuurt",
+          "cols": 2,
+          "items": [
+            "Machinemodel en serienummer",
+            "Onderdeelnummer en omschrijving uit de handleiding",
+            "Foto’s van het onderdeel en, indien aanwezig, het typeplaatje",
+            "Benodigde hoeveelheid",
+            "Afleveradres en eventuele importvereisten",
+            "Urgentie – staat de machine stil?"
+          ]
+        },
+        {
+          "type": "faq",
+          "id": "faq",
+          "heading": "Veelgestelde vragen",
+          "items": [
+            {
+              "q": "Kunt u onderdelen leveren voor oudere machines?",
+              "a": "Ja, waar mogelijk. Wordt een origineel onderdeel niet meer gemaakt, dan stellen we een gelijkwaardig alternatief voor of een [retrofit](page:retro-fitment-upgradation) van het betreffende systeem."
+            },
+            {
+              "q": "Welke reserveonderdelen moeten we op locatie aanhouden?",
+              "a": "Vraag de aanbevolen onderdelenlijst voor uw machine op. Daarin zijn onderdelen gerangschikt naar hun belang en hun levertijd."
+            },
+            {
+              "q": "Zijn reserveonderdelen inbegrepen in onderhoudscontracten?",
+              "a": "Ze zijn inbegrepen in een [CMC](page:comprehensive-annual-maintenance-contract), zoals vermeld in het contract. Bij een [AMC](page:annual-maintenance-contract) worden onderdelen apart geoffreerd."
+            },
+            {
+              "q": "Hoe snel kan een onderdeel worden geleverd?",
+              "a": "Dat hangt af van het onderdeel. Sommige artikelen liggen op voorraad; andere worden op bestelling gemaakt of ingekocht. De offerte vermeldt de levertijd. Staat uw machine stil, laat het ons dan weten, zodat we voorrang kunnen geven."
+            },
+            {
+              "q": "Kunt u de onderdelen voor ons monteren?",
+              "a": "Ja. Onze engineers kunnen ter plaatse komen onder een [servicecontract](page:service-contract) of voor een eenmalig bezoek."
+            }
+          ]
+        },
+        {
+          "type": "cta",
+          "heading": "Een reserveonderdeel nodig?",
+          "text": "Stuur het serienummer van de machine en de gegevens van het onderdeel. Staat uw machine stil, bel dan het gratis servicenummer 1800 2100 456.",
+          "primary": {
+            "label": "Reserveonderdelen aanvragen",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Aftersales-servicenetwerk",
+            "page": "service-centers"
+          }
+        }
+      ]
+    },
+    "retro-fitment-upgradation": {
+      "nav": "Retrofit & upgrades",
+      "title": "Retrofit en upgrades van wielenbanken",
+      "description": "Verleng de levensduur van uw wielenbank: HYT-engineers plaatsen nieuwe CNC-besturing, aandrijvingen, meettechniek en veiligheidsupgrades op een gezonde basis.",
+      "eyebrow": "Service",
+      "h1": "Retrofit en upgrades van wielenbanken",
+      "lede": "Een goed gebouwde machineconstructie kan haar besturing tientallen jaren overleven. Bij een retrofit wordt vervangen wat verouderd is en behouden wat nog goed is: zo krijgt u een moderne machine met een fractie van de verstoring die een nieuwe machine met zich meebrengt.",
+      "summary": "Nieuwe CNC-besturingen, aandrijvingen, meettechniek en veiligheidsupgrades voor machines met een gezonde constructie.",
+      "blocks": [
+        {
+          "type": "text",
+          "id": "overview",
+          "eyebrow": "Waarom retrofit",
+          "heading": "Behoud de constructie, vernieuw de intelligentie",
+          "paragraphs": [
+            "Machinebedden, frames en geleidingen zijn gebouwd om lang mee te gaan. Besturingen, aandrijvingen en elektronica niet: binnen een of twee decennia gaan componenten uit productie, worden reserveonderdelen moeilijk verkrijgbaar en duurt elke storing langer om te verhelpen. Tegelijk bieden nieuwere besturingen betere diagnose, eenvoudiger programmeren en profielmeting die wielmateriaal bespaart.",
+            "Retrofit pakt beide problemen aan. We beoordelen de machine, behouden de delen die nog goed zijn en vervangen de systemen die de beschikbaarheid of prestaties beperken. Bij een onderloopdraaibank voorkomt het bovendien de bouwkundige werkzaamheden en lange stilstand die een nieuwe putmachine zou vereisen.",
+            "Onze eerste aandacht gaat uit naar HYT-machines, waarvan we de ontwerpen tot in detail kennen. Is uw machine van een andere fabrikant, stuur ons dan de gegevens; we zeggen u eerlijk of een beoordeling zinvol is."
+          ],
+          "image": "homepage/engineering-technology",
+          "image_alt": "Voorbeeldillustratie van een modern CNC-bedieningspaneel met een wielprofiel op het scherm",
+          "layout": "image-right"
+        },
+        {
+          "type": "features",
+          "id": "upgrades",
+          "eyebrow": "Wat kan worden geüpgraded",
+          "heading": "Typische retrofitpakketten",
+          "cols": 3,
+          "items": [
+            {
+              "icon": "cpu",
+              "title": "CNC-besturing",
+              "text": "Een actuele industriële CNC-besturing met spoorspecifieke cycli, profielbibliotheken en diagnose op het scherm."
+            },
+            {
+              "icon": "lightning-charge",
+              "title": "Aandrijvingen en motoren",
+              "text": "Nieuwe servo- en hoofdaandrijvingen voor betrouwbare prestaties en verkrijgbare reserveonderdelen."
+            },
+            {
+              "icon": "rulers",
+              "title": "Meetsysteem",
+              "text": "Automatische meting van het wielprofiel, zodat alleen het noodzakelijke materiaal wordt weggenomen."
+            },
+            {
+              "icon": "droplet",
+              "title": "Hydrauliek",
+              "text": "Gereviseerde of vervangen hydraulische aggregaten, ventielen en cilinders."
+            },
+            {
+              "icon": "shield-check",
+              "title": "Veiligheid",
+              "text": "Afschermingen, vergrendelingen en noodstopcircuits bijgewerkt naar de huidige praktijk."
+            },
+            {
+              "icon": "database",
+              "title": "Data en rapportage",
+              "text": "Bewerkingsrapporten en meetgegevens die kunnen worden geëxporteerd naar onderhoudssystemen voor de vloot."
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "id": "signs",
+          "heading": "Signalen dat een machine toe is aan een retrofit",
+          "cols": 2,
+          "items": [
+            "Onderdelen voor besturing of aandrijvingen zijn uit productie of moeilijk verkrijgbaar",
+            "Storingen kosten meer tijd om te diagnosticeren doordat de diagnosemogelijkheden beperkt zijn",
+            "De machine kan de profielen die uw vloot nu nodig heeft niet opslaan of meten",
+            "Meetgegevens moeten handmatig worden vastgelegd",
+            "Afschermingen of vergrendelingen voldoen niet meer aan uw veiligheidsnormen",
+            "De constructie en geometrie zijn nog goed"
+          ]
+        },
+        {
+          "type": "steps",
+          "id": "process",
+          "eyebrow": "Onze aanpak",
+          "heading": "Zo verloopt een retrofitproject",
+          "items": [
+            {
+              "title": "Beoordeling van de conditie",
+              "text": "Onze engineers inspecteren constructie, geometrie, hydrauliek en elektrische installatie en bekijken de historie van de machine."
+            },
+            {
+              "title": "Voorstel",
+              "text": "We adviseren een scope – van één systeem tot een volledige revisie – met de voordelen en risico’s van elke optie."
+            },
+            {
+              "title": "Engineering",
+              "text": "Nieuwe elektrische, hydraulische en softwareontwerpen worden opgesteld en componenten worden vóór de stilstand ingekocht."
+            },
+            {
+              "title": "Stilstand en uitvoering",
+              "text": "De machine gaat pas uit bedrijf wanneer de onderdelen klaar zijn, zodat de stilstand zo kort mogelijk blijft."
+            },
+            {
+              "title": "Herinbedrijfstelling",
+              "text": "Geometrie, meting en bewerking worden met uw wielstellen aangetoond aan de hand van overeengekomen criteria."
+            },
+            {
+              "title": "Training en overdracht",
+              "text": "Bedieners en onderhoudsmonteurs worden getraind op de nieuwe systemen en de documentatie wordt bijgewerkt."
+            }
+          ]
+        },
+        {
+          "type": "faq",
+          "id": "faq",
+          "heading": "Veelgestelde vragen",
+          "items": [
+            {
+              "q": "Retrofit of nieuwe machine – hoe beslissen we?",
+              "a": "Zijn constructie en geometrie in orde, dan kost een retrofit meestal minder en zijn er geen bouwkundige werkzaamheden nodig. Is de constructie versleten of zijn uw eisen sterk veranderd, dan kan een nieuwe machine beter zijn. Onze beoordeling zet beide opties op een rij."
+            },
+            {
+              "q": "Hoe lang is de machine buiten bedrijf?",
+              "a": "Dat hangt af van de scope. We plannen engineering en inkoop vóór de stilstand, zodat de machine alleen stilstaat voor montage en herinbedrijfstelling."
+            },
+            {
+              "q": "Moeten onze bedieners opnieuw worden opgeleid?",
+              "a": "Ja, op de nieuwe besturing en eventuele nieuwe functies. [Training](page:training) maakt deel uit van elk retrofitproject."
+            },
+            {
+              "q": "Kunnen met een retrofit nieuwe wielprofielen worden toegevoegd?",
+              "a": "Ja. Nieuwe profielen voor een gewijzigde vloot kunnen als onderdeel van de upgrade aan de CNC worden toegevoegd."
+            }
+          ]
+        },
+        {
+          "type": "cta",
+          "heading": "Is uw machine toe aan een upgrade?",
+          "text": "Stuur ons het model, het serienummer en de problemen die u ziet. Wij stellen een conditiebeoordeling voor.",
+          "primary": {
+            "label": "Bespreek uw vraag",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Bekijk onze producten",
+            "page": "products"
+          }
+        }
+      ]
+    },
+    "repair": {
+      "nav": "Reparatie",
+      "title": "Reparatie van wielenbanken en werktuigmachines",
+      "description": "Storings- en grote reparaties aan HYT-wielenbanken en -machines: storingzoeken, mechanische revisie, hydraulische en elektrische reparatie, op locatie getest.",
+      "eyebrow": "Service",
+      "h1": "Reparatie van wielenbanken en machines voor wielstelwerkplaatsen",
+      "lede": "Van een plotselinge storing tot een geplande revisie na jaren van zwaar gebruik: onze engineers vinden de oorzaak, verhelpen die grondig en bewijzen de werking van de machine voordat ze haar aan uw team teruggeven.",
+      "summary": "Storings- en grote reparaties: diagnose, mechanisch, hydraulisch en elektrisch werk, getest vóór overdracht.",
+      "blocks": [
+        {
+          "type": "text",
+          "id": "overview",
+          "eyebrow": "Reparatie die blijvend is",
+          "heading": "Pak de oorzaak aan, niet alleen het symptoom",
+          "paragraphs": [
+            "Een reparatie die de machine maar een week laat draaien, kost meer dan een reparatie die meteen goed wordt uitgevoerd. Onze engineers zoeken naar de grondoorzaak – een versleten geleiding, een vervuild hydraulisch circuit, een falende sensor – voordat ze onderdelen vervangen, en vertellen u wat ze hebben gevonden en waardoor het is ontstaan.",
+            "Omdat wij de machine hebben ontworpen, beschikken we over haar tekeningen, instellingen en onderdelengegevens. Dat verkort de diagnose en zorgt ervoor dat reparaties de oorspronkelijke nauwkeurigheid herstellen, niet een benadering daarvan.",
+            "Reparaties zijn beschikbaar voor elke HYT-klant, met of zonder onderhoudscontract. Klanten met een [AMC](page:annual-maintenance-contract) of [CMC](page:comprehensive-annual-maintenance-contract) hebben storingsafhandeling in hun contract inbegrepen."
+          ],
+          "image": "company/service-maintenance",
+          "image_alt": "Voorbeeldillustratie van engineers die een onderdeel van een wielenbank demonteren voor reparatie",
+          "layout": "image-right"
+        },
+        {
+          "type": "features",
+          "id": "repairs",
+          "eyebrow": "Wat we repareren",
+          "heading": "Soorten reparaties",
+          "cols": 3,
+          "items": [
+            {
+              "icon": "lightning-charge",
+              "title": "Storingsreparatie",
+              "text": "Storingzoeken en herstel om een stilstaande machine weer in bedrijf te krijgen."
+            },
+            {
+              "icon": "gear",
+              "title": "Mechanische revisie",
+              "text": "Sleden, geleidingen, kogelomloopspindels, rollen en spansystemen gereviseerd of vervangen."
+            },
+            {
+              "icon": "droplet",
+              "title": "Hydraulische reparatie",
+              "text": "Verhelpen van lekkages, revisie van cilinders en ventielen en het spoelen van circuits."
+            },
+            {
+              "icon": "cpu",
+              "title": "Elektrisch en CNC",
+              "text": "Storingen in aandrijvingen, motoren, sensoren en besturing gediagnosticeerd en verholpen."
+            },
+            {
+              "icon": "exclamation-triangle",
+              "title": "Ongevalsschade",
+              "text": "Beoordeling en reparatie na aanrijdingen, overstromingen of andere incidenten."
+            },
+            {
+              "icon": "rulers",
+              "title": "Herstel van de nauwkeurigheid",
+              "text": "Geometrie en meetsysteem na de reparatie gecontroleerd en hersteld."
+            }
+          ]
+        },
+        {
+          "type": "steps",
+          "id": "process",
+          "eyebrow": "Werkwijze",
+          "heading": "Zo wordt een reparatie afgehandeld",
+          "items": [
+            {
+              "title": "Melden",
+              "text": "Bel het gratis servicenummer of stuur ons een e-mail met het serienummer van de machine, de symptomen en eventuele alarmmeldingen."
+            },
+            {
+              "title": "Eerste diagnose",
+              "text": "Onze servicedesk en engineers bekijken de informatie samen met uw team en maken, als de machine dat ondersteunt, verbinding op afstand."
+            },
+            {
+              "title": "Plannen",
+              "text": "We bevestigen de waarschijnlijke oorzaak, de benodigde onderdelen en de juiste engineer, en delen een kostenraming."
+            },
+            {
+              "title": "Reparatie",
+              "text": "De engineer voert het werk op locatie uit, of grote onderdelen worden naar onze fabriek in Pune gebracht."
+            },
+            {
+              "title": "Testen en rapporteren",
+              "text": "De machine wordt getest, de resultaten worden vastgelegd en u ontvangt een rapport met aanbevelingen."
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "id": "report-checklist",
+          "heading": "Informatie die de diagnose versnelt",
+          "intro": "Hoe meer we weten voordat een engineer op pad gaat, hoe groter de kans dat het probleem bij het eerste bezoek wordt opgelost.",
+          "cols": 2,
+          "items": [
+            "Machinemodel en serienummer",
+            "Alarmnummers en -meldingen op de CNC",
+            "Wat de machine deed toen de storing optrad",
+            "Foto’s of korte video’s van het symptoom",
+            "Recente wijzigingen, reparaties of incidenten",
+            "Of de machine stilstaat of met beperkingen draait"
+          ]
+        },
+        {
+          "type": "faq",
+          "id": "faq",
+          "heading": "Veelgestelde vragen",
+          "items": [
+            {
+              "q": "Repareert u ook machines van andere fabrikanten?",
+              "a": "Onze expertise ligt bij HYT-machines, waarvan we de ontwerpen en gegevens in huis hebben. Voor andere merken: stuur ons de gegevens, dan zeggen we u eerlijk of we kunnen helpen."
+            },
+            {
+              "q": "Hebben we een onderhoudscontract nodig voor een reparatie?",
+              "a": "Nee. Reparaties zijn beschikbaar voor alle HYT-klanten. Een [servicecontract](page:service-contract) legt de tarieven vooraf vast en versnelt goedkeuringen."
+            },
+            {
+              "q": "Kunnen reparaties op locatie worden uitgevoerd?",
+              "a": "De meeste reparaties worden op locatie uitgevoerd. Moet een onderdeel worden nabewerkt of volledig gereviseerd, dan kan het naar onze fabriek in Pune worden gebracht."
+            },
+            {
+              "q": "Wat als de originele onderdelen niet meer verkrijgbaar zijn?",
+              "a": "Dan stellen we een gelijkwaardig onderdeel voor of een gerichte [retrofit](page:retro-fitment-upgradation) van het betreffende systeem."
+            }
+          ]
+        },
+        {
+          "type": "cta",
+          "heading": "Machine stil?",
+          "text": "Bel 1800 2100 456 met het serienummer van de machine, of stuur ons de gegevens; we reageren zo snel mogelijk.",
+          "primary": {
+            "label": "Storing melden",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Aftersales-servicenetwerk",
+            "page": "service-centers"
+          }
+        }
+      ]
+    },
+    "shifting": {
+      "nav": "Verplaatsing van machines",
+      "title": "Verplaatsing van speciaalmachines (SPM)",
+      "description": "Geplande verplaatsing van speciaalmachines (SPM’s) zoals wielenbanken: opname, demontage, transport, voorbereiding van de fundering en herinbedrijfstelling.",
+      "eyebrow": "Service",
+      "h1": "Verplaatsing van machines",
+      "lede": "Het verplaatsen van een wielenbank of een andere speciaalmachine (SPM) is een project, geen hijsklus. Wij demonteren, verplaatsen, installeren en stellen de machine opnieuw in bedrijf, zodat ze op de nieuwe locatie presteert zoals op de oude.",
+      "summary": "Opname, demontage, transport, herinstallatie en herinbedrijfstelling van wielenbanken en andere SPM’s.",
+      "blocks": [
+        {
+          "type": "text",
+          "id": "overview",
+          "eyebrow": "Waarom specialisten nodig zijn",
+          "heading": "Precisiemachines reizen niet goed op eigen houtje",
+          "paragraphs": [
+            "Depots worden herbouwd, vloten verhuizen naar nieuwe remises en werkplaatsen worden gereorganiseerd. Een speciaalmachine zoals een wielenbank, wielpers of verticale draaibank verhuist dan vaak mee. Deze machines zijn zwaar, nauwkeurig uitgelijnd en – in het geval van onderloopdraaibanken – in het spoor ingebouwd.",
+            "Een slecht geplande verhuizing brengt het risico mee van beschadigde onderdelen, verloren uitlijning en een lange, onzekere herinbedrijfstelling. HYT plant elke verplaatsing van begin tot eind: we leggen de conditie en nauwkeurigheid van de machine vast vóór de demontage, stellen de nieuwe funderingstekeningen op en stellen de machine op haar nieuwe plek opnieuw in bedrijf volgens dezelfde acceptatiecriteria.",
+            "Een verplaatsing is ook een goed moment voor upgrades. Veel klanten combineren een verhuizing met een [retrofit](page:retro-fitment-upgradation) van de besturing of een revisie van versleten onderdelen."
+          ],
+          "image": "projects/installation-commissioning",
+          "image_alt": "Voorbeeldillustratie van een onderdeel van een wielenbank dat tijdens een verplaatsing met een kraan wordt gehesen",
+          "layout": "image-right"
+        },
+        {
+          "type": "steps",
+          "id": "process",
+          "eyebrow": "Onze aanpak",
+          "heading": "Zo verplaatsen we een machine",
+          "items": [
+            {
+              "title": "Opname",
+              "text": "Inspectie van de machine en beide locaties, met vastlegging van conditie en nauwkeurigheid vóór de verhuizing."
+            },
+            {
+              "title": "Voorbereiding van de nieuwe locatie",
+              "text": "Funderings- of puttekeningen voor de nieuwe locatie, en controle van de gereedheid voordat de demontage begint."
+            },
+            {
+              "title": "Demontage",
+              "text": "Onderdelen worden in een geplande volgorde gescheiden, gemarkeerd en gedocumenteerd."
+            },
+            {
+              "title": "Verpakking en transport",
+              "text": "Precisievlakken worden beschermd en onderdelen worden verpakt en vastgezet voor de route."
+            },
+            {
+              "title": "Herinstallatie",
+              "text": "De machine wordt op de nieuwe locatie geplaatst, waterpas gesteld, uitgelijnd en weer aangesloten."
+            },
+            {
+              "title": "Herinbedrijfstelling",
+              "text": "Proefbewerkingen met uw wielstellen tonen aan dat de machine aan haar acceptatiecriteria voldoet."
+            }
+          ]
+        },
+        {
+          "type": "features",
+          "id": "benefits",
+          "eyebrow": "Wat het u oplevert",
+          "heading": "Beheerst risico in elke fase",
+          "cols": 3,
+          "items": [
+            {
+              "icon": "clipboard-check",
+              "title": "Gedocumenteerd uitgangspunt",
+              "text": "Nauwkeurigheidsmetingen vóór en na de verhuizing bewijzen dat de machine presteert zoals voorheen."
+            },
+            {
+              "icon": "calendar-check",
+              "title": "Geplande stilstand",
+              "text": "Een duidelijke planning, met u afgestemd, zodat de werkplaatscapaciteit rond de verhuizing kan worden gepland."
+            },
+            {
+              "icon": "arrow-repeat",
+              "title": "Kans voor een upgrade",
+              "text": "Combineer de verhuizing met een revisie of retrofit terwijl de machine toch buiten bedrijf is."
+            }
+          ]
+        },
+        {
+          "type": "faq",
+          "id": "faq",
+          "heading": "Veelgestelde vragen",
+          "items": [
+            {
+              "q": "Wat is een SPM?",
+              "a": "Een speciaalmachine (special purpose machine) – een werktuigmachine die is ontworpen voor een specifieke taak, zoals het herprofileren van spoorwielen, het opdrukken van wielen op assen of het draaien van astappen."
+            },
+            {
+              "q": "Kunt u een onderloopdraaibank verplaatsen?",
+              "a": "Ja. Onderloopdraaibanken hebben op de bestemming een nieuwe put nodig, dus de bouwkundige werkzaamheden moeten vroeg worden gepland. Wij leveren de puttekeningen en controleren de put voordat de machine wordt verplaatst."
+            },
+            {
+              "q": "Hoe lang is de machine buiten bedrijf?",
+              "a": "Dat hangt af van de machine, de afstand en de gereedheid van de nieuwe locatie. De nieuwe fundering of put voorbereiden voordat de demontage begint, is de meest effectieve manier om de verhuizing te bekorten, en we stemmen de planning daarop af."
+            },
+            {
+              "q": "Wie regelt het transport?",
+              "a": "Dat wordt per project afgesproken. HYT kan de volledige verhuizing plannen en beheren, of samenwerken met de logistieke partner die u aanwijst."
+            },
+            {
+              "q": "Loopt de garantie of het onderhoudscontract door?",
+              "a": "De contractvoorwaarden worden als onderdeel van de verplaatsing herzien. Na een geslaagde herinbedrijfstelling kan een [AMC](page:annual-maintenance-contract) of [CMC](page:comprehensive-annual-maintenance-contract) op de nieuwe locatie doorlopen."
+            }
+          ]
+        },
+        {
+          "type": "cta",
+          "heading": "Plant u een verhuizing?",
+          "text": "Vertel ons welke machine wordt verplaatst, van waar en naar waar. Wij stellen een opname en een verhuisplan voor.",
+          "primary": {
+            "label": "Bespreek uw vraag",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Montage & inbedrijfstelling",
+            "page": "installation-commissioning"
+          }
+        }
+      ]
+    },
+    "wet-leasing": {
+      "nav": "MAAS – Machine as a Service (wet leasing)",
+      "title": "Machine as a Service (wet leasing) voor wielenbanken",
+      "description": "Machine as a Service: HYT levert wielenbank, operators en onderhoud in één overeenkomst. U betaalt voor herprofileringscapaciteit in plaats van te investeren.",
+      "eyebrow": "Service",
+      "h1": "Machine as a Service (MAAS): wet leasing van wielenbanken",
+      "lede": "HYT levert de machine, de mensen die haar bedienen en het onderhoud dat haar draaiende houdt. U ontvangt geherprofileerde wielstellen zonder kapitaalinvestering en zonder een gespecialiseerd team op te hoeven bouwen.",
+      "summary": "Wij leveren de machine, operators en het onderhoud; u betaalt voor herprofileringscapaciteit in plaats van voor kapitaalgoederen.",
+      "blocks": [
+        {
+          "type": "text",
+          "id": "overview",
+          "eyebrow": "Het idee",
+          "heading": "Betaal voor geherprofileerde wielen, niet voor een machine",
+          "paragraphs": [
+            "Een wielenbank kopen betekent investeringsgoedkeuring, een inkoopprocedure, bouwkundige werkzaamheden, werving en training – en dat allemaal voordat er één wiel is bewerkt. Voor sommige vervoerders is dat de juiste weg. Voor andere, vooral bij een acuut capaciteitstekort of een onzekere vraag op lange termijn, niet.",
+            "Bij Machine as a Service levert HYT een wielenbank samen met getrainde operators en volledig onderhoud in één overeenkomst. De term “wet leasing” komt uit de luchtvaart, waar een vliegtuig inclusief bemanning wordt geleased. Ook hier komt de machine met bemanning.",
+            "U bepaalt de output die u nodig heeft. Wij houden de machine productief en zijn verantwoordelijk voor de beschikbaarheid. Het commerciële model – een periodieke vergoeding, een tarief per wielstel of een combinatie – wordt per project afgesproken."
+          ],
+          "image": "products/underfloor-wheel-lathe-yul-08",
+          "image_alt": "HYT CNC-onderloopdraaibank (YUL-08)",
+          "layout": "image-right"
+        },
+        {
+          "type": "features",
+          "id": "included",
+          "eyebrow": "Wat is inbegrepen",
+          "heading": "Eén overeenkomst, complete capaciteit",
+          "cols": 4,
+          "items": [
+            {
+              "icon": "gear-wide-connected",
+              "title": "De machine",
+              "text": "Een geschikte HYT-wielenbank, op uw locatie geïnstalleerd en in bedrijf gesteld."
+            },
+            {
+              "icon": "people",
+              "title": "De bemanning",
+              "text": "Getrainde operators van HYT die volgens uw dienstrooster werken."
+            },
+            {
+              "icon": "tools",
+              "title": "Onderhoud",
+              "text": "Preventief onderhoud, storingsafhandeling en beheer van reserveonderdelen door HYT."
+            },
+            {
+              "icon": "clipboard-data",
+              "title": "Rapportage",
+              "text": "Registratie van bewerkte wielstellen en meetresultaten voor uw vlootsystemen."
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "id": "compare",
+          "heading": "Kopen, O&M of Machine as a Service?",
+          "columns": [
+            "",
+            "Aankoop",
+            "Aankoop + O&M",
+            "Machine as a Service"
+          ],
+          "rows": [
+            [
+              "Wie is eigenaar van de machine",
+              "Klant",
+              "Klant",
+              "HYT"
+            ],
+            [
+              "Wie bedient haar",
+              "Klant",
+              "HYT",
+              "HYT"
+            ],
+            [
+              "Wie onderhoudt haar",
+              "Klant, of HYT onder AMC/CMC",
+              "HYT",
+              "HYT"
+            ],
+            [
+              "Investering vooraf",
+              "Prijs van de machine",
+              "Prijs van de machine",
+              "Geen voor de machine"
+            ],
+            [
+              "Doorlopende kosten",
+              "Personeel, onderhoud en reserveonderdelen",
+              "Periodieke O&M-vergoeding",
+              "Afgesproken servicevergoeding"
+            ],
+            [
+              "Het meest geschikt voor",
+              "Eigen capaciteit op lange termijn",
+              "Machine in eigendom zonder eigen draaibankteam",
+              "Snel capaciteit, beperkt kapitaal of tijdelijke vraag"
+            ]
+          ],
+          "note": "Bouwkundige werkzaamheden voor put of fundering en het commerciële model worden per project afgesproken."
+        },
+        {
+          "type": "list",
+          "id": "fit",
+          "heading": "Wanneer Machine as a Service zinvol is",
+          "cols": 2,
+          "items": [
+            "Een nieuw depot heeft herprofileringscapaciteit nodig voordat een machine kan worden aangeschaft",
+            "Investeringsbudgetten zijn beperkt, maar er is exploitatiebudget beschikbaar",
+            "De vraag is tijdelijk – de introductie van een vloot, een achterstand of een grote revisiecampagne",
+            "De organisatie besteedt specialistisch onderhoud bij voorkeur uit",
+            "Er is een proefperiode nodig voordat wordt besloten over een vaste machine",
+            "Eigen personeel is nog niet getraind op CNC-wielenbanken"
+          ]
+        },
+        {
+          "type": "steps",
+          "id": "process",
+          "eyebrow": "Werkwijze",
+          "heading": "Van aanvraag tot output",
+          "items": [
+            {
+              "title": "Behoefteanalyse",
+              "text": "Vloot, werklast, locatie en looptijd worden samen met u bekeken."
+            },
+            {
+              "title": "Voorstel",
+              "text": "Wij adviseren een machine, een team en een commercieel model."
+            },
+            {
+              "title": "Voorbereiding van de locatie",
+              "text": "Put- of funderingswerk wordt afgesproken en uitgevoerd volgens tekeningen van HYT."
+            },
+            {
+              "title": "Montage",
+              "text": "De machine wordt geïnstalleerd en met uw wielstellen in bedrijf gesteld."
+            },
+            {
+              "title": "Bediening",
+              "text": "HYT bedient en onderhoudt de machine en rapporteert regelmatig over de output."
+            },
+            {
+              "title": "Einde looptijd",
+              "text": "Verleng de overeenkomst, stap over op een [O&M](page:operation-and-maintenance)-model of plan een vaste machine."
+            }
+          ]
+        },
+        {
+          "type": "faq",
+          "id": "faq",
+          "heading": "Veelgestelde vragen",
+          "items": [
+            {
+              "q": "Wat is het verschil tussen wet leasing en O&M?",
+              "a": "Bij een [O&M-contract](page:operation-and-maintenance) bent u eigenaar van de machine en bedient en onderhoudt HYT haar. Bij Machine as a Service levert HYT ook de machine."
+            },
+            {
+              "q": "Wie bereidt de put of fundering voor?",
+              "a": "Dat wordt per project afgesproken. HYT levert de tekeningen en controleert het werk; de bouwkundige uitvoering wordt meestal door de klant geregeld."
+            },
+            {
+              "q": "Welke machines zijn beschikbaar?",
+              "a": "De machine wordt gekozen op basis van uw vloot en locatie, doorgaans een [onderloopdraaibank](page:underfloor-wheel-lathe). Bespreek uw behoefte met ons."
+            }
+          ]
+        },
+        {
+          "type": "cta",
+          "heading": "Capaciteit nodig zonder te investeren?",
+          "text": "Vertel ons over uw vloot, uw depot en hoe lang u de capaciteit nodig heeft. Wij stellen een Machine-as-a-Service-model voor.",
+          "primary": {
+            "label": "Bespreek uw vraag",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Bekijk onze producten",
+            "page": "products"
+          }
+        }
+      ]
+    },
+    "training": {
+      "nav": "Training",
+      "title": "Training voor operators en monteurs van wielenbanken",
+      "description": "Praktijktraining voor operators, CNC-programmeurs en onderhoudsteams op HYT-wielenbanken en -wielstelmachines – op locatie, in onze fabriek of als opfriscursus.",
+      "eyebrow": "Service",
+      "h1": "Training voor operators, programmeurs en onderhoudsmonteurs",
+      "lede": "Een machine is zo goed als de mensen die haar bedienen. Onze training geeft uw team de vaardigheid en het vertrouwen om nauwkeurig te bewerken, veilig te werken en de machine in conditie te houden.",
+      "summary": "Praktijktraining voor operators, programmeurs en onderhoudsteams – op locatie, in onze fabriek of als opfriscursus.",
+      "blocks": [
+        {
+          "type": "text",
+          "id": "overview",
+          "eyebrow": "Waarom het ertoe doet",
+          "heading": "Vakkundige operators besparen wielmateriaal",
+          "paragraphs": [
+            "Elke millimeter die van een loopvlak wordt weggenomen, verkort de levensduur van het wiel. Een operator die het meetsysteem begrijpt, het juiste profiel kiest en herkent wanneer een snede kleiner kan, beschermt de wiellevensduur en verlaagt de kosten per kilometer. Een operator die dat niet doet, kan van een precieze machine een dure machine maken.",
+            "Hetzelfde geldt voor onderhoud. Teams die weten wat ze moeten controleren, hoe de normale situatie eruitziet en hoe ze de diagnose van de machine moeten lezen, signaleren problemen voordat het storingen worden.",
+            "Onze trainers zijn engineers die HYT-machines bouwen, in bedrijf stellen en onderhouden. De training vindt waar mogelijk plaats op uw eigen machine, zodat uw team leert op de apparatuur waarmee het dagelijks werkt."
+          ],
+          "image": "company/training-session",
+          "image_alt": "Voorbeeldillustratie van een HYT-trainer die depotpersoneel het bedieningspaneel van een wielenbank uitlegt",
+          "layout": "image-right"
+        },
+        {
+          "type": "features",
+          "id": "audiences",
+          "eyebrow": "Wie we trainen",
+          "heading": "Programma’s voor elke rol",
+          "cols": 4,
+          "items": [
+            {
+              "icon": "person-workspace",
+              "title": "Operators",
+              "text": "Veilig positioneren, meten, profielkeuze, bewerkingscycli en dagelijks onderhoud."
+            },
+            {
+              "icon": "code-square",
+              "title": "CNC-programmeurs",
+              "text": "Profielprogramma’s, parameters, bewerkingsstrategieën en meetgegevens."
+            },
+            {
+              "icon": "wrench-adjustable",
+              "title": "Mechanisch onderhoudsmonteurs",
+              "text": "Smering, hydrauliek, afstellingen en vervanging van slijtdelen."
+            },
+            {
+              "icon": "lightning-charge",
+              "title": "Elektrotechnisch onderhoudsmonteurs",
+              "text": "Aandrijvingen, sensoren, vergrendelingen, diagnose en storingzoeken."
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "id": "topics",
+          "heading": "Typische trainingsonderwerpen",
+          "intro": "De inhoud wordt afgestemd op uw machine en de ervaring van uw team. Een gemiddeld programma behandelt:",
+          "cols": 2,
+          "items": [
+            "Machine-indeling, veiligheidszones, afschermingen en noodprocedures",
+            "Voertuigen of wielstellen positioneren en correct opspannen",
+            "Wielprofielmeting en het interpreteren van de resultaten",
+            "Profielen kiezen en materiaalverlies minimaliseren",
+            "Bewerkingscycli uitvoeren en het afgewerkte profiel controleren",
+            "Dagelijkse, wekelijkse en periodieke onderhoudstaken",
+            "Hydraulische, pneumatische en smeersystemen",
+            "Alarmen lezen en de CNC-diagnose gebruiken",
+            "Veelvoorkomende slijtdelen en wisselplaten vervangen",
+            "Bewerkings- en onderhoudsregistratie bijhouden"
+          ]
+        },
+        {
+          "type": "list",
+          "id": "formats",
+          "heading": "Trainingsvormen",
+          "cols": 2,
+          "items": [
+            "Eerste training tijdens montage en inbedrijfstelling",
+            "Cursussen op locatie op uw eigen machine",
+            "Sessies in de HYT-fabriek in Pune, op aanvraag",
+            "Opfriscursussen voor ervaren personeel",
+            "Introductietraining voor nieuwe teamleden",
+            "Training op nieuwe functies na een retrofit"
+          ]
+        },
+        {
+          "type": "steps",
+          "id": "process",
+          "eyebrow": "Werkwijze",
+          "heading": "Zo plannen we een trainingsprogramma",
+          "items": [
+            {
+              "title": "Behoefteanalyse",
+              "text": "We stemmen de rollen, ervaringsniveaus en doelstellingen met u af."
+            },
+            {
+              "title": "Programma",
+              "text": "Theorie- en praktijksessies worden ingepland rond het programma van uw werkplaats."
+            },
+            {
+              "title": "Uitvoering",
+              "text": "De training vindt waar mogelijk plaats op uw machine, met gedrukt naslagmateriaal."
+            },
+            {
+              "title": "Toetsing",
+              "text": "Deelnemers demonstreren de belangrijkste taken en de aanwezigheid wordt geregistreerd."
+            }
+          ]
+        },
+        {
+          "type": "faq",
+          "id": "faq",
+          "heading": "Veelgestelde vragen",
+          "items": [
+            {
+              "q": "Is training inbegrepen bij een nieuwe machine?",
+              "a": "Ja. De eerste training voor operators en onderhoudsmonteurs maakt deel uit van [montage en inbedrijfstelling](page:installation-commissioning)."
+            },
+            {
+              "q": "Kunt u personeel trainen op een machine die al enkele jaren oud is?",
+              "a": "Ja. We stemmen de inhoud af op de configuratie en besturing van de machine."
+            },
+            {
+              "q": "In welke taal wordt de training gegeven?",
+              "a": "Vermeld bij uw aanvraag uw voorkeurstaal, dan bevestigen we wat we kunnen aanbieden."
+            }
+          ]
+        },
+        {
+          "type": "cta",
+          "heading": "Plan training voor uw team",
+          "text": "Vertel ons om welke machine, welke rollen en hoeveel mensen het gaat. Wij stellen een programma voor.",
+          "primary": {
+            "label": "Bespreek uw vraag",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Alle diensten",
+            "page": "services"
+          }
+        }
+      ]
+    },
+    "service-centers": {
+      "nav": "Aftersales-servicenetwerk",
+      "title": "Aftersales-servicenetwerk en support",
+      "description": "Zo werkt de aftersalesservice van HYT: servicedesk in Pune, gratis nummer 1800 2100 456, buitendienstengineers, diagnose op afstand en onderdelenverzending.",
+      "eyebrow": "Service",
+      "h1": "Aftersales-servicenetwerk",
+      "lede": "Eén nummer, één servicedesk en engineers die uw machine kennen. Zo bereikt u ons en dit gebeurt er nadat u heeft gebeld.",
+      "summary": "Hoe u de aftersalesservice van HYT bereikt en wat er gebeurt wanneer u een verzoek indient.",
+      "blocks": [
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "HYT dient de lijst van servicecentra en buitendienstlocaties (stad, adres, contactpersoon) aan te leveren voor publicatie op deze pagina."
+        },
+        {
+          "type": "text",
+          "id": "overview",
+          "eyebrow": "Zo is de service georganiseerd",
+          "heading": "Gecoördineerd vanuit Pune, uitgevoerd op locatie",
+          "paragraphs": [
+            "Elk serviceverzoek wordt geregistreerd en gecoördineerd door onze servicedesk in de HYT-fabriek in Pune, waar onze machines worden ontworpen en gebouwd. De servicedesk heeft toegang tot de bouwgegevens, tekeningen en servicehistorie van elke machine, zodat al het eerste gesprek goed geïnformeerd is.",
+            "Buitendienstengineers reizen naar uw locatie voor montage, preventief onderhoud, storingen en reparaties. Ondersteunt een machine een verbinding op afstand, dan kunnen onze engineers alarmen en parameters bekijken voordat ze vertrekken; dat verkort vaak de diagnose en zorgt ervoor dat de juiste onderdelen met de engineer meegaan.",
+            "Reserveonderdelen worden vanuit Pune verzonden. Laat ons in dringende gevallen weten dat de machine stilstaat, dan geven we voorrang."
+          ],
+          "image": "company/service-maintenance",
+          "image_alt": "Voorbeeldillustratie van een HYT-buitendienstengineer die met een gereedschapskoffer bij een spoordepot aankomt",
+          "layout": "image-right"
+        },
+        {
+          "type": "features",
+          "id": "network",
+          "eyebrow": "Onze serviceorganisatie",
+          "heading": "Zo ondersteunen we u",
+          "cols": 3,
+          "items": [
+            {
+              "icon": "headset",
+              "title": "Centrale servicedesk",
+              "text": "Registreert, wijst toe en volgt elk verzoek tot afronding vanuit onze fabriek in Pune."
+            },
+            {
+              "icon": "telephone",
+              "title": "Gratis servicenummer",
+              "text": "Bel 1800 2100 456, maandag t/m zaterdag, 9.30–18.30 uur IST."
+            },
+            {
+              "icon": "person-gear",
+              "title": "Buitendienstengineers",
+              "text": "Engineers die ter plaatse komen voor montage, onderhoud en reparatie."
+            },
+            {
+              "icon": "wifi",
+              "title": "Diagnose op afstand",
+              "text": "Waar de machine dat ondersteunt, worden alarmen en parameters op afstand bekeken."
+            },
+            {
+              "icon": "box-seam",
+              "title": "Verzending van reserveonderdelen",
+              "text": "Originele onderdelen, bepaald aan de hand van de gegevens van uw machine en verzonden vanuit Pune."
+            },
+            {
+              "icon": "file-earmark-text",
+              "title": "Servicedossiers",
+              "text": "Bezoekrapporten en machinehistorie worden voor elke installatie bijgehouden."
+            }
+          ]
+        },
+        {
+          "type": "steps",
+          "id": "process",
+          "eyebrow": "Wanneer u belt",
+          "heading": "Wat er gebeurt nadat u een verzoek heeft ingediend",
+          "items": [
+            {
+              "title": "Bellen of mailen",
+              "text": "Gebruik het gratis servicenummer of info@hytengineering.com. Vermeld het machinemodel en het serienummer."
+            },
+            {
+              "title": "Geregistreerd en toegewezen",
+              "text": "De servicedesk registreert het verzoek en wijst een engineer toe."
+            },
+            {
+              "title": "Eerste diagnose",
+              "text": "De engineer bespreekt symptomen en alarmen met uw team, waar mogelijk op afstand."
+            },
+            {
+              "title": "Actie",
+              "text": "Telefonisch advies, verzending van onderdelen of een bezoek van een engineer – wat het probleem het snelst oplost."
+            },
+            {
+              "title": "Afronding",
+              "text": "U ontvangt een rapport en het verzoek wordt gesloten zodra u bevestigt dat de machine draait."
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "id": "before-you-call",
+          "heading": "Houd dit bij de hand wanneer u contact met ons opneemt",
+          "cols": 2,
+          "items": [
+            "Machinemodel en serienummer",
+            "Naam en plaats van de locatie",
+            "Naam en telefoonnummer van een contactpersoon op locatie",
+            "Beschrijving van het probleem en eventuele alarmmeldingen",
+            "Of de machine stilstaat",
+            "Uw contractvorm, als u een AMC, CMC of andere overeenkomst heeft"
+          ]
+        },
+        {
+          "type": "contact",
+          "id": "contact",
+          "heading": "Neem contact op met de service van HYT"
+        },
+        {
+          "type": "cta",
+          "heading": "Hulp nodig bij een HYT-machine?",
+          "text": "Stuur ons de machinegegevens en uw vraag via het contactformulier, of bel het gratis servicenummer als de machine stilstaat.",
+          "primary": {
+            "label": "Neem contact op",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Onderhoudsdiensten",
+            "page": "maintenance"
+          }
+        }
+      ]
+    }
+  }
+}

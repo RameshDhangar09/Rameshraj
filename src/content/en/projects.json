@@ -1,0 +1,378 @@
+{
+  "pages": {
+    "turnkey-project": {
+      "nav": "Turnkey Projects",
+      "title": "Turnkey (EPC) Projects for Railway Workshops",
+      "description": "Turnkey (EPC) projects for railway wheel shops and depots: layout, civil interface, machines, installation, training and lifetime support from one partner.",
+      "eyebrow": "Turnkey Projects",
+      "h1": "Turnkey (EPC) Projects for wheel shops and depots",
+      "lede": "When a railway or metro operator needs a complete wheel shop or depot facility, HYT takes responsibility from first layout to running workshop – one contract, one schedule, one accountable partner.",
+      "summary": "Complete wheel shops and depot facilities, from layout and civil interface to machines, commissioning and lifetime support.",
+      "blocks": [
+        {
+          "type": "text",
+          "id": "overview",
+          "eyebrow": "What turnkey means",
+          "heading": "One partner from empty shed to running workshop",
+          "paragraphs": [
+            "A wheel shop or depot is more than a collection of machines. Wheelsets must flow from arrival to release without bottlenecks, pits and foundations must match machine designs to the millimetre, and power, compressed air and data must reach the right place at the right time. When these pieces are bought from different suppliers, the gaps between them become the client's problem.",
+            "In a turnkey – or EPC (engineering, procurement and construction) – project, HYT takes responsibility for those gaps. We study your fleet and throughput, design the process and layout, supply and integrate the machines, coordinate or execute the civil interface, and commission the complete facility on your own wheelsets.",
+            "Because we design and build the core machines ourselves, the process, the foundations and the equipment are engineered together from the start. That reduces interface risk, shortens commissioning and gives you a single point of accountability for performance."
+          ],
+          "image": "projects/railway-wheel-shop",
+          "image_alt": "Sample illustration of a railway wheel shop with wheel lathes and wheelsets on transfer tracks",
+          "layout": "image-right"
+        },
+        {
+          "type": "cards",
+          "id": "solutions",
+          "eyebrow": "Turnkey Solutions",
+          "heading": "Facilities we design, equip and commission",
+          "intro": "Six facility types, one approach: a single partner responsible for layout, machines, installation and lifetime support.",
+          "cols": 3,
+          "items": [
+            {
+              "page": "ts-wheel-shops",
+              "image": "projects/railway-wheel-shop"
+            },
+            {
+              "page": "ts-maintenance-depots",
+              "image": "projects/metro-depot"
+            },
+            {
+              "page": "ts-rolling-stock-facilities",
+              "image": "industries/rolling-stock-manufacturers"
+            },
+            {
+              "page": "ts-wheelset-plants",
+              "image": "products/wheel-press"
+            },
+            {
+              "page": "ts-wheel-machining-lines",
+              "image": "products/vertical-turning-boring-machine"
+            },
+            {
+              "page": "ts-axle-machining-lines",
+              "image": "products/axle-turning-lathe"
+            }
+          ]
+        },
+        {
+          "type": "features",
+          "id": "scope",
+          "eyebrow": "Typical scope",
+          "heading": "What a turnkey wheel shop or depot project can include",
+          "intro": "Every project is scoped to the client's needs. The elements below can be combined as required.",
+          "cols": 3,
+          "items": [
+            {
+              "icon": "diagram-3",
+              "title": "Process and layout engineering",
+              "text": "Fleet analysis, capacity planning and a wheelset flow that avoids bottlenecks and unnecessary handling."
+            },
+            {
+              "icon": "bricks",
+              "title": "Civil and building interface",
+              "text": "Pit, foundation and rail-support design, coordinated with your civil contractor or executed within our scope."
+            },
+            {
+              "icon": "gear-wide-connected",
+              "title": "Machines",
+              "text": "Wheel lathes, vertical turning machines, axle lathes, wheel presses, measuring stations and balancing machines."
+            },
+            {
+              "icon": "arrows-move",
+              "title": "Wheelset handling",
+              "text": "Transfer and handling arrangements that move heavy wheelsets safely between workstations."
+            },
+            {
+              "icon": "plug",
+              "title": "Utilities and integration",
+              "text": "Power distribution, compressed air, chip handling and data connections planned as one system."
+            },
+            {
+              "icon": "people",
+              "title": "Commissioning and support",
+              "text": "Facility-level acceptance, staff training and long-term maintenance contracts."
+            }
+          ]
+        },
+        {
+          "type": "steps",
+          "id": "phases",
+          "eyebrow": "Project phases",
+          "heading": "How a turnkey project is delivered",
+          "intro": "Each phase ends with a clear deliverable that you review and approve before the next begins.",
+          "items": [
+            {
+              "title": "Requirement study",
+              "text": "Fleet mix, wheel and axle types, throughput targets and site constraints are analysed with your team."
+            },
+            {
+              "title": "Concept and layout",
+              "text": "Process flow, machine selection and building layout are developed and agreed."
+            },
+            {
+              "title": "Detailed engineering",
+              "text": "Machine designs, pit and foundation drawings, utilities and interfaces are finalised."
+            },
+            {
+              "title": "Manufacturing and procurement",
+              "text": "Machines are built and tested at our works in Pune; bought-out equipment is sourced and inspected."
+            },
+            {
+              "title": "Site preparation",
+              "text": "Civil works are executed or supervised, and readiness is checked before machines are shipped."
+            },
+            {
+              "title": "Installation and integration",
+              "text": "Machines, handling and utilities are installed, connected and tested as a system."
+            },
+            {
+              "title": "Commissioning and acceptance",
+              "text": "The facility is proven on your own wheelsets against agreed performance criteria."
+            },
+            {
+              "title": "Training, handover and support",
+              "text": "Staff are trained, documentation is handed over and long-term [maintenance](page:maintenance) begins."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "id": "why-hyt",
+          "eyebrow": "Why it matters",
+          "heading": "Fewer interfaces, less risk, earlier output",
+          "paragraphs": [
+            "Most delays in workshop projects happen at interfaces: a pit that does not match the machine, a power supply that arrives late, a handling system that cannot reach a workstation. A single turnkey partner designs those interfaces out before construction begins.",
+            "For [railways](page:ind-railways), [metros](page:ind-metros) and [rolling stock manufacturers](page:ind-rolling-stock), the result is a facility that reaches production sooner and performs as planned – with one organisation answerable for it."
+          ],
+          "bullets": [
+            "Process, foundations and machines engineered together",
+            "One programme and one point of contact for the whole facility",
+            "Lifetime support from the company that built the machines"
+          ],
+          "image": "projects/pit-foundation-civil-works",
+          "image_alt": "Sample illustration of pit and foundation works being prepared for wheel lathes in a new depot",
+          "layout": "image-left"
+        },
+        {
+          "type": "cards",
+          "id": "projects",
+          "eyebrow": "Projects and solutions",
+          "heading": "See our work",
+          "cols": 3,
+          "items": [
+            {
+              "page": "executed-projects",
+              "image": "projects/emu-car-shed"
+            },
+            {
+              "page": "under-execution",
+              "image": "projects/metro-depot"
+            },
+            {
+              "page": "ts-wheel-shops",
+              "image": "projects/wheel-shop-automation-line"
+            }
+          ]
+        },
+        {
+          "type": "cta",
+          "heading": "Planning a new wheel shop or depot?",
+          "text": "Share your fleet, throughput targets and site plans. Our project engineers will outline a concept and the steps to deliver it.",
+          "primary": {
+            "label": "Discuss Your Requirement",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Explore Our Products",
+            "page": "products"
+          }
+        }
+      ]
+    },
+    "executed-projects": {
+      "nav": "Executed Projects",
+      "title": "Executed Railway Machine Tool Projects",
+      "description": "Selected HYT projects delivered: CNC vertical turning lathes for Sanpada EMU car shed, Mumbai, and State Railway of Thailand, plus underfloor wheel lathes.",
+      "eyebrow": "Turnkey Projects",
+      "h1": "Executed projects",
+      "lede": "A selection of machines HYT has supplied to railway workshops in India and abroad. Each entry sets out the facts we are able to publish.",
+      "summary": "Machines and projects HYT has delivered for railway workshops in India and abroad.",
+      "blocks": [
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "HYT to supply the full list of approved executed projects with completion year, scope, photographs and written client permission to publish. HYT must also confirm whether the Indian Railways contract for nine CNC underfloor wheel lathes is complete (Executed) or still in progress (Under Execution)."
+        },
+        {
+          "type": "text",
+          "id": "overview",
+          "eyebrow": "Our record",
+          "heading": "Machines at work in railway workshops",
+          "paragraphs": [
+            "Our projects range from a single machine added to an existing shed to fleets of wheel lathes for a national railway. In every case the measure of success is the same: wheelsets restored accurately, on time, for years after handover.",
+            "The projects below are presented with the client's name, location and scope as far as we are able to publish them. For projects that are still in progress, see [Projects Under Execution](page:under-execution). To discuss a reference installation relevant to your fleet, [contact us](page:contact-us)."
+          ]
+        },
+        {
+          "type": "projects",
+          "id": "project-list",
+          "heading": "Executed projects",
+          "items": [
+            {
+              "id": "sanpada-emu-car-shed",
+              "title": "CNC vertical turning lathe – Sanpada EMU car shed",
+              "client": "Sanpada EMU car shed",
+              "location": "Mumbai, India",
+              "status_key": "executed",
+              "image": "projects/emu-car-shed",
+              "image_alt": "Sample illustration of an EMU car shed with suburban trains under maintenance",
+              "scope": [
+                "Supply of a CNC vertical turning lathe",
+                "Machine designed and built at HYT's works in Pune",
+                "In-house wheel machining capacity for the car shed"
+              ],
+              "text": "Suburban EMU fleets run intensive timetables, so every wheelset returned to service quickly counts. A CNC vertical turning lathe gives a car shed its own capacity to machine wheels to profile with accuracy and repeatability, rather than depending on external workshops.",
+              "products": [
+                "vertical-turning-boring-machine"
+              ]
+            },
+            {
+              "id": "state-railway-of-thailand",
+              "title": "CNC vertical turret lathe – State Railway of Thailand",
+              "client": "State Railway of Thailand",
+              "location": "Bangkok, Thailand",
+              "status_key": "executed",
+              "image": "projects/railway-wheel-shop",
+              "image_alt": "Sample illustration of a railway wheel shop with a vertical turning machine",
+              "scope": [
+                "Supply of a CNC vertical turret lathe",
+                "Installation at the client's facility in Bangkok",
+                "Machine designed and built at HYT's works in Pune"
+              ],
+              "text": "HYT supplied and installed a CNC vertical turret lathe for the State Railway of Thailand in Bangkok. The project shows how HYT machines and engineering support reach railway operators beyond India.",
+              "products": [
+                "vertical-turning-boring-machine"
+              ]
+            },
+            {
+              "id": "indian-railways-underfloor-wheel-lathes",
+              "title": "Nine CNC underfloor wheel lathes – Indian Railways",
+              "client": "Indian Railways",
+              "location": "India",
+              "status_key": "executed",
+              "image": "products/underfloor-wheel-lathe-yul-08",
+              "image_alt": "HYT CNC Underfloor Wheel Lathe (YUL-08)",
+              "scope": [
+                "Contract to supply nine CNC underfloor wheel lathes",
+                "Machines that re-profile both wheels of a wheelset without removing it from the vehicle",
+                "Typical scope for underfloor lathes: pit drawings, installation, commissioning and training"
+              ],
+              "text": "Indian Railways awarded HYT a contract to supply nine CNC underfloor wheel lathes. Underfloor lathes restore wheel profiles while the wheelset stays in the vehicle, so locomotives and coaches return to traffic without bogie removal.",
+              "products": [
+                "underfloor-wheel-lathe"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "cta",
+          "heading": "Planning a similar project?",
+          "text": "Tell us about your fleet and workshop. We will recommend the right machines and share relevant experience.",
+          "primary": {
+            "label": "Discuss Your Requirement",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Projects Under Execution",
+            "page": "under-execution"
+          }
+        }
+      ]
+    },
+    "under-execution": {
+      "nav": "Projects Under Execution",
+      "title": "Railway Projects Under Execution",
+      "description": "HYT projects in progress: fully automatic CNC underfloor wheel lathes for NCRTC and a new CNC tandem underfloor wheel lathe for Delhi Metro Rail Corporation.",
+      "eyebrow": "Turnkey Projects",
+      "h1": "Projects under execution",
+      "lede": "Current HYT projects for India's metro and regional rapid transit operators – machines that will keep new and growing fleets on profile.",
+      "summary": "Current HYT projects, including underfloor wheel lathes for NCRTC and a tandem underfloor wheel lathe for DMRC.",
+      "blocks": [
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "HYT to confirm the current status, scope and publishable details (photographs, client permission) for each project. Internal note: when a project is completed, move its section to Executed Projects."
+        },
+        {
+          "type": "text",
+          "id": "overview",
+          "eyebrow": "In progress",
+          "heading": "Machines for high-frequency urban fleets",
+          "paragraphs": [
+            "Metro and rapid transit trains run frequent services with short turnarounds. Their wheels wear quickly and must be restored without taking trains out of service for long. Underfloor wheel lathes, single or in tandem, are built for exactly that task.",
+            "Projects of this kind typically follow the full HYT process: engineering, manufacture at our works in Pune, site preparation, installation, commissioning and training. Completed projects are listed under [Executed Projects](page:executed-projects)."
+          ]
+        },
+        {
+          "type": "projects",
+          "id": "project-list",
+          "heading": "Projects under execution",
+          "items": [
+            {
+              "id": "ncrtc-underfloor-wheel-lathes",
+              "title": "Fully automatic CNC underfloor wheel lathes – NCRTC",
+              "client": "National Capital Region Transport Corporation (NCRTC)",
+              "location": "National Capital Region, India",
+              "status_key": "under-execution",
+              "image": "projects/metro-depot",
+              "image_alt": "Sample illustration of a rapid transit depot with a train over an underfloor wheel lathe",
+              "scope": [
+                "Letter of Acceptance issued to HYT for fully automatic CNC underfloor wheel lathes",
+                "Re-profiling of wheelsets in the vehicle, without bogie removal",
+                "Typical scope for underfloor lathes: pit drawings, installation, commissioning and training"
+              ],
+              "text": "National Capital Region Transport Corporation has issued HYT a Letter of Acceptance for fully automatic CNC underfloor wheel lathes. For a regional rapid transit fleet, automatic measurement and machining cycles help keep re-profiling fast, consistent and economical with wheel material.",
+              "products": [
+                "underfloor-wheel-lathe"
+              ]
+            },
+            {
+              "id": "dmrc-tandem-underfloor-wheel-lathe",
+              "title": "New CNC tandem underfloor wheel lathe – DMRC",
+              "client": "Delhi Metro Rail Corporation (DMRC)",
+              "location": "Delhi, India",
+              "status_key": "under-execution",
+              "image": "products/tandem-underfloor-wheel-lathe-yul-12t",
+              "image_alt": "HYT CNC Tandem Underfloor Wheel Lathe (YUL-12T)",
+              "scope": [
+                "Award for a new CNC tandem underfloor wheel lathe",
+                "Two synchronised machines that re-profile both wheelsets of a bogie in one setting",
+                "Typical scope for underfloor lathes: pit drawings, installation, commissioning and training"
+              ],
+              "text": "Delhi Metro Rail Corporation has awarded HYT a contract for a new CNC tandem underfloor wheel lathe. A tandem machine re-profiles both wheelsets of a bogie at once, reducing the time each train spends on the lathe.",
+              "products": [
+                "tandem-underfloor-wheel-lathe"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "cta",
+          "heading": "Expanding your depot's re-profiling capacity?",
+          "text": "Talk to our application engineers about single or tandem underfloor lathes for your fleet.",
+          "primary": {
+            "label": "Discuss Your Requirement",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Executed Projects",
+            "page": "executed-projects"
+          }
+        }
+      ]
+    }
+  }
+}

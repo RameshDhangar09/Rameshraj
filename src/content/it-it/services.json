@@ -1,0 +1,2244 @@
+{
+  "pages": {
+    "services": {
+      "nav": "Servizi",
+      "title": "Servizi e assistenza per macchine utensili ferroviarie",
+      "description": "Installazione, contratti di manutenzione, ricambi, retrofit, riparazione, trasferimento, wet leasing e formazione per torni per ruote e macchine d'officina HYT.",
+      "eyebrow": "Servizi",
+      "h1": "Servizi che mantengono produttive le macchine utensili ferroviarie per tutta la loro vita",
+      "lede": "Un tornio per ruote ripaga il proprio valore nel corso di decenni, non il giorno della consegna. HYT installa, manutiene, ripara, ammoderna e può persino gestire le proprie macchine, affinché la Sua officina possa riprofilare le ruote ogni volta che la flotta ne ha bisogno.",
+      "summary": "Installazione, contratti di manutenzione, ricambi, ammodernamenti, riparazione, trasferimento, wet leasing e formazione per le macchine HYT.",
+      "blocks": [
+        {
+          "type": "text",
+          "eyebrow": "Perché l'assistenza è importante",
+          "heading": "Quando il tornio per ruote si ferma, i treni aspettano",
+          "paragraphs": [
+            "Un tornio per ruote si trova sul percorso critico della disponibilità della flotta. Se è fuori servizio, le sale montate con sfaccettature o bordini sottili non possono essere ripristinate, i veicoli restano fermi e l'officina accumula ritardi rispetto al piano di manutenzione. Il costo di una giornata persa si misura in treni, non in ore macchina.",
+            "Progettiamo e costruiamo le nostre macchine internamente, quindi i nostri tecnici dell'assistenza le conoscono dai bulloni di fondazione al programma CNC. Questa conoscenza abbrevia la diagnosi, consente riparazioni corrette al primo intervento e ci permette di consigliare i ricambi e gli ammodernamenti che prolungano davvero la vita della macchina.",
+            "Ciascuno dei servizi seguenti può essere richiesto singolarmente o combinato in un contratto a lungo termine. Ci descriva come opera la Sua officina e Le proporremo il livello di assistenza adeguato – né più, né meno."
+          ],
+          "bullets": [
+            "Assistenza dagli ingegneri che hanno progettato e costruito la macchina",
+            "Ambiti contrattuali chiari, per sapere sempre cosa è coperto",
+            "Ricambi originali identificati in base alla documentazione costruttiva della Sua macchina"
+          ],
+          "image": "company/service-maintenance",
+          "image_alt": "Illustrazione di esempio di tecnici dell'assistenza HYT che eseguono la manutenzione di un tornio per ruote",
+          "layout": "image-right"
+        },
+        {
+          "type": "cards",
+          "id": "all-services",
+          "eyebrow": "I nostri servizi",
+          "heading": "Scelga l'assistenza di cui la Sua officina ha bisogno",
+          "intro": "Dal primo disegno delle fondazioni fino al trasferimento o all'ammodernamento decenni dopo, ogni servizio risponde a un momento specifico nella vita della macchina.",
+          "cols": 4,
+          "items": [
+            {
+              "page": "installation-commissioning",
+              "icon": "tools"
+            },
+            {
+              "page": "maintenance",
+              "icon": "clipboard-check"
+            },
+            {
+              "page": "retro-fitment-upgradation",
+              "icon": "arrow-repeat"
+            },
+            {
+              "page": "repair",
+              "icon": "wrench-adjustable"
+            },
+            {
+              "page": "shifting",
+              "icon": "truck"
+            },
+            {
+              "page": "wet-leasing",
+              "icon": "cash-coin"
+            },
+            {
+              "page": "training",
+              "icon": "mortarboard"
+            },
+            {
+              "page": "service-centers",
+              "icon": "headset"
+            }
+          ]
+        },
+        {
+          "type": "cards",
+          "id": "maintenance-contracts",
+          "eyebrow": "Servizi di manutenzione",
+          "heading": "Sei modi per contrattualizzare la manutenzione",
+          "intro": "Dall'assistenza su chiamata fino alla gestione completa della macchina da parte di personale HYT. Confronti ambiti, ricambi e responsabilità nella pagina [Servizi di manutenzione](page:maintenance#compare).",
+          "cols": 3,
+          "items": [
+            {
+              "page": "operation-and-maintenance",
+              "icon": "people"
+            },
+            {
+              "page": "annual-maintenance-contract",
+              "icon": "calendar-check"
+            },
+            {
+              "page": "comprehensive-annual-maintenance-contract",
+              "icon": "shield-check"
+            },
+            {
+              "page": "operation-contract",
+              "icon": "person-gear"
+            },
+            {
+              "page": "service-contract",
+              "icon": "telephone"
+            },
+            {
+              "page": "spare-supply",
+              "icon": "box-seam"
+            }
+          ]
+        },
+        {
+          "type": "steps",
+          "eyebrow": "Ciclo di vita della macchina",
+          "heading": "Come La supportiamo lungo tutto il ciclo di vita della macchina",
+          "intro": "L'assistenza adeguata cambia man mano che una macchina passa dal progetto alla produzione fino alla metà della sua vita utile. Pianifichiamo ogni fase fin dall'inizio.",
+          "items": [
+            {
+              "title": "Prima della consegna",
+              "text": "Disegni di fondazioni e fossa, requisiti impiantistici e un piano di formazione concordati per tempo, affinché il sito sia pronto all'arrivo della macchina."
+            },
+            {
+              "title": "Installazione e messa in servizio",
+              "text": "Montaggio, allineamento e prove sulle Sue sale montate, seguiti da una consegna documentata. [Per saperne di più](page:installation-commissioning)."
+            },
+            {
+              "title": "Primo periodo di produzione",
+              "text": "Affiancamento degli operatori, un elenco consigliato di ricambi per il primo anno e risposte rapide mentre il Suo team acquisisce sicurezza."
+            },
+            {
+              "title": "Manutenzione programmata",
+              "text": "Visite preventive e copertura dei guasti nell'ambito di un contratto [AMC](page:annual-maintenance-contract), [CMC](page:comprehensive-annual-maintenance-contract) o [O&M](page:operation-and-maintenance)."
+            },
+            {
+              "title": "Rinnovamento a metà vita",
+              "text": "[Retrofit](page:retro-fitment-upgradation) di CNC, azionamenti e sistemi di misura, [riparazioni](page:repair) importanti o [trasferimento](page:shifting) in un nuovo deposito."
+            },
+            {
+              "title": "Competenze sempre aggiornate",
+              "text": "[Formazione](page:training) di aggiornamento per il nuovo personale e programmi di profilo aggiornati con l'evoluzione della Sua flotta."
+            }
+          ]
+        },
+        {
+          "type": "features",
+          "eyebrow": "Come lavoriamo",
+          "heading": "Cosa può aspettarsi dall'assistenza HYT",
+          "cols": 4,
+          "items": [
+            {
+              "icon": "person-check",
+              "title": "Un unico referente",
+              "text": "Le richieste vengono registrate e seguite fino alla chiusura dal nostro team di assistenza di Pune."
+            },
+            {
+              "icon": "file-earmark-text",
+              "title": "Interventi documentati",
+              "text": "Ogni visita si conclude con un rapporto scritto su riscontri, lavori eseguiti e raccomandazioni."
+            },
+            {
+              "icon": "box-seam",
+              "title": "Ricambi originali",
+              "text": "Ricambi abbinati alla documentazione costruttiva della Sua macchina, non a un catalogo generico."
+            },
+            {
+              "icon": "telephone",
+              "title": "Numero verde",
+              "text": "Chiami il numero gratuito 1800 2100 456 indicando il numero di matricola della macchina per contattare il service desk."
+            }
+          ]
+        },
+        {
+          "type": "cta",
+          "heading": "Ci dica di cosa ha bisogno la Sua macchina",
+          "text": "Che si tratti di una nuova installazione, di un guasto o del rinnovo di un contratto, ci indichi tipo di macchina, numero di matricola e ubicazione. Le invieremo una proposta chiara.",
+          "primary": {
+            "label": "Discuta la Sua esigenza",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Rete di assistenza post-vendita",
+            "page": "service-centers"
+          }
+        }
+      ]
+    },
+    "installation-commissioning": {
+      "nav": "Installazione e messa in servizio",
+      "title": "Installazione e messa in servizio di torni per ruote",
+      "description": "Disegni delle fondazioni, supervisione del montaggio, allineamento, prove sulle Sue sale montate e consegna documentata per torni per ruote e macchine HYT.",
+      "eyebrow": "Servizi",
+      "h1": "Installazione e messa in servizio di macchine utensili ferroviarie",
+      "lede": "La precisione di una macchina si stabilisce il giorno in cui viene installata. I nostri ingegneri la accompagnano dalla fondazione alla produzione collaudata sulle Sue sale montate e la consegnano con la documentazione completa.",
+      "summary": "Dai disegni delle fondazioni alle prove di collaudo sulle Sue sale montate – installazione e messa in servizio a cura degli ingegneri che hanno costruito la macchina.",
+      "blocks": [
+        {
+          "type": "text",
+          "id": "overview",
+          "eyebrow": "Perché è importante",
+          "heading": "La precisione inizia dalla fondazione",
+          "paragraphs": [
+            "Un tornio in fossa fa parte dell'edificio: si trova in una fossa sotto il binario e deve essere allineato con le rotaie sovrastanti. Un tornio a portale o a pavimento richiede una fondazione piana e stabile che non ceda sotto il peso delle sale montate. Piccoli errori in questa fase si manifestano per anni sotto forma di scostamenti di profilo, vibrazioni e usura precoce.",
+            "Per questo HYT considera l'installazione un lavoro di ingegneria, non una semplice consegna. Emettiamo i disegni di fondazioni e fossa nelle prime fasi del progetto, verifichiamo il sito prima della spedizione della macchina e inviamo ingegneri che conoscono il progetto della macchina per montarla, allinearla e collaudarla.",
+            "Il risultato è una macchina che soddisfa i criteri di collaudo sui Suoi veicoli e sulle Sue sale montate, e un team che sa utilizzarla fin dal primo turno."
+          ],
+          "image": "projects/installation-commissioning",
+          "image_alt": "Illustrazione di esempio di ingegneri che allineano un modulo di un tornio per ruote durante l'installazione in officina",
+          "layout": "image-right"
+        },
+        {
+          "type": "steps",
+          "id": "process",
+          "eyebrow": "Il nostro processo",
+          "heading": "Dalla consegna al passaggio di consegne in sette fasi",
+          "items": [
+            {
+              "title": "Pianificazione pre-installazione",
+              "text": "Disegni di fondazioni, fossa e supporti delle rotaie, oltre ai requisiti di alimentazione elettrica, aria compressa e sollevamento, trasmessi a Lei e alla Sua impresa edile."
+            },
+            {
+              "title": "Verifica di prontezza del sito",
+              "text": "I nostri ingegneri ispezionano fossa o fondazione, quote, posizioni degli ancoraggi e percorsi dei cavi prima della spedizione della macchina."
+            },
+            {
+              "title": "Ricevimento e posizionamento",
+              "text": "I gruppi della macchina vengono ispezionati all'arrivo, sollevati in posizione e collocati sulla fondazione secondo la sequenza pianificata."
+            },
+            {
+              "title": "Allineamento e livellamento",
+              "text": "Le macchine vengono livellate e, nel caso dei torni in fossa, allineate all'asse del binario e al piano del ferro prima dell'inghisaggio e del fissaggio definitivo."
+            },
+            {
+              "title": "Collegamenti",
+              "text": "Vengono collegati gli impianti elettrici, idraulici, pneumatici e di evacuazione trucioli, e vengono testati gli interblocchi di sicurezza."
+            },
+            {
+              "title": "Prove",
+              "text": "Alle prove a vuoto segue la lavorazione sulle Sue sale montate, con i risultati misurati rispetto alle tolleranze di profilo concordate."
+            },
+            {
+              "title": "Formazione e consegna",
+              "text": "Operatori e manutentori vengono formati, la documentazione viene consegnata e il verbale di collaudo viene firmato congiuntamente."
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "id": "responsibilities",
+          "heading": "Chi fa cosa",
+          "intro": "Una chiara ripartizione delle responsabilità evita ritardi in cantiere. Di seguito una ripartizione tipica; l'ambito esatto viene confermato in ogni contratto.",
+          "columns": [
+            "Attività",
+            "HYT",
+            "Cliente"
+          ],
+          "rows": [
+            [
+              "Disegni di fondazioni e fossa",
+              "Prepara ed emette",
+              "Esamina e approva"
+            ],
+            [
+              "Opere civili (fossa, fondazione, supporti delle rotaie)",
+              "Fornisce consulenza e verifica i punti di interfaccia",
+              "Esegue tramite la propria impresa edile"
+            ],
+            [
+              "Alimentazione elettrica fino al sezionatore della macchina",
+              "Specifica il fabbisogno",
+              "Fornisce"
+            ],
+            [
+              "Montaggio, allineamento e collegamenti",
+              "Esegue o supervisiona",
+              "Garantisce l'accesso al sito e il supporto di sollevamento concordato"
+            ],
+            [
+              "Veicoli o sale montate di prova",
+              "Lavora e misura",
+              "Mette a disposizione veicoli o sale montate"
+            ],
+            [
+              "Formazione",
+              "Eroga in sede",
+              "Designa operatori e manutentori"
+            ],
+            [
+              "Collaudo",
+              "Dimostra le prestazioni",
+              "Presenzia e approva"
+            ]
+          ],
+          "note": "Nei progetti chiavi in mano è possibile trasferire a HYT le opere civili e le altre interfacce – vedere Progetti chiavi in mano (EPC)."
+        },
+        {
+          "type": "features",
+          "id": "included",
+          "eyebrow": "Incluso nella messa in servizio",
+          "heading": "Cosa riceve alla consegna",
+          "cols": 3,
+          "items": [
+            {
+              "icon": "rulers",
+              "title": "Controlli geometrici",
+              "text": "Verifiche di allineamento e precisione registrate rispetto ai criteri di collaudo della macchina."
+            },
+            {
+              "icon": "cpu",
+              "title": "Profili caricati",
+              "text": "I profili ruota da Lei specificati memorizzati nel CNC e validati su sale montate reali."
+            },
+            {
+              "icon": "shield-check",
+              "title": "Sicurezza verificata",
+              "text": "Protezioni, interblocchi e arresti di emergenza testati e documentati."
+            },
+            {
+              "icon": "journal-text",
+              "title": "Documentazione",
+              "text": "Manuali d'uso e manutenzione, schemi elettrici e idraulici ed elenco dei ricambi consigliati."
+            },
+            {
+              "icon": "mortarboard",
+              "title": "Formazione iniziale",
+              "text": "Sessioni pratiche per operatori e personale di manutenzione durante la messa in servizio."
+            },
+            {
+              "icon": "calendar-check",
+              "title": "Inizio della garanzia",
+              "text": "Un verbale di collaudo firmato che segna l'inizio del periodo di garanzia."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "id": "live-depots",
+          "eyebrow": "Lavorare in depositi operativi",
+          "heading": "Installare senza fermare l'officina",
+          "paragraphs": [
+            "Molte installazioni avvengono in depositi che devono continuare a funzionare. Realizzare una fossa sotto un binario in esercizio, deviare cavi o portare gruppi pesanti attraverso un capannone trafficato richiede un'attenta pianificazione con i Suoi responsabili della circolazione e della sicurezza.",
+            "Concordiamo in anticipo finestre di lavoro, procedure di sezionamento e piani di sollevamento, e manteniamo il più ridotto possibile l'ingombro delle nostre attività. Quando si tratta di un impianto completo, il nostro team [Progetti chiavi in mano (EPC)](page:turnkey-project) può assumersi anche la responsabilità delle opere civili e delle interfacce. Lo spostamento di una macchina esistente in una nuova sede è coperto dal nostro servizio di [trasferimento e spostamento di SPM](page:shifting)."
+          ],
+          "image": "projects/pit-foundation-civil-works",
+          "image_alt": "Illustrazione di esempio di una fossa in cemento armato in preparazione sotto un binario di deposito per un tornio per ruote",
+          "layout": "image-left"
+        },
+        {
+          "type": "faq",
+          "id": "faq",
+          "heading": "Domande frequenti",
+          "items": [
+            {
+              "q": "Quando dovremmo coinvolgere HYT?",
+              "a": "Non appena la macchina viene ordinata – idealmente mentre il layout del deposito è ancora in fase di definizione. I disegni di fossa e fondazioni influenzano progetto e programma delle opere civili, quindi un accordo tempestivo fa risparmiare tempo in seguito."
+            },
+            {
+              "q": "Chi esegue le opere civili?",
+              "a": "Di norma la Sua impresa edile, sulla base dei disegni HYT. Verifichiamo i punti di interfaccia prima dell'arrivo della macchina. In un progetto chiavi in mano le opere civili possono essere incluse nella fornitura HYT."
+            },
+            {
+              "q": "Quanto dura la messa in servizio?",
+              "a": "Dipende dal tipo di macchina, dalla prontezza del sito e dalla disponibilità di sale montate di prova. Forniamo un programma realistico insieme all'offerta e lo aggiorniamo dopo la verifica di prontezza del sito."
+            },
+            {
+              "q": "La formazione degli operatori fa parte della messa in servizio?",
+              "a": "Sì. La formazione iniziale per operatori e personale di manutenzione viene erogata durante la messa in servizio. Programmi estesi o di aggiornamento sono disponibili tramite il nostro servizio di [Formazione](page:training)."
+            },
+            {
+              "q": "Cosa succede dopo la consegna?",
+              "a": "La Sua macchina entra nel periodo di garanzia. Molti clienti proseguono poi con un [contratto di manutenzione annuale (AMC)](page:annual-maintenance-contract) o un [contratto di manutenzione completo (CMC)](page:comprehensive-annual-maintenance-contract)."
+            }
+          ]
+        },
+        {
+          "type": "cta",
+          "heading": "Sta pianificando l'installazione di una nuova macchina?",
+          "text": "Ci invii il layout del Suo deposito e la macchina che sta valutando. Le diremo di cosa ha bisogno il sito e quando.",
+          "primary": {
+            "label": "Discuta la Sua esigenza",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Scopra i nostri prodotti",
+            "page": "products"
+          }
+        }
+      ]
+    },
+    "maintenance": {
+      "nav": "Servizi di manutenzione",
+      "title": "Contratti di manutenzione per torni per ruote",
+      "description": "Confronti i contratti di manutenzione HYT – O&M, AMC, CMC, conduzione, assistenza su chiamata e ricambi – e scelga la copertura giusta per il Suo tornio.",
+      "eyebrow": "Servizi",
+      "h1": "Servizi e contratti di manutenzione",
+      "lede": "Sei modi per mantenere disponibile la Sua macchina HYT, da un contratto di assistenza su chiamata fino alla conduzione e manutenzione complete a cura del nostro team. Confronti gli ambiti e scelga ciò che si adatta al Suo deposito.",
+      "summary": "Confronti i contratti O&M, AMC, CMC, di conduzione, di assistenza e di fornitura ricambi e scelga il livello di copertura adeguato.",
+      "blocks": [
+        {
+          "type": "text",
+          "id": "overview",
+          "eyebrow": "Manutenzione programmata",
+          "heading": "La manutenzione programmata costa meno del fermo macchina",
+          "paragraphs": [
+            "Un tornio per ruote lavora duramente: sale montate pesanti, battistrada duri e usurati, trucioli abrasivi e turni lunghi. Guide, rulli, impianto idraulico e sistemi di misura richiedono tutti un'attenzione regolare. Se trascurati, i piccoli difetti diventano guasti – di solito proprio quando la flotta ha più bisogno della macchina.",
+            "I nostri contratti di manutenzione mettono questa attenzione in calendario. Si differenziano per tre aspetti: chi conduce la macchina, se i ricambi sono inclusi e come viene remunerato il lavoro. Scelga la combinazione adatta alle competenze interne, al Suo modello di budget e a quanto la macchina sia critica per la disponibilità della flotta."
+          ],
+          "image": "company/service-maintenance",
+          "image_alt": "Illustrazione di esempio di un tecnico che ispeziona la centralina idraulica di un tornio per ruote durante una visita di manutenzione preventiva",
+          "layout": "image-right"
+        },
+        {
+          "type": "cards",
+          "id": "contracts",
+          "eyebrow": "Tipi di contratto",
+          "heading": "I nostri servizi di manutenzione",
+          "cols": 3,
+          "items": [
+            {
+              "page": "operation-and-maintenance",
+              "icon": "people"
+            },
+            {
+              "page": "annual-maintenance-contract",
+              "icon": "calendar-check"
+            },
+            {
+              "page": "comprehensive-annual-maintenance-contract",
+              "icon": "shield-check"
+            },
+            {
+              "page": "operation-contract",
+              "icon": "person-gear"
+            },
+            {
+              "page": "service-contract",
+              "icon": "telephone"
+            },
+            {
+              "page": "spare-supply",
+              "icon": "box-seam"
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "id": "compare",
+          "heading": "Tipi di contratto a confronto",
+          "intro": "Ambito tipico per ciascun tipo di contratto. Ogni contratto è personalizzato, quindi inclusioni ed esclusioni definitive sono indicate nell'offerta.",
+          "columns": [
+            "Cosa è incluso",
+            "O&M",
+            "AMC",
+            "CMC",
+            "Contratto di conduzione",
+            "Contratto di assistenza",
+            "Ricambi e supporto"
+          ],
+          "rows": [
+            [
+              "Visite di manutenzione preventiva",
+              "Sì",
+              "Sì, programmate",
+              "Sì, programmate",
+              "No – a cura del cliente o con contratto separato",
+              "Su richiesta, per singola visita",
+              "No"
+            ],
+            [
+              "Intervento su guasto",
+              "Sì",
+              "Sì",
+              "Sì",
+              "No – a cura del cliente o con contratto separato",
+              "Per chiamata",
+              "Consulenza telefonica; visite in sede quotate a parte"
+            ],
+            [
+              "Ricambi",
+              "Come concordato nel contratto",
+              "Quotati a parte",
+              "Inclusi, secondo elenco",
+              "No",
+              "Quotati a parte",
+              "Forniti su ordine"
+            ],
+            [
+              "Materiali di consumo e utensili da taglio",
+              "Come concordato nel contratto",
+              "No",
+              "No, salvo se elencati",
+              "Come concordato nel contratto",
+              "No",
+              "Forniti su ordine"
+            ],
+            [
+              "Operatori macchina",
+              "HYT",
+              "No",
+              "No",
+              "HYT",
+              "No",
+              "No"
+            ],
+            [
+              "Chi conduce la macchina",
+              "HYT",
+              "Cliente",
+              "Cliente",
+              "HYT",
+              "Cliente",
+              "Cliente"
+            ],
+            [
+              "Base di fatturazione",
+              "Canone periodico",
+              "Canone annuale fisso",
+              "Canone annuale fisso",
+              "Canone periodico",
+              "Per visita o chiamata",
+              "Per ordine"
+            ],
+            [
+              "Adatto a",
+              "Depositi senza un proprio team per il tornio",
+              "Operatori propri, costo della manodopera prevedibile",
+              "Operatori propri, budget fisso ricambi inclusi",
+              "Team di manutenzione proprio, nessun operatore formato",
+              "Basso utilizzo, solida manutenzione interna",
+              "Officine completamente autonome nella manutenzione"
+            ]
+          ],
+          "note": "Danni dovuti a incidenti, uso improprio, guasti dell'alimentazione elettrica o difetti delle opere civili, nonché ammodernamenti o retrofit, sono esclusi dall'ambito standard di tutti i contratti, salvo diverso accordo."
+        },
+        {
+          "type": "faq",
+          "id": "choosing",
+          "heading": "Quale contratto fa per noi?",
+          "items": [
+            {
+              "q": "Abbiamo operatori, ma non personale di manutenzione specializzato.",
+              "a": "Un [AMC](page:annual-maintenance-contract) Le offre visite preventive programmate e interventi su guasto. Se desidera includere anche i ricambi in un budget annuale fisso, scelga un [CMC](page:comprehensive-annual-maintenance-contract)."
+            },
+            {
+              "q": "Stiamo aprendo un nuovo deposito e non abbiamo un team formato per il tornio.",
+              "a": "Un [contratto O&M](page:operation-and-maintenance) affida a HYT la conduzione e la manutenzione della macchina. Se sarà il Suo reparto manutenzione a occuparsi della macchina, un [contratto di conduzione](page:operation-contract) copre solo gli operatori."
+            },
+            {
+              "q": "La nostra macchina è poco utilizzata e la manuteniamo con il nostro team.",
+              "a": "Un [contratto di assistenza](page:service-contract) su chiamata Le garantisce tariffe concordate per le visite quando ne ha bisogno, e il servizio [Ricambi e supporto](page:spare-supply) mantiene a portata di mano i ricambi originali."
+            },
+            {
+              "q": "I contratti possono essere combinati o modificati in seguito?",
+              "a": "Sì. Molti clienti iniziano con un contratto O&M mentre formano il proprio personale, per poi passare a un CMC o a un AMC. Rivediamo l'ambito con Lei a ogni rinnovo."
+            }
+          ]
+        },
+        {
+          "type": "cta",
+          "heading": "Non è sicuro di quale contratto sia adatto?",
+          "text": "Ci descriva la Sua macchina, il suo utilizzo e il Suo team interno. Le consiglieremo un contratto e Le invieremo un ambito di fornitura chiaro.",
+          "primary": {
+            "label": "Discuta la Sua esigenza",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Tutti i servizi",
+            "page": "services"
+          }
+        }
+      ]
+    },
+    "operation-and-maintenance": {
+      "nav": "Conduzione e manutenzione (O&M)",
+      "title": "Contratti di conduzione e manutenzione (O&M)",
+      "description": "Con un contratto O&M di HYT, i nostri operatori conducono il Suo tornio per ruote e i nostri tecnici lo manutengono, con manutenzione programmata e report.",
+      "eyebrow": "Servizi di manutenzione",
+      "h1": "Contratti di conduzione e manutenzione (O&M) per torni per ruote",
+      "lede": "Gli operatori HYT conducono la macchina e i tecnici HYT la manutengono. Lei riceve le sale montate riprofilate secondo programma, senza dover creare un proprio team specializzato per il tornio.",
+      "summary": "Gli operatori HYT conducono la Sua macchina e i tecnici HYT la manutengono – un solo contratto, un solo responsabile.",
+      "blocks": [
+        {
+          "type": "text",
+          "id": "overview",
+          "eyebrow": "Come funziona",
+          "heading": "Un unico team responsabile della produzione e dello stato della macchina",
+          "paragraphs": [
+            "Condurre bene un tornio per ruote CNC richiede più che premere il pulsante di avvio. Gli operatori devono posizionare i veicoli in sicurezza, interpretare i risultati di misura, scegliere il profilo corretto e riconoscere i primi segnali di problemi. La manutenzione della macchina richiede competenze meccaniche, idrauliche, elettriche e CNC che molti depositi non hanno al proprio interno.",
+            "Con un contratto O&M, HYT fornisce entrambe le cose. I nostri operatori lavorano secondo i Suoi turni e il Suo piano di manutenzione; i nostri tecnici mantengono la macchina in efficienza con la manutenzione programmata e intervengono in caso di guasto. Poiché la stessa organizzazione è responsabile di conduzione e manutenzione, non c'è alcuna discussione sul fatto che un fermo sia stato causato dall'operatore o dalla macchina.",
+            "Il contratto O&M è adatto a nuovi depositi che non hanno ancora formato un team per il tornio, a operatori che per scelta esternalizzano le attività specialistiche e a macchine ad alto utilizzo, dove ogni ora di disponibilità conta."
+          ],
+          "image": "projects/metro-depot",
+          "image_alt": "Illustrazione di esempio di un deposito della metropolitana con un treno posizionato sopra un tornio in fossa",
+          "layout": "image-right"
+        },
+        {
+          "type": "features",
+          "id": "included",
+          "eyebrow": "Incluso",
+          "heading": "Cosa comprende un contratto O&M",
+          "cols": 3,
+          "items": [
+            {
+              "icon": "person-workspace",
+              "title": "Conduzione della macchina",
+              "text": "Operatori HYT formati conducono la macchina secondo i turni e il carico di lavoro concordati con Lei."
+            },
+            {
+              "icon": "calendar-check",
+              "title": "Manutenzione preventiva",
+              "text": "Attività di manutenzione giornaliere, settimanali e periodiche eseguite secondo il piano di manutenzione HYT."
+            },
+            {
+              "icon": "lightning-charge",
+              "title": "Intervento su guasto",
+              "text": "I guasti vengono diagnosticati e risolti dai tecnici HYT, con escalation al nostro team di ingegneria."
+            },
+            {
+              "icon": "clipboard-data",
+              "title": "Registrazioni e report",
+              "text": "Sale montate lavorate, risultati di misura, fermi e interventi di manutenzione registrati e rendicontati."
+            },
+            {
+              "icon": "box-seam",
+              "title": "Pianificazione dei ricambi",
+              "text": "Livelli di scorta monitorati e riapprovvigionamento pianificato; fornitura dei ricambi secondo quanto definito nel contratto."
+            },
+            {
+              "icon": "shield-check",
+              "title": "Lavoro in sicurezza",
+              "text": "Attività svolte secondo le procedure di sicurezza concordate e le regole di permesso di lavoro del Suo deposito."
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "id": "not-included",
+          "heading": "Cosa non è incluso (salvo diverso accordo contrattuale)",
+          "intro": "Esclusioni chiare evitano sorprese. Di norma i seguenti elementi non rientrano nell'ambito O&M:",
+          "cols": 2,
+          "items": [
+            "Riparazioni civili e strutturali di fossa, edificio o binario",
+            "Energia elettrica, aria compressa e altri servizi fino al punto di collegamento della macchina",
+            "Manovra e movimentazione del materiale rotabile da e verso la macchina",
+            "Danni causati da incidenti, uso improprio da parte di terzi, incendio, allagamento o guasti dell'alimentazione",
+            "Ricambi e materiali di consumo oltre le quantità definite nel contratto",
+            "Retrofit, ammodernamenti o modifiche della macchina"
+          ]
+        },
+        {
+          "type": "steps",
+          "id": "process",
+          "eyebrow": "Ciclo del contratto",
+          "heading": "Come si svolge un contratto O&M",
+          "items": [
+            {
+              "title": "Definizione dell'ambito",
+              "text": "Vengono concordati turni, carico di lavoro previsto, formato della reportistica e ripartizione delle responsabilità."
+            },
+            {
+              "title": "Mobilitazione",
+              "text": "Il team HYT, gli attrezzi e i ricambi iniziali vengono messi in campo e lo stato della macchina viene registrato."
+            },
+            {
+              "title": "Conduzione quotidiana",
+              "text": "I veicoli vengono riprofilati secondo il Suo piano di manutenzione, con i risultati registrati per ogni sala montata."
+            },
+            {
+              "title": "Manutenzione programmata",
+              "text": "Gli interventi di manutenzione vengono programmati nei periodi di minor richiesta per salvaguardare la disponibilità."
+            },
+            {
+              "title": "Verifica",
+              "text": "Produzione, fermi e stato della macchina vengono analizzati con Lei a intervalli concordati."
+            },
+            {
+              "title": "Rinnovo o passaggio di consegne",
+              "text": "Il contratto viene rinnovato, oppure il Suo personale viene formato per subentrare nella conduzione."
+            }
+          ]
+        },
+        {
+          "type": "faq",
+          "id": "faq",
+          "heading": "Domande frequenti",
+          "items": [
+            {
+              "q": "In cosa differisce un contratto O&M da un contratto di conduzione?",
+              "a": "Un contratto O&M copre sia la conduzione sia la manutenzione. Un [contratto di conduzione](page:operation-contract) fornisce solo gli operatori; la manutenzione resta al Suo team oppure è affidata a un [AMC](page:annual-maintenance-contract) o [CMC](page:comprehensive-annual-maintenance-contract) separato."
+            },
+            {
+              "q": "Il nostro personale deve essere presente?",
+              "a": "Il Suo deposito resta responsabile dei movimenti del materiale rotabile, dei permessi di sicurezza e del piano di manutenzione. Un supervisore da Lei designato semplifica il coordinamento."
+            },
+            {
+              "q": "Il nostro personale può essere formato per subentrare in seguito?",
+              "a": "Sì. Un contratto O&M può includere una [formazione](page:training) strutturata, affinché il Suo team assuma gradualmente la conduzione, mentre HYT prosegue con un AMC o un CMC."
+            },
+            {
+              "q": "Come viene determinato il prezzo del contratto?",
+              "a": "Di solito come canone periodico basato su turni, carico di lavoro e ambito concordato. Formuliamo l'offerta dopo aver compreso la Sua flotta e l'operatività del deposito."
+            }
+          ]
+        },
+        {
+          "type": "cta",
+          "heading": "Discuta un contratto O&M per il Suo deposito",
+          "text": "Ci indichi la dimensione della flotta, il fabbisogno di riprofilatura e l'organizzazione dei turni. Le proporremo un team e un ambito adeguati.",
+          "primary": {
+            "label": "Discuta la Sua esigenza",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Confronti i contratti",
+            "page": "maintenance",
+            "anchor": "compare"
+          }
+        }
+      ]
+    },
+    "annual-maintenance-contract": {
+      "nav": "Contratto di manutenzione annuale (AMC)",
+      "title": "Contratto di manutenzione annuale (AMC) per macchine",
+      "description": "Il contratto di manutenzione annuale HYT copre visite preventive programmate e interventi su guasto da parte di tecnici qualificati. Ricambi quotati a parte.",
+      "eyebrow": "Servizi di manutenzione",
+      "h1": "Contratto di manutenzione annuale (AMC)",
+      "lede": "Visite preventive programmate e interventi su guasto da parte di tecnici che conoscono la Sua macchina, a un canone annuale fisso. Il Suo team conduce la macchina; noi la manteniamo in perfetta efficienza.",
+      "summary": "Visite preventive programmate e interventi su guasto a un canone annuale fisso; ricambi quotati a parte.",
+      "blocks": [
+        {
+          "type": "text",
+          "id": "overview",
+          "eyebrow": "Come funziona",
+          "heading": "Costo della manodopera prevedibile, cura programmata della macchina",
+          "paragraphs": [
+            "L'AMC è il modo più diffuso per mantenere in efficienza una macchina HYT dopo il periodo di garanzia. I Suoi operatori continuano a condurre la macchina ogni giorno. I tecnici HYT la visitano a intervalli concordati per ispezionarla, regolarla e manutenerla, e intervengono quando qualcosa non va.",
+            "Il canone copre il tempo dei nostri tecnici per il numero concordato di visite preventive e per gli interventi su guasto durante l'anno contrattuale. I ricambi non sono inclusi: quando serve un componente, Le indichiamo quale, perché e quanto costa, e lo forniamo su Suo ordine. Se preferisce includere anche i ricambi in un budget fisso, consideri il [contratto di manutenzione completo (CMC)](page:comprehensive-annual-maintenance-contract).",
+            "Le visite regolari individuano l'usura prima che provochi un guasto, mantengono la precisione di lavorazione entro i limiti e creano uno storico dell'assistenza utile per pianificare ammodernamenti o sostituzioni."
+          ],
+          "image": "company/service-maintenance",
+          "image_alt": "Illustrazione di esempio di un tecnico HYT che controlla le slitte di un tornio per ruote durante una visita AMC programmata",
+          "layout": "image-right"
+        },
+        {
+          "type": "features",
+          "id": "included",
+          "eyebrow": "Incluso",
+          "heading": "Cosa comprende un AMC",
+          "cols": 3,
+          "items": [
+            {
+              "icon": "calendar-check",
+              "title": "Visite preventive programmate",
+              "text": "Un numero concordato di visite all'anno, pianificate in base al programma della Sua officina."
+            },
+            {
+              "icon": "list-check",
+              "title": "Checklist di ispezione",
+              "text": "Controlli meccanici, idraulici, pneumatici, elettrici e CNC secondo una checklist standard HYT."
+            },
+            {
+              "icon": "rulers",
+              "title": "Controlli di precisione",
+              "text": "Verifica del sistema di misura e dei risultati di lavorazione, con le regolazioni necessarie."
+            },
+            {
+              "icon": "lightning-charge",
+              "title": "Intervento su guasto",
+              "text": "I tecnici intervengono sui guasti segnalati durante l'anno contrattuale per diagnosticarli e risolverli."
+            },
+            {
+              "icon": "file-earmark-text",
+              "title": "Rapporti di visita",
+              "text": "Un rapporto scritto dopo ogni visita, con riscontri, lavori eseguiti e punti aperti."
+            },
+            {
+              "icon": "box-seam",
+              "title": "Raccomandazioni sui ricambi",
+              "text": "Preavviso sui componenti prossimi a fine vita, per poterli ordinare prima che si guastino."
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "id": "not-included",
+          "heading": "Cosa non è incluso",
+          "intro": "Salvo quanto espressamente indicato nel Suo contratto, i seguenti elementi non rientrano nell'ambito dell'AMC:",
+          "cols": 2,
+          "items": [
+            "Ricambi – quotati e forniti separatamente su Suo ordine",
+            "Materiali di consumo come inserti da taglio, lubrificanti, olio idraulico e filtri",
+            "Conduzione quotidiana della macchina",
+            "Danni causati da incidenti, uso improprio, incendio, allagamento o guasti dell'alimentazione elettrica",
+            "Lavori civili, strutturali e di binario intorno alla macchina",
+            "Retrofit, ammodernamenti e modifiche"
+          ]
+        },
+        {
+          "type": "steps",
+          "id": "process",
+          "eyebrow": "L'anno contrattuale",
+          "heading": "Come si svolge un tipico anno di AMC",
+          "items": [
+            {
+              "title": "Ispezione iniziale",
+              "text": "Registriamo lo stato della macchina all'inizio del contratto e segnaliamo eventuali interventi necessari."
+            },
+            {
+              "title": "Piano delle visite",
+              "text": "Le date delle visite preventive vengono concordate in anticipo in base al programma della Sua officina."
+            },
+            {
+              "title": "Visite preventive",
+              "text": "Controlli, regolazioni e manutenzione vengono eseguiti e documentati."
+            },
+            {
+              "title": "Chiamate per guasto",
+              "text": "Lei segnala un guasto tramite il service desk; viene assegnato un tecnico che interviene."
+            },
+            {
+              "title": "Revisione annuale",
+              "text": "Storico della macchina e raccomandazioni vengono discussi prima del rinnovo."
+            }
+          ]
+        },
+        {
+          "type": "faq",
+          "id": "faq",
+          "heading": "Domande frequenti",
+          "items": [
+            {
+              "q": "Qual è la differenza tra AMC e CMC?",
+              "a": "Un AMC copre la manodopera per le visite preventive e gli interventi su guasto. Un [CMC](page:comprehensive-annual-maintenance-contract) aggiunge i ricambi elencati nel contratto, così il Suo costo annuale di manutenzione è fisso."
+            },
+            {
+              "q": "Quante visite preventive sono incluse?",
+              "a": "Il numero viene concordato con Lei in base a tipo di macchina, utilizzo e condizioni operative, ed è indicato nel contratto."
+            },
+            {
+              "q": "È possibile stipulare un AMC per una macchina datata?",
+              "a": "Sì, dopo un'ispezione dello stato della macchina. Se la macchina richiede prima delle riparazioni, le quotiamo separatamente – vedere [Riparazione](page:repair)."
+            },
+            {
+              "q": "Quali tempi di intervento possiamo aspettarci in caso di guasto?",
+              "a": "Gli impegni sui tempi di intervento sono riportati in ciascun contratto, in base all'ubicazione della macchina e a quanto essa sia critica per la Sua flotta. Li concordiamo con Lei prima dell'avvio del contratto, così non vi sono ambiguità quando arriva una chiamata."
+            },
+            {
+              "q": "Come segnaliamo un guasto?",
+              "a": "Chiami il numero verde dell'assistenza 1800 2100 456 o ci scriva un'e-mail indicando il numero di matricola della macchina e una descrizione del guasto. Vedere [Rete di assistenza post-vendita](page:service-centers)."
+            }
+          ]
+        },
+        {
+          "type": "cta",
+          "heading": "Richieda un'offerta AMC",
+          "text": "Ci invii modello, numero di matricola e ubicazione della macchina. La ispezioneremo, proporremo un piano di visite e quoteremo il canone annuale.",
+          "primary": {
+            "label": "Discuta la Sua esigenza",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Confronti i contratti",
+            "page": "maintenance",
+            "anchor": "compare"
+          }
+        }
+      ]
+    },
+    "comprehensive-annual-maintenance-contract": {
+      "nav": "Contratto di manutenzione completo (CMC)",
+      "title": "Contratto di manutenzione completo (CMC)",
+      "description": "Il contratto di manutenzione completo HYT aggiunge i ricambi alle visite preventive e agli interventi su guasto, per un costo annuale prevedibile.",
+      "eyebrow": "Servizi di manutenzione",
+      "h1": "Contratto di manutenzione completo (CMC)",
+      "lede": "Manutenzione preventiva, interventi su guasto e i ricambi per riparare la macchina – tutto in un unico canone annuale. Un CMC trasforma la manutenzione da costo imprevedibile a voce di budget fissa.",
+      "summary": "Visite preventive, interventi su guasto e ricambi elencati in un unico canone annuale fisso.",
+      "blocks": [
+        {
+          "type": "text",
+          "id": "overview",
+          "eyebrow": "Come funziona",
+          "heading": "Manutenzione e ricambi con un unico canone fisso",
+          "paragraphs": [
+            "Un CMC comprende tutto ciò che è incluso in un [contratto di manutenzione annuale (AMC)](page:annual-maintenance-contract) – visite preventive programmate e interventi su guasto – e aggiunge i ricambi necessari a mantenere in funzione la macchina. Quando un componente coperto si guasta o arriva a fine vita, HYT lo fornisce e lo monta senza un ordine d'acquisto separato.",
+            "Questo è importante nelle organizzazioni in cui l'acquisto di un singolo componente può richiedere più tempo della riparazione stessa. Con un CMC la macchina torna in servizio non appena arriva il componente, e il Suo costo annuale di manutenzione è noto in anticipo.",
+            "Poiché il costo dei ricambi è a carico di HYT, abbiamo ogni interesse a manutenere la macchina in modo accurato e a sostituire le parti soggette a usura prima che causino danni altrove. I Suoi operatori continuano a condurre la macchina; noi ci occupiamo del suo stato."
+          ],
+          "image": "products/wheelset-profile-closeup",
+          "image_alt": "Illustrazione di esempio di battistrada e bordino di una sala montata appena riprofilata su un tornio per ruote",
+          "layout": "image-right"
+        },
+        {
+          "type": "features",
+          "id": "included",
+          "eyebrow": "Incluso",
+          "heading": "Cosa comprende un CMC",
+          "cols": 3,
+          "items": [
+            {
+              "icon": "calendar-check",
+              "title": "Visite preventive programmate",
+              "text": "Un piano di visite concordato con ispezione, regolazione e manutenzione secondo la checklist HYT."
+            },
+            {
+              "icon": "lightning-charge",
+              "title": "Intervento su guasto",
+              "text": "I tecnici diagnosticano e risolvono i guasti segnalati durante il periodo contrattuale."
+            },
+            {
+              "icon": "box-seam",
+              "title": "Ricambi",
+              "text": "Componenti meccanici, idraulici, elettrici ed elettronici elencati nel contratto, forniti e montati."
+            },
+            {
+              "icon": "rulers",
+              "title": "Controlli di precisione",
+              "text": "Sistema di misura e risultati di lavorazione verificati e regolati ove necessario."
+            },
+            {
+              "icon": "file-earmark-text",
+              "title": "Rapporti e storico",
+              "text": "Rapporti di visita e uno storico dei ricambi a supporto della definizione del budget e della pianificazione a lungo termine."
+            },
+            {
+              "icon": "cash-stack",
+              "title": "Canone annuale fisso",
+              "text": "Un'unica voce di budget per manodopera e ricambi elencati, concordata prima dell'avvio del contratto."
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "id": "not-included",
+          "heading": "Cosa non è incluso",
+          "intro": "Salvo quanto espressamente indicato nel Suo contratto, i seguenti elementi non rientrano nell'ambito del CMC:",
+          "cols": 2,
+          "items": [
+            "Materiali di consumo come inserti da taglio, lubrificanti, olio idraulico e filtri",
+            "Conduzione quotidiana della macchina",
+            "Componenti danneggiati da incidenti, uso improprio, incendio, allagamento o guasti dell'alimentazione elettrica",
+            "Lavori civili, strutturali e di binario intorno alla macchina",
+            "Retrofit, ammodernamenti e modifiche",
+            "Componenti non elencati nell'allegato del contratto"
+          ]
+        },
+        {
+          "type": "table",
+          "id": "amc-vs-cmc",
+          "heading": "AMC o CMC?",
+          "columns": [
+            "",
+            "AMC",
+            "CMC"
+          ],
+          "rows": [
+            [
+              "Visite di manutenzione preventiva",
+              "Incluso",
+              "Incluso"
+            ],
+            [
+              "Intervento su guasto",
+              "Incluso",
+              "Incluso"
+            ],
+            [
+              "Ricambi",
+              "Quotati e ordinati separatamente",
+              "Inclusi, secondo l'elenco del contratto"
+            ],
+            [
+              "Materiali di consumo",
+              "Non inclusi",
+              "Non inclusi, salvo se elencati"
+            ],
+            [
+              "Budget",
+              "Costo della manodopera fisso; ricambi variabili",
+              "Costo annuale fisso per manodopera e ricambi elencati"
+            ],
+            [
+              "Ideale per",
+              "Officine con budget flessibili per i ricambi",
+              "Organizzazioni che necessitano di un budget di manutenzione prevedibile"
+            ]
+          ],
+          "note": "Entrambi i contratti sono personalizzati. L'ambito definitivo e l'elenco dei ricambi sono indicati nell'offerta."
+        },
+        {
+          "type": "faq",
+          "id": "faq",
+          "heading": "Domande frequenti",
+          "items": [
+            {
+              "q": "Quali ricambi sono coperti?",
+              "a": "Il contratto comprende un elenco dei componenti coperti, concordato dopo un'ispezione dello stato della Sua macchina. Di norma i materiali di consumo sono esclusi."
+            },
+            {
+              "q": "Una macchina datata può rientrare in un CMC?",
+              "a": "Di solito sì, dopo un'ispezione. Le eventuali riparazioni necessarie per riportare la macchina a una condizione di base accettabile vengono quotate separatamente prima dell'avvio del CMC."
+            },
+            {
+              "q": "Come viene stabilito il canone annuale?",
+              "a": "Dopo aver ispezionato la macchina, ne valutiamo età, stato, utilizzo e l'elenco dei ricambi scelto. Il canone è fisso per l'anno contrattuale e l'ambito viene rivisto con Lei a ogni rinnovo."
+            },
+            {
+              "q": "Chi conduce la macchina con un CMC?",
+              "a": "I Suoi operatori. Se desidera che HYT conduca anche la macchina, consulti [Conduzione e manutenzione (O&M)](page:operation-and-maintenance)."
+            },
+            {
+              "q": "Cosa succede se un componente viene danneggiato da un incidente?",
+              "a": "I danni accidentali non rientrano nell'ambito del CMC. Valutiamo il danno, quotiamo la [riparazione](page:repair) e, una volta completata, la macchina prosegue con il CMC."
+            }
+          ]
+        },
+        {
+          "type": "cta",
+          "heading": "Blocchi il Suo budget di manutenzione",
+          "text": "Ci indichi quale macchina desidera coprire. La ispezioneremo, concorderemo con Lei l'elenco dei ricambi e quoteremo un canone annuale fisso.",
+          "primary": {
+            "label": "Discuta la Sua esigenza",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Confronti i contratti",
+            "page": "maintenance",
+            "anchor": "compare"
+          }
+        }
+      ]
+    },
+    "operation-contract": {
+      "nav": "Contratto di conduzione",
+      "title": "Contratto di conduzione – operatori per torni per ruote",
+      "description": "Con un contratto di conduzione HYT, operatori HYT formati conducono il Suo tornio per ruote, mentre la manutenzione resta al Suo team o a un contratto separato.",
+      "eyebrow": "Servizi di manutenzione",
+      "h1": "Contratto di conduzione: operatori formati per la Sua macchina",
+      "lede": "Gli operatori HYT conducono la macchina; la manutenzione resta al Suo team o rientra in un contratto separato. Ottiene una conduzione qualificata senza cedere la cura della macchina.",
+      "summary": "Operatori HYT formati conducono la Sua macchina, mentre la manutenzione resta al Suo team o a un contratto separato.",
+      "blocks": [
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "Questo servizio si sovrappone a Conduzione e manutenzione (O&M). HYT deve confermare che entrambe le pagine vadano mantenute e che l'ambito seguente (solo conduzione, manutenzione esclusa) sia corretto."
+        },
+        {
+          "type": "text",
+          "id": "overview",
+          "eyebrow": "Come funziona",
+          "heading": "Solo conduzione – un ambito chiaro e circoscritto",
+          "paragraphs": [
+            "Alcuni depositi dispongono di un solido reparto manutenzione ma non di operatori formati su un tornio per ruote CNC. Altri si trovano ad affrontare una carenza temporanea: una nuova macchina che arriva prima dell'assunzione del personale, o un periodo di elevata domanda di riprofilatura. Un contratto di conduzione colma questa lacuna con operatori HYT che conoscono la macchina, il suo sistema di misura e i suoi programmi di profilo.",
+            "I nostri operatori lavorano secondo i Suoi turni e il Suo piano di manutenzione. Posizionano le sale montate, misurano, selezionano il profilo corretto, lavorano e registrano il risultato. Si occupano della cura di primo livello – pulizia, lubrificazione ordinaria e controlli giornalieri – e segnalano immediatamente ogni anomalia al Suo team di manutenzione.",
+            "Manutenzione preventiva, riparazione dei guasti e ricambi non fanno parte di questo contratto. Restano al Suo team oppure possono essere affidati a HYT con un [AMC](page:annual-maintenance-contract) o un [CMC](page:comprehensive-annual-maintenance-contract). Se preferisce un unico contratto per tutto, scelga [Conduzione e manutenzione (O&M)](page:operation-and-maintenance)."
+          ],
+          "image": "projects/railway-wheel-shop",
+          "image_alt": "Illustrazione di esempio di un operatore al pannello di comando di un tornio per ruote in un'officina sale montate",
+          "layout": "image-right"
+        },
+        {
+          "type": "list",
+          "id": "included",
+          "heading": "Incluso",
+          "cols": 2,
+          "items": [
+            "Operatori HYT formati per i turni concordati",
+            "Misura delle sale montate, selezione del profilo e lavorazione",
+            "Cura di primo livello: pulizia, lubrificazione ordinaria e controlli giornalieri",
+            "Registrazione delle sale montate lavorate e dei risultati di misura",
+            "Segnalazione immediata dei guasti al Suo team di manutenzione",
+            "Lavoro nel rispetto delle norme di sicurezza e del sistema di permessi di lavoro del Suo deposito"
+          ]
+        },
+        {
+          "type": "list",
+          "id": "not-included",
+          "heading": "Non inclusi",
+          "cols": 2,
+          "items": [
+            "Manutenzione preventiva della macchina",
+            "Diagnosi e riparazione dei guasti",
+            "Ricambi",
+            "Lavori civili, impiantistici e di binario",
+            "Manovra e movimentazione del materiale rotabile, salvo diverso accordo",
+            "Retrofit e ammodernamenti"
+          ]
+        },
+        {
+          "type": "faq",
+          "id": "faq",
+          "heading": "Domande frequenti",
+          "items": [
+            {
+              "q": "Chi è responsabile se la macchina si guasta?",
+              "a": "Il Suo team di manutenzione, oppure HYT se dispone anche di un AMC o di un CMC. I nostri operatori segnaleranno il guasto e supporteranno la diagnosi con quanto osservato."
+            },
+            {
+              "q": "Un contratto di conduzione può aiutarci a formare i nostri operatori?",
+              "a": "Sì. Il Suo personale può lavorare a fianco degli operatori HYT e partecipare a una [formazione](page:training) strutturata, così da poter subentrare alla scadenza del contratto."
+            },
+            {
+              "q": "Come viene determinato il prezzo del contratto?",
+              "a": "Di norma come canone periodico basato sul numero di operatori e di turni. Formuliamo l'offerta dopo aver compreso il Suo carico di lavoro."
+            }
+          ]
+        },
+        {
+          "type": "cta",
+          "heading": "Le servono operatori per il Suo tornio per ruote?",
+          "text": "Ci indichi la macchina, l'organizzazione dei turni e il carico di lavoro previsto: Le proporremo un team di conduzione.",
+          "primary": {
+            "label": "Discuta la Sua esigenza",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Confronti i contratti",
+            "page": "maintenance",
+            "anchor": "compare"
+          }
+        }
+      ]
+    },
+    "service-contract": {
+      "nav": "Contratto di assistenza",
+      "title": "Contratto di assistenza – service su chiamata",
+      "description": "Un contratto di assistenza HYT flessibile: tariffe concordate, pagamento per visita o chiamata, nessun canone annuale. Ideale per macchine poco utilizzate.",
+      "eyebrow": "Servizi di manutenzione",
+      "h1": "Contratto di assistenza: supporto su chiamata a tariffe concordate",
+      "lede": "Paga le visite dei tecnici solo quando ne ha bisogno, a tariffe concordate in anticipo. Un contratto di assistenza Le dà accesso alle competenze HYT senza impegnarLa a un canone annuale fisso.",
+      "summary": "Assistenza flessibile su chiamata: tariffe concordate, pagamento per visita, nessun canone annuale fisso.",
+      "blocks": [
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "Questo servizio si sovrappone ad AMC e CMC. HYT deve confermare che il contratto di assistenza vada offerto come accordo su chiamata con pagamento per visita e confermarne l'ambito."
+        },
+        {
+          "type": "text",
+          "id": "overview",
+          "eyebrow": "Come funziona",
+          "heading": "Supporto flessibile senza impegno annuale",
+          "paragraphs": [
+            "Non tutte le macchine necessitano di un contratto di manutenzione completo. Un tornio che lavora pochi turni al mese, o un'officina con un team di manutenzione interno esperto, può aver bisogno solo occasionalmente di un supporto specialistico. Un contratto di assistenza definisce in anticipo le condizioni commerciali, così, quando ha bisogno di noi, nulla viene rallentato da trattative o approvazioni d'acquisto.",
+            "Concordiamo con Lei un listino – tariffe giornaliere dei tecnici, trasferte ed eventuali costi standard – per un periodo concordato. Quando apre una chiamata, assegniamo un tecnico che interviene, diagnostica e ripara, e fatturiamo solo quella visita. Le visite preventive possono essere prenotate alle stesse condizioni quando preferisce.",
+            "Se il numero di chiamate aumenta, un [contratto di manutenzione annuale (AMC)](page:annual-maintenance-contract) o un [CMC](page:comprehensive-annual-maintenance-contract) risulta di solito più conveniente e Le garantisce una manutenzione preventiva programmata. Glielo segnaleremo quando si raggiungerà quel punto."
+          ],
+          "image": "company/service-maintenance",
+          "image_alt": "Illustrazione di esempio di un tecnico HYT sul campo che diagnostica un guasto sull'armadio di comando di un tornio per ruote",
+          "layout": "image-right"
+        },
+        {
+          "type": "steps",
+          "id": "process",
+          "eyebrow": "Processo",
+          "heading": "Come funziona una chiamata di assistenza",
+          "items": [
+            {
+              "title": "Concordare le condizioni",
+              "text": "Tariffe, spese di trasferta e durata del contratto vengono fissate in anticipo."
+            },
+            {
+              "title": "Aprire una chiamata",
+              "text": "Segnali il guasto o richieda una visita tramite il numero verde o via e-mail, indicando il numero di matricola della macchina."
+            },
+            {
+              "title": "Diagnosi iniziale",
+              "text": "Il nostro service desk analizza i sintomi con il Suo team per predisporre il tecnico e i ricambi adeguati."
+            },
+            {
+              "title": "Visita in sede",
+              "text": "Il tecnico interviene, diagnostica e ripara, e concorda con Lei gli eventuali ricambi necessari."
+            },
+            {
+              "title": "Rapporto e fattura",
+              "text": "Riceve un rapporto di visita e una fattura per quella visita alle tariffe concordate."
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "id": "scope",
+          "heading": "Cosa è incluso e cosa no",
+          "cols": 2,
+          "items": [
+            "Incluso: intervento del tecnico a ogni chiamata alle tariffe concordate",
+            "Incluso: manodopera di diagnosi e riparazione durante la visita",
+            "Incluso: visite preventive quando le prenota",
+            "Incluso: un rapporto scritto per ogni visita",
+            "Non incluso: ricambi – quotati a parte",
+            "Non incluso: un numero fisso di visite programmate all'anno",
+            "Non incluso: conduzione della macchina",
+            "Non incluso: danni da incidenti, uso improprio o guasti dell'alimentazione"
+          ]
+        },
+        {
+          "type": "faq",
+          "id": "faq",
+          "heading": "Domande frequenti",
+          "items": [
+            {
+              "q": "È previsto un numero minimo di visite?",
+              "a": "No. Il contratto fissa le tariffe per un periodo concordato; paga solo le visite che richiede."
+            },
+            {
+              "q": "Possiamo passare in seguito a un AMC o a un CMC?",
+              "a": "Sì. Se il numero di chiamate aumenta o desidera una manutenzione preventiva programmata, possiamo convertire l'accordo in un [AMC](page:annual-maintenance-contract) o in un [CMC](page:comprehensive-annual-maintenance-contract) in qualsiasi momento."
+            },
+            {
+              "q": "Con un contratto di assistenza sono disponibili i ricambi?",
+              "a": "Sì, quotati separatamente per ogni esigenza. Vedere [Ricambi e supporto](page:spare-supply)."
+            }
+          ]
+        },
+        {
+          "type": "cta",
+          "heading": "Attivi un contratto di assistenza",
+          "text": "Ci invii i dati della Sua macchina e Le proporremo un listino tariffe e una durata contrattuale.",
+          "primary": {
+            "label": "Discuta la Sua esigenza",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Confronti i contratti",
+            "page": "maintenance",
+            "anchor": "compare"
+          }
+        }
+      ]
+    },
+    "spare-supply": {
+      "nav": "Ricambi e supporto",
+      "title": "Ricambi e supporto tecnico per torni per ruote",
+      "description": "Ricambi originali, elenchi di ricambi consigliati, gestione dell'obsolescenza e supporto tecnico telefonico per torni per ruote e macchine per sale montate HYT.",
+      "eyebrow": "Servizi di manutenzione",
+      "h1": "Ricambi e supporto tecnico",
+      "lede": "Ricambi originali abbinati alla documentazione costruttiva della Sua macchina e ingegneri al telefono che aiutano il Suo team a montarli correttamente. Meno ritardi, meno ricambi errati, vita della macchina più lunga.",
+      "summary": "Ricambi originali, elenchi di ricambi consigliati e supporto tecnico per le macchine HYT.",
+      "blocks": [
+        {
+          "type": "text",
+          "id": "overview",
+          "eyebrow": "Perché ricambi originali",
+          "heading": "Il ricambio giusto, al primo colpo",
+          "paragraphs": [
+            "Le macchine costruite nel corso di diversi decenni e configurate per scartamenti, profili e tipi di veicoli diversi raramente sono identiche. Il rullo, la guarnizione o il sensore adatto a una macchina può non esserlo per la successiva. Identifichiamo i ricambi in base al numero di matricola e alla documentazione costruttiva della Sua macchina, così il ricambio che arriva è quello giusto.",
+            "I ricambi originali sono realizzati secondo i disegni e i materiali originali. Ciò tutela la precisione di lavorazione, evita danni ai componenti accoppiati e mantiene intatte le condizioni di garanzia e contrattuali.",
+            "Per le officine che manutengono autonomamente le proprie macchine, i nostri ingegneri sono disponibili per telefono ed e-mail per consigli su ricerca guasti, sostituzione dei componenti e regolazioni."
+          ],
+          "image": "company/spare-parts",
+          "image_alt": "Illustrazione di esempio di ricambi etichettati per torni per ruote sugli scaffali di un magazzino ricambi",
+          "layout": "image-right"
+        },
+        {
+          "type": "features",
+          "id": "range",
+          "eyebrow": "Cosa forniamo",
+          "heading": "Ricambi e supporto per l'intera macchina",
+          "cols": 3,
+          "items": [
+            {
+              "icon": "gear",
+              "title": "Componenti meccanici",
+              "text": "Rulli, cuscinetti, slitte, viti a ricircolo di sfere, elementi di serraggio e altre parti soggette a usura."
+            },
+            {
+              "icon": "droplet",
+              "title": "Componenti idraulici e pneumatici",
+              "text": "Valvole, cilindri, pompe, guarnizioni e raccordi per gli impianti fluidici della macchina."
+            },
+            {
+              "icon": "cpu",
+              "title": "Componenti elettrici e CNC",
+              "text": "Azionamenti, motori, sensori, componenti di controllo e parti dell'armadio elettrico."
+            },
+            {
+              "icon": "rulers",
+              "title": "Componenti del sistema di misura",
+              "text": "Tastatori e componenti per il sistema di misura del profilo ruota."
+            },
+            {
+              "icon": "list-check",
+              "title": "Elenchi di ricambi consigliati",
+              "text": "Elenchi delle parti critiche e soggette a usura da tenere in sede, ordinate per rischio e tempi di approvvigionamento."
+            },
+            {
+              "icon": "hourglass-split",
+              "title": "Gestione dell'obsolescenza",
+              "text": "Avviso tempestivo quando i componenti vengono messi fuori produzione, con alternative o percorsi di ammodernamento."
+            }
+          ]
+        },
+        {
+          "type": "steps",
+          "id": "process",
+          "eyebrow": "Ordini",
+          "heading": "Dalla richiesta alla spedizione",
+          "items": [
+            {
+              "title": "Identificare",
+              "text": "Ci invii il numero di matricola della macchina e il codice del componente indicato nel manuale, oppure una foto del componente."
+            },
+            {
+              "title": "Confermare",
+              "text": "Verifichiamo il componente rispetto alla documentazione della Sua macchina e confermiamo l'articolo corretto."
+            },
+            {
+              "title": "Quotare",
+              "text": "Riceve un'offerta con prezzo e tempi di consegna."
+            },
+            {
+              "title": "Spedire",
+              "text": "Al ricevimento del Suo ordine, il componente viene imballato e spedito dal nostro stabilimento di Pune."
+            },
+            {
+              "title": "Supporto",
+              "text": "I nostri ingegneri forniscono consulenza telefonica per il montaggio, oppure intervengono in sede se preferisce."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "id": "critical-spares",
+          "eyebrow": "Pianificare per tempo",
+          "heading": "Tenga a scorta i componenti che fermano la macchina",
+          "paragraphs": [
+            "Alcuni componenti si usurano in modo prevedibile; altri si guastano raramente, ma quando succede fermano la macchina. Tenere in sede una piccola scorta degli articoli critici può trasformare una settimana di fermo in poche ore. Il nostro elenco di ricambi consigliati ordina i componenti in base alla loro criticità per il funzionamento e ai tempi di approvvigionamento, così può decidere cosa tenere a magazzino e cosa ordinare all'occorrenza.",
+            "Rivediamo l'elenco con Lei man mano che la macchina invecchia, quando i componenti vengono messi fuori produzione e dopo che un [retrofit](page:retro-fitment-upgradation) ha modificato la configurazione della macchina."
+          ]
+        },
+        {
+          "type": "list",
+          "id": "enquiry-checklist",
+          "heading": "Informazioni da includere in una richiesta di ricambi",
+          "cols": 2,
+          "items": [
+            "Modello e numero di matricola della macchina",
+            "Codice e descrizione del componente indicati nel manuale",
+            "Fotografie del componente e dell'eventuale targhetta",
+            "Quantità richiesta",
+            "Indirizzo di consegna ed eventuali requisiti di importazione",
+            "Urgenza – la macchina è ferma?"
+          ]
+        },
+        {
+          "type": "faq",
+          "id": "faq",
+          "heading": "Domande frequenti",
+          "items": [
+            {
+              "q": "Potete fornire ricambi per macchine datate?",
+              "a": "Sì, ove possibile. Se un componente originale non è più prodotto, proponiamo un equivalente o un [retrofit](page:retro-fitment-upgradation) del sistema interessato."
+            },
+            {
+              "q": "Quali ricambi dovremmo tenere in sede?",
+              "a": "Richieda l'elenco dei ricambi consigliati per la Sua macchina. Ordina i componenti in base alla loro criticità e ai tempi di approvvigionamento."
+            },
+            {
+              "q": "I ricambi sono inclusi nei contratti di manutenzione?",
+              "a": "Sono inclusi in un [CMC](page:comprehensive-annual-maintenance-contract), secondo l'elenco del contratto. Con un [AMC](page:annual-maintenance-contract) i ricambi vengono quotati a parte."
+            },
+            {
+              "q": "In quanto tempo può essere consegnato un ricambio?",
+              "a": "Dipende dal componente. Alcuni articoli sono disponibili a magazzino; altri vengono prodotti o acquistati su ordine. L'offerta indica i tempi di consegna; se la Sua macchina è ferma, ce lo comunichi affinché possiamo dare priorità alla richiesta."
+            },
+            {
+              "q": "Potete montare voi i ricambi?",
+              "a": "Sì. I nostri tecnici possono intervenire in sede con un [contratto di assistenza](page:service-contract) o con una visita singola."
+            }
+          ]
+        },
+        {
+          "type": "cta",
+          "heading": "Le serve un ricambio?",
+          "text": "Ci invii il numero di matricola della macchina e i dati del componente. Se la Sua macchina è ferma, chiami il numero verde 1800 2100 456.",
+          "primary": {
+            "label": "Richieda ricambi",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Rete di assistenza post-vendita",
+            "page": "service-centers"
+          }
+        }
+      ]
+    },
+    "retro-fitment-upgradation": {
+      "nav": "Retrofit e ammodernamento",
+      "title": "Retrofit e ammodernamento di torni per ruote",
+      "description": "Prolunghi la vita del Suo tornio per ruote: nuovi CNC, azionamenti, sistemi di misura e aggiornamenti di sicurezza installati da HYT su una struttura sana.",
+      "eyebrow": "Servizi",
+      "h1": "Retrofit e ammodernamento di torni per ruote",
+      "lede": "Una struttura di macchina ben costruita può sopravvivere di decenni al proprio sistema di controllo. Il retrofit sostituisce ciò che è obsoleto e conserva ciò che è sano, offrendoLe una macchina moderna con disagi molto inferiori rispetto a una nuova.",
+      "summary": "Nuovi sistemi CNC, azionamenti, tecnologie di misura e aggiornamenti di sicurezza per macchine con una struttura sana.",
+      "blocks": [
+        {
+          "type": "text",
+          "id": "overview",
+          "eyebrow": "Perché il retrofit",
+          "heading": "Conservare la struttura, rinnovare l'intelligenza",
+          "paragraphs": [
+            "Bancali, telai e guide sono costruiti per durare. Sistemi di controllo, azionamenti ed elettronica no: nel giro di uno o due decenni i componenti escono di produzione, i ricambi diventano difficili da reperire e ogni guasto richiede più tempo per essere risolto. Allo stesso tempo, i controlli più recenti offrono una diagnostica migliore, una programmazione più semplice e una misura del profilo che fa risparmiare materiale delle ruote.",
+            "Il retrofit risolve entrambi i problemi. Valutiamo la macchina, conserviamo le parti ancora sane e sostituiamo i sistemi che ne limitano la disponibilità o le prestazioni. Per un tornio in fossa, evita inoltre le opere civili e il lungo fermo che richiederebbe una nuova macchina in fossa.",
+            "La nostra priorità sono le macchine HYT, di cui conosciamo i progetti nel dettaglio. Se la Sua macchina è di un altro costruttore, ci invii i dati e Le diremo onestamente se una valutazione ha senso."
+          ],
+          "image": "homepage/engineering-technology",
+          "image_alt": "Illustrazione di esempio di un moderno pannello operatore CNC che mostra a schermo il profilo di una ruota",
+          "layout": "image-right"
+        },
+        {
+          "type": "features",
+          "id": "upgrades",
+          "eyebrow": "Cosa si può ammodernare",
+          "heading": "Pacchetti di retrofit tipici",
+          "cols": 3,
+          "items": [
+            {
+              "icon": "cpu",
+              "title": "Sistema CNC",
+              "text": "Un CNC industriale attuale con cicli specifici per il settore ferroviario, librerie di profili e diagnostica a schermo."
+            },
+            {
+              "icon": "lightning-charge",
+              "title": "Azionamenti e motori",
+              "text": "Nuovi servoazionamenti e azionamenti mandrino per prestazioni affidabili e ricambi disponibili."
+            },
+            {
+              "icon": "rulers",
+              "title": "Sistema di misura",
+              "text": "Misura automatica del profilo ruota, in modo da asportare solo il materiale necessario."
+            },
+            {
+              "icon": "droplet",
+              "title": "Impianto idraulico",
+              "text": "Centraline, valvole e cilindri revisionati o sostituiti."
+            },
+            {
+              "icon": "shield-check",
+              "title": "Sicurezza",
+              "text": "Protezioni, interblocchi e circuiti di arresto di emergenza aggiornati alla prassi attuale."
+            },
+            {
+              "icon": "database",
+              "title": "Dati e reportistica",
+              "text": "Report di lavorazione e registrazioni delle misure esportabili verso i sistemi di gestione della manutenzione della flotta."
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "id": "signs",
+          "heading": "Segnali che una macchina è pronta per il retrofit",
+          "cols": 2,
+          "items": [
+            "I ricambi del controllo o degli azionamenti sono fuori produzione o difficili da reperire",
+            "I guasti richiedono più tempo per essere diagnosticati perché la diagnostica è limitata",
+            "La macchina non è in grado di memorizzare o misurare i profili oggi richiesti dalla Sua flotta",
+            "I dati di misura devono essere registrati a mano",
+            "Protezioni o interblocchi non sono più conformi ai Suoi standard di sicurezza",
+            "La struttura e la geometria sono ancora sane"
+          ]
+        },
+        {
+          "type": "steps",
+          "id": "process",
+          "eyebrow": "Il nostro processo",
+          "heading": "Come si svolge un progetto di retrofit",
+          "items": [
+            {
+              "title": "Valutazione dello stato",
+              "text": "I nostri ingegneri ispezionano struttura, geometria, impianto idraulico ed elettrico ed esaminano lo storico della macchina."
+            },
+            {
+              "title": "Proposta",
+              "text": "Raccomandiamo un ambito di intervento – da un singolo sistema a una ricostruzione completa – con vantaggi e rischi di ciascuna opzione."
+            },
+            {
+              "title": "Progettazione",
+              "text": "I nuovi progetti elettrici, idraulici e software vengono preparati e i componenti acquistati prima del fermo macchina."
+            },
+            {
+              "title": "Fermo ed esecuzione",
+              "text": "La macchina viene messa fuori servizio solo quando i componenti sono pronti, riducendo il fermo al minimo."
+            },
+            {
+              "title": "Rimessa in servizio",
+              "text": "Geometria, misura e lavorazione vengono validate sulle Sue sale montate secondo criteri concordati."
+            },
+            {
+              "title": "Formazione e consegna",
+              "text": "Operatori e manutentori vengono formati sui nuovi sistemi e la documentazione viene aggiornata."
+            }
+          ]
+        },
+        {
+          "type": "faq",
+          "id": "faq",
+          "heading": "Domande frequenti",
+          "items": [
+            {
+              "q": "Retrofit o macchina nuova – come decidere?",
+              "a": "Se struttura e geometria sono sane, un retrofit costa di solito meno ed evita le opere civili. Se la struttura è usurata o le Sue esigenze sono cambiate in modo significativo, una macchina nuova può essere la scelta migliore. La nostra valutazione illustra entrambe le opzioni."
+            },
+            {
+              "q": "Per quanto tempo la macchina resterà fuori servizio?",
+              "a": "Dipende dall'ambito. Pianifichiamo progettazione e approvvigionamento prima del fermo, in modo che la macchina resti ferma solo per l'installazione e la rimessa in servizio."
+            },
+            {
+              "q": "I nostri operatori dovranno essere riqualificati?",
+              "a": "Sì, sul nuovo controllo e sulle eventuali nuove funzioni. La [formazione](page:training) fa parte di ogni progetto di retrofit."
+            },
+            {
+              "q": "Un retrofit può aggiungere nuovi profili ruota?",
+              "a": "Sì. Nell'ambito dell'ammodernamento è possibile aggiungere al CNC nuovi profili per flotte modificate."
+            }
+          ]
+        },
+        {
+          "type": "cta",
+          "heading": "La Sua macchina ha bisogno di un ammodernamento?",
+          "text": "Ci invii modello, numero di matricola e i problemi riscontrati. Le proporremo una valutazione dello stato.",
+          "primary": {
+            "label": "Discuta la Sua esigenza",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Scopra i nostri prodotti",
+            "page": "products"
+          }
+        }
+      ]
+    },
+    "repair": {
+      "nav": "Riparazione",
+      "title": "Riparazione di torni per ruote e macchine utensili",
+      "description": "Riparazioni su guasto e straordinarie per torni per ruote e macchine HYT: ricerca guasti, revisioni meccaniche, idrauliche ed elettriche, collaudo in sede.",
+      "eyebrow": "Servizi",
+      "h1": "Riparazione di torni per ruote e macchine per officine sale montate",
+      "lede": "Da un guasto improvviso a una ricostruzione programmata dopo anni di uso intensivo, i nostri ingegneri individuano la causa, la risolvono a regola d'arte e collaudano la macchina prima di restituirla al Suo team.",
+      "summary": "Riparazioni su guasto e straordinarie: diagnosi, interventi meccanici, idraulici ed elettrici, collaudo prima della riconsegna.",
+      "blocks": [
+        {
+          "type": "text",
+          "id": "overview",
+          "eyebrow": "Riparazioni durature",
+          "heading": "Eliminare la causa, non solo il sintomo",
+          "paragraphs": [
+            "Una riparazione che rimette in funzione la macchina solo per una settimana costa più di una eseguita correttamente la prima volta. I nostri ingegneri cercano la causa principale – una guida usurata, un circuito idraulico contaminato, un sensore difettoso – prima di sostituire componenti, e Le spiegano cosa hanno riscontrato e perché è accaduto.",
+            "Poiché abbiamo progettato noi la macchina, disponiamo dei suoi disegni, delle regolazioni e della documentazione dei componenti. Ciò abbrevia la diagnosi e fa sì che le riparazioni ripristinino la precisione originale, non una sua approssimazione.",
+            "Le riparazioni sono disponibili per tutti i clienti HYT, con o senza contratto di manutenzione. I clienti con un [AMC](page:annual-maintenance-contract) o un [CMC](page:comprehensive-annual-maintenance-contract) hanno l'intervento su guasto incluso nel contratto."
+          ],
+          "image": "company/service-maintenance",
+          "image_alt": "Illustrazione di esempio di ingegneri che smontano un gruppo di un tornio per ruote per la riparazione",
+          "layout": "image-right"
+        },
+        {
+          "type": "features",
+          "id": "repairs",
+          "eyebrow": "Cosa ripariamo",
+          "heading": "Tipi di riparazione",
+          "cols": 3,
+          "items": [
+            {
+              "icon": "lightning-charge",
+              "title": "Riparazione su guasto",
+              "text": "Ricerca e risoluzione guasti per rimettere in servizio una macchina ferma."
+            },
+            {
+              "icon": "gear",
+              "title": "Revisioni meccaniche",
+              "text": "Slitte, guide, viti a ricircolo di sfere, rulli e sistemi di serraggio revisionati o sostituiti."
+            },
+            {
+              "icon": "droplet",
+              "title": "Riparazioni idrauliche",
+              "text": "Eliminazione delle perdite, revisione di cilindri e valvole e lavaggio dei circuiti."
+            },
+            {
+              "icon": "cpu",
+              "title": "Componenti elettrici e CNC",
+              "text": "Guasti di azionamenti, motori, sensori e controllo diagnosticati e riparati."
+            },
+            {
+              "icon": "exclamation-triangle",
+              "title": "Danni da incidente",
+              "text": "Valutazione e riparazione dopo collisioni, allagamenti o altri eventi."
+            },
+            {
+              "icon": "rulers",
+              "title": "Ripristino della precisione",
+              "text": "Geometria e sistema di misura verificati e ripristinati dopo la riparazione."
+            }
+          ]
+        },
+        {
+          "type": "steps",
+          "id": "process",
+          "eyebrow": "Processo",
+          "heading": "Come viene gestita una riparazione",
+          "items": [
+            {
+              "title": "Segnalazione",
+              "text": "Chiami il numero verde o ci scriva un'e-mail indicando il numero di matricola della macchina, i sintomi ed eventuali messaggi di allarme."
+            },
+            {
+              "title": "Diagnosi iniziale",
+              "text": "Il nostro service desk e i nostri ingegneri esaminano le informazioni con il Suo team e, se la macchina lo consente, si collegano da remoto."
+            },
+            {
+              "title": "Pianificazione",
+              "text": "Confermiamo la causa probabile, i ricambi e il tecnico necessari e condividiamo una stima."
+            },
+            {
+              "title": "Riparazione",
+              "text": "Il tecnico esegue l'intervento in sede, oppure i gruppi principali vengono portati nel nostro stabilimento di Pune."
+            },
+            {
+              "title": "Collaudo e rapporto",
+              "text": "La macchina viene collaudata, i risultati vengono registrati e Lei riceve un rapporto con le raccomandazioni."
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "id": "report-checklist",
+          "heading": "Informazioni che accelerano la diagnosi",
+          "intro": "Più informazioni abbiamo prima della partenza del tecnico, più è probabile che il problema venga risolto alla prima visita.",
+          "cols": 2,
+          "items": [
+            "Modello e numero di matricola della macchina",
+            "Numeri e messaggi di allarme visualizzati sul CNC",
+            "Cosa stava facendo la macchina quando si è verificato il guasto",
+            "Fotografie o brevi video del sintomo",
+            "Eventuali modifiche, riparazioni o eventi recenti",
+            "Se la macchina è ferma o funziona con limitazioni"
+          ]
+        },
+        {
+          "type": "faq",
+          "id": "faq",
+          "heading": "Domande frequenti",
+          "items": [
+            {
+              "q": "Riparate macchine di altri costruttori?",
+              "a": "La nostra competenza riguarda le macchine HYT, di cui possediamo progetti e documentazione. Per le altre marche, ci invii i dati e Le diremo onestamente se possiamo aiutarLa."
+            },
+            {
+              "q": "È necessario un contratto di manutenzione per ottenere una riparazione?",
+              "a": "No. Le riparazioni sono disponibili per tutti i clienti HYT. Un [contratto di assistenza](page:service-contract) fissa le tariffe in anticipo e velocizza le approvazioni."
+            },
+            {
+              "q": "Le riparazioni possono essere eseguite in sede?",
+              "a": "La maggior parte delle riparazioni viene eseguita in sede. Quando un gruppo richiede lavorazioni meccaniche o una ricostruzione completa, può essere portato nel nostro stabilimento di Pune."
+            },
+            {
+              "q": "E se i componenti originali non sono più disponibili?",
+              "a": "Proponiamo un componente equivalente o un [retrofit](page:retro-fitment-upgradation) mirato del sistema interessato."
+            }
+          ]
+        },
+        {
+          "type": "cta",
+          "heading": "Macchina ferma?",
+          "text": "Chiami il numero 1800 2100 456 indicando il numero di matricola della macchina, oppure ci invii i dati: risponderemo il più rapidamente possibile.",
+          "primary": {
+            "label": "Segnali un guasto",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Rete di assistenza post-vendita",
+            "page": "service-centers"
+          }
+        }
+      ]
+    },
+    "shifting": {
+      "nav": "Trasferimento e spostamento di macchine",
+      "title": "Trasferimento e spostamento di macchine speciali (SPM)",
+      "description": "Trasferimento pianificato di macchine speciali (SPM) come i torni per ruote: sopralluogo, smontaggio, trasporto, preparazione fondazioni e rimessa in servizio.",
+      "eyebrow": "Servizi",
+      "h1": "Trasferimento e spostamento di macchine",
+      "lede": "Spostare un tornio per ruote o un'altra macchina speciale (SPM, special purpose machine) è un progetto, non un semplice sollevamento. La smontiamo, la trasportiamo, la reinstalliamo e la rimettiamo in servizio affinché nel nuovo sito funzioni come in quello precedente.",
+      "summary": "Sopralluogo, smontaggio, trasporto, reinstallazione e rimessa in servizio di torni per ruote e altre SPM.",
+      "blocks": [
+        {
+          "type": "text",
+          "id": "overview",
+          "eyebrow": "Perché servono specialisti",
+          "heading": "Le macchine di precisione non viaggiano bene da sole",
+          "paragraphs": [
+            "I depositi vengono ricostruiti, le flotte si spostano in nuove rimesse e le officine vengono riorganizzate. In questi casi, una macchina speciale come un tornio per ruote, una pressa per ruote o un tornio verticale spesso si sposta con loro. Si tratta di macchine pesanti, allineate con precisione e, nel caso dei torni in fossa, integrate nel binario.",
+            "Uno spostamento mal pianificato rischia di danneggiare i gruppi, compromettere l'allineamento e comportare una rimessa in servizio lunga e incerta. HYT pianifica ogni trasferimento dall'inizio alla fine: registriamo lo stato e la precisione della macchina prima dello smontaggio, prepariamo i disegni delle nuove fondazioni e rimettiamo in servizio la macchina nella nuova sede secondo gli stessi criteri di collaudo.",
+            "Il trasferimento è anche il momento ideale per installare ammodernamenti. Molti clienti abbinano lo spostamento a un [retrofit](page:retro-fitment-upgradation) del sistema di controllo o alla revisione dei gruppi usurati."
+          ],
+          "image": "projects/installation-commissioning",
+          "image_alt": "Illustrazione di esempio di un gruppo di un tornio per ruote sollevato con gru durante un trasferimento",
+          "layout": "image-right"
+        },
+        {
+          "type": "steps",
+          "id": "process",
+          "eyebrow": "Il nostro processo",
+          "heading": "Come trasferiamo una macchina",
+          "items": [
+            {
+              "title": "Sopralluogo",
+              "text": "Ispezione della macchina e di entrambi i siti, con registrazione dello stato e della precisione prima dello spostamento."
+            },
+            {
+              "title": "Preparazione del nuovo sito",
+              "text": "Disegni delle fondazioni o della fossa emessi per la nuova sede e verifica della prontezza prima dell'inizio dello smontaggio."
+            },
+            {
+              "title": "Smontaggio",
+              "text": "I gruppi vengono separati, contrassegnati e documentati secondo una sequenza pianificata."
+            },
+            {
+              "title": "Imballaggio e trasporto",
+              "text": "Le superfici di precisione vengono protette e i gruppi imballati e fissati per il percorso."
+            },
+            {
+              "title": "Reinstallazione",
+              "text": "La macchina viene posizionata, livellata, allineata e ricollegata nel nuovo sito."
+            },
+            {
+              "title": "Rimessa in servizio",
+              "text": "Le prove sulle Sue sale montate dimostrano che la macchina soddisfa i criteri di collaudo."
+            }
+          ]
+        },
+        {
+          "type": "features",
+          "id": "benefits",
+          "eyebrow": "I vantaggi per Lei",
+          "heading": "Rischio sotto controllo in ogni fase",
+          "cols": 3,
+          "items": [
+            {
+              "icon": "clipboard-check",
+              "title": "Situazione di partenza documentata",
+              "text": "Le registrazioni della precisione prima e dopo dimostrano che la macchina funziona come prima."
+            },
+            {
+              "icon": "calendar-check",
+              "title": "Fermo pianificato",
+              "text": "Un programma chiaro concordato con Lei, così da poter pianificare la capacità dell'officina in funzione dello spostamento."
+            },
+            {
+              "icon": "arrow-repeat",
+              "title": "Opportunità di ammodernamento",
+              "text": "Abbini il trasferimento a una revisione o a un retrofit mentre la macchina è fuori servizio."
+            }
+          ]
+        },
+        {
+          "type": "faq",
+          "id": "faq",
+          "heading": "Domande frequenti",
+          "items": [
+            {
+              "q": "Che cos'è una SPM?",
+              "a": "Una macchina speciale (special purpose machine): una macchina utensile progettata per un compito specifico, come la riprofilatura delle ruote ferroviarie, il calettamento delle ruote sugli assi o la tornitura dei fuselli."
+            },
+            {
+              "q": "È possibile trasferire un tornio in fossa?",
+              "a": "Sì. I torni in fossa richiedono una nuova fossa nel luogo di destinazione, quindi le opere civili devono essere pianificate per tempo. Forniamo i disegni della fossa e la verifichiamo prima dello spostamento della macchina."
+            },
+            {
+              "q": "Per quanto tempo la macchina resterà fuori servizio?",
+              "a": "Dipende dalla macchina, dalla distanza e dal grado di prontezza del nuovo sito. Preparare la nuova fondazione o la nuova fossa prima dell'inizio dello smontaggio è il modo più efficace per abbreviare il trasferimento, e pianifichiamo il programma di conseguenza."
+            },
+            {
+              "q": "Chi organizza il trasporto?",
+              "a": "Viene concordato per ogni progetto. HYT può pianificare e gestire l'intero trasferimento oppure collaborare con lo spedizioniere da Lei designato."
+            },
+            {
+              "q": "La garanzia o il contratto di manutenzione restano validi?",
+              "a": "Le condizioni contrattuali vengono riesaminate nell'ambito del trasferimento. Dopo la rimessa in servizio, un [AMC](page:annual-maintenance-contract) o un [CMC](page:comprehensive-annual-maintenance-contract) può proseguire nel nuovo sito."
+            }
+          ]
+        },
+        {
+          "type": "cta",
+          "heading": "Sta pianificando un trasferimento?",
+          "text": "Ci indichi quale macchina deve essere spostata, da dove e verso dove. Le proporremo un sopralluogo e un piano di trasferimento.",
+          "primary": {
+            "label": "Discuta la Sua esigenza",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Installazione e messa in servizio",
+            "page": "installation-commissioning"
+          }
+        }
+      ]
+    },
+    "wet-leasing": {
+      "nav": "MAAS – Machine as a Service (wet leasing)",
+      "title": "Machine as a Service (wet leasing) per torni per ruote",
+      "description": "Machine as a Service: HYT fornisce tornio per ruote, operatori e manutenzione con un unico accordo. Paga la capacità di riprofilatura, non l'investimento.",
+      "eyebrow": "Servizi",
+      "h1": "Machine as a Service (MAAS): wet leasing di torni per ruote",
+      "lede": "HYT fornisce la macchina, le persone che la conducono e la manutenzione che la mantiene in funzione. Lei riceve sale montate riprofilate senza investimenti in conto capitale e senza dover creare un team specializzato.",
+      "summary": "Forniamo macchina, operatori e manutenzione; Lei paga la capacità di riprofilatura anziché un bene strumentale.",
+      "blocks": [
+        {
+          "type": "text",
+          "id": "overview",
+          "eyebrow": "L'idea",
+          "heading": "Pagare le ruote riprofilate, non una macchina",
+          "paragraphs": [
+            "Acquistare un tornio per ruote significa approvazione dell'investimento, procedura di acquisto, opere civili, assunzioni e formazione – prima ancora di lavorare una sola ruota. Per alcuni operatori è la strada giusta. Per altri, soprattutto quelli che devono colmare con urgenza una carenza di capacità o hanno una domanda a lungo termine incerta, non lo è.",
+            "Con Machine as a Service, HYT fornisce un tornio per ruote insieme a operatori formati e alla manutenzione completa, con un unico accordo. Il termine “wet leasing” deriva dall'aviazione, dove un aeromobile viene noleggiato con il suo equipaggio. Qui anche la macchina arriva con il suo equipaggio.",
+            "Lei definisce la produzione di cui ha bisogno. Noi manteniamo produttiva la macchina e siamo responsabili della sua disponibilità. Il modello commerciale – un canone periodico, una tariffa per sala montata o una combinazione – viene concordato per ogni progetto."
+          ],
+          "image": "products/underfloor-wheel-lathe-yul-08",
+          "image_alt": "HYT Tornio CNC in fossa (YUL-08)",
+          "layout": "image-right"
+        },
+        {
+          "type": "features",
+          "id": "included",
+          "eyebrow": "Cosa è incluso",
+          "heading": "Un unico accordo, capacità completa",
+          "cols": 4,
+          "items": [
+            {
+              "icon": "gear-wide-connected",
+              "title": "La macchina",
+              "text": "Un tornio per ruote HYT adeguato, installato e messo in servizio presso il Suo sito."
+            },
+            {
+              "icon": "people",
+              "title": "L'equipaggio",
+              "text": "Operatori HYT formati che lavorano secondo i Suoi turni."
+            },
+            {
+              "icon": "tools",
+              "title": "Manutenzione",
+              "text": "Manutenzione preventiva, interventi su guasto e gestione dei ricambi a cura di HYT."
+            },
+            {
+              "icon": "clipboard-data",
+              "title": "Reportistica",
+              "text": "Registrazioni delle sale montate lavorate e dei risultati di misura per i Suoi sistemi di gestione della flotta."
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "id": "compare",
+          "heading": "Acquisto, O&M o Machine as a Service?",
+          "columns": [
+            "",
+            "Acquisto",
+            "Acquisto + O&M",
+            "Machine as a Service"
+          ],
+          "rows": [
+            [
+              "Chi possiede la macchina",
+              "Cliente",
+              "Cliente",
+              "HYT"
+            ],
+            [
+              "Chi la conduce",
+              "Cliente",
+              "HYT",
+              "HYT"
+            ],
+            [
+              "Chi la manutiene",
+              "Cliente, oppure HYT con AMC/CMC",
+              "HYT",
+              "HYT"
+            ],
+            [
+              "Investimento iniziale",
+              "Prezzo della macchina",
+              "Prezzo della macchina",
+              "Nessuno per la macchina"
+            ],
+            [
+              "Costo ricorrente",
+              "Personale, manutenzione e ricambi",
+              "Canone O&M periodico",
+              "Canone di servizio concordato"
+            ],
+            [
+              "Ideale per",
+              "Competenza interna a lungo termine",
+              "Bene di proprietà senza un team interno per il tornio",
+              "Capacità rapida, capitale limitato o domanda temporanea"
+            ]
+          ],
+          "note": "Le opere civili per la fossa o la fondazione e il modello commerciale vengono concordati per ogni progetto."
+        },
+        {
+          "type": "list",
+          "id": "fit",
+          "heading": "Quando conviene Machine as a Service",
+          "cols": 2,
+          "items": [
+            "Un nuovo deposito necessita di capacità di riprofilatura prima che sia possibile acquistare una macchina",
+            "I budget per investimenti sono limitati, ma sono disponibili budget operativi",
+            "La domanda è temporanea – l'introduzione di una flotta, un arretrato o una grande campagna di revisione",
+            "L'organizzazione preferisce esternalizzare le attività di manutenzione specialistiche",
+            "È necessario un periodo di prova prima di decidere su una macchina permanente",
+            "Il personale interno non è ancora formato sui torni per ruote CNC"
+          ]
+        },
+        {
+          "type": "steps",
+          "id": "process",
+          "eyebrow": "Processo",
+          "heading": "Dalla richiesta alla produzione",
+          "items": [
+            {
+              "title": "Analisi dei requisiti",
+              "text": "Flotta, carico di lavoro, sito e durata vengono analizzati con Lei."
+            },
+            {
+              "title": "Proposta",
+              "text": "Raccomandiamo una macchina, un team e un modello commerciale."
+            },
+            {
+              "title": "Preparazione del sito",
+              "text": "I lavori di fossa o fondazione vengono concordati e completati secondo i disegni HYT."
+            },
+            {
+              "title": "Installazione",
+              "text": "La macchina viene installata e messa in servizio sulle Sue sale montate."
+            },
+            {
+              "title": "Esercizio",
+              "text": "HYT conduce e manutiene la macchina e rendiconta regolarmente la produzione."
+            },
+            {
+              "title": "Fine del periodo",
+              "text": "Prolunghi l'accordo, passi a un modello [O&M](page:operation-and-maintenance) o pianifichi una macchina permanente."
+            }
+          ]
+        },
+        {
+          "type": "faq",
+          "id": "faq",
+          "heading": "Domande frequenti",
+          "items": [
+            {
+              "q": "In cosa differisce il wet leasing dall'O&M?",
+              "a": "Con un [contratto O&M](page:operation-and-maintenance) la macchina è di Sua proprietà e HYT la conduce e la manutiene. Con Machine as a Service, HYT fornisce anche la macchina."
+            },
+            {
+              "q": "Chi prepara la fossa o la fondazione?",
+              "a": "Viene concordato per ogni progetto. HYT fornisce i disegni e verifica i lavori; la costruzione civile è di norma a cura del cliente."
+            },
+            {
+              "q": "Quali macchine sono disponibili?",
+              "a": "La macchina viene scelta in base alla Sua flotta e al Suo sito, di solito un [tornio in fossa](page:underfloor-wheel-lathe). Ci parli della Sua esigenza."
+            }
+          ]
+        },
+        {
+          "type": "cta",
+          "heading": "Le serve capacità senza investire capitale?",
+          "text": "Ci parli della Sua flotta, del Suo deposito e di quanto a lungo Le serve la capacità. Le proporremo un modello Machine as a Service.",
+          "primary": {
+            "label": "Discuta la Sua esigenza",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Scopra i nostri prodotti",
+            "page": "products"
+          }
+        }
+      ]
+    },
+    "training": {
+      "nav": "Formazione",
+      "title": "Formazione per operatori e manutentori di torni per ruote",
+      "description": "Formazione pratica per operatori, programmatori CNC e manutentori su torni per ruote e macchine HYT per sale montate – in sede, a Pune o di aggiornamento.",
+      "eyebrow": "Servizi",
+      "h1": "Formazione per operatori, programmatori e manutentori",
+      "lede": "Una macchina vale quanto le persone che la conducono. La nostra formazione dà al Suo team le competenze e la sicurezza per lavorare con precisione, operare in sicurezza e mantenere la macchina in efficienza.",
+      "summary": "Formazione pratica per operatori, programmatori e team di manutenzione – in sede, nel nostro stabilimento o come aggiornamento.",
+      "blocks": [
+        {
+          "type": "text",
+          "id": "overview",
+          "eyebrow": "Perché è importante",
+          "heading": "Operatori qualificati risparmiano materiale delle ruote",
+          "paragraphs": [
+            "Ogni millimetro asportato dal battistrada accorcia la vita della ruota. Un operatore che comprende il sistema di misura, sceglie il profilo corretto e riconosce quando una passata può essere ridotta tutela la vita delle ruote e riduce il costo per chilometro. Un operatore che non lo fa può trasformare una macchina di precisione in una macchina costosa.",
+            "Lo stesso vale per la manutenzione. I team che sanno cosa controllare, come si presenta il funzionamento normale e come leggere la diagnostica della macchina individuano i problemi prima che diventino guasti.",
+            "I nostri formatori sono ingegneri che costruiscono, mettono in servizio e assistono le macchine HYT. Ove possibile, la formazione si svolge sulla Sua macchina, così il Suo team impara sull'attrezzatura che utilizzerà ogni giorno."
+          ],
+          "image": "company/training-session",
+          "image_alt": "Illustrazione di esempio di un formatore HYT che spiega il pannello di comando di un tornio per ruote al personale del deposito",
+          "layout": "image-right"
+        },
+        {
+          "type": "features",
+          "id": "audiences",
+          "eyebrow": "Chi formiamo",
+          "heading": "Programmi per ogni ruolo",
+          "cols": 4,
+          "items": [
+            {
+              "icon": "person-workspace",
+              "title": "Operatori",
+              "text": "Posizionamento sicuro, misura, selezione del profilo, cicli di lavorazione e cura quotidiana."
+            },
+            {
+              "icon": "code-square",
+              "title": "Programmatori CNC",
+              "text": "Programmi di profilo, parametri, strategie di lavorazione e dati di misura."
+            },
+            {
+              "icon": "wrench-adjustable",
+              "title": "Manutentori meccanici",
+              "text": "Lubrificazione, impianto idraulico, regolazioni e sostituzione delle parti soggette a usura."
+            },
+            {
+              "icon": "lightning-charge",
+              "title": "Manutentori elettrici",
+              "text": "Azionamenti, sensori, interblocchi, diagnostica e ricerca guasti."
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "id": "topics",
+          "heading": "Argomenti tipici della formazione",
+          "intro": "I contenuti sono personalizzati in base alla Sua macchina e all'esperienza del Suo team. Un programma tipico comprende:",
+          "cols": 2,
+          "items": [
+            "Layout della macchina, zone di sicurezza, protezioni e procedure di emergenza",
+            "Posizionamento corretto di veicoli o sale montate e serraggio",
+            "Misura del profilo ruota e interpretazione dei risultati",
+            "Selezione dei profili e riduzione al minimo dell'asportazione di materiale",
+            "Esecuzione dei cicli di lavorazione e verifica del profilo finito",
+            "Attività di manutenzione giornaliere, settimanali e periodiche",
+            "Impianti idraulici, pneumatici e di lubrificazione",
+            "Lettura degli allarmi e utilizzo della diagnostica CNC",
+            "Sostituzione delle parti soggette a usura più comuni e degli inserti da taglio",
+            "Tenuta delle registrazioni di lavorazione e manutenzione"
+          ]
+        },
+        {
+          "type": "list",
+          "id": "formats",
+          "heading": "Formati di formazione",
+          "cols": 2,
+          "items": [
+            "Formazione iniziale durante installazione e messa in servizio",
+            "Corsi in sede sulla Sua macchina",
+            "Sessioni presso lo stabilimento HYT di Pune, su richiesta",
+            "Corsi di aggiornamento per personale esperto",
+            "Formazione di inserimento per i nuovi membri del team",
+            "Formazione sulle nuove funzioni dopo un retrofit"
+          ]
+        },
+        {
+          "type": "steps",
+          "id": "process",
+          "eyebrow": "Processo",
+          "heading": "Come pianifichiamo un programma di formazione",
+          "items": [
+            {
+              "title": "Analisi dei fabbisogni",
+              "text": "Concordiamo con Lei ruoli, livelli di esperienza e obiettivi."
+            },
+            {
+              "title": "Programma",
+              "text": "Le sessioni teoriche e pratiche vengono programmate in base all'attività della Sua officina."
+            },
+            {
+              "title": "Erogazione",
+              "text": "Ove possibile, la formazione si svolge sulla Sua macchina, con materiale di riferimento stampato."
+            },
+            {
+              "title": "Verifica",
+              "text": "I partecipanti dimostrano di saper svolgere le attività chiave e la presenza viene registrata."
+            }
+          ]
+        },
+        {
+          "type": "faq",
+          "id": "faq",
+          "heading": "Domande frequenti",
+          "items": [
+            {
+              "q": "La formazione è inclusa con una macchina nuova?",
+              "a": "Sì. La formazione iniziale per operatori e manutentori fa parte dell'[installazione e messa in servizio](page:installation-commissioning)."
+            },
+            {
+              "q": "Potete formare il personale su una macchina con diversi anni di servizio?",
+              "a": "Sì. Adattiamo i contenuti alla configurazione e al sistema di controllo della macchina."
+            },
+            {
+              "q": "In quale lingua viene erogata la formazione?",
+              "a": "Ci indichi la lingua preferita al momento della richiesta e Le confermeremo cosa possiamo offrire."
+            }
+          ]
+        },
+        {
+          "type": "cta",
+          "heading": "Pianifichi la formazione per il Suo team",
+          "text": "Ci indichi la macchina, i ruoli e il numero di persone. Le proporremo un programma.",
+          "primary": {
+            "label": "Discuta la Sua esigenza",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Tutti i servizi",
+            "page": "services"
+          }
+        }
+      ]
+    },
+    "service-centers": {
+      "nav": "Rete di assistenza post-vendita",
+      "title": "Rete di assistenza post-vendita e supporto",
+      "description": "Come funziona l'assistenza HYT: service desk a Pune, numero verde 1800 2100 456, tecnici sul campo, diagnostica remota ove supportata e spedizione ricambi.",
+      "eyebrow": "Servizi",
+      "h1": "Rete di assistenza post-vendita",
+      "lede": "Un solo numero, un solo service desk e tecnici che conoscono la Sua macchina. Ecco come contattarci e cosa succede dopo la Sua chiamata.",
+      "summary": "Come contattare l'assistenza post-vendita HYT e cosa succede quando apre una richiesta.",
+      "blocks": [
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "HYT deve fornire l'elenco dei centri di assistenza e delle sedi di assistenza sul campo (città, indirizzo, contatto) da pubblicare in questa pagina."
+        },
+        {
+          "type": "text",
+          "id": "overview",
+          "eyebrow": "Come è organizzata l'assistenza",
+          "heading": "Coordinata da Pune, erogata in sede",
+          "paragraphs": [
+            "Ogni richiesta di assistenza viene registrata e coordinata dal nostro service desk presso lo stabilimento HYT di Pune, dove le nostre macchine vengono progettate e costruite. Il desk ha accesso alla documentazione costruttiva, ai disegni e allo storico di assistenza di ogni macchina, quindi già il primo colloquio è informato.",
+            "I tecnici dell'assistenza sul campo si recano presso il Suo sito per installazione, manutenzione preventiva, guasti e riparazioni. Se la macchina supporta il collegamento remoto, i nostri ingegneri possono esaminare allarmi e parametri prima della partenza, il che spesso abbrevia la diagnosi e garantisce che il tecnico porti con sé i ricambi giusti.",
+            "I ricambi vengono spediti da Pune. Nei casi urgenti, ci comunichi che la macchina è ferma e daremo la priorità di conseguenza."
+          ],
+          "image": "company/service-maintenance",
+          "image_alt": "Illustrazione di esempio di un tecnico dell'assistenza HYT che arriva in un deposito ferroviario con una valigetta attrezzi",
+          "layout": "image-right"
+        },
+        {
+          "type": "features",
+          "id": "network",
+          "eyebrow": "La nostra organizzazione di assistenza",
+          "heading": "Come La supportiamo",
+          "cols": 3,
+          "items": [
+            {
+              "icon": "headset",
+              "title": "Service desk centrale",
+              "text": "Registra, assegna e segue ogni richiesta fino alla chiusura dal nostro stabilimento di Pune."
+            },
+            {
+              "icon": "telephone",
+              "title": "Numero verde",
+              "text": "Chiami il numero 1800 2100 456, dal lunedì al sabato, 9:30–18:30 IST."
+            },
+            {
+              "icon": "person-gear",
+              "title": "Tecnici sul campo",
+              "text": "Tecnici che intervengono in sede per installazione, manutenzione e riparazione."
+            },
+            {
+              "icon": "wifi",
+              "title": "Diagnostica remota",
+              "text": "Se la macchina lo consente, allarmi e parametri vengono esaminati da remoto."
+            },
+            {
+              "icon": "box-seam",
+              "title": "Spedizione ricambi",
+              "text": "Ricambi originali identificati in base alla documentazione della Sua macchina e spediti da Pune."
+            },
+            {
+              "icon": "file-earmark-text",
+              "title": "Storico dell'assistenza",
+              "text": "Rapporti di visita e storico della macchina conservati per ogni installazione."
+            }
+          ]
+        },
+        {
+          "type": "steps",
+          "id": "process",
+          "eyebrow": "Quando ci chiama",
+          "heading": "Cosa succede dopo l'apertura di una richiesta",
+          "items": [
+            {
+              "title": "Telefonata o e-mail",
+              "text": "Utilizzi il numero verde o info@hytengineering.com, indicando modello e numero di matricola della macchina."
+            },
+            {
+              "title": "Registrazione e assegnazione",
+              "text": "Il service desk registra la richiesta e assegna un tecnico."
+            },
+            {
+              "title": "Prima diagnosi",
+              "text": "Il tecnico analizza sintomi e allarmi con il Suo team, da remoto ove possibile."
+            },
+            {
+              "title": "Intervento",
+              "text": "Consulenza telefonica, spedizione di ricambi o visita di un tecnico – la soluzione che risolve il problema più rapidamente."
+            },
+            {
+              "title": "Chiusura",
+              "text": "Riceve un rapporto e la richiesta viene chiusa dopo la Sua conferma che la macchina funziona."
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "id": "before-you-call",
+          "heading": "Tenga pronte queste informazioni quando ci contatta",
+          "cols": 2,
+          "items": [
+            "Modello e numero di matricola della macchina",
+            "Nome e ubicazione del sito",
+            "Nome e numero di telefono di un referente in sede",
+            "Descrizione del problema ed eventuali messaggi di allarme",
+            "Se la macchina è ferma",
+            "Il Suo tipo di contratto, se dispone di un AMC, CMC o altro accordo"
+          ]
+        },
+        {
+          "type": "contact",
+          "id": "contact",
+          "heading": "Contatti l'assistenza HYT"
+        },
+        {
+          "type": "cta",
+          "heading": "Le serve aiuto con una macchina HYT?",
+          "text": "Ci invii i dati della macchina e la Sua domanda tramite il modulo di contatto, oppure chiami il numero verde se la macchina è ferma.",
+          "primary": {
+            "label": "Ci contatti",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Servizi di manutenzione",
+            "page": "maintenance"
+          }
+        }
+      ]
+    }
+  }
+}

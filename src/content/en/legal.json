@@ -1,0 +1,351 @@
+{
+  "pages": {
+    "privacy-policy": {
+      "nav": "Privacy Policy",
+      "title": "Privacy Policy",
+      "description": "How HYT Engineering collects, uses, stores and protects personal data submitted through this website, and the rights you have under Indian, EU and UK law.",
+      "eyebrow": "Legal",
+      "h1": "Privacy Policy",
+      "lede": "This policy explains what personal data we collect through this website, why we collect it, how long we keep it and how you can exercise your rights.",
+      "summary": "How HYT Engineering handles personal data submitted through this website.",
+      "blocks": [
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "Draft for review. HYT's legal adviser to check this policy together with the Cookie Policy (the current policy was last updated in December 2021), confirm the retention periods proposed below, name the form-processing provider and confirm whether an EU or UK representative is required."
+        },
+        {
+          "type": "prose",
+          "updated": "Draft for legal review – October 2026",
+          "sections": [
+            {
+              "heading": "1. Who we are",
+              "paragraphs": [
+                "This website is operated by HYT Engineering Company Pvt. Ltd., a private limited company incorporated in India (CIN U29299PN1989PTC052195), with its registered office at 29/10, 29/10/1, 29/10/2, D-II Block, MIDC Chinchwad, Pune 411019, Maharashtra, India (\"HYT\", \"we\", \"us\").",
+                "HYT decides why and how the personal data described in this policy is processed. We are therefore the Data Fiduciary under India's Digital Personal Data Protection Act, 2023 and, where the EU or UK General Data Protection Regulation applies, the controller.",
+                "For any question about this policy or your personal data, write to info@hytengineering.com with \"Data protection\" in the subject line, or to the postal address above, marked for the attention of the Data Protection Contact."
+              ]
+            },
+            {
+              "heading": "2. Scope of this policy",
+              "paragraphs": [
+                "This policy covers personal data we collect through hytengineering.com and its language versions, and through the emails and calls that follow from it. It does not cover websites operated by others that we link to, which have their own policies.",
+                "Our website is aimed at businesses and public bodies in the railway and engineering sectors. Most of the personal data we receive is business contact information about people acting for their employer."
+              ]
+            },
+            {
+              "heading": "3. Personal data we collect",
+              "paragraphs": [
+                "We collect only the information you choose to give us through our forms or by contacting us directly, plus limited technical data needed to deliver the website securely."
+              ],
+              "bullets": [
+                "**Enquiry form:** name, company or organisation, business email, country, telephone number, the product or service of interest, subject and your message.",
+                "**Catalogue requests:** name, company, email address, country and the catalogue requested, where a request form is used.",
+                "**Supplier registration:** company name, contact person, job title, email, telephone, website, GST or VAT number, supply categories, years in business and certifications held.",
+                "**Job applications:** name, email, telephone, position applied for, total experience, your CV or a link to your CV or professional profile, and anything else you choose to include.",
+                "**Correspondence:** the content of emails, letters and calls you exchange with us, and the contact details they contain.",
+                "**Technical data:** when you visit the website, the hosting provider's servers automatically process your IP address, browser type, the pages requested and the time of the request. This is needed to deliver pages and protect the site against misuse."
+              ]
+            },
+            {
+              "heading": "4. Why we use your data",
+              "paragraphs": [
+                "We use your personal data only for the following purposes:"
+              ],
+              "bullets": [
+                "To answer your enquiry, prepare technical and commercial proposals and follow up on them.",
+                "To send you the catalogue or documents you asked for.",
+                "To assess supplier registrations, manage our vendor list and contact suppliers about requirements.",
+                "To assess job applications, arrange interviews and, with your consent, consider you for future roles.",
+                "To provide after-sales service and support for machines you operate.",
+                "To keep the website secure, prevent spam and detect misuse.",
+                "To meet our legal obligations, for example tax and company-law record keeping, and to establish or defend legal claims."
+              ]
+            },
+            {
+              "heading": "5. Legal basis for processing",
+              "paragraphs": [
+                "**India.** We process personal data in line with the Digital Personal Data Protection Act, 2023 and the rules made under it as they come into force. When you submit a form, you provide your personal data voluntarily for a specified purpose – for example to receive a reply or to be considered for a role – and we use it for that purpose. Where we rely on your consent, you can withdraw it at any time; withdrawal does not affect processing already carried out.",
+                "**European Union and United Kingdom.** Where the GDPR or UK GDPR applies, we rely on the following legal bases:"
+              ],
+              "bullets": [
+                "taking steps at your request before entering into a contract, and performing a contract (Article 6(1)(b)) – for enquiries, proposals, supplier relationships and recruitment;",
+                "our legitimate interests in running our business, answering business correspondence and keeping the website secure (Article 6(1)(f)), balanced against your rights and interests;",
+                "your consent (Article 6(1)(a)) – for example to keep a job application on file for future roles;",
+                "compliance with legal obligations (Article 6(1)(c)) – for example record-keeping duties."
+              ]
+            },
+            {
+              "heading": "6. Who we share your data with",
+              "paragraphs": [
+                "Your data is seen only by HYT staff who need it for the purposes above. We use a small number of service providers who process data on our behalf, under contract and only on our instructions:"
+              ],
+              "bullets": [
+                "the website hosting provider;",
+                "the form-processing service that receives and forwards submissions from our forms (the provider will be named here when the website goes live);",
+                "our email and IT service providers;",
+                "professional advisers such as auditors and lawyers, where necessary."
+              ]
+            },
+            {
+              "heading": "7. Other disclosures",
+              "paragraphs": [
+                "We do not sell personal data, and we do not use it for automated decision-making or for profiling for advertising.",
+                "We may disclose personal data where required by law, court order or a competent authority, or to protect our rights, property or safety. If HYT's business is reorganised or transferred, personal data may pass to the successor under the same protections."
+              ]
+            },
+            {
+              "heading": "8. International transfers",
+              "paragraphs": [
+                "HYT is based in India, and your data will be processed in India. Some of our service providers may store or process data in other countries.",
+                "Transfers out of India are made in line with the Digital Personal Data Protection Act, 2023, including any restrictions the Government of India notifies. Where data from the EU or UK is transferred to India or another country without an adequacy decision, we use safeguards recognised by the GDPR or UK GDPR, such as the European Commission's standard contractual clauses or the UK International Data Transfer Addendum. You can ask us for details of these safeguards."
+              ]
+            },
+            {
+              "heading": "9. How long we keep your data",
+              "paragraphs": [
+                "We keep personal data only as long as needed for the purpose it was collected for, and then delete or anonymise it. Our standard periods are:"
+              ],
+              "bullets": [
+                "**Enquiries and catalogue requests** that do not lead to a business relationship: up to 3 years after our last contact.",
+                "**Customer and supplier records:** for the duration of the relationship and afterwards for as long as Indian tax and company law requires us to keep business records.",
+                "**Supplier registrations** that do not lead to approval: up to 3 years after submission, unless you ask us to delete them sooner.",
+                "**Job applications:** for the duration of the recruitment process and up to 12 months afterwards; longer only with your consent. Data of applicants who join HYT becomes part of the employee record.",
+                "**Technical server logs:** for a short period set by the hosting provider for security purposes."
+              ]
+            },
+            {
+              "heading": "10. Your rights",
+              "paragraphs": [
+                "**Under Indian law** you have the right to obtain information about the personal data we process about you, to have it corrected, completed, updated or erased, to withdraw consent, to have your grievances addressed by us, and to nominate another person to exercise your rights in the event of your death or incapacity.",
+                "**Under the GDPR and UK GDPR** you have the right to access your data, to have it rectified or erased, to restrict or object to its processing, to data portability, and to withdraw consent at any time.",
+                "**Elsewhere, including the United States and Canada,** you may ask us for access to, correction of or deletion of your personal data, and we will respond in line with the law that applies to you. We do not sell personal data or share it for targeted advertising."
+              ]
+            },
+            {
+              "heading": "11. How to exercise your rights or complain",
+              "paragraphs": [
+                "Send your request to info@hytengineering.com with \"Data protection\" in the subject line. We may need to confirm your identity before acting. We respond without undue delay and within the time limits set by applicable law – for requests under the GDPR or UK GDPR, normally within one month.",
+                "If you are not satisfied with our response, you can complain to the Data Protection Board of India once its procedures are available to you, to the data protection supervisory authority in your EU country of residence or work, or in the UK to the Information Commissioner's Office. We would appreciate the chance to resolve your concern first."
+              ]
+            },
+            {
+              "heading": "12. Security",
+              "paragraphs": [
+                "We protect personal data with appropriate technical and organisational measures. The website is served over an encrypted connection (HTTPS), access to submissions is limited to staff who need it, and our service providers are bound by confidentiality and security obligations. No transmission over the internet is completely secure, so please do not send sensitive personal data through our forms."
+              ]
+            },
+            {
+              "heading": "13. Cookies",
+              "paragraphs": [
+                "This website does not currently set cookies or use analytics or advertising tools. Details are in our [Cookie Policy](page:cookie-policy)."
+              ]
+            },
+            {
+              "heading": "14. Children",
+              "paragraphs": [
+                "This website is intended for business users and is not directed at children. We do not knowingly collect personal data from anyone under 18. If you believe a child has sent us personal data, please contact us and we will delete it."
+              ]
+            },
+            {
+              "heading": "15. Changes to this policy",
+              "paragraphs": [
+                "We may update this policy when our website, our service providers or the law changes. The date at the top of this page shows when it was last revised. Significant changes will be highlighted on this page."
+              ]
+            },
+            {
+              "heading": "16. Contact",
+              "paragraphs": [
+                "HYT Engineering Company Pvt. Ltd., 29/10, 29/10/1, 29/10/2, D-II Block, MIDC Chinchwad, Pune 411019, Maharashtra, India. Email: info@hytengineering.com. Telephone: +91 20 6634 3900."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "cookie-policy": {
+      "nav": "Cookie Policy",
+      "title": "Cookie Policy",
+      "description": "The HYT Engineering website sets no cookies and uses no analytics or advertising trackers. Read what limited technical storage is used and how this may change.",
+      "eyebrow": "Legal",
+      "h1": "Cookie Policy",
+      "lede": "Short version: this website does not set cookies, does not use analytics and does not track you. This page explains the details.",
+      "summary": "Which cookies and similar technologies this website uses – currently none beyond what is strictly necessary.",
+      "blocks": [
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "Draft for review together with the Privacy Policy. HYT's legal adviser to confirm the text, and the web team to confirm before launch that no cookies, analytics or third-party embeds are active. Update this policy and add a consent banner before any such tool is introduced."
+        },
+        {
+          "type": "prose",
+          "updated": "Draft for legal review – October 2026",
+          "sections": [
+            {
+              "heading": "1. Summary",
+              "bullets": [
+                "We do not set cookies on this website.",
+                "We do not use analytics, advertising, social media or other tracking tools.",
+                "Fonts and images are served from our own website, not from third-party services.",
+                "Only strictly necessary technical storage is used, as described below.",
+                "Because no optional cookies are used, we do not show a cookie consent banner."
+              ]
+            },
+            {
+              "heading": "2. What cookies and similar technologies are",
+              "paragraphs": [
+                "Cookies are small text files that a website stores in your browser. Similar technologies include the browser's local and session storage, pixels and device fingerprinting. They can be used to make a website work, to remember your preferences, to measure visits or to track you across websites for advertising.",
+                "Data protection and electronic communications laws – including the EU ePrivacy rules and the UK Privacy and Electronic Communications Regulations – require consent for any such technology that is not strictly necessary to provide the service you have asked for."
+              ]
+            },
+            {
+              "heading": "3. What this website uses",
+              "paragraphs": [
+                "This website uses only what is strictly necessary to display pages and make forms work. Your browser may hold small amounts of information on your own device for these technical functions – for example while you complete a form. This information is not used to identify or track you and is not shared with us or anyone else.",
+                "When you load a page, our hosting provider's servers process technical data such as your IP address in order to deliver the page and protect the site. This is not a cookie; it is described in our [Privacy Policy](page:privacy-policy)."
+              ]
+            },
+            {
+              "heading": "4. Forms and downloads",
+              "paragraphs": [
+                "When you submit a form, the details you enter are sent to our form-processing provider and on to HYT. No cookie is set in the process. If we ever add a spam-protection service that relies on cookies, we will update this policy and ask for consent where required. Downloading a catalogue does not set a cookie."
+              ]
+            },
+            {
+              "heading": "5. Links to other websites",
+              "paragraphs": [
+                "Some links – for example to a map service or an external publication – take you to other websites. Those websites may set their own cookies under their own policies, which we do not control."
+              ]
+            },
+            {
+              "heading": "6. If this changes",
+              "paragraphs": [
+                "If we decide to add analytics, embedded videos, embedded maps or any other feature that sets non-essential cookies or similar technologies, we will:"
+              ],
+              "bullets": [
+                "update this policy first, listing each cookie, its provider, purpose and duration;",
+                "show a consent banner so that non-essential cookies are set only after you agree;",
+                "make it as easy to refuse or withdraw consent as to give it."
+              ]
+            },
+            {
+              "heading": "7. Managing cookies in your browser",
+              "paragraphs": [
+                "You can view, block and delete cookies and stored site data in your browser settings at any time. Blocking strictly necessary storage may stop some features, such as forms, from working correctly."
+              ]
+            },
+            {
+              "heading": "8. Contact",
+              "paragraphs": [
+                "Questions about this policy can be sent to info@hytengineering.com with \"Data protection\" in the subject line."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "disclaimer": {
+      "nav": "Disclaimer",
+      "title": "Website Disclaimer",
+      "description": "Terms of use for the HYT Engineering website: accuracy, technical data subject to change, sample images, external links, liability and governing law.",
+      "eyebrow": "Legal",
+      "h1": "Website disclaimer",
+      "lede": "The information on this website is provided in good faith to help you understand HYT's products and services. Please read these terms before relying on it.",
+      "summary": "Terms for using this website and the information it contains.",
+      "blocks": [
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "Draft for review. The current disclaimer was last updated in October 2021. HYT's legal adviser to check and approve this text, including the governing law and jurisdiction clause."
+        },
+        {
+          "type": "prose",
+          "updated": "Draft for legal review – October 2026",
+          "sections": [
+            {
+              "heading": "1. About this website",
+              "paragraphs": [
+                "This website is published by HYT Engineering Company Pvt. Ltd., 29/10, 29/10/1, 29/10/2, D-II Block, MIDC Chinchwad, Pune 411019, Maharashtra, India (\"HYT\"). By using it, you accept the terms on this page.",
+                "The content is general information about HYT, its products and its services. It is not professional, engineering or legal advice for a specific application, and it does not replace a technical consultation with our engineers."
+              ]
+            },
+            {
+              "heading": "2. Accuracy of information",
+              "paragraphs": [
+                "We take care to keep the information on this website accurate and current, but we cannot guarantee that it is complete, correct or up to date at all times. We may change the content at any time without notice."
+              ]
+            },
+            {
+              "heading": "3. Technical data subject to change",
+              "paragraphs": [
+                "Machine descriptions, specifications, capacities, cycle times and performance figures are indicative. Our machines are configured for each customer's track gauge, wheel profiles and vehicles, and we continuously develop our designs. Binding technical data is only that confirmed in a written technical offer and the resulting contract.",
+                "Where a value is shown as \"On request\", it depends on the configuration and will be stated in the offer."
+              ]
+            },
+            {
+              "heading": "4. Images and illustrations",
+              "paragraphs": [
+                "Some images on this website are sample illustrations created for design purposes. They show the general type of machine or situation described and may not represent an actual HYT machine, installation, customer site or event. They will be replaced with photographs over time."
+              ]
+            },
+            {
+              "heading": "5. No offer",
+              "paragraphs": [
+                "Nothing on this website is an offer capable of acceptance or a binding commitment. Prices, delivery terms and specifications are agreed only in writing. Catalogues and other downloadable documents are for information only."
+              ]
+            },
+            {
+              "heading": "6. Customers, partners and trade marks",
+              "paragraphs": [
+                "References to customers, projects and partners are made for information. Product and company names of third parties are trade marks or names of their respective owners and are used only to identify them; their use does not imply endorsement. The HYT name and logo are the property of HYT Engineering Company Pvt. Ltd."
+              ]
+            },
+            {
+              "heading": "7. Intellectual property",
+              "paragraphs": [
+                "The text, design, graphics, drawings and documents on this website are protected by copyright and other intellectual property rights belonging to HYT or its licensors. You may view, download and print content for your own information and for evaluating HYT products. Any other copying, modification or distribution requires our prior written permission."
+              ]
+            },
+            {
+              "heading": "8. External links",
+              "paragraphs": [
+                "This website contains links to websites operated by others. We have no control over their content or availability and accept no responsibility for them. A link does not mean that we endorse the linked site or its operator."
+              ]
+            },
+            {
+              "heading": "9. Availability and security",
+              "paragraphs": [
+                "We aim to keep the website available and free from harmful code, but we do not guarantee uninterrupted or error-free access. Please use up-to-date security software when browsing and downloading files."
+              ]
+            },
+            {
+              "heading": "10. Limitation of liability",
+              "paragraphs": [
+                "To the fullest extent permitted by law, HYT is not liable for any loss or damage arising from the use of, or reliance on, this website or its content, including indirect or consequential loss, loss of profit, loss of production or loss of data.",
+                "Nothing in this disclaimer limits or excludes liability that cannot be limited or excluded under applicable law. Our liability for products and services we supply is governed exclusively by the contract under which they are supplied."
+              ]
+            },
+            {
+              "heading": "11. Language versions",
+              "paragraphs": [
+                "This website is published in several languages. If there is any difference between language versions, the English (Global) version prevails."
+              ]
+            },
+            {
+              "heading": "12. Governing law and jurisdiction",
+              "paragraphs": [
+                "This disclaimer and any dispute arising from the use of this website are governed by the laws of India. The courts at Pune, Maharashtra, have exclusive jurisdiction. This does not take away any mandatory rights you may have under the law of the country where you live."
+              ]
+            },
+            {
+              "heading": "13. Contact",
+              "paragraphs": [
+                "Questions about this disclaimer can be sent to info@hytengineering.com."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

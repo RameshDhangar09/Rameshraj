@@ -1,0 +1,378 @@
+{
+  "pages": {
+    "turnkey-project": {
+      "nav": "Turnkey-projecten",
+      "title": "Turnkey (EPC) projecten voor spoorwerkplaatsen",
+      "description": "Turnkey (EPC) projecten voor wielstelwerkplaatsen en depots: layout, bouwkundige raakvlakken, machines, montage, training en levenslange support uit één hand.",
+      "eyebrow": "Turnkey-projecten",
+      "h1": "Turnkey (EPC) projecten voor wielstelwerkplaatsen en depots",
+      "lede": "Heeft een spoor- of metrobedrijf een complete wielstelwerkplaats of depotfaciliteit nodig, dan neemt HYT de verantwoordelijkheid van de eerste layout tot de draaiende werkplaats – één contract, één planning, één aanspreekbare partner.",
+      "summary": "Complete wielstelwerkplaatsen en depotfaciliteiten, van layout en bouwkundige raakvlakken tot machines, inbedrijfstelling en levenslange support.",
+      "blocks": [
+        {
+          "type": "text",
+          "id": "overview",
+          "eyebrow": "Wat turnkey betekent",
+          "heading": "Eén partner van lege hal tot draaiende werkplaats",
+          "paragraphs": [
+            "Een wielstelwerkplaats of depot is meer dan een verzameling machines. Wielstellen moeten zonder knelpunten van aankomst tot vrijgave door de werkplaats stromen, putten en funderingen moeten tot op de millimeter aansluiten op het machineontwerp, en stroom, perslucht en data moeten op het juiste moment op de juiste plek zijn. Worden die onderdelen bij verschillende leveranciers ingekocht, dan worden de gaten daartussen het probleem van de opdrachtgever.",
+            "Bij een turnkey- of EPC-project (engineering, procurement and construction – engineering, inkoop en bouw) neemt HYT de verantwoordelijkheid voor die gaten. Wij analyseren uw vloot en doorzet, ontwerpen het proces en de layout, leveren en integreren de machines, coördineren of realiseren de bouwkundige raakvlakken en stellen de complete faciliteit in bedrijf met uw eigen wielstellen.",
+            "Omdat wij de kernmachines zelf ontwerpen en bouwen, worden proces, funderingen en apparatuur vanaf het begin samen ontworpen. Dat verkleint het interfacerisico, verkort de inbedrijfstelling en geeft u één aanspreekpunt dat verantwoordelijk is voor de prestaties."
+          ],
+          "image": "projects/railway-wheel-shop",
+          "image_alt": "Voorbeeldillustratie van een wielstelwerkplaats met wielenbanken en wielstellen op transportsporen",
+          "layout": "image-right"
+        },
+        {
+          "type": "cards",
+          "id": "solutions",
+          "eyebrow": "Turnkey-oplossingen",
+          "heading": "Faciliteiten die wij ontwerpen, uitrusten en in bedrijf stellen",
+          "intro": "Zes soorten faciliteiten, één aanpak: één partner verantwoordelijk voor lay-out, machines, installatie en ondersteuning gedurende de hele levensduur.",
+          "cols": 3,
+          "items": [
+            {
+              "page": "ts-wheel-shops",
+              "image": "projects/railway-wheel-shop"
+            },
+            {
+              "page": "ts-maintenance-depots",
+              "image": "projects/metro-depot"
+            },
+            {
+              "page": "ts-rolling-stock-facilities",
+              "image": "industries/rolling-stock-manufacturers"
+            },
+            {
+              "page": "ts-wheelset-plants",
+              "image": "products/wheel-press"
+            },
+            {
+              "page": "ts-wheel-machining-lines",
+              "image": "products/vertical-turning-boring-machine"
+            },
+            {
+              "page": "ts-axle-machining-lines",
+              "image": "products/axle-turning-lathe"
+            }
+          ]
+        },
+        {
+          "type": "features",
+          "id": "scope",
+          "eyebrow": "Typische scope",
+          "heading": "Wat een turnkey-project voor een wielstelwerkplaats of depot kan omvatten",
+          "intro": "Elk project wordt afgestemd op de behoeften van de opdrachtgever. De onderstaande onderdelen zijn naar wens te combineren.",
+          "cols": 3,
+          "items": [
+            {
+              "icon": "diagram-3",
+              "title": "Proces- en layoutengineering",
+              "text": "Vlootanalyse, capaciteitsplanning en een wielstelstroom zonder knelpunten en onnodige handelingen."
+            },
+            {
+              "icon": "bricks",
+              "title": "Bouwkundige raakvlakken",
+              "text": "Ontwerp van put, fundering en railondersteuning, afgestemd met uw bouwaannemer of uitgevoerd binnen onze scope."
+            },
+            {
+              "icon": "gear-wide-connected",
+              "title": "Machines",
+              "text": "Wielenbanken, verticale draaibanken, asdraaibanken, wielpersen, meetstations en balanceermachines."
+            },
+            {
+              "icon": "arrows-move",
+              "title": "Wielstelhandling",
+              "text": "Transport- en handlingvoorzieningen die zware wielstellen veilig tussen de werkplekken verplaatsen."
+            },
+            {
+              "icon": "plug",
+              "title": "Nutsvoorzieningen en integratie",
+              "text": "Stroomverdeling, perslucht, spaanafvoer en dataverbindingen, gepland als één systeem."
+            },
+            {
+              "icon": "people",
+              "title": "Inbedrijfstelling en support",
+              "text": "Acceptatie op faciliteitsniveau, training van personeel en langlopende onderhoudscontracten."
+            }
+          ]
+        },
+        {
+          "type": "steps",
+          "id": "phases",
+          "eyebrow": "Projectfasen",
+          "heading": "Zo wordt een turnkey-project gerealiseerd",
+          "intro": "Elke fase sluit af met een duidelijk resultaat dat u beoordeelt en goedkeurt voordat de volgende fase begint.",
+          "items": [
+            {
+              "title": "Behoefteanalyse",
+              "text": "Vlootsamenstelling, wiel- en astypen, doorzetdoelen en randvoorwaarden van de locatie worden samen met uw team geanalyseerd."
+            },
+            {
+              "title": "Concept en layout",
+              "text": "Processtroom, machinekeuze en gebouwlayout worden uitgewerkt en vastgelegd."
+            },
+            {
+              "title": "Detailengineering",
+              "text": "Machineontwerpen, put- en funderingstekeningen, nutsvoorzieningen en interfaces worden definitief uitgewerkt."
+            },
+            {
+              "title": "Productie en inkoop",
+              "text": "De machines worden in onze fabriek in Pune gebouwd en getest; ingekochte apparatuur wordt betrokken en gekeurd."
+            },
+            {
+              "title": "Voorbereiding van de locatie",
+              "text": "De bouwkundige werkzaamheden worden uitgevoerd of begeleid, en de gereedheid wordt gecontroleerd voordat de machines worden verscheept."
+            },
+            {
+              "title": "Montage en integratie",
+              "text": "Machines, handling en nutsvoorzieningen worden geïnstalleerd, aangesloten en als systeem getest."
+            },
+            {
+              "title": "Inbedrijfstelling en acceptatie",
+              "text": "De faciliteit bewijst zich met uw eigen wielstellen aan de hand van overeengekomen prestatiecriteria."
+            },
+            {
+              "title": "Training, overdracht en support",
+              "text": "Het personeel wordt getraind, de documentatie wordt overgedragen en het langdurige [onderhoud](page:maintenance) begint."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "id": "why-hyt",
+          "eyebrow": "Waarom het ertoe doet",
+          "heading": "Minder interfaces, minder risico, eerder productie",
+          "paragraphs": [
+            "De meeste vertragingen in werkplaatsprojecten ontstaan op de raakvlakken: een put die niet bij de machine past, een stroomvoorziening die te laat komt, een handlingsysteem dat een werkplek niet kan bereiken. Eén turnkey-partner ontwerpt die knelpunten weg voordat de bouw begint.",
+            "Voor [spoorwegen](page:ind-railways), [metrobedrijven](page:ind-metros) en [fabrikanten van rollend materieel](page:ind-rolling-stock) levert dat een faciliteit op die eerder in productie gaat en presteert zoals gepland – met één organisatie die er verantwoordelijk voor is."
+          ],
+          "bullets": [
+            "Proces, funderingen en machines samen ontworpen",
+            "Eén planning en één aanspreekpunt voor de hele faciliteit",
+            "Levenslange support van het bedrijf dat de machines heeft gebouwd"
+          ],
+          "image": "projects/pit-foundation-civil-works",
+          "image_alt": "Voorbeeldillustratie van put- en funderingswerk dat in een nieuw depot wordt voorbereid voor wielenbanken",
+          "layout": "image-left"
+        },
+        {
+          "type": "cards",
+          "id": "projects",
+          "eyebrow": "Projecten en oplossingen",
+          "heading": "Bekijk ons werk",
+          "cols": 3,
+          "items": [
+            {
+              "page": "executed-projects",
+              "image": "projects/emu-car-shed"
+            },
+            {
+              "page": "under-execution",
+              "image": "projects/metro-depot"
+            },
+            {
+              "page": "ts-wheel-shops",
+              "image": "projects/wheel-shop-automation-line"
+            }
+          ]
+        },
+        {
+          "type": "cta",
+          "heading": "Plant u een nieuwe wielstelwerkplaats of een nieuw depot?",
+          "text": "Deel uw vloot, doorzetdoelen en locatieplannen. Onze projectengineers schetsen een concept en de stappen om het te realiseren.",
+          "primary": {
+            "label": "Bespreek uw vraag",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Bekijk onze producten",
+            "page": "products"
+          }
+        }
+      ]
+    },
+    "executed-projects": {
+      "nav": "Uitgevoerde projecten",
+      "title": "Uitgevoerde projecten: werktuigmachines voor het spoor",
+      "description": "Opgeleverde HYT-projecten: verticale CNC-draaibanken voor EMU-werkplaats Sanpada (Mumbai) en State Railway of Thailand, plus CNC-onderloopdraaibanken.",
+      "eyebrow": "Turnkey-projecten",
+      "h1": "Uitgevoerde projecten",
+      "lede": "Een selectie van machines die HYT heeft geleverd aan spoorwerkplaatsen in India en daarbuiten. Bij elk project vermelden we de feiten die we mogen publiceren.",
+      "summary": "Machines en projecten die HYT heeft opgeleverd voor spoorwerkplaatsen in India en daarbuiten.",
+      "blocks": [
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "HYT dient de volledige lijst van goedgekeurde uitgevoerde projecten aan te leveren, met jaar van oplevering, scope, foto’s en schriftelijke toestemming van de opdrachtgever voor publicatie. Daarnaast moet HYT bevestigen of het contract van Indian Railways voor negen CNC-onderloopdraaibanken is afgerond (Uitgevoerd) of nog loopt (In uitvoering)."
+        },
+        {
+          "type": "text",
+          "id": "overview",
+          "eyebrow": "Onze staat van dienst",
+          "heading": "Machines aan het werk in spoorwerkplaatsen",
+          "paragraphs": [
+            "Onze projecten variëren van één machine als aanvulling op een bestaande werkplaats tot complete series wielenbanken voor een nationale spoorwegmaatschappij. In alle gevallen is de maatstaf voor succes dezelfde: wielstellen die nauwkeurig en op tijd worden hersteld, nog jaren na de overdracht.",
+            "Hieronder staan de projecten met naam van de opdrachtgever, locatie en scope, voor zover we die mogen publiceren. Projecten die nog lopen vindt u onder [Projecten in uitvoering](page:under-execution). Wilt u een referentie-installatie bespreken die relevant is voor uw vloot? [Neem contact met ons op](page:contact-us)."
+          ]
+        },
+        {
+          "type": "projects",
+          "id": "project-list",
+          "heading": "Uitgevoerde projecten",
+          "items": [
+            {
+              "id": "sanpada-emu-car-shed",
+              "title": "Verticale CNC-draaibank – EMU-werkplaats Sanpada",
+              "client": "EMU-werkplaats Sanpada",
+              "location": "Mumbai, India",
+              "status_key": "executed",
+              "image": "projects/emu-car-shed",
+              "image_alt": "Voorbeeldillustratie van een EMU-werkplaats met voorstadstreinen in onderhoud",
+              "scope": [
+                "Levering van een verticale CNC-draaibank",
+                "Machine ontworpen en gebouwd in de fabriek van HYT in Pune",
+                "Eigen capaciteit voor het bewerken van wielen in de werkplaats"
+              ],
+              "text": "EMU-vloten in het voorstadsverkeer rijden intensieve dienstregelingen, dus elk wielstel dat snel weer in dienst komt, telt. Een verticale CNC-draaibank geeft een werkplaats eigen capaciteit om wielen nauwkeurig en reproduceerbaar op profiel te bewerken, zonder afhankelijk te zijn van externe werkplaatsen.",
+              "products": [
+                "vertical-turning-boring-machine"
+              ]
+            },
+            {
+              "id": "state-railway-of-thailand",
+              "title": "Verticale CNC-revolverdraaibank – State Railway of Thailand",
+              "client": "State Railway of Thailand",
+              "location": "Bangkok, Thailand",
+              "status_key": "executed",
+              "image": "projects/railway-wheel-shop",
+              "image_alt": "Voorbeeldillustratie van een wielstelwerkplaats met een verticale draaibank",
+              "scope": [
+                "Levering van een verticale CNC-revolverdraaibank",
+                "Installatie in de faciliteit van de opdrachtgever in Bangkok",
+                "Machine ontworpen en gebouwd in de fabriek van HYT in Pune"
+              ],
+              "text": "HYT heeft voor de State Railway of Thailand in Bangkok een verticale CNC-revolverdraaibank geleverd en geïnstalleerd. Het project laat zien hoe HYT-machines en de engineeringsupport van HYT spoorbedrijven ook buiten India bereiken.",
+              "products": [
+                "vertical-turning-boring-machine"
+              ]
+            },
+            {
+              "id": "indian-railways-underfloor-wheel-lathes",
+              "title": "Negen CNC-onderloopdraaibanken – Indian Railways",
+              "client": "Indian Railways",
+              "location": "India",
+              "status_key": "executed",
+              "image": "products/underfloor-wheel-lathe-yul-08",
+              "image_alt": "HYT CNC-onderloopdraaibank (YUL-08)",
+              "scope": [
+                "Contract voor de levering van negen CNC-onderloopdraaibanken",
+                "Machines die beide wielen van een wielstel herprofileren zonder het wielstel uit het voertuig te halen",
+                "Typische scope bij onderloopdraaibanken: puttekeningen, montage, inbedrijfstelling en training"
+              ],
+              "text": "Indian Railways heeft HYT een contract gegund voor de levering van negen CNC-onderloopdraaibanken. Onderloopdraaibanken herstellen het wielprofiel terwijl het wielstel in het voertuig blijft, zodat locomotieven en rijtuigen zonder uitbouw van draaistellen weer in dienst komen.",
+              "products": [
+                "underfloor-wheel-lathe"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "cta",
+          "heading": "Plant u een vergelijkbaar project?",
+          "text": "Vertel ons over uw vloot en werkplaats. Wij adviseren de juiste machines en delen relevante ervaring.",
+          "primary": {
+            "label": "Bespreek uw vraag",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Projecten in uitvoering",
+            "page": "under-execution"
+          }
+        }
+      ]
+    },
+    "under-execution": {
+      "nav": "Projecten in uitvoering",
+      "title": "Spoorprojecten in uitvoering",
+      "description": "Lopende HYT-projecten: volautomatische CNC-onderloopdraaibanken voor NCRTC en een nieuwe CNC-tandem-onderloopdraaibank voor Delhi Metro Rail Corporation.",
+      "eyebrow": "Turnkey-projecten",
+      "h1": "Projecten in uitvoering",
+      "lede": "Actuele HYT-projecten voor Indiase metro- en regionale snelvervoerbedrijven – machines die nieuwe en groeiende vloten op profiel houden.",
+      "summary": "Actuele HYT-projecten, waaronder onderloopdraaibanken voor NCRTC en een tandem-onderloopdraaibank voor DMRC.",
+      "blocks": [
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "HYT dient per project de actuele status, scope en publiceerbare gegevens (foto’s, toestemming van de opdrachtgever) te bevestigen. Interne notitie: verplaats de sectie van een project naar Uitgevoerde projecten zodra het is afgerond."
+        },
+        {
+          "type": "text",
+          "id": "overview",
+          "eyebrow": "In uitvoering",
+          "heading": "Machines voor stedelijke vloten met hoge frequentie",
+          "paragraphs": [
+            "Metro’s en snelle regionale treinen rijden met hoge frequentie en korte keertijden. Hun wielen slijten snel en moeten worden hersteld zonder dat treinen lang buiten dienst zijn. Onderloopdraaibanken, enkel of in tandem, zijn precies voor die taak gebouwd.",
+            "Projecten van dit type doorlopen doorgaans het volledige HYT-proces: engineering, productie in onze fabriek in Pune, voorbereiding van de locatie, montage, inbedrijfstelling en training. Afgeronde projecten staan onder [Uitgevoerde projecten](page:executed-projects)."
+          ]
+        },
+        {
+          "type": "projects",
+          "id": "project-list",
+          "heading": "Projecten in uitvoering",
+          "items": [
+            {
+              "id": "ncrtc-underfloor-wheel-lathes",
+              "title": "Volautomatische CNC-onderloopdraaibanken – NCRTC",
+              "client": "National Capital Region Transport Corporation (NCRTC)",
+              "location": "National Capital Region, India",
+              "status_key": "under-execution",
+              "image": "projects/metro-depot",
+              "image_alt": "Voorbeeldillustratie van een depot voor regionaal snelvervoer met een trein boven een onderloopdraaibank",
+              "scope": [
+                "Letter of Acceptance (gunningsbrief) aan HYT verstrekt voor volautomatische CNC-onderloopdraaibanken",
+                "Herprofileren van wielstellen in het voertuig, zonder uitbouw van draaistellen",
+                "Typische scope bij onderloopdraaibanken: puttekeningen, montage, inbedrijfstelling en training"
+              ],
+              "text": "National Capital Region Transport Corporation heeft HYT een Letter of Acceptance (gunningsbrief) verstrekt voor volautomatische CNC-onderloopdraaibanken. Voor een vloot in het regionale snelvervoer zorgen automatische meet- en bewerkingscycli ervoor dat herprofileren snel en consistent verloopt en zuinig omgaat met wielmateriaal.",
+              "products": [
+                "underfloor-wheel-lathe"
+              ]
+            },
+            {
+              "id": "dmrc-tandem-underfloor-wheel-lathe",
+              "title": "Nieuwe CNC-tandem-onderloopdraaibank – DMRC",
+              "client": "Delhi Metro Rail Corporation (DMRC)",
+              "location": "Delhi, India",
+              "status_key": "under-execution",
+              "image": "products/tandem-underfloor-wheel-lathe-yul-12t",
+              "image_alt": "HYT CNC-tandemonderloopdraaibank (YUL-12T)",
+              "scope": [
+                "Gunning van een nieuwe CNC-tandem-onderloopdraaibank",
+                "Twee gesynchroniseerde machines die beide wielstellen van een draaistel in één opspanning herprofileren",
+                "Typische scope bij onderloopdraaibanken: puttekeningen, montage, inbedrijfstelling en training"
+              ],
+              "text": "Delhi Metro Rail Corporation heeft HYT een contract gegund voor een nieuwe CNC-tandem-onderloopdraaibank. Een tandemmachine herprofileert beide wielstellen van een draaistel tegelijk, waardoor elke trein minder tijd op de draaibank doorbrengt.",
+              "products": [
+                "tandem-underfloor-wheel-lathe"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "cta",
+          "heading": "Wilt u de herprofileringscapaciteit van uw depot uitbreiden?",
+          "text": "Bespreek met onze applicatie-engineers enkele of tandem-onderloopdraaibanken voor uw vloot.",
+          "primary": {
+            "label": "Bespreek uw vraag",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Uitgevoerde projecten",
+            "page": "executed-projects"
+          }
+        }
+      ]
+    }
+  }
+}

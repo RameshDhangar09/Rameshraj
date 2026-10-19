@@ -1,0 +1,185 @@
+{
+  "pages": {
+    "contact-us": {
+      "nav": "Contact",
+      "title": "Contact met HYT Engineering",
+      "description": "Neem contact op met HYT Engineering in Pune of New Delhi, of met SAFOP in Italië, over CNC-wielenbanken, wielstelwerkplaatsen, turnkeywerkplaatsen of service. Wij reageren binnen 24 uur.",
+      "eyebrow": "Contact",
+      "h1": "Laten we in gesprek gaan",
+      "lede": "Plant u een nieuwe wielstelwerkplaats, hebt u serviceondersteuning nodig voor bestaande machines of wilt u een samenwerking verkennen? Ons team reageert binnen 24 uur.",
+      "summary": "Onze vestigingen in Pune, New Delhi en Pordenone (Italië), telefoon, e-mail en contactformulier.",
+      "blocks": [
+        {
+          "type": "contact",
+          "id": "locations"
+        },
+        {
+          "type": "form",
+          "id": "enquiry",
+          "form": "enquiry",
+          "eyebrow": "Contactformulier",
+          "heading": "Stuur ons een bericht",
+          "intro": "Vertel ons over uw vloot, uw werkplaats of het probleem dat u wilt oplossen. Nuttige gegevens zijn onder meer voertuigtypen, het bereik van de wieldiameters, de spoorwijdte en het verwachte aantal wielstellen per dienst."
+        },
+        {
+          "type": "split_cta",
+          "items": [
+            {
+              "icon": "headset",
+              "heading": "Aftersalesservice",
+              "text": "Staat een machine stil of heeft u reserveonderdelen nodig? Vind het juiste servicecontact voor uw installatie.",
+              "label": "Servicenetwerk",
+              "page": "service-centers"
+            },
+            {
+              "icon": "truck",
+              "heading": "Leveranciers",
+              "text": "Wilt u onderdelen of diensten aan HYT leveren? Registreer uw bedrijf bij onze inkoopafdeling.",
+              "label": "Leveranciersregistratie",
+              "page": "supplier-registration"
+            },
+            {
+              "icon": "briefcase",
+              "heading": "Vacatures",
+              "text": "Op zoek naar een functie in engineering, productie of service? Solliciteer via onze vacaturepagina.",
+              "label": "Bekijk vacatures",
+              "page": "career"
+            }
+          ]
+        }
+      ]
+    },
+    "sitemap": {
+      "nav": "Sitemap",
+      "title": "Sitemap – alle pagina’s",
+      "description": "Alle pagina’s van de website van HYT Engineering in één lijst: bedrijf, producten, turnkey projecten, diensten, sectoren, media, vacatures en juridische info.",
+      "eyebrow": "Website-informatie",
+      "h1": "Sitemap",
+      "lede": "Alle pagina’s van deze website, gegroepeerd per sectie. Typ in het zoekveld om de lijst te filteren.",
+      "summary": "Een overzicht van alle pagina’s op de website van HYT Engineering.",
+      "blocks": [
+        {
+          "type": "sitemap",
+          "heading": "Alle pagina’s"
+        },
+        {
+          "type": "cards",
+          "eyebrow": "Populaire startpunten",
+          "heading": "Weet u niet waar u moet beginnen?",
+          "cols": 4,
+          "items": [
+            {
+              "page": "products",
+              "icon": "grid-3x3-gap"
+            },
+            {
+              "page": "services",
+              "icon": "tools"
+            },
+            {
+              "page": "knowledge-centre",
+              "icon": "lightbulb"
+            },
+            {
+              "page": "contact-us",
+              "icon": "envelope"
+            }
+          ]
+        }
+      ]
+    },
+    "thank-you": {
+      "nav": "Bedankt",
+      "title": "Bedankt – uw inzending is ontvangen",
+      "description": "Bedankt voor uw bericht aan HYT Engineering. Uw inzending is ontvangen; lees wat er nu gebeurt en waar u meer informatie vindt terwijl u op ons antwoord wacht.",
+      "eyebrow": "Inzending ontvangen",
+      "h1": "Bedankt – wij hebben uw gegevens ontvangen",
+      "lede": "Of u nu een aanvraag stuurde, een catalogus aanvroeg, zich als leverancier registreerde of solliciteerde: uw inzending is bij het juiste team van HYT aangekomen.",
+      "summary": "Bevestiging dat uw inzending is ontvangen en wat er nu gebeurt.",
+      "blocks": [
+        {
+          "type": "steps",
+          "eyebrow": "Wat er nu gebeurt",
+          "heading": "Nog drie stappen",
+          "items": [
+            {
+              "title": "Ontvangstbevestiging",
+              "text": "Uw inzending wordt geregistreerd en doorgestuurd naar het verantwoordelijke team – verkoop, service, inkoop of HR."
+            },
+            {
+              "title": "Beoordeling door een specialist",
+              "text": "Een specialist van HYT beoordeelt wat u heeft gestuurd. Hebben we meer informatie nodig, zoals wielprofielen of tekeningen, dan vragen we daarom."
+            },
+            {
+              "title": "Antwoord",
+              "text": "We antwoorden per e-mail of telefoon. Bij productaanvragen kan dat een advies zijn, een verzoek om een afspraak of een technisch voorstel."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "eyebrow": "Heeft u ons eerder nodig?",
+          "heading": "Dringende zaken",
+          "paragraphs": [
+            "Staat een machine stil of is uw aanvraag tijdkritisch, bel ons dan tijdens kantooruren op +91 20 6634 3900 of het gratis nummer 1800 2100 456 en vermeld de gegevens die u heeft ingestuurd. U kunt ook mailen naar info@hytengineering.com."
+          ]
+        },
+        {
+          "type": "cards",
+          "eyebrow": "Terwijl u wacht",
+          "heading": "Verder ontdekken",
+          "cols": 3,
+          "items": [
+            {
+              "page": "products",
+              "icon": "grid-3x3-gap"
+            },
+            {
+              "page": "knowledge-centre",
+              "icon": "lightbulb"
+            },
+            {
+              "page": "turnkey-project",
+              "icon": "building-gear"
+            }
+          ]
+        }
+      ]
+    },
+    "404": {
+      "nav": "Pagina niet gevonden",
+      "title": "Pagina niet gevonden",
+      "description": "De pagina die u zocht op de website van HYT Engineering is niet gevonden. Mogelijk is zij verplaatst – via deze links vindt u producten, diensten of contact.",
+      "eyebrow": "Fout 404",
+      "h1": "Pagina niet gevonden",
+      "lede": "De pagina die u zocht bestaat niet of is verplaatst. Onze website is opnieuw ingedeeld, waardoor sommige oudere adressen zijn gewijzigd.",
+      "summary": "De opgevraagde pagina is niet gevonden.",
+      "blocks": [
+        {
+          "type": "cards",
+          "heading": "Probeer een van deze pagina’s",
+          "intro": "U kunt ook de volledige [sitemap](page:sitemap) doorbladeren om te vinden wat u zoekt.",
+          "cols": 4,
+          "items": [
+            {
+              "page": "home",
+              "icon": "house"
+            },
+            {
+              "page": "products",
+              "icon": "grid-3x3-gap"
+            },
+            {
+              "page": "services",
+              "icon": "tools"
+            },
+            {
+              "page": "contact-us",
+              "icon": "envelope"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

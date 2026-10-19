@@ -1,0 +1,1355 @@
+{
+  "pages": {
+    "about": {
+      "nav": "Over ons",
+      "title": "Over HYT Engineering – werktuigmachines voor het spoor",
+      "description": "Sinds 1977 ontwerpt, bouwt en ondersteunt HYT Engineering in Pune CNC-wielenbanken en machines voor spoorwerkplaatsen. Ons verhaal en onze waarden.",
+      "eyebrow": "Over HYT",
+      "h1": "Over HYT Engineering",
+      "lede": "Wij ontwerpen, bouwen, installeren en ondersteunen de machines die wielstellen in topconditie houden – één discipline, sinds 1977 vanuit Pune.",
+      "summary": "Ons verhaal, onze werkwijze en de waarden achter elke HYT-machine.",
+      "blocks": [
+        {
+          "type": "stats",
+          "items": [
+            {
+              "value": "1977",
+              "label": "Bouwt werktuigmachines sinds"
+            },
+            {
+              "value": "1.100+",
+              "label": "Machines geleverd (opgave van het bedrijf)"
+            },
+            {
+              "value": "3",
+              "label": "ISO-gecertificeerde managementsystemen: 9001, 14001 en 45001"
+            },
+            {
+              "value": "Pune",
+              "label": "Hoofdkantoor en fabriek, Maharashtra, India"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "eyebrow": "Ons verhaal",
+          "heading": "Van werkplaatsdraaibanken tot wieltechnologie voor het spoor",
+          "paragraphs": [
+            "HYT begon in 1977 als HYT Engineering Corporation en bouwde kleine boormachines en draaibanken voor de lokale industrie. In 1989 werd het bedrijf ingeschreven als HYT Engineering Company Pvt. Ltd. en stelde het zich een veeleisender doel: het bewerken van de onderdelen waarvan de veiligheid op het spoor afhangt.",
+            "Dat doel bracht ons bij het wielstel. Een versleten wielprofiel beïnvloedt het rijcomfort, de railslijtage, het energieverbruik en het ontsporingsrisico – en hoe snel het wordt hersteld, bepaalt hoeveel treinen er elke ochtend beschikbaar zijn. HYT was in India een pionier op het gebied van CNC-wielenbanken en heeft de bewerking van wielen en assen sindsdien altijd centraal gesteld.",
+            "Vandaag leveren wij onderloopdraaibanken, vloer- en portaalwielenbanken, machines voor de wielstelwerkplaats, depotuitrusting en complete werkplaatsen aan spoorwegen, metrobedrijven en de industrie – en we blijven bij elke machine betrokken gedurende haar hele levensduur. Lees de mijlpalen op onze pagina [Geschiedenis](page:history)."
+          ],
+          "image": "company/manufacturing-facility",
+          "image_alt": "Voorbeeldillustratie van de HYT-montagehal in Pune met een wielenbank in aanbouw",
+          "layout": "image-right"
+        },
+        {
+          "type": "features",
+          "eyebrow": "Wat we doen",
+          "heading": "Machines en diensten voor de hele levenscyclus van het wielstel",
+          "intro": "Alles wat we maken, beantwoordt één vraag: hoe houden we wielstellen veilig, rond en langer in bedrijf?",
+          "cols": 4,
+          "items": [
+            {
+              "icon": "gear-wide-connected",
+              "title": "Wielenbanken",
+              "text": "[Onderloop-, tandem-, vloer- en portaalwielenbanken](page:products#wheel-lathes) die wielen in uren in plaats van dagen herprofileren."
+            },
+            {
+              "icon": "bullseye",
+              "title": "Machines voor de wielstelwerkplaats",
+              "text": "[Verticaal draaien, asdraaien, persen, meten en balanceren](page:products#wheel-axle-shop-machines) voor nieuwe en gereviseerde wielstellen."
+            },
+            {
+              "icon": "building-gear",
+              "title": "Turnkey werkplaatsen",
+              "text": "[Complete wielstelwerkplaatsen en depotfaciliteiten](page:turnkey-project), van indeling en bouwkundige interface tot inbedrijfstelling."
+            },
+            {
+              "icon": "tools",
+              "title": "Service voor de hele levensduur",
+              "text": "[Installatie, onderhoudscontracten, reserveonderdelen, upgrades en training](page:services) voor elke machine die we leveren."
+            }
+          ]
+        },
+        {
+          "type": "steps",
+          "eyebrow": "Onze werkwijze",
+          "heading": "Ontwerp, bouw, installatie en ondersteuning – onder één dak",
+          "intro": "Omdat we elke fase in eigen huis houden, is één team verantwoordelijk van de eerste tekening tot het laatste servicebezoek. Er gaat niets verloren bij een overdracht tussen bedrijven.",
+          "items": [
+            {
+              "title": "Begrijpen",
+              "text": "We analyseren uw vloot, wielprofielen, spoorwijdte, capaciteitsdoelen en werkplaatsindeling voordat we een machine voorstellen."
+            },
+            {
+              "title": "Ontwerpen",
+              "text": "Onze engineers passen beproefde machineplatforms aan op uw voertuigen, funderingen en werkwijze."
+            },
+            {
+              "title": "Bouwen",
+              "text": "De machines worden in onze eigen fabriek in Pune gefabriceerd, gemonteerd en getest, onder kwaliteitsbeheersing volgens ISO 9001."
+            },
+            {
+              "title": "Installeren",
+              "text": "We houden toezicht op de fundering, installeren en lijnen de machine uit en tonen haar prestaties aan op uw eigen wielstellen vóór de overdracht."
+            },
+            {
+              "title": "Ondersteunen",
+              "text": "Training, onderhoudscontracten, originele reserveonderdelen en upgrades houden de machine tientallen jaren productief."
+            }
+          ]
+        },
+        {
+          "type": "features",
+          "eyebrow": "Onze waarden",
+          "heading": "Wat onze beslissingen stuurt",
+          "cols": 3,
+          "items": [
+            {
+              "icon": "rulers",
+              "title": "Precisie",
+              "text": "Een tiende millimeter op een wielprofiel maakt verschil. Volgens die norm ontwerpen, bouwen en testen wij."
+            },
+            {
+              "icon": "shield-check",
+              "title": "Veiligheid voorop",
+              "text": "Voor de mensen die onze machines bedienen, de mensen die ze bouwen en de reizigers die rijden op de wielen die ze bewerken."
+            },
+            {
+              "icon": "person-check",
+              "title": "Verantwoordelijkheid",
+              "text": "Eén partner, één aanspreekpunt – en we nemen de telefoon nog op lang nadat de garantie is verlopen."
+            },
+            {
+              "icon": "clock-history",
+              "title": "Denken op lange termijn",
+              "text": "We beoordelen een machine op haar output over twintig jaar, niet op haar eerste week in bedrijf."
+            },
+            {
+              "icon": "lightbulb",
+              "title": "Praktische innovatie",
+              "text": "Nieuwe technologie verdient haar plaats wanneer ze werkplaatsen sneller, veiliger of eenvoudiger te runnen maakt."
+            },
+            {
+              "icon": "patch-check",
+              "title": "Integriteit",
+              "text": "Eerlijk zakendoen met klanten, leveranciers en overheden, zoals vastgelegd in onze [gedragscode](page:code-of-conduct)."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "eyebrow": "Met wie we werken",
+          "heading": "Vertrouwd door spoorwegen en metrobedrijven",
+          "paragraphs": [
+            "Tot onze klanten behoren Indian Railways, Delhi Metro Rail Corporation, National Capital Region Transport Corporation en de State Railway of Thailand. Hun werkplaatsen zijn afhankelijk van wielenbanken en machines voor de wielstelwerkplaats om hun vloot in bedrijf en binnen de veiligheidsgrenzen te houden.",
+            "Daarnaast ontmoeten we de internationale spoorsector op beurzen zoals Asia Pacific Rail, Middle East Rail, Africa Rail en AusRAIL, waar we onze kennis over wielstelonderhoud delen met vervoerders uit vele netwerken."
+          ],
+          "image": "company/exhibition-stand",
+          "image_alt": "Voorbeeldillustratie van een HYT-beursstand op een internationale spoorbeurs",
+          "layout": "image-left",
+          "link": {
+            "label": "Bekijk onze klanten",
+            "page": "clientele"
+          }
+        },
+        {
+          "type": "cards",
+          "eyebrow": "Ontdek het bedrijf",
+          "heading": "Meer over HYT",
+          "cols": 4,
+          "items": [
+            {
+              "page": "history",
+              "icon": "hourglass-split"
+            },
+            {
+              "page": "group-companies",
+              "icon": "buildings"
+            },
+            {
+              "page": "quality",
+              "icon": "clipboard-check"
+            },
+            {
+              "page": "certifications",
+              "icon": "patch-check"
+            },
+            {
+              "page": "awards",
+              "icon": "award"
+            },
+            {
+              "page": "clientele",
+              "icon": "people"
+            },
+            {
+              "page": "csr",
+              "icon": "heart"
+            },
+            {
+              "page": "compliance",
+              "icon": "journal-check"
+            }
+          ]
+        },
+        {
+          "type": "cta",
+          "heading": "Praat met de mensen die de machines bouwen",
+          "text": "Of u nu één draaibank of een complete wielstelwerkplaats plant: onze applicatie-engineers helpen u de juiste oplossing te bepalen.",
+          "primary": {
+            "label": "Bespreek uw behoefte",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Bekijk onze producten",
+            "page": "products"
+          }
+        }
+      ]
+    },
+    "group-companies": {
+      "nav": "Groepsbedrijven",
+      "title": "Groepsbedrijven van HYT",
+      "description": "De bedrijven binnen de HYT-groep en hoe zij spoorwegklanten ondersteunen met machines, engineering en service. De bedrijfsgegevens worden momenteel afgerond.",
+      "eyebrow": "Over HYT",
+      "h1": "Groepsbedrijven van HYT",
+      "lede": "HYT Engineering Company Pvt. Ltd. is de tak van de groep die werktuigmachines voor het spoor levert. Op deze pagina stellen we binnenkort de verbonden bedrijven voor en laten we zien hoe zij samenwerken voor klanten.",
+      "summary": "Hoe de bedrijven binnen de HYT-groep samenwerken voor klanten in het spoor en de industrie.",
+      "blocks": [
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "Ter beoordeling door HYT: de gegevens van de groepsbedrijven zijn nog niet geverifieerd. Graag per groepsbedrijf de statutaire naam, de hoofdactiviteit, de vestigingsplaats, de relatie tot HYT Engineering Company Pvt. Ltd. en de websitelink (indien aanwezig) aanleveren. Tot die tijd zijn de onderstaande secties tijdelijke plaatshouders."
+        },
+        {
+          "type": "text",
+          "eyebrow": "Eén groep, één standaard",
+          "heading": "Waarom de groepsstructuur belangrijk is voor klanten",
+          "paragraphs": [
+            "Grote spoorprojecten draaien zelden om één enkele machine. Ze vragen om engineering, productie, installatie en jarenlange service, vaak verspreid over meerdere locaties. Een groep verbonden bedrijven kan elk van deze taken op zich nemen en daarbij werken volgens gedeelde normen en met een gezamenlijke inzet voor de klant.",
+            "Met welk groepsbedrijf u ook zakendoet: het contract, de technische verantwoordelijkheid en het aftersalescontact worden altijd duidelijk benoemd. Ons [kwaliteitsproces](page:quality) en onze [gedragscode](page:code-of-conduct) gelden voor het werk dat wij voor u leveren."
+          ],
+          "image": "company/corporate-office",
+          "image_alt": "Voorbeeldillustratie van het kantoorgebouw van HYT",
+          "layout": "image-right"
+        },
+        {
+          "type": "features",
+          "heading": "Wat klanten kunnen verwachten",
+          "cols": 3,
+          "items": [
+            {
+              "icon": "person-check",
+              "title": "Duidelijke verantwoordelijkheid",
+              "text": "Elke offerte vermeldt het contracterende bedrijf en het centrale aanspreekpunt voor uw project."
+            },
+            {
+              "icon": "clipboard-check",
+              "title": "Gedeelde kwaliteitsnormen",
+              "text": "Ontwerpbeoordelingen, inspecties en documentatie volgen hetzelfde gedisciplineerde proces."
+            },
+            {
+              "icon": "headset",
+              "title": "Continuïteit van ondersteuning",
+              "text": "Service, reserveonderdelen en upgrades blijven beschikbaar gedurende de volledige levensduur van uw uitrusting."
+            }
+          ]
+        },
+        {
+          "type": "cta",
+          "heading": "Weet u niet zeker welk bedrijf u moet benaderen?",
+          "text": "Stuur uw aanvraag naar HYT Engineering en wij zorgen dat deze bij het juiste team terechtkomt.",
+          "primary": {
+            "label": "Neem contact op met ons team",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Over HYT",
+            "page": "about"
+          }
+        }
+      ]
+    },
+    "history": {
+      "nav": "Geschiedenis",
+      "title": "Onze geschiedenis – HYT Engineering sinds 1977",
+      "description": "Van boormachines in 1977 tot de eerste in India ontwikkelde wielenbanken, SAFOP in Italië en InnoTrans 2026 – de mijlpalen die HYT Engineering hebben gevormd.",
+      "eyebrow": "Over HYT",
+      "h1": "Onze geschiedenis",
+      "lede": "Bijna vijf decennia precisietechniek in Pune – van de eerste machines voor Indian Railways in 1977 tot een internationale groep met SAFOP S.p.A. in Italië.",
+      "summary": "Mijlpalen van onze oprichting in 1977 tot de eerste in India ontwikkelde wielenbanken, SAFOP en internationale markten.",
+      "blocks": [
+        {
+          "type": "text",
+          "eyebrow": "Het verhaal van HYT",
+          "heading": "Van boormachines tot een wereldwijde engineeringgroep",
+          "paragraphs": [
+            "HYT Engineering Company werd in 1977 opgericht onder leiding van de heer Bhojraj Hemraj Teli, met als missie hoogwaardige precisiemachines te bouwen. Begonnen als fabrikant van boormachines, is HYT uitgegroeid tot een betrouwbare engineeringgroep die geavanceerde machines voor spoorwegonderhoud, precisiewerktuigmachines en turnkeyoplossingen levert aan klanten in India en op internationale markten."
+          ],
+          "image": "company/manufacturing-facility",
+          "image_alt": "Voorbeeldillustratie van werktuigmachines in montage in de HYT-fabriek",
+          "layout": "image-right"
+        },
+        {
+          "type": "timeline",
+          "layout": "split",
+          "id": "era-1970s",
+          "eyebrow": "1977\u20131979",
+          "heading": "Oprichting",
+          "items": [
+            {
+              "year": "1977",
+              "tag": "Oprichtingsmijlpaal",
+              "title": "Oprichting van HYT Engineering Corporation",
+              "text": "De heer Bhojraj Hemraj Teli richtte HYT Engineering Corporation op in Pune met één missie: hoogwaardige precisiemachines bouwen voor het spoor. Het eerste werk richtte zich op machines voor de revisie van tractiemotoren en het herstel van ankers – de basis voor een gespecialiseerde engineeringonderneming."
+            }
+          ]
+        },
+        {
+          "type": "timeline",
+          "layout": "split",
+          "id": "era-1980s",
+          "eyebrow": "1980\u20131989",
+          "heading": "Vroege innovatie",
+          "items": [
+            {
+              "year": "1981",
+              "tag": "Eerste ontwikkeling",
+              "title": "Ontwikkeling en levering van de machine voor het uitfrezen van mica",
+              "text": "HYT ontwikkelde en leverde de machine voor het uitfrezen van mica – een vroeg gespecialiseerd product dat liet zien hoe het bedrijf zijn kunde in de ontwikkeling van precisiewerktuigmachines voor de spoorsector uitbreidde."
+            },
+            {
+              "year": "1985",
+              "tag": "Productinnovatie",
+              "title": "Ontwikkeling en levering van de universele ankermachine",
+              "text": "De universele ankermachine werd ontwikkeld en geleverd, waarmee HYT zijn portfolio van gespecialiseerde machines voor het onderhoud en de revisie van tractiemotoren voor het spoor uitbreidde."
+            },
+            {
+              "year": "1989",
+              "tag": "Oprichting van de vennootschap",
+              "title": "HYT Engineering Company Pvt. Ltd.",
+              "text": "Het bedrijf werd ingeschreven als HYT Engineering Company Pvt. Ltd. en kreeg daarmee de structuur om grotere engineeringopdrachten aan te nemen."
+            }
+          ],
+          "variant": "muted"
+        },
+        {
+          "type": "timeline",
+          "layout": "split",
+          "id": "era-1990s",
+          "eyebrow": "1990\u20131999",
+          "heading": "Pionier in wielenbanken",
+          "items": [
+            {
+              "year": "1992",
+              "tag": "Een primeur voor India",
+              "title": "De eerste in India ontwikkelde vloerwielenbank",
+              "text": "Een historisch jaar. HYT ontwikkelde en leverde de eerste in India ontwikkelde vloerwielenbank en betrad daarmee de wereld van de wielenbanktechnologie."
+            },
+            {
+              "year": "1994",
+              "tag": "Een primeur voor India",
+              "title": "De eerste in India ontwikkelde onderloopdraaibank en astappendraaibank",
+              "text": "HYT behaalde opnieuw een nationale primeur met de ontwikkeling en levering van de eerste in India ontwikkelde onderloopdraaibank (putdraaibank) en de draai- en rolpolijstbank voor astappen."
+            }
+          ]
+        },
+        {
+          "type": "timeline",
+          "layout": "split",
+          "id": "era-2000s",
+          "eyebrow": "2000\u20132009",
+          "heading": "Het CNC-tijdperk en wereldwijd bereik",
+          "items": [
+            {
+              "year": "2001",
+              "tag": "Uitbreiding van de groep",
+              "title": "Oprichting van HYT Innovative Projects Pvt. Ltd.",
+              "text": "HYT breidde de groep uit met de oprichting van zusterbedrijf HYT Innovative Projects Pvt. Ltd., gespecialiseerd in de productie van precisiebuizen met flowforming-technologie, in een vestiging van 4.500 m² met meer dan 50 medewerkers."
+            },
+            {
+              "year": "2001",
+              "tag": "Technologische vernieuwing",
+              "title": "Van conventionele naar CNC-machines",
+              "text": "HYT voltooide een ingrijpende overstap van conventionele machines naar CNC en ontwikkelde en leverde de CNC-vloerwielenbank en de CNC-verticale draaibank – en positioneerde zich daarmee als technologiegedreven engineeringbedrijf dat aansluit bij wereldwijde productienormen."
+            },
+            {
+              "year": "2004",
+              "tag": "HYT gaat internationaal",
+              "title": "Exportorder – SMH Rail Sdn. Bhd., Maleisië",
+              "text": "Een bepalende mijlpaal. HYT ontving een internationale order van SMH Rail Sdn. Bhd. in Maleisië – het begin van de wereldwijde aanwezigheid van het bedrijf en van zijn ontwikkeling tot internationaal erkende exporteur van werktuigmachines."
+            },
+            {
+              "year": "2005",
+              "tag": "Strategisch project",
+              "title": "Revisie van een machine voor de bouw van onderzeeërs – Mazagon Dock Ltd.",
+              "text": "HYT toonde zijn veelzijdigheid door met succes een machine voor de bouw van onderzeeërs te reviseren voor Mazagon Dock Ltd., en breidde zijn expertise daarmee uit van het spoor naar defensie en zware industrie."
+            },
+            {
+              "year": "2007",
+              "tag": "Grote order",
+              "title": "Order van Larsen & Toubro",
+              "text": "HYT ontving een historische order van Larsen & Toubro voor de levering van machines voor de productie van wielschijven – een van de grootste afzonderlijke orders, die de positie van HYT verstevigde."
+            },
+            {
+              "year": "2009",
+              "tag": "Een primeur voor India",
+              "title": "Automatische treinwasinstallatie – Kurla, Mumbai",
+              "text": "HYT ontwikkelde en leverde de eerste automatische treinwasinstallatie van India voor Indian Railways in Kurla, Mumbai – een nieuwe productcategorie, die liet zien dat het bedrijf ook buiten wielenbanken kon innoveren in bredere spoorinfrastructuur."
+            }
+          ],
+          "variant": "muted"
+        },
+        {
+          "type": "timeline",
+          "layout": "split",
+          "id": "era-2010s",
+          "eyebrow": "2010\u20132019",
+          "heading": "Toonaangevend in turnkey en internationale groei",
+          "items": [
+            {
+              "year": "2010",
+              "tag": "Technologische vernieuwing",
+              "title": "CNC-verticale draai- en boormachine",
+              "text": "HYT ontwikkelde en leverde de CNC-verticale draai- en boormachine – een zeer nauwkeurige machine voor onderdelen met een grote diameter, die de markt en de technische mogelijkheden van het bedrijf aanzienlijk vergrootte."
+            },
+            {
+              "year": "2011",
+              "tag": "Eerste EPC-project",
+              "title": "Productiefaciliteit voor LHB-rijtuigbakken – ICF Chennai",
+              "text": "HYT betrad het domein van turnkey-EPC met zijn eerste grote infrastructuurproject: de inrichting van een productiefaciliteit voor LHB-rijtuigbakken voor de Integral Coach Factory in Chennai. Daarmee groeide het bedrijf van leverancier van werktuigmachines uit tot aanbieder van complete infrastructuuroplossingen."
+            },
+            {
+              "year": "2013",
+              "tag": "Recordorder",
+              "title": "Grootste order ooit voor CNC-vloerwielenbanken – 36 machines",
+              "text": "HYT ontving zijn grootste afzonderlijke order voor CNC-vloerwielenbanken, voor 36 machines – een bewijs van de omvang van de vraag naar de vlaggenschipproducten van het bedrijf binnen Indian Railways."
+            },
+            {
+              "year": "2013",
+              "tag": "Leiderschap",
+              "title": "Mevrouw Rajashri Teli benoemd tot Whole Time Director",
+              "text": "Mevrouw Rajashri Bhojraj Teli werd benoemd tot Whole Time Director en bracht een vooruitstrevende bedrijfsstrategie mee die de groep aanzienlijke groei en internationale erkenning zou opleveren."
+            },
+            {
+              "year": "2014",
+              "tag": "Productmijlpaal",
+              "title": "CNC-portaalwielenbank – North Central Railway, Jhansi",
+              "text": "HYT leverde de CNC-portaalwielenbank aan de wagenwerkplaats van North Central Railway in Jhansi, voegde daarmee een nieuwe variant aan zijn wielenbankportfolio toe en versterkte de relatie met Indian Railways."
+            },
+            {
+              "year": "2015",
+              "tag": "Productmijlpaal",
+              "title": "CNC-onderloopdraaibanken – Chennai Metro",
+              "text": "HYT betrad het metrosegment met de levering van CNC-onderloopdraaibanken aan Chennai Metro – de eerste van vele metro-opdrachten die HYT tot voorkeursleverancier maakten voor het groeiende stedelijke spoornet van India."
+            },
+            {
+              "year": "2015",
+              "tag": "Make in India",
+              "title": "Rail-wegvoertuig (rangeervoertuig) ontwikkeld met BEMO, Nederland",
+              "text": "HYT ontwikkelde het rail-wegvoertuig (rangeervoertuig) in het kader van een Make in India-initiatief, in samenwerking met BEMO uit Nederland – een veelzijdig voertuig voor werkzaamheden op spoorwegemplacementen."
+            },
+            {
+              "year": "2015",
+              "tag": "Infrastructuur",
+              "title": "Duurzaam hoofdkantoor (Green Building) in Pune geopend",
+              "text": "HYT opende zijn Green Building-hoofdkantoor in Chinchwad, Pune – een moderne, duurzame vestiging die het centrale knooppunt werd voor engineering, productie en administratie."
+            },
+            {
+              "year": "2016",
+              "tag": "Technologieoverdracht",
+              "title": "CNC-veerwikkelmachines – technologieoverdracht van TNI Spring Technologies, VS",
+              "text": "HYT bouwde en leverde de CNC-machine voor het warm wikkelen van schroefveren, de CNC-machine voor het warm aftaperen van staafeinden en de spoedcorrectiemachine voor het verenproject bij ICF Chennai, op basis van een technologieoverdracht van TNI Spring Technologies LLC uit de VS – een bewijs dat HYT internationale technologie kan overnemen en toepassen."
+            },
+            {
+              "year": "2018",
+              "tag": "OEM-levering",
+              "title": "Levering aan Alstom en GE Diesel Locomotive Pvt. Ltd.",
+              "text": "HYT leverde onderloopdraaibanken van de nieuwe generatie aan Alstom en GE Diesel Locomotive Pvt. Ltd. en trad daarmee toe tot de internationale OEM-toeleveringsketen van fabrikanten van rollend materieel."
+            },
+            {
+              "year": "2018",
+              "tag": "Servicemodel",
+              "title": "Wet leasing (Machine as a Service) – ICF Chennai",
+              "text": "HYT introduceerde als eerste een wet-leasingcontract voor ICF Chennai en nam de volledige verantwoordelijkheid voor levering, inbedrijfstelling, bediening en onderhoud – een servicemodel dat uniek was in de Indiase sector van spoorwegmachines. Zie [wet leasing](page:wet-leasing)."
+            },
+            {
+              "year": "2019",
+              "tag": "Overname van SAFOP",
+              "title": "Overname van SAFOP S.p.A., Italië – 100% dochteronderneming",
+              "text": "De belangrijkste strategische stap van HYT – de overname van SAFOP S.p.A. in Italië (opgericht in 1923) als dochteronderneming. Met meer dan 1.400 wereldwijd verkochte machines en een eeuw Italiaanse precisietechniek vergrootte SAFOP de wereldwijde aanwezigheid en het technologieportfolio van de groep aanzienlijk."
+            },
+            {
+              "year": "2019",
+              "tag": "Nationale primeur",
+              "title": "De eerste in India ontwikkelde automatische installatie voor wiel- en asassemblage – RWF Bangalore",
+              "text": "HYT ontwikkelde en bouwde de eerste in India ontwikkelde automatische installatie voor wiel- en asassemblage voor de Rail Wheel Factory in Bangalore – een mijlpaal in de automatisering van de productie van wielstellen."
+            },
+            {
+              "year": "2019",
+              "tag": "Exportmijlpaal",
+              "title": "Levering aan SNCF Frankrijk – conform Europese normen",
+              "text": "HYT ontwikkelde en leverde onderloopdraaibanken aan SNCF in Frankrijk, conform de Europese normen – een historisch exportsucces dat de kwaliteit van HYT op het wereldtoneel bevestigde."
+            }
+          ]
+        },
+        {
+          "type": "timeline",
+          "layout": "split",
+          "id": "era-2020s",
+          "eyebrow": "2020\u20132026",
+          "heading": "Nieuwe horizonten",
+          "items": [
+            {
+              "year": "2020",
+              "tag": "Recordorder",
+              "title": "Order voor 27 onderloopdraaibanken – Indian Railways",
+              "text": "HYT ontving van Indian Railways een order voor 27 onderloopdraaibanken – een van de grootste afzonderlijke orders voor wielenbanken, die zijn positie als voorkeursleverancier voor de onderhoudsinfrastructuur van het rollend materieel van Indian Railways versterkte."
+            },
+            {
+              "year": "2021",
+              "tag": "Afrika",
+              "title": "CNC-onderloopdraaibank geleverd aan Gabon en CNC-vloerwielenbank aan Ghana",
+              "text": "HYT leverde en nam een CNC-onderloopdraaibank in bedrijf in Gabon, Centraal-Afrika, en richtte daar een complete wielstelwerkplaats in. Daarnaast leverde het een CNC-vloerwielenbank aan Ghana, West-Afrika – een teken van de sterke vraag op de Afrikaanse spoormarkt."
+            },
+            {
+              "year": "2021",
+              "tag": "EPC-projecten",
+              "title": "Geautomatiseerde wielstelwerkplaats in New Katni en asbewerkingslijn bij RWF Bangalore",
+              "text": "HYT voerde een EPC-project uit voor een geautomatiseerde wielstelwerkplaats in New Katni, Madhya Pradesh – een van de grootste wielonderhoudsfaciliteiten van Indian Railways – en richtte een complete asbewerkingslijn in bij de Rail Wheel Factory in Bangalore."
+            },
+            {
+              "year": "2021",
+              "tag": "Productinnovatie",
+              "title": "De eerste in India ontwikkelde tandemonderloopdraaibank",
+              "text": "HYT ontwikkelde de eerste in India ontwikkelde tandemonderloopdraaibank – een opstelling met twee machines voor wielstelwerkplaatsen met een zeer hoge doorvoer, gegund door de Delhi Metro Rail Corporation."
+            },
+            {
+              "year": "2022",
+              "tag": "Nationale primeur",
+              "title": "Eerste onderhoudsdepot voor de Vande Bharat – Shakur Basti, Northern Railway",
+              "text": "HYT richtte bij Shakur Basti, onder Northern Railway, het eerste speciale onderhoudsdepot van India voor de Vande Bharat Express in – een mijlpaal op het moment dat de semi-hogesnelheidstrein, het vlaggenschip van het land, in dienst kwam, met HYT-machines als vast onderdeel van het onderhoud."
+            },
+            {
+              "year": "2024",
+              "tag": "Productinnovatie",
+              "title": "Lijn voor assemblage en demontage van draaistellen – Dibrugarh",
+              "text": "HYT leverde in Dibrugarh een lijn voor de assemblage en demontage van draaistellen voor Northeast Frontier Railway – een geavanceerde, halfautomatische assemblageoplossing die moderne productiemethoden bracht naar een van de geografisch meest uitdagende spoorregio's van India."
+            },
+            {
+              "year": "2024",
+              "tag": "Productinnovatie",
+              "title": "Grote horizontale machines voor het onderhoud van turbinerotoren",
+              "text": "HYT en SAFOP verwierven orders voor grote horizontale machines voor het onderhoud van turbinerotoren."
+            },
+            {
+              "year": "2025",
+              "tag": "Wereldwijde aanwezigheid",
+              "title": "Vijf internationale beurzen op vier continenten",
+              "text": "HYT stond op Middle East Rail in Dubai, Eurasia Rail in Istanbul, Asia Pacific Rail in Bangkok, Africa Rail in Johannesburg en NT Expo in São Paulo – de breedste internationale presentatie van het bedrijf in één jaar."
+            },
+            {
+              "year": "2025",
+              "tag": "Wereldwijde aanwezigheid",
+              "title": "Orders uit het Midden-Oosten en Turkije",
+              "text": "HYT verwierf orders uit het Midden-Oosten en Turkije voor onderloopdraaibanken, tandemonderloopdraaibanken, asdraaibanken en verticale draaibanken."
+            },
+            {
+              "year": "2026",
+              "tag": "Erkenning",
+              "title": "Managing Director onderscheiden bij Hurun Stars of the Deccan",
+              "text": "Mevrouw Rajashri Teli, Managing Director, werd onderscheiden bij Hurun Stars of the Deccan 2026 – een erkenning van haar rol in de groei en internationale expansie van de groep."
+            },
+            {
+              "year": "2026",
+              "tag": "InnoTrans 2026",
+              "title": "HYT Group exposeert op InnoTrans 2026 in Berlijn",
+              "text": "HYT Engineering en SAFOP S.p.A. exposeerden samen als HYT Group op InnoTrans 2026 – hal 22A, stands 630 & 730, Messe Berlin, 22–25 september 2026 – en presenteerden het complete assortiment CNC-wielenbanken aan het toonaangevende publiek van de wereldwijde transporttechniek."
+            }
+          ],
+          "variant": "muted"
+        },
+        {
+          "type": "cta",
+          "heading": "Schrijf mee aan het volgende hoofdstuk",
+          "text": "Ontdek loopbaanmogelijkheden, partnerschappen of zakelijke kansen bij de HYT Group.",
+          "primary": {
+            "label": "Bekijk vacatures",
+            "page": "career"
+          },
+          "secondary": {
+            "label": "Neem contact op met ons team",
+            "page": "contact-us"
+          }
+        }
+      ]
+    },
+    "quality": {
+      "nav": "Kwaliteit",
+      "title": "Kwaliteitsborging – van ontwerp tot acceptatie",
+      "description": "Zo borgt HYT de kwaliteit van elke wielenbank: ontwerpreviews, ingangs- en tussencontroles, proefdraaien op wielstellen van de klant en documentatie.",
+      "eyebrow": "Certificeringen & referenties",
+      "h1": "Kwaliteit bij HYT",
+      "lede": "Een wielenbank bepaalt het profiel waarop een trein rijdt. Voor ons is kwaliteit een proces dat begint bij de eerste tekening en pas eindigt wanneer de machine zich op uw wielstellen heeft bewezen.",
+      "summary": "Ons kwaliteitsproces, van ontwerpreview tot acceptatietest op de eigen wielstellen van de klant.",
+      "blocks": [
+        {
+          "type": "text",
+          "eyebrow": "Waarom het ertoe doet",
+          "heading": "Kwaliteit die u op het wiel kunt meten",
+          "paragraphs": [
+            "Een fout in een werktuigmachine wordt gekopieerd in elk onderdeel dat zij maakt. Bij een wielenbank betekent dat: in elk wielprofiel, op elke trein, jarenlang. Nauwkeurigheid, herhaalbaarheid en betrouwbaarheid zijn daarom geen extra’s – ze zijn het product.",
+            "Ons kwaliteitsmanagementsysteem is gecertificeerd volgens ISO 9001:2015. Het certificaat bevestigt dat het proces bestaat en wordt geaudit; de onderstaande stappen laten zien hoe het in de praktijk werkt. De certificaten voor kwaliteit, milieu en arbo vindt u op de pagina [Certificeringen](page:certifications)."
+          ],
+          "image": "company/quality-inspection",
+          "image_alt": "Voorbeeldillustratie van een inspecteur die een bewerkt onderdeel meet in de kwaliteitsafdeling van HYT",
+          "layout": "image-right"
+        },
+        {
+          "type": "steps",
+          "eyebrow": "Ons kwaliteitsproces",
+          "heading": "Zes controlepunten tussen order en overdracht",
+          "items": [
+            {
+              "title": "Contract- en ontwerpreview",
+              "text": "Klantspecificaties, wielprofielen, spoorwijdte en omstandigheden op locatie worden door engineering beoordeeld voordat het ontwerp begint, en elk ontwerp wordt vóór vrijgave daaraan getoetst."
+            },
+            {
+              "title": "Leveranciersbeheersing & ingangscontrole",
+              "text": "Gietstukken, constructies, ingekochte componenten en CNC-besturingen worden betrokken van beoordeelde leveranciers en bij aankomst gecontroleerd aan de hand van tekeningen en specificaties."
+            },
+            {
+              "title": "Tussentijdse inspectie",
+              "text": "Kritische bewerkte kenmerken, geometrie en uitlijning worden in vastgelegde fasen van productie en montage gecontroleerd en de resultaten worden geregistreerd."
+            },
+            {
+              "title": "Fabriekstest",
+              "text": "Elke machine wordt in onze fabriek proefgedraaid; functies en veiligheidsvergrendelingen worden getest en de geometrische nauwkeurigheid wordt vóór verzending geverifieerd."
+            },
+            {
+              "title": "Proefdraaien & acceptatie op locatie",
+              "text": "Na de installatie wordt de machine beproefd op de eigen wielstellen van de klant. Profielen en maten worden gemeten en de resultaten worden samen met de klant goedgekeurd."
+            },
+            {
+              "title": "Documentatie & overdracht",
+              "text": "Inspectieregistraties, testrapporten, handleidingen, tekeningen en reserveonderdelenlijsten worden met de machine overgedragen, als basis voor audits en toekomstig onderhoud."
+            }
+          ]
+        },
+        {
+          "type": "features",
+          "eyebrow": "Meer dan een checklist",
+          "heading": "Hoe we blijven verbeteren",
+          "cols": 3,
+          "items": [
+            {
+              "icon": "arrow-repeat",
+              "title": "Feedback uit de praktijk",
+              "text": "Servicerapporten en klantfeedback worden beoordeeld en teruggekoppeld naar ontwerp en productie."
+            },
+            {
+              "icon": "search",
+              "title": "Oorzaakanalyse",
+              "text": "Afwijkingen worden tot op de oorzaak onderzocht en gecorrigeerd, zodat ze zich niet herhalen."
+            },
+            {
+              "icon": "mortarboard",
+              "title": "Vakkundige mensen",
+              "text": "Inspecteurs, monteurs en service-engineers zijn opgeleid in de methoden en normen die voor hun werk gelden."
+            }
+          ]
+        },
+        {
+          "type": "cards",
+          "heading": "Gerelateerde pagina’s",
+          "cols": 3,
+          "items": [
+            {
+              "page": "certifications",
+              "icon": "patch-check"
+            },
+            {
+              "page": "installation-commissioning",
+              "icon": "tools"
+            },
+            {
+              "page": "policy-statement",
+              "icon": "journal-check"
+            }
+          ]
+        },
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "Ter beoordeling door HYT: graag bevestigen dat de zes processtappen overeenkomen met de werkelijke kwaliteitsprocedures van HYT, en aangeven of specifieke inspectieapparatuur of inspectie door de klant (bijv. door externe inspecteurs of inspecteurs van de spoorwegen) moet worden vermeld."
+        }
+      ]
+    },
+    "certifications": {
+      "nav": "Certificeringen",
+      "title": "Certificeringen ISO 9001, ISO 14001 & ISO 45001",
+      "description": "De managementsystemen van HYT Engineering zijn gecertificeerd volgens ISO 9001:2015, ISO 14001:2015 en ISO 45001:2018. Wat elke norm voor u betekent.",
+      "eyebrow": "Certificeringen & referenties",
+      "h1": "Certificeringen",
+      "lede": "Onze managementsystemen voor kwaliteit, milieu en arbo zijn onafhankelijk gecertificeerd. Hier leest u wat elk certificaat betekent voor klanten en partners.",
+      "summary": "ISO 9001:2015, ISO 14001:2015 en ISO 45001:2018 – wat elk certificaat omvat.",
+      "blocks": [
+        {
+          "type": "features",
+          "eyebrow": "Gecertificeerde managementsystemen",
+          "heading": "Drie normen, één manier van werken",
+          "intro": "Elke norm wordt geaudit door een certificatie-instelling. Samen bestrijken ze hoe we machines bouwen, hoe we met het milieu omgaan en hoe we mensen beschermen.",
+          "cols": 3,
+          "items": [
+            {
+              "icon": "clipboard-check",
+              "title": "ISO 9001:2015 – Kwaliteitsmanagement",
+              "text": "Vereist een gedocumenteerd, geaudit proces voor het begrijpen van klanteisen, het beheersen van ontwerp, inkoop en productie en het corrigeren van problemen. Voor u betekent dit: machines van constante kwaliteit en traceerbare registraties."
+            },
+            {
+              "icon": "tree",
+              "title": "ISO 14001:2015 – Milieumanagement",
+              "text": "Vereist dat we de milieu-impact van onze activiteiten in kaart brengen – energie, afval, emissies, koelsmeermiddelen en oliën – en deze beheersen en verminderen. Voor u betekent dit: een leverancier die zijn voetafdruk beheert."
+            },
+            {
+              "icon": "shield-check",
+              "title": "ISO 45001:2018 – Gezond en veilig werken",
+              "text": "Vereist dat we gevaren identificeren en letsel en gezondheidsschade voorkomen in onze fabriek en op locaties van klanten. Voor u betekent dit: veiliger installatie- en servicewerk in uw depot."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "eyebrow": "Voor inkopers en auditors",
+          "heading": "Onze certificaten gebruiken bij uw leveranciersbeoordeling",
+          "paragraphs": [
+            "Aanbestedingen van spoorweg- en metrobedrijven vragen vaak om bewijs van gecertificeerde managementsystemen. Kopieën van onze actuele certificaten, inclusief toepassingsgebied, certificatie-instelling en geldigheidsdata, worden op deze pagina beschikbaar gesteld als download.",
+            "Heeft u de certificaten eerder nodig voor een aanbesteding of leveranciersaudit, [neem dan contact met ons op](page:contact-us) en we sturen ze u rechtstreeks toe. Hoe ISO 9001 in de praktijk op de werkvloer werkt, leest u bij ons [kwaliteitsproces](page:quality); onze verplichtingen per gebied staan in de [beleidsverklaring](page:policy-statement)."
+          ],
+          "image": "company/quality-inspection",
+          "image_alt": "Voorbeeldillustratie van een kwaliteitsinspectiestation met meetinstrumenten",
+          "layout": "image-right"
+        },
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "Ter beoordeling door HYT: de certificaten zijn nog niet als pdf beschikbaar. Graag de actuele certificaten ISO 9001:2015, ISO 14001:2015 en ISO 45001:2018 aanleveren, inclusief gecertificeerd toepassingsgebied, certificatie-instelling en geldigheidsdata, zodat ze hier als download kunnen worden toegevoegd."
+        }
+      ]
+    },
+    "awards": {
+      "nav": "Onderscheidingen",
+      "title": "Onderscheidingen en erkenning",
+      "description": "Erkenning voor HYT Engineering, waaronder de vermelding in Leading Mid-Corporates of India 2023 van Dun & Bradstreet, en hoe wij succes met klanten meten.",
+      "eyebrow": "Certificeringen & referenties",
+      "h1": "Onderscheidingen en erkenning",
+      "lede": "De beste erkenning is een machine die jaren na de overdracht nog dagelijks in gebruik is. We zijn er ook trots op wanneer onafhankelijke organisaties ons werk opmerken.",
+      "summary": "Onafhankelijke erkenning van het werk en de groei van HYT Engineering.",
+      "blocks": [
+        {
+          "type": "features",
+          "eyebrow": "Erkenning",
+          "heading": "Onafhankelijke erkenning",
+          "cols": 2,
+          "items": [
+            {
+              "icon": "award",
+              "title": "Leading Mid-Corporates of India 2023",
+              "text": "HYT Engineering is opgenomen in de publicatie “Leading Mid-Corporates of India 2023” van Dun & Bradstreet, die gevestigde Indiase middelgrote bedrijven profileert."
+            },
+            {
+              "icon": "people",
+              "title": "Orders van openbare vervoerders",
+              "text": "Orders van Indian Railways, Delhi Metro Rail Corporation en National Capital Region Transport Corporation weerspiegelen het vertrouwen van veeleisende publieke klanten. Bekijk onze [klanten](page:clientele)."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "eyebrow": "Hoe we succes meten",
+          "heading": "Erkenning verdiend in de werkplaats",
+          "paragraphs": [
+            "Prijzen zijn welkom, maar onze echte maatstaf is praktisch: treinen die op tijd weer in dienst komen, wielen die meer herprofileringscycli meegaan en machines die tientallen jaren betrouwbaar blijven draaien.",
+            "Die resultaten zijn gebaseerd op een gedisciplineerd [kwaliteitsproces](page:quality), onafhankelijk [gecertificeerde managementsystemen](page:certifications) en langdurige relaties met de vervoerders op onze pagina [Klanten](page:clientele). Ze zijn ook de reden dat klanten bij ons terugkomen voor upgrades, onderhoudscontracten en nieuwe machines.",
+            "Die ervaring delen we met de sector op internationale evenementen zoals Asia Pacific Rail, Middle East Rail, Africa Rail en AusRAIL. Bekijk onze [internationale beurzen](page:international-exhibitions)."
+          ],
+          "image": "company/exhibition-stand",
+          "image_alt": "Voorbeeldillustratie van een HYT-stand op een spoorbeurs",
+          "layout": "image-right"
+        },
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "Ter beoordeling door HYT: de vermelding bij Dun & Bradstreet is overgenomen uit een publicatie-index en moet worden bevestigd. Graag de volledige lijst van onderscheidingen en erkenningen aanleveren (naam, toekennende instantie, jaar, certificaat of foto) om deze pagina te completeren."
+        }
+      ]
+    },
+    "clientele": {
+      "nav": "Klanten",
+      "title": "Onze klanten – spoorwegen en metrobedrijven",
+      "description": "HYT Engineering levert wielenbanken en werkplaatsmachines aan Indian Railways, Delhi Metro, NCRTC en de State Railway of Thailand. Ontdek onze klanten.",
+      "eyebrow": "Certificeringen & referenties",
+      "h1": "Onze klanten",
+      "lede": "Nationale spoorwegen en metrobedrijven vertrouwen op HYT-machines om hun wielstellen binnen de veiligheidsgrenzen en hun vloot in bedrijf te houden.",
+      "summary": "Spoorwegen en metrobedrijven die vertrouwen op wielenbanken en werkplaatsmachines van HYT.",
+      "blocks": [
+        {
+          "type": "logos",
+          "heading": "Een selectie van onze klanten",
+          "intro": "Een selectie van vervoerders aan wie HYT machines heeft geleverd of van wie HYT orders heeft ontvangen.",
+          "items": [
+            {
+              "name": "Indian Railways",
+              "note": "Contract voor negen CNC-onderloopdraaibanken"
+            },
+            {
+              "name": "Delhi Metro Rail Corporation (DMRC)",
+              "note": "CNC-tandemonderloopdraaibank"
+            },
+            {
+              "name": "National Capital Region Transport Corporation (NCRTC)",
+              "note": "Volautomatische CNC-onderloopdraaibanken"
+            },
+            {
+              "name": "State Railway of Thailand",
+              "note": "CNC-verticale revolverdraaibank, geleverd en geïnstalleerd in Bangkok"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "eyebrow": "Wat onze klanten gemeen hebben",
+          "heading": "Vervoerders die zich geen stilstaande treinen kunnen veroorloven",
+          "paragraphs": [
+            "Onze klanten exploiteren intensief ingezette vloten met krappe onderhoudsschema’s. Voor hen is een wielenbank geen machine voor af en toe, maar een dagelijkse bottleneck: elk uur dat een trein op herprofilering wacht, is een uur waarin hij geen inkomsten genereert en geen reizigers vervoert.",
+            "Daarom zoeken ze meer dan een machine. Ze hebben funderingen nodig die in één keer goed zijn ontworpen, operators die op hun eigen voertuigen zijn opgeleid en een servicepartner die reageert wanneer het ertoe doet. Bekijk de details bij onze [uitgevoerde projecten](page:executed-projects) en [projecten in uitvoering](page:under-execution)."
+          ],
+          "image": "industries/railways",
+          "image_alt": "Voorbeeldillustratie van een onderhoudsdepot met locomotieven en rijtuigen",
+          "layout": "image-right"
+        },
+        {
+          "type": "cards",
+          "heading": "Sectoren die wij bedienen",
+          "cols": 3,
+          "items": [
+            {
+              "page": "ind-railways",
+              "image": "industries/railways"
+            },
+            {
+              "page": "ind-metros",
+              "image": "industries/metros"
+            },
+            {
+              "page": "ind-rolling-stock",
+              "image": "industries/rolling-stock-manufacturers"
+            }
+          ]
+        },
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "Ter beoordeling door HYT: graag de goedgekeurde klantenlijst voor publicatie aanleveren en per klant bevestigen of de naam mag worden getoond en of er toestemming is om het logo weer te geven."
+        }
+      ]
+    },
+    "csr": {
+      "nav": "MVO",
+      "title": "Maatschappelijk verantwoord ondernemen bij HYT",
+      "description": "De aanpak van HYT Engineering voor maatschappelijk verantwoord ondernemen (MVO): onderwijs, vaardigheden, milieu en gezondheid, gedragen door onze mensen.",
+      "eyebrow": "Verantwoordelijkheid",
+      "h1": "Maatschappelijk verantwoord ondernemen",
+      "lede": "Onze machines worden gebouwd door mensen uit de gemeenschap rond onze fabriek in Pune. We willen dat die gemeenschap samen met het bedrijf sterker wordt.",
+      "summary": "Onze aanpak op het gebied van onderwijs, vaardigheden, milieu en gezondheid in onze omgeving.",
+      "blocks": [
+        {
+          "type": "text",
+          "eyebrow": "Onze aanpak",
+          "heading": "Verantwoordelijkheid die dicht bij huis begint",
+          "paragraphs": [
+            "Engineeringbedrijven zijn afhankelijk van vakkundige mensen, een gezonde leefomgeving en stabiele gemeenschappen. Onze MVO-aanpak richt zich op gebieden waar een industriële fabrikant een blijvend, praktisch verschil kan maken, in plaats van op eenmalige gebaren.",
+            "We streven ernaar projecten zorgvuldig te kiezen, samen te werken met geloofwaardige partners, onze medewerkers te betrekken en eerlijk te rapporteren over wat is bereikt."
+          ],
+          "image": "company/csr-community",
+          "image_alt": "Voorbeeldillustratie van een maatschappelijke activiteit met vrijwilligers van HYT",
+          "layout": "image-right"
+        },
+        {
+          "type": "features",
+          "eyebrow": "Aandachtsgebieden",
+          "heading": "Waar we het verschil willen maken",
+          "cols": 4,
+          "items": [
+            {
+              "icon": "book",
+              "title": "Onderwijs",
+              "text": "Steun aan scholen en studenten, met de nadruk op natuurwetenschappen, wiskunde en techniek."
+            },
+            {
+              "icon": "mortarboard",
+              "title": "Vaardigheidsontwikkeling",
+              "text": "Jongeren helpen de technische en beroepsvaardigheden te verwerven die de maakindustrie nodig heeft."
+            },
+            {
+              "icon": "tree",
+              "title": "Milieu",
+              "text": "De voetafdruk van onze eigen activiteiten verkleinen in het kader van ISO 14001 en lokale milieu-initiatieven ondersteunen."
+            },
+            {
+              "icon": "heart-pulse",
+              "title": "Gezondheid & welzijn",
+              "text": "Gezondheid en veiligheid bevorderen voor medewerkers, hun gezinnen en de bredere gemeenschap."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "eyebrow": "Onze mensen",
+          "heading": "Medewerkers die meedoen",
+          "paragraphs": [
+            "Verantwoordelijkheid maakt ook deel uit van het dagelijks leven in onze fabriek. Activiteiten voor medewerkers zoals bloeddonatiedagen, de Safety Week en de Internationale Dag van de Yoga brengen collega’s samen rond gezondheid, veiligheid en dienstbaarheid aan anderen.",
+            "Foto’s van deze activiteiten vindt u op de pagina [Het leven bij HYT](page:memorialization)."
+          ],
+          "image": "company/life-at-hyt",
+          "image_alt": "Voorbeeldillustratie van HYT-medewerkers die deelnemen aan een gezondheidsactiviteit op het werk",
+          "layout": "image-left"
+        },
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "Ter beoordeling door HYT: de MVO-activiteiten zijn nog niet geverifieerd. Graag het goedgekeurde MVO-beleid aanleveren, de aandachtsgebieden die HYT wil publiceren en details van afgeronde of lopende projecten (partner, locatie, jaar, foto’s)."
+        }
+      ]
+    },
+    "compliance": {
+      "nav": "Compliance",
+      "title": "Compliance – codes, richtlijnen en beleid",
+      "description": "De gedragscode, richtlijnen voor zakelijk gedrag en geïntegreerde beleidsverklaring van HYT Engineering – op één plek voor leveranciers, klanten en auditors.",
+      "eyebrow": "Verantwoordelijkheid",
+      "h1": "Compliance",
+      "lede": "Klanten in de spoorsector, leveranciers en auditors moeten weten hoe wij zakendoen. Onze codes, richtlijnen en beleidsdocumenten vindt u hier bij elkaar.",
+      "summary": "Onze gedragscode, richtlijnen voor zakelijk gedrag en geïntegreerde beleidsverklaring op één plek.",
+      "blocks": [
+        {
+          "type": "text",
+          "eyebrow": "Waarom het ertoe doet",
+          "heading": "Op de juiste manier zakendoen",
+          "paragraphs": [
+            "Een groot deel van ons werk is voor publieke spoorweg- en metrobedrijven, waar eerlijke concurrentie, transparante aanbestedingen en veilig werken niet onderhandelbaar zijn. De documenten op deze pagina beschrijven de normen die we van onszelf en van iedereen die met ons samenwerkt verwachten.",
+            "Leveranciers die zich bij HYT registreren en auditors die leveranciersbeoordelingen uitvoeren, vinden hieronder de relevante verplichtingen. Nieuwe leveranciers kunnen zich aanmelden via [Leveranciersregistratie](page:supplier-registration).",
+            "Onze managementsystemen voor kwaliteit, milieu en arbo zijn gecertificeerd volgens ISO 9001:2015, ISO 14001:2015 en ISO 45001:2018; details staan op de pagina [Certificeringen](page:certifications). Voor vragen over een document op deze pagina, of om ondertekende exemplaren aan te vragen voor een aanbesteding of audit, kunt u [contact met ons opnemen](page:contact-us)."
+          ],
+          "image": "company/corporate-office",
+          "image_alt": "Voorbeeldillustratie van het kantoor van HYT",
+          "layout": "image-right"
+        },
+        {
+          "type": "cards",
+          "heading": "Compliancedocumenten",
+          "cols": 3,
+          "items": [
+            {
+              "page": "code-of-conduct",
+              "icon": "journal-check"
+            },
+            {
+              "page": "guidelines",
+              "icon": "signpost-split"
+            },
+            {
+              "page": "policy-statement",
+              "icon": "file-earmark-text"
+            }
+          ]
+        },
+        {
+          "type": "features",
+          "eyebrow": "In voorbereiding",
+          "heading": "Overige documenten",
+          "cols": 2,
+          "items": [
+            {
+              "icon": "people",
+              "title": "Gedragscode voor leveranciers",
+              "text": "De normen op het gebied van ethiek, arbeid, veiligheid en milieu die we van onze leveranciers en onderaannemers verwachten."
+            },
+            {
+              "icon": "shield-lock",
+              "title": "Informatiebeveiliging",
+              "text": "Hoe we tekeningen van klanten, projectgegevens en de besturingssystemen van de door ons geleverde machines beschermen."
+            }
+          ]
+        },
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "Ter beoordeling door HYT: voor deze sectie zijn een gedragscode voor leveranciers en een verklaring over informatiebeveiliging gepland. Graag bevestigen of deze documenten bestaan en ze aanleveren, of concepten goedkeuren."
+        }
+      ]
+    },
+    "code-of-conduct": {
+      "nav": "Gedragscode",
+      "title": "Gedragscode",
+      "description": "De gedragscode van HYT Engineering: integriteit, anti-omkoping, eerlijke concurrentie, veiligheid, milieu, vertrouwelijkheid, mensenrechten en meldingen.",
+      "eyebrow": "Compliance",
+      "h1": "Gedragscode",
+      "lede": "Deze code beschrijft de gedragsnormen die gelden voor iedereen die voor of namens HYT Engineering Company Pvt. Ltd. werkt.",
+      "summary": "De gedragsnormen die gelden voor iedereen die voor of namens HYT werkt.",
+      "blocks": [
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "Ter beoordeling door HYT: deze gedragscode is een concept en moet vóór publicatie worden goedgekeurd door het management van HYT en een juridisch adviseur. Graag ook het meldkanaal voor zorgen bevestigen (contactpersoon of speciaal e-mailadres)."
+        },
+        {
+          "type": "prose",
+          "updated": "Concept – in afwachting van goedkeuring",
+          "sections": [
+            {
+              "heading": "1. Doel en reikwijdte",
+              "paragraphs": [
+                "HYT Engineering Company Pvt. Ltd. (“HYT”) ontwerpt, bouwt en onderhoudt machines waarvan de veiligheid op het spoor afhangt. Onze klanten, van wie velen overheidsinstanties zijn, vertrouwen erop dat wij eerlijk en verantwoordelijk handelen. Deze code legt uit wat dat in de praktijk betekent.",
+                "De code geldt voor alle bestuurders, leidinggevenden en medewerkers van HYT, inclusief tijdelijk personeel en contractpersoneel. Wij verwachten ook van agenten, consultants, leveranciers, onderaannemers en andere zakenpartners die namens ons optreden, dat zij gelijkwaardige normen naleven.",
+                "De code dekt niet elke situatie. Waar de code niets zegt, gebruikt u uw gezond verstand, houdt u zich aan de wet en vraagt u bij twijfel om advies."
+              ]
+            },
+            {
+              "heading": "2. Integer handelen",
+              "paragraphs": [
+                "Wij houden ons aan alle wet- en regelgeving die op onze activiteiten van toepassing is, in India en in elk land waar wij werken. Waar lokale gebruiken en de wet van elkaar afwijken, volgen wij de wet. Waar deze code een strengere norm stelt dan de wet, volgen wij deze code."
+              ],
+              "bullets": [
+                "Wees eerlijk en nauwkeurig in alles wat we zeggen over onze producten, diensten en mogelijkheden.",
+                "Kom toezeggingen aan klanten na, of leg tijdig en openlijk uit wanneer dat niet lukt.",
+                "Vervals nooit registraties, testresultaten, inspectierapporten of certificaten."
+              ]
+            },
+            {
+              "heading": "3. Anti-omkoping en anticorruptie",
+              "paragraphs": [
+                "HYT tolereert geen enkele vorm van omkoping of corruptie. Wij bieden, beloven, geven, vragen of aanvaarden geen betaling, geschenk of voordeel dat bedoeld is om een zakelijke beslissing op ongepaste wijze te beïnvloeden – ongeacht of de andere partij een overheidsfunctionaris of een particulier is.",
+                "Dit geldt evenzeer voor betalingen via agenten, consultants, distributeurs of familieleden. Smeergeldbetalingen om routinematige overheidshandelingen te bespoedigen (facilitation payments) zijn niet toegestaan."
+              ],
+              "bullets": [
+                "Geschenken en gastvrijheid mogen alleen worden gegeven of aanvaard als ze bescheiden, incidenteel en transparant zijn, geen verband houden met een lopende beslissing en in overeenstemming zijn met onze [richtlijnen voor zakelijk gedrag](page:guidelines).",
+                "Wij respecteren de inkoopregels van onze klanten, inclusief integriteitspacten en gedragscodes bij openbare aanbestedingen.",
+                "Agenten en tussenpersonen worden pas aangesteld na een due-diligenceonderzoek, op basis van schriftelijke contracten en voor gedocumenteerde diensten tegen marktconforme vergoedingen.",
+                "Alle betalingen worden correct geautoriseerd en nauwkeurig geregistreerd."
+              ]
+            },
+            {
+              "heading": "4. Belangenverstrengeling",
+              "paragraphs": [
+                "Er is sprake van belangenverstrengeling wanneer persoonlijke belangen – financieel, familiaal of anderszins – beslissingen die namens HYT worden genomen kunnen beïnvloeden of de schijn daarvan kunnen wekken.",
+                "Medewerkers moeten dergelijke conflicten waar mogelijk vermijden en elk feitelijk of mogelijk conflict schriftelijk melden aan hun leidinggevende. Voorbeelden zijn een financieel belang in een leverancier, klant of concurrent; nevenwerkzaamheden die concurreren met HYT; of betrokkenheid bij een inkoopbeslissing die een familielid raakt."
+              ]
+            },
+            {
+              "heading": "5. Eerlijke concurrentie",
+              "paragraphs": [
+                "Wij winnen opdrachten op basis van de kwaliteit van onze machines, onze service en onze prijzen. Wij houden ons aan het mededingingsrecht in elke markt die wij bedienen."
+              ],
+              "bullets": [
+                "Wij maken met concurrenten geen afspraken over prijzen, inschrijvingen, markten of klanten, en nemen niet deel aan het manipuleren van aanbestedingen.",
+                "Wij wisselen geen commercieel gevoelige informatie uit met concurrenten.",
+                "Wij verkrijgen informatie over concurrenten en aanbestedingen uitsluitend op wettige en ethische wijze.",
+                "Wij beschrijven producten van concurrenten eerlijk en nauwkeurig."
+              ]
+            },
+            {
+              "heading": "6. Gezondheid en veiligheid",
+              "paragraphs": [
+                "Niemand mag schade ondervinden door voor HYT te werken of onze machines te gebruiken. Ons managementsysteem voor gezond en veilig werken is gecertificeerd volgens ISO 45001:2018."
+              ],
+              "bullets": [
+                "Volg de veiligheidsregels, werkvergunningen en instructies in onze fabriek en op locaties van klanten.",
+                "Gebruik de persoonlijke beschermingsmiddelen die voor de taak vereist zijn.",
+                "Stop onveilig werk en meld gevaren, incidenten en bijna-ongevallen onmiddellijk.",
+                "Werk nooit onder invloed van alcohol of drugs.",
+                "Ontwerp machines met de veiligheid van operators en onderhoudspersoneel als primaire eis."
+              ]
+            },
+            {
+              "heading": "7. Milieu",
+              "paragraphs": [
+                "Wij werken eraan de milieu-impact van onze activiteiten en producten te verminderen. Ons milieumanagementsysteem is gecertificeerd volgens ISO 14001:2015."
+              ],
+              "bullets": [
+                "Houd u aan milieuwetgeving en -vergunningen.",
+                "Gebruik energie, materialen en water efficiënt.",
+                "Behandel, bewaar en verwijder oliën, koelsmeermiddelen, chemicaliën en afval op de juiste wijze.",
+                "Houd bij het ontwerpen van machines rekening met energieverbruik, geluid en recyclebaarheid."
+              ]
+            },
+            {
+              "heading": "8. Vertrouwelijke informatie en intellectueel eigendom",
+              "paragraphs": [
+                "Onze ontwerpen, tekeningen, software, prijzen en knowhow zijn waardevolle bedrijfsmiddelen. Ook klanten en leveranciers vertrouwen ons hun vertrouwelijke informatie toe, waaronder tekeningen, infrastructuurgegevens en projectdocumenten."
+              ],
+              "bullets": [
+                "Gebruik vertrouwelijke informatie uitsluitend voor het doel waarvoor zij is verstrekt.",
+                "Deel haar alleen met mensen die haar voor hun werk nodig hebben en bevoegd zijn haar te ontvangen.",
+                "Respecteer het intellectueel eigendom van anderen, inclusief softwarelicenties.",
+                "Geheimhoudingsverplichtingen blijven ook na beëindiging van het dienstverband bij HYT van kracht."
+              ]
+            },
+            {
+              "heading": "9. Gegevensbescherming en informatiebeveiliging",
+              "paragraphs": [
+                "Wij verzamelen en gebruiken persoonsgegevens – van medewerkers, klanten, sollicitanten en leveranciers – uitsluitend voor legitieme bedrijfsdoeleinden, beveiligen deze en bewaren ze niet langer dan nodig, in overeenstemming met de toepasselijke wetgeving inzake gegevensbescherming en onze [privacyverklaring](page:privacy-policy).",
+                "Iedereen moet de systemen en gegevens van het bedrijf beschermen: gebruik sterke wachtwoorden, deel geen accounts, meld vermoedelijke beveiligingsincidenten direct en wees zorgvuldig bij toegang op afstand tot machinebesturingen."
+              ]
+            },
+            {
+              "heading": "10. Mensenrechten en eerlijke arbeidsomstandigheden",
+              "paragraphs": [
+                "Wij respecteren de mensenrechten van onze medewerkers en van iedereen die door onze activiteiten wordt geraakt."
+              ],
+              "bullets": [
+                "Wij maken geen gebruik van kinderarbeid, dwangarbeid of schuldslavernij, en accepteren dit evenmin in onze toeleveringsketen.",
+                "Wij behandelen mensen met waardigheid en tolereren geen intimidatie, pesterijen of discriminatie op welke grond dan ook, waaronder gender, kaste, religie, etniciteit, leeftijd, handicap of seksuele gerichtheid.",
+                "Wij betalen ten minste de wettelijk verplichte lonen en voorzieningen en respecteren de regels voor arbeidstijden.",
+                "Wij respecteren het wettelijke recht van medewerkers om zich al dan niet bij een vereniging aan te sluiten."
+              ]
+            },
+            {
+              "heading": "11. Bedrijfsmiddelen en nauwkeurige administratie",
+              "paragraphs": [
+                "Apparatuur, materialen, voertuigen en middelen van het bedrijf mogen alleen voor legitieme bedrijfsdoeleinden worden gebruikt en moeten worden beschermd tegen verlies, diefstal en misbruik. Boeken, registraties en rapportages moeten volledig en nauwkeurig zijn en worden opgesteld in overeenstemming met de toepasselijke boekhoudnormen en wetgeving."
+              ]
+            },
+            {
+              "heading": "12. Zorgen melden",
+              "paragraphs": [
+                "Iedereen die een overtreding van deze code, de wet of het bedrijfsbeleid vermoedt, wordt aangemoedigd dit zo vroeg mogelijk te melden. Zorgen kunnen worden gemeld bij een direct leidinggevende, de afdeling HR of een lid van het senior management. Zakenpartners en particulieren kunnen schrijven naar HYT Engineering Company Pvt. Ltd., 29/10, 29/10/1, 29/10/2, D-II Block, MIDC Chinchwad, Pune 411019, India, of mailen naar info@hytengineering.com, met de vermelding “Vertrouwelijk – Gedragscode”.",
+                "Elke melding wordt serieus genomen, voor zover de wet dat toelaat vertrouwelijk behandeld en op eerlijke wijze onderzocht."
+              ]
+            },
+            {
+              "heading": "13. Geen represailles",
+              "paragraphs": [
+                "HYT tolereert geen represailles tegen iemand die te goeder trouw een zorg meldt of meewerkt aan een onderzoek, ook niet als de melding ongegrond blijkt. Represailles vormen zelf een ernstige overtreding van deze code."
+              ]
+            },
+            {
+              "heading": "14. Naleving van deze code",
+              "paragraphs": [
+                "Leidinggevenden zijn ervoor verantwoordelijk dat hun teams deze code begrijpen en naleven. Overtredingen kunnen leiden tot disciplinaire maatregelen, tot en met ontslag, en bij zakenpartners tot beëindiging van de relatie. Wanneer de wet is overtreden, kan HYT de bevoegde autoriteiten inlichten.",
+                "Deze code wordt periodiek herzien en zo nodig bijgewerkt. Praktische aanwijzingen voor de toepassing ervan staan in onze [richtlijnen voor zakelijk gedrag](page:guidelines), en onze verplichtingen op het gebied van kwaliteit, milieu, gezondheid en veiligheid zijn vastgelegd in de [beleidsverklaring](page:policy-statement)."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "guidelines": {
+      "nav": "Richtlijnen",
+      "title": "Richtlijnen voor zakelijk gedrag",
+      "description": "Praktische richtlijnen voor HYT-medewerkers en partners over geschenken, gastvrijheid, aanbestedingen, agenten, exportcontrole, werk op locatie en registraties.",
+      "eyebrow": "Compliance",
+      "h1": "Richtlijnen voor zakelijk gedrag",
+      "lede": "Deze richtlijnen vertalen de principes van onze gedragscode naar praktische regels voor alledaagse situaties in verkoop, inkoop, projecten en service.",
+      "summary": "Praktische regels over geschenken, aanbestedingen, agenten, exportcontrole, gedrag op locatie en administratie.",
+      "blocks": [
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "Ter beoordeling door HYT: het menulabel “Richtlijnen” is vaag; deze pagina heet “Richtlijnen voor zakelijk gedrag”. Graag het label en de beoogde inhoud bevestigen en de tekst (inclusief eventuele maximumbedragen voor geschenken en gastvrijheid) laten goedkeuren door het management en een juridisch adviseur."
+        },
+        {
+          "type": "prose",
+          "updated": "Concept – in afwachting van goedkeuring",
+          "sections": [
+            {
+              "heading": "1. Hoe u deze richtlijnen gebruikt",
+              "paragraphs": [
+                "Deze richtlijnen ondersteunen de [gedragscode](page:code-of-conduct) en gelden voor dezelfde personen: iedereen die voor HYT werkt en partners die namens ons optreden. Valt een situatie er niet onder, stel uzelf dan de vraag: Is het legaal? Is het in lijn met de gedragscode? Zou ik me er prettig bij voelen als het aan onze klant werd gemeld of openbaar werd gemaakt? Is het antwoord op een van deze vragen nee, of twijfelt u, overleg dan met uw leidinggevende voordat u handelt."
+              ]
+            },
+            {
+              "heading": "2. Geschenken en gastvrijheid",
+              "paragraphs": [
+                "Bescheiden geschenken en gastvrijheid kunnen goede zakelijke relaties ondersteunen, maar mogen nooit een verplichting scheppen of de schijn daarvan wekken."
+              ],
+              "bullets": [
+                "Aanvaard of bied alleen zaken van bescheiden waarde aan, zoals promotieartikelen, gebruikelijke zakelijke maaltijden of zoetigheden bij feestdagen, binnen de door het management vastgestelde grenzen.",
+                "Geef of aanvaard nooit contant geld, geldswaardige middelen, waardebonnen, leningen of persoonlijke gunsten.",
+                "Bied geen geschenken of gastvrijheid aan medewerkers van de klant die betrokken zijn bij een lopende aanbesteding, inspectie of acceptatiebeslissing.",
+                "Respecteer de regels van de organisatie van de ontvanger – veel overheidsinstanties verbieden geschenken volledig.",
+                "Registreer geschenken en gastvrijheid boven de afgesproken drempel en informeer uw leidinggevende."
+              ]
+            },
+            {
+              "heading": "3. Werken met publieke klanten en aanbestedingen",
+              "paragraphs": [
+                "Veel van onze klanten zijn publieke spoorweg- en metro-organisaties. Hun inkoopregels bestaan om eerlijkheid en een goede besteding van publiek geld te waarborgen, en wij respecteren die volledig."
+              ],
+              "bullets": [
+                "Dien waarheidsgetrouwe, volledige aanbestedingsdocumenten en technische gegevens in.",
+                "Houd u aan integriteitspacten, procedures vóór de inschrijving en communicatieregels die de klant hanteert.",
+                "Zoek of gebruik geen vertrouwelijke informatie over een aanbesteding of de inschrijving van een concurrent.",
+                "Bespreek geen arbeidsmogelijkheden met overheidsfunctionarissen die betrokken zijn bij beslissingen die HYT raken.",
+                "Meld elk verzoek om een ongepaste betaling onmiddellijk en weiger het."
+              ]
+            },
+            {
+              "heading": "4. Agenten, consultants en partners",
+              "bullets": [
+                "Stel tussenpersonen alleen aan voor echte, gedocumenteerde diensten en na een antecedentenonderzoek.",
+                "Gebruik schriftelijke contracten met clausules over anti-omkoping en compliance.",
+                "Betaal vergoedingen die in verhouding staan tot het werk, op rekeningen op naam van de contractpartij en in het land waar de diensten worden verleend.",
+                "Let op waarschuwingssignalen, zoals verzoeken om ongebruikelijke betalingen, contant geld of geheimhouding."
+              ]
+            },
+            {
+              "heading": "5. Inkoop en leveranciers",
+              "bullets": [
+                "Selecteer leveranciers op kwaliteit, levering, prijs, veiligheid en ethisch handelen.",
+                "Behandel alle leveranciers eerlijk en houd hun offertes vertrouwelijk.",
+                "Meld elke persoonlijke relatie met een leverancier en trek u terug uit de beslissing.",
+                "Verwacht van leveranciers dat zij voldoen aan de normen van onze gedragscode; nieuwe leveranciers kunnen zich aanmelden via [Leveranciersregistratie](page:supplier-registration)."
+              ]
+            },
+            {
+              "heading": "6. Export, sancties en douane",
+              "paragraphs": [
+                "Machines, reserveonderdelen, software en technische gegevens kunnen onder exportcontrole-, sanctie- en douaneregels vallen, in India en in andere landen. Controleer eindgebruik, eindgebruiker en bestemming voordat u een offerte uitbrengt aan of levert naar een nieuwe klant of een nieuw land, geef goederen correct aan bij de douane en vraag advies als iets onduidelijk is."
+              ]
+            },
+            {
+              "heading": "7. Gedrag op locaties van klanten",
+              "bullets": [
+                "Volg zonder uitzondering de veiligheidsregels, werkvergunningssystemen en procedures voor toegang tot het spoor van de klant.",
+                "Draag de vereiste persoonlijke beschermingsmiddelen en gebruik uitsluitend goedgekeurd gereedschap en hijsmiddelen.",
+                "Ga zorgvuldig om met terreinen, apparatuur en informatie van de klant.",
+                "Meld incidenten, bijna-ongevallen en schade onmiddellijk aan de klant en aan HYT."
+              ]
+            },
+            {
+              "heading": "8. Registraties, documenten en rapporten",
+              "bullets": [
+                "Registreer elke transactie nauwkeurig en tijdig.",
+                "Wijzig nooit inspectieresultaten, testrapporten, urenstaten of declaraties.",
+                "Bewaar documenten gedurende de termijnen die wet en contract voorschrijven.",
+                "Vernietig geen documenten die relevant kunnen zijn voor een audit, onderzoek of gerechtelijke procedure."
+              ]
+            },
+            {
+              "heading": "9. Communicatie en sociale media",
+              "bullets": [
+                "Alleen bevoegde personen mogen de media te woord staan of verklaringen namens HYT publiceren.",
+                "Plaats zonder toestemming geen vertrouwelijke informatie, klantgegevens, foto’s van locaties of tekeningen op sociale media.",
+                "Maak duidelijk dat persoonlijke meningen uw eigen meningen zijn."
+              ]
+            },
+            {
+              "heading": "10. IT en informatiebeveiliging",
+              "bullets": [
+                "Gebruik de IT-systemen van het bedrijf voor zakelijke doeleinden en in overeenstemming met de bedrijfsregels.",
+                "Bescherm wachtwoorden en deel geen accounts.",
+                "Wees alert op phishing en meld verdachte berichten.",
+                "Maak alleen verbinding met machines en netwerken van klanten als u daartoe bevoegd bent en met goedgekeurde tools."
+              ]
+            },
+            {
+              "heading": "11. Advies vragen en zorgen melden",
+              "paragraphs": [
+                "Weet u niet zeker wat u moet doen, vraag het dan aan uw leidinggevende, de afdeling HR of het senior management. Zorgen over mogelijke overtredingen kunnen worden gemeld via de kanalen die zijn beschreven in paragraaf 12 van de [gedragscode](page:code-of-conduct). Niemand zal nadeel ondervinden van het te goeder trouw melden van een zorg."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "policy-statement": {
+      "nav": "Beleidsverklaring",
+      "title": "Beleid voor kwaliteit, milieu, gezondheid & veiligheid",
+      "description": "Het geïntegreerde beleid van HYT voor kwaliteit, milieu en gezond en veilig werken conform ISO 9001, 14001 en 45001, aangevuld met onze inzet tegen omkoping.",
+      "eyebrow": "Compliance",
+      "h1": "Geïntegreerde beleidsverklaring",
+      "lede": "Onze verplichtingen op het gebied van kwaliteit, milieu, gezond en veilig werken en zakelijke integriteit, in lijn met onze managementsystemen volgens ISO 9001, ISO 14001 en ISO 45001.",
+      "summary": "Onze geïntegreerde verplichtingen op het gebied van kwaliteit, milieu, gezondheid en veiligheid en anti-omkoping.",
+      "blocks": [
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "Ter beoordeling door HYT: graag bevestigen welk beleid HYT hier wil publiceren (geïntegreerd QHSE-beleid, afzonderlijke beleidsdocumenten, anti-omkopingsbeleid), de formulering goedkeuren en de naam en functie van de ondertekenaar en de datum van uitgifte aanleveren."
+        },
+        {
+          "type": "prose",
+          "updated": "Concept – in afwachting van goedkeuring",
+          "sections": [
+            {
+              "heading": "Ons doel",
+              "paragraphs": [
+                "HYT Engineering Company Pvt. Ltd. ontwerpt, produceert, installeert en onderhoudt CNC-wielenbanken, machines voor de wielstelwerkplaats, depotuitrusting en turnkey werkplaatsen voor spoorwegen, metrobedrijven en de industrie. De machines die wij bouwen, helpen rollend materieel veilig te houden. Die verantwoordelijkheid bepaalt hoe wij kwaliteit, milieu en de gezondheid en veiligheid van iedereen die bij ons werk betrokken is, beheren."
+              ]
+            },
+            {
+              "heading": "Kwaliteit",
+              "paragraphs": [
+                "Wij verplichten ons machines en diensten te leveren die voldoen aan de eisen van de klant en de geldende normen, op tijd en met volledige documentatie. Daartoe zullen wij:"
+              ],
+              "bullets": [
+                "klanteisen begrijpen en beoordelen voordat wij ons eraan verbinden;",
+                "ontwerp, inkoop, productie, installatie en service beheersen via gedocumenteerde processen;",
+                "onze machines verifiëren door inspectie en beproeving, inclusief acceptatie op wielstellen van de klant;",
+                "de klanttevredenheid meten en leren van feedback en afwijkingen;",
+                "de doeltreffendheid van ons kwaliteitsmanagementsysteem volgens ISO 9001:2015 voortdurend verbeteren."
+              ]
+            },
+            {
+              "heading": "Milieu",
+              "paragraphs": [
+                "Wij verplichten ons het milieu te beschermen en verontreiniging te voorkomen in al onze activiteiten en producten. Wij zullen:"
+              ],
+              "bullets": [
+                "voldoen aan de toepasselijke milieuwetgeving, vergunningen en andere eisen;",
+                "energie, water en materialen efficiënt gebruiken;",
+                "afval minimaliseren en oliën, koelsmeermiddelen en gevaarlijke stoffen veilig behandelen;",
+                "milieuprestaties meewegen bij het ontwerpen van machines en het selecteren van leveranciers;",
+                "ons milieumanagementsysteem volgens ISO 14001:2015 voortdurend verbeteren."
+              ]
+            },
+            {
+              "heading": "Gezond en veilig werken",
+              "paragraphs": [
+                "Wij verplichten ons te zorgen voor veilige en gezonde arbeidsomstandigheden om werkgerelateerd letsel en gezondheidsschade te voorkomen – in onze fabriek en op locaties van klanten. Wij zullen:"
+              ],
+              "bullets": [
+                "voldoen aan de toepasselijke arbowetgeving en de regels op locaties van klanten;",
+                "gevaren identificeren, risico’s beoordelen en deze wegnemen of verminderen volgens de arbeidshygiënische strategie;",
+                "zorgen voor training, informatie en geschikte beschermingsmiddelen;",
+                "medewerkers en hun vertegenwoordigers raadplegen en betrekken bij veiligheidszaken;",
+                "onze machines ontwerpen met oog voor de veiligheid van operators en onderhoudspersoneel;",
+                "ons managementsysteem voor gezond en veilig werken volgens ISO 45001:2018 voortdurend verbeteren."
+              ]
+            },
+            {
+              "heading": "Zakelijke integriteit en anti-omkoping",
+              "paragraphs": [
+                "Wij verplichten ons eerlijk en integer zaken te doen. HYT verbiedt omkoping en corruptie in elke vorm, of het nu gaat om overheidsfunctionarissen of private partijen, direct of via tussenpersonen. Wij houden ons aan de toepasselijke anticorruptie- en mededingingswetgeving en respecteren de inkoopregels van onze klanten. Deze verplichtingen worden toegelicht in onze [gedragscode](page:code-of-conduct) en [richtlijnen voor zakelijk gedrag](page:guidelines)."
+              ]
+            },
+            {
+              "heading": "Dit beleid in de praktijk",
+              "paragraphs": [
+                "Het management stelt op basis van dit beleid meetbare doelstellingen vast, stelt de middelen beschikbaar om die te bereiken en beoordeelt de prestaties regelmatig. Iedere medewerker is verantwoordelijk voor werken in overeenstemming met dit beleid, en hetzelfde verwachten wij van onze leveranciers en onderaannemers.",
+                "Dit beleid wordt aan alle medewerkers gecommuniceerd, via deze website beschikbaar gesteld aan belanghebbenden en periodiek herzien om te waarborgen dat het passend blijft. Details van onze certificaten staan op de pagina [Certificeringen](page:certifications)."
+              ]
+            },
+            {
+              "heading": "Uitgegeven door",
+              "paragraphs": [
+                "Directie, HYT Engineering Company Pvt. Ltd., Pune"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

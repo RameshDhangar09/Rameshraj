@@ -1,0 +1,507 @@
+{
+  "pages": {
+    "news": {
+      "nav": "Latest News",
+      "title": "Latest News – Orders, Projects and Recognition",
+      "description": "Company announcements from HYT Engineering: new wheel lathe orders from railways and metros, completed projects, recognition and exhibition appearances.",
+      "eyebrow": "Media & Resources",
+      "h1": "Latest news from HYT Engineering",
+      "lede": "Orders, completed projects, recognition and exhibitions – the announcements that mark progress at HYT, in one place.",
+      "summary": "Company announcements: new orders, completed projects, recognition and exhibition appearances.",
+      "blocks": [
+        {
+          "type": "news",
+          "eyebrow": "Announcements",
+          "heading": "Recent announcements",
+          "items": [
+            {
+              "title": "NCRTC issues Letter of Acceptance for fully automatic CNC underfloor wheel lathes",
+              "date": "Order",
+              "category": "Orders",
+              "text": "National Capital Region Transport Corporation has issued HYT a Letter of Acceptance for fully automatic CNC underfloor wheel lathes. The machines will re-profile wheelsets in the vehicle, so trains spend less time out of service.",
+              "page": "under-execution"
+            },
+            {
+              "title": "Delhi Metro awards HYT a new CNC tandem underfloor wheel lathe",
+              "date": "Order",
+              "category": "Orders",
+              "text": "Delhi Metro Rail Corporation has awarded HYT a contract for a new CNC tandem underfloor wheel lathe. A tandem machine re-profiles two wheelsets of a bogie in one setting – an advantage for high-frequency metro fleets.",
+              "page": "tandem-underfloor-wheel-lathe"
+            },
+            {
+              "title": "Indian Railways contract for nine CNC underfloor wheel lathes",
+              "date": "Order",
+              "category": "Orders",
+              "text": "Indian Railways has contracted HYT to supply nine CNC underfloor wheel lathes, adding in-vehicle re-profiling capacity to its maintenance network.",
+              "page": "underfloor-wheel-lathe"
+            },
+            {
+              "title": "HYT listed in D&B Leading Mid-Corporates of India 2023",
+              "date": "Recognition",
+              "category": "Recognition",
+              "text": "HYT Engineering Company Pvt. Ltd. is featured in the Dun & Bradstreet publication Leading Mid-Corporates of India 2023.",
+              "page": "awards"
+            },
+            {
+              "title": "HYT at Africa Rail 2020",
+              "date": "Exhibition",
+              "category": "Exhibitions",
+              "text": "HYT exhibited at Africa Rail 2020, presenting its wheel lathes and workshop solutions to the African rail industry.",
+              "page": "international-exhibitions"
+            },
+            {
+              "title": "Meeting operators at Asia Pacific Rail, Middle East Rail and AusRAIL",
+              "date": "Exhibition",
+              "category": "Exhibitions",
+              "text": "HYT has exhibited at Asia Pacific Rail, Middle East Rail and AusRAIL, discussing wheel re-profiling and depot planning with rail operators and engineers.",
+              "page": "international-exhibitions"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "eyebrow": "About this page",
+          "heading": "What we publish here",
+          "paragraphs": [
+            "This page carries HYT's company announcements: new orders, projects completed and handed over, recognition the company receives and the exhibitions where you can meet our engineers. Each item is short and factual, and links to the page with more detail.",
+            "Looking for technical reading rather than company news? Our [Blog](page:blog) carries dated articles and project stories, and the [Knowledge Centre](page:knowledge-centre) holds lasting guides on wheel wear, lathe selection and workshop planning.",
+            "Journalists and industry publications can request background information, quotes or images by writing to info@hytengineering.com with \"Media enquiry\" in the subject line."
+          ],
+          "image": "company/exhibition-stand",
+          "image_alt": "Sample illustration of an HYT exhibition stand with a wheel lathe model and visitors in discussion",
+          "layout": "image-right"
+        },
+        {
+          "type": "cards",
+          "eyebrow": "Read on",
+          "heading": "More from HYT",
+          "cols": 4,
+          "items": [
+            {"page": "under-execution", "icon": "gear-wide-connected"},
+            {"page": "awards", "icon": "award"},
+            {"page": "international-exhibitions", "icon": "globe2"},
+            {"page": "domestic-exhibitions", "icon": "geo-alt"}
+          ]
+        },
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "Items are based on public sources and carry no dates. HYT to supply the date, a short press release and photographs for each item, and to confirm the wording. Individual news pages will be published at /news/item-name/."
+        }
+      ]
+    },
+
+    "international-exhibitions": {
+      "nav": "International Exhibitions",
+      "title": "International Rail Exhibitions",
+      "description": "HYT Engineering has exhibited at Asia Pacific Rail, Middle East Rail, Africa Rail 2020 and AusRAIL. See why we take part and what you can discuss with our team.",
+      "eyebrow": "Media & Resources",
+      "h1": "HYT at international rail exhibitions",
+      "lede": "Rail exhibitions put us face to face with the operators, project teams and engineers who maintain fleets around the world. We go to listen as much as to present.",
+      "summary": "Asia Pacific Rail, Middle East Rail, Africa Rail and AusRAIL – where HYT has met the international rail industry.",
+      "blocks": [
+        {
+          "type": "text",
+          "eyebrow": "Why we exhibit",
+          "heading": "Conversations that shape better workshops",
+          "paragraphs": [
+            "A wheel lathe or a wheel shop is a long-term decision. The operators who make it want to understand the engineering behind the machine, the people who will support it and how it will fit their own fleet, gauge and depot layout. That conversation starts best in person.",
+            "International exhibitions let us meet railways, metro operators, rolling stock manufacturers and consultants from many regions in a few days. We learn how maintenance practices differ between networks, which problems keep workshop managers awake and where new lines and depots are being planned. That knowledge feeds straight back into our machine design and our [turnkey projects](page:turnkey-project)."
+          ],
+          "image": "company/exhibition-stand",
+          "image_alt": "Sample illustration of an HYT exhibition stand at an international rail show",
+          "layout": "image-right"
+        },
+        {
+          "type": "logos",
+          "eyebrow": "Track record",
+          "heading": "Where we have exhibited",
+          "intro": "HYT has taken part as an exhibitor in these international rail events.",
+          "items": [
+            {"name": "Asia Pacific Rail", "note": "Exhibitor"},
+            {"name": "Middle East Rail", "note": "Exhibitor"},
+            {"name": "Africa Rail 2020", "note": "Exhibitor"},
+            {"name": "AusRAIL", "note": "Exhibitor"}
+          ]
+        },
+        {
+          "type": "features",
+          "eyebrow": "At the stand",
+          "heading": "What you can discuss with us",
+          "intro": "Our stand is staffed by people who design, build and service the machines. Bring your questions – and, if you can, your wheel profiles and depot drawings.",
+          "cols": 3,
+          "items": [
+            {"icon": "rulers", "title": "Wheel re-profiling strategy", "text": "How to restore profiles with minimum material loss and extend wheel life across a fleet."},
+            {"icon": "gear-wide-connected", "title": "Choosing a wheel lathe", "text": "Underfloor, tandem, surface or portal: which design fits your vehicles, gauge and throughput."},
+            {"icon": "diagram-3", "title": "Depot and wheel shop planning", "text": "Process flow, machine selection and civil interfaces for new or expanding facilities."},
+            {"icon": "building-gear", "title": "Turnkey projects", "text": "Single-point responsibility from layout study to commissioning and handover."},
+            {"icon": "arrow-repeat", "title": "Upgrades for existing machines", "text": "Retro-fitting new CNC systems, drives and measuring technology to extend machine life."},
+            {"icon": "truck", "title": "Wet leasing", "text": "Re-profiling capacity supplied with machine and crew, paid for by output."}
+          ],
+          "link": {"label": "Explore our products", "page": "products"}
+        },
+        {
+          "type": "gallery",
+          "heading": "Impressions",
+          "items": [
+            {"image": "company/exhibition-stand", "caption": "Sample illustration of the HYT exhibition stand"},
+            {"image": "products/underfloor-wheel-lathe-yul-08", "caption": "HYT CNC Underfloor Wheel Lathe (YUL-08)"},
+            {"image": "products/wheelset-profile-closeup", "caption": "Sample illustration of a re-profiled wheel tread and flange"},
+            {"image": "company/engineering-design", "caption": "Sample illustration of HYT engineers reviewing a machine design"}
+          ]
+        },
+        {
+          "type": "cards",
+          "eyebrow": "Also of interest",
+          "heading": "More events and news",
+          "cols": 2,
+          "items": [
+            {"page": "domestic-exhibitions", "icon": "geo-alt"},
+            {"page": "news", "icon": "newspaper"}
+          ]
+        },
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "Exhibitions are taken from organiser exhibitor listings. HYT to confirm the years of participation (only Africa Rail 2020 is dated), supply stand photographs and list upcoming events with dates and stand numbers."
+        },
+        {
+          "type": "cta",
+          "heading": "Planning to visit a rail exhibition?",
+          "text": "Tell us which event you are attending and what you would like to discuss. We will arrange a meeting with the right engineer – at the show or afterwards.",
+          "primary": {"label": "Arrange a meeting", "page": "contact-us"},
+          "secondary": {"label": "Explore Our Products", "page": "products"}
+        }
+      ]
+    },
+
+    "domestic-exhibitions": {
+      "nav": "Domestic Exhibitions",
+      "title": "Domestic Exhibitions in India",
+      "description": "Meet HYT Engineering at railway and engineering exhibitions in India. Discuss wheel lathes, wheel shop machines, depot equipment and service with our team.",
+      "eyebrow": "Media & Resources",
+      "h1": "HYT at exhibitions in India",
+      "lede": "India is our home market. At Indian rail and engineering events we meet the depot, shed and workshop teams who run our machines every day.",
+      "summary": "Railway and engineering exhibitions in India where you can meet HYT's engineers.",
+      "blocks": [
+        {
+          "type": "text",
+          "eyebrow": "Close to our customers",
+          "heading": "Why Indian events matter to us",
+          "paragraphs": [
+            "HYT has designed and built machine tools in Pune since 1977. Much of our installed base works in Indian locomotive sheds, coaching depots, EMU car sheds, metro depots and wheel shops – and Indian exhibitions are where those users, their planners and their procurement teams come together.",
+            "We use these events to show what is new, to hear how our machines perform in daily service and to meet the engineers planning the next generation of depots for expanding metro and regional rail networks. They are also a good place to meet suppliers and young engineers who may want to [work with us](page:work-with-us)."
+          ],
+          "image": "company/exhibition-stand",
+          "image_alt": "Sample illustration of an HYT stand at an Indian engineering exhibition",
+          "layout": "image-right"
+        },
+        {
+          "type": "features",
+          "eyebrow": "Who we meet",
+          "heading": "Conversations we look forward to",
+          "cols": 4,
+          "items": [
+            {"icon": "train-front", "title": "Railway workshops and sheds", "text": "Re-profiling capacity, machine upgrades and maintenance contracts for existing equipment."},
+            {"icon": "train-lightrail-front", "title": "Metro and regional rail", "text": "Underfloor and tandem lathes for new depots with high-frequency fleets."},
+            {"icon": "building-gear", "title": "Rolling stock manufacturers", "text": "Wheel and axle shop machines for new-build wheelsets and testing."},
+            {"icon": "people", "title": "Consultants and contractors", "text": "Depot layouts, pit drawings and civil interfaces for tender designs."}
+          ]
+        },
+        {
+          "type": "cards",
+          "eyebrow": "Also of interest",
+          "heading": "More events and news",
+          "cols": 2,
+          "items": [
+            {"page": "international-exhibitions", "icon": "globe2"},
+            {"page": "news", "icon": "newspaper"}
+          ]
+        },
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "No Indian exhibitions are verified yet. HYT to supply the list of domestic exhibitions attended (event name, city, year), stand photographs and upcoming events with dates and stand numbers."
+        },
+        {
+          "type": "cta",
+          "heading": "Meet our team in India",
+          "text": "Whether at an exhibition or at our works in Pune, we are happy to discuss your fleet and your workshop.",
+          "primary": {"label": "Contact our team", "page": "contact-us"},
+          "secondary": {"label": "Service network", "page": "service-centers"}
+        }
+      ]
+    },
+
+    "blog": {
+      "nav": "Blog",
+      "title": "Blog – Rail Maintenance Articles and Project Stories",
+      "description": "The HYT Engineering blog: dated articles, viewpoints and project stories on wheel re-profiling, depot planning and railway workshop maintenance.",
+      "eyebrow": "Media & Resources",
+      "h1": "HYT Blog",
+      "lede": "Articles, viewpoints and stories from the people who design, build and service HYT machines.",
+      "summary": "Dated articles, viewpoints and project stories from HYT's engineers.",
+      "blocks": [
+        {
+          "type": "text",
+          "eyebrow": "Blog or Knowledge Centre?",
+          "heading": "Two kinds of reading",
+          "paragraphs": [
+            "The **Blog** is where we publish dated articles: opinions on maintenance practice, lessons from commissioning sites, stories from our projects and reflections on where railway workshops are heading. Each post reflects its moment and carries a publication date.",
+            "The [Knowledge Centre](page:knowledge-centre) holds lasting technical guides and answers to frequently asked questions – material we keep up to date and that you can return to when planning a lathe, a pit or a re-profiling programme.",
+            "If you are looking for company announcements such as orders and exhibitions, see [Latest News](page:news)."
+          ],
+          "image": "products/wheelset-profile-closeup",
+          "image_alt": "Sample illustration of a railway wheel tread and flange after re-profiling",
+          "layout": "image-right"
+        },
+        {
+          "type": "features",
+          "eyebrow": "Planned articles",
+          "heading": "Coming soon",
+          "intro": "The first articles are in preparation. These are the topics we plan to cover.",
+          "cols": 2,
+          "items": [
+            {"icon": "clock-history", "title": "What a day in the pit really costs", "text": "Why the time a train spends waiting for re-profiling often matters more than the price of the lathe – and how to measure it."},
+            {"icon": "train-lightrail-front", "title": "Planning wheel maintenance for a new metro depot", "text": "Questions to settle early – fleet size, wheel profiles, pit position – before the depot layout is frozen."},
+            {"icon": "arrow-repeat", "title": "Retro-fit or replace?", "text": "How to judge whether an older wheel lathe deserves a new CNC system and drives, or whether it has reached the end of its life."},
+            {"icon": "tools", "title": "Notes from a commissioning site", "text": "What happens between the machine arriving at a depot and the first wheelset leaving it, told by an HYT site engineer."}
+          ]
+        },
+        {
+          "type": "cards",
+          "eyebrow": "Read now",
+          "heading": "Useful while you wait",
+          "cols": 2,
+          "items": [
+            {"page": "knowledge-centre", "icon": "lightbulb"},
+            {"page": "news", "icon": "newspaper"}
+          ]
+        },
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "No articles exist yet; posts will be published at /blog/article-name/. HYT to confirm whether the Blog and Knowledge Centre stay separate (as proposed: Blog for dated articles, Knowledge Centre for evergreen guides) or are merged, and to approve the planned topics and authors."
+        }
+      ]
+    },
+
+    "knowledge-centre": {
+      "nav": "Knowledge Centre",
+      "title": "Knowledge Centre – Wheel Wear and Wheel Lathes",
+      "description": "Practical guides on railway wheel wear, choosing between underfloor, portal and surface lathes, planning a lathe pit and extending wheel life by re-profiling.",
+      "eyebrow": "Media & Resources",
+      "h1": "Knowledge Centre: wheel wear, re-profiling and lathe planning",
+      "lede": "Practical, vendor-neutral guidance for engineers and managers who look after railway wheelsets – from recognising wear to planning the machine that corrects it.",
+      "summary": "Practical guides on wheel wear, lathe selection, pit planning and re-profiling strategy, plus answers to common questions.",
+      "blocks": [
+        {
+          "type": "cards",
+          "eyebrow": "Guides on this page",
+          "heading": "Start with the question you have",
+          "cols": 4,
+          "items": [
+            {"page": "knowledge-centre", "anchor": "wheel-wear", "icon": "search", "title": "Understanding wheel wear", "text": "Flats, hollow treads and thin or sharp flanges – what causes them and why they matter."},
+            {"page": "knowledge-centre", "anchor": "choosing-a-lathe", "icon": "gear-wide-connected", "title": "How to choose a wheel lathe", "text": "Underfloor, portal and surface lathes compared."},
+            {"page": "knowledge-centre", "anchor": "pit-planning", "icon": "bricks", "title": "Planning an underfloor lathe pit", "text": "The civil and services questions to settle early."},
+            {"page": "knowledge-centre", "anchor": "re-profiling-strategy", "icon": "graph-up-arrow", "title": "Extending wheel life", "text": "A re-profiling strategy that saves material and money."}
+          ]
+        },
+        {
+          "type": "text",
+          "id": "wheel-wear",
+          "eyebrow": "Guide 1",
+          "heading": "Understanding wheel wear",
+          "paragraphs": [
+            "A railway wheel is not a simple cylinder. Its tread is coned or curved so that the wheelset steers itself through curves and centres itself on straight track, and its flange keeps the wheel on the rail when steering alone is not enough. Every kilometre changes that geometry a little. Re-profiling restores it before the changes affect safety, ride quality or track wear.",
+            "Most wear falls into a handful of recognisable patterns. Knowing which one you are dealing with – and why it occurs – helps decide how often to measure, when to intervene and whether the root cause lies in the vehicle, the brakes or the track."
+          ],
+          "bullets": [
+            "**Wheel flats** – flat spots ground into the tread when a wheel slides under braking, typically on low adhesion. They cause impact loads that damage track, bearings and the vehicle, and noise that passengers notice at once.",
+            "**Hollow tread** – the running surface wears into a concave shape. The wheel then behaves as if it had a much steeper cone, which can cause unstable running at speed, higher contact stresses and a 'false flange' on the outer edge that strikes switches and crossings.",
+            "**Thin flange** – sustained contact with the rail gauge face, mostly in curves, wears the flange thinner. Below the operator's limit, the risk of the flange climbing or splitting points rises.",
+            "**Sharp or vertical flange** – the flange face wears steep and its root sharpens, which makes flange climbing more likely and damages switch blades.",
+            "**High flange** – as the tread wears down, the flange becomes relatively taller and can strike fishplates, bolts and crossing components.",
+            "**Shelling, spalling and thermal cracks** – surface fatigue and heat from tread braking break out small pieces of metal or leave fine cracks that grow if they are not machined away.",
+            "**Out-of-roundness and diameter differences** – polygonal wear and mismatched diameters on one axle or within one bogie cause vibration and poor steering."
+          ],
+          "image": "products/wheelset-profile-closeup",
+          "image_alt": "Sample illustration of a railway wheel profile showing tread and flange",
+          "layout": "image-right",
+          "link": {"label": "Measure wheels accurately: wheel measuring station", "page": "wheel-measuring-station"}
+        },
+        {
+          "type": "table",
+          "id": "choosing-a-lathe",
+          "heading": "Underfloor vs portal vs surface lathe: how to choose",
+          "intro": "The right machine depends less on the lathe itself than on where the wheelset is when it needs machining. If wheelsets stay in the vehicle, an underfloor lathe saves the most time. If they are already out – in a wheel shop or during overhaul – a portal or surface lathe is the natural choice.",
+          "columns": ["Question", "Underfloor lathe", "Portal lathe", "Surface lathe"],
+          "rows": [
+            ["Where is the wheelset?", "In the vehicle – no bogie drop or wheelset removal", "Removed from the vehicle", "Removed from the vehicle"],
+            ["Typical location", "Maintenance depot, shed or car shed", "Wheel shop, overhaul workshop or production line", "Depot or workshop handling dismounted wheelsets"],
+            ["Civil works", "Reinforced pit under a straight section of track", "Machine foundation; loading arrangement for wheelsets", "Foundation at floor level; no deep pit"],
+            ["Main benefit", "Shortest time out of service for the vehicle", "Heavy, repeatable machining and high throughput; suits automated loading", "Compact, versatile machine for re-profiling and brake-disc work on suitable models"],
+            ["Typical users", "Railway, metro and EMU fleets with high utilisation", "Wheel shops, rolling stock builders and overhaul works", "Workshops with moderate volumes and mixed wheelsets"],
+            ["HYT examples", "YUL-08, YUGL; tandem YUL-12T, YUGLX", "YPL-02, roller-type YPL-04", "YSL-08 / YSL-12 / YSL-21"]
+          ],
+          "note": "Many operators combine both approaches: an underfloor lathe keeps the fleet running between overhauls, while a portal or surface lathe handles wheelsets removed during heavy maintenance.",
+          "link": {"label": "Compare all wheel lathes", "page": "products", "anchor": "wheel-lathes"}
+        },
+        {
+          "type": "text",
+          "eyebrow": "More on selection",
+          "heading": "Single or tandem, one lathe or two",
+          "paragraphs": [
+            "Once you know which family fits, the next question is capacity. A single [underfloor lathe](page:underfloor-wheel-lathe) machines one wheelset at a time. A [tandem underfloor lathe](page:tandem-underfloor-wheel-lathe) pairs two synchronised machines so that both wheelsets of a bogie are machined in one setting – the right choice when long trains must return to service within a tight window.",
+            "For wheelsets that are already removed, compare the [portal wheel lathe](page:portal-wheel-lathe), the [roller-type portal wheel lathe](page:roller-type-portal-wheel-lathe) and the [surface wheel lathe](page:surface-wheel-lathe). Base the decision on the number of wheelsets per shift, the range of diameters and axle lengths, whether brake discs must be machined and how wheelsets will reach the machine.",
+            "Size the installation for the fleet you will have, not only the fleet you have today. Adding a second machine later is far easier if the pit, track and services were planned for it from the start."
+          ],
+          "image": "products/tandem-underfloor-wheel-lathe-yul-12t",
+          "image_alt": "HYT CNC Tandem Underfloor Wheel Lathe (YUL-12T)",
+          "layout": "image-left"
+        },
+        {
+          "type": "text",
+          "id": "pit-planning",
+          "eyebrow": "Guide 2",
+          "heading": "Planning an underfloor lathe pit",
+          "paragraphs": [
+            "An underfloor wheel lathe becomes part of the building. The pit, the track above it and the services around it are fixed for decades, so the decisions made at design stage have a lasting effect on productivity. Bring the machine supplier in before the depot layout is frozen.",
+            "Use the checklist below as a starting point for discussions between the operator, the depot designer, the civil contractor and the lathe manufacturer."
+          ],
+          "bullets": [
+            "**Track alignment** – a straight, level section with enough length on both sides to position every vehicle type, including the longest train, over the machine.",
+            "**Pit dimensions and foundation** – a reinforced concrete pit to the machine supplier's drawings, with foundation loads, anchor positions and tolerances agreed in writing.",
+            "**Rails over the machine** – how the rail sections above the lathe are supported and moved, and how they interface with the depot track.",
+            "**Vehicle movement** – how trains will be drawn over the pit and indexed axle by axle: depot locomotive, rope or capstan system, or a [Rail cum Road Vehicle (Shunter)](page:rail-cum-road-vehicle-shunter).",
+            "**Services** – electrical supply, earthing, compressed air where required, lighting, ventilation and data connections for remote diagnostics.",
+            "**Drainage and chips** – water and oil drainage from the pit and a practical route for removing chips.",
+            "**Access and safety** – stairs, walkways, guarding and lifting arrangements for maintenance, and clear separation between operators and moving vehicles.",
+            "**Future capacity** – space and services for a second machine or a tandem upgrade if fleet growth is expected."
+          ],
+          "image": "projects/pit-foundation-civil-works",
+          "image_alt": "Sample illustration of a reinforced concrete pit being prepared for an underfloor wheel lathe",
+          "layout": "image-right",
+          "link": {"label": "Installation and commissioning services", "page": "installation-commissioning"}
+        },
+        {
+          "type": "text",
+          "id": "re-profiling-strategy",
+          "eyebrow": "Guide 3",
+          "heading": "Extending wheel life: re-profiling strategy",
+          "paragraphs": [
+            "A wheel can only be re-profiled until it reaches its condemning diameter. Every millimetre of diameter removed unnecessarily shortens its life and brings forward the cost of new wheels or tyres and the downtime to fit them. The aim of a good re-profiling strategy is simple: restore a safe profile each time, with the least possible loss of diameter.",
+            "Flange thickness is usually what drives the cut. To rebuild a thin flange, the lathe must remove material from the tread until the full flange shape reappears – so a small amount of flange wear can cost several times as much diameter. That is why intervening at the right moment, and choosing the right target profile, matters so much."
+          ],
+          "bullets": [
+            "Measure regularly and record every wheel, so trends become visible before limits are reached.",
+            "Set intervention limits below the safety limits, leaving room to plan work without emergency withdrawals.",
+            "Where the operator's standards allow, use approved intermediate profiles with reduced flange thickness to save diameter on a cut.",
+            "Machine flats and surface defects promptly; small defects grow and need deeper cuts later.",
+            "Keep diameter differences on an axle, a bogie and a vehicle within the specified tolerances.",
+            "Investigate root causes – brake adjustment, bogie alignment, wheel slide protection or track geometry – when one vehicle or route wears faster than the rest."
+          ],
+          "image": "homepage/engineering-technology",
+          "image_alt": "Sample illustration of a CNC screen comparing a measured wheel profile with the target profile",
+          "layout": "image-left"
+        },
+        {
+          "type": "steps",
+          "heading": "Building a wheel-life programme",
+          "intro": "A structured cycle turns re-profiling from an emergency task into a planned maintenance activity.",
+          "items": [
+            {"title": "Measure", "text": "Capture diameter, flange height, flange thickness and flange slope for every wheel at fixed intervals."},
+            {"title": "Trend", "text": "Track wear rates by vehicle type, route and season to predict when each wheelset will need attention."},
+            {"title": "Plan", "text": "Schedule re-profiling before limits are reached and align it with other depot work."},
+            {"title": "Machine minimally", "text": "Let the lathe measure first and remove only the depth needed to restore the chosen profile."},
+            {"title": "Record and review", "text": "Store the post-machining measurements and review wheel life regularly to refine limits and profiles."}
+          ],
+          "link": {"label": "Training for operators and maintenance teams", "page": "training"}
+        },
+        {
+          "type": "faq",
+          "id": "faq",
+          "heading": "Frequently asked questions",
+          "items": [
+            {"q": "How often should wheels be re-profiled?", "a": "There is no single interval. It depends on the vehicle, its duty, the route, the braking system and the operator's limits. Most operators re-profile on condition, using regular measurements, rather than at fixed mileages."},
+            {"q": "What is the difference between re-profiling and replacing a wheel?", "a": "Re-profiling machines the existing wheel back to its specified tread and flange shape. Replacement becomes necessary when the wheel or tyre reaches its condemning diameter or has damage that cannot be machined away safely."},
+            {"q": "Why does a thin flange cost so much diameter?", "a": "The flange cannot be built up; its shape can only be restored by cutting the tread down until a full-thickness flange stands proud again. A little flange wear can therefore mean a much larger diameter loss."},
+            {"q": "Can wheels with flats be machined without removing the wheelset?", "a": "Yes. An [underfloor wheel lathe](page:underfloor-wheel-lathe) machines wheels in the vehicle and can remove flats and restore the profile in the same cycle."},
+            {"q": "Do both wheels on an axle need to be machined together?", "a": "Yes, in practice. The two wheels on an axle must stay within a tight diameter tolerance of each other for the wheelset to steer correctly. Underfloor, portal and surface lathes machine both wheels in one setting."},
+            {"q": "When is a tandem underfloor lathe worth it?", "a": "When the depot handles long or high-frequency fleets and the time each train spends on the lathe is critical. A [tandem lathe](page:tandem-underfloor-wheel-lathe) machines both wheelsets of a bogie in one setting."},
+            {"q": "Can brake discs be machined on a wheel lathe?", "a": "On suitable configurations, yes. Axle-mounted brake discs can be machined on some surface lathes and on underfloor lathes specified with that option. Confirm the requirement at the enquiry stage."},
+            {"q": "How long does it take to plan and install an underfloor lathe?", "a": "It depends mainly on the civil works. Pit design should start early in the depot design, as the pit and track are fixed once built. Ask us for foundation drawings at the planning stage."},
+            {"q": "What information do you need to recommend a machine?", "a": "Vehicle types and fleet size, wheel diameter range, wheel profiles, track gauge, axle loads, expected wheelsets per shift and a sketch of the depot or workshop layout."},
+            {"q": "Can an older wheel lathe be modernised?", "a": "Often, yes. A sound machine structure can be given a new CNC system, drives and measuring equipment. See [retro-fitment and upgradation](page:retro-fitment-upgradation)."}
+          ]
+        },
+        {
+          "type": "related",
+          "heading": "Machines mentioned in these guides",
+          "pages": ["underfloor-wheel-lathe", "tandem-underfloor-wheel-lathe", "portal-wheel-lathe", "surface-wheel-lathe"]
+        },
+        {
+          "type": "cta",
+          "heading": "Have a question these guides do not answer?",
+          "text": "Our application engineers are happy to look at your wheel wear data, fleet or depot plans and suggest a practical way forward.",
+          "primary": {"label": "Ask an engineer", "page": "contact-us"},
+          "secondary": {"label": "Go to downloads", "page": "downloads"}
+        }
+      ]
+    },
+
+    "downloads": {
+      "nav": "Downloads",
+      "title": "Downloads – Product Catalogues",
+      "description": "Download HYT Engineering product catalogues in PDF: CNC wheel lathes, wheel and axle shop machines and depot equipment, with the data needed for a proposal.",
+      "eyebrow": "Media & Resources",
+      "h1": "Downloads",
+      "lede": "Catalogues and product documents from HYT Engineering, collected in one place.",
+      "summary": "Product catalogues and documents in PDF format.",
+      "blocks": [
+        {
+          "type": "downloads",
+          "heading": "Product catalogues",
+          "items": [
+            {
+              "title": "HYT Product Catalogue (sample)",
+              "text": "An overview of HYT's wheel lathes, wheel and axle shop machines and depot equipment, with the information we need to prepare a technical proposal.",
+              "file": "/assets/documents/catalogue/hyt-sample-catalogue.pdf",
+              "meta": "PDF · sample for design and testing"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "eyebrow": "Using our documents",
+          "heading": "From catalogue to proposal",
+          "paragraphs": [
+            "Catalogues give an overview of each machine, its main options and its typical applications. Every HYT machine is configured for the customer's gauge, wheel profiles and vehicles, so final technical data is always confirmed in the technical offer.",
+            "Each product page also carries its own catalogue button, so you can download the document for a single machine while reading about it. Start from the [product overview](page:products) to find the machine you need.",
+            "Need a drawing, a datasheet or tender documentation that is not listed here? [Contact us](page:contact-us) and tell us which machine and which project it is for."
+          ],
+          "image": "company/engineering-design",
+          "image_alt": "Sample illustration of engineers reviewing machine drawings and documentation",
+          "layout": "image-right"
+        },
+        {
+          "type": "cards",
+          "eyebrow": "Browse by family",
+          "heading": "Find a machine",
+          "cols": 4,
+          "items": [
+            {"page": "products", "anchor": "wheel-lathes", "title": "Wheel Lathes", "text": "Underfloor, tandem, surface and portal CNC lathes.", "icon": "gear-wide-connected"},
+            {"page": "products", "anchor": "wheel-axle-shop-machines", "title": "Wheel & Axle Shop Machines", "text": "Turning, boring, burnishing, pressing, measuring and balancing.", "icon": "tools"},
+            {"page": "products", "anchor": "depot-workshop-equipment", "title": "Depot & Workshop Equipment", "text": "Armature machines, train washing plants and shunters.", "icon": "building-gear"},
+            {"page": "products", "anchor": "partner-products", "title": "Partner Products", "text": "SKC Gleittechnik sliding technology from Germany.", "icon": "box-seam"}
+          ]
+        },
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "The catalogue listed is a sample file. On the current site, catalogues are released after a short form – HYT to decide whether that form stays or files are downloaded directly. HYT to supply the final catalogue and individual product datasheets."
+        }
+      ]
+    }
+  }
+}

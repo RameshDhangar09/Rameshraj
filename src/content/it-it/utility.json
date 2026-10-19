@@ -1,0 +1,128 @@
+{
+  "pages": {
+    "contact-us": {
+      "nav": "Contatti",
+      "title": "Contatti HYT Engineering – Torni per sale montate",
+      "description": "Contatti HYT Engineering a Pune, a Nuova Delhi o presso SAFOP in Italia per torni CNC per sale montate, officine sale, officine chiavi in mano o assistenza. Rispondiamo entro 24 ore.",
+      "eyebrow": "Contatti",
+      "h1": "Iniziamo a parlarne",
+      "lede": "Che stia pianificando una nuova officina sale, abbia bisogno di assistenza su macchinari esistenti o voglia valutare una partnership – il nostro team è pronto a risponderLe entro 24 ore.",
+      "summary": "Le nostre sedi a Pune, Nuova Delhi e Pordenone (Italia), telefono, e-mail e modulo di richiesta.",
+      "blocks": [
+        {
+          "type": "contact",
+          "id": "locations"
+        },
+        {
+          "type": "form",
+          "id": "enquiry",
+          "form": "enquiry",
+          "eyebrow": "Modulo di contatto",
+          "heading": "Ci scriva un messaggio",
+          "intro": "Ci parli della Sua flotta, della Sua officina o del problema che deve risolvere. Tra i dati utili rientrano i tipi di veicolo, il campo di diametri delle ruote, lo scartamento e il numero di sale montate previsto per turno."
+        },
+        {
+          "type": "split_cta",
+          "items": [
+            {"icon": "headset", "heading": "Assistenza post-vendita", "text": "Macchina ferma o servono ricambi? Trovi il referente di assistenza giusto per il Suo impianto.", "label": "Rete di assistenza", "page": "service-centers"},
+            {"icon": "truck", "heading": "Fornitori", "text": "Desidera fornire componenti o servizi a HYT? Registri la Sua azienda presso il nostro ufficio acquisti.", "label": "Registrazione fornitori", "page": "supplier-registration"},
+            {"icon": "briefcase", "heading": "Lavora con noi", "text": "Cerca un ruolo in progettazione, produzione o assistenza? Si candidi tramite la nostra pagina carriere.", "label": "Posizioni aperte", "page": "career"}
+          ]
+        }
+      ]
+    },
+
+    "sitemap": {
+      "nav": "Mappa del sito",
+      "title": "Mappa del sito – Tutte le pagine",
+      "description": "Tutte le pagine del sito HYT Engineering in un unico elenco: azienda, prodotti, progetti chiavi in mano, servizi, settori, media, carriere e note legali.",
+      "eyebrow": "Informazioni sul sito",
+      "h1": "Mappa del sito",
+      "lede": "Tutte le pagine di questo sito, raggruppate per sezione. Digiti nella casella di ricerca per filtrare l'elenco.",
+      "summary": "Una panoramica di tutte le pagine del sito HYT Engineering.",
+      "blocks": [
+        {
+          "type": "sitemap",
+          "heading": "Tutte le pagine"
+        },
+        {
+          "type": "cards",
+          "eyebrow": "Punti di partenza più consultati",
+          "heading": "Non sa da dove iniziare?",
+          "cols": 4,
+          "items": [
+            {"page": "products", "icon": "grid-3x3-gap"},
+            {"page": "services", "icon": "tools"},
+            {"page": "knowledge-centre", "icon": "lightbulb"},
+            {"page": "contact-us", "icon": "envelope"}
+          ]
+        }
+      ]
+    },
+
+    "thank-you": {
+      "nav": "Grazie",
+      "title": "Grazie – Invio ricevuto",
+      "description": "Grazie per aver contattato HYT Engineering. Abbiamo ricevuto il Suo invio: ecco cosa succede ora e cosa leggere mentre attende la nostra risposta.",
+      "eyebrow": "Invio ricevuto",
+      "h1": "Grazie – abbiamo ricevuto i Suoi dati",
+      "lede": "Che abbia inviato una richiesta, chiesto un catalogo, effettuato la registrazione come fornitore o inviato una candidatura, il Suo invio è arrivato al team HYT competente.",
+      "summary": "Conferma della ricezione del Suo invio e prossimi passi.",
+      "blocks": [
+        {
+          "type": "steps",
+          "eyebrow": "Cosa succede ora",
+          "heading": "I prossimi tre passi",
+          "items": [
+            {"title": "Presa in carico", "text": "Il Suo invio viene registrato e inoltrato al team responsabile – vendite, assistenza, acquisti o risorse umane."},
+            {"title": "Esame da parte di uno specialista", "text": "Uno specialista HYT esamina quanto ci ha inviato. Se servono ulteriori informazioni, come profili ruota o disegni, gliele chiederemo."},
+            {"title": "Risposta", "text": "Le rispondiamo via e-mail o per telefono. Per le richieste sui prodotti può trattarsi di una raccomandazione, della proposta di un incontro o di un'offerta tecnica."}
+          ]
+        },
+        {
+          "type": "text",
+          "eyebrow": "Ha bisogno di noi prima?",
+          "heading": "Questioni urgenti",
+          "paragraphs": [
+            "Se una macchina è ferma o la Sua richiesta è urgente, ci chiami durante l'orario d'ufficio al +91 20 6634 3900 o al numero verde 1800 2100 456, citando i dati che ci ha inviato. Può anche scrivere a info@hytengineering.com."
+          ]
+        },
+        {
+          "type": "cards",
+          "eyebrow": "Nell'attesa",
+          "heading": "Continui a esplorare",
+          "cols": 3,
+          "items": [
+            {"page": "products", "icon": "grid-3x3-gap"},
+            {"page": "knowledge-centre", "icon": "lightbulb"},
+            {"page": "turnkey-project", "icon": "building-gear"}
+          ]
+        }
+      ]
+    },
+
+    "404": {
+      "nav": "Pagina non trovata",
+      "title": "Pagina non trovata",
+      "description": "La pagina che cercava sul sito HYT Engineering non è stata trovata. Potrebbe essere stata spostata: usi questi link per prodotti, servizi o contatti.",
+      "eyebrow": "Errore 404",
+      "h1": "Pagina non trovata",
+      "lede": "La pagina che cercava non esiste o è stata spostata. Il nostro sito è stato riorganizzato, perciò alcuni indirizzi meno recenti sono cambiati.",
+      "summary": "La pagina richiesta non è stata trovata.",
+      "blocks": [
+        {
+          "type": "cards",
+          "heading": "Provi una di queste pagine",
+          "intro": "Può anche consultare la [mappa del sito](page:sitemap) completa per trovare ciò che cerca.",
+          "cols": 4,
+          "items": [
+            {"page": "home", "icon": "house"},
+            {"page": "products", "icon": "grid-3x3-gap"},
+            {"page": "services", "icon": "tools"},
+            {"page": "contact-us", "icon": "envelope"}
+          ]
+        }
+      ]
+    }
+  }
+}

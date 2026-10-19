@@ -1,0 +1,992 @@
+{
+  "pages": {
+    "industries": {
+      "nav": "Industries",
+      "title": "Industries We Serve – Rail, Metro and Industry",
+      "description": "HYT serves railways, metros, rolling stock manufacturers, defence and heavy engineering with CNC wheel lathes, wheel shop machines and lifetime service.",
+      "eyebrow": "Industries",
+      "h1": "Industries We Serve",
+      "lede": "Wherever heavy wheels and rotating components must run true, HYT machines restore and produce them with precision – from national railway workshops to metro depots and industrial plants.",
+      "summary": "Railways, metros, rolling stock manufacturers, defence and heavy engineering – where HYT machines work.",
+      "blocks": [
+        {
+          "type": "cards",
+          "eyebrow": "Choose your industry",
+          "heading": "Solutions shaped by your operation",
+          "intro": "Each sector has its own vehicles, schedules and constraints. Select yours to see the challenges we address, the machines we recommend and the projects behind them.",
+          "cols": 3,
+          "items": [
+            {
+              "page": "ind-railways",
+              "image": "industries/railways"
+            },
+            {
+              "page": "ind-metros",
+              "image": "industries/metros"
+            },
+            {
+              "page": "ind-rolling-stock",
+              "image": "industries/rolling-stock-manufacturers"
+            },
+            {
+              "page": "ind-defence",
+              "image": "industries/defence"
+            },
+            {
+              "page": "ind-heavy-engineering",
+              "image": "industries/heavy-engineering"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "eyebrow": "What links them",
+          "heading": "One discipline: precise machining of heavy rotating parts",
+          "paragraphs": [
+            "A locomotive wheelset, a metro bogie, a new wheel disc on a production line and a large industrial ring have something in common. Each is heavy, each turns under load, and each must be machined accurately for the system around it to run safely and efficiently.",
+            "HYT has concentrated on that problem since moving into CNC wheel lathe technology. The same engineering know-how – rigid machine structures, accurate measurement, robust CNC control and careful foundation design – serves every industry on this page. What changes is the configuration, the throughput and the way the machine fits into your workshop.",
+            "Because we design and build every machine in-house, we can adapt it to unusual wheel sizes, heavy axle loads, restricted depot space or a particular production rhythm – and we remain responsible for it after handover."
+          ],
+          "image": "products/wheelset-profile-closeup",
+          "image_alt": "Sample illustration of a railway wheel tread and flange profile being machined",
+          "layout": "image-right"
+        },
+        {
+          "type": "features",
+          "eyebrow": "Why it matters",
+          "heading": "What every customer needs from a machine partner",
+          "cols": 4,
+          "items": [
+            {
+              "icon": "speedometer2",
+              "title": "Availability",
+              "text": "Short re-profiling and machining cycles keep vehicles and production lines moving."
+            },
+            {
+              "icon": "rulers",
+              "title": "Accuracy",
+              "text": "Measurement before and after cutting removes only the material needed and documents the result."
+            },
+            {
+              "icon": "shield-check",
+              "title": "Safety",
+              "text": "Correct wheel profiles reduce derailment risk; guarded machines protect the people who run them."
+            },
+            {
+              "icon": "clock-history",
+              "title": "Life-cycle support",
+              "text": "Service, spares and upgrades for the decades a machine stays in use."
+            }
+          ]
+        },
+        {
+          "type": "steps",
+          "eyebrow": "How we engage",
+          "heading": "From your requirement to a working solution",
+          "items": [
+            {
+              "title": "Define",
+              "text": "We look at your vehicles or components, volumes, tolerances and the space available."
+            },
+            {
+              "title": "Recommend",
+              "text": "We propose a machine or a combination of machines and explain the trade-offs."
+            },
+            {
+              "title": "Deliver",
+              "text": "We build, install and prove the solution on your own parts – as a single machine or a [turnkey project](page:turnkey-project)."
+            },
+            {
+              "title": "Support",
+              "text": "Training, maintenance contracts and genuine spares keep it productive. See [Services](page:services)."
+            }
+          ]
+        },
+        {
+          "type": "cards",
+          "eyebrow": "Proof in practice",
+          "heading": "Selected projects",
+          "intro": "Railway and metro operators in India and abroad use HYT machines in their daily maintenance. Full details are listed under [Turnkey Projects](page:turnkey-project).",
+          "cols": 3,
+          "items": [
+            {
+              "page": "under-execution",
+              "anchor": "ncrtc-underfloor-wheel-lathes",
+              "title": "Fully automatic CNC underfloor wheel lathes – NCRTC",
+              "text": "Wheel re-profiling for India's first regional rapid transit system.",
+              "image": "projects/metro-depot"
+            },
+            {
+              "page": "under-execution",
+              "anchor": "dmrc-tandem-underfloor-wheel-lathe",
+              "title": "CNC tandem underfloor wheel lathe – Delhi Metro",
+              "text": "Two synchronised machines for fast bogie re-profiling.",
+              "image": "products/tandem-underfloor-wheel-lathe-yul-12t"
+            },
+            {
+              "page": "executed-projects",
+              "anchor": "state-railway-of-thailand",
+              "title": "CNC vertical turret lathe – State Railway of Thailand",
+              "text": "Supplied and installed for wheel machining in Bangkok.",
+              "image": "projects/railway-wheel-shop"
+            }
+          ]
+        },
+        {
+          "type": "cta",
+          "heading": "Tell us about your fleet or your components",
+          "text": "Share your vehicles, wheel sizes or component drawings and production targets. Our application engineers will recommend the right machine.",
+          "primary": {
+            "label": "Discuss Your Requirement",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Explore Our Products",
+            "page": "products"
+          }
+        }
+      ]
+    },
+    "ind-railways": {
+      "nav": "Railways",
+      "title": "Wheel Lathes and Workshop Machines for Railways",
+      "description": "CNC wheel lathes, wheel and axle shop machines and turnkey workshops for national railways – keeping locomotives, coaches, EMUs and wagons safe and in service.",
+      "eyebrow": "Industries",
+      "h1": "Solutions for Railways",
+      "lede": "National railways run large, mixed fleets over long distances and heavy axle loads. HYT machines help their sheds and workshops keep every wheelset within limits without holding trains back.",
+      "summary": "Wheel lathes, wheel shop machines and turnkey workshops for locomotive, coaching, EMU and wagon depots.",
+      "blocks": [
+        {
+          "type": "text",
+          "id": "challenges",
+          "eyebrow": "The challenge",
+          "heading": "Large, mixed fleets and little time to spare",
+          "paragraphs": [
+            "A railway shed may maintain electric and diesel locomotives, passenger coaches, EMUs and wagons – each with its own wheel diameters, profiles and axle loads. Wheels develop flats from braking, hollow treads from wear and thin flanges on curved routes. Left uncorrected, these defects damage track, raise energy consumption and increase the risk of derailment.",
+            "Taking wheelsets out for re-profiling ties up vehicles, cranes and staff. Older wheel lathes, often decades in service, struggle to hold accuracy and are hard to keep running. Workshops need machines that restore profiles quickly, remove as little material as possible and keep working for many years."
+          ],
+          "image": "industries/railways",
+          "image_alt": "Sample illustration of a railway maintenance shed with locomotives and coaches on parallel tracks",
+          "layout": "image-right"
+        },
+        {
+          "type": "features",
+          "eyebrow": "How HYT helps",
+          "heading": "Faster re-profiling, longer wheel life",
+          "cols": 3,
+          "items": [
+            {
+              "icon": "clock-history",
+              "title": "Re-profile in the vehicle",
+              "text": "Underfloor lathes machine wheels without dropping bogies, returning vehicles to service within a shift."
+            },
+            {
+              "icon": "rulers",
+              "title": "Minimum material removal",
+              "text": "Automatic measurement lets the CNC take only the cut needed, so each wheel lasts more re-profiling cycles."
+            },
+            {
+              "icon": "train-freight-front",
+              "title": "One machine for many vehicles",
+              "text": "Adaptors and stored profiles let one lathe serve locomotives, coaches, EMUs and wagons."
+            },
+            {
+              "icon": "bullseye",
+              "title": "Complete wheel shops",
+              "text": "Vertical turning, axle machining, pressing, measuring and balancing for periodic overhaul."
+            },
+            {
+              "icon": "arrow-repeat",
+              "title": "New life for old machines",
+              "text": "Retro-fitment of CNC systems, drives and measuring technology on ageing lathes."
+            },
+            {
+              "icon": "geo-alt",
+              "title": "Built in India",
+              "text": "Designed and manufactured in Pune, with spares and service support from within India."
+            }
+          ]
+        },
+        {
+          "type": "cards",
+          "eyebrow": "Relevant products",
+          "heading": "Machines for railway sheds and workshops",
+          "cols": 4,
+          "items": [
+            {
+              "page": "underfloor-wheel-lathe",
+              "image": "products/underfloor-wheel-lathe-yul-08"
+            },
+            {
+              "page": "tandem-underfloor-wheel-lathe",
+              "image": "products/tandem-underfloor-wheel-lathe-yul-12t"
+            },
+            {
+              "page": "surface-wheel-lathe",
+              "image": "products/surface-wheel-lathe"
+            },
+            {
+              "page": "portal-wheel-lathe",
+              "image": "products/portal-wheel-lathe"
+            },
+            {
+              "page": "vertical-turning-boring-machine",
+              "image": "products/vertical-turning-boring-machine"
+            },
+            {
+              "page": "axle-journal-turning-burnishing-lathe",
+              "image": "products/axle-journal-turning-burnishing-lathe"
+            },
+            {
+              "page": "wheel-presses",
+              "image": "products/wheel-press"
+            },
+            {
+              "page": "rail-cum-road-vehicle-shunter",
+              "image": "products/rail-cum-road-vehicle-shunter"
+            }
+          ]
+        },
+        {
+          "type": "cards",
+          "eyebrow": "Relevant services",
+          "heading": "Support for the whole machine life",
+          "cols": 4,
+          "items": [
+            {
+              "page": "installation-commissioning",
+              "icon": "tools"
+            },
+            {
+              "page": "annual-maintenance-contract",
+              "icon": "clipboard-check"
+            },
+            {
+              "page": "retro-fitment-upgradation",
+              "icon": "arrow-repeat"
+            },
+            {
+              "page": "training",
+              "icon": "mortarboard"
+            }
+          ]
+        },
+        {
+          "type": "cards",
+          "eyebrow": "Projects",
+          "heading": "HYT machines at work on railways",
+          "cols": 3,
+          "items": [
+            {
+              "page": "executed-projects",
+              "anchor": "indian-railways-underfloor-wheel-lathes",
+              "title": "CNC underfloor wheel lathes – Indian Railways",
+              "text": "Contract for nine CNC underfloor wheel lathes.",
+              "image": "products/underfloor-wheel-lathe-yul-08"
+            },
+            {
+              "page": "executed-projects",
+              "anchor": "sanpada-emu-car-shed",
+              "title": "CNC vertical turning lathe – Sanpada EMU car shed, Mumbai",
+              "text": "Wheel machining capacity for a busy suburban EMU fleet.",
+              "image": "projects/emu-car-shed"
+            },
+            {
+              "page": "executed-projects",
+              "anchor": "state-railway-of-thailand",
+              "title": "CNC vertical turret lathe – State Railway of Thailand",
+              "text": "Supplied and installed for wheel machining in Bangkok.",
+              "image": "projects/railway-wheel-shop"
+            }
+          ]
+        },
+        {
+          "type": "faq",
+          "heading": "Frequently asked questions",
+          "items": [
+            {
+              "q": "Should a railway shed choose an underfloor or a surface wheel lathe?",
+              "a": "An [underfloor lathe](page:underfloor-wheel-lathe) re-profiles wheels without removing the wheelset and is the right choice where vehicles must return to service quickly. A [surface wheel lathe](page:surface-wheel-lathe) suits sheds that need a flexible machine without a deep pit. We can advise on the best option for your fleet and site."
+            },
+            {
+              "q": "Can one machine handle locomotives, coaches and wagons?",
+              "a": "Yes. With suitable adaptors and stored wheel profiles, one machine can serve a mixed fleet. Axle load, wheel diameter range and bogie design are confirmed during the technical study."
+            },
+            {
+              "q": "Can you upgrade our existing wheel lathes?",
+              "a": "Often, yes. [Retro-fitment](page:retro-fitment-upgradation) with a new CNC system, drives and measuring equipment can restore accuracy and reliability at lower cost than a new machine."
+            },
+            {
+              "q": "Do you support broad, standard and metre gauge?",
+              "a": "Our wheel lathes are configured to the customer's track gauge and wheel profiles. Gauge-dependent values are confirmed in the technical offer."
+            }
+          ]
+        },
+        {
+          "type": "cta",
+          "heading": "Planning a new wheel lathe for your shed?",
+          "text": "Tell us about your fleet, wheel profiles and workshop. Our application engineers will recommend a configuration and prepare a proposal.",
+          "primary": {
+            "label": "Discuss Your Requirement",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Explore Our Products",
+            "page": "products"
+          }
+        }
+      ]
+    },
+    "ind-metros": {
+      "nav": "Metros",
+      "title": "Wheel Lathes and Depot Equipment for Metros",
+      "description": "Underfloor and tandem wheel lathes, depot equipment and maintenance contracts that help metro and rapid transit operators keep high-frequency fleets in service.",
+      "eyebrow": "Industries",
+      "h1": "Solutions for Metros and Rapid Transit",
+      "lede": "Metro trains run all day and are maintained at night. HYT wheel lathes and depot equipment fit into those short windows, so the full fleet is ready for the morning peak.",
+      "summary": "Underfloor and tandem wheel lathes and depot equipment for metro and rapid transit operators.",
+      "blocks": [
+        {
+          "type": "text",
+          "id": "challenges",
+          "eyebrow": "The challenge",
+          "heading": "High frequency, short windows, no spare trains",
+          "paragraphs": [
+            "Metro and rapid transit fleets are sized tightly to the timetable. Frequent acceleration and braking, tight curves and high daily mileage wear wheels quickly, and ride comfort and noise are noticed immediately by passengers and neighbours.",
+            "Maintenance usually happens overnight in a depot where space is limited and every pit is planned years in advance. A wheel lathe must re-profile a whole train within that window, produce repeatable results across the fleet and be ready again the next night. When it is out of service, trains queue up and availability targets slip."
+          ],
+          "image": "industries/metros",
+          "image_alt": "Sample illustration of metro trains stabled in a depot at night",
+          "layout": "image-right"
+        },
+        {
+          "type": "features",
+          "eyebrow": "How HYT helps",
+          "heading": "Wheel maintenance that fits the night shift",
+          "cols": 3,
+          "items": [
+            {
+              "icon": "arrows-angle-expand",
+              "title": "Tandem machines",
+              "text": "Two synchronised underfloor lathes machine both wheelsets of a bogie in one setting, cutting the time per train."
+            },
+            {
+              "icon": "cpu",
+              "title": "Automatic cycles",
+              "text": "Measure, calculate and cut with minimal operator input for consistent results across the fleet."
+            },
+            {
+              "icon": "file-earmark-text",
+              "title": "Fleet data",
+              "text": "Machining reports for every wheelset support condition-based maintenance and audits."
+            },
+            {
+              "icon": "volume-down",
+              "title": "Ride quality",
+              "text": "Accurate profiles and matched diameters help keep noise and vibration down."
+            },
+            {
+              "icon": "building-gear",
+              "title": "Complete depots",
+              "text": "Wheel lathes, train washing, shunting and armature equipment from one partner."
+            },
+            {
+              "icon": "headset",
+              "title": "Service you can plan on",
+              "text": "Maintenance and operation contracts with defined response times and spares on hand."
+            }
+          ]
+        },
+        {
+          "type": "cards",
+          "eyebrow": "Relevant products",
+          "heading": "Machines for metro depots",
+          "cols": 4,
+          "items": [
+            {
+              "page": "tandem-underfloor-wheel-lathe",
+              "image": "products/tandem-underfloor-wheel-lathe-yul-12t"
+            },
+            {
+              "page": "tandem-underfloor-wheel-lathe-yuglx",
+              "image": "products/tandem-underfloor-wheel-lathe-yuglx"
+            },
+            {
+              "page": "underfloor-wheel-lathe-yugl",
+              "image": "products/underfloor-wheel-lathe-yugl"
+            },
+            {
+              "page": "underfloor-wheel-lathe",
+              "image": "products/underfloor-wheel-lathe-yul-08"
+            },
+            {
+              "page": "wheel-measuring-station",
+              "image": "products/wheel-measuring-station"
+            },
+            {
+              "page": "automated-train-washing-plant",
+              "image": "products/automated-train-washing-plant"
+            },
+            {
+              "page": "rail-cum-road-vehicle-shunter",
+              "image": "products/rail-cum-road-vehicle-shunter"
+            },
+            {
+              "page": "multi-purpose-armature-machine",
+              "image": "products/multi-purpose-armature-machine"
+            }
+          ]
+        },
+        {
+          "type": "cards",
+          "eyebrow": "Relevant services",
+          "heading": "Keeping depot machines available",
+          "cols": 4,
+          "items": [
+            {
+              "page": "operation-and-maintenance",
+              "icon": "gear-wide-connected"
+            },
+            {
+              "page": "comprehensive-annual-maintenance-contract",
+              "icon": "clipboard-check"
+            },
+            {
+              "page": "spare-supply",
+              "icon": "box-seam"
+            },
+            {
+              "page": "training",
+              "icon": "mortarboard"
+            }
+          ]
+        },
+        {
+          "type": "cards",
+          "eyebrow": "Projects",
+          "heading": "HYT machines for metro and rapid transit",
+          "cols": 2,
+          "items": [
+            {
+              "page": "under-execution",
+              "anchor": "dmrc-tandem-underfloor-wheel-lathe",
+              "title": "CNC tandem underfloor wheel lathe – Delhi Metro Rail Corporation",
+              "text": "Two synchronised machines for fast re-profiling of metro bogies.",
+              "image": "products/tandem-underfloor-wheel-lathe-yul-12t"
+            },
+            {
+              "page": "under-execution",
+              "anchor": "ncrtc-underfloor-wheel-lathes",
+              "title": "Fully automatic CNC underfloor wheel lathes – NCRTC",
+              "text": "For India's first regional rapid transit system.",
+              "image": "projects/metro-depot"
+            }
+          ]
+        },
+        {
+          "type": "faq",
+          "heading": "Frequently asked questions",
+          "items": [
+            {
+              "q": "When does a metro depot need a tandem wheel lathe?",
+              "a": "When fleets are large and maintenance windows short. A [tandem lathe](page:tandem-underfloor-wheel-lathe) machines two wheelsets of a bogie at once; HYT's YUL-12T reduces re-profiling time compared with a single machine."
+            },
+            {
+              "q": "Can the lathe machine brake discs as well as wheels?",
+              "a": "Brake-disc machining is available on suitable configurations. We confirm it during the technical study of your vehicles."
+            },
+            {
+              "q": "How is the machine integrated into a new depot?",
+              "a": "We supply pit, foundation and interface drawings early, coordinate with the depot designer and civil contractor, and commission the lathe on your own trains."
+            },
+            {
+              "q": "Can HYT operate the machine for us?",
+              "a": "Yes. Under an [operation and maintenance](page:operation-and-maintenance) arrangement our crew runs and maintains the machine, so you can focus on running trains."
+            }
+          ]
+        },
+        {
+          "type": "cta",
+          "heading": "Equipping a new metro depot or upgrading an existing one?",
+          "text": "Share your fleet size, maintenance plan and depot layout. We will recommend the wheel lathe and depot equipment that fit your schedule.",
+          "primary": {
+            "label": "Discuss Your Requirement",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Explore Our Products",
+            "page": "products"
+          }
+        }
+      ]
+    },
+    "ind-rolling-stock": {
+      "nav": "Rolling Stock Manufacturers",
+      "title": "Wheel and Axle Shop Machines for Rolling Stock OEMs",
+      "description": "Vertical turning lathes, axle machining, wheel presses, measuring and balancing machines and wheel shop automation for rolling stock and wheelset manufacturers.",
+      "eyebrow": "Industries",
+      "h1": "Solutions for Rolling Stock Manufacturers",
+      "lede": "New vehicles start with new wheelsets. HYT supplies the machines that turn, bore, press, measure and balance them – individually or as a complete, traceable wheel shop.",
+      "summary": "Wheel and axle shop machines and automated wheel shops for rolling stock and wheelset production.",
+      "blocks": [
+        {
+          "type": "text",
+          "id": "challenges",
+          "eyebrow": "The challenge",
+          "heading": "Tight tolerances at production volumes",
+          "paragraphs": [
+            "A rolling stock manufacturer must deliver wheelsets that meet the customer's specification first time, at the rate the assembly line demands. Bores must suit the press fit, journals must be finished for reliable bearing seats, and every wheelset must be measured, balanced and documented before it reaches the bogie.",
+            "Production programmes change: a new metro order, a different gauge, a ramp-up for an export contract. The machines in the wheel shop must adapt without long changeovers, and the data they produce must stand up to customer inspection and later warranty questions."
+          ],
+          "image": "industries/rolling-stock-manufacturers",
+          "image_alt": "Sample illustration of a rolling stock assembly hall with bogies and wheelsets",
+          "layout": "image-right"
+        },
+        {
+          "type": "features",
+          "eyebrow": "How HYT helps",
+          "heading": "A complete process from raw component to certified wheelset",
+          "cols": 3,
+          "items": [
+            {
+              "icon": "bullseye",
+              "title": "Wheel turning and boring",
+              "text": "CNC vertical turning and boring machines finish wheels and bores to tight tolerances."
+            },
+            {
+              "icon": "nut",
+              "title": "Axle machining",
+              "text": "Axle turning and journal burnishing for accurate, durable bearing and wheel seats."
+            },
+            {
+              "icon": "arrows-angle-expand",
+              "title": "Pressing with records",
+              "text": "Wheel presses for mounting and dismounting wheels on axles."
+            },
+            {
+              "icon": "rulers",
+              "title": "Measurement",
+              "text": "Wheel measuring stations confirm geometry before dispatch."
+            },
+            {
+              "icon": "speedometer2",
+              "title": "Balancing",
+              "text": "Dynamic balancing for smooth running at higher speeds."
+            },
+            {
+              "icon": "diagram-3",
+              "title": "Automation and flow",
+              "text": "Linked machines, handling and data in an [automated wheel shop](page:ts-wheel-shops#automation)."
+            }
+          ]
+        },
+        {
+          "type": "cards",
+          "eyebrow": "Relevant products",
+          "heading": "Machines for wheelset production",
+          "cols": 3,
+          "items": [
+            {
+              "page": "vertical-turning-boring-machine",
+              "image": "products/vertical-turning-boring-machine"
+            },
+            {
+              "page": "axle-turning-lathe",
+              "image": "products/axle-turning-lathe"
+            },
+            {
+              "page": "axle-journal-turning-burnishing-lathe",
+              "image": "products/axle-journal-turning-burnishing-lathe"
+            },
+            {
+              "page": "wheel-presses",
+              "image": "products/wheel-press"
+            },
+            {
+              "page": "wheel-measuring-station",
+              "image": "products/wheel-measuring-station"
+            },
+            {
+              "page": "dynamic-wheel-balancing-machine",
+              "image": "products/dynamic-wheel-balancing-machine"
+            }
+          ]
+        },
+        {
+          "type": "cards",
+          "eyebrow": "Relevant services",
+          "heading": "From line layout to lifetime support",
+          "cols": 4,
+          "items": [
+            {
+              "page": "ts-wheel-shops",
+              "icon": "diagram-3"
+            },
+            {
+              "page": "installation-commissioning",
+              "icon": "tools"
+            },
+            {
+              "page": "service-contract",
+              "icon": "clipboard-check"
+            },
+            {
+              "page": "training",
+              "icon": "mortarboard"
+            }
+          ]
+        },
+        {
+          "type": "cards",
+          "eyebrow": "Projects",
+          "heading": "Our turning machines in railway wheel shops",
+          "intro": "HYT vertical turning lathes already machine wheels for railway operators.",
+          "cols": 2,
+          "items": [
+            {
+              "page": "executed-projects",
+              "anchor": "state-railway-of-thailand",
+              "title": "CNC vertical turret lathe – State Railway of Thailand",
+              "text": "Supplied and installed for wheel machining in Bangkok.",
+              "image": "projects/railway-wheel-shop"
+            },
+            {
+              "page": "executed-projects",
+              "anchor": "sanpada-emu-car-shed",
+              "title": "CNC vertical turning lathe – Sanpada EMU car shed, Mumbai",
+              "text": "Wheel machining capacity for a suburban EMU fleet.",
+              "image": "projects/emu-car-shed"
+            }
+          ]
+        },
+        {
+          "type": "faq",
+          "heading": "Frequently asked questions",
+          "items": [
+            {
+              "q": "Can HYT supply a complete wheel shop rather than single machines?",
+              "a": "Yes. We plan the process flow, select and link the machines, add handling and data systems and commission the line. See [Wheel Shops](page:ts-wheel-shops) and [Turnkey Projects](page:turnkey-project)."
+            },
+            {
+              "q": "Can the machines handle different wheel sizes and gauges?",
+              "a": "Our machines are configured to the range of wheels and axles you produce. Size ranges are confirmed in the technical offer for your programme."
+            },
+            {
+              "q": "Is the production data recorded?",
+              "a": "Data recording for measuring stations and wheel presses is defined with you in the technical offer, to support traceability and customer inspection."
+            }
+          ]
+        },
+        {
+          "type": "cta",
+          "heading": "Setting up or expanding wheelset production?",
+          "text": "Send us your component drawings, volumes and floor space. We will propose machines or a complete line to match your programme.",
+          "primary": {
+            "label": "Discuss Your Requirement",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Turnkey Wheel Shops",
+            "page": "ts-wheel-shops"
+          }
+        }
+      ]
+    },
+    "ind-defence": {
+      "nav": "Defence",
+      "title": "Rail Workshop and Heavy Turning Machines for Defence",
+      "description": "Wheel lathes, wheelset machines and heavy vertical turning for defence rail logistics and military workshops – designed, built and supported in India by HYT.",
+      "eyebrow": "Industries",
+      "h1": "Solutions for Defence",
+      "lede": "Defence logistics depends on rolling stock and heavy equipment that must be ready when called upon. HYT machines help keep wheelsets and large rotating components serviceable.",
+      "summary": "Wheelset machining and heavy turning capability for defence rail logistics and military workshops.",
+      "blocks": [
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "For HYT review: no defence customers or defence-specific products are verified. This page describes capability only. Please confirm whether HYT wishes to feature this sector, which machines to show and whether any customers or projects may be named."
+        },
+        {
+          "type": "text",
+          "id": "challenges",
+          "eyebrow": "The challenge",
+          "heading": "Readiness, self-reliance and long service lives",
+          "paragraphs": [
+            "Defence organisations move heavy equipment by rail and maintain their own wagons, coaches and locomotives in dedicated workshops. These fleets may run less often than commercial traffic, but they must be serviceable at short notice, and their wheelsets must meet the same safety limits as any other.",
+            "Military workshops also repair large rotating components such as rings, hubs and heavy wheels. They value equipment that is robust, simple to maintain, supported locally for decades and supplied with complete documentation. Confidentiality of drawings and site information is essential."
+          ],
+          "image": "industries/defence",
+          "image_alt": "Sample illustration of a rail-served defence logistics workshop with heavy wagons",
+          "layout": "image-right"
+        },
+        {
+          "type": "features",
+          "eyebrow": "How HYT helps",
+          "heading": "Capability for defence workshops",
+          "cols": 3,
+          "items": [
+            {
+              "icon": "train-freight-front",
+              "title": "Wheelset re-profiling",
+              "text": "Underfloor and surface wheel lathes restore wheel profiles on wagons, coaches and locomotives used for military rail logistics."
+            },
+            {
+              "icon": "bullseye",
+              "title": "Heavy vertical turning",
+              "text": "CNC vertical turning and boring machines for large-diameter rotating components and wheels."
+            },
+            {
+              "icon": "truck",
+              "title": "Depot mobility",
+              "text": "Rail-cum-road shunters move wagons and coaches within sidings and workshops."
+            },
+            {
+              "icon": "geo-alt",
+              "title": "Designed and built in India",
+              "text": "Engineering and manufacturing in Pune, with spares and service support from within India."
+            },
+            {
+              "icon": "shield-lock",
+              "title": "Confidential handling",
+              "text": "Drawings, site data and project information handled according to contract requirements."
+            },
+            {
+              "icon": "file-earmark-text",
+              "title": "Full documentation",
+              "text": "Manuals, drawings, inspection records and spare-parts lists supplied with every machine."
+            }
+          ]
+        },
+        {
+          "type": "cards",
+          "eyebrow": "Relevant products",
+          "heading": "Machines suited to defence applications",
+          "cols": 4,
+          "items": [
+            {
+              "page": "surface-wheel-lathe",
+              "image": "products/surface-wheel-lathe"
+            },
+            {
+              "page": "underfloor-wheel-lathe",
+              "image": "products/underfloor-wheel-lathe-yul-08"
+            },
+            {
+              "page": "vertical-turning-boring-machine",
+              "image": "products/vertical-turning-boring-machine"
+            },
+            {
+              "page": "rail-cum-road-vehicle-shunter",
+              "image": "products/rail-cum-road-vehicle-shunter"
+            }
+          ]
+        },
+        {
+          "type": "cards",
+          "eyebrow": "Relevant services",
+          "heading": "Long-term support",
+          "cols": 3,
+          "items": [
+            {
+              "page": "comprehensive-annual-maintenance-contract",
+              "icon": "clipboard-check"
+            },
+            {
+              "page": "spare-supply",
+              "icon": "box-seam"
+            },
+            {
+              "page": "training",
+              "icon": "mortarboard"
+            }
+          ]
+        },
+        {
+          "type": "faq",
+          "heading": "Frequently asked questions",
+          "items": [
+            {
+              "q": "Can HYT machines handle heavy military wagons?",
+              "a": "Our wheel lathes are configured to the wheel diameters, gauges and axle loads specified by the customer. Requirements for heavy-duty wagons are reviewed in the technical study."
+            },
+            {
+              "q": "Can HYT work under confidentiality and security requirements?",
+              "a": "Yes. We handle drawings, site information and project data according to the confidentiality terms of the contract and the rules of the site."
+            },
+            {
+              "q": "Is training and long-term support available?",
+              "a": "Yes. We train operators and maintainers on site and offer [maintenance contracts](page:maintenance) and [spare parts supply](page:spare-supply) for the machine's working life."
+            }
+          ]
+        },
+        {
+          "type": "cta",
+          "heading": "Discuss a defence workshop requirement",
+          "text": "Tell us about the vehicles or components you need to maintain. Our engineers will assess the right machine for your workshop.",
+          "primary": {
+            "label": "Discuss Your Requirement",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Explore Our Products",
+            "page": "products"
+          }
+        }
+      ]
+    },
+    "ind-heavy-engineering": {
+      "nav": "Heavy Engineering",
+      "title": "Heavy Turning and Wheel Machines for Industry",
+      "description": "CNC vertical turning, wheel lathes and wheelset machines for heavy engineering plants and captive rail fleets at steel works, ports, mines and power stations.",
+      "eyebrow": "Industries",
+      "h1": "Solutions for Heavy Engineering",
+      "lede": "Large rotating components and industrial rail fleets need the same accuracy as a main-line railway. HYT applies its wheel machining expertise to heavy engineering plants.",
+      "summary": "Vertical turning and wheel machining for heavy components and captive industrial rail fleets.",
+      "blocks": [
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "For HYT review: no heavy engineering customers or sector-specific products are verified. This page describes capability only. Please confirm which machines and applications HYT wishes to feature and whether any customers or projects may be named."
+        },
+        {
+          "type": "text",
+          "id": "challenges",
+          "eyebrow": "The challenge",
+          "heading": "Big parts, heavy loads, costly downtime",
+          "paragraphs": [
+            "Heavy engineering works machine large rotating parts – rings, flanges, hubs, gear blanks and wheels – where size and weight make every set-up slow and every error expensive. Machines must be rigid enough to cut hard material accurately and simple enough for the shop floor to run efficiently.",
+            "Many industrial sites, such as steel plants, ports, mines and power stations, also run their own railway fleets. Their wagons and locomotives carry heavy loads on short, demanding routes, and their wheels wear quickly. Sending wheelsets away for re-profiling can stop production logistics for days."
+          ],
+          "image": "industries/heavy-engineering",
+          "image_alt": "Sample illustration of a heavy engineering workshop with large turned components",
+          "layout": "image-right"
+        },
+        {
+          "type": "features",
+          "eyebrow": "How HYT helps",
+          "heading": "Railway-grade machining for industry",
+          "cols": 3,
+          "items": [
+            {
+              "icon": "bullseye",
+              "title": "Vertical turning and boring",
+              "text": "CNC vertical turning lathes for large-diameter components, with rigid structures for heavy cuts."
+            },
+            {
+              "icon": "train-freight-front",
+              "title": "On-site wheel re-profiling",
+              "text": "Surface and portal wheel lathes let captive rail fleets re-profile wheels in their own workshop."
+            },
+            {
+              "icon": "arrows-angle-expand",
+              "title": "Wheel pressing",
+              "text": "Presses for mounting and removing wheels, gears and similar press-fit components."
+            },
+            {
+              "icon": "speedometer2",
+              "title": "Balancing",
+              "text": "Dynamic balancing for wheels and rotating assemblies to reduce vibration and wear."
+            },
+            {
+              "icon": "lightning-charge",
+              "title": "Motor armature work",
+              "text": "Armature machines for maintaining traction and large electric motors."
+            },
+            {
+              "icon": "headset",
+              "title": "Service and spares",
+              "text": "Maintenance contracts and genuine spares to protect production uptime."
+            }
+          ]
+        },
+        {
+          "type": "cards",
+          "eyebrow": "Relevant products",
+          "heading": "Machines for heavy engineering",
+          "cols": 3,
+          "items": [
+            {
+              "page": "vertical-turning-boring-machine",
+              "image": "products/vertical-turning-boring-machine"
+            },
+            {
+              "page": "surface-wheel-lathe",
+              "image": "products/surface-wheel-lathe"
+            },
+            {
+              "page": "portal-wheel-lathe",
+              "image": "products/portal-wheel-lathe"
+            },
+            {
+              "page": "wheel-presses",
+              "image": "products/wheel-press"
+            },
+            {
+              "page": "dynamic-wheel-balancing-machine",
+              "image": "products/dynamic-wheel-balancing-machine"
+            },
+            {
+              "page": "multi-purpose-armature-machine",
+              "image": "products/multi-purpose-armature-machine"
+            }
+          ]
+        },
+        {
+          "type": "cards",
+          "eyebrow": "Relevant services",
+          "heading": "Support that protects production",
+          "cols": 4,
+          "items": [
+            {
+              "page": "installation-commissioning",
+              "icon": "tools"
+            },
+            {
+              "page": "annual-maintenance-contract",
+              "icon": "clipboard-check"
+            },
+            {
+              "page": "repair",
+              "icon": "wrench-adjustable"
+            },
+            {
+              "page": "shifting",
+              "icon": "truck"
+            }
+          ]
+        },
+        {
+          "type": "faq",
+          "heading": "Frequently asked questions",
+          "items": [
+            {
+              "q": "Can HYT vertical turning lathes machine non-railway components?",
+              "a": "Our [vertical turning and boring machines](page:vertical-turning-boring-machine) are designed for heavy rotating parts. Share your component drawings and we will confirm suitability and capacity."
+            },
+            {
+              "q": "We run an internal rail fleet. Do we need a full wheel shop?",
+              "a": "Not necessarily. A [surface wheel lathe](page:surface-wheel-lathe) or [portal wheel lathe](page:portal-wheel-lathe) can give a captive fleet its own re-profiling capacity without the investment of a complete wheel shop."
+            },
+            {
+              "q": "Can you relocate an existing machine to a new plant?",
+              "a": "Yes. Our [shifting](page:shifting) service covers dismantling, transport, reinstallation and recommissioning."
+            }
+          ]
+        },
+        {
+          "type": "cta",
+          "heading": "Have a heavy machining requirement?",
+          "text": "Send us your component drawings or details of your rail fleet. Our engineers will recommend a suitable machine.",
+          "primary": {
+            "label": "Discuss Your Requirement",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Explore Our Products",
+            "page": "products"
+          }
+        }
+      ]
+    }
+  }
+}

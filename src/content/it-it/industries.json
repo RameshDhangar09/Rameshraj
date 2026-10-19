@@ -1,0 +1,992 @@
+{
+  "pages": {
+    "industries": {
+      "nav": "Settori",
+      "title": "Settori serviti – Ferrovie, metropolitane e industria",
+      "description": "HYT serve ferrovie, metropolitane, costruttori di materiale rotabile, difesa e industria pesante con torni CNC per sale montate, macchine e assistenza a vita.",
+      "eyebrow": "Settori",
+      "h1": "Settori serviti",
+      "lede": "Ovunque ruote pesanti e componenti rotanti debbano girare perfettamente centrati, le macchine HYT li ripristinano e li producono con precisione – dalle officine delle ferrovie nazionali ai depositi delle metropolitane, fino agli stabilimenti industriali.",
+      "summary": "Ferrovie, metropolitane, costruttori di materiale rotabile, difesa e industria pesante – dove lavorano le macchine HYT.",
+      "blocks": [
+        {
+          "type": "cards",
+          "eyebrow": "Scelga il Suo settore",
+          "heading": "Soluzioni modellate sulla Sua attività",
+          "intro": "Ogni settore ha i propri veicoli, programmi e vincoli. Selezioni il Suo per scoprire le sfide che affrontiamo, le macchine che consigliamo e i progetti che le hanno messe alla prova.",
+          "cols": 3,
+          "items": [
+            {
+              "page": "ind-railways",
+              "image": "industries/railways"
+            },
+            {
+              "page": "ind-metros",
+              "image": "industries/metros"
+            },
+            {
+              "page": "ind-rolling-stock",
+              "image": "industries/rolling-stock-manufacturers"
+            },
+            {
+              "page": "ind-defence",
+              "image": "industries/defence"
+            },
+            {
+              "page": "ind-heavy-engineering",
+              "image": "industries/heavy-engineering"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "eyebrow": "Il filo conduttore",
+          "heading": "Un'unica disciplina: la lavorazione di precisione di componenti rotanti pesanti",
+          "paragraphs": [
+            "Una sala montata di locomotiva, un carrello di metropolitana, un nuovo centro ruota su una linea di produzione e un grande anello industriale hanno qualcosa in comune. Sono tutti pesanti, ruotano sotto carico e devono essere lavorati con precisione perché il sistema di cui fanno parte funzioni in modo sicuro ed efficiente.",
+            "HYT si concentra su questo problema da quando è entrata nella tecnologia dei torni CNC per sale montate. Lo stesso know-how ingegneristico – strutture macchina rigide, misura accurata, controllo CNC robusto e progettazione accurata delle fondazioni – è al servizio di tutti i settori presentati in questa pagina. Cambiano la configurazione, la produttività e il modo in cui la macchina si inserisce nella Sua officina.",
+            "Poiché progettiamo e costruiamo ogni macchina internamente, possiamo adattarla a dimensioni delle ruote non standard, carichi assiali elevati, spazi ridotti nel deposito o a un particolare ritmo produttivo – e ne restiamo responsabili anche dopo la consegna."
+          ],
+          "image": "products/wheelset-profile-closeup",
+          "image_alt": "Illustrazione di esempio della lavorazione del profilo di rotolamento e del bordino di una ruota ferroviaria",
+          "layout": "image-right"
+        },
+        {
+          "type": "features",
+          "eyebrow": "Perché è importante",
+          "heading": "Ciò che ogni cliente si aspetta da un partner per le macchine",
+          "cols": 4,
+          "items": [
+            {
+              "icon": "speedometer2",
+              "title": "Disponibilità",
+              "text": "Cicli di riprofilatura e lavorazione brevi mantengono in movimento veicoli e linee di produzione."
+            },
+            {
+              "icon": "rulers",
+              "title": "Precisione",
+              "text": "La misura prima e dopo il taglio permette di asportare solo il materiale necessario e documenta il risultato."
+            },
+            {
+              "icon": "shield-check",
+              "title": "Sicurezza",
+              "text": "Profili ruota corretti riducono il rischio di deragliamento; macchine protette tutelano chi le utilizza."
+            },
+            {
+              "icon": "clock-history",
+              "title": "Supporto per l'intero ciclo di vita",
+              "text": "Assistenza, ricambi e aggiornamenti per i decenni in cui una macchina resta in servizio."
+            }
+          ]
+        },
+        {
+          "type": "steps",
+          "eyebrow": "Come lavoriamo",
+          "heading": "Dalla Sua esigenza a una soluzione operativa",
+          "items": [
+            {
+              "title": "Definire",
+              "text": "Analizziamo i Suoi veicoli o componenti, i volumi, le tolleranze e lo spazio disponibile."
+            },
+            {
+              "title": "Consigliare",
+              "text": "Proponiamo una macchina o una combinazione di macchine e ne illustriamo vantaggi e compromessi."
+            },
+            {
+              "title": "Realizzare",
+              "text": "Costruiamo, installiamo e collaudiamo la soluzione sui Suoi pezzi – come singola macchina o come [progetto chiavi in mano](page:turnkey-project)."
+            },
+            {
+              "title": "Assistere",
+              "text": "Formazione, contratti di manutenzione e ricambi originali la mantengono produttiva. Scopra i nostri [servizi](page:services)."
+            }
+          ]
+        },
+        {
+          "type": "cards",
+          "eyebrow": "La prova sul campo",
+          "heading": "Progetti selezionati",
+          "intro": "Operatori ferroviari e metropolitani in India e all'estero utilizzano le macchine HYT nella manutenzione quotidiana. I dettagli completi sono riportati nella sezione [Progetti chiavi in mano](page:turnkey-project).",
+          "cols": 3,
+          "items": [
+            {
+              "page": "under-execution",
+              "anchor": "ncrtc-underfloor-wheel-lathes",
+              "title": "Torni CNC in fossa completamente automatici – NCRTC",
+              "text": "Riprofilatura delle ruote per il primo sistema di trasporto rapido regionale dell'India.",
+              "image": "projects/metro-depot"
+            },
+            {
+              "page": "under-execution",
+              "anchor": "dmrc-tandem-underfloor-wheel-lathe",
+              "title": "Tornio CNC tandem in fossa – metropolitana di Delhi",
+              "text": "Due macchine sincronizzate per una rapida riprofilatura dei carrelli.",
+              "image": "products/tandem-underfloor-wheel-lathe-yul-12t"
+            },
+            {
+              "page": "executed-projects",
+              "anchor": "state-railway-of-thailand",
+              "title": "Tornio verticale a torretta CNC – State Railway of Thailand",
+              "text": "Fornito e installato per la lavorazione delle ruote a Bangkok.",
+              "image": "projects/railway-wheel-shop"
+            }
+          ]
+        },
+        {
+          "type": "cta",
+          "heading": "Ci parli della Sua flotta o dei Suoi componenti",
+          "text": "Ci indichi veicoli, dimensioni delle ruote o disegni dei componenti e obiettivi di produzione. I nostri ingegneri applicativi Le consiglieranno la macchina giusta.",
+          "primary": {
+            "label": "Ci parli della Sua esigenza",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Scopra i nostri prodotti",
+            "page": "products"
+          }
+        }
+      ]
+    },
+    "ind-railways": {
+      "nav": "Ferrovie",
+      "title": "Ferrovie: torni in fossa e macchine per officine",
+      "description": "Torni CNC per sale montate, macchine per officine ruote e assi e officine chiavi in mano per le ferrovie: locomotive, carrozze e carri sempre in servizio.",
+      "eyebrow": "Settori",
+      "h1": "Soluzioni per le ferrovie",
+      "lede": "Le ferrovie nazionali gestiscono flotte numerose ed eterogenee su lunghe distanze e con carichi assiali elevati. Le macchine HYT aiutano depositi e officine a mantenere ogni sala montata entro i limiti, senza trattenere i treni.",
+      "summary": "Torni per sale montate, macchine per officine ruote e officine chiavi in mano per depositi di locomotive, carrozze, elettrotreni e carri merci.",
+      "blocks": [
+        {
+          "type": "text",
+          "id": "challenges",
+          "eyebrow": "La sfida",
+          "heading": "Flotte numerose ed eterogenee, poco tempo a disposizione",
+          "paragraphs": [
+            "Un deposito ferroviario può dover mantenere locomotive elettriche e diesel, carrozze passeggeri, elettrotreni e carri merci – ciascuno con i propri diametri ruota, profili e carichi assiali. Le ruote sviluppano sfaccettature dovute alla frenatura, superfici di rotolamento incavate per usura e bordini assottigliati sulle linee in curva. Se non corretti, questi difetti danneggiano il binario, aumentano il consumo di energia e accrescono il rischio di deragliamento.",
+            "Smontare le sale montate per la riprofilatura immobilizza veicoli, gru e personale. I torni più vecchi, spesso in servizio da decenni, faticano a mantenere la precisione e sono difficili da tenere in funzione. Le officine hanno bisogno di macchine che ripristinino rapidamente i profili, asportino il minimo materiale possibile e continuino a lavorare per molti anni."
+          ],
+          "image": "industries/railways",
+          "image_alt": "Illustrazione di esempio di un deposito di manutenzione ferroviaria con locomotive e carrozze su binari paralleli",
+          "layout": "image-right"
+        },
+        {
+          "type": "features",
+          "eyebrow": "Come aiuta HYT",
+          "heading": "Riprofilatura più rapida, ruote più durature",
+          "cols": 3,
+          "items": [
+            {
+              "icon": "clock-history",
+              "title": "Riprofilatura sotto il veicolo",
+              "text": "I torni in fossa lavorano le ruote senza smontare i carrelli e restituiscono i veicoli al servizio entro un turno."
+            },
+            {
+              "icon": "rulers",
+              "title": "Asportazione minima di materiale",
+              "text": "La misura automatica consente al CNC di effettuare solo il taglio necessario, così ogni ruota sopporta più cicli di riprofilatura."
+            },
+            {
+              "icon": "train-freight-front",
+              "title": "Una macchina per molti veicoli",
+              "text": "Adattatori e profili memorizzati permettono a un solo tornio di servire locomotive, carrozze, elettrotreni e carri merci."
+            },
+            {
+              "icon": "bullseye",
+              "title": "Officine ruote complete",
+              "text": "Tornitura verticale, lavorazione degli assi, calettamento, misura ed equilibratura per le revisioni periodiche."
+            },
+            {
+              "icon": "arrow-repeat",
+              "title": "Nuova vita alle vecchie macchine",
+              "text": "Retrofit di sistemi CNC, azionamenti e tecnologie di misura su torni datati."
+            },
+            {
+              "icon": "geo-alt",
+              "title": "Costruiti in India",
+              "text": "Progettati e prodotti a Pune, con ricambi e assistenza forniti direttamente dall'India."
+            }
+          ]
+        },
+        {
+          "type": "cards",
+          "eyebrow": "Prodotti pertinenti",
+          "heading": "Macchine per depositi e officine ferroviarie",
+          "cols": 4,
+          "items": [
+            {
+              "page": "underfloor-wheel-lathe",
+              "image": "products/underfloor-wheel-lathe-yul-08"
+            },
+            {
+              "page": "tandem-underfloor-wheel-lathe",
+              "image": "products/tandem-underfloor-wheel-lathe-yul-12t"
+            },
+            {
+              "page": "surface-wheel-lathe",
+              "image": "products/surface-wheel-lathe"
+            },
+            {
+              "page": "portal-wheel-lathe",
+              "image": "products/portal-wheel-lathe"
+            },
+            {
+              "page": "vertical-turning-boring-machine",
+              "image": "products/vertical-turning-boring-machine"
+            },
+            {
+              "page": "axle-journal-turning-burnishing-lathe",
+              "image": "products/axle-journal-turning-burnishing-lathe"
+            },
+            {
+              "page": "wheel-presses",
+              "image": "products/wheel-press"
+            },
+            {
+              "page": "rail-cum-road-vehicle-shunter",
+              "image": "products/rail-cum-road-vehicle-shunter"
+            }
+          ]
+        },
+        {
+          "type": "cards",
+          "eyebrow": "Servizi pertinenti",
+          "heading": "Supporto per l'intera vita della macchina",
+          "cols": 4,
+          "items": [
+            {
+              "page": "installation-commissioning",
+              "icon": "tools"
+            },
+            {
+              "page": "annual-maintenance-contract",
+              "icon": "clipboard-check"
+            },
+            {
+              "page": "retro-fitment-upgradation",
+              "icon": "arrow-repeat"
+            },
+            {
+              "page": "training",
+              "icon": "mortarboard"
+            }
+          ]
+        },
+        {
+          "type": "cards",
+          "eyebrow": "Progetti",
+          "heading": "Macchine HYT al lavoro sulle ferrovie",
+          "cols": 3,
+          "items": [
+            {
+              "page": "executed-projects",
+              "anchor": "indian-railways-underfloor-wheel-lathes",
+              "title": "Torni CNC in fossa – Indian Railways",
+              "text": "Contratto per nove torni CNC in fossa.",
+              "image": "products/underfloor-wheel-lathe-yul-08"
+            },
+            {
+              "page": "executed-projects",
+              "anchor": "sanpada-emu-car-shed",
+              "title": "Tornio verticale CNC – deposito elettrotreni di Sanpada, Mumbai",
+              "text": "Capacità di lavorazione delle ruote per una flotta suburbana di elettrotreni molto sollecitata.",
+              "image": "projects/emu-car-shed"
+            },
+            {
+              "page": "executed-projects",
+              "anchor": "state-railway-of-thailand",
+              "title": "Tornio verticale a torretta CNC – State Railway of Thailand",
+              "text": "Fornito e installato per la lavorazione delle ruote a Bangkok.",
+              "image": "projects/railway-wheel-shop"
+            }
+          ]
+        },
+        {
+          "type": "faq",
+          "heading": "Domande frequenti",
+          "items": [
+            {
+              "q": "Un deposito ferroviario dovrebbe scegliere un tornio in fossa o un tornio a pavimento?",
+              "a": "Un [tornio in fossa](page:underfloor-wheel-lathe) riprofila le ruote senza smontare la sala montata ed è la scelta giusta quando i veicoli devono tornare rapidamente in servizio. Un [tornio a pavimento](page:surface-wheel-lathe) è adatto ai depositi che necessitano di una macchina flessibile senza una fossa profonda. Possiamo consigliarLe l'opzione migliore per la Sua flotta e il Suo sito."
+            },
+            {
+              "q": "Una sola macchina può lavorare locomotive, carrozze e carri merci?",
+              "a": "Sì. Con adattatori idonei e profili ruota memorizzati, una sola macchina può servire una flotta eterogenea. Carico assiale, campo di diametri ruota e tipologia di carrello vengono confermati durante lo studio tecnico."
+            },
+            {
+              "q": "Potete ammodernare i nostri torni per sale montate esistenti?",
+              "a": "Spesso sì. Il [retrofit](page:retro-fitment-upgradation) con un nuovo sistema CNC, nuovi azionamenti e strumenti di misura può ripristinare precisione e affidabilità a un costo inferiore rispetto a una macchina nuova."
+            },
+            {
+              "q": "Supportate lo scartamento largo, normale e metrico?",
+              "a": "I nostri torni per sale montate vengono configurati in base allo scartamento e ai profili ruota del cliente. I valori che dipendono dallo scartamento vengono confermati nell'offerta tecnica."
+            }
+          ]
+        },
+        {
+          "type": "cta",
+          "heading": "Sta pianificando un nuovo tornio per il Suo deposito?",
+          "text": "Ci parli della Sua flotta, dei profili ruota e della Sua officina. I nostri ingegneri applicativi Le consiglieranno una configurazione e prepareranno un'offerta.",
+          "primary": {
+            "label": "Ci parli della Sua esigenza",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Scopra i nostri prodotti",
+            "page": "products"
+          }
+        }
+      ]
+    },
+    "ind-metros": {
+      "nav": "Metropolitane",
+      "title": "Torni per sale montate e attrezzature per metropolitane",
+      "description": "Torni in fossa e tandem, attrezzature per depositi e contratti di manutenzione per tenere in servizio le flotte ad alta frequenza di metropolitane.",
+      "eyebrow": "Settori",
+      "h1": "Soluzioni per metropolitane e trasporto rapido",
+      "lede": "I treni della metropolitana viaggiano tutto il giorno e vengono mantenuti di notte. I torni per sale montate e le attrezzature per depositi HYT si inseriscono in queste brevi finestre, così l'intera flotta è pronta per l'ora di punta del mattino.",
+      "summary": "Torni in fossa e tandem e attrezzature per depositi per operatori di metropolitane e trasporto rapido.",
+      "blocks": [
+        {
+          "type": "text",
+          "id": "challenges",
+          "eyebrow": "La sfida",
+          "heading": "Alta frequenza, finestre brevi, nessun treno di riserva",
+          "paragraphs": [
+            "Le flotte delle metropolitane e dei sistemi di trasporto rapido sono dimensionate al limite rispetto all'orario. Accelerazioni e frenature frequenti, curve strette e un'elevata percorrenza giornaliera usurano rapidamente le ruote, e il comfort di marcia e il rumore vengono percepiti immediatamente da passeggeri e residenti.",
+            "La manutenzione avviene di solito di notte, in un deposito dove lo spazio è limitato e ogni fossa è pianificata con anni di anticipo. Un tornio per sale montate deve riprofilare un intero treno entro quella finestra, garantire risultati ripetibili su tutta la flotta ed essere di nuovo pronto la notte successiva. Quando è fuori servizio, i treni si accodano e gli obiettivi di disponibilità non vengono rispettati."
+          ],
+          "image": "industries/metros",
+          "image_alt": "Illustrazione di esempio di treni della metropolitana in sosta in un deposito di notte",
+          "layout": "image-right"
+        },
+        {
+          "type": "features",
+          "eyebrow": "Come aiuta HYT",
+          "heading": "Manutenzione delle ruote compatibile con il turno di notte",
+          "cols": 3,
+          "items": [
+            {
+              "icon": "arrows-angle-expand",
+              "title": "Macchine tandem",
+              "text": "Due torni in fossa sincronizzati lavorano entrambe le sale montate di un carrello in un unico piazzamento, riducendo il tempo per treno."
+            },
+            {
+              "icon": "cpu",
+              "title": "Cicli automatici",
+              "text": "Misura, calcolo e taglio con un intervento minimo dell'operatore, per risultati uniformi su tutta la flotta."
+            },
+            {
+              "icon": "file-earmark-text",
+              "title": "Dati di flotta",
+              "text": "I rapporti di lavorazione di ogni sala montata supportano la manutenzione su condizione e gli audit."
+            },
+            {
+              "icon": "volume-down",
+              "title": "Comfort di marcia",
+              "text": "Profili precisi e diametri accoppiati contribuiscono a contenere rumore e vibrazioni."
+            },
+            {
+              "icon": "building-gear",
+              "title": "Depositi completi",
+              "text": "Torni per sale montate, impianti di lavaggio treni, mezzi di manovra e macchine per indotti da un unico partner."
+            },
+            {
+              "icon": "headset",
+              "title": "Un'assistenza su cui contare",
+              "text": "Contratti di manutenzione e gestione operativa con tempi di intervento definiti e ricambi disponibili."
+            }
+          ]
+        },
+        {
+          "type": "cards",
+          "eyebrow": "Prodotti pertinenti",
+          "heading": "Macchine per depositi di metropolitane",
+          "cols": 4,
+          "items": [
+            {
+              "page": "tandem-underfloor-wheel-lathe",
+              "image": "products/tandem-underfloor-wheel-lathe-yul-12t"
+            },
+            {
+              "page": "tandem-underfloor-wheel-lathe-yuglx",
+              "image": "products/tandem-underfloor-wheel-lathe-yuglx"
+            },
+            {
+              "page": "underfloor-wheel-lathe-yugl",
+              "image": "products/underfloor-wheel-lathe-yugl"
+            },
+            {
+              "page": "underfloor-wheel-lathe",
+              "image": "products/underfloor-wheel-lathe-yul-08"
+            },
+            {
+              "page": "wheel-measuring-station",
+              "image": "products/wheel-measuring-station"
+            },
+            {
+              "page": "automated-train-washing-plant",
+              "image": "products/automated-train-washing-plant"
+            },
+            {
+              "page": "rail-cum-road-vehicle-shunter",
+              "image": "products/rail-cum-road-vehicle-shunter"
+            },
+            {
+              "page": "multi-purpose-armature-machine",
+              "image": "products/multi-purpose-armature-machine"
+            }
+          ]
+        },
+        {
+          "type": "cards",
+          "eyebrow": "Servizi pertinenti",
+          "heading": "Macchine di deposito sempre disponibili",
+          "cols": 4,
+          "items": [
+            {
+              "page": "operation-and-maintenance",
+              "icon": "gear-wide-connected"
+            },
+            {
+              "page": "comprehensive-annual-maintenance-contract",
+              "icon": "clipboard-check"
+            },
+            {
+              "page": "spare-supply",
+              "icon": "box-seam"
+            },
+            {
+              "page": "training",
+              "icon": "mortarboard"
+            }
+          ]
+        },
+        {
+          "type": "cards",
+          "eyebrow": "Progetti",
+          "heading": "Macchine HYT per metropolitane e trasporto rapido",
+          "cols": 2,
+          "items": [
+            {
+              "page": "under-execution",
+              "anchor": "dmrc-tandem-underfloor-wheel-lathe",
+              "title": "Tornio CNC tandem in fossa – Delhi Metro Rail Corporation",
+              "text": "Due macchine sincronizzate per una rapida riprofilatura dei carrelli della metropolitana.",
+              "image": "products/tandem-underfloor-wheel-lathe-yul-12t"
+            },
+            {
+              "page": "under-execution",
+              "anchor": "ncrtc-underfloor-wheel-lathes",
+              "title": "Torni CNC in fossa completamente automatici – NCRTC",
+              "text": "Per il primo sistema di trasporto rapido regionale dell'India.",
+              "image": "projects/metro-depot"
+            }
+          ]
+        },
+        {
+          "type": "faq",
+          "heading": "Domande frequenti",
+          "items": [
+            {
+              "q": "Quando un deposito di metropolitana ha bisogno di un tornio tandem?",
+              "a": "Quando le flotte sono numerose e le finestre di manutenzione brevi. Un [tornio tandem](page:tandem-underfloor-wheel-lathe) lavora contemporaneamente le due sale montate di un carrello; lo YUL-12T di HYT riduce i tempi di riprofilatura rispetto a una macchina singola."
+            },
+            {
+              "q": "Il tornio può lavorare i dischi freno oltre alle ruote?",
+              "a": "La lavorazione dei dischi freno è disponibile nelle configurazioni idonee. Lo confermiamo durante lo studio tecnico dei Suoi veicoli."
+            },
+            {
+              "q": "Come viene integrata la macchina in un nuovo deposito?",
+              "a": "Forniamo per tempo i disegni della fossa, delle fondazioni e delle interfacce, ci coordiniamo con il progettista del deposito e con l'impresa edile e mettiamo in servizio il tornio sui Suoi treni."
+            },
+            {
+              "q": "HYT può gestire la macchina per nostro conto?",
+              "a": "Sì. Con un contratto di [gestione operativa e manutenzione](page:operation-and-maintenance) il nostro personale conduce e mantiene la macchina, così Lei può concentrarsi sull'esercizio dei treni."
+            }
+          ]
+        },
+        {
+          "type": "cta",
+          "heading": "Sta attrezzando un nuovo deposito o ammodernando quello esistente?",
+          "text": "Ci indichi la consistenza della flotta, il piano di manutenzione e il layout del deposito. Le consiglieremo il tornio e le attrezzature più adatti ai Suoi programmi.",
+          "primary": {
+            "label": "Ci parli della Sua esigenza",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Scopra i nostri prodotti",
+            "page": "products"
+          }
+        }
+      ]
+    },
+    "ind-rolling-stock": {
+      "nav": "Costruttori di materiale rotabile",
+      "title": "Macchine per officine ruote e assi per costruttori",
+      "description": "Torni verticali, lavorazione assi, presse di calettamento, misura, equilibratura e automazione per costruttori di materiale rotabile e sale montate.",
+      "eyebrow": "Settori",
+      "h1": "Soluzioni per i costruttori di materiale rotabile",
+      "lede": "I nuovi veicoli nascono da nuove sale montate. HYT fornisce le macchine che le tornano, alesano, calettano, misurano ed equilibrano – singolarmente o come officina ruote completa e tracciabile.",
+      "summary": "Macchine per officine ruote e assi e officine ruote automatizzate per la produzione di materiale rotabile e sale montate.",
+      "blocks": [
+        {
+          "type": "text",
+          "id": "challenges",
+          "eyebrow": "La sfida",
+          "heading": "Tolleranze strette con volumi di produzione",
+          "paragraphs": [
+            "Un costruttore di materiale rotabile deve consegnare sale montate conformi alla specifica del cliente al primo colpo, al ritmo richiesto dalla linea di assemblaggio. Gli alesaggi devono essere adatti al calettamento a pressione, i fuselli devono essere finiti per sedi dei cuscinetti affidabili e ogni sala montata deve essere misurata, equilibrata e documentata prima di arrivare al carrello.",
+            "I programmi di produzione cambiano: un nuovo ordine per una metropolitana, uno scartamento diverso, un aumento dei volumi per un contratto di esportazione. Le macchine dell'officina ruote devono adattarsi senza lunghi tempi di riattrezzaggio, e i dati che producono devono reggere al collaudo del cliente e a eventuali questioni di garanzia successive."
+          ],
+          "image": "industries/rolling-stock-manufacturers",
+          "image_alt": "Illustrazione di esempio di un reparto di assemblaggio di materiale rotabile con carrelli e sale montate",
+          "layout": "image-right"
+        },
+        {
+          "type": "features",
+          "eyebrow": "Come aiuta HYT",
+          "heading": "Un processo completo, dal componente grezzo alla sala montata certificata",
+          "cols": 3,
+          "items": [
+            {
+              "icon": "bullseye",
+              "title": "Tornitura e alesatura ruote",
+              "text": "Le tornio-alesatrici verticali CNC finiscono ruote e alesaggi con tolleranze strette."
+            },
+            {
+              "icon": "nut",
+              "title": "Lavorazione degli assi",
+              "text": "Tornitura degli assi e rullatura dei fuselli per sedi di cuscinetti e ruote precise e durature."
+            },
+            {
+              "icon": "arrows-angle-expand",
+              "title": "Calettamento con registrazione",
+              "text": "Presse per il calettamento e lo scalettamento delle ruote sugli assi."
+            },
+            {
+              "icon": "rulers",
+              "title": "Misura",
+              "text": "Le stazioni di misura ruote verificano la geometria prima della spedizione."
+            },
+            {
+              "icon": "speedometer2",
+              "title": "Equilibratura",
+              "text": "Equilibratura dinamica per una marcia regolare alle velocità più elevate."
+            },
+            {
+              "icon": "diagram-3",
+              "title": "Automazione e flusso",
+              "text": "Macchine collegate, movimentazione e dati in un'[officina ruote automatizzata](page:ts-wheel-shops#automation)."
+            }
+          ]
+        },
+        {
+          "type": "cards",
+          "eyebrow": "Prodotti pertinenti",
+          "heading": "Macchine per la produzione di sale montate",
+          "cols": 3,
+          "items": [
+            {
+              "page": "vertical-turning-boring-machine",
+              "image": "products/vertical-turning-boring-machine"
+            },
+            {
+              "page": "axle-turning-lathe",
+              "image": "products/axle-turning-lathe"
+            },
+            {
+              "page": "axle-journal-turning-burnishing-lathe",
+              "image": "products/axle-journal-turning-burnishing-lathe"
+            },
+            {
+              "page": "wheel-presses",
+              "image": "products/wheel-press"
+            },
+            {
+              "page": "wheel-measuring-station",
+              "image": "products/wheel-measuring-station"
+            },
+            {
+              "page": "dynamic-wheel-balancing-machine",
+              "image": "products/dynamic-wheel-balancing-machine"
+            }
+          ]
+        },
+        {
+          "type": "cards",
+          "eyebrow": "Servizi pertinenti",
+          "heading": "Dal layout della linea all'assistenza per tutta la vita utile",
+          "cols": 4,
+          "items": [
+            {
+              "page": "ts-wheel-shops",
+              "icon": "diagram-3"
+            },
+            {
+              "page": "installation-commissioning",
+              "icon": "tools"
+            },
+            {
+              "page": "service-contract",
+              "icon": "clipboard-check"
+            },
+            {
+              "page": "training",
+              "icon": "mortarboard"
+            }
+          ]
+        },
+        {
+          "type": "cards",
+          "eyebrow": "Progetti",
+          "heading": "I nostri torni nelle officine ruote ferroviarie",
+          "intro": "I torni verticali HYT lavorano già le ruote per operatori ferroviari.",
+          "cols": 2,
+          "items": [
+            {
+              "page": "executed-projects",
+              "anchor": "state-railway-of-thailand",
+              "title": "Tornio verticale a torretta CNC – State Railway of Thailand",
+              "text": "Fornito e installato per la lavorazione delle ruote a Bangkok.",
+              "image": "projects/railway-wheel-shop"
+            },
+            {
+              "page": "executed-projects",
+              "anchor": "sanpada-emu-car-shed",
+              "title": "Tornio verticale CNC – deposito elettrotreni di Sanpada, Mumbai",
+              "text": "Capacità di lavorazione delle ruote per una flotta suburbana di elettrotreni.",
+              "image": "projects/emu-car-shed"
+            }
+          ]
+        },
+        {
+          "type": "faq",
+          "heading": "Domande frequenti",
+          "items": [
+            {
+              "q": "HYT può fornire un'officina ruote completa anziché singole macchine?",
+              "a": "Sì. Pianifichiamo il flusso di processo, selezioniamo e colleghiamo le macchine, aggiungiamo sistemi di movimentazione e gestione dati e mettiamo in servizio la linea. Consulti [Officine sale montate](page:ts-wheel-shops) e [Progetti chiavi in mano](page:turnkey-project)."
+            },
+            {
+              "q": "Le macchine possono lavorare ruote di dimensioni e scartamenti diversi?",
+              "a": "Le nostre macchine vengono configurate in base alla gamma di ruote e assi che produce. I campi dimensionali vengono confermati nell'offerta tecnica per il Suo programma."
+            },
+            {
+              "q": "I dati di produzione vengono registrati?",
+              "a": "La registrazione dei dati per stazioni di misura e presse di calettamento viene definita insieme a Lei nell'offerta tecnica, a supporto della tracciabilità e del collaudo da parte del cliente."
+            }
+          ]
+        },
+        {
+          "type": "cta",
+          "heading": "Sta avviando o ampliando una produzione di sale montate?",
+          "text": "Ci invii i disegni dei componenti, i volumi e la superficie disponibile. Le proporremo macchine o una linea completa in linea con il Suo programma.",
+          "primary": {
+            "label": "Ci parli della Sua esigenza",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Officine sale montate chiavi in mano",
+            "page": "ts-wheel-shops"
+          }
+        }
+      ]
+    },
+    "ind-defence": {
+      "nav": "Difesa",
+      "title": "Macchine per officine ferroviarie e tornitura per la difesa",
+      "description": "Torni per sale montate e tornitura verticale pesante per la logistica ferroviaria e le officine militari – progettati, costruiti e assistiti in India da HYT.",
+      "eyebrow": "Settori",
+      "h1": "Soluzioni per la difesa",
+      "lede": "La logistica della difesa dipende da materiale rotabile e mezzi pesanti che devono essere pronti quando servono. Le macchine HYT contribuiscono a mantenere efficienti le sale montate e i grandi componenti rotanti.",
+      "summary": "Capacità di lavorazione di sale montate e tornitura pesante per la logistica ferroviaria della difesa e le officine militari.",
+      "blocks": [
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "Da verificare da parte di HYT: non risultano verificati clienti né prodotti specifici per la difesa. Questa pagina descrive esclusivamente le capacità. Si prega di confermare se HYT desidera presentare questo settore, quali macchine mostrare e se è possibile citare clienti o progetti."
+        },
+        {
+          "type": "text",
+          "id": "challenges",
+          "eyebrow": "La sfida",
+          "heading": "Prontezza operativa, autonomia e lunga vita utile",
+          "paragraphs": [
+            "Le organizzazioni della difesa trasportano mezzi pesanti su rotaia e mantengono in officine dedicate i propri carri, carrozze e locomotive. Queste flotte possono circolare meno spesso del traffico commerciale, ma devono essere efficienti con breve preavviso, e le loro sale montate devono rispettare gli stessi limiti di sicurezza di qualsiasi altra.",
+            "Le officine militari riparano anche grandi componenti rotanti come anelli, mozzi e ruote pesanti. Apprezzano attrezzature robuste, semplici da mantenere, assistite localmente per decenni e fornite con documentazione completa. La riservatezza dei disegni e delle informazioni sui siti è essenziale."
+          ],
+          "image": "industries/defence",
+          "image_alt": "Illustrazione di esempio di un'officina logistica della difesa servita da binari, con carri pesanti",
+          "layout": "image-right"
+        },
+        {
+          "type": "features",
+          "eyebrow": "Come aiuta HYT",
+          "heading": "Capacità per le officine della difesa",
+          "cols": 3,
+          "items": [
+            {
+              "icon": "train-freight-front",
+              "title": "Riprofilatura delle sale montate",
+              "text": "Torni in fossa e a pavimento ripristinano i profili ruota di carri, carrozze e locomotive impiegati nella logistica ferroviaria militare."
+            },
+            {
+              "icon": "bullseye",
+              "title": "Tornitura verticale pesante",
+              "text": "Tornio-alesatrici verticali CNC per componenti rotanti e ruote di grande diametro."
+            },
+            {
+              "icon": "truck",
+              "title": "Mobilità nel deposito",
+              "text": "I locomotori di manovra strada-rotaia movimentano carri e carrozze all'interno di raccordi e officine."
+            },
+            {
+              "icon": "geo-alt",
+              "title": "Progettati e costruiti in India",
+              "text": "Progettazione e produzione a Pune, con ricambi e assistenza forniti direttamente dall'India."
+            },
+            {
+              "icon": "shield-lock",
+              "title": "Gestione riservata",
+              "text": "Disegni, dati dei siti e informazioni di progetto trattati secondo i requisiti contrattuali."
+            },
+            {
+              "icon": "file-earmark-text",
+              "title": "Documentazione completa",
+              "text": "Manuali, disegni, verbali di collaudo ed elenchi ricambi forniti con ogni macchina."
+            }
+          ]
+        },
+        {
+          "type": "cards",
+          "eyebrow": "Prodotti pertinenti",
+          "heading": "Macchine adatte alle applicazioni della difesa",
+          "cols": 4,
+          "items": [
+            {
+              "page": "surface-wheel-lathe",
+              "image": "products/surface-wheel-lathe"
+            },
+            {
+              "page": "underfloor-wheel-lathe",
+              "image": "products/underfloor-wheel-lathe-yul-08"
+            },
+            {
+              "page": "vertical-turning-boring-machine",
+              "image": "products/vertical-turning-boring-machine"
+            },
+            {
+              "page": "rail-cum-road-vehicle-shunter",
+              "image": "products/rail-cum-road-vehicle-shunter"
+            }
+          ]
+        },
+        {
+          "type": "cards",
+          "eyebrow": "Servizi pertinenti",
+          "heading": "Supporto a lungo termine",
+          "cols": 3,
+          "items": [
+            {
+              "page": "comprehensive-annual-maintenance-contract",
+              "icon": "clipboard-check"
+            },
+            {
+              "page": "spare-supply",
+              "icon": "box-seam"
+            },
+            {
+              "page": "training",
+              "icon": "mortarboard"
+            }
+          ]
+        },
+        {
+          "type": "faq",
+          "heading": "Domande frequenti",
+          "items": [
+            {
+              "q": "Le macchine HYT possono lavorare carri militari pesanti?",
+              "a": "I nostri torni per sale montate vengono configurati in base ai diametri ruota, agli scartamenti e ai carichi assiali specificati dal cliente. I requisiti per i carri per servizio pesante vengono esaminati nello studio tecnico."
+            },
+            {
+              "q": "HYT può operare nel rispetto di requisiti di riservatezza e sicurezza?",
+              "a": "Sì. Trattiamo disegni, informazioni sui siti e dati di progetto secondo le clausole di riservatezza del contratto e le regole del sito."
+            },
+            {
+              "q": "Sono disponibili formazione e supporto a lungo termine?",
+              "a": "Sì. Formiamo operatori e manutentori in loco e offriamo [contratti di manutenzione](page:maintenance) e [fornitura di ricambi](page:spare-supply) per tutta la vita operativa della macchina."
+            }
+          ]
+        },
+        {
+          "type": "cta",
+          "heading": "Discutiamo un'esigenza per un'officina della difesa",
+          "text": "Ci indichi i veicoli o i componenti che deve mantenere. I nostri ingegneri valuteranno la macchina giusta per la Sua officina.",
+          "primary": {
+            "label": "Ci parli della Sua esigenza",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Scopra i nostri prodotti",
+            "page": "products"
+          }
+        }
+      ]
+    },
+    "ind-heavy-engineering": {
+      "nav": "Industria pesante",
+      "title": "Tornitura pesante e macchine per ruote per l'industria",
+      "description": "Tornitura verticale CNC, torni e macchine per sale montate per l'industria pesante e le flotte ferroviarie di acciaierie, porti, miniere e centrali elettriche.",
+      "eyebrow": "Settori",
+      "h1": "Soluzioni per l'industria pesante",
+      "lede": "I grandi componenti rotanti e le flotte ferroviarie industriali richiedono la stessa precisione di una ferrovia di linea. HYT mette la propria competenza nella lavorazione delle ruote al servizio degli stabilimenti dell'industria pesante.",
+      "summary": "Tornitura verticale e lavorazione delle ruote per componenti pesanti e flotte ferroviarie industriali interne.",
+      "blocks": [
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "Da verificare da parte di HYT: non risultano verificati clienti né prodotti specifici per l'industria pesante. Questa pagina descrive esclusivamente le capacità. Si prega di confermare quali macchine e applicazioni HYT desidera presentare e se è possibile citare clienti o progetti."
+        },
+        {
+          "type": "text",
+          "id": "challenges",
+          "eyebrow": "La sfida",
+          "heading": "Pezzi grandi, carichi pesanti, fermi costosi",
+          "paragraphs": [
+            "Le aziende dell'industria pesante lavorano grandi componenti rotanti – anelli, flange, mozzi, sbozzati di ingranaggi e ruote – le cui dimensioni e peso rendono lento ogni piazzamento e costoso ogni errore. Le macchine devono essere abbastanza rigide da tagliare con precisione materiali duri e abbastanza semplici da poter essere gestite in modo efficiente in officina.",
+            "Molti siti industriali, come acciaierie, porti, miniere e centrali elettriche, gestiscono anche flotte ferroviarie proprie. I loro carri e locomotive trasportano carichi pesanti su percorsi brevi e impegnativi, e le ruote si usurano rapidamente. Inviare le sale montate all'esterno per la riprofilatura può bloccare la logistica di produzione per giorni."
+          ],
+          "image": "industries/heavy-engineering",
+          "image_alt": "Illustrazione di esempio di un'officina dell'industria pesante con grandi componenti torniti",
+          "layout": "image-right"
+        },
+        {
+          "type": "features",
+          "eyebrow": "Come aiuta HYT",
+          "heading": "Lavorazioni di livello ferroviario per l'industria",
+          "cols": 3,
+          "items": [
+            {
+              "icon": "bullseye",
+              "title": "Tornitura e alesatura verticale",
+              "text": "Torni verticali CNC per componenti di grande diametro, con strutture rigide per passate pesanti."
+            },
+            {
+              "icon": "train-freight-front",
+              "title": "Riprofilatura delle ruote in sede",
+              "text": "I torni a pavimento e a portale permettono alle flotte ferroviarie industriali di riprofilare le ruote nella propria officina."
+            },
+            {
+              "icon": "arrows-angle-expand",
+              "title": "Calettamento",
+              "text": "Presse per il montaggio e lo smontaggio di ruote, ingranaggi e componenti analoghi con accoppiamento forzato."
+            },
+            {
+              "icon": "speedometer2",
+              "title": "Equilibratura",
+              "text": "Equilibratura dinamica di ruote e gruppi rotanti per ridurre vibrazioni e usura."
+            },
+            {
+              "icon": "lightning-charge",
+              "title": "Lavorazione degli indotti",
+              "text": "Macchine per indotti per la manutenzione di motori di trazione e grandi motori elettrici."
+            },
+            {
+              "icon": "headset",
+              "title": "Assistenza e ricambi",
+              "text": "Contratti di manutenzione e ricambi originali per salvaguardare la continuità produttiva."
+            }
+          ]
+        },
+        {
+          "type": "cards",
+          "eyebrow": "Prodotti pertinenti",
+          "heading": "Macchine per l'industria pesante",
+          "cols": 3,
+          "items": [
+            {
+              "page": "vertical-turning-boring-machine",
+              "image": "products/vertical-turning-boring-machine"
+            },
+            {
+              "page": "surface-wheel-lathe",
+              "image": "products/surface-wheel-lathe"
+            },
+            {
+              "page": "portal-wheel-lathe",
+              "image": "products/portal-wheel-lathe"
+            },
+            {
+              "page": "wheel-presses",
+              "image": "products/wheel-press"
+            },
+            {
+              "page": "dynamic-wheel-balancing-machine",
+              "image": "products/dynamic-wheel-balancing-machine"
+            },
+            {
+              "page": "multi-purpose-armature-machine",
+              "image": "products/multi-purpose-armature-machine"
+            }
+          ]
+        },
+        {
+          "type": "cards",
+          "eyebrow": "Servizi pertinenti",
+          "heading": "Un supporto che protegge la produzione",
+          "cols": 4,
+          "items": [
+            {
+              "page": "installation-commissioning",
+              "icon": "tools"
+            },
+            {
+              "page": "annual-maintenance-contract",
+              "icon": "clipboard-check"
+            },
+            {
+              "page": "repair",
+              "icon": "wrench-adjustable"
+            },
+            {
+              "page": "shifting",
+              "icon": "truck"
+            }
+          ]
+        },
+        {
+          "type": "faq",
+          "heading": "Domande frequenti",
+          "items": [
+            {
+              "q": "I torni verticali HYT possono lavorare componenti non ferroviari?",
+              "a": "Le nostre [tornio-alesatrici verticali](page:vertical-turning-boring-machine) sono progettate per componenti rotanti pesanti. Ci invii i disegni dei Suoi componenti e confermeremo idoneità e capacità."
+            },
+            {
+              "q": "Gestiamo una flotta ferroviaria interna. Ci serve un'officina ruote completa?",
+              "a": "Non necessariamente. Un [tornio a pavimento](page:surface-wheel-lathe) o un [tornio a portale](page:portal-wheel-lathe) può dare a una flotta interna una propria capacità di riprofilatura senza l'investimento di un'officina ruote completa."
+            },
+            {
+              "q": "Potete trasferire una macchina esistente in un nuovo stabilimento?",
+              "a": "Sì. Il nostro servizio di [trasferimento macchine](page:shifting) comprende smontaggio, trasporto, reinstallazione e nuova messa in servizio."
+            }
+          ]
+        },
+        {
+          "type": "cta",
+          "heading": "Ha un'esigenza di lavorazione pesante?",
+          "text": "Ci invii i disegni dei Suoi componenti o i dati della Sua flotta ferroviaria. I nostri ingegneri Le consiglieranno una macchina adatta.",
+          "primary": {
+            "label": "Ci parli della Sua esigenza",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Scopra i nostri prodotti",
+            "page": "products"
+          }
+        }
+      ]
+    }
+  }
+}

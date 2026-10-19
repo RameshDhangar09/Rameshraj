@@ -1,0 +1,2244 @@
+{
+  "pages": {
+    "services": {
+      "nav": "Service",
+      "title": "Service für Bahn-Werkzeugmaschinen",
+      "description": "Montage, Wartungsverträge, Ersatzteile, Retrofit, Reparatur, Verlagerung, Wet Leasing und Schulung für HYT-Radsatzdrehmaschinen und Werkstattmaschinen.",
+      "eyebrow": "Service",
+      "h1": "Service, der Bahn-Werkzeugmaschinen ein Leben lang produktiv hält",
+      "lede": "Eine Radsatzdrehmaschine erbringt ihren Wert über Jahrzehnte, nicht am Tag der Übergabe. HYT montiert, wartet, repariert und modernisiert seine Maschinen und kann sie sogar betreiben – damit Ihre Werkstatt Räder reprofiliert, wann immer die Flotte es braucht.",
+      "summary": "Montage, Wartungsverträge, Ersatzteile, Modernisierung, Reparatur, Verlagerung, Wet Leasing und Schulung für HYT-Maschinen.",
+      "blocks": [
+        {
+          "type": "text",
+          "eyebrow": "Warum Service zählt",
+          "heading": "Steht die Radsatzdrehmaschine, warten die Züge",
+          "paragraphs": [
+            "Eine Radsatzdrehmaschine liegt auf dem kritischen Pfad der Flottenverfügbarkeit. Fällt sie aus, können Radsätze mit Flachstellen oder dünnen Spurkränzen nicht instand gesetzt werden, Fahrzeuge bleiben abgestellt, und die Werkstatt gerät mit ihrem Instandhaltungsplan in Verzug. Die Kosten eines verlorenen Tages bemessen sich in Zügen, nicht in Maschinenstunden.",
+            "Wir konstruieren und bauen unsere Maschinen selbst – unsere Servicetechniker kennen sie daher von den Fundamentschrauben bis zum CNC-Programm. Dieses Wissen verkürzt die Fehlersuche, sorgt für Reparaturen, die auf Anhieb sitzen, und ermöglicht Empfehlungen für Ersatzteile und Modernisierungen, die die Lebensdauer der Maschine tatsächlich verlängern.",
+            "Jede der folgenden Leistungen ist einzeln erhältlich oder lässt sich zu einem langfristigen Vertrag kombinieren. Erzählen Sie uns, wie Ihre Werkstatt arbeitet, und wir schlagen Ihnen den passenden Serviceumfang vor – nicht mehr und nicht weniger."
+          ],
+          "bullets": [
+            "Unterstützung durch die Ingenieure, die die Maschine konstruiert und gebaut haben",
+            "Klar definierte Vertragsumfänge – Sie wissen immer, was abgedeckt ist",
+            "Original-Ersatzteile, ermittelt anhand der Baudokumentation Ihrer Maschine"
+          ],
+          "image": "company/service-maintenance",
+          "image_alt": "Beispielillustration von HYT-Servicetechnikern bei der Wartung einer Radsatzdrehmaschine",
+          "layout": "image-right"
+        },
+        {
+          "type": "cards",
+          "id": "all-services",
+          "eyebrow": "Unsere Leistungen",
+          "heading": "Wählen Sie die Unterstützung, die Ihre Werkstatt braucht",
+          "intro": "Von der ersten Fundamentzeichnung bis zur Verlagerung oder Modernisierung Jahrzehnte später – jede Leistung setzt an einem bestimmten Punkt im Lebenszyklus der Maschine an.",
+          "cols": 4,
+          "items": [
+            {
+              "page": "installation-commissioning",
+              "icon": "tools"
+            },
+            {
+              "page": "maintenance",
+              "icon": "clipboard-check"
+            },
+            {
+              "page": "retro-fitment-upgradation",
+              "icon": "arrow-repeat"
+            },
+            {
+              "page": "repair",
+              "icon": "wrench-adjustable"
+            },
+            {
+              "page": "shifting",
+              "icon": "truck"
+            },
+            {
+              "page": "wet-leasing",
+              "icon": "cash-coin"
+            },
+            {
+              "page": "training",
+              "icon": "mortarboard"
+            },
+            {
+              "page": "service-centers",
+              "icon": "headset"
+            }
+          ]
+        },
+        {
+          "type": "cards",
+          "id": "maintenance-contracts",
+          "eyebrow": "Instandhaltungsleistungen",
+          "heading": "Sechs Vertragsmodelle für die Instandhaltung",
+          "intro": "Von Unterstützung auf Abruf bis zum vollständigen Betrieb der Maschine durch HYT-Personal. Vergleichen Sie Leistungsumfang, Ersatzteile und Zuständigkeiten direkt auf der Seite [Instandhaltungsleistungen](page:maintenance#compare).",
+          "cols": 3,
+          "items": [
+            {
+              "page": "operation-and-maintenance",
+              "icon": "people"
+            },
+            {
+              "page": "annual-maintenance-contract",
+              "icon": "calendar-check"
+            },
+            {
+              "page": "comprehensive-annual-maintenance-contract",
+              "icon": "shield-check"
+            },
+            {
+              "page": "operation-contract",
+              "icon": "person-gear"
+            },
+            {
+              "page": "service-contract",
+              "icon": "telephone"
+            },
+            {
+              "page": "spare-supply",
+              "icon": "box-seam"
+            }
+          ]
+        },
+        {
+          "type": "steps",
+          "eyebrow": "Lebenszyklus der Maschine",
+          "heading": "So unterstützen wir Sie über den gesamten Lebenszyklus der Maschine",
+          "intro": "Die richtige Unterstützung ändert sich, wenn eine Maschine vom Projekt in die Produktion und in die Lebensmitte übergeht. Wir planen jede Phase von Anfang an mit.",
+          "items": [
+            {
+              "title": "Vor der Lieferung",
+              "text": "Fundament- und Grubenzeichnungen, Versorgungsanforderungen und ein Schulungsplan werden frühzeitig abgestimmt, damit der Standort bei Ankunft der Maschine bereit ist."
+            },
+            {
+              "title": "Montage und Inbetriebnahme",
+              "text": "Aufstellung, Ausrichtung und Probebetrieb mit Ihren eigenen Radsätzen, gefolgt von einer dokumentierten Übergabe. [Mehr erfahren](page:installation-commissioning)."
+            },
+            {
+              "title": "Anlaufphase",
+              "text": "Begleitung der Bediener, eine empfohlene Ersatzteilliste für das erste Jahr und schnelle Antworten, während Ihr Team Sicherheit gewinnt."
+            },
+            {
+              "title": "Planmäßige Instandhaltung",
+              "text": "Vorbeugende Wartungsbesuche und Störungsbehebung im Rahmen eines [AMC](page:annual-maintenance-contract)-, [CMC](page:comprehensive-annual-maintenance-contract)- oder [O&M](page:operation-and-maintenance)-Vertrags."
+            },
+            {
+              "title": "Modernisierung zur Lebensmitte",
+              "text": "[Retrofit](page:retro-fitment-upgradation) von CNC-Steuerung, Antrieben und Messsystemen, größere [Reparaturen](page:repair) oder die [Verlagerung](page:shifting) in ein neues Betriebswerk."
+            },
+            {
+              "title": "Dauerhafte Kompetenz",
+              "text": "[Auffrischungsschulungen](page:training) für neues Personal und aktualisierte Profilprogramme, wenn sich Ihre Flotte verändert."
+            }
+          ]
+        },
+        {
+          "type": "features",
+          "eyebrow": "Unsere Arbeitsweise",
+          "heading": "Was Sie vom HYT-Service erwarten können",
+          "cols": 4,
+          "items": [
+            {
+              "icon": "person-check",
+              "title": "Ein Ansprechpartner",
+              "text": "Anfragen werden von unserem Serviceteam in Pune erfasst und bis zum Abschluss verfolgt."
+            },
+            {
+              "icon": "file-earmark-text",
+              "title": "Dokumentierte Arbeit",
+              "text": "Jeder Einsatz endet mit einem schriftlichen Bericht über Befunde, durchgeführte Arbeiten und Empfehlungen."
+            },
+            {
+              "icon": "box-seam",
+              "title": "Original-Ersatzteile",
+              "text": "Ersatzteile, abgestimmt auf die Baudokumentation Ihrer Maschine – nicht auf einen allgemeinen Katalog."
+            },
+            {
+              "icon": "telephone",
+              "title": "Gebührenfreie Hotline",
+              "text": "Rufen Sie die 1800 2100 456 an und halten Sie die Seriennummer Ihrer Maschine bereit, um den Service-Desk zu erreichen."
+            }
+          ]
+        },
+        {
+          "type": "cta",
+          "heading": "Sagen Sie uns, was Ihre Maschine braucht",
+          "text": "Ob Neuinstallation, Störung oder Vertragsverlängerung – nennen Sie uns Maschinentyp, Seriennummer und Standort. Wir melden uns mit einem klaren Angebot.",
+          "primary": {
+            "label": "Anforderung besprechen",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Kundendienstnetz",
+            "page": "service-centers"
+          }
+        }
+      ]
+    },
+    "installation-commissioning": {
+      "nav": "Montage & Inbetriebnahme",
+      "title": "Montage & Inbetriebnahme von Radsatzdrehmaschinen",
+      "description": "Fundamentzeichnungen, Montageüberwachung, Ausrichtung, Probebetrieb mit Ihren Radsätzen und dokumentierte Übergabe für HYT-Radsatzdrehmaschinen.",
+      "eyebrow": "Service",
+      "h1": "Montage und Inbetriebnahme von Bahn-Werkzeugmaschinen",
+      "lede": "Die Genauigkeit einer Maschine wird am Tag ihrer Montage festgelegt. Unsere Ingenieure begleiten sie vom Fundament bis zur nachgewiesenen Produktion mit Ihren eigenen Radsätzen und übergeben sie mit vollständiger Dokumentation.",
+      "summary": "Von Fundamentzeichnungen bis zur Abnahme mit Ihren Radsätzen – montiert und in Betrieb genommen von den Ingenieuren, die die Maschine gebaut haben.",
+      "blocks": [
+        {
+          "type": "text",
+          "id": "overview",
+          "eyebrow": "Warum das wichtig ist",
+          "heading": "Genauigkeit beginnt beim Fundament",
+          "paragraphs": [
+            "Eine Unterflur-Radsatzdrehmaschine ist Teil des Gebäudes: Sie steht in einer Grube unter dem Gleis und muss exakt mit den Schienen darüber fluchten. Eine Portal- oder Überflurdrehmaschine benötigt ein ebenes, stabiles Fundament, das sich unter schweren Radsätzen nicht setzt. Kleine Fehler in dieser Phase zeigen sich noch jahrelang als Profilabweichungen, Schwingungen und vorzeitiger Verschleiß.",
+            "Deshalb versteht HYT die Montage als Ingenieurleistung, nicht als Lieferaufgabe. Wir stellen Fundament- und Grubenzeichnungen frühzeitig im Projekt bereit, prüfen den Standort vor dem Versand der Maschine und entsenden Ingenieure, die die Konstruktion der Maschine kennen, um sie aufzustellen, auszurichten und ihre Leistung nachzuweisen.",
+            "Das Ergebnis ist eine Maschine, die ihre Abnahmekriterien mit Ihren eigenen Fahrzeugen und Radsätzen erfüllt, und ein Team, das sie ab der ersten Schicht bedienen kann."
+          ],
+          "image": "projects/installation-commissioning",
+          "image_alt": "Beispielillustration von Ingenieuren beim Ausrichten eines Moduls einer Radsatzdrehmaschine während der Montage in einer Werkstatt",
+          "layout": "image-right"
+        },
+        {
+          "type": "steps",
+          "id": "process",
+          "eyebrow": "Unser Vorgehen",
+          "heading": "Von der Lieferung bis zur Übergabe in sieben Schritten",
+          "items": [
+            {
+              "title": "Montagevorbereitung",
+              "text": "Zeichnungen für Fundament, Grube und Schienenauflagen sowie Anforderungen an Strom, Druckluft und Hebezeuge – bereitgestellt für Sie und Ihr Bauunternehmen."
+            },
+            {
+              "title": "Prüfung der Baubereitschaft",
+              "text": "Unsere Ingenieure prüfen Grube oder Fundament, Höhen, Ankerpositionen und Kabelwege, bevor die Maschine versandt wird."
+            },
+            {
+              "title": "Anlieferung und Einbringung",
+              "text": "Die Baugruppen werden bei Ankunft geprüft, in Position gehoben und in der geplanten Reihenfolge auf ihr Fundament gesetzt."
+            },
+            {
+              "title": "Ausrichten und Nivellieren",
+              "text": "Die Maschinen werden nivelliert und – bei Grubenmaschinen – vor dem Vergießen und der endgültigen Befestigung auf Gleismitte und Schienenoberkante ausgerichtet."
+            },
+            {
+              "title": "Anschlüsse",
+              "text": "Elektrik, Hydraulik, Pneumatik und Späneförderung werden angeschlossen, und die Sicherheitsverriegelungen werden geprüft."
+            },
+            {
+              "title": "Probebetrieb",
+              "text": "Auf Trockenläufe folgt die Bearbeitung Ihrer eigenen Radsätze; die Ergebnisse werden gegen die vereinbarten Profiltoleranzen gemessen."
+            },
+            {
+              "title": "Schulung und Übergabe",
+              "text": "Bediener und Instandhalter werden geschult, die Dokumentation wird übergeben und das Abnahmeprotokoll gemeinsam unterzeichnet."
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "id": "responsibilities",
+          "heading": "Wer macht was",
+          "intro": "Eine klare Aufgabenteilung vermeidet Verzögerungen auf der Baustelle. Nachfolgend eine typische Aufteilung; der genaue Umfang wird im jeweiligen Vertrag festgelegt.",
+          "columns": [
+            "Tätigkeit",
+            "HYT",
+            "Kunde"
+          ],
+          "rows": [
+            [
+              "Fundament- und Grubenzeichnungen",
+              "Erstellt und übergibt",
+              "Prüft und gibt frei"
+            ],
+            [
+              "Bauarbeiten (Grube, Fundament, Schienenauflagen)",
+              "Berät und prüft die Schnittstellen",
+              "Führt sie über sein Bauunternehmen aus"
+            ],
+            [
+              "Stromversorgung bis zum Hauptschalter der Maschine",
+              "Legt die Anforderungen fest",
+              "Stellt sie bereit"
+            ],
+            [
+              "Aufstellung, Ausrichtung und Anschlüsse",
+              "Führt aus oder überwacht",
+              "Gewährt Zugang zum Standort und stellt vereinbarte Hebehilfen bereit"
+            ],
+            [
+              "Fahrzeuge oder Radsätze für den Probebetrieb",
+              "Bearbeitet und misst",
+              "Stellt Fahrzeuge oder Radsätze bereit"
+            ],
+            [
+              "Schulung",
+              "Führt sie vor Ort durch",
+              "Benennt Bediener und Instandhalter"
+            ],
+            [
+              "Abnahme",
+              "Weist die Leistung nach",
+              "Wohnt bei und gibt frei"
+            ]
+          ],
+          "note": "Bei schlüsselfertigen Projekten können Bauarbeiten und weitere Schnittstellen an HYT übertragen werden – siehe Schlüsselfertige EPC-Projekte."
+        },
+        {
+          "type": "features",
+          "id": "included",
+          "eyebrow": "Im Leistungsumfang der Inbetriebnahme",
+          "heading": "Was Sie bei der Übergabe erhalten",
+          "cols": 3,
+          "items": [
+            {
+              "icon": "rulers",
+              "title": "Geometrieprüfungen",
+              "text": "Ausrichtungs- und Genauigkeitsprüfungen, dokumentiert gegen die Abnahmekriterien der Maschine."
+            },
+            {
+              "icon": "cpu",
+              "title": "Profile geladen",
+              "text": "Ihre vorgegebenen Radprofile in der CNC gespeichert und an realen Radsätzen nachgewiesen."
+            },
+            {
+              "icon": "shield-check",
+              "title": "Sicherheit geprüft",
+              "text": "Schutzeinrichtungen, Verriegelungen und Not-Halt-Einrichtungen geprüft und dokumentiert."
+            },
+            {
+              "icon": "journal-text",
+              "title": "Dokumentation",
+              "text": "Bedienungs- und Wartungsanleitungen, Elektro- und Hydraulikpläne sowie die empfohlene Ersatzteilliste."
+            },
+            {
+              "icon": "mortarboard",
+              "title": "Erstschulung",
+              "text": "Praktische Schulungen für Bediener und Instandhaltungspersonal während der Inbetriebnahme."
+            },
+            {
+              "icon": "calendar-check",
+              "title": "Beginn der Gewährleistung",
+              "text": "Ein unterzeichnetes Abnahmeprotokoll, das den Beginn der Gewährleistungsfrist markiert."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "id": "live-depots",
+          "eyebrow": "Arbeiten im laufenden Betrieb",
+          "heading": "Montage, ohne die Werkstatt stillzulegen",
+          "paragraphs": [
+            "Viele Montagen finden in Betriebswerken statt, die weiterlaufen müssen. Der Bau einer Grube unter einem betriebenen Gleis, die Umverlegung von Kabeln oder der Transport schwerer Baugruppen durch eine belebte Halle erfordern eine sorgfältige Planung mit Ihren Betriebs- und Sicherheitsverantwortlichen.",
+            "Wir stimmen Arbeitsfenster, Freischaltverfahren und Hebepläne im Voraus ab und halten den Platzbedarf unserer Arbeiten so gering wie möglich. Geht es um eine komplette Anlage, kann unser Team für [schlüsselfertige EPC-Projekte](page:turnkey-project) auch die Verantwortung für Bauarbeiten und Schnittstellen übernehmen. Die Verlagerung einer vorhandenen Maschine an einen neuen Standort übernimmt unser Service [Verlagerung von Sondermaschinen (SPM)](page:shifting)."
+          ],
+          "image": "projects/pit-foundation-civil-works",
+          "image_alt": "Beispielillustration einer Stahlbetongrube, die unter einem Betriebswerksgleis für eine Radsatzdrehmaschine vorbereitet wird",
+          "layout": "image-left"
+        },
+        {
+          "type": "faq",
+          "id": "faq",
+          "heading": "Häufig gestellte Fragen",
+          "items": [
+            {
+              "q": "Wann sollten wir HYT einbinden?",
+              "a": "Sobald die Maschine bestellt ist – idealerweise, solange das Betriebswerkslayout noch festgelegt wird. Gruben- und Fundamentzeichnungen beeinflussen Bauplanung und Terminplan; eine frühe Abstimmung spart später Zeit."
+            },
+            {
+              "q": "Wer führt die Bauarbeiten aus?",
+              "a": "In der Regel Ihr Bauunternehmen nach HYT-Zeichnungen. Wir prüfen die Schnittstellen, bevor die Maschine eintrifft. Bei einem schlüsselfertigen Projekt können die Bauarbeiten in den Leistungsumfang von HYT aufgenommen werden."
+            },
+            {
+              "q": "Wie lange dauert die Inbetriebnahme?",
+              "a": "Das hängt vom Maschinentyp, der Baubereitschaft und der Verfügbarkeit von Radsätzen für den Probebetrieb ab. Wir legen dem Angebot einen realistischen Terminplan bei und aktualisieren ihn nach der Prüfung der Baubereitschaft."
+            },
+            {
+              "q": "Ist die Bedienerschulung Teil der Inbetriebnahme?",
+              "a": "Ja. Die Erstschulung für Bediener und Instandhaltungspersonal findet während der Inbetriebnahme statt. Erweiterte Programme oder Auffrischungskurse bieten wir über unseren Service [Schulung](page:training) an."
+            },
+            {
+              "q": "Was geschieht nach der Übergabe?",
+              "a": "Ihre Maschine tritt in die Gewährleistungsfrist ein. Viele Kunden schließen anschließend einen [Jährlichen Wartungsvertrag (AMC)](page:annual-maintenance-contract) oder einen [Umfassenden Wartungsvertrag (CMC)](page:comprehensive-annual-maintenance-contract) ab."
+            }
+          ]
+        },
+        {
+          "type": "cta",
+          "heading": "Planen Sie die Installation einer neuen Maschine?",
+          "text": "Senden Sie uns Ihr Betriebswerkslayout und die Maschine, die Sie in Betracht ziehen. Wir sagen Ihnen, was der Standort wann benötigt.",
+          "primary": {
+            "label": "Anforderung besprechen",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Unsere Produkte entdecken",
+            "page": "products"
+          }
+        }
+      ]
+    },
+    "maintenance": {
+      "nav": "Instandhaltungsleistungen",
+      "title": "Wartungsverträge für Radsatzdrehmaschinen",
+      "description": "Vergleichen Sie die HYT-Wartungsverträge – O&M, AMC, CMC, Betrieb, Service auf Abruf und Ersatzteilversorgung – und wählen Sie die passende Absicherung.",
+      "eyebrow": "Service",
+      "h1": "Instandhaltungsleistungen und Wartungsverträge",
+      "lede": "Sechs Wege, Ihre HYT-Maschine verfügbar zu halten – vom Servicevertrag auf Abruf bis zu Betrieb und Instandhaltung durch unser eigenes Team. Vergleichen Sie die Leistungsumfänge und wählen Sie, was zu Ihrem Betriebswerk passt.",
+      "summary": "O&M-, AMC-, CMC-, Betriebs-, Service- und Ersatzteilverträge im Vergleich – für den passenden Absicherungsumfang.",
+      "blocks": [
+        {
+          "type": "text",
+          "id": "overview",
+          "eyebrow": "Planmäßige Instandhaltung",
+          "heading": "Planmäßige Instandhaltung kostet weniger als Stillstand",
+          "paragraphs": [
+            "Eine Radsatzdrehmaschine leistet Schwerstarbeit: schwere Radsätze, harte und verschlissene Laufflächen, abrasive Späne und lange Schichten. Führungsbahnen, Rollen, Hydraulik und Messsysteme brauchen regelmäßige Aufmerksamkeit. Ohne sie werden aus kleinen Fehlern Ausfälle – meist genau dann, wenn die Flotte die Maschine am dringendsten braucht.",
+            "Unsere Wartungsverträge bringen diese Aufmerksamkeit in einen festen Rhythmus. Sie unterscheiden sich in drei Punkten: wer die Maschine bedient, ob Ersatzteile enthalten sind und wie die Leistung abgerechnet wird. Wählen Sie die Kombination, die zu Ihren eigenen Kompetenzen, Ihrem Budgetmodell und der Bedeutung der Maschine für die Flottenverfügbarkeit passt."
+          ],
+          "image": "company/service-maintenance",
+          "image_alt": "Beispielillustration eines Technikers, der bei einem vorbeugenden Wartungsbesuch das Hydraulikaggregat einer Radsatzdrehmaschine prüft",
+          "layout": "image-right"
+        },
+        {
+          "type": "cards",
+          "id": "contracts",
+          "eyebrow": "Vertragsarten",
+          "heading": "Unsere Instandhaltungsleistungen",
+          "cols": 3,
+          "items": [
+            {
+              "page": "operation-and-maintenance",
+              "icon": "people"
+            },
+            {
+              "page": "annual-maintenance-contract",
+              "icon": "calendar-check"
+            },
+            {
+              "page": "comprehensive-annual-maintenance-contract",
+              "icon": "shield-check"
+            },
+            {
+              "page": "operation-contract",
+              "icon": "person-gear"
+            },
+            {
+              "page": "service-contract",
+              "icon": "telephone"
+            },
+            {
+              "page": "spare-supply",
+              "icon": "box-seam"
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "id": "compare",
+          "heading": "Vertragsarten im Vergleich",
+          "intro": "Ein typischer Leistungsumfang je Vertragsart. Jeder Vertrag wird individuell zugeschnitten; die endgültigen Leistungen und Ausschlüsse werden im Angebot festgelegt.",
+          "columns": [
+            "Leistungsumfang",
+            "O&M",
+            "AMC",
+            "CMC",
+            "Betriebsvertrag",
+            "Servicevertrag",
+            "Ersatzteile & Support"
+          ],
+          "rows": [
+            [
+              "Vorbeugende Wartungsbesuche",
+              "Ja",
+              "Ja, planmäßig",
+              "Ja, planmäßig",
+              "Nein – Kunde oder separater Vertrag",
+              "Auf Anfrage, je Einsatz",
+              "Nein"
+            ],
+            [
+              "Störungsbehebung vor Ort",
+              "Ja",
+              "Ja",
+              "Ja",
+              "Nein – Kunde oder separater Vertrag",
+              "Je Abruf",
+              "Telefonische Beratung; Einsätze vor Ort nach Angebot"
+            ],
+            [
+              "Ersatzteile",
+              "Wie vertraglich vereinbart",
+              "Separates Angebot",
+              "Enthalten, gemäß Liste",
+              "Nein",
+              "Separates Angebot",
+              "Lieferung auf Bestellung"
+            ],
+            [
+              "Verbrauchsmaterial und Schneidwerkzeuge",
+              "Wie vertraglich vereinbart",
+              "Nein",
+              "Nein, sofern nicht gelistet",
+              "Wie vertraglich vereinbart",
+              "Nein",
+              "Lieferung auf Bestellung"
+            ],
+            [
+              "Maschinenbediener",
+              "HYT",
+              "Nein",
+              "Nein",
+              "HYT",
+              "Nein",
+              "Nein"
+            ],
+            [
+              "Wer bedient die Maschine",
+              "HYT",
+              "Kunde",
+              "Kunde",
+              "HYT",
+              "Kunde",
+              "Kunde"
+            ],
+            [
+              "Abrechnungsbasis",
+              "Periodische Gebühr",
+              "Feste Jahresgebühr",
+              "Feste Jahresgebühr",
+              "Periodische Gebühr",
+              "Je Einsatz oder Abruf",
+              "Je Bestellung"
+            ],
+            [
+              "Typischer Einsatzfall",
+              "Betriebswerke ohne eigenes Drehmaschinenteam",
+              "Eigene Bediener, planbare Personalkosten",
+              "Eigene Bediener, festes Budget einschließlich Ersatzteilen",
+              "Eigenes Instandhaltungsteam, keine geschulten Bediener",
+              "Geringe Auslastung, starke eigene Instandhaltung",
+              "Werkstätten mit vollständig eigener Instandhaltung"
+            ]
+          ],
+          "note": "Schäden durch Unfälle, unsachgemäßen Gebrauch, Störungen der Stromversorgung oder bauliche Mängel sowie Modernisierungen oder Retrofits gehören bei allen Verträgen nicht zum Standardumfang, sofern nicht anders vereinbart."
+        },
+        {
+          "type": "faq",
+          "id": "choosing",
+          "heading": "Welcher Vertrag passt zu uns?",
+          "items": [
+            {
+              "q": "Wir haben Bediener, aber kein spezialisiertes Instandhaltungspersonal.",
+              "a": "Ein [AMC](page:annual-maintenance-contract) bietet Ihnen planmäßige vorbeugende Wartungsbesuche und Störungsbehebung. Wenn auch Ersatzteile innerhalb eines festen Jahresbudgets abgedeckt sein sollen, wählen Sie einen [CMC](page:comprehensive-annual-maintenance-contract)."
+            },
+            {
+              "q": "Wir eröffnen ein neues Betriebswerk und haben kein geschultes Drehmaschinenteam.",
+              "a": "Mit einem [O&M-Vertrag](page:operation-and-maintenance) betreibt und wartet HYT die Maschine. Wenn Ihre Instandhaltungsabteilung die Wartung übernimmt, deckt ein [Betriebsvertrag](page:operation-contract) nur die Bediener ab."
+            },
+            {
+              "q": "Unsere Maschine ist wenig ausgelastet und wird von unserem eigenen Team gewartet.",
+              "a": "Ein [Servicevertrag](page:service-contract) auf Abruf sichert Ihnen vereinbarte Sätze für Einsätze nach Bedarf, und [Ersatzteile & Support](page:spare-supply) hält Original-Ersatzteile in Reichweite."
+            },
+            {
+              "q": "Lassen sich Verträge kombinieren oder später ändern?",
+              "a": "Ja. Viele Kunden beginnen mit einem O&M-Vertrag, während sie ihr eigenes Personal schulen, und wechseln dann zu einem CMC oder AMC. Wir prüfen den Umfang bei jeder Verlängerung gemeinsam mit Ihnen."
+            }
+          ]
+        },
+        {
+          "type": "cta",
+          "heading": "Unsicher, welcher Vertrag passt?",
+          "text": "Erzählen Sie uns von Ihrer Maschine, ihrer Auslastung und Ihrem eigenen Team. Wir empfehlen Ihnen einen Vertrag und senden Ihnen eine klare Leistungsbeschreibung.",
+          "primary": {
+            "label": "Anforderung besprechen",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Alle Leistungen",
+            "page": "services"
+          }
+        }
+      ]
+    },
+    "operation-and-maintenance": {
+      "nav": "Betrieb & Instandhaltung (O&M)",
+      "title": "Betriebs- und Instandhaltungsverträge (O&M)",
+      "description": "Mit einem O&M-Vertrag von HYT bedienen und warten unsere Fachkräfte Ihre Radsatzdrehmaschine – inklusive planmäßiger Wartung, Störungsbehebung und Berichten.",
+      "eyebrow": "Instandhaltungsleistungen",
+      "h1": "Betriebs- und Instandhaltungsverträge (O&M) für Radsatzdrehmaschinen",
+      "lede": "HYT-Bediener fahren die Maschine, HYT-Techniker halten sie instand. Sie erhalten termingerecht reprofilierte Radsätze, ohne ein eigenes spezialisiertes Drehmaschinenteam aufbauen zu müssen.",
+      "summary": "HYT-Bediener fahren Ihre Maschine, HYT-Techniker halten sie instand – ein Vertrag, ein Verantwortlicher.",
+      "blocks": [
+        {
+          "type": "text",
+          "id": "overview",
+          "eyebrow": "So funktioniert es",
+          "heading": "Ein Team, verantwortlich für Leistung und Maschinenzustand",
+          "paragraphs": [
+            "Eine CNC-Radsatzdrehmaschine gut zu betreiben, erfordert mehr als einen Druck auf die Starttaste. Bediener müssen Fahrzeuge sicher positionieren, Messergebnisse interpretieren, das richtige Profil wählen und erste Anzeichen von Störungen erkennen. Die Instandhaltung der Maschine erfordert Kenntnisse in Mechanik, Hydraulik, Elektrik und CNC, die viele Betriebswerke nicht im eigenen Haus haben.",
+            "Mit einem O&M-Vertrag stellt HYT beides bereit. Unsere Bediener arbeiten nach Ihrem Schichtmodell und Ihrem Instandhaltungsplan; unsere Techniker halten die Maschine durch planmäßige Wartung in Schuss und beheben Störungen. Da dieselbe Organisation für Betrieb und Instandhaltung verantwortlich ist, gibt es keinen Streit darüber, ob ein Stillstand vom Bediener oder von der Maschine verursacht wurde.",
+            "O&M eignet sich für neue Betriebswerke, die noch kein Drehmaschinenteam ausgebildet haben, für Betreiber, die Spezialtätigkeiten grundsätzlich auslagern, und für hoch ausgelastete Maschinen, bei denen jede Stunde Verfügbarkeit zählt."
+          ],
+          "image": "projects/metro-depot",
+          "image_alt": "Beispielillustration eines Metro-Betriebswerks mit einem Zug über einer Unterflur-Radsatzdrehmaschine",
+          "layout": "image-right"
+        },
+        {
+          "type": "features",
+          "id": "included",
+          "eyebrow": "Enthalten",
+          "heading": "Was ein O&M-Vertrag umfasst",
+          "cols": 3,
+          "items": [
+            {
+              "icon": "person-workspace",
+              "title": "Maschinenbetrieb",
+              "text": "Geschulte HYT-Bediener fahren die Maschine nach dem mit Ihnen vereinbarten Schichtmodell und Arbeitsvolumen."
+            },
+            {
+              "icon": "calendar-check",
+              "title": "Vorbeugende Wartung",
+              "text": "Tägliche, wöchentliche und periodische Wartungsarbeiten nach dem HYT-Wartungsplan."
+            },
+            {
+              "icon": "lightning-charge",
+              "title": "Störungsbehebung",
+              "text": "Fehler werden von HYT-Technikern diagnostiziert und behoben, bei Bedarf mit Eskalation an unser Engineering-Team."
+            },
+            {
+              "icon": "clipboard-data",
+              "title": "Dokumentation und Berichte",
+              "text": "Bearbeitete Radsätze, Messergebnisse, Stillstände und Wartungsarbeiten werden erfasst und berichtet."
+            },
+            {
+              "icon": "box-seam",
+              "title": "Ersatzteilplanung",
+              "text": "Überwachung der Lagerbestände und Planung des Nachschubs; Lieferung von Ersatzteilen wie im Vertrag festgelegt."
+            },
+            {
+              "icon": "shield-check",
+              "title": "Sicheres Arbeiten",
+              "text": "Arbeiten nach vereinbarten Sicherheitsverfahren und den Arbeitsfreigaberegeln Ihres Betriebswerks."
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "id": "not-included",
+          "heading": "Was nicht enthalten ist (sofern nicht vertraglich vereinbart)",
+          "intro": "Klare Ausschlüsse vermeiden Überraschungen. Folgendes gehört üblicherweise nicht zum O&M-Umfang:",
+          "cols": 2,
+          "items": [
+            "Bauliche Reparaturen an Grube, Gebäude oder Gleis",
+            "Strom, Druckluft und sonstige Versorgung bis zum Anschlusspunkt der Maschine",
+            "Rangieren und Bewegen von Schienenfahrzeugen zur und von der Maschine",
+            "Schäden durch Unfälle, unsachgemäßen Gebrauch durch Dritte, Brand, Überschwemmung oder Versorgungsstörungen",
+            "Ersatzteile und Verbrauchsmaterial über die vertraglich festgelegten Mengen hinaus",
+            "Retrofit, Modernisierungen oder Umbauten der Maschine"
+          ]
+        },
+        {
+          "type": "steps",
+          "id": "process",
+          "eyebrow": "Vertragsablauf",
+          "heading": "So läuft ein O&M-Vertrag ab",
+          "items": [
+            {
+              "title": "Festlegung des Umfangs",
+              "text": "Schichten, erwartetes Arbeitsvolumen, Berichtsformat und Aufteilung der Zuständigkeiten werden vereinbart."
+            },
+            {
+              "title": "Mobilisierung",
+              "text": "Das HYT-Team, Werkzeuge und eine Erstausstattung an Ersatzteilen werden bereitgestellt, und der Zustand der Maschine wird dokumentiert."
+            },
+            {
+              "title": "Täglicher Betrieb",
+              "text": "Fahrzeuge werden gemäß Ihrem Instandhaltungsplan reprofiliert; die Ergebnisse werden für jeden Radsatz protokolliert."
+            },
+            {
+              "title": "Planmäßige Instandhaltung",
+              "text": "Wartungsarbeiten werden in Zeiten geringer Auslastung gelegt, um die Verfügbarkeit zu sichern."
+            },
+            {
+              "title": "Überprüfung",
+              "text": "Leistung, Stillstände und Maschinenzustand werden in vereinbarten Abständen mit Ihnen besprochen."
+            },
+            {
+              "title": "Verlängerung oder Übergang",
+              "text": "Der Vertrag wird verlängert, oder Ihr eigenes Personal wird für die Übernahme des Betriebs geschult."
+            }
+          ]
+        },
+        {
+          "type": "faq",
+          "id": "faq",
+          "heading": "Häufig gestellte Fragen",
+          "items": [
+            {
+              "q": "Worin unterscheidet sich O&M von einem Betriebsvertrag?",
+              "a": "Ein O&M-Vertrag umfasst Betrieb und Instandhaltung. Ein [Betriebsvertrag](page:operation-contract) stellt nur die Bediener; die Instandhaltung verbleibt bei Ihrem Team oder wird über einen separaten [AMC](page:annual-maintenance-contract) oder [CMC](page:comprehensive-annual-maintenance-contract) abgedeckt."
+            },
+            {
+              "q": "Muss unser eigenes Personal anwesend sein?",
+              "a": "Ihr Betriebswerk bleibt für Fahrzeugbewegungen, Arbeitsfreigaben und den Instandhaltungsplan verantwortlich. Ein benannter Ansprechpartner auf Ihrer Seite hält die Koordination einfach."
+            },
+            {
+              "q": "Kann unser Personal später für die Übernahme geschult werden?",
+              "a": "Ja. Ein O&M-Vertrag kann eine strukturierte [Schulung](page:training) umfassen, sodass Ihr Team den Betrieb schrittweise übernimmt, während HYT im Rahmen eines AMC oder CMC weiter betreut."
+            },
+            {
+              "q": "Wie wird der Vertrag kalkuliert?",
+              "a": "In der Regel als periodische Gebühr auf Basis von Schichten, Arbeitsvolumen und vereinbartem Umfang. Wir erstellen unser Angebot, nachdem wir Ihre Flotte und die Abläufe in Ihrem Betriebswerk kennengelernt haben."
+            }
+          ]
+        },
+        {
+          "type": "cta",
+          "heading": "Sprechen Sie mit uns über einen O&M-Vertrag für Ihr Betriebswerk",
+          "text": "Nennen Sie uns Ihre Flottengröße, Ihren Reprofilierungsbedarf und Ihr Schichtmodell. Wir schlagen Ihnen ein passendes Team und einen passenden Leistungsumfang vor.",
+          "primary": {
+            "label": "Anforderung besprechen",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Verträge vergleichen",
+            "page": "maintenance",
+            "anchor": "compare"
+          }
+        }
+      ]
+    },
+    "annual-maintenance-contract": {
+      "nav": "Jährlicher Wartungsvertrag (AMC)",
+      "title": "Jährlicher Wartungsvertrag (AMC) für Maschinen",
+      "description": "Der Jährliche Wartungsvertrag (AMC) von HYT umfasst planmäßige Wartungsbesuche und Störungsbehebung durch geschulte Ingenieure. Ersatzteile separat.",
+      "eyebrow": "Instandhaltungsleistungen",
+      "h1": "Jährlicher Wartungsvertrag (AMC)",
+      "lede": "Planmäßige vorbeugende Wartungsbesuche und Störungsbehebung durch Ingenieure, die Ihre Maschine kennen – zu einer festen Jahresgebühr. Ihr Team bedient die Maschine, wir halten sie in gutem Zustand.",
+      "summary": "Planmäßige vorbeugende Wartungsbesuche und Störungsbehebung zu einer festen Jahresgebühr; Ersatzteile werden separat angeboten.",
+      "blocks": [
+        {
+          "type": "text",
+          "id": "overview",
+          "eyebrow": "So funktioniert es",
+          "heading": "Planbare Personalkosten, planmäßige Maschinenpflege",
+          "paragraphs": [
+            "Ein AMC ist der gängigste Weg, eine HYT-Maschine nach Ablauf der Gewährleistung in gutem Zustand zu halten. Ihre Bediener fahren die Maschine weiterhin täglich. HYT-Ingenieure kommen in vereinbarten Abständen, um sie zu inspizieren, einzustellen und zu warten, und sind zur Stelle, wenn etwas schiefgeht.",
+            "Die Gebühr deckt die Arbeitszeit unserer Ingenieure für die vereinbarte Anzahl vorbeugender Wartungsbesuche und für die Störungsbehebung im Vertragsjahr ab. Ersatzteile sind nicht enthalten: Wird ein Teil benötigt, sagen wir Ihnen, welches, warum und was es kostet, und liefern es auf Ihre Bestellung. Wenn auch Ersatzteile in einem festen Budget enthalten sein sollen, sehen Sie sich den [Umfassenden Wartungsvertrag (CMC)](page:comprehensive-annual-maintenance-contract) an.",
+            "Regelmäßige Besuche erkennen Verschleiß, bevor er zu einem Ausfall führt, halten die Bearbeitungsgenauigkeit innerhalb der Grenzen und schaffen eine Servicehistorie, die bei der Planung von Modernisierungen oder einem Ersatz hilft."
+          ],
+          "image": "company/service-maintenance",
+          "image_alt": "Beispielillustration eines HYT-Ingenieurs, der bei einem planmäßigen AMC-Besuch die Schlitten einer Radsatzdrehmaschine prüft",
+          "layout": "image-right"
+        },
+        {
+          "type": "features",
+          "id": "included",
+          "eyebrow": "Enthalten",
+          "heading": "Was ein AMC umfasst",
+          "cols": 3,
+          "items": [
+            {
+              "icon": "calendar-check",
+              "title": "Planmäßige Wartungsbesuche",
+              "text": "Eine vereinbarte Anzahl von Besuchen pro Jahr, abgestimmt auf Ihr Werkstattprogramm."
+            },
+            {
+              "icon": "list-check",
+              "title": "Inspektionschecklisten",
+              "text": "Prüfungen von Mechanik, Hydraulik, Pneumatik, Elektrik und CNC nach einer standardisierten HYT-Checkliste."
+            },
+            {
+              "icon": "rulers",
+              "title": "Genauigkeitsprüfungen",
+              "text": "Messsystem und Bearbeitungsergebnisse werden überprüft und bei Bedarf nachjustiert."
+            },
+            {
+              "icon": "lightning-charge",
+              "title": "Störungsbehebung",
+              "text": "Unsere Ingenieure beheben im Vertragsjahr gemeldete Störungen – von der Diagnose bis zur Fehlerbeseitigung."
+            },
+            {
+              "icon": "file-earmark-text",
+              "title": "Besuchsberichte",
+              "text": "Nach jedem Besuch ein schriftlicher Bericht mit Befunden, durchgeführten Arbeiten und offenen Punkten."
+            },
+            {
+              "icon": "box-seam",
+              "title": "Ersatzteilempfehlungen",
+              "text": "Frühzeitiger Hinweis auf Teile, die das Ende ihrer Lebensdauer erreichen, damit Sie vor dem Ausfall bestellen können."
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "id": "not-included",
+          "heading": "Was nicht enthalten ist",
+          "intro": "Sofern nicht ausdrücklich in Ihrem Vertrag aufgeführt, gehört Folgendes nicht zum AMC-Umfang:",
+          "cols": 2,
+          "items": [
+            "Ersatzteile – separat angeboten und auf Ihre Bestellung geliefert",
+            "Verbrauchsmaterial wie Wendeschneidplatten, Schmierstoffe, Hydrauliköl und Filter",
+            "Der tägliche Betrieb der Maschine",
+            "Schäden durch Unfälle, unsachgemäßen Gebrauch, Brand, Überschwemmung oder Störungen der Stromversorgung",
+            "Bau-, Tragwerks- und Gleisarbeiten im Umfeld der Maschine",
+            "Retrofit, Modernisierungen und Umbauten"
+          ]
+        },
+        {
+          "type": "steps",
+          "id": "process",
+          "eyebrow": "Das Vertragsjahr",
+          "heading": "So sieht ein typisches AMC-Jahr aus",
+          "items": [
+            {
+              "title": "Eingangsinspektion",
+              "text": "Wir dokumentieren den Zustand der Maschine zu Vertragsbeginn und weisen auf erforderliche Arbeiten hin."
+            },
+            {
+              "title": "Besuchsplan",
+              "text": "Die Termine der vorbeugenden Wartungsbesuche werden vorab abgestimmt und in Ihr Werkstattprogramm eingepasst."
+            },
+            {
+              "title": "Vorbeugende Wartungsbesuche",
+              "text": "Prüfungen, Einstellungen und Wartungsarbeiten werden durchgeführt und dokumentiert."
+            },
+            {
+              "title": "Störungsmeldungen",
+              "text": "Sie melden eine Störung über den Service-Desk; ein Ingenieur wird zugewiesen und kommt zu Ihnen."
+            },
+            {
+              "title": "Jahresgespräch",
+              "text": "Maschinenhistorie und Empfehlungen werden vor der Verlängerung besprochen."
+            }
+          ]
+        },
+        {
+          "type": "faq",
+          "id": "faq",
+          "heading": "Häufig gestellte Fragen",
+          "items": [
+            {
+              "q": "Was ist der Unterschied zwischen AMC und CMC?",
+              "a": "Ein AMC deckt die Arbeitsleistung für vorbeugende Wartungsbesuche und Störungsbehebung ab. Ein [CMC](page:comprehensive-annual-maintenance-contract) umfasst zusätzlich die im Vertrag aufgeführten Ersatzteile, sodass Ihre jährlichen Instandhaltungskosten feststehen."
+            },
+            {
+              "q": "Wie viele vorbeugende Wartungsbesuche sind enthalten?",
+              "a": "Die Anzahl wird mit Ihnen vereinbart – abhängig von Maschinentyp, Auslastung und Einsatzbedingungen. Sie ist im Vertrag festgelegt."
+            },
+            {
+              "q": "Können wir einen AMC für eine ältere Maschine abschließen?",
+              "a": "Ja, nach einer Zustandsinspektion. Muss die Maschine zuerst repariert werden, erstellen wir dafür ein separates Angebot – siehe [Reparatur](page:repair)."
+            },
+            {
+              "q": "Mit welcher Reaktionszeit können wir bei einer Störung rechnen?",
+              "a": "Reaktionszeiten werden in jedem Vertrag festgeschrieben, abhängig vom Standort der Maschine und ihrer Bedeutung für Ihre Flotte. Wir vereinbaren sie mit Ihnen vor Vertragsbeginn, damit bei einer Meldung keine Unklarheiten bestehen."
+            },
+            {
+              "q": "Wie melden wir eine Störung?",
+              "a": "Rufen Sie die gebührenfreie Servicenummer 1800 2100 456 an oder schreiben Sie uns eine E-Mail mit der Seriennummer der Maschine und einer Fehlerbeschreibung. Siehe [Kundendienstnetz](page:service-centers)."
+            }
+          ]
+        },
+        {
+          "type": "cta",
+          "heading": "AMC-Angebot anfordern",
+          "text": "Senden Sie uns Maschinenmodell, Seriennummer und Standort. Wir inspizieren die Maschine, schlagen einen Besuchsplan vor und nennen Ihnen die Jahresgebühr.",
+          "primary": {
+            "label": "Anforderung besprechen",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Verträge vergleichen",
+            "page": "maintenance",
+            "anchor": "compare"
+          }
+        }
+      ]
+    },
+    "comprehensive-annual-maintenance-contract": {
+      "nav": "Umfassender Wartungsvertrag (CMC)",
+      "title": "Umfassender Wartungsvertrag (CMC) inkl. Ersatzteile",
+      "description": "Der Umfassende Wartungsvertrag (CMC) von HYT ergänzt Wartungsbesuche und Störungsbehebung um Ersatzteile – für planbare jährliche Instandhaltungskosten.",
+      "eyebrow": "Instandhaltungsleistungen",
+      "h1": "Umfassender Wartungsvertrag (CMC)",
+      "lede": "Vorbeugende Wartung, Störungsbehebung und die Ersatzteile zur Instandsetzung der Maschine – alles in einer Jahresgebühr. Ein CMC macht aus unvorhersehbaren Instandhaltungskosten einen festen Budgetposten.",
+      "summary": "Vorbeugende Wartungsbesuche, Störungsbehebung und gelistete Ersatzteile zu einer festen Jahresgebühr.",
+      "blocks": [
+        {
+          "type": "text",
+          "id": "overview",
+          "eyebrow": "So funktioniert es",
+          "heading": "Wartung und Ersatzteile zu einer festen Gebühr",
+          "paragraphs": [
+            "Ein CMC umfasst alle Leistungen eines [Jährlichen Wartungsvertrags (AMC)](page:annual-maintenance-contract) – planmäßige vorbeugende Wartungsbesuche und Störungsbehebung – und zusätzlich die Ersatzteile, die für den Betrieb der Maschine nötig sind. Fällt ein abgedecktes Teil aus oder erreicht es das Ende seiner Lebensdauer, liefert und montiert HYT es ohne separate Bestellung.",
+            "Das ist besonders wichtig in Organisationen, in denen die Beschaffung eines einzelnen Teils länger dauern kann als die Reparatur selbst. Mit einem CMC ist die Maschine wieder in Betrieb, sobald das Teil eintrifft, und Ihre jährlichen Instandhaltungskosten stehen im Voraus fest.",
+            "Da HYT die Kosten für die Teile trägt, haben wir jedes Interesse daran, die Maschine gründlich zu warten und Verschleißteile zu ersetzen, bevor sie an anderer Stelle Schäden verursachen. Ihre Bediener fahren die Maschine weiterhin; wir kümmern uns um ihren Zustand."
+          ],
+          "image": "products/wheelset-profile-closeup",
+          "image_alt": "Beispielillustration einer frisch reprofilierten Lauffläche mit Spurkranz auf einer Radsatzdrehmaschine",
+          "layout": "image-right"
+        },
+        {
+          "type": "features",
+          "id": "included",
+          "eyebrow": "Enthalten",
+          "heading": "Was ein CMC umfasst",
+          "cols": 3,
+          "items": [
+            {
+              "icon": "calendar-check",
+              "title": "Planmäßige Wartungsbesuche",
+              "text": "Ein vereinbarter Besuchsplan mit Inspektion, Einstellung und Wartung nach der HYT-Checkliste."
+            },
+            {
+              "icon": "lightning-charge",
+              "title": "Störungsbehebung",
+              "text": "Unsere Ingenieure diagnostizieren und beheben während der Vertragslaufzeit gemeldete Störungen."
+            },
+            {
+              "icon": "box-seam",
+              "title": "Ersatzteile",
+              "text": "Mechanische, hydraulische, elektrische und elektronische Teile gemäß Vertragsliste – geliefert und eingebaut."
+            },
+            {
+              "icon": "rulers",
+              "title": "Genauigkeitsprüfungen",
+              "text": "Messsystem und Bearbeitungsergebnisse werden überprüft und bei Bedarf nachjustiert."
+            },
+            {
+              "icon": "file-earmark-text",
+              "title": "Berichte und Historie",
+              "text": "Besuchsberichte und eine Ersatzteilhistorie, die Budgetierung und langfristige Planung unterstützen."
+            },
+            {
+              "icon": "cash-stack",
+              "title": "Feste Jahresgebühr",
+              "text": "Ein Budgetposten für Arbeitsleistung und gelistete Ersatzteile, vereinbart vor Vertragsbeginn."
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "id": "not-included",
+          "heading": "Was nicht enthalten ist",
+          "intro": "Sofern nicht ausdrücklich in Ihrem Vertrag aufgeführt, gehört Folgendes nicht zum CMC-Umfang:",
+          "cols": 2,
+          "items": [
+            "Verbrauchsmaterial wie Wendeschneidplatten, Schmierstoffe, Hydrauliköl und Filter",
+            "Der tägliche Betrieb der Maschine",
+            "Teile, die durch Unfälle, unsachgemäßen Gebrauch, Brand, Überschwemmung oder Störungen der Stromversorgung beschädigt wurden",
+            "Bau-, Tragwerks- und Gleisarbeiten im Umfeld der Maschine",
+            "Retrofit, Modernisierungen und Umbauten",
+            "Teile, die nicht in der Ersatzteilliste des Vertrags aufgeführt sind"
+          ]
+        },
+        {
+          "type": "table",
+          "id": "amc-vs-cmc",
+          "heading": "AMC oder CMC?",
+          "columns": [
+            "",
+            "AMC",
+            "CMC"
+          ],
+          "rows": [
+            [
+              "Vorbeugende Wartungsbesuche",
+              "Enthalten",
+              "Enthalten"
+            ],
+            [
+              "Störungsbehebung",
+              "Enthalten",
+              "Enthalten"
+            ],
+            [
+              "Ersatzteile",
+              "Separat angeboten und bestellt",
+              "Enthalten, gemäß Vertragsliste"
+            ],
+            [
+              "Verbrauchsmaterial",
+              "Nicht enthalten",
+              "Nicht enthalten, sofern nicht gelistet"
+            ],
+            [
+              "Budget",
+              "Feste Personalkosten; Teilekosten variabel",
+              "Feste Jahreskosten für Arbeitsleistung und gelistete Teile"
+            ],
+            [
+              "Ideal für",
+              "Werkstätten mit flexiblem Ersatzteilbudget",
+              "Organisationen, die ein planbares Instandhaltungsbudget benötigen"
+            ]
+          ],
+          "note": "Beide Verträge werden individuell zugeschnitten. Der endgültige Umfang und die Ersatzteilliste werden im Angebot festgelegt."
+        },
+        {
+          "type": "faq",
+          "id": "faq",
+          "heading": "Häufig gestellte Fragen",
+          "items": [
+            {
+              "q": "Welche Ersatzteile sind abgedeckt?",
+              "a": "Der Vertrag enthält eine Liste der abgedeckten Teile, die nach einer Zustandsinspektion Ihrer Maschine vereinbart wird. Verbrauchsmaterial ist in der Regel ausgenommen."
+            },
+            {
+              "q": "Kann eine ältere Maschine unter einen CMC gestellt werden?",
+              "a": "In der Regel ja, nach einer Inspektion. Reparaturen, die erforderlich sind, um die Maschine in einen akzeptablen Ausgangszustand zu versetzen, werden vor Beginn des CMC separat angeboten."
+            },
+            {
+              "q": "Wie wird die Jahresgebühr festgelegt?",
+              "a": "Nach der Inspektion der Maschine berücksichtigen wir Alter, Zustand, Auslastung und die von Ihnen gewählte Ersatzteilliste. Die Gebühr ist für das Vertragsjahr fest, und der Umfang wird bei jeder Verlängerung mit Ihnen überprüft."
+            },
+            {
+              "q": "Wer bedient die Maschine bei einem CMC?",
+              "a": "Ihre eigenen Bediener. Wenn HYT die Maschine auch betreiben soll, siehe [Betrieb & Instandhaltung (O&M)](page:operation-and-maintenance)."
+            },
+            {
+              "q": "Was passiert, wenn ein Teil durch einen Unfall beschädigt wird?",
+              "a": "Unfallschäden gehören nicht zum CMC-Umfang. Wir begutachten den Schaden, erstellen ein Angebot für die [Reparatur](page:repair), und nach deren Abschluss läuft die Maschine unter dem CMC weiter."
+            }
+          ]
+        },
+        {
+          "type": "cta",
+          "heading": "Machen Sie Ihr Instandhaltungsbudget planbar",
+          "text": "Nennen Sie uns die Maschine, die abgedeckt werden soll. Wir inspizieren sie, stimmen die Ersatzteilliste mit Ihnen ab und nennen Ihnen eine feste Jahresgebühr.",
+          "primary": {
+            "label": "Anforderung besprechen",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Verträge vergleichen",
+            "page": "maintenance",
+            "anchor": "compare"
+          }
+        }
+      ]
+    },
+    "operation-contract": {
+      "nav": "Betriebsvertrag",
+      "title": "Betriebsvertrag – Bediener für Radsatzdrehmaschinen",
+      "description": "Mit einem HYT-Betriebsvertrag bedienen geschulte HYT-Fachkräfte Ihre Radsatzdrehmaschine – die Wartung bleibt bei Ihrem Team oder einem separaten Vertrag.",
+      "eyebrow": "Instandhaltungsleistungen",
+      "h1": "Betriebsvertrag: geschulte Bediener für Ihre Maschine",
+      "lede": "HYT-Bediener fahren die Maschine; die Instandhaltung bleibt bei Ihrem eigenen Team oder läuft über einen separaten Vertrag. Sie erhalten einen qualifizierten Betrieb, ohne die Maschinenpflege abzugeben.",
+      "summary": "Geschulte HYT-Bediener fahren Ihre Maschine, während die Instandhaltung bei Ihrem Team oder einem separaten Vertrag bleibt.",
+      "blocks": [
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "Diese Leistung überschneidet sich mit Betrieb & Instandhaltung (O&M). HYT muss bestätigen, dass beide Seiten bestehen bleiben sollen und dass der unten beschriebene Umfang (nur Betrieb, ohne Instandhaltung) korrekt ist."
+        },
+        {
+          "type": "text",
+          "id": "overview",
+          "eyebrow": "So funktioniert es",
+          "heading": "Nur Betrieb – ein klar abgegrenzter Umfang",
+          "paragraphs": [
+            "Manche Betriebswerke haben eine starke Instandhaltungsabteilung, aber keine Bediener, die an einer CNC-Radsatzdrehmaschine geschult sind. Andere stehen vor einer vorübergehenden Lücke: Eine neue Maschine trifft ein, bevor das Personal eingestellt ist, oder es gibt eine Phase mit hohem Reprofilierungsbedarf. Ein Betriebsvertrag schließt diese Lücke mit HYT-Bedienern, die die Maschine, ihr Messsystem und ihre Profilprogramme kennen.",
+            "Unsere Bediener arbeiten nach Ihrem Schichtmodell und Ihrem Instandhaltungsplan. Sie positionieren Radsätze, messen, wählen das richtige Profil, bearbeiten und dokumentieren das Ergebnis. Sie übernehmen die bedienerseitige Pflege – Reinigung, routinemäßige Schmierung und tägliche Kontrollen – und melden Auffälligkeiten sofort Ihrem Instandhaltungsteam.",
+            "Vorbeugende Wartung, Störungsreparatur und Ersatzteile sind nicht Teil dieses Vertrags. Sie verbleiben bei Ihrem eigenen Team oder können im Rahmen eines [AMC](page:annual-maintenance-contract) oder [CMC](page:comprehensive-annual-maintenance-contract) an HYT vergeben werden. Wenn Sie einen Vertrag für alles bevorzugen, wählen Sie [Betrieb & Instandhaltung (O&M)](page:operation-and-maintenance)."
+          ],
+          "image": "projects/railway-wheel-shop",
+          "image_alt": "Beispielillustration eines Bedieners am Bedienpult einer Radsatzdrehmaschine in einer Radsatzwerkstatt",
+          "layout": "image-right"
+        },
+        {
+          "type": "list",
+          "id": "included",
+          "heading": "Enthalten",
+          "cols": 2,
+          "items": [
+            "Geschulte HYT-Bediener für die vereinbarten Schichten",
+            "Radsatzmessung, Profilauswahl und Bearbeitung",
+            "Bedienerseitige Pflege: Reinigung, routinemäßige Schmierung und tägliche Kontrollen",
+            "Dokumentation der bearbeiteten Radsätze und der Messergebnisse",
+            "Sofortige Meldung von Störungen an Ihr Instandhaltungsteam",
+            "Arbeiten nach den Sicherheitsregeln und dem Arbeitsfreigabesystem Ihres Betriebswerks"
+          ]
+        },
+        {
+          "type": "list",
+          "id": "not-included",
+          "heading": "Nicht enthalten",
+          "cols": 2,
+          "items": [
+            "Vorbeugende Wartung der Maschine",
+            "Störungsdiagnose und Reparatur",
+            "Ersatzteile",
+            "Bau-, Versorgungs- und Gleisarbeiten",
+            "Rangieren und Bewegen von Schienenfahrzeugen, sofern nicht vereinbart",
+            "Retrofit und Modernisierungen"
+          ]
+        },
+        {
+          "type": "faq",
+          "id": "faq",
+          "heading": "Häufig gestellte Fragen",
+          "items": [
+            {
+              "q": "Wer ist verantwortlich, wenn die Maschine ausfällt?",
+              "a": "Ihr Instandhaltungsteam – oder HYT, wenn Sie zusätzlich einen AMC oder CMC abgeschlossen haben. Unsere Bediener melden die Störung und unterstützen die Diagnose mit ihren Beobachtungen."
+            },
+            {
+              "q": "Kann ein Betriebsvertrag helfen, unsere eigenen Bediener auszubilden?",
+              "a": "Ja. Ihr Personal kann zusammen mit den HYT-Bedienern arbeiten und an einer formalen [Schulung](page:training) teilnehmen, um den Betrieb bei Vertragsende zu übernehmen."
+            },
+            {
+              "q": "Wie wird der Vertrag kalkuliert?",
+              "a": "In der Regel als periodische Gebühr auf Basis der Anzahl von Bedienern und Schichten. Wir erstellen unser Angebot, nachdem wir Ihr Arbeitsvolumen kennengelernt haben."
+            }
+          ]
+        },
+        {
+          "type": "cta",
+          "heading": "Sie brauchen Bediener für Ihre Radsatzdrehmaschine?",
+          "text": "Nennen Sie uns Ihre Maschine, Ihr Schichtmodell und das erwartete Arbeitsvolumen, und wir schlagen Ihnen ein Bedienteam vor.",
+          "primary": {
+            "label": "Anforderung besprechen",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Verträge vergleichen",
+            "page": "maintenance",
+            "anchor": "compare"
+          }
+        }
+      ]
+    },
+    "service-contract": {
+      "nav": "Servicevertrag",
+      "title": "Servicevertrag – Maschinenservice auf Abruf",
+      "description": "Flexibler HYT-Servicevertrag: vereinbarte Sätze, Abrechnung je Einsatz, keine Jahresgebühr. Ideal für wenig genutzte Maschinen und Werkstätten mit eigenem Team.",
+      "eyebrow": "Instandhaltungsleistungen",
+      "h1": "Servicevertrag: Unterstützung auf Abruf zu vereinbarten Sätzen",
+      "lede": "Sie bezahlen Ingenieureinsätze nur, wenn Sie sie brauchen – zu vorab vereinbarten Sätzen. Ein Servicevertrag gibt Ihnen Zugang zum Know-how von HYT, ohne Sie an eine feste Jahresgebühr zu binden.",
+      "summary": "Flexibler Service auf Abruf: vereinbarte Sätze, Abrechnung je Einsatz, keine feste Jahresgebühr.",
+      "blocks": [
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "Diese Leistung überschneidet sich mit AMC und CMC. HYT muss bestätigen, dass der Servicevertrag als Vereinbarung auf Abruf mit Abrechnung je Einsatz angeboten werden soll, und seinen Umfang bestätigen."
+        },
+        {
+          "type": "text",
+          "id": "overview",
+          "eyebrow": "So funktioniert es",
+          "heading": "Flexible Unterstützung ohne jährliche Bindung",
+          "paragraphs": [
+            "Nicht jede Maschine braucht einen umfassenden Wartungsvertrag. Eine Drehmaschine, die nur wenige Schichten im Monat läuft, oder eine Werkstatt mit erfahrenem eigenem Instandhaltungsteam benötigt vielleicht nur gelegentlich Spezialistenhilfe. Ein Servicevertrag legt die kaufmännischen Bedingungen im Voraus fest, damit im Bedarfsfall nichts durch Verhandlungen oder Bestellfreigaben aufgehalten wird.",
+            "Wir vereinbaren mit Ihnen eine Preisliste – Tagessätze für Ingenieure, Reisekosten und etwaige Standardgebühren – für einen festgelegten Zeitraum. Wenn Sie eine Meldung absetzen, weisen wir einen Ingenieur zu, der vor Ort diagnostiziert und repariert; berechnet wird nur dieser Einsatz. Vorbeugende Wartungsbesuche können Sie jederzeit zu denselben Bedingungen buchen.",
+            "Steigt die Zahl Ihrer Meldungen, ist ein [Jährlicher Wartungsvertrag (AMC)](page:annual-maintenance-contract) oder ein [CMC](page:comprehensive-annual-maintenance-contract) in der Regel wirtschaftlicher und bietet Ihnen planmäßige vorbeugende Wartung. Wir sagen Ihnen, wann dieser Punkt erreicht ist."
+          ],
+          "image": "company/service-maintenance",
+          "image_alt": "Beispielillustration eines HYT-Servicetechnikers bei der Fehlersuche im Schaltschrank einer Radsatzdrehmaschine",
+          "layout": "image-right"
+        },
+        {
+          "type": "steps",
+          "id": "process",
+          "eyebrow": "Ablauf",
+          "heading": "So läuft ein Serviceeinsatz ab",
+          "items": [
+            {
+              "title": "Bedingungen vereinbaren",
+              "text": "Sätze, Reisekosten und Vertragslaufzeit werden im Voraus festgelegt."
+            },
+            {
+              "title": "Meldung absetzen",
+              "text": "Melden Sie die Störung oder fordern Sie einen Besuch über die gebührenfreie Servicenummer oder per E-Mail an – unter Angabe der Seriennummer der Maschine."
+            },
+            {
+              "title": "Erstdiagnose",
+              "text": "Unser Service-Desk bespricht die Symptome mit Ihrem Team, um den passenden Ingenieur und die richtigen Teile vorzubereiten."
+            },
+            {
+              "title": "Einsatz vor Ort",
+              "text": "Der Ingenieur kommt, diagnostiziert und repariert und stimmt benötigte Teile mit Ihnen ab."
+            },
+            {
+              "title": "Bericht und Rechnung",
+              "text": "Sie erhalten einen Einsatzbericht und eine Rechnung für diesen Einsatz zu den vereinbarten Sätzen."
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "id": "scope",
+          "heading": "Enthalten und nicht enthalten",
+          "cols": 2,
+          "items": [
+            "Enthalten: Ingenieureinsatz bei jeder Meldung zu vereinbarten Sätzen",
+            "Enthalten: Arbeitsleistung für Diagnose und Reparatur während des Einsatzes",
+            "Enthalten: vorbeugende Wartungsbesuche nach Ihrer Buchung",
+            "Enthalten: ein schriftlicher Bericht zu jedem Einsatz",
+            "Nicht enthalten: Ersatzteile – separat angeboten",
+            "Nicht enthalten: eine feste Anzahl planmäßiger Besuche pro Jahr",
+            "Nicht enthalten: Maschinenbetrieb",
+            "Nicht enthalten: Schäden durch Unfälle, unsachgemäßen Gebrauch oder Versorgungsstörungen"
+          ]
+        },
+        {
+          "type": "faq",
+          "id": "faq",
+          "heading": "Häufig gestellte Fragen",
+          "items": [
+            {
+              "q": "Gibt es eine Mindestanzahl an Einsätzen?",
+              "a": "Nein. Der Vertrag legt die Sätze für einen vereinbarten Zeitraum fest; Sie bezahlen nur die Einsätze, die Sie abrufen."
+            },
+            {
+              "q": "Können wir später zu einem AMC oder CMC wechseln?",
+              "a": "Ja. Steigt die Zahl Ihrer Meldungen oder wünschen Sie planmäßige vorbeugende Wartung, können wir die Vereinbarung jederzeit in einen [AMC](page:annual-maintenance-contract) oder [CMC](page:comprehensive-annual-maintenance-contract) umwandeln."
+            },
+            {
+              "q": "Sind Ersatzteile im Rahmen eines Servicevertrags erhältlich?",
+              "a": "Ja, mit separatem Angebot für jeden Bedarf. Siehe [Ersatzteile & Support](page:spare-supply)."
+            }
+          ]
+        },
+        {
+          "type": "cta",
+          "heading": "Servicevertrag einrichten",
+          "text": "Senden Sie uns die Daten Ihrer Maschine, und wir schlagen Ihnen eine Preisliste und eine Vertragslaufzeit vor.",
+          "primary": {
+            "label": "Anforderung besprechen",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Verträge vergleichen",
+            "page": "maintenance",
+            "anchor": "compare"
+          }
+        }
+      ]
+    },
+    "spare-supply": {
+      "nav": "Ersatzteile & Support",
+      "title": "Ersatzteile & technischer Support für Radsatzdrehmaschinen",
+      "description": "Original-Ersatzteile, empfohlene Ersatzteillisten, Obsoleszenzplanung und telefonischer Support für HYT-Radsatzdrehmaschinen und Radsatzwerkstattmaschinen.",
+      "eyebrow": "Instandhaltungsleistungen",
+      "h1": "Ersatzteile und technischer Support",
+      "lede": "Original-Ersatzteile, abgestimmt auf die Baudokumentation Ihrer Maschine, und Ingenieure am Telefon, die Ihrem Team beim korrekten Einbau helfen. Weniger Verzögerungen, weniger Fehllieferungen, längere Maschinenlebensdauer.",
+      "summary": "Original-Ersatzteile, empfohlene Ersatzteillisten und technischer Support für HYT-Maschinen.",
+      "blocks": [
+        {
+          "type": "text",
+          "id": "overview",
+          "eyebrow": "Warum Originalteile",
+          "heading": "Das richtige Teil – beim ersten Mal",
+          "paragraphs": [
+            "Maschinen, die über mehrere Jahrzehnte gebaut und für unterschiedliche Spurweiten, Profile und Fahrzeugtypen konfiguriert wurden, sind selten identisch. Die Rolle, Dichtung oder der Sensor, der in eine Maschine passt, passt womöglich nicht in die nächste. Wir ermitteln Ersatzteile anhand der Seriennummer und der Baudokumentation Ihrer Maschine – so ist das gelieferte Teil auch das passende.",
+            "Originalteile werden nach den Originalzeichnungen und aus den Originalwerkstoffen gefertigt. Das sichert die Bearbeitungsgenauigkeit, vermeidet Schäden an angrenzenden Bauteilen und erhält Ihre Gewährleistungs- und Vertragsbedingungen.",
+            "Für Werkstätten, die ihre Maschinen selbst warten, stehen unsere Ingenieure telefonisch und per E-Mail für Beratung bei Fehlersuche, Teiletausch und Einstellungen zur Verfügung."
+          ],
+          "image": "company/spare-parts",
+          "image_alt": "Beispielillustration gekennzeichneter Ersatzteile für Radsatzdrehmaschinen in den Regalen eines Ersatzteillagers",
+          "layout": "image-right"
+        },
+        {
+          "type": "features",
+          "id": "range",
+          "eyebrow": "Was wir liefern",
+          "heading": "Ersatzteile und Support für die gesamte Maschine",
+          "cols": 3,
+          "items": [
+            {
+              "icon": "gear",
+              "title": "Mechanische Teile",
+              "text": "Rollen, Lager, Schlitten, Kugelgewindetriebe, Spannelemente und andere Verschleißteile."
+            },
+            {
+              "icon": "droplet",
+              "title": "Hydraulik und Pneumatik",
+              "text": "Ventile, Zylinder, Pumpen, Dichtungen und Armaturen für die Fluidsysteme der Maschine."
+            },
+            {
+              "icon": "cpu",
+              "title": "Elektrik und CNC",
+              "text": "Antriebe, Motoren, Sensoren, Steuerungskomponenten und Schaltschrankteile."
+            },
+            {
+              "icon": "rulers",
+              "title": "Teile für das Messsystem",
+              "text": "Messtaster und Komponenten für das Radprofil-Messsystem."
+            },
+            {
+              "icon": "list-check",
+              "title": "Empfohlene Ersatzteillisten",
+              "text": "Listen kritischer Teile und Verschleißteile für die Vorhaltung vor Ort, gewichtet nach Risiko und Lieferzeit."
+            },
+            {
+              "icon": "hourglass-split",
+              "title": "Obsoleszenzplanung",
+              "text": "Frühzeitiger Hinweis, wenn Komponenten abgekündigt werden – mit Alternativen oder Modernisierungspfaden."
+            }
+          ]
+        },
+        {
+          "type": "steps",
+          "id": "process",
+          "eyebrow": "Bestellung",
+          "heading": "Von der Anfrage bis zum Versand",
+          "items": [
+            {
+              "title": "Identifizieren",
+              "text": "Senden Sie uns die Seriennummer der Maschine und die Teilenummer aus dem Handbuch oder ein Foto des Teils."
+            },
+            {
+              "title": "Bestätigen",
+              "text": "Wir gleichen das Teil mit der Dokumentation Ihrer Maschine ab und bestätigen den richtigen Artikel."
+            },
+            {
+              "title": "Angebot",
+              "text": "Sie erhalten ein Angebot mit Preis und Lieferzeit."
+            },
+            {
+              "title": "Versand",
+              "text": "Nach Eingang Ihrer Bestellung wird das Teil in unserem Werk in Pune verpackt und versandt."
+            },
+            {
+              "title": "Support",
+              "text": "Unsere Ingenieure beraten Sie telefonisch beim Einbau oder kommen auf Wunsch zu Ihnen."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "id": "critical-spares",
+          "eyebrow": "Vorausplanen",
+          "heading": "Halten Sie die Teile vor, die die Maschine stilllegen",
+          "paragraphs": [
+            "Manche Teile verschleißen vorhersehbar; andere fallen selten aus, legen die Maschine dann aber still. Ein kleiner Vorrat an kritischen Teilen vor Ort kann aus einer Woche Stillstand wenige Stunden machen. Unsere empfohlene Ersatzteilliste gewichtet die Teile nach ihrer Bedeutung für den Betrieb und ihrer Beschaffungszeit, damit Sie entscheiden können, was Sie auf Lager halten und was Sie bei Bedarf bestellen.",
+            "Wir überprüfen die Liste gemeinsam mit Ihnen, wenn die Maschine altert, wenn Komponenten abgekündigt werden und wenn ein [Retrofit](page:retro-fitment-upgradation) die Konfiguration der Maschine verändert."
+          ]
+        },
+        {
+          "type": "list",
+          "id": "enquiry-checklist",
+          "heading": "Angaben für eine Ersatzteilanfrage",
+          "cols": 2,
+          "items": [
+            "Maschinenmodell und Seriennummer",
+            "Teilenummer und Bezeichnung aus dem Handbuch",
+            "Fotos des Teils und gegebenenfalls seines Typenschilds",
+            "Benötigte Menge",
+            "Lieferadresse und etwaige Einfuhranforderungen",
+            "Dringlichkeit – steht die Maschine still?"
+          ]
+        },
+        {
+          "type": "faq",
+          "id": "faq",
+          "heading": "Häufig gestellte Fragen",
+          "items": [
+            {
+              "q": "Können Sie Teile für ältere Maschinen liefern?",
+              "a": "Ja, wo immer möglich. Wird eine Originalkomponente nicht mehr hergestellt, schlagen wir ein gleichwertiges Teil oder einen [Retrofit](page:retro-fitment-upgradation) des betroffenen Systems vor."
+            },
+            {
+              "q": "Welche Ersatzteile sollten wir vor Ort vorhalten?",
+              "a": "Fordern Sie die empfohlene Ersatzteilliste für Ihre Maschine an. Sie gewichtet die Teile nach ihrer Bedeutung und ihrer Beschaffungszeit."
+            },
+            {
+              "q": "Sind Ersatzteile in Wartungsverträgen enthalten?",
+              "a": "In einem [CMC](page:comprehensive-annual-maintenance-contract) sind sie gemäß Vertragsliste enthalten. Bei einem [AMC](page:annual-maintenance-contract) werden Teile separat angeboten."
+            },
+            {
+              "q": "Wie schnell kann ein Teil geliefert werden?",
+              "a": "Das hängt vom Teil ab. Einige Artikel sind vorrätig, andere werden auftragsbezogen gefertigt oder beschafft. Das Angebot nennt die Lieferzeit – und wenn Ihre Maschine stillsteht, sagen Sie es uns, damit wir priorisieren können."
+            },
+            {
+              "q": "Können Sie die Teile für uns einbauen?",
+              "a": "Ja. Unsere Ingenieure kommen im Rahmen eines [Servicevertrags](page:service-contract) oder als Einzeleinsatz zu Ihnen."
+            }
+          ]
+        },
+        {
+          "type": "cta",
+          "heading": "Sie benötigen ein Ersatzteil?",
+          "text": "Senden Sie uns die Seriennummer der Maschine und die Angaben zum Teil. Steht Ihre Maschine still, rufen Sie die gebührenfreie Servicenummer 1800 2100 456 an.",
+          "primary": {
+            "label": "Ersatzteile anfragen",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Kundendienstnetz",
+            "page": "service-centers"
+          }
+        }
+      ]
+    },
+    "retro-fitment-upgradation": {
+      "nav": "Retrofit & Modernisierung",
+      "title": "Retrofit & Modernisierung von Radsatzdrehmaschinen",
+      "description": "Verlängern Sie die Lebensdauer Ihrer Radsatzdrehmaschine: neue CNC-Steuerung, Antriebe, Messtechnik und Sicherheitstechnik auf solider Maschinenbasis.",
+      "eyebrow": "Service",
+      "h1": "Retrofit und Modernisierung von Radsatzdrehmaschinen",
+      "lede": "Eine gut gebaute Maschinenstruktur kann ihre Steuerung um Jahrzehnte überdauern. Ein Retrofit ersetzt, was veraltet ist, und behält, was intakt ist – so erhalten Sie eine moderne Maschine mit einem Bruchteil des Aufwands einer Neuanschaffung.",
+      "summary": "Neue CNC-Steuerungen, Antriebe, Messtechnik und Sicherheitsnachrüstungen für Maschinen mit intakter Struktur.",
+      "blocks": [
+        {
+          "type": "text",
+          "id": "overview",
+          "eyebrow": "Warum Retrofit",
+          "heading": "Struktur behalten, Intelligenz erneuern",
+          "paragraphs": [
+            "Maschinenbetten, Gestelle und Führungsbahnen sind für die Ewigkeit gebaut. Steuerungen, Antriebe und Elektronik nicht: Innerhalb von ein, zwei Jahrzehnten werden Komponenten abgekündigt, Ersatzteile werden schwer beschaffbar, und jede Störung dauert länger. Gleichzeitig bieten neuere Steuerungen bessere Diagnosefunktionen, einfachere Programmierung und eine Profilmessung, die Radmaterial spart.",
+            "Ein Retrofit löst beide Probleme. Wir begutachten die Maschine, behalten die noch intakten Teile und ersetzen die Systeme, die Verfügbarkeit oder Leistung begrenzen. Bei einer Unterflurdrehmaschine entfallen zudem die Bauarbeiten und der lange Stillstand, die eine neue Grubenmaschine erfordern würde.",
+            "Im Mittelpunkt stehen für uns HYT-Maschinen, deren Konstruktion wir bis ins Detail kennen. Stammt Ihre Maschine von einem anderen Hersteller, senden Sie uns die Daten – wir sagen Ihnen ehrlich, ob eine Begutachtung sinnvoll ist."
+          ],
+          "image": "homepage/engineering-technology",
+          "image_alt": "Beispielillustration eines modernen CNC-Bedienpults, das ein Radprofil auf dem Bildschirm zeigt",
+          "layout": "image-right"
+        },
+        {
+          "type": "features",
+          "id": "upgrades",
+          "eyebrow": "Was modernisiert werden kann",
+          "heading": "Typische Retrofit-Pakete",
+          "cols": 3,
+          "items": [
+            {
+              "icon": "cpu",
+              "title": "CNC-Steuerung",
+              "text": "Eine aktuelle Industrie-CNC mit bahnspezifischen Zyklen, Profilbibliotheken und Diagnose am Bildschirm."
+            },
+            {
+              "icon": "lightning-charge",
+              "title": "Antriebe und Motoren",
+              "text": "Neue Servo- und Hauptantriebe für zuverlässige Leistung und verfügbare Ersatzteile."
+            },
+            {
+              "icon": "rulers",
+              "title": "Messsystem",
+              "text": "Automatische Radprofilmessung, damit nur das notwendige Material abgetragen wird."
+            },
+            {
+              "icon": "droplet",
+              "title": "Hydraulik",
+              "text": "Überholte oder neue Hydraulikaggregate, Ventile und Zylinder."
+            },
+            {
+              "icon": "shield-check",
+              "title": "Sicherheit",
+              "text": "Schutzeinrichtungen, Verriegelungen und Not-Halt-Kreise auf dem aktuellen Stand der Technik."
+            },
+            {
+              "icon": "database",
+              "title": "Daten und Berichte",
+              "text": "Bearbeitungsberichte und Messprotokolle, die sich für Flotteninstandhaltungssysteme exportieren lassen."
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "id": "signs",
+          "heading": "Anzeichen, dass eine Maschine reif für einen Retrofit ist",
+          "cols": 2,
+          "items": [
+            "Ersatzteile für Steuerung oder Antriebe sind abgekündigt oder schwer zu beschaffen",
+            "Störungen lassen sich wegen begrenzter Diagnosefunktionen nur langsam eingrenzen",
+            "Die Maschine kann die Profile, die Ihre Flotte heute benötigt, nicht speichern oder messen",
+            "Messdaten müssen von Hand erfasst werden",
+            "Schutzeinrichtungen oder Verriegelungen entsprechen nicht mehr Ihren Sicherheitsstandards",
+            "Struktur und Geometrie sind noch intakt"
+          ]
+        },
+        {
+          "type": "steps",
+          "id": "process",
+          "eyebrow": "Unser Vorgehen",
+          "heading": "So läuft ein Retrofit-Projekt ab",
+          "items": [
+            {
+              "title": "Zustandsbewertung",
+              "text": "Unsere Ingenieure prüfen Struktur, Geometrie, Hydraulik und Elektrik und werten die Historie der Maschine aus."
+            },
+            {
+              "title": "Angebot",
+              "text": "Wir empfehlen einen Umfang – von einem einzelnen System bis zur Generalüberholung – mit Nutzen und Risiken jeder Option."
+            },
+            {
+              "title": "Engineering",
+              "text": "Neue Elektro-, Hydraulik- und Softwarekonstruktionen werden erstellt und die Komponenten vor dem Stillstand beschafft."
+            },
+            {
+              "title": "Stillstand und Umsetzung",
+              "text": "Die Maschine wird erst außer Betrieb genommen, wenn alle Teile bereitstehen – so bleibt die Ausfallzeit so kurz wie möglich."
+            },
+            {
+              "title": "Wiederinbetriebnahme",
+              "text": "Geometrie, Messung und Bearbeitung werden mit Ihren Radsätzen anhand vereinbarter Kriterien nachgewiesen."
+            },
+            {
+              "title": "Schulung und Übergabe",
+              "text": "Bediener und Instandhalter werden an den neuen Systemen geschult, und die Dokumentation wird aktualisiert."
+            }
+          ]
+        },
+        {
+          "type": "faq",
+          "id": "faq",
+          "heading": "Häufig gestellte Fragen",
+          "items": [
+            {
+              "q": "Retrofit oder Neumaschine – wie entscheiden wir?",
+              "a": "Sind Struktur und Geometrie intakt, ist ein Retrofit meist günstiger und vermeidet Bauarbeiten. Ist die Struktur verschlissen oder haben sich Ihre Anforderungen deutlich geändert, kann eine neue Maschine die bessere Wahl sein. Unsere Bewertung stellt beide Optionen dar."
+            },
+            {
+              "q": "Wie lange ist die Maschine außer Betrieb?",
+              "a": "Das hängt vom Umfang ab. Wir planen Engineering und Beschaffung vor dem Stillstand, sodass die Maschine nur für Montage und Wiederinbetriebnahme stillsteht."
+            },
+            {
+              "q": "Müssen unsere Bediener neu geschult werden?",
+              "a": "Ja, für die neue Steuerung und etwaige neue Funktionen. Eine [Schulung](page:training) ist Bestandteil jedes Retrofit-Projekts."
+            },
+            {
+              "q": "Können mit einem Retrofit neue Radprofile hinzukommen?",
+              "a": "Ja. Neue Profile für veränderte Flotten können im Rahmen der Modernisierung in die CNC aufgenommen werden."
+            }
+          ]
+        },
+        {
+          "type": "cta",
+          "heading": "Ist Ihre Maschine reif für eine Modernisierung?",
+          "text": "Senden Sie uns Modell, Seriennummer und die Probleme, die Sie beobachten. Wir schlagen Ihnen eine Zustandsbewertung vor.",
+          "primary": {
+            "label": "Anforderung besprechen",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Unsere Produkte entdecken",
+            "page": "products"
+          }
+        }
+      ]
+    },
+    "repair": {
+      "nav": "Reparatur",
+      "title": "Reparatur von Radsatzdrehmaschinen & Werkzeugmaschinen",
+      "description": "Störungsbehebung und Großreparaturen für HYT-Radsatzdrehmaschinen: Fehlersuche, mechanische Überholung, Hydraulik- und Elektroreparatur, vor Ort geprüft.",
+      "eyebrow": "Service",
+      "h1": "Reparatur von Radsatzdrehmaschinen und Radsatzwerkstattmaschinen",
+      "lede": "Vom plötzlichen Ausfall bis zur geplanten Überholung nach Jahren harten Einsatzes: Unsere Ingenieure finden die Ursache, beheben sie gründlich und weisen die Funktion der Maschine nach, bevor sie sie an Ihr Team zurückgeben.",
+      "summary": "Störungsbehebung und Großreparaturen: Diagnose, Mechanik-, Hydraulik- und Elektroarbeiten, vor der Übergabe geprüft.",
+      "blocks": [
+        {
+          "type": "text",
+          "id": "overview",
+          "eyebrow": "Reparatur mit Bestand",
+          "heading": "Die Ursache beheben, nicht nur das Symptom",
+          "paragraphs": [
+            "Eine Reparatur, die die Maschine nur für eine Woche wiederherstellt, kostet mehr als eine, die gleich beim ersten Mal richtig ausgeführt wird. Unsere Ingenieure suchen die eigentliche Ursache – eine verschlissene Führung, einen verschmutzten Hydraulikkreis, einen ausfallenden Sensor –, bevor sie Teile tauschen, und erklären Ihnen, was sie gefunden haben und warum es passiert ist.",
+            "Da wir die Maschine konstruiert haben, liegen uns ihre Zeichnungen, Einstellungen und Teiledaten vor. Das verkürzt die Diagnose und bedeutet, dass Reparaturen die ursprüngliche Genauigkeit wiederherstellen – nicht nur eine Annäherung daran.",
+            "Reparaturen stehen allen HYT-Kunden offen, mit oder ohne Wartungsvertrag. Bei Kunden mit einem [AMC](page:annual-maintenance-contract) oder [CMC](page:comprehensive-annual-maintenance-contract) ist die Störungsbehebung im Vertrag enthalten."
+          ],
+          "image": "company/service-maintenance",
+          "image_alt": "Beispielillustration von Ingenieuren, die eine Baugruppe einer Radsatzdrehmaschine zur Reparatur demontieren",
+          "layout": "image-right"
+        },
+        {
+          "type": "features",
+          "id": "repairs",
+          "eyebrow": "Was wir reparieren",
+          "heading": "Reparaturarten",
+          "cols": 3,
+          "items": [
+            {
+              "icon": "lightning-charge",
+              "title": "Störungsbehebung",
+              "text": "Fehlersuche und -beseitigung, um eine stillstehende Maschine wieder in Betrieb zu nehmen."
+            },
+            {
+              "icon": "gear",
+              "title": "Mechanische Überholung",
+              "text": "Schlitten, Führungsbahnen, Kugelgewindetriebe, Rollen und Spannsysteme überholt oder ersetzt."
+            },
+            {
+              "icon": "droplet",
+              "title": "Hydraulikreparatur",
+              "text": "Beseitigung von Leckagen, Überholung von Zylindern und Ventilen sowie Spülen der Hydraulikkreise."
+            },
+            {
+              "icon": "cpu",
+              "title": "Elektrik und CNC",
+              "text": "Fehler an Antrieben, Motoren, Sensoren und Steuerung diagnostiziert und behoben."
+            },
+            {
+              "icon": "exclamation-triangle",
+              "title": "Unfallschäden",
+              "text": "Begutachtung und Reparatur nach Kollisionen, Überschwemmungen oder anderen Vorfällen."
+            },
+            {
+              "icon": "rulers",
+              "title": "Wiederherstellung der Genauigkeit",
+              "text": "Geometrie und Messsystem nach der Reparatur geprüft und wiederhergestellt."
+            }
+          ]
+        },
+        {
+          "type": "steps",
+          "id": "process",
+          "eyebrow": "Ablauf",
+          "heading": "So wird eine Reparatur abgewickelt",
+          "items": [
+            {
+              "title": "Meldung",
+              "text": "Rufen Sie die gebührenfreie Servicenummer an oder schreiben Sie uns eine E-Mail mit Seriennummer der Maschine, Symptomen und etwaigen Alarmmeldungen."
+            },
+            {
+              "title": "Erstdiagnose",
+              "text": "Unser Service-Desk und unsere Ingenieure werten die Informationen mit Ihrem Team aus und verbinden sich – sofern die Maschine dies unterstützt – per Fernzugriff."
+            },
+            {
+              "title": "Planung",
+              "text": "Wir bestätigen die wahrscheinliche Ursache, die benötigten Teile und den passenden Ingenieur und nennen Ihnen eine Kostenschätzung."
+            },
+            {
+              "title": "Reparatur",
+              "text": "Der Ingenieur führt die Arbeiten vor Ort aus, oder größere Baugruppen werden in unser Werk in Pune gebracht."
+            },
+            {
+              "title": "Prüfung und Bericht",
+              "text": "Die Maschine wird geprüft, die Ergebnisse werden dokumentiert, und Sie erhalten einen Bericht mit Empfehlungen."
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "id": "report-checklist",
+          "heading": "Angaben, die die Diagnose beschleunigen",
+          "intro": "Je mehr wir wissen, bevor ein Ingenieur anreist, desto wahrscheinlicher löst schon der erste Einsatz das Problem.",
+          "cols": 2,
+          "items": [
+            "Maschinenmodell und Seriennummer",
+            "Alarmnummern und -meldungen auf der CNC",
+            "Was die Maschine tat, als der Fehler auftrat",
+            "Fotos oder kurze Videos des Symptoms",
+            "Kürzliche Änderungen, Reparaturen oder Vorfälle",
+            "Ob die Maschine stillsteht oder eingeschränkt läuft"
+          ]
+        },
+        {
+          "type": "faq",
+          "id": "faq",
+          "heading": "Häufig gestellte Fragen",
+          "items": [
+            {
+              "q": "Reparieren Sie Maschinen anderer Hersteller?",
+              "a": "Unsere Kompetenz liegt bei HYT-Maschinen, deren Konstruktion und Dokumentation uns vorliegen. Bei Fremdfabrikaten senden Sie uns die Daten – wir sagen Ihnen ehrlich, ob wir helfen können."
+            },
+            {
+              "q": "Brauchen wir einen Wartungsvertrag, um eine Reparatur zu erhalten?",
+              "a": "Nein. Reparaturen stehen allen HYT-Kunden offen. Ein [Servicevertrag](page:service-contract) legt die Sätze im Voraus fest und beschleunigt Freigaben."
+            },
+            {
+              "q": "Können Reparaturen vor Ort durchgeführt werden?",
+              "a": "Die meisten Reparaturen werden vor Ort durchgeführt. Muss eine Baugruppe bearbeitet oder vollständig überholt werden, kann sie in unser Werk in Pune gebracht werden."
+            },
+            {
+              "q": "Was, wenn die Originalteile nicht mehr erhältlich sind?",
+              "a": "Wir schlagen ein gleichwertiges Teil oder einen gezielten [Retrofit](page:retro-fitment-upgradation) des betroffenen Systems vor."
+            }
+          ]
+        },
+        {
+          "type": "cta",
+          "heading": "Maschine ausgefallen?",
+          "text": "Rufen Sie die 1800 2100 456 an und halten Sie die Seriennummer der Maschine bereit, oder senden Sie uns die Details – wir melden uns so schnell wie möglich.",
+          "primary": {
+            "label": "Störung melden",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Kundendienstnetz",
+            "page": "service-centers"
+          }
+        }
+      ]
+    },
+    "shifting": {
+      "nav": "Maschinenverlagerung",
+      "title": "Verlagerung von Sondermaschinen (SPM)",
+      "description": "Geplante Verlagerung von Sondermaschinen (SPM) wie Radsatzdrehmaschinen: Bestandsaufnahme, Demontage, Transport, Fundamentvorbereitung und Wiederinbetriebnahme.",
+      "eyebrow": "Service",
+      "h1": "Maschinenverlagerung und Umzug",
+      "lede": "Der Umzug einer Radsatzdrehmaschine oder einer anderen Sondermaschine (SPM) ist ein Projekt, kein Hebevorgang. Wir demontieren, transportieren, montieren und nehmen sie wieder in Betrieb, damit sie am neuen Standort so arbeitet wie am alten.",
+      "summary": "Bestandsaufnahme, Demontage, Transport, Wiedermontage und Wiederinbetriebnahme von Radsatzdrehmaschinen und anderen Sondermaschinen (SPM).",
+      "blocks": [
+        {
+          "type": "text",
+          "id": "overview",
+          "eyebrow": "Warum es Spezialisten braucht",
+          "heading": "Präzisionsmaschinen reisen nicht gut allein",
+          "paragraphs": [
+            "Betriebswerke werden umgebaut, Flotten ziehen in neue Hallen, Werkstätten werden neu organisiert. Dann zieht oft auch eine Sondermaschine wie eine Radsatzdrehmaschine, eine Radsatzpresse oder eine Vertikaldrehmaschine mit um. Diese Maschinen sind schwer, präzise ausgerichtet und – im Fall von Unterflurdrehmaschinen – in das Gleis eingebaut.",
+            "Ein schlecht geplanter Umzug birgt das Risiko beschädigter Baugruppen, verlorener Ausrichtung und einer langen, ungewissen Wiederinbetriebnahme. HYT plant jede Verlagerung von Anfang bis Ende: Wir dokumentieren Zustand und Genauigkeit der Maschine vor der Demontage, erstellen die neuen Fundamentzeichnungen und nehmen die Maschine am neuen Standort nach denselben Abnahmekriterien wieder in Betrieb.",
+            "Eine Verlagerung ist auch ein guter Zeitpunkt für Modernisierungen. Viele Kunden verbinden den Umzug mit einem [Retrofit](page:retro-fitment-upgradation) der Steuerung oder einer Überholung verschlissener Baugruppen."
+          ],
+          "image": "projects/installation-commissioning",
+          "image_alt": "Beispielillustration einer Baugruppe einer Radsatzdrehmaschine, die bei einer Verlagerung per Kran angehoben wird",
+          "layout": "image-right"
+        },
+        {
+          "type": "steps",
+          "id": "process",
+          "eyebrow": "Unser Vorgehen",
+          "heading": "So verlagern wir eine Maschine",
+          "items": [
+            {
+              "title": "Bestandsaufnahme",
+              "text": "Inspektion der Maschine und beider Standorte mit Dokumentation von Zustand und Genauigkeit vor dem Umzug."
+            },
+            {
+              "title": "Vorbereitung des neuen Standorts",
+              "text": "Fundament- oder Grubenzeichnungen für den neuen Standort werden bereitgestellt und die Baubereitschaft vor Beginn der Demontage geprüft."
+            },
+            {
+              "title": "Demontage",
+              "text": "Die Baugruppen werden in geplanter Reihenfolge getrennt, gekennzeichnet und dokumentiert."
+            },
+            {
+              "title": "Verpackung und Transport",
+              "text": "Präzisionsflächen werden geschützt, die Baugruppen für die Transportstrecke verpackt und gesichert."
+            },
+            {
+              "title": "Wiedermontage",
+              "text": "Die Maschine wird am neuen Standort aufgestellt, nivelliert, ausgerichtet und wieder angeschlossen."
+            },
+            {
+              "title": "Wiederinbetriebnahme",
+              "text": "Probebetrieb mit Ihren Radsätzen weist nach, dass die Maschine ihre Abnahmekriterien erfüllt."
+            }
+          ]
+        },
+        {
+          "type": "features",
+          "id": "benefits",
+          "eyebrow": "Ihr Nutzen",
+          "heading": "Beherrschtes Risiko in jeder Phase",
+          "cols": 3,
+          "items": [
+            {
+              "icon": "clipboard-check",
+              "title": "Dokumentierter Ausgangszustand",
+              "text": "Genauigkeitsprotokolle vor und nach dem Umzug belegen, dass die Maschine wie zuvor arbeitet."
+            },
+            {
+              "icon": "calendar-check",
+              "title": "Geplante Ausfallzeit",
+              "text": "Ein klarer, mit Ihnen abgestimmter Terminplan, damit die Werkstattkapazität rund um den Umzug geplant werden kann."
+            },
+            {
+              "icon": "arrow-repeat",
+              "title": "Gelegenheit zur Modernisierung",
+              "text": "Verbinden Sie den Umzug mit einer Überholung oder einem Retrofit, solange die Maschine ohnehin außer Betrieb ist."
+            }
+          ]
+        },
+        {
+          "type": "faq",
+          "id": "faq",
+          "heading": "Häufig gestellte Fragen",
+          "items": [
+            {
+              "q": "Was ist eine SPM?",
+              "a": "Eine Sondermaschine (Special Purpose Machine) – eine Werkzeugmaschine, die für eine bestimmte Aufgabe konstruiert ist, etwa das Reprofilieren von Eisenbahnrädern, das Aufpressen von Rädern auf Achswellen oder das Drehen von Achsschenkeln."
+            },
+            {
+              "q": "Können Sie eine Unterflur-Radsatzdrehmaschine verlagern?",
+              "a": "Ja. Unterflurdrehmaschinen benötigen am Zielort eine neue Grube, daher müssen die Bauarbeiten früh geplant werden. Wir liefern die Grubenzeichnungen und prüfen die Grube, bevor die Maschine umgesetzt wird."
+            },
+            {
+              "q": "Wie lange ist die Maschine außer Betrieb?",
+              "a": "Das hängt von der Maschine, der Entfernung und der Baubereitschaft am neuen Standort ab. Am wirksamsten lässt sich der Umzug verkürzen, indem das neue Fundament bzw. die neue Grube vor Beginn der Demontage vorbereitet wird – darauf richten wir den Terminplan aus."
+            },
+            {
+              "q": "Wer organisiert den Transport?",
+              "a": "Das wird je Projekt vereinbart. HYT kann den gesamten Umzug planen und steuern oder mit dem von Ihnen benannten Logistikunternehmen zusammenarbeiten."
+            },
+            {
+              "q": "Laufen Gewährleistung oder Wartungsvertrag weiter?",
+              "a": "Die Vertragsbedingungen werden im Rahmen der Verlagerung überprüft. Nach erfolgreicher Wiederinbetriebnahme kann ein [AMC](page:annual-maintenance-contract) oder [CMC](page:comprehensive-annual-maintenance-contract) am neuen Standort fortgeführt werden."
+            }
+          ]
+        },
+        {
+          "type": "cta",
+          "heading": "Planen Sie einen Umzug?",
+          "text": "Sagen Sie uns, welche Maschine von wo nach wo umziehen soll. Wir schlagen Ihnen eine Bestandsaufnahme und einen Verlagerungsplan vor.",
+          "primary": {
+            "label": "Anforderung besprechen",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Montage & Inbetriebnahme",
+            "page": "installation-commissioning"
+          }
+        }
+      ]
+    },
+    "wet-leasing": {
+      "nav": "MAAS – Machine as a Service (Wet Leasing)",
+      "title": "Machine as a Service (Wet Leasing) für Radsatzdrehmaschinen",
+      "description": "Machine as a Service: HYT stellt Radsatzdrehmaschine, Bediener und Wartung in einem Vertrag bereit – Sie bezahlen Reprofilierungskapazität statt Investitionen.",
+      "eyebrow": "Service",
+      "h1": "Machine as a Service (MAAS): Wet Leasing von Radsatzdrehmaschinen",
+      "lede": "HYT stellt die Maschine, das Bedienpersonal und die Instandhaltung, die sie am Laufen hält. Sie erhalten reprofilierte Radsätze ohne Investitionsaufwand und ohne ein eigenes Spezialistenteam aufbauen zu müssen.",
+      "summary": "Wir stellen Maschine, Bediener und Instandhaltung; Sie bezahlen Reprofilierungskapazität statt Investitionsgüter.",
+      "blocks": [
+        {
+          "type": "text",
+          "id": "overview",
+          "eyebrow": "Die Idee",
+          "heading": "Bezahlen Sie reprofilierte Räder, nicht eine Maschine",
+          "paragraphs": [
+            "Der Kauf einer Radsatzdrehmaschine bedeutet Investitionsgenehmigung, Beschaffungsverfahren, Bauarbeiten, Personalgewinnung und Schulung – bevor auch nur ein Rad bearbeitet ist. Für manche Betreiber ist das der richtige Weg. Für andere, insbesondere bei dringendem Kapazitätsbedarf oder ungewisser langfristiger Nachfrage, nicht.",
+            "Bei Machine as a Service stellt HYT eine Radsatzdrehmaschine samt geschultem Bedienpersonal und vollständiger Instandhaltung in einem Vertrag bereit. Der Begriff „Wet Leasing“ stammt aus der Luftfahrt, wo ein Flugzeug mitsamt Besatzung geleast wird. Hier kommt die Maschine ebenfalls mit ihrer Besatzung.",
+            "Sie legen die benötigte Leistung fest. Wir halten die Maschine produktiv und sind für ihre Verfügbarkeit verantwortlich. Das Vergütungsmodell – eine periodische Gebühr, ein Satz je Radsatz oder eine Kombination – wird für jedes Projekt vereinbart."
+          ],
+          "image": "products/underfloor-wheel-lathe-yul-08",
+          "image_alt": "HYT CNC-Unterflur-Radsatzdrehmaschine (YUL-08)",
+          "layout": "image-right"
+        },
+        {
+          "type": "features",
+          "id": "included",
+          "eyebrow": "Was enthalten ist",
+          "heading": "Ein Vertrag, vollständige Leistungsfähigkeit",
+          "cols": 4,
+          "items": [
+            {
+              "icon": "gear-wide-connected",
+              "title": "Die Maschine",
+              "text": "Eine geeignete HYT-Radsatzdrehmaschine, montiert und in Betrieb genommen an Ihrem Standort."
+            },
+            {
+              "icon": "people",
+              "title": "Die Besatzung",
+              "text": "Geschulte HYT-Bediener, die nach Ihrem Schichtmodell arbeiten."
+            },
+            {
+              "icon": "tools",
+              "title": "Instandhaltung",
+              "text": "Vorbeugende Wartung, Störungsbehebung und Ersatzteilmanagement durch HYT."
+            },
+            {
+              "icon": "clipboard-data",
+              "title": "Berichtswesen",
+              "text": "Dokumentation der bearbeiteten Radsätze und der Messergebnisse für Ihre Flottensysteme."
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "id": "compare",
+          "heading": "Kauf, O&M oder Machine as a Service?",
+          "columns": [
+            "",
+            "Kauf",
+            "Kauf + O&M",
+            "Machine as a Service"
+          ],
+          "rows": [
+            [
+              "Wem gehört die Maschine",
+              "Kunde",
+              "Kunde",
+              "HYT"
+            ],
+            [
+              "Wer bedient sie",
+              "Kunde",
+              "HYT",
+              "HYT"
+            ],
+            [
+              "Wer hält sie instand",
+              "Kunde oder HYT im Rahmen von AMC/CMC",
+              "HYT",
+              "HYT"
+            ],
+            [
+              "Anfangsinvestition",
+              "Maschinenpreis",
+              "Maschinenpreis",
+              "Keine für die Maschine"
+            ],
+            [
+              "Laufende Kosten",
+              "Personal, Instandhaltung und Ersatzteile",
+              "Periodische O&M-Gebühr",
+              "Vereinbarte Servicegebühr"
+            ],
+            [
+              "Ideal für",
+              "Langfristige eigene Kompetenz",
+              "Eigene Anlage ohne eigenes Drehmaschinenteam",
+              "Schnelle Kapazität, begrenztes Investitionsbudget oder vorübergehender Bedarf"
+            ]
+          ],
+          "note": "Bauarbeiten für Grube oder Fundament sowie das Vergütungsmodell werden für jedes Projekt vereinbart."
+        },
+        {
+          "type": "list",
+          "id": "fit",
+          "heading": "Wann Machine as a Service sinnvoll ist",
+          "cols": 2,
+          "items": [
+            "Ein neues Betriebswerk benötigt Reprofilierungskapazität, bevor eine Maschine beschafft werden kann",
+            "Investitionsbudgets sind knapp, Betriebsbudgets stehen jedoch zur Verfügung",
+            "Der Bedarf ist vorübergehend – eine Flotteneinführung, ein Rückstau oder eine große Revisionskampagne",
+            "Die Organisation lagert spezialisierte Instandhaltungstätigkeiten bevorzugt aus",
+            "Vor der Entscheidung für eine eigene Maschine ist eine Erprobungsphase erforderlich",
+            "Das eigene Personal ist noch nicht an CNC-Radsatzdrehmaschinen geschult"
+          ]
+        },
+        {
+          "type": "steps",
+          "id": "process",
+          "eyebrow": "Ablauf",
+          "heading": "Von der Anfrage bis zur Leistung",
+          "items": [
+            {
+              "title": "Anforderungsanalyse",
+              "text": "Flotte, Arbeitsvolumen, Standort und Laufzeit werden gemeinsam mit Ihnen betrachtet."
+            },
+            {
+              "title": "Angebot",
+              "text": "Wir empfehlen eine Maschine, ein Team und ein Vergütungsmodell."
+            },
+            {
+              "title": "Standortvorbereitung",
+              "text": "Gruben- oder Fundamentarbeiten werden vereinbart und nach HYT-Zeichnungen ausgeführt."
+            },
+            {
+              "title": "Montage",
+              "text": "Die Maschine wird montiert und mit Ihren Radsätzen in Betrieb genommen."
+            },
+            {
+              "title": "Betrieb",
+              "text": "HYT betreibt und wartet die Maschine und berichtet regelmäßig über die Leistung."
+            },
+            {
+              "title": "Vertragsende",
+              "text": "Verlängern Sie die Vereinbarung, wechseln Sie zu einem [O&M](page:operation-and-maintenance)-Modell oder planen Sie eine eigene Maschine."
+            }
+          ]
+        },
+        {
+          "type": "faq",
+          "id": "faq",
+          "heading": "Häufig gestellte Fragen",
+          "items": [
+            {
+              "q": "Worin unterscheidet sich Wet Leasing von O&M?",
+              "a": "Bei einem [O&M-Vertrag](page:operation-and-maintenance) gehört Ihnen die Maschine, und HYT betreibt und wartet sie. Bei Machine as a Service stellt HYT zusätzlich die Maschine."
+            },
+            {
+              "q": "Wer bereitet Grube oder Fundament vor?",
+              "a": "Das wird je Projekt vereinbart. HYT liefert die Zeichnungen und prüft die Arbeiten; die Bauausführung organisiert in der Regel der Kunde."
+            },
+            {
+              "q": "Welche Maschinen stehen zur Verfügung?",
+              "a": "Die Maschine wird passend zu Ihrer Flotte und Ihrem Standort ausgewählt, typischerweise eine [Unterflur-Radsatzdrehmaschine](page:underfloor-wheel-lathe). Sprechen Sie mit uns über Ihren Bedarf."
+            }
+          ]
+        },
+        {
+          "type": "cta",
+          "heading": "Kapazität ohne Investition gesucht?",
+          "text": "Erzählen Sie uns von Ihrer Flotte, Ihrem Betriebswerk und davon, wie lange Sie die Kapazität benötigen. Wir schlagen Ihnen ein Machine-as-a-Service-Modell vor.",
+          "primary": {
+            "label": "Anforderung besprechen",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Unsere Produkte entdecken",
+            "page": "products"
+          }
+        }
+      ]
+    },
+    "training": {
+      "nav": "Schulung",
+      "title": "Schulung für Bediener & Instandhalter",
+      "description": "Praxisschulungen für Bediener, CNC-Programmierer und Instandhaltungsteams an HYT-Radsatzdrehmaschinen – vor Ort, in unserem Werk oder als Auffrischung.",
+      "eyebrow": "Service",
+      "h1": "Schulung für Bediener, Programmierer und Instandhalter",
+      "lede": "Eine Maschine ist nur so gut wie die Menschen, die sie bedienen. Unsere Schulungen geben Ihrem Team das Können und die Sicherheit, präzise zu bearbeiten, sicher zu arbeiten und die Maschine in gutem Zustand zu halten.",
+      "summary": "Praxisschulungen für Bediener, Programmierer und Instandhaltungsteams – vor Ort, in unserem Werk oder als Auffrischung.",
+      "blocks": [
+        {
+          "type": "text",
+          "id": "overview",
+          "eyebrow": "Warum das wichtig ist",
+          "heading": "Qualifizierte Bediener sparen Radmaterial",
+          "paragraphs": [
+            "Jeder Millimeter, der von einer Lauffläche abgetragen wird, verkürzt die Lebensdauer des Rades. Ein Bediener, der das Messsystem versteht, das richtige Profil wählt und erkennt, wann ein Schnitt reduziert werden kann, schont die Räder und senkt die Kosten pro Kilometer. Ein Bediener ohne dieses Wissen kann aus einer präzisen Maschine eine teure machen.",
+            "Dasselbe gilt für die Instandhaltung. Teams, die wissen, was zu prüfen ist, wie der Normalzustand aussieht und wie die Diagnose der Maschine zu lesen ist, erkennen Probleme, bevor sie zu Ausfällen werden.",
+            "Unsere Trainer sind Ingenieure, die HYT-Maschinen bauen, in Betrieb nehmen und warten. Die Schulung findet nach Möglichkeit an Ihrer eigenen Maschine statt – so lernt Ihr Team an der Anlage, mit der es täglich arbeitet."
+          ],
+          "image": "company/training-session",
+          "image_alt": "Beispielillustration eines HYT-Trainers, der Mitarbeitenden eines Betriebswerks das Bedienpult einer Radsatzdrehmaschine erklärt",
+          "layout": "image-right"
+        },
+        {
+          "type": "features",
+          "id": "audiences",
+          "eyebrow": "Wen wir schulen",
+          "heading": "Programme für jede Rolle",
+          "cols": 4,
+          "items": [
+            {
+              "icon": "person-workspace",
+              "title": "Bediener",
+              "text": "Sicheres Positionieren, Messen, Profilauswahl, Bearbeitungszyklen und tägliche Pflege."
+            },
+            {
+              "icon": "code-square",
+              "title": "CNC-Programmierer",
+              "text": "Profilprogramme, Parameter, Bearbeitungsstrategien und Messdaten."
+            },
+            {
+              "icon": "wrench-adjustable",
+              "title": "Mechanische Instandhalter",
+              "text": "Schmierung, Hydraulik, Einstellungen und Austausch von Verschleißteilen."
+            },
+            {
+              "icon": "lightning-charge",
+              "title": "Elektrische Instandhalter",
+              "text": "Antriebe, Sensoren, Verriegelungen, Diagnose und Fehlersuche."
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "id": "topics",
+          "heading": "Typische Schulungsinhalte",
+          "intro": "Die Inhalte werden auf Ihre Maschine und die Erfahrung Ihres Teams zugeschnitten. Ein typisches Programm umfasst:",
+          "cols": 2,
+          "items": [
+            "Maschinenaufbau, Sicherheitsbereiche, Schutzeinrichtungen und Notfallverfahren",
+            "Fahrzeuge oder Radsätze positionieren und korrekt spannen",
+            "Radprofilmessung und Interpretation der Ergebnisse",
+            "Profile auswählen und den Materialabtrag minimieren",
+            "Bearbeitungszyklen ausführen und das fertige Profil prüfen",
+            "Tägliche, wöchentliche und periodische Wartungsarbeiten",
+            "Hydraulik-, Pneumatik- und Schmiersysteme",
+            "Alarme lesen und die CNC-Diagnose nutzen",
+            "Gängige Verschleißteile und Wendeschneidplatten wechseln",
+            "Bearbeitungs- und Wartungsdokumentation führen"
+          ]
+        },
+        {
+          "type": "list",
+          "id": "formats",
+          "heading": "Schulungsformate",
+          "cols": 2,
+          "items": [
+            "Erstschulung während Montage und Inbetriebnahme",
+            "Kurse vor Ort an Ihrer eigenen Maschine",
+            "Schulungen im HYT-Werk in Pune, auf Anfrage",
+            "Auffrischungskurse für erfahrenes Personal",
+            "Einarbeitungsschulungen für neue Teammitglieder",
+            "Schulung zu neuen Funktionen nach einem Retrofit"
+          ]
+        },
+        {
+          "type": "steps",
+          "id": "process",
+          "eyebrow": "Ablauf",
+          "heading": "So planen wir ein Schulungsprogramm",
+          "items": [
+            {
+              "title": "Bedarfsanalyse",
+              "text": "Wir stimmen Rollen, Erfahrungsstand und Ziele mit Ihnen ab."
+            },
+            {
+              "title": "Programm",
+              "text": "Theorie- und Praxiseinheiten werden in Ihr Werkstattprogramm eingeplant."
+            },
+            {
+              "title": "Durchführung",
+              "text": "Die Schulung findet nach Möglichkeit an Ihrer Maschine statt, mit gedruckten Unterlagen zum Nachschlagen."
+            },
+            {
+              "title": "Erfolgskontrolle",
+              "text": "Die Teilnehmenden zeigen die wichtigsten Tätigkeiten, und die Teilnahme wird dokumentiert."
+            }
+          ]
+        },
+        {
+          "type": "faq",
+          "id": "faq",
+          "heading": "Häufig gestellte Fragen",
+          "items": [
+            {
+              "q": "Ist bei einer neuen Maschine eine Schulung enthalten?",
+              "a": "Ja. Die Erstschulung für Bediener und Instandhalter ist Teil von [Montage und Inbetriebnahme](page:installation-commissioning)."
+            },
+            {
+              "q": "Können Sie Personal an einer mehrere Jahre alten Maschine schulen?",
+              "a": "Ja. Wir passen die Inhalte an die Konfiguration und die Steuerung der Maschine an."
+            },
+            {
+              "q": "In welcher Sprache findet die Schulung statt?",
+              "a": "Bitte nennen Sie uns bei Ihrer Anfrage Ihre bevorzugte Sprache; wir bestätigen Ihnen dann, was wir anbieten können."
+            }
+          ]
+        },
+        {
+          "type": "cta",
+          "heading": "Planen Sie die Schulung Ihres Teams",
+          "text": "Nennen Sie uns Maschine, Rollen und Teilnehmerzahl. Wir schlagen Ihnen ein Programm vor.",
+          "primary": {
+            "label": "Anforderung besprechen",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Alle Leistungen",
+            "page": "services"
+          }
+        }
+      ]
+    },
+    "service-centers": {
+      "nav": "Kundendienstnetz",
+      "title": "Kundendienstnetz & Service-Support",
+      "description": "So funktioniert der HYT-Kundendienst: Service-Desk in Pune, gebührenfreie Nummer 1800 2100 456, Servicetechniker, Ferndiagnose und Ersatzteilversand.",
+      "eyebrow": "Service",
+      "h1": "Kundendienstnetz",
+      "lede": "Eine Nummer, ein Service-Desk und Ingenieure, die Ihre Maschine kennen. So erreichen Sie uns – und das passiert nach Ihrem Anruf.",
+      "summary": "So erreichen Sie den HYT-Kundendienst und so geht es nach Ihrer Anfrage weiter.",
+      "blocks": [
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "HYT muss die Liste der Servicezentren und Außendienststandorte (Stadt, Adresse, Kontakt) zur Veröffentlichung auf dieser Seite liefern."
+        },
+        {
+          "type": "text",
+          "id": "overview",
+          "eyebrow": "So ist der Service organisiert",
+          "heading": "Koordiniert aus Pune, geleistet vor Ort",
+          "paragraphs": [
+            "Jede Serviceanfrage wird von unserem Service-Desk im HYT-Werk in Pune erfasst und koordiniert – dort, wo unsere Maschinen konstruiert und gebaut werden. Der Service-Desk hat Zugriff auf Baudokumentation, Zeichnungen und Servicehistorie jeder Maschine, sodass schon das erste Gespräch fundiert ist.",
+            "Servicetechniker kommen für Montage, vorbeugende Wartung, Störungen und Reparaturen zu Ihnen. Unterstützt eine Maschine den Fernzugriff, können unsere Ingenieure Alarme und Parameter vor der Anreise prüfen – das verkürzt oft die Diagnose und stellt sicher, dass der Techniker die richtigen Teile mitbringt.",
+            "Ersatzteile werden aus Pune versandt. Teilen Sie uns in dringenden Fällen mit, dass die Maschine stillsteht, und wir priorisieren entsprechend."
+          ],
+          "image": "company/service-maintenance",
+          "image_alt": "Beispielillustration eines HYT-Servicetechnikers, der mit einem Werkzeugkoffer in einem Bahnbetriebswerk eintrifft",
+          "layout": "image-right"
+        },
+        {
+          "type": "features",
+          "id": "network",
+          "eyebrow": "Unsere Serviceorganisation",
+          "heading": "So unterstützen wir Sie",
+          "cols": 3,
+          "items": [
+            {
+              "icon": "headset",
+              "title": "Zentraler Service-Desk",
+              "text": "Erfasst, verteilt und verfolgt jede Anfrage bis zum Abschluss – von unserem Werk in Pune aus."
+            },
+            {
+              "icon": "telephone",
+              "title": "Gebührenfreie Servicenummer",
+              "text": "Rufen Sie die 1800 2100 456 an, montags bis samstags, 9:30–18:30 Uhr IST."
+            },
+            {
+              "icon": "person-gear",
+              "title": "Servicetechniker",
+              "text": "Ingenieure, die für Montage, Wartung und Reparatur zu Ihnen kommen."
+            },
+            {
+              "icon": "wifi",
+              "title": "Ferndiagnose",
+              "text": "Sofern die Maschine dies unterstützt, werden Alarme und Parameter aus der Ferne geprüft."
+            },
+            {
+              "icon": "box-seam",
+              "title": "Ersatzteilversand",
+              "text": "Original-Ersatzteile, ermittelt anhand Ihrer Maschinendokumentation und aus Pune versandt."
+            },
+            {
+              "icon": "file-earmark-text",
+              "title": "Servicedokumentation",
+              "text": "Einsatzberichte und Maschinenhistorie werden für jede Installation geführt."
+            }
+          ]
+        },
+        {
+          "type": "steps",
+          "id": "process",
+          "eyebrow": "Wenn Sie anrufen",
+          "heading": "Was nach Ihrer Anfrage passiert",
+          "items": [
+            {
+              "title": "Anruf oder E-Mail",
+              "text": "Nutzen Sie die gebührenfreie Servicenummer oder info@hytengineering.com. Nennen Sie Maschinenmodell und Seriennummer."
+            },
+            {
+              "title": "Erfasst und zugewiesen",
+              "text": "Der Service-Desk erfasst die Anfrage und weist einen Ingenieur zu."
+            },
+            {
+              "title": "Erstdiagnose",
+              "text": "Der Ingenieur bespricht Symptome und Alarme mit Ihrem Team – wenn möglich per Fernzugriff."
+            },
+            {
+              "title": "Maßnahme",
+              "text": "Telefonische Beratung, Ersatzteilversand oder ein Einsatz vor Ort – je nachdem, was das Problem am schnellsten löst."
+            },
+            {
+              "title": "Abschluss",
+              "text": "Sie erhalten einen Bericht, und die Anfrage wird geschlossen, sobald Sie bestätigen, dass die Maschine läuft."
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "id": "before-you-call",
+          "heading": "Halten Sie diese Angaben bereit, wenn Sie uns kontaktieren",
+          "cols": 2,
+          "items": [
+            "Maschinenmodell und Seriennummer",
+            "Name und Ort des Standorts",
+            "Name und Telefonnummer eines Ansprechpartners vor Ort",
+            "Beschreibung des Problems und etwaige Alarmmeldungen",
+            "Ob die Maschine stillsteht",
+            "Ihre Vertragsart, falls Sie einen AMC, CMC oder eine andere Vereinbarung haben"
+          ]
+        },
+        {
+          "type": "contact",
+          "id": "contact",
+          "heading": "HYT-Service kontaktieren"
+        },
+        {
+          "type": "cta",
+          "heading": "Sie brauchen Hilfe mit einer HYT-Maschine?",
+          "text": "Senden Sie uns die Maschinendaten und Ihre Frage über das Kontaktformular, oder rufen Sie die gebührenfreie Servicenummer an, wenn die Maschine stillsteht.",
+          "primary": {
+            "label": "Kontakt",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Instandhaltungsleistungen",
+            "page": "maintenance"
+          }
+        }
+      ]
+    }
+  }
+}

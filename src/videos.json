@@ -1,0 +1,9 @@
+{
+  "_comment": "Product videos. 'default' applies to every product page without its own entry. type 'file' = self-hosted MP4/WebM (src, optional poster image name); type 'youtube' = YouTube video id, loaded only after the visitor clicks play (youtube-nocookie.com). Product video links supplied in HYT's product content document (19 Oct 2026). H5TlP5VMCgw is used for the YUGL only until HYT confirms which product it shows (the document also lists it for the YUGLX).",
+  "default": {"type": "file", "src": "/assets/videos/hyt-sample-machine-video.webm", "mime": "video/webm", "sample": true},
+  "underfloor-wheel-lathe-yugl": {"type": "youtube", "id": "H5TlP5VMCgw"},
+  "vertical-turning-boring-machine": {"type": "youtube", "id": "Fk6NVCZzzsI"},
+  "axle-journal-turning-burnishing-lathe": {"type": "youtube", "id": "gH-wWbbr24Y"},
+  "rail-cum-road-vehicle-shunter": {"type": "youtube", "id": "eTBb_7b1wa0"},
+  "automated-train-washing-plant": {"type": "youtube", "id": "zNroN-Wxivk"}
+}
