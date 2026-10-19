@@ -3,34 +3,23 @@
     "contact-us": {
       "nav": "Contatti",
       "title": "Contatti HYT Engineering – Torni per sale montate",
-      "description": "Contatti HYT Engineering a Pune per torni CNC per sale montate, macchine per officine ruote e assi, officine chiavi in mano o assistenza tecnica.",
+      "description": "Contatti HYT Engineering a Pune, a Nuova Delhi o presso SAFOP in Italia per torni CNC per sale montate, officine sale, officine chiavi in mano o assistenza. Rispondiamo entro 24 ore.",
       "eyebrow": "Contatti",
-      "h1": "Contatti HYT Engineering",
-      "lede": "Ci parli della Sua flotta, della Sua officina o del problema che deve risolvere. Un ingegnere applicativo Le risponderà – di solito con qualche domanda prima delle risposte.",
-      "summary": "Telefono, e-mail, indirizzo e modulo di richiesta di HYT Engineering a Pune.",
+      "h1": "Iniziamo a parlarne",
+      "lede": "Che stia pianificando una nuova officina sale, abbia bisogno di assistenza su macchinari esistenti o voglia valutare una partnership – il nostro team è pronto a risponderLe entro 24 ore.",
+      "summary": "Le nostre sedi a Pune, Nuova Delhi e Pordenone (Italia), telefono, e-mail e modulo di richiesta.",
       "blocks": [
         {
-          "type": "text",
-          "eyebrow": "Come possiamo aiutarLa",
-          "heading": "Parli con chi costruisce le macchine",
-          "paragraphs": [
-            "Alle richieste risponde direttamente il team tecnico e commerciale di HYT a Pune – persone che conoscono le macchine e le officine ferroviarie in cui lavorano. Che stia pianificando un nuovo deposito, sostituendo un vecchio tornio o richiedendo un'offerta per una singola macchina, più informazioni ci fornisce, più utile sarà la nostra prima risposta.",
-            "Tra i dati utili rientrano i tipi di veicolo e la consistenza della flotta, il campo di diametri e i profili delle ruote, lo scartamento, il numero di sale montate previsto per turno e uno schizzo del layout della Sua officina o del Suo deposito."
-          ],
-          "image": "company/corporate-office",
-          "image_alt": "Illustrazione di esempio della sede e dello stabilimento di HYT Engineering a Pune",
-          "layout": "image-right"
-        },
-        {
           "type": "contact",
-          "heading": "Recapiti"
+          "id": "locations"
         },
         {
           "type": "form",
           "id": "enquiry",
           "form": "enquiry",
-          "heading": "Invii una richiesta",
-          "intro": "Utilizzi questo modulo per richieste su prodotti, progetti e assistenza. Più dettagli ci fornisce, più precisa potrà essere la nostra prima risposta."
+          "eyebrow": "Modulo di contatto",
+          "heading": "Ci scriva un messaggio",
+          "intro": "Ci parli della Sua flotta, della Sua officina o del problema che deve risolvere. Tra i dati utili rientrano i tipi di veicolo, il campo di diametri delle ruote, lo scartamento e il numero di sale montate previsto per turno."
         },
         {
           "type": "split_cta",

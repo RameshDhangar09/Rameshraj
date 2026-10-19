@@ -275,65 +275,314 @@
     "history": {
       "nav": "Storia",
       "title": "La nostra storia – HYT Engineering dal 1977",
-      "description": "Dai piccoli trapani e torni del 1977 ai torni CNC per sale montate per ferrovie nazionali e metropolitane: le tappe che hanno segnato HYT Engineering a Pune.",
+      "description": "Dai trapani del 1977 ai primi torni per sale montate di progettazione indiana, a SAFOP in Italia e a InnoTrans 2026: le tappe che hanno segnato HYT Engineering.",
       "eyebrow": "Chi è HYT",
       "h1": "La nostra storia",
-      "lede": "Quasi cinquant'anni di costruzione di macchine utensili a Pune e il passaggio graduale dalle macchine generiche per officina alla tecnologia per ruote ferroviarie per cui oggi siamo conosciuti.",
-      "summary": "Le tappe dai nostri inizi nel 1977 ai torni CNC per sale montate per ferrovie e metropolitane.",
+      "lede": "Quasi cinquant'anni di ingegneria di precisione a Pune – dalle prime macchine per Indian Railways nel 1977 a un gruppo internazionale che comprende SAFOP S.p.A. in Italia.",
+      "summary": "Le tappe dalla nostra fondazione nel 1977 ai primi torni per sale montate di progettazione indiana, a SAFOP e ai mercati internazionali.",
       "blocks": [
         {
-          "type": "timeline",
-          "heading": "Tappe principali",
-          "intro": "Le fasi principali dello sviluppo di HYT. Ulteriori tappe datate verranno aggiunte man mano che il materiale d'archivio sarà esaminato.",
-          "items": [
-            {
-              "year": "1977",
-              "title": "Gli inizi",
-              "text": "HYT nasce a Pune come HYT Engineering Corporation, costruendo piccoli trapani e torni per officine e industrie locali."
-            },
-            {
-              "year": "1989",
-              "title": "Costituzione della società",
-              "text": "L'attività viene costituita come HYT Engineering Company Pvt. Ltd., dotandosi della struttura necessaria per affrontare commesse di ingegneria più importanti."
-            },
-            {
-              "year": "Crescita",
-              "title": "L'ingresso nei torni CNC per sale montate",
-              "text": "HYT applica la propria esperienza nelle macchine utensili alle sale montate ferroviarie ed è pioniera in India della tecnologia dei torni CNC per sale montate – torni in fossa, a pavimento e a portale, seguiti dalle macchine per officine ruote e assi."
-            },
-            {
-              "year": "Certificazioni",
-              "title": "Tre sistemi di gestione ISO",
-              "text": "I sistemi di gestione per qualità, ambiente e salute e sicurezza sul lavoro sono certificati ISO 9001:2015, ISO 14001:2015 e ISO 45001:2018. Consulti la pagina [Certificazioni](page:certifications)."
-            },
-            {
-              "year": "Internazionale",
-              "title": "Sulla scena internazionale",
-              "text": "HYT espone ad Asia Pacific Rail, Middle East Rail, Africa Rail e AusRAIL e fornisce un tornio verticale a torretta CNC alla State Railway of Thailand."
-            },
-            {
-              "year": "Oggi",
-              "title": "Ordini dagli operatori indiani di metropolitane e trasporto rapido",
-              "text": "Delhi Metro Rail Corporation aggiudica a HYT un tornio CNC tandem in fossa e National Capital Region Transport Corporation emette una lettera di accettazione per torni CNC in fossa completamente automatici. Consulti i [progetti in corso di realizzazione](page:under-execution)."
-            }
-          ]
-        },
-        {
           "type": "text",
-          "eyebrow": "Ciò che non è cambiato",
-          "heading": "Costruttori di macchine nell'anima",
+          "eyebrow": "La storia di HYT",
+          "heading": "Dai trapani a un gruppo di ingegneria globale",
           "paragraphs": [
-            "I nostri prodotti e i nostri clienti sono cambiati molto dal 1977, ma l'essenza no. Progettiamo ancora le nostre macchine internamente, le costruiamo nel nostro stabilimento e ne rispondiamo direttamente in officina.",
-            "Questa continuità è importante per gli operatori ferroviari. Un tornio per sale montate può restare in servizio per decenni, e l'azienda che lo ha costruito dovrebbe essere ancora presente per assisterlo, aggiornarlo e, un giorno, sostituirlo. Scopra di più [su HYT](page:about) o veda le [macchine che costruiamo oggi](page:products)."
+            "Fondata nel 1977 sotto la guida del Sig. Bhojraj Hemraj Teli, HYT Engineering Company è nata con la missione di costruire macchine di precisione di qualità. Partita come costruttore di trapani, HYT è diventata un gruppo di ingegneria affidabile che fornisce macchinari avanzati per la manutenzione ferroviaria, macchine utensili di precisione e soluzioni chiavi in mano a clienti in India e sui mercati internazionali."
           ],
           "image": "company/manufacturing-facility",
           "image_alt": "Illustrazione di esempio di macchine utensili in fase di montaggio nello stabilimento HYT",
           "layout": "image-right"
         },
         {
-          "type": "notice",
-          "variant": "review",
-          "text": "Da verificare da parte di HYT: solo le date 1977 e 1989 sono verificate. Si prega di fornire tappe datate (primo tornio CNC per sale montate, primo tornio in fossa, anni delle certificazioni ISO, primo ordine di esportazione, principali contratti) e fotografie d'archivio per la cronologia."
+          "type": "timeline",
+          "layout": "split",
+          "id": "era-1970s",
+          "eyebrow": "Epoca · Anni Settanta",
+          "heading": "Fondazione",
+          "items": [
+            {
+              "year": "1977",
+              "tag": "Tappa fondativa",
+              "title": "Costituzione di HYT Engineering Corporation",
+              "text": "Il Sig. Bhojraj Hemraj Teli fonda HYT Engineering Corporation a Pune con un'unica missione: costruire macchine di precisione di qualità per le ferrovie. Le prime attività si concentrano su macchine per la revisione dei motori di trazione e la rigenerazione degli indotti, ponendo le basi di un'impresa di ingegneria specializzata."
+            }
+          ]
+        },
+        {
+          "type": "timeline",
+          "layout": "split",
+          "id": "era-1980s",
+          "eyebrow": "Epoca · Anni Ottanta",
+          "heading": "Prime innovazioni",
+          "items": [
+            {
+              "year": "1981",
+              "tag": "Primo sviluppo",
+              "title": "Sviluppo e fornitura della macchina per la fresatura della mica",
+              "text": "HYT sviluppa e fornisce la macchina per la fresatura della mica – uno dei primi prodotti specializzati, che testimonia la crescente capacità dell'azienda nello sviluppo di macchine utensili di precisione per il settore ferroviario."
+            },
+            {
+              "year": "1985",
+              "tag": "Innovazione di prodotto",
+              "title": "Sviluppo e fornitura della macchina universale per indotti",
+              "text": "Viene sviluppata e fornita la macchina universale per indotti, che amplia il portafoglio HYT di macchine specializzate per la manutenzione e la revisione dei motori di trazione ferroviari."
+            },
+            {
+              "year": "1989",
+              "tag": "Costituzione della società",
+              "title": "HYT Engineering Company Pvt. Ltd.",
+              "text": "L'attività viene costituita come HYT Engineering Company Pvt. Ltd., dotandosi della struttura necessaria per affrontare commesse di ingegneria più importanti."
+            }
+          ],
+          "variant": "muted"
+        },
+        {
+          "type": "timeline",
+          "layout": "split",
+          "id": "era-1990s",
+          "eyebrow": "Epoca · Anni Novanta",
+          "heading": "Pionieri dei torni per sale montate",
+          "items": [
+            {
+              "year": "1992",
+              "tag": "Un primato indiano",
+              "title": "Il primo tornio a pavimento per sale montate di progettazione indiana",
+              "text": "Un anno decisivo. HYT sviluppa e fornisce il primo tornio a pavimento per sale montate interamente progettato e costruito in India, segnando l'ingresso dell'azienda nella tecnologia dei torni per sale montate."
+            },
+            {
+              "year": "1994",
+              "tag": "Un primato indiano",
+              "title": "Il primo tornio in fossa e il primo tornio per fuselli d'asse di progettazione indiana",
+              "text": "HYT ottiene un altro primato nazionale, sviluppando e fornendo il primo tornio in fossa per sale montate interamente progettato e costruito in India e il tornio per la tornitura e la rullatura dei fuselli d'asse."
+            }
+          ]
+        },
+        {
+          "type": "timeline",
+          "layout": "split",
+          "id": "era-2000s",
+          "eyebrow": "Epoca · Anni Duemila",
+          "heading": "L'era del CNC e la proiezione internazionale",
+          "items": [
+            {
+              "year": "2001",
+              "tag": "Espansione del gruppo",
+              "title": "Costituzione di HYT Innovative Projects Pvt. Ltd.",
+              "text": "HYT amplia il gruppo costituendo la società consociata HYT Innovative Projects Pvt. Ltd., specializzata nella produzione di tubi di precisione con la tecnologia Flow Forming, in uno stabilimento di 4.500 m² con un team di oltre 50 dipendenti."
+            },
+            {
+              "year": "2001",
+              "tag": "Salto tecnologico",
+              "title": "Dalle macchine convenzionali alle macchine CNC",
+              "text": "HYT completa il passaggio decisivo dalle macchine convenzionali al CNC, sviluppando e fornendo il tornio CNC a pavimento per sale montate e il tornio verticale CNC – e si afferma come azienda di ingegneria guidata dalla tecnologia, allineata agli standard produttivi internazionali."
+            },
+            {
+              "year": "2004",
+              "tag": "HYT diventa internazionale",
+              "title": "Ordine di esportazione – SMH Rail Sdn. Bhd., Malesia",
+              "text": "Una tappa decisiva. HYT riceve un ordine internazionale da SMH Rail Sdn. Bhd., Malesia, che dà inizio alla presenza globale dell'azienda e alla sua trasformazione in un esportatore di macchine utensili riconosciuto a livello internazionale."
+            },
+            {
+              "year": "2005",
+              "tag": "Progetto strategico",
+              "title": "Ricondizionamento di una macchina per la costruzione di sottomarini – Mazagon Dock Ltd.",
+              "text": "HYT dimostra la propria versatilità ricondizionando con successo una macchina per la costruzione di sottomarini per Mazagon Dock Ltd., estendendo le proprie competenze oltre il settore ferroviario alla difesa e all'industria pesante."
+            },
+            {
+              "year": "2007",
+              "tag": "Ordine importante",
+              "title": "Ordine di Larsen & Toubro",
+              "text": "HYT riceve da Larsen & Toubro un ordine storico per la fornitura di macchine per la produzione di dischi ruota – uno dei suoi maggiori ordini singoli, che consolida la posizione di HYT."
+            },
+            {
+              "year": "2009",
+              "tag": "Un primato indiano",
+              "title": "Impianto automatico di lavaggio treni – Kurla, Mumbai",
+              "text": "HYT sviluppa e fornisce a Indian Railways il primo impianto automatico di lavaggio treni dell'India a Kurla, Mumbai – introducendo una nuova categoria di prodotto e dimostrando la capacità di innovare oltre i torni per sale montate, nel più ampio ambito delle infrastrutture ferroviarie."
+            }
+          ],
+          "variant": "muted"
+        },
+        {
+          "type": "timeline",
+          "layout": "split",
+          "id": "era-2010s",
+          "eyebrow": "Epoca · Anni Dieci",
+          "heading": "Leadership nel chiavi in mano ed espansione globale",
+          "items": [
+            {
+              "year": "2010",
+              "tag": "Salto tecnologico",
+              "title": "Tornio verticale CNC per tornitura e alesatura",
+              "text": "HYT sviluppa e fornisce il tornio verticale CNC per tornitura e alesatura – una macchina di alta precisione per componenti di grande diametro che amplia in modo significativo il mercato servibile e le capacità tecniche dell'azienda."
+            },
+            {
+              "year": "2011",
+              "tag": "Primo progetto EPC",
+              "title": "Impianto di produzione di casse per carrozze LHB – ICF Chennai",
+              "text": "HYT entra nel settore EPC chiavi in mano con il suo primo grande progetto infrastrutturale, realizzando un impianto di produzione di casse per carrozze LHB per la Integral Coach Factory di Chennai. È il passaggio da fornitore di macchine utensili a fornitore di soluzioni infrastrutturali complete."
+            },
+            {
+              "year": "2013",
+              "tag": "Ordine record",
+              "title": "Il più grande ordine singolo di torni CNC a pavimento per sale montate – 36 macchine",
+              "text": "HYT riceve il suo più grande ordine singolo di torni CNC a pavimento per sale montate, per 36 macchine, a dimostrazione della forte domanda dei prodotti di punta dell'azienda in tutta Indian Railways."
+            },
+            {
+              "year": "2013",
+              "tag": "Leadership",
+              "title": "Sig.ra Rajashri Teli nominata Whole Time Director",
+              "text": "La Sig.ra Rajashri Bhojraj Teli viene nominata Whole Time Director e introduce strategie aziendali innovative che porteranno al gruppo una forte espansione e un riconoscimento internazionale."
+            },
+            {
+              "year": "2014",
+              "tag": "Tappa di prodotto",
+              "title": "Tornio CNC a portale per sale montate – North Central Railway, Jhansi",
+              "text": "HYT fornisce il tornio CNC a portale per sale montate all'officina di riparazione carri della North Central Railway a Jhansi, aggiungendo un'ulteriore variante al proprio portafoglio di torni per sale montate e rafforzando il rapporto con Indian Railways."
+            },
+            {
+              "year": "2015",
+              "tag": "Tappa di prodotto",
+              "title": "Torni CNC in fossa per sale montate – Chennai Metro",
+              "text": "HYT entra nel segmento delle metropolitane fornendo torni CNC in fossa per sale montate alla Chennai Metro – il primo di molti contratti metropolitani che hanno fatto di HYT un fornitore di riferimento per la crescente rete ferroviaria urbana dell'India."
+            },
+            {
+              "year": "2015",
+              "tag": "Make in India",
+              "title": "Veicolo strada-rotaia (mezzo di manovra) sviluppato con BEMO, Paesi Bassi",
+              "text": "Nell'ambito di un'iniziativa Make in India, HYT sviluppa in collaborazione con BEMO (Paesi Bassi) il veicolo strada-rotaia (mezzo di manovra) – un veicolo versatile per le operazioni negli scali ferroviari."
+            },
+            {
+              "year": "2015",
+              "tag": "Infrastrutture",
+              "title": "Inaugurata a Pune la sede centrale Green Building",
+              "text": "HYT inaugura la propria sede centrale Green Building a Chinchwad, Pune – una struttura moderna e sostenibile che diventa il polo centrale per progettazione, produzione e amministrazione."
+            },
+            {
+              "year": "2016",
+              "tag": "Trasferimento tecnologico",
+              "title": "Macchine CNC per l'avvolgimento di molle – trasferimento tecnologico da TNI Spring Technologies, USA",
+              "text": "HYT costruisce e fornisce la macchina CNC per l'avvolgimento a caldo di molle elicoidali, la macchina CNC per la rastremazione a caldo delle estremità delle barre e la macchina di ripassatura del passo per il progetto molle di ICF Chennai, su trasferimento tecnologico di TNI Spring Technologies LLC, USA – a dimostrazione della capacità di HYT di assimilare e applicare tecnologie internazionali."
+            },
+            {
+              "year": "2018",
+              "tag": "Fornitura OEM",
+              "title": "Fornitura ad Alstom e GE Diesel Locomotive Pvt. Ltd.",
+              "text": "HYT fornisce torni in fossa per sale montate di nuova generazione ad Alstom e a GE Diesel Locomotive Pvt. Ltd., entrando nella catena di fornitura OEM internazionale dei costruttori di materiale rotabile."
+            },
+            {
+              "year": "2018",
+              "tag": "Modello di servizio",
+              "title": "Noleggio con operatore (Machine as a Service) – ICF Chennai",
+              "text": "HYT introduce un contratto di noleggio con operatore per ICF Chennai, assumendosi la piena responsabilità di fornitura, messa in servizio, esercizio e manutenzione – un modello di servizio senza precedenti nel settore indiano dei macchinari ferroviari. Consulti la pagina [noleggio con operatore](page:wet-leasing)."
+            },
+            {
+              "year": "2019",
+              "tag": "Acquisizione di SAFOP",
+              "title": "Acquisizione di SAFOP S.p.A., Italia – controllata al 100%",
+              "text": "La mossa strategica più importante di HYT: l'acquisizione come società controllata di SAFOP S.p.A. di Pordenone (fondata nel 1923). Con oltre 1.400 macchine vendute nel mondo e un secolo di ingegneria di precisione italiana, SAFOP amplia in modo decisivo la presenza globale e il portafoglio tecnologico del gruppo."
+            },
+            {
+              "year": "2019",
+              "tag": "Primato nazionale",
+              "title": "Il primo impianto automatico di montaggio ruote e assi di progettazione indiana – RWF Bangalore",
+              "text": "HYT sviluppa e realizza per la Rail Wheel Factory di Bangalore il primo impianto automatico di montaggio ruote e assi interamente progettato in India – una pietra miliare nell'automazione della produzione di sale montate ferroviarie."
+            },
+            {
+              "year": "2019",
+              "tag": "Tappa nell'export",
+              "title": "Fornitura a SNCF, Francia – conforme alle norme europee",
+              "text": "HYT sviluppa e fornisce torni in fossa per sale montate a SNCF in Francia, in conformità alle norme europee – un risultato di esportazione storico che conferma la qualità di HYT sulla scena mondiale."
+            }
+          ]
+        },
+        {
+          "type": "timeline",
+          "layout": "split",
+          "id": "era-2020s",
+          "eyebrow": "Epoca · Anni Venti",
+          "heading": "Nuovi orizzonti",
+          "items": [
+            {
+              "year": "2020",
+              "tag": "Ordine record",
+              "title": "Ordine di 27 torni in fossa per sale montate – Indian Railways",
+              "text": "HYT riceve da Indian Railways un ordine per 27 torni in fossa per sale montate – uno dei maggiori ordini singoli di torni per sale montate, che rafforza la sua posizione di fornitore di riferimento per le infrastrutture di manutenzione del materiale rotabile di Indian Railways."
+            },
+            {
+              "year": "2021",
+              "tag": "Africa",
+              "title": "Tornio CNC in fossa fornito in Gabon e tornio CNC a pavimento in Ghana",
+              "text": "HYT fornisce e mette in servizio un tornio CNC in fossa per sale montate in Gabon, Africa centrale, realizzando un'officina sale completa nella regione, e consegna un tornio CNC a pavimento per sale montate in Ghana, Africa occidentale – a dimostrazione della forte domanda nel mercato ferroviario africano."
+            },
+            {
+              "year": "2021",
+              "tag": "Progetti EPC",
+              "title": "Officina sale automatizzata a New Katni e linea di lavorazione assi a RWF Bangalore",
+              "text": "HYT realizza un progetto EPC per un'officina sale automatizzata a New Katni, Madhya Pradesh – uno dei maggiori impianti di manutenzione ruote di Indian Railways – e allestisce una linea completa di lavorazione assi presso la Rail Wheel Factory di Bangalore."
+            },
+            {
+              "year": "2021",
+              "tag": "Innovazione di prodotto",
+              "title": "Il primo tornio in fossa tandem di progettazione indiana",
+              "text": "HYT sviluppa il primo tornio in fossa tandem per sale montate interamente progettato in India – una configurazione a doppia macchina per officine sale ad altissima produttività, aggiudicata da Delhi Metro Rail Corporation."
+            },
+            {
+              "year": "2022",
+              "tag": "Primato nazionale",
+              "title": "Primo deposito di manutenzione Vande Bharat – Shakur Basti, Northern Railway",
+              "text": "HYT realizza il primo deposito di manutenzione dell'India dedicato al Vande Bharat Express a Shakur Basti, per la Northern Railway – un risultato storico in concomitanza con l'entrata in servizio del treno semi-alta velocità di punta del Paese, con le macchine HYT al centro della sua manutenzione."
+            },
+            {
+              "year": "2024",
+              "tag": "Innovazione di prodotto",
+              "title": "Linea di montaggio e smontaggio carrelli – Dibrugarh",
+              "text": "HYT consegna una linea di montaggio e smontaggio carrelli a Dibrugarh per la Northeast Frontier Railway – una sofisticata soluzione di montaggio semiautomatica che porta pratiche produttive moderne in una delle regioni ferroviarie geograficamente più difficili dell'India."
+            },
+            {
+              "year": "2024",
+              "tag": "Innovazione di prodotto",
+              "title": "Grandi macchine orizzontali per la manutenzione di rotori di turbine",
+              "text": "HYT e SAFOP si aggiudicano ordini per grandi macchine orizzontali destinate alla manutenzione di rotori di turbine."
+            },
+            {
+              "year": "2025",
+              "tag": "Presenza globale",
+              "title": "Cinque fiere internazionali in quattro continenti",
+              "text": "HYT espone a Middle East Rail a Dubai, Eurasia Rail a Istanbul, Asia Pacific Rail a Bangkok, Africa Rail a Johannesburg e NT Expo a San Paolo – la più ampia presenza internazionale dell'azienda in un solo anno."
+            },
+            {
+              "year": "2025",
+              "tag": "Presenza globale",
+              "title": "Ordini dal Medio Oriente e dalla Turchia",
+              "text": "HYT si aggiudica ordini dal Medio Oriente e dalla Turchia per torni in fossa, torni in fossa tandem, torni per assi e torni verticali."
+            },
+            {
+              "year": "2026",
+              "tag": "Riconoscimenti",
+              "title": "Riconoscimento agli Hurun Stars of the Deccan per l'Amministratore Delegato",
+              "text": "La Sig.ra Rajashri Teli, Amministratore Delegato, viene premiata agli Hurun Stars of the Deccan 2026 – un riconoscimento del suo ruolo nella crescita e nell'espansione internazionale del gruppo."
+            },
+            {
+              "year": "2026",
+              "tag": "InnoTrans 2026",
+              "title": "Il Gruppo HYT espone a InnoTrans 2026, Berlino",
+              "text": "HYT Engineering e SAFOP S.p.A. espongono insieme come Gruppo HYT a InnoTrans 2026 – Padiglione 22A, stand 630 e 730, Messe Berlin, 22–25 settembre 2026 – presentando l'intera gamma di torni CNC per sale montate al principale pubblico mondiale della tecnologia dei trasporti."
+            }
+          ],
+          "variant": "muted"
+        },
+        {
+          "type": "cta",
+          "heading": "Entri a far parte del prossimo capitolo",
+          "text": "Scopra opportunità di carriera, di partnership o di business con il Gruppo HYT.",
+          "primary": {
+            "label": "Scopra le opportunità di carriera",
+            "page": "career"
+          },
+          "secondary": {
+            "label": "Contatti il nostro team",
+            "page": "contact-us"
+          }
         }
       ]
     },

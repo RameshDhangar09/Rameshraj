@@ -155,12 +155,12 @@
     },
     "surface-wheel-lathe": {
       "nav": "Tornio CNC a pavimento per sale montate",
-      "title": "Tornio CNC a pavimento YSL-08, YSL-12, YSL-21",
-      "description": "I torni CNC a pavimento HYT YSL-08, YSL-12 e YSL-21 riprofilano sale montate smontate e dischi freno a livello pavimento: niente fossa, opere civili semplici.",
+      "title": "Tornio CNC a pavimento serie YSL",
+      "description": "Torni CNC a pavimento per riprofilare sale montate ferroviarie smontate secondo il profilo di rotolamento OEM, con misura integrata prima e dopo la lavorazione.",
       "eyebrow": "Torni per sale montate",
       "h1": "Tornio CNC a pavimento per sale montate smontate dal veicolo – modelli YSL-08, YSL-12 e YSL-21",
-      "lede": "Un tornio CNC a livello del pavimento che ripristina i profili ruota e lavora i dischi freno su sale montate smontate dal veicolo. Nessuna fossa, nessun intervento sotto il binario: basta una fondazione in piano nella Sua officina.",
-      "summary": "Tornio CNC a livello del pavimento per la riprofilatura di sale montate smontate e dischi freno, disponibile nei modelli YSL-08, YSL-12 e YSL-21.",
+      "lede": "Riprofilatura di alta precisione di sale montate ferroviarie smontate dal materiale rotabile – il profilo della superficie di rotolamento viene ripristinato esattamente secondo la specifica OEM in un unico ciclo automatico.",
+      "summary": "Torni CNC a pavimento per riprofilare sale montate smontate secondo il profilo di rotolamento OEM – modelli YSL-08, YSL-12 e YSL-21.",
       "related": [
         "underfloor-wheel-lathe",
         "portal-wheel-lathe",
@@ -171,61 +171,51 @@
         {
           "type": "text",
           "id": "overview",
-          "eyebrow": "La macchina",
-          "heading": "Riprofilatura a livello del pavimento",
+          "eyebrow": "Panoramica del prodotto",
+          "heading": "Che cos'è il tornio CNC a pavimento?",
           "paragraphs": [
-            "Molte officine smontano comunque le sale montate dal veicolo – durante la revisione dei carrelli, dopo una sostituzione ruote o in occasione della manutenzione di boccole e cuscinetti. Per loro, lavorare in una fossa sotto il binario non porta alcun vantaggio. Un tornio a pavimento svolge il lavoro a livello del pavimento, dove la sala montata è facile da raggiungere, ispezionare e movimentare.",
-            "La sala montata viene fatta rotolare su rotaie all'interno della macchina, sollevata in posizione di lavoro e bloccata. Entrambe le ruote vengono misurate e tornite secondo il profilo prescritto; con configurazioni adeguate, nello stesso piazzamento si lavorano anche i dischi freno montati sulla ruota o sull'asse.",
-            "**A pavimento o in fossa?** Un [tornio in fossa](page:underfloor-wheel-lathe) riprofila le ruote mentre la sala montata resta nel veicolo. Si evita lo smontaggio, ma occorre una fossa sotto il binario. Un tornio a pavimento non richiede fossa ed è indicato per le officine in cui le sale montate vengono smontate dal veicolo nel normale ciclo di manutenzione, o in cui l'edificio non consente opere civili sotto le rotaie."
+            "Il tornio CNC a pavimento è una macchina di alta precisione progettata per la riprofilatura di sale montate ferroviarie smontate dal materiale rotabile e lavorate fuori dal veicolo.",
+            "Con il servizio sul binario, i profili di rotolamento delle ruote si usurano in modo irregolare, causando vibrazioni, rumore, minore efficienza di frenatura e rischi per la sicurezza. Il tornio CNC a pavimento ripristina il profilo di ogni ruota esattamente secondo la specifica OEM in un unico ciclo automatico.",
+            "Su questo tornio possono essere lavorate sale montate di ogni tipo di materiale rotabile – locomotive, carrozze, carri, treni metropolitani ed EMU. Un sistema di misura completamente integrato prima e dopo la lavorazione garantisce che ogni ruota sia lavorata con tolleranze esatte, riducendo al minimo l'asportazione di materiale e prolungando la vita della ruota."
           ],
           "image": "products/surface-wheel-lathe",
-          "image_alt": "Illustrazione esemplificativa di un tornio CNC a pavimento con una sala montata smontata in posizione di lavoro",
+          "image_alt": "Tornio CNC a pavimento HYT YSL-08 con una sala montata in macchina",
           "layout": "image-right"
         },
         {
           "type": "features",
           "id": "advantages",
           "eyebrow": "Vantaggi principali",
-          "heading": "Perché le officine scelgono un tornio a pavimento",
-          "cols": 3,
+          "heading": "Perché scegliere la serie YSL?",
+          "cols": 2,
           "items": [
             {
+              "icon": "arrow-left-right",
+              "title": "Ingresso e uscita automatici della sala montata",
+              "text": "Un traslatore integrato movimenta le sale montate in entrata e in uscita per una maggiore produttività."
+            },
+            {
               "icon": "bricks",
-              "title": "Nessuna fossa necessaria",
-              "text": "Installato su una fondazione in piano a livello del pavimento: le opere civili si semplificano e la macchina si adatta agli edifici esistenti."
-            },
-            {
-              "icon": "disc",
-              "title": "Ruote e dischi freno",
-              "text": "Con configurazioni adeguate i dischi freno si lavorano nello stesso piazzamento del profilo ruota – sullo YSL-08 con diametri da 250 a 700 mm."
-            },
-            {
-              "icon": "eye",
-              "title": "Accesso libero",
-              "text": "L'intera sala montata è in vista e a portata di mano per ispezione, misura e cambio utensili."
+              "title": "Robusta costruzione in ghisa a grana fine",
+              "text": "Garantisce la massima rigidità e lo smorzamento delle vibrazioni."
             },
             {
               "icon": "rulers",
-              "title": "Misura prima del taglio",
-              "text": "Le dimensioni della ruota vengono rilevate prima della lavorazione, così il CNC asporta solo il materiale necessario a ripristinare il profilo."
+              "title": "Misura intelligente dell'usura via CNC",
+              "text": "Mantiene la profondità di taglio ottimale per una precisione di lavorazione costante."
             },
             {
-              "icon": "arrows-expand",
-              "title": "Ampio campo di lavoro",
-              "text": "Lo YSL-08 accetta lunghezze dell'asse da 1200 a 2750 mm, a seconda dello scartamento – un vantaggio per le officine che servono flotte miste."
-            },
-            {
-              "icon": "lightning-charge",
-              "title": "Potenza adatta alle Sue ruote",
-              "text": "Due opzioni di azionamento principale sullo YSL-08, per adeguare la potenza di taglio alla durezza delle ruote e all'usura tipica."
+              "icon": "wifi",
+              "title": "Diagnostica remota",
+              "text": "Consente una ricerca guasti più rapida e un supporto tecnico specialistico."
             }
           ]
         },
         {
           "type": "specs",
           "id": "specifications",
-          "heading": "Specifiche tecniche",
-          "intro": "Dati pubblicati per lo YSL-08. I dati dello YSL-12 e dello YSL-21 vengono forniti con l'offerta tecnica.",
+          "heading": "Dati tecnici",
+          "intro": "Dati tecnici dei tre modelli della gamma. Ogni macchina viene configurata in base allo scartamento, ai profili ruota e ai veicoli del cliente.",
           "columns": [
             "Parametro",
             "YSL-08",
@@ -234,67 +224,103 @@
           ],
           "rows": [
             [
-              "Tipo di macchina",
-              "Tornio CNC a pavimento per sale montate",
-              "Tornio CNC a pavimento per sale montate",
-              "Tornio CNC a pavimento per sale montate"
+              "Configurazione della macchina",
+              "Sala montata smontata dal veicolo; entrambe le ruote riprofilate contemporaneamente",
+              "Sala montata smontata dal veicolo; entrambe le ruote riprofilate contemporaneamente",
+              "Sala montata smontata dal veicolo; slitta portautensili singola"
             ],
             [
-              "Diametro di rotolamento, massimo",
-              "1250 mm",
-              "Su richiesta",
-              "Su richiesta"
+              "Potenza dell'azionamento principale",
+              "2 × 45 o 55 kW",
+              "2 × 37 kW",
+              "1 × 22 kW"
             ],
             [
-              "Diametro di rotolamento, minimo",
-              "Su richiesta*",
-              "Su richiesta",
-              "Su richiesta"
+              "Velocità di taglio in profilatura",
+              "25–80 m/min",
+              "25–80 m/min",
+              "25–80 m/min"
+            ],
+            [
+              "Avanzamento della slitta portautensili in profilatura",
+              "0,1–3,5 mm/giro",
+              "0,1–3,5 mm/giro",
+              "0,1–3,5 mm/giro"
+            ],
+            [
+              "Velocità rapida della slitta portautensili, entrambi gli assi",
+              "3000 mm/min",
+              "3000 mm/min",
+              "3000 mm/min"
+            ],
+            [
+              "Sezione massima del truciolo / asportazione in profilatura",
+              "20 mm²",
+              "16 mm²",
+              "10 mm²"
+            ],
+            [
+              "Tempo ciclo per sala montata (da pavimento a pavimento)",
+              "14–16 min",
+              "16–18 min",
+              "50–60 min"
+            ],
+            [
+              "Scartamento",
+              "Secondo necessità",
+              "Secondo necessità",
+              "Secondo necessità"
+            ],
+            [
+              "Diametro di rotolamento, max / min",
+              "1250 mm / 750 mm (in funzione dello scartamento)",
+              "1250 mm / 750 mm (in funzione dello scartamento)",
+              "1250 mm / 750 mm (in funzione dello scartamento)"
             ],
             [
               "Larghezza ruota",
               "75–145 mm",
-              "Su richiesta",
-              "Su richiesta"
+              "75–145 mm",
+              "75–145 mm"
             ],
             [
-              "Lunghezza dell'asse",
-              "1200–2750 mm*",
-              "Su richiesta",
-              "Su richiesta"
+              "Carico massimo per asse / peso della sala montata",
+              "Peso della sala montata 50 kN",
+              "Peso della sala montata 50 kN",
+              "–"
             ],
             [
-              "Peso massimo della sala montata",
-              "50 kN",
-              "Su richiesta",
-              "Su richiesta"
+              "Differenza di diametro tra le due ruote",
+              "< 0,15 mm",
+              "< 0,3 mm",
+              "< 0,5 mm"
             ],
             [
-              "Diametro di lavorazione dei dischi freno",
-              "250–700 mm",
-              "Su richiesta",
-              "Su richiesta"
+              "Precisione del profilo ruota rispetto al calibro di riferimento",
+              "< 0,2 mm",
+              "< 0,2 mm",
+              "< 0,3 mm"
             ],
             [
-              "Azionamento principale",
-              "2 × 45 kW o 2 × 55 kW",
-              "Su richiesta",
-              "Su richiesta"
+              "Oscillazione radiale della ruota",
+              "< 0,2 mm",
+              "< 0,3 mm",
+              "< 0,3 mm"
             ],
             [
-              "Velocità di taglio",
-              "25–80 m/min",
-              "Su richiesta",
-              "Su richiesta"
+              "Oscillazione assiale della ruota",
+              "< 0,2 mm",
+              "< 0,3 mm",
+              "< 0,3 mm"
             ],
             [
-              "Scartamento",
-              "Secondo specifica del cliente*",
-              "Secondo specifica del cliente*",
-              "Secondo specifica del cliente*"
+              "Finitura superficiale del profilo",
+              "< 12,5 μm Ra",
+              "< 12,5 μm Ra",
+              "< 12,5 μm Ra"
             ]
           ],
-          "note": "I valori contrassegnati con * dipendono dallo scartamento e dalla configurazione del cliente. I valori definitivi, compreso il diametro di rotolamento minimo, vengono confermati nell'offerta tecnica."
+          "note": "“–” indica che per quel modello non è pubblicato alcun valore. I valori definitivi vengono confermati nell'offerta tecnica."
         },
         {
           "type": "text",
@@ -302,7 +328,7 @@
           "eyebrow": "Gamma modelli",
           "heading": "YSL-08",
           "paragraphs": [
-            "Lo YSL-08 è il modello di riferimento della gamma. Accetta sale montate con diametro di rotolamento fino a 1250 mm, larghezza ruota di 75–145 mm e peso fino a 50 kN, e lavora dischi freno con diametro da 250 a 700 mm. Un azionamento principale da 2 × 45 kW o 2 × 55 kW e velocità di taglio di 25–80 m/min Le consentono di adattare la macchina alle ruote che riprofila più spesso."
+            "Lo YSL-08 è il modello con la resa più elevata della gamma. Due slitte portautensili riprofilano contemporaneamente entrambe le ruote, con un azionamento principale da 2 × 45 o 55 kW e una sezione del truciolo fino a 20 mm². Una sala montata viene completata in 14–16 minuti da pavimento a pavimento, mantenendo la differenza di diametro tra le due ruote al di sotto di 0,15 mm."
           ]
         },
         {
@@ -311,8 +337,11 @@
           "eyebrow": "Gamma modelli",
           "heading": "YSL-12",
           "paragraphs": [
-            "Lo YSL-12 è un ulteriore modello della gamma di torni a pavimento. Capacità e configurazione vengono definite insieme a Lei in fase di richiesta e confermate nell'offerta tecnica. Ci indichi le sale montate più grandi, più piccole e più pesanti della Sua flotta e Le diremo se lo YSL-12 è la scelta giusta."
-          ]
+            "Anche lo YSL-12 riprofila contemporaneamente entrambe le ruote, con un azionamento principale da 2 × 37 kW e una sezione del truciolo fino a 16 mm². Copre gli stessi diametri di rotolamento (750–1250 mm) e le stesse larghezze ruota (75–145 mm) dello YSL-08, con un tempo da pavimento a pavimento di 16–18 minuti per sala montata."
+          ],
+          "image": "products/surface-wheel-lathe-ysl-12",
+          "image_alt": "Tornio CNC a pavimento HYT YSL-12 con una sala montata bloccata tra le teste",
+          "layout": "image-right"
         },
         {
           "type": "text",
@@ -320,13 +349,11 @@
           "eyebrow": "Gamma modelli",
           "heading": "YSL-21",
           "paragraphs": [
-            "Lo YSL-21 completa la gamma. Come per lo YSL-12, i dati tecnici sono disponibili su richiesta. Ci indichi quali veicoli e profili ruota la macchina deve coprire: Le invieremo i dati insieme a una raccomandazione sul modello più adatto alla Sua officina."
-          ]
-        },
-        {
-          "type": "notice",
-          "variant": "review",
-          "text": "In attesa di dati da HYT: dati tecnici dello YSL-12 e dello YSL-21 e conferma del diametro di rotolamento minimo dello YSL-08 (le fonti riportano 750 mm e 540 mm)."
+            "Lo YSL-21 lavora con una sola slitta portautensili e un azionamento principale da 1 × 22 kW, con una sezione del truciolo fino a 10 mm². Accetta diametri di rotolamento di 750–1250 mm e larghezze ruota di 75–145 mm, con un tempo da pavimento a pavimento di 50–60 minuti per sala montata."
+          ],
+          "image": "products/surface-wheel-lathe-ysl-21",
+          "image_alt": "Tornio CNC a pavimento HYT YSL-21",
+          "layout": "image-left"
         },
         {
           "type": "steps",
@@ -425,15 +452,15 @@
           "items": [
             {
               "image": "products/surface-wheel-lathe",
-              "caption": "Illustrazione esemplificativa di un tornio CNC a pavimento per sale montate"
+              "caption": "Tornio CNC a pavimento HYT YSL-08 con una sala montata in macchina"
             },
             {
-              "image": "products/wheelset-profile-closeup",
-              "caption": "Illustrazione esemplificativa di superficie di rotolamento e bordino riprofilati"
+              "image": "products/surface-wheel-lathe-ysl-12",
+              "caption": "Tornio CNC a pavimento HYT YSL-12"
             },
             {
-              "image": "projects/railway-wheel-shop",
-              "caption": "Illustrazione esemplificativa della movimentazione delle sale montate in un'officina sale"
+              "image": "products/surface-wheel-lathe-ysl-21",
+              "caption": "Tornio CNC a pavimento HYT YSL-21"
             },
             {
               "image": "company/quality-inspection",
@@ -452,7 +479,7 @@
             },
             {
               "q": "Quale modello devo scegliere?",
-              "a": "Parta dal diametro di rotolamento più grande, dall'asse più lungo e dalla sala montata più pesante. Lo YSL-08 copre diametri di rotolamento fino a 1250 mm e sale montate fino a 50 kN. I dati dello YSL-12 e dello YSL-21 sono forniti su richiesta, insieme alla nostra raccomandazione."
+              "a": "Parta dal diametro di rotolamento maggiore, dalla sala montata più pesante e dal volume giornaliero. Tutti e tre i modelli accettano diametri di rotolamento di 750–1250 mm (in funzione dello scartamento) e larghezze ruota di 75–145 mm. Lo YSL-08 ha il ciclo più breve (14–16 minuti da pavimento a pavimento), segue lo YSL-12 con 16–18 minuti e lo YSL-21 a slitta portautensili singola con 50–60 minuti. Confermiamo il modello giusto con la nostra raccomandazione."
             },
             {
               "q": "È possibile lavorare i dischi freno?",
@@ -473,10 +500,10 @@
     "underfloor-wheel-lathe": {
       "nav": "Tornio CNC in fossa (YUL-08)",
       "title": "Tornio CNC in fossa per sale montate YUL-08",
-      "description": "Tornio CNC in fossa HYT YUL-08: riprofila entrambe le ruote di una sala montata nel veicolo, senza smontare carrelli o timoneria freno. Azionamento 4 × 15 kW.",
+      "description": "Tornio CNC in fossa per la lavorazione in situ delle sale montate ferroviarie. Quattro rulli di trascinamento da 15 kW, diametri di rotolamento fino a 1500 mm e carichi per asse fino a 400 kN.",
       "eyebrow": "Torni per sale montate",
       "h1": "Tornio CNC in fossa YUL-08 – riprofilatura monoasse senza smontare il carrello",
-      "lede": "Lo YUL-08 riprofila le ruote usurate mentre la sala montata resta nel veicolo. I treni vengono portati sopra la fossa, lavorati e restituiti all'esercizio in un solo turno – spesso in poche ore.",
+      "lede": "Riprofilatura simultanea in situ di entrambe le ruote di una sala montata – senza smontare dal veicolo la sala montata, la timoneria freno del carrello o i coperchi delle boccole.",
       "summary": "Tornio in fossa monoasse che riprofila entrambe le ruote di una sala montata nel veicolo, senza calare i carrelli né smontare la timoneria freno.",
       "related": [
         "underfloor-wheel-lathe-yugl",
@@ -488,100 +515,145 @@
         {
           "type": "text",
           "id": "overview",
-          "eyebrow": "La macchina",
-          "heading": "Manutenzione delle ruote senza smontare il treno",
+          "eyebrow": "Panoramica del prodotto",
+          "heading": "Che cos'è il tornio CNC in fossa?",
           "paragraphs": [
-            "Sfaccettature, superfici di rotolamento concave e bordini assottigliati fanno parte della quotidianità ferroviaria. Il rimedio tradizionale – calare il carrello, estrarre la sala montata e inviarla all'officina sale – costa giorni di disponibilità e molto lavoro. Lo YUL-08 fa il contrario: porta la macchina alla sala montata.",
-            "Installato in una fossa sotto un tratto di binario rettilineo, il tornio solleva l'asse dalle rotaie sui propri rulli di trascinamento, blocca saldamente la boccola e lavora contemporaneamente entrambe le ruote. Timoneria freno, motori di trazione e telai dei carrelli restano al loro posto. Al termine del ciclo la sala montata viene riabbassata sulle rotaie e l'asse successivo viene posizionato sopra la macchina.",
-            "Poiché il veicolo resta accoppiato e assemblato, un solo YUL-08 può mantenere una grande flotta entro i limiti di profilo e ridurre il tempo di fuori servizio di ciascun treno."
+            "Il tornio CNC in fossa (modello YUL-08) è una macchina automatica per la riprofilatura simultanea in situ di ruote nuove o usurate dei veicoli ferroviari. Le sale montate di locomotive, carrozze, carri, tram e veicoli metropolitani possono essere lavorate mentre sono ancora montate sul materiale rotabile, e i dischi freno montati su tali sale possono essere lavorati sulla stessa macchina.",
+            "Installata in una fossa sotto il piano del binario, la macchina solleva e centra la sala montata su quattro rulli di trascinamento sincronizzati, quindi riprofila contemporaneamente entrambe le ruote con due slitte portautensili CNC. Ogni rullo è collegato a un motore AC da 15 kW tramite un robusto riduttore, e gli azionamenti digitali a velocità variabile consentono una regolazione continua della velocità, così la macchina può tagliare anche punti duri e sfaccettature da pattinamento.",
+            "I rulli di trascinamento sono flottanti in modo indipendente per compensare le irregolarità delle ruote e mantenere un contatto continuo, mentre un dispositivo individuale di sollevamento e bloccaggio garantisce un supporto e un serraggio rigidi dell'asse o della boccola. Tastatori a contatto misurano profilo e diametro prima e dopo la tornitura, e il software CNC utilizza questi dati di usura per suggerire la profondità di taglio più economica."
           ],
           "image": "products/underfloor-wheel-lathe-yul-08",
-          "image_alt": "Illustrazione esemplificativa del tornio in fossa YUL-08 con una sala montata di locomotiva appoggiata sui rulli di trascinamento",
+          "image_alt": "Tornio CNC in fossa HYT YUL-08 con una sala montata sui rulli di trascinamento",
           "layout": "image-right"
         },
         {
           "type": "features",
           "id": "advantages",
           "eyebrow": "Vantaggi principali",
-          "heading": "Perché le officine scelgono un tornio in fossa",
+          "heading": "Perché scegliere lo YUL-08?",
           "cols": 3,
           "items": [
             {
-              "icon": "clock-history",
-              "title": "Tempi di rotazione brevi",
-              "text": "Nessuna calata del carrello né smontaggio della sala montata: i veicoli rientrano in servizio nello stesso turno."
+              "icon": "train-front",
+              "title": "Lavorazione in situ",
+              "text": "Riprofila le sale montate senza smontarle dal veicolo, così la timoneria freno del carrello e i coperchi delle boccole restano al loro posto."
             },
             {
-              "icon": "arrows-collapse",
-              "title": "Entrambe le ruote insieme",
-              "text": "Ruota sinistra e destra vengono lavorate simultaneamente, con diametri allineati entro la tolleranza richiesta."
+              "icon": "bricks",
+              "title": "Struttura in ghisa a grana fine",
+              "text": "Garantisce stabilità dimensionale e strutturale con un efficace smorzamento delle vibrazioni."
+            },
+            {
+              "icon": "arrow-down-up",
+              "title": "Rulli di trascinamento flottanti indipendenti",
+              "text": "Compensano le irregolarità delle ruote e mantengono un contatto continuo durante tutto il taglio."
             },
             {
               "icon": "rulers",
-              "title": "Asportazione minima di materiale",
-              "text": "La misura automatica prima del taglio permette al CNC di asportare solo la profondità necessaria a ripristinare il profilo."
+              "title": "Misura elettronica dell'usura",
+              "text": "Il software CNC elabora i dati di usura e suggerisce la profondità di taglio più economica."
             },
             {
-              "icon": "train-front",
-              "title": "Una macchina, flotta mista",
-              "text": "Locomotive, carrozze, EMU e carri gestiti con adattatori idonei e programmi di profilo memorizzati."
+              "icon": "lock",
+              "title": "Dispositivo individuale di sollevamento e bloccaggio",
+              "text": "Supporto e serraggio rigidi dell'asse o della boccola, adatti ai veicoli con carichi per asse elevati."
             },
             {
-              "icon": "shield-check",
-              "title": "Funzionamento sicuro",
-              "text": "Zona di lavoro protetta, interblocchi e comandi chiari per l'operatore a livello del binario."
+              "icon": "disc",
+              "title": "Lavorazione opzionale dei dischi freno",
+              "text": "Utensili e adattatori a cambio rapido eliminano le irregolarità da entrambi i dischi freno laterali nello stesso piazzamento."
             },
             {
-              "icon": "gear-wide-connected",
-              "title": "Pensato per l'esercizio",
-              "text": "Componenti industriali standard e il supporto ricambi HYT riducono al minimo i fermi."
+              "icon": "wifi",
+              "title": "Diagnostica remota e teleassistenza",
+              "text": "Il software ad architettura aperta basato su Windows consente la manutenzione remota dalla sede centrale HYT."
             }
           ]
         },
         {
           "type": "specs",
           "id": "specifications",
-          "heading": "Specifiche tecniche",
-          "intro": "Dati principali della configurazione standard. La macchina viene adattata allo scartamento, ai profili ruota e ai tipi di veicolo del cliente.",
+          "heading": "Dati tecnici",
+          "intro": "Dati tecnici HYT. Ogni macchina viene configurata in base allo scartamento, ai profili ruota e ai veicoli del cliente.",
           "columns": [
             "Parametro",
             "YUL-08"
           ],
           "rows": [
             [
-              "Tipo di macchina",
-              "Tornio CNC sottocassa (in fossa) per sale montate, monoasse"
+              "Configurazione della macchina",
+              "Tornio in fossa singolo; sala montata lavorata in situ, compresi i dischi freno montati sulla sala"
             ],
             [
-              "Potenza motori di azionamento principale",
-              "4 × 15 kW"
+              "Potenza dell'azionamento principale",
+              "4 × 15 kW sui rulli di frizione"
             ],
             [
-              "Ruote lavorate simultaneamente",
-              "2 (una sala montata)"
+              "Velocità di taglio in profilatura",
+              "20–120 m/min"
             ],
             [
-              "Campo del diametro di rotolamento",
-              "Su richiesta*"
+              "Avanzamento della slitta portautensili in profilatura",
+              "0,1–2,5 mm/giro"
+            ],
+            [
+              "Velocità rapida della slitta portautensili, entrambi gli assi",
+              "3000 mm/min"
+            ],
+            [
+              "Sezione massima del truciolo / asportazione in profilatura",
+              "10 mm²"
+            ],
+            [
+              "Tempo ciclo per sala montata",
+              "35 minuti"
             ],
             [
               "Scartamento",
-              "Largo, normale o metrico – secondo specifica del cliente*"
+              "Secondo necessità"
             ],
             [
-              "Carico massimo per asse",
-              "Su richiesta"
+              "Diametro di rotolamento, max / min",
+              "1500 mm / 540 mm (in funzione dello scartamento)"
             ],
             [
-              "Profili",
-              "Profili ruota specificati dal cliente memorizzati nel CNC"
+              "Larghezza ruota",
+              "75–155 mm"
             ],
             [
-              "Sistema di misura",
-              "Misura automatica di diametro, altezza e spessore del bordino"
+              "Interasse delle sale montate, min – max",
+              "1800–3200 mm"
+            ],
+            [
+              "Carico massimo per asse / peso della sala montata",
+              "Carico per asse 300 / 400 kN"
+            ],
+            [
+              "Differenza di diametro tra le due ruote",
+              "< 0,10 mm"
+            ],
+            [
+              "Differenza di diametro tra le quattro ruote di un carrello",
+              "< 0,3 mm"
+            ],
+            [
+              "Precisione del profilo ruota rispetto al calibro di riferimento",
+              "< 0,2 mm"
+            ],
+            [
+              "Oscillazione radiale della ruota",
+              "< 0,1 mm"
+            ],
+            [
+              "Oscillazione assiale della ruota",
+              "< 0,15 mm"
+            ],
+            [
+              "Finitura superficiale del profilo",
+              "< 12,5 μm Ra"
             ]
           ],
-          "note": "I valori contrassegnati con * dipendono dallo scartamento e dalla configurazione del cliente. I valori definitivi vengono confermati nell'offerta tecnica."
+          "note": "I valori che dipendono dallo scartamento sono indicati nella tabella. I valori definitivi vengono confermati nell'offerta tecnica."
         },
         {
           "type": "steps",
@@ -680,7 +752,7 @@
           "items": [
             {
               "image": "products/underfloor-wheel-lathe-yul-08",
-              "caption": "Illustrazione esemplificativa dello YUL-08 installato in una fossa di manutenzione"
+              "caption": "Tornio CNC in fossa HYT YUL-08 con una sala montata sui rulli di trascinamento"
             },
             {
               "image": "products/wheelset-profile-closeup",
@@ -727,12 +799,12 @@
     },
     "underfloor-wheel-lathe-yugl": {
       "nav": "Tornio CNC in fossa (YUGL)",
-      "title": "Tornio CNC in fossa YUGL – piattaforma automatizzata",
-      "description": "Tornio CNC in fossa HYT YUGL: riprofilatura delle sale montate nel veicolo su piattaforma configurata per maggiore automazione. Modello affine allo YUL-08.",
+      "title": "Tornio CNC in fossa YUGL",
+      "description": "Il tornio in fossa di punta di HYT riprofila contemporaneamente entrambe le ruote di una sala montata, senza smontare la sala montata dal materiale rotabile.",
       "eyebrow": "Torni per sale montate",
-      "h1": "Tornio CNC in fossa YUGL – la piattaforma sottocassa di nuova generazione per una maggiore automazione",
-      "lede": "Come lo YUL-08, lo YUGL riprofila le sale montate mentre restano nel veicolo. È pensato per i depositi che vogliono automatizzare una parte maggiore del ciclo – posizionamento, misura e gestione dei dati.",
-      "summary": "Tornio in fossa di nuova generazione per la riprofilatura nel veicolo, pensato per i depositi che richiedono un grado di automazione più elevato.",
+      "h1": "Tornio CNC in fossa YUGL – il modello di punta HYT per la riprofilatura delle ruote in situ",
+      "lede": "Il tornio per sale montate di punta di HYT – riprofilatura simultanea di entrambe le ruote di una sala montata senza smontarla dal materiale rotabile.",
+      "summary": "Il tornio in fossa di punta di HYT: riprofila contemporaneamente entrambe le ruote di una sala montata senza smontarla dal materiale rotabile.",
       "related": [
         "underfloor-wheel-lathe",
         "tandem-underfloor-wheel-lathe-yuglx",
@@ -743,109 +815,154 @@
         {
           "type": "text",
           "id": "overview",
-          "eyebrow": "La macchina",
-          "heading": "Stesso principio, più automazione",
+          "eyebrow": "Panoramica del prodotto",
+          "heading": "Che cos'è il tornio CNC in fossa?",
           "paragraphs": [
-            "Come ogni tornio in fossa, lo YUGL è installato in una fossa sotto il binario. Il veicolo viene portato sopra la macchina, la sala montata viene sollevata dalle rotaie ed entrambe le ruote vengono riprofilate mentre timoneria freno, motori di trazione e telai dei carrelli restano al loro posto.",
-            "Se lo [YUL-08](page:underfloor-wheel-lathe) è la consolidata macchina monoasse di HYT, lo YUGL si propone come piattaforma di nuova generazione. È destinato ai depositi in cui il tornio esegue molti cicli al giorno, gli operatori cambiano da un turno all'altro e i dati di lavorazione devono confluire nei registri di manutenzione. Grado di automazione, dotazione di misura e interfacce dati vengono concordati con ciascun cliente.",
-            "Sta confrontando i due modelli? I nostri ingegneri applicativi Le illustreranno le differenze in relazione alla Sua flotta, al carico di lavoro e ai sistemi del deposito."
+            "Il tornio CNC in fossa (modello YUGL) è il prodotto di punta di HYT: una macchina automatica progettata per la profilatura simultanea di ruote nuove o usurate dei veicoli ferroviari senza smontare le sale montate dal materiale rotabile.",
+            "Installata in una fossa sotto il piano del binario, la macchina solleva e centra ogni sala montata mediante rulli di trascinamento sincronizzati, quindi riprofila con precisione entrambe le ruote contemporaneamente con due slitte portautensili CNC, ripristinando il profilo della superficie di rotolamento secondo la specifica originale.",
+            "Le sale montate di ogni tipo di materiale rotabile – locomotive, carrozze, carri, treni metropolitani ed EMU – possono essere tornite su questa macchina allo stato montato. Un sistema di misura completamente integrato prima e dopo la lavorazione garantisce che ogni ruota sia lavorata con tolleranze esatte, riducendo al minimo l'asportazione di materiale e prolungando la vita della ruota."
           ],
           "image": "products/underfloor-wheel-lathe-yugl",
-          "image_alt": "Illustrazione esemplificativa di un tornio in fossa YUGL nella fossa di un deposito sotto un veicolo passeggeri",
+          "image_alt": "Tornio CNC in fossa HYT YUGL con rulli di trascinamento e due slitte portautensili CNC",
           "layout": "image-right"
-        },
-        {
-          "type": "notice",
-          "variant": "review",
-          "text": "In attesa di conferma da HYT: in che cosa lo YUGL differisce tecnicamente dallo YUL-08 (livello di automazione, azionamenti, sistema di misura, capacità) e se entrambi i modelli restano in vendita. Il posizionamento descritto in questa pagina è provvisorio."
         },
         {
           "type": "features",
           "id": "advantages",
           "eyebrow": "Vantaggi principali",
-          "heading": "Che cosa offre lo YUGL",
+          "heading": "Perché scegliere lo YUGL?",
           "cols": 3,
           "items": [
             {
-              "icon": "cpu",
-              "title": "Automazione configurabile",
-              "text": "Le sequenze, dal posizionamento alla misura finale, possono essere automatizzate per ridurre i passaggi manuali tra un ciclo e l'altro."
-            },
-            {
-              "icon": "clipboard-data",
-              "title": "Registri di lavorazione",
-              "text": "Misure prima e dopo la lavorazione memorizzate per ogni sala montata, a supporto della manutenzione su condizione."
-            },
-            {
-              "icon": "people",
-              "title": "Risultati costanti in ogni turno",
-              "text": "Operatività guidata e profili memorizzati rendono i risultati meno dipendenti dall'esperienza del singolo."
-            },
-            {
-              "icon": "clock-history",
-              "title": "Nessuno smontaggio",
-              "text": "La sala montata resta nel veicolo, così i treni rientrano in servizio nello stesso turno."
+              "icon": "bricks",
+              "title": "Robusta costruzione a doppio montante",
+              "text": "Realizzata in ghisa a grana fine per la massima rigidità e precisione di lavorazione."
             },
             {
               "icon": "arrows-collapse",
-              "title": "Entrambe le ruote insieme",
-              "text": "Ruota sinistra e destra lavorate contemporaneamente per diametri allineati."
+              "title": "Sollevamento sincronizzato della sala montata",
+              "text": "Quattro rulli di trascinamento sollevano e centrano automaticamente la sala montata con un controllo di precisione in retroazione."
             },
             {
-              "icon": "train-lightrail-front",
-              "title": "Fatto per flotte molto sollecitate",
-              "text": "Adatto ai depositi metro ed EMU, dove la riprofilatura è frequente e le finestre di manutenzione sono brevi."
+              "icon": "rulers",
+              "title": "Misura intelligente dell'usura via CNC",
+              "text": "Ottimizza la profondità di taglio per una profilatura uniforme delle ruote e una maggiore durata degli utensili."
+            },
+            {
+              "icon": "display",
+              "title": "Comando centralizzato della macchina",
+              "text": "Un'unica postazione operatore gestisce misura, lavorazione e monitoraggio del processo."
+            },
+            {
+              "icon": "tools",
+              "title": "Sistema di cambio rapido degli utensili",
+              "text": "Riduce i tempi di attrezzaggio e aumenta la produttività complessiva della macchina."
             }
           ]
         },
         {
           "type": "specs",
           "id": "specifications",
-          "heading": "Specifiche tecniche",
-          "intro": "Lo YUGL viene configurato per ciascun progetto. I dati vengono confermati nell'offerta tecnica.",
+          "heading": "Dati tecnici",
+          "intro": "Dati tecnici HYT. Ogni macchina viene configurata in base allo scartamento, ai profili ruota e ai veicoli del cliente.",
           "columns": [
             "Parametro",
-            "YUGL"
+            "YUGL 30",
+            "YUGL 15"
           ],
           "rows": [
             [
-              "Tipo di macchina",
-              "Tornio CNC sottocassa (in fossa) per sale montate, monoasse"
+              "Configurazione della macchina",
+              "Tornio in fossa singolo; sala montata riprofilata in situ, senza smontaggio",
+              "Tornio in fossa singolo per veicoli urbani; sala montata riprofilata in situ"
             ],
             [
-              "Ruote lavorate simultaneamente",
-              "2 (una sala montata)"
+              "Potenza dell'azionamento principale",
+              "4 × 13,5 kW sui rulli di frizione",
+              "4 × 9 kW sui rulli di frizione"
             ],
             [
-              "Azionamento principale",
-              "Su richiesta"
+              "Velocità di taglio in profilatura",
+              "20–120 m/min (opzionale 20–300 m/min)",
+              "20–120 m/min (opzionale 20–300 m/min)"
             ],
             [
-              "Campo del diametro di rotolamento",
-              "Su richiesta*"
+              "Avanzamento della slitta portautensili in profilatura",
+              "0,1–2,5 mm/giro",
+              "0,1–2,5 mm/giro"
+            ],
+            [
+              "Velocità rapida della slitta portautensili, entrambi gli assi",
+              "Carro longitudinale 5000 mm/min; slitta verticale 3000 mm/min",
+              "Carro longitudinale 5000 mm/min; slitta verticale 3000 mm/min"
+            ],
+            [
+              "Sezione massima del truciolo / asportazione in profilatura",
+              "10 mm²",
+              "6 mm²"
+            ],
+            [
+              "Tempo ciclo per sala montata",
+              "30 minuti",
+              "30 minuti"
             ],
             [
               "Scartamento",
-              "Secondo specifica del cliente*"
+              "1000–1676 mm",
+              "1000–1676 mm"
             ],
             [
-              "Carico massimo per asse",
-              "Su richiesta"
+              "Diametro di rotolamento, max / min",
+              "1600 mm / 580 mm",
+              "1250 mm / 375 mm"
             ],
             [
-              "Sistema di misura",
-              "Su richiesta"
+              "Larghezza ruota",
+              "75–155 mm",
+              "75–155 mm"
             ],
             [
-              "Grado di automazione",
-              "Configurato secondo le esigenze del cliente"
+              "Interasse delle sale montate, min – max",
+              "1700–3200 mm",
+              "1700–3200 mm"
             ],
             [
-              "Interfaccia dati verso i sistemi del deposito",
-              "Su richiesta"
+              "Carico massimo per asse / peso della sala montata",
+              "30 t (40 t su richiesta)",
+              "18 t"
+            ],
+            [
+              "Differenza di diametro tra le due ruote",
+              "< 0,10 mm",
+              "< 0,10 mm"
+            ],
+            [
+              "Differenza di diametro tra le quattro ruote di un carrello",
+              "< 0,3 mm",
+              "< 0,3 mm"
+            ],
+            [
+              "Precisione del profilo ruota rispetto al calibro di riferimento",
+              "< 0,2 mm",
+              "< 0,2 mm"
+            ],
+            [
+              "Oscillazione radiale della ruota",
+              "< 0,10 mm",
+              "< 0,10 mm"
+            ],
+            [
+              "Oscillazione assiale della ruota",
+              "< 0,15 mm",
+              "< 0,15 mm"
+            ],
+            [
+              "Finitura superficiale del profilo",
+              "< 12,5 μm Ra",
+              "< 12,5 μm Ra"
             ]
           ],
-          "note": "I valori contrassegnati con * dipendono dallo scartamento e dalla configurazione del cliente. I valori definitivi vengono confermati nell'offerta tecnica."
+          "note": "I valori definitivi vengono confermati nell'offerta tecnica."
         },
         {
           "type": "steps",
@@ -939,7 +1056,7 @@
           "items": [
             {
               "image": "products/underfloor-wheel-lathe-yugl",
-              "caption": "Illustrazione esemplificativa del tornio in fossa YUGL"
+              "caption": "Tornio CNC in fossa HYT YUGL con rulli di trascinamento e due slitte portautensili CNC"
             },
             {
               "image": "projects/metro-depot",
@@ -962,7 +1079,7 @@
           "items": [
             {
               "q": "In che cosa lo YUGL differisce dallo YUL-08?",
-              "a": "Entrambi sono torni in fossa monoasse che riprofilano le sale montate nel veicolo. Lo [YUL-08](page:underfloor-wheel-lathe) è il modello consolidato; lo YUGL si propone come piattaforma di nuova generazione con un grado di automazione più elevato. Le differenze di dettaglio dipendono dalla configurazione: ci chieda un confronto diretto per la Sua flotta."
+              "a": "Entrambi sono torni in fossa monoasse che riprofilano le sale montate nel veicolo. Lo YUGL è disponibile come YUGL 30 (4 × 13,5 kW, diametri di rotolamento 580–1600 mm, carico per asse 30 t) e come YUGL 15 per veicoli urbani. Lo [YUL-08](page:underfloor-wheel-lathe) dispone di un azionamento da 4 × 15 kW su rulli flottanti indipendenti, diametri di rotolamento di 540–1500 mm e carichi per asse di 300 / 400 kN, e può lavorare anche i dischi freno. I nostri ingegneri Le consiglieranno il modello più adatto alla Sua flotta."
             },
             {
               "q": "La sala montata deve essere smontata dal veicolo?",
@@ -987,10 +1104,10 @@
     "tandem-underfloor-wheel-lathe": {
       "nav": "Tornio CNC in fossa tandem (YUL-12T)",
       "title": "Tornio CNC in fossa tandem per sale montate YUL-12T",
-      "description": "Tornio in fossa tandem HYT YUL-12T: due macchine sincronizzate riprofilano entrambe le sale montate di un carrello nel veicolo. Diametro ruota 540–1500 mm.",
+      "description": "Due torni in fossa in tandem che riprofilano contemporaneamente in situ entrambe le sale montate di un carrello. Interasse regolabile da 1800 a 3100 mm.",
       "eyebrow": "Torni per sale montate",
       "h1": "Tornio CNC in fossa tandem YUL-12T – entrambe le sale montate di un carrello in un unico piazzamento",
-      "lede": "Due torni in fossa sincronizzati lavorano affiancati per riprofilare un intero carrello mentre resta sotto il veicolo. Una macchina è fissa, l'altra trasla per adattarsi al passo del carrello.",
+      "lede": "Due torni in fossa che lavorano come uno solo – riprofilano contemporaneamente in situ due sale montate sul veicolo, riducendo fino alla metà il tempo di riprofilatura.",
       "summary": "Due torni in fossa sincronizzati che riprofilano entrambe le sale montate di un carrello in un unico piazzamento, riducendo i tempi di riprofilatura per veicolo.",
       "related": [
         "underfloor-wheel-lathe",
@@ -1002,108 +1119,145 @@
         {
           "type": "text",
           "id": "overview",
-          "eyebrow": "La macchina",
-          "heading": "Due sale montate, un piazzamento",
+          "eyebrow": "Panoramica del prodotto",
+          "heading": "Che cos'è il tornio CNC in fossa tandem?",
           "paragraphs": [
-            "Su un tornio in fossa singolo, le sale montate di un carrello vengono lavorate una dopo l'altra: il veicolo viene spostato, l'asse successivo posizionato e il ciclo ricomincia. Lo YUL-12T elimina questo passaggio. Due macchine installate in un'unica fossa lavorano in tandem sincronizzato, così entrambe le sale montate di un carrello vengono riprofilate insieme.",
-            "Un'unità è fissa; la seconda trasla lungo la fossa per adattarsi al passo del carrello. Un'unica installazione può quindi servire veicoli con carrelli di tipo diverso – dalle locomotive alle carrozze e agli elettrotreni – senza modifiche alla fondazione.",
-            "I dati HYT mostrano che il funzionamento in tandem riduce i tempi di riprofilatura del 50% per le carrozze e del 33% per le locomotive rispetto a una macchina singola. Per una piattaforma pensata per un grado di automazione più elevato, confronti lo [YUGLX](page:tandem-underfloor-wheel-lathe-yuglx)."
+            "Il tornio CNC in fossa tandem (modello YUL-12T) è una coppia di torni in fossa installati su una fondazione comune e con infrastrutture condivise. Due sale montate sul veicolo vengono riprofilate contemporaneamente in situ, senza smontare le sale montate, la timoneria freno del carrello, i coperchi delle boccole o qualsiasi altro componente del veicolo ferroviario.",
+            "Una macchina è fissa e la seconda è fissa o mobile, così la coppia si adatta ai diversi passi dei vari carrelli. L'interasse standard tra le due macchine va da 1800 a 3100 mm e può essere modificato in base a esigenze specifiche.",
+            "I due sistemi CNC comunicano tra loro e si scambiano dati, mantenendo la differenza di diametro tra tutte e quattro le ruote di un carrello al di sotto di 0,3 mm. Le macchine possono funzionare anche con comando indipendente, così è possibile lavorare una sola sala montata quando serve, e i dischi freno di entrambe le sale montate possono essere torniti contemporaneamente."
           ],
           "image": "products/tandem-underfloor-wheel-lathe-yul-12t",
-          "image_alt": "Illustrazione esemplificativa di due torni in fossa sincronizzati sotto un carrello",
+          "image_alt": "Tornio CNC in fossa tandem HYT YUL-12T – due torni in fossa su una fondazione comune",
           "layout": "image-right"
         },
         {
           "type": "features",
           "id": "advantages",
           "eyebrow": "Vantaggi principali",
-          "heading": "Che cosa cambia in deposito con il funzionamento in tandem",
+          "heading": "Perché scegliere lo YUL-12T?",
           "cols": 3,
           "items": [
             {
-              "icon": "stopwatch",
-              "title": "Tempi di riprofilatura più brevi",
-              "text": "Il 50% di tempo in meno per le carrozze e il 33% in meno per le locomotive rispetto a una macchina singola (dati HYT)."
+              "icon": "clock-history",
+              "title": "Due sale montate in un ciclo",
+              "text": "Il tempo di riprofilatura si riduce fino al 50% e il materiale rotabile torna più rapidamente in servizio commerciale."
             },
             {
-              "icon": "arrows-move",
-              "title": "Passo regolabile",
-              "text": "L'unità traslante viene posizionata in base al carrello, così una sola fossa serve più tipi di veicolo."
+              "icon": "arrows-expand",
+              "title": "Interasse regolabile",
+              "text": "Da 1800 a 3100 mm di serie, per coprire i diversi passi dei vari carrelli."
             },
             {
-              "icon": "train-front",
-              "title": "Meno movimentazioni del veicolo",
-              "text": "Nessuna manovra tra i due assi di un carrello – meno tempo, meno movimentazioni e meno rischi."
+              "icon": "diagram-3",
+              "title": "Comando sincronizzato o indipendente",
+              "text": "I due sistemi CNC comunicano e si scambiano dati, e ciascuna macchina può anche lavorare da sola."
             },
             {
-              "icon": "aspect-ratio",
-              "title": "Ampio campo di diametri",
-              "text": "Diametri di rotolamento da 540 a 1500 mm coprono un'ampia gamma di veicoli."
+              "icon": "bullseye",
+              "title": "Precisione a livello di carrello",
+              "text": "La differenza di diametro tra le quattro ruote di un carrello è mantenuta al di sotto di 0,3 mm."
             },
             {
-              "icon": "speedometer",
-              "title": "Velocità di taglio flessibile",
-              "text": "20–120 m/min, in funzione del materiale della ruota e dello stato di usura."
+              "icon": "building",
+              "title": "Infrastruttura comune",
+              "text": "Entrambe le macchine condividono un'unica fondazione e gli stessi servizi, semplificando l'installazione."
             },
             {
-              "icon": "arrows-collapse",
-              "title": "Ruote allineate su tutto il carrello",
-              "text": "Entrambe le sale montate vengono misurate e lavorate nello stesso piazzamento, il che rende più facile controllare l'allineamento dei diametri sull'intero carrello."
+              "icon": "disc",
+              "title": "Lavorazione simultanea dei dischi freno",
+              "text": "I dischi di entrambe le sale montate possono essere torniti nello stesso ciclo grazie al cambio rapido degli utensili."
+            },
+            {
+              "icon": "rulers",
+              "title": "Misura con tastatore o laser",
+              "text": "Misura automatica di profilo e diametro prima e dopo la tornitura, con dati memorizzati nel sistema CNC."
             }
           ]
         },
         {
           "type": "specs",
           "id": "specifications",
-          "heading": "Specifiche tecniche",
-          "intro": "Dati principali della configurazione standard. La macchina viene adattata allo scartamento, ai passi dei carrelli e ai profili ruota del cliente.",
+          "heading": "Dati tecnici",
+          "intro": "Dati tecnici HYT. Ogni macchina viene configurata in base allo scartamento, ai profili ruota e ai veicoli del cliente.",
           "columns": [
             "Parametro",
             "YUL-12T"
           ],
           "rows": [
             [
-              "Tipo di macchina",
-              "Tornio CNC sottocassa (in fossa) tandem per sale montate – due macchine sincronizzate"
+              "Configurazione della macchina",
+              "Due torni in fossa su una fondazione comune; interasse 1800–3100 mm di serie"
             ],
             [
-              "Configurazione",
-              "Una macchina fissa, una macchina traslante per adattarsi al passo del carrello"
+              "Potenza dell'azionamento principale",
+              "4 × 15 kW sui rulli di frizione, per ciascuna macchina"
             ],
             [
-              "Sale montate lavorate per piazzamento",
-              "2 (un carrello)"
+              "Velocità di taglio in profilatura",
+              "20–120 m/min (opzionale 20–300 m/min)"
             ],
             [
-              "Potenza motori di azionamento principale",
-              "4 × 15 kW"
+              "Avanzamento della slitta portautensili in profilatura",
+              "0,1–2,5 mm/giro"
             ],
             [
-              "Campo del diametro di rotolamento",
-              "540–1500 mm"
+              "Velocità rapida della slitta portautensili, entrambi gli assi",
+              "3000 mm/min"
             ],
             [
-              "Velocità di taglio",
-              "20–120 m/min"
+              "Sezione massima del truciolo / asportazione in profilatura",
+              "10 mm²"
             ],
             [
-              "Campo del passo carrello",
-              "Su richiesta*"
+              "Tempo ciclo per sala montata",
+              "35 minuti"
             ],
             [
               "Scartamento",
-              "Secondo specifica del cliente*"
+              "Secondo necessità"
             ],
             [
-              "Carico massimo per asse",
-              "Su richiesta"
+              "Diametro di rotolamento, max / min",
+              "1500 mm / 540 mm (in funzione dello scartamento)"
             ],
             [
-              "Tempo di riprofilatura rispetto alla macchina singola",
-              "Inferiore del 50% per le carrozze, del 33% per le locomotive (dati HYT)"
+              "Larghezza ruota",
+              "75–155 mm"
+            ],
+            [
+              "Interasse delle sale montate, min – max",
+              "1800–3200 mm"
+            ],
+            [
+              "Carico massimo per asse / peso della sala montata",
+              "Carico per asse 300 / 400 kN"
+            ],
+            [
+              "Differenza di diametro tra le due ruote",
+              "< 0,10 mm"
+            ],
+            [
+              "Differenza di diametro tra le quattro ruote di un carrello",
+              "< 0,3 mm"
+            ],
+            [
+              "Precisione del profilo ruota rispetto al calibro di riferimento",
+              "< 0,2 mm"
+            ],
+            [
+              "Oscillazione radiale della ruota",
+              "< 0,10 mm"
+            ],
+            [
+              "Oscillazione assiale della ruota",
+              "< 0,15 mm"
+            ],
+            [
+              "Finitura superficiale del profilo",
+              "< 12,5 μm Ra"
             ]
           ],
-          "note": "I valori contrassegnati con * dipendono dallo scartamento e dalla configurazione del cliente. I valori definitivi vengono confermati nell'offerta tecnica."
+          "note": "I valori che dipendono dallo scartamento sono indicati nella tabella. I valori definitivi vengono confermati nell'offerta tecnica."
         },
         {
           "type": "steps",
@@ -1203,7 +1357,7 @@
           "items": [
             {
               "image": "products/tandem-underfloor-wheel-lathe-yul-12t",
-              "caption": "Illustrazione esemplificativa del tornio in fossa tandem YUL-12T"
+              "caption": "Tornio CNC in fossa tandem HYT YUL-12T – due torni in fossa su una fondazione comune"
             },
             {
               "image": "projects/pit-foundation-civil-works",
@@ -1226,7 +1380,7 @@
           "items": [
             {
               "q": "Quanto tempo fa risparmiare un tornio tandem?",
-              "a": "I dati HYT mostrano una riduzione dei tempi di riprofilatura del 50% per le carrozze e del 33% per le locomotive rispetto a una singola macchina in fossa. Il risparmio effettivo dipende dai Suoi veicoli e dall'organizzazione del deposito."
+              "a": "La lavorazione di entrambe le sale montate di un carrello in un unico ciclo riduce il tempo di riprofilatura fino al 50% rispetto a una singola macchina in fossa. Il risparmio effettivo dipende dai Suoi veicoli e dall'organizzazione del deposito."
             },
             {
               "q": "Come gestisce la macchina passi del carrello diversi?",
@@ -1238,7 +1392,7 @@
             },
             {
               "q": "Qual è la differenza tra YUL-12T e YUGLX?",
-              "a": "Entrambi sono torni in fossa tandem. Lo YUL-12T è il modello consolidato con i dati riportati in questa pagina. Lo [YUGLX](page:tandem-underfloor-wheel-lathe-yuglx) si propone come piattaforma tandem di nuova generazione con un grado di automazione più elevato. Saremo lieti di confrontarli per la Sua flotta."
+              "a": "Entrambi sono torni in fossa tandem. Lo YUL-12T dispone di un azionamento da 4 × 15 kW per macchina, di un interasse standard di 1800–3100 mm e di diametri di rotolamento di 540–1500 mm. Nello [YUGLX](page:tandem-underfloor-wheel-lathe-yuglx) la macchina mobile scorre su guide lineari a controllo CNC; copre un campo di passo di 1700–3200 mm e, nella versione YUGLX 30, diametri di rotolamento fino a 1600 mm. I nostri ingegneri Le consiglieranno il modello più adatto alla Sua flotta."
             },
             {
               "q": "Una macchina singola è sufficiente per il mio deposito?",
@@ -1250,12 +1404,12 @@
     },
     "tandem-underfloor-wheel-lathe-yuglx": {
       "nav": "Tornio CNC in fossa tandem (YUGLX)",
-      "title": "Tornio CNC in fossa tandem YUGLX – piattaforma automatizzata",
-      "description": "Tornio in fossa tandem HYT YUGLX: macchine sincronizzate riprofilano un intero carrello nel veicolo, su piattaforma configurata per una maggiore automazione.",
+      "title": "Tornio CNC in fossa tandem YUGLX",
+      "description": "Due torni CNC in fossa sincronizzati che riprofilano contemporaneamente tutte le sale montate di una carrozza o di una locomotiva, senza disaccoppiare il convoglio.",
       "eyebrow": "Torni per sale montate",
-      "h1": "Tornio CNC in fossa tandem YUGLX – piattaforma tandem di nuova generazione per la riprofilatura automatizzata dei carrelli",
-      "lede": "Lo YUGLX applica il principio tandem – entrambe le sale montate di un carrello in un unico piazzamento – su una piattaforma pensata per i depositi che vogliono gestire posizionamento, misura e dati con meno interventi manuali.",
-      "summary": "Tornio in fossa tandem di nuova generazione che riprofila un intero carrello nel veicolo, pensato per un grado di automazione più elevato.",
+      "h1": "Tornio CNC in fossa tandem YUGLX – due torni sincronizzati per carrozze e locomotive complete",
+      "lede": "Due torni in fossa sincronizzati che lavorano in tandem – riprofilano due sale montate di una carrozza o locomotiva completa senza disaccoppiarla dal convoglio.",
+      "summary": "Due torni CNC in fossa sincronizzati che riprofilano le sale montate di una carrozza o locomotiva completa senza disaccoppiare il convoglio.",
       "related": [
         "tandem-underfloor-wheel-lathe",
         "underfloor-wheel-lathe-yugl",
@@ -1266,109 +1420,154 @@
         {
           "type": "text",
           "id": "overview",
-          "eyebrow": "La macchina",
-          "heading": "Un intero carrello per ciclo, con più automazione",
+          "eyebrow": "Panoramica del prodotto",
+          "heading": "Che cos'è il tornio CNC in fossa tandem?",
           "paragraphs": [
-            "In un deposito molto attivo il tornio per sale montate è spesso il collo di bottiglia. Un tornio in fossa tandem risolve il problema lavorando insieme entrambe le sale montate di un carrello, con il veicolo ancora assemblato sopra la fossa.",
-            "Lo YUGLX si propone come piattaforma tandem di nuova generazione, accanto al consolidato [YUL-12T](page:tandem-underfloor-wheel-lathe). È destinato alle flotte in cui la macchina è in uso quasi continuo e in cui cicli costanti e registri di lavorazione completi contano quanto il tempo di taglio. Livello di automazione, dotazione di misura e interfacce dati vengono concordati con ciascun cliente.",
-            "La sua controparte monoasse è lo [YUGL](page:underfloor-wheel-lathe-yugl)."
+            "Il tornio CNC in fossa tandem (modello YUGLX) è la soluzione di riprofilatura ruote più avanzata di HYT: due torni CNC in fossa completi che lavorano in modalità tandem perfettamente sincronizzata per riprofilare contemporaneamente più sale montate di un'intera carrozza o locomotiva.",
+            "Una macchina è fissa, mentre l'altra è mobile e viene movimentata da guide lineari a controllo CNC, per adattarsi ai diversi passi delle varie configurazioni di carrello di carrozze, locomotive, treni metropolitani ed EMU.",
+            "La configurazione tandem è particolarmente vantaggiosa nelle composizioni bloccate, in cui le carrozze non possono essere separate. L'intero treno può essere portato in officina e la profilatura delle ruote di una carrozza completa può essere eseguita in meno di due ore, riducendo drasticamente il tempo in cui il veicolo resta fuori dal servizio commerciale."
           ],
           "image": "products/tandem-underfloor-wheel-lathe-yuglx",
-          "image_alt": "Illustrazione esemplificativa di un tornio in fossa tandem YUGLX sotto il carrello di un elettrotreno",
+          "image_alt": "Tornio CNC in fossa tandem HYT YUGLX – due torni in fossa sincronizzati nella fossa di un deposito",
           "layout": "image-right"
-        },
-        {
-          "type": "notice",
-          "variant": "review",
-          "text": "In attesa di conferma da HYT: in che cosa lo YUGLX differisce tecnicamente dallo YUL-12T (livello di automazione, azionamenti, capacità, campo del passo) e se entrambi i modelli restano in vendita. Il posizionamento descritto in questa pagina è provvisorio."
         },
         {
           "type": "features",
           "id": "advantages",
           "eyebrow": "Vantaggi principali",
-          "heading": "Che cosa offre lo YUGLX",
+          "heading": "Perché scegliere lo YUGLX?",
           "cols": 3,
           "items": [
             {
-              "icon": "stopwatch",
-              "title": "Un intero carrello per piazzamento",
-              "text": "Due sale montate lavorate insieme, senza spostare il veicolo tra un asse e l'altro."
-            },
-            {
               "icon": "cpu",
-              "title": "Automazione configurabile",
-              "text": "I passaggi dal posizionamento alla misura finale possono essere automatizzati secondo le esigenze del deposito."
+              "title": "Controllo CNC indipendente",
+              "text": "I singoli sistemi CNC si sincronizzano perfettamente per una lavorazione in tandem efficiente."
             },
             {
-              "icon": "clipboard-data",
-              "title": "Registri completi",
-              "text": "Misure di tutte e quattro le ruote memorizzate per carrello, per l'analisi delle tendenze e la pianificazione della manutenzione."
+              "icon": "bricks",
+              "title": "Robusta costruzione a cassone",
+              "text": "Una rigida struttura in ghisa garantisce stabilità, smorzamento delle vibrazioni e precisione di lavorazione."
             },
             {
-              "icon": "arrows-move",
-              "title": "Flessibilità sul passo",
-              "text": "Distanza tra le macchine configurata in base ai passi dei carrelli della Sua flotta."
+              "icon": "clock-history",
+              "title": "Fermo treno ridotto",
+              "text": "La lavorazione simultanea riduce i tempi di manutenzione fino al 50%, anche quando le carrozze non possono essere separate."
             },
             {
-              "icon": "people",
-              "title": "Minore dipendenza dall'operatore",
-              "text": "Cicli guidati e ripetibili garantiscono risultati costanti in tutti i turni."
+              "icon": "display",
+              "title": "Comando centralizzato della macchina",
+              "text": "Un'unica postazione operatore gestisce misura, lavorazione e monitoraggio del processo."
             },
             {
-              "icon": "shield-check",
-              "title": "Lavoro in fossa sicuro",
-              "text": "Zone di lavoro protette e interblocchi attorno a entrambe le macchine."
+              "icon": "diagram-3",
+              "title": "Predisposto per Industria 4.0",
+              "text": "Diagnostica intelligente integrata, monitoraggio in tempo reale e connettività digitale per una maggiore produttività."
             }
           ]
         },
         {
           "type": "specs",
           "id": "specifications",
-          "heading": "Specifiche tecniche",
-          "intro": "Lo YUGLX viene configurato per ciascun progetto. I dati vengono confermati nell'offerta tecnica.",
+          "heading": "Dati tecnici",
+          "intro": "Dati tecnici HYT. Ogni macchina viene configurata in base allo scartamento, ai profili ruota e ai veicoli del cliente.",
           "columns": [
             "Parametro",
-            "YUGLX"
+            "YUGLX 30",
+            "YUGLX 15"
           ],
           "rows": [
             [
-              "Tipo di macchina",
-              "Tornio CNC sottocassa (in fossa) tandem per sale montate"
+              "Configurazione della macchina",
+              "Due torni in fossa sincronizzati su un basamento di supporto comune; uno fisso, l'altro con movimento longitudinale per adattarsi al carrello",
+              "Due torni in fossa sincronizzati su un basamento di supporto comune, per veicoli urbani; uno fisso, l'altro con movimento longitudinale"
             ],
             [
-              "Sale montate lavorate per piazzamento",
-              "2 (un carrello)"
+              "Potenza dell'azionamento principale",
+              "4 × 13,5 kW sui rulli di frizione, per ciascuna macchina",
+              "4 × 9 kW sui rulli di frizione, per ciascuna macchina"
             ],
             [
-              "Azionamento principale",
-              "Su richiesta"
+              "Velocità di taglio in profilatura",
+              "20–120 m/min (opzionale 20–300 m/min)",
+              "20–120 m/min (opzionale 20–300 m/min)"
             ],
             [
-              "Campo del diametro di rotolamento",
-              "Su richiesta*"
+              "Avanzamento della slitta portautensili in profilatura",
+              "0,1–2,5 mm/giro",
+              "0,1–2,5 mm/giro"
             ],
             [
-              "Campo del passo carrello",
-              "Su richiesta*"
+              "Velocità rapida della slitta portautensili, entrambi gli assi",
+              "Carro longitudinale 5000 mm/min; slitta verticale 3000 mm/min",
+              "Carro longitudinale 5000 mm/min; slitta verticale 3000 mm/min"
+            ],
+            [
+              "Sezione massima del truciolo / asportazione in profilatura",
+              "10 mm²",
+              "6 mm²"
+            ],
+            [
+              "Tempo ciclo per sala montata",
+              "30 minuti",
+              "30 minuti"
             ],
             [
               "Scartamento",
-              "Secondo specifica del cliente*"
+              "1000–1676 mm",
+              "1000–1676 mm"
             ],
             [
-              "Carico massimo per asse",
-              "Su richiesta"
+              "Diametro di rotolamento, max / min",
+              "1600 mm / 580 mm",
+              "1250 mm / 375 mm"
             ],
             [
-              "Grado di automazione",
-              "Configurato secondo le esigenze del cliente"
+              "Larghezza ruota",
+              "75–155 mm",
+              "75–155 mm"
             ],
             [
-              "Interfaccia dati verso i sistemi del deposito",
-              "Su richiesta"
+              "Passo, min – max",
+              "1700–3200 mm",
+              "1700–3200 mm"
+            ],
+            [
+              "Carico massimo per asse / peso della sala montata",
+              "30 t (40 t su richiesta)",
+              "18 t"
+            ],
+            [
+              "Differenza di diametro tra le due ruote",
+              "< 0,10 mm",
+              "< 0,10 mm"
+            ],
+            [
+              "Differenza di diametro tra le quattro ruote di un carrello",
+              "< 0,3 mm",
+              "< 0,3 mm"
+            ],
+            [
+              "Precisione del profilo ruota rispetto al calibro di riferimento",
+              "< 0,2 mm",
+              "< 0,2 mm"
+            ],
+            [
+              "Oscillazione radiale della ruota",
+              "< 0,10 mm",
+              "< 0,10 mm"
+            ],
+            [
+              "Oscillazione assiale della ruota",
+              "< 0,15 mm",
+              "< 0,15 mm"
+            ],
+            [
+              "Finitura superficiale del profilo",
+              "< 12,5 μm Ra",
+              "< 12,5 μm Ra"
             ]
           ],
-          "note": "I valori contrassegnati con * dipendono dallo scartamento e dalla configurazione del cliente. I valori definitivi vengono confermati nell'offerta tecnica."
+          "note": "I valori definitivi vengono confermati nell'offerta tecnica."
         },
         {
           "type": "steps",
@@ -1382,7 +1581,7 @@
             },
             {
               "title": "Allineamento",
-              "text": "Le macchine vengono allineate con entrambe le sale montate del carrello."
+              "text": "La macchina mobile trasla su guide lineari a controllo CNC per adattarsi al passo del carrello."
             },
             {
               "title": "Sollevamento e bloccaggio",
@@ -1462,7 +1661,7 @@
           "items": [
             {
               "image": "products/tandem-underfloor-wheel-lathe-yuglx",
-              "caption": "Illustrazione esemplificativa del tornio in fossa tandem YUGLX"
+              "caption": "Tornio CNC in fossa tandem HYT YUGLX – due torni in fossa sincronizzati nella fossa di un deposito"
             },
             {
               "image": "projects/metro-depot",
@@ -1485,7 +1684,7 @@
           "items": [
             {
               "q": "In che cosa lo YUGLX differisce dallo YUL-12T?",
-              "a": "Entrambi sono torni in fossa tandem che lavorano le due sale montate di un carrello in un unico piazzamento. Lo [YUL-12T](page:tandem-underfloor-wheel-lathe) è il modello consolidato; lo YUGLX si propone come piattaforma di nuova generazione con un grado di automazione più elevato. Ci chieda un confronto basato sulla Sua flotta."
+              "a": "Entrambi sono torni in fossa tandem. Nello YUGLX una macchina è fissa e l'altra si muove su guide lineari a controllo CNC; è disponibile come YUGLX 30 (diametri di rotolamento 580–1600 mm, carico per asse 30 t) e YUGLX 15 per veicoli urbani, con un campo di passo di 1700–3200 mm. Lo [YUL-12T](page:tandem-underfloor-wheel-lathe) dispone di un azionamento da 4 × 15 kW per macchina, di un interasse standard di 1800–3100 mm e di diametri di rotolamento di 540–1500 mm. I nostri ingegneri Le consiglieranno il modello più adatto alla Sua flotta."
             },
             {
               "q": "Perché scegliere un tornio tandem anziché una macchina monoasse?",
@@ -1509,11 +1708,11 @@
     },
     "portal-wheel-lathe": {
       "nav": "Tornio CNC a portale per sale montate",
-      "title": "Tornio CNC a portale YPL-02 per sale montate smontate",
-      "description": "Tornio CNC a portale HYT YPL-02 per sale montate smontate e forti asportazioni: diametro ruota 750–1250 mm, azionamento 2 × 55 kW, sale montate fino a 50 kN.",
+      "title": "Tornio CNC a portale YPL-02",
+      "description": "Tornio CNC per sale montate a portale con movimentazione a passaggio delle sale montate. Riprofilatura simultanea di entrambe le ruote in 8–12 minuti per sala montata.",
       "eyebrow": "Torni per sale montate",
       "h1": "Tornio CNC a portale YPL-02 per sale montate smontate dal veicolo",
-      "lede": "Una rigida macchina a portale per l'officina sale. Tornisce le sale montate smontate con asportazioni pesanti e stabili, ripristinando in modo efficiente e preciso anche superfici di rotolamento fortemente usurate.",
+      "lede": "Una macchina automatica a portale con passaggio delle sale montate attraverso la macchina – progettata per gli ambienti di riprofilatura delle ruote ferroviarie più impegnativi.",
       "summary": "Rigido tornio a portale per la riprofilatura di sale montate smontate nelle officine sale, con azionamento principale da 2 × 55 kW per forti asportazioni.",
       "related": [
         "roller-type-portal-wheel-lathe",
@@ -1525,108 +1724,126 @@
         {
           "type": "text",
           "id": "overview",
-          "eyebrow": "La macchina",
-          "heading": "Costruito per l'officina sale",
+          "eyebrow": "Panoramica del prodotto",
+          "heading": "Che cos'è il tornio CNC a portale?",
           "paragraphs": [
-            "Quando le sale montate vengono smontate per revisione, sostituzione ruote o riparazioni pesanti, arrivano all'officina sale in un flusso continuo – spesso con sfaccettature profonde, sfogliature o usura concava che richiedono un'asportazione di materiale consistente. Lo YPL-02 è progettato proprio per questo lavoro.",
-            "La struttura a portale porta le slitte portautensili sopra la sala montata e scarica le forze di taglio in un telaio chiuso e rigido. Con un azionamento principale da 2 × 55 kW e una sezione di truciolo di 32–50 mm², la macchina esegue forti asportazioni su superfici di rotolamento dure e usurate mantenendo il profilo con precisione.",
-            "La sala montata viene fatta entrare su rotaie, portata in posizione di lavoro e bloccata; entrambe le ruote vengono quindi misurate e tornite. Per una variante costruttiva a portale affine, veda il [tornio CNC a portale a rulli YPL-04](page:roller-type-portal-wheel-lathe)."
+            "Il tornio CNC a portale HYT (YPL-02) è concepito per la riprofilatura simultanea di ruote nuove o usurate dell'intera gamma di veicoli ferroviari. La sua architettura a portale colloca le teste di taglio sopra la sala montata, consentendo il carico a passaggio della sala montata.",
+            "Tutte le strutture portanti sono realizzate in ghisa a grana fine ad alta resistenza, che garantisce eccezionale stabilità dimensionale, precisione geometrica e smorzamento delle vibrazioni – fattori decisivi per rispettare le tolleranze ristrette richieste dall'esercizio ferroviario moderno."
           ],
           "image": "products/portal-wheel-lathe",
-          "image_alt": "Illustrazione esemplificativa di un tornio CNC a portale che lavora una sala montata smontata in un'officina sale",
+          "image_alt": "Tornio CNC a portale HYT YPL-02 con operatore alla macchina",
           "layout": "image-right"
         },
         {
           "type": "features",
           "id": "advantages",
           "eyebrow": "Vantaggi principali",
-          "heading": "Perché le officine sale scelgono un tornio a portale",
+          "heading": "Perché scegliere lo YPL-02?",
           "cols": 3,
           "items": [
             {
-              "icon": "lightning-charge",
-              "title": "Capacità di forte asportazione",
-              "text": "Azionamento principale da 2 × 55 kW e sezione di truciolo di 32–50 mm² per eliminare in modo efficiente i difetti profondi."
+              "icon": "building",
+              "title": "Robusta costruzione a portale",
+              "text": "Il robusto design a portale garantisce rigidità e stabilità di lavorazione superiori."
+            },
+            {
+              "icon": "arrow-left-right",
+              "title": "Movimentazione automatica delle sale montate",
+              "text": "Un sistema integrato di passaggio aumenta la produttività e riduce i tempi di movimentazione."
             },
             {
               "icon": "bricks",
-              "title": "Rigido telaio a portale",
-              "text": "Una struttura chiusa per un taglio stabile e profili ripetibili su superfici di rotolamento dure."
-            },
-            {
-              "icon": "arrows-expand",
-              "title": "Ampio campo di lavoro",
-              "text": "Diametri di rotolamento 750–1250 mm, larghezze ruota 75–145 mm e lunghezze dell'asse 1850–2750 mm, a seconda dello scartamento."
+              "title": "Struttura in ghisa ad alta rigidità",
+              "text": "La costruzione in ghisa a grana fine garantisce eccezionale precisione e smorzamento delle vibrazioni."
             },
             {
               "icon": "rulers",
-              "title": "Profili che risparmiano materiale",
-              "text": "La misura prima della lavorazione permette al CNC di asportare solo la profondità necessaria, preservando la vita della ruota."
+              "title": "Misura intelligente dell'usura",
+              "text": "La compensazione elettronica dell'usura mantiene la profondità di taglio ottimale e profili ruota uniformi."
             },
             {
-              "icon": "diagram-3",
-              "title": "Integrato nel flusso dell'officina sale",
-              "text": "Lavora insieme a binari per sale montate, stazioni di misura e presse in un processo continuo."
-            },
-            {
-              "icon": "geo-alt",
-              "title": "Nessuna fossa sotto un binario di circolazione",
-              "text": "È la sala montata ad arrivare alla macchina: nell'officina sale non serve alcuna fossa sotto il binario."
+              "icon": "shield-check",
+              "title": "Maggiore sicurezza operativa",
+              "text": "Il ritiro automatico degli utensili protegge la macchina in caso di mancanza di tensione e di arresto di emergenza."
             }
           ]
         },
         {
           "type": "specs",
           "id": "specifications",
-          "heading": "Specifiche tecniche",
-          "intro": "Dati principali della configurazione standard. La macchina viene adattata allo scartamento e ai profili ruota del cliente.",
+          "heading": "Dati tecnici",
+          "intro": "Dati tecnici HYT. Ogni macchina viene configurata in base allo scartamento, ai profili ruota e ai veicoli del cliente.",
           "columns": [
             "Parametro",
             "YPL-02"
           ],
           "rows": [
             [
-              "Tipo di macchina",
-              "Tornio CNC a portale per sale montate smontate"
+              "Configurazione della macchina",
+              "Costruzione a portale con movimentazione a passaggio delle sale montate"
             ],
             [
-              "Diametro di rotolamento, massimo",
-              "1250 mm"
+              "Potenza dell'azionamento principale",
+              "2 × 55 kW"
             ],
             [
-              "Diametro di rotolamento, minimo",
-              "750 mm*"
+              "Velocità di taglio in profilatura",
+              "25–80 m/min"
+            ],
+            [
+              "Avanzamento della slitta portautensili in profilatura",
+              "0,1–4 mm/giro"
+            ],
+            [
+              "Velocità rapida della slitta portautensili, entrambi gli assi",
+              "4500 mm/min"
+            ],
+            [
+              "Sezione massima del truciolo / asportazione in profilatura",
+              "32–50 mm²"
+            ],
+            [
+              "Tempo ciclo per sala montata",
+              "8–12 min"
+            ],
+            [
+              "Scartamento",
+              "Secondo necessità"
+            ],
+            [
+              "Diametro di rotolamento, max / min",
+              "1250 mm / 750 mm (in funzione dello scartamento)"
             ],
             [
               "Larghezza ruota",
               "75–145 mm"
             ],
             [
-              "Lunghezza dell'asse",
-              "1850–2750 mm*"
+              "Carico massimo per asse / peso della sala montata",
+              "Peso della sala montata 50 kN"
             ],
             [
-              "Peso massimo della sala montata",
-              "50 kN"
+              "Differenza di diametro tra le due ruote",
+              "< 0,15 mm"
             ],
             [
-              "Azionamento principale",
-              "2 × 55 kW"
+              "Precisione del profilo ruota rispetto al calibro di riferimento",
+              "< 0,2 mm"
             ],
             [
-              "Sezione del truciolo",
-              "32–50 mm²"
+              "Oscillazione radiale della ruota",
+              "< 0,1 mm"
             ],
             [
-              "Velocità di taglio",
-              "Su richiesta"
+              "Oscillazione assiale della ruota",
+              "< 0,2 mm"
             ],
             [
-              "Scartamento",
-              "Secondo specifica del cliente*"
+              "Finitura superficiale del profilo",
+              "< 12,5 μm Ra"
             ]
           ],
-          "note": "I valori contrassegnati con * dipendono dallo scartamento e dalla configurazione del cliente. I valori definitivi vengono confermati nell'offerta tecnica."
+          "note": "I valori che dipendono dallo scartamento sono indicati nella tabella. I valori definitivi vengono confermati nell'offerta tecnica."
         },
         {
           "type": "steps",
@@ -1725,7 +1942,7 @@
           "items": [
             {
               "image": "products/portal-wheel-lathe",
-              "caption": "Illustrazione esemplificativa del tornio a portale YPL-02"
+              "caption": "Tornio CNC a portale HYT YPL-02 con operatore alla macchina"
             },
             {
               "image": "projects/railway-wheel-shop",
@@ -1760,7 +1977,7 @@
             },
             {
               "q": "In che cosa lo YPL-02 differisce dallo YPL-04?",
-              "a": "Entrambi sono torni a portale per sale montate smontate. Lo [YPL-04](page:roller-type-portal-wheel-lathe) è la versione a rulli. Le consigliamo l'uno o l'altro dopo aver analizzato le Sue sale montate e il Suo flusso di lavoro."
+              "a": "Entrambi sono torni a portale con movimentazione a passaggio per sale montate smontate. Lo YPL-02 dispone di un azionamento principale da 2 × 55 kW per asportazioni pesanti e completa una sala montata in 8–12 minuti. Lo [YPL-04](page:roller-type-portal-wheel-lathe) trascina la sala montata con sei rulli di frizione ed è adatto a sale montate con riduttore calettato o cuscinetti a cartuccia esterni. Le consigliamo l'uno o l'altro dopo aver esaminato le Sue sale montate e il Suo flusso di lavoro."
             },
             {
               "q": "Lo YPL-02 può far parte di un'officina sale automatizzata?",
@@ -1773,11 +1990,11 @@
     "roller-type-portal-wheel-lathe": {
       "nav": "Tornio CNC a portale a rulli",
       "title": "Tornio CNC a portale a rulli per sale montate YPL-04",
-      "description": "Tornio a portale a rulli HYT YPL-04: riprofilatura CNC di sale montate smontate, sostenute e trascinate su rulli, per officine sale e officine di revisione.",
+      "description": "Tornio a portale per sale montate con trascinamento a sei rulli di frizione e movimentazione a passaggio delle sale montate. Entrambe le ruote riprofilate in 12–16 minuti per sala montata.",
       "eyebrow": "Torni per sale montate",
       "h1": "Tornio CNC a portale a rulli YPL-04 – sale montate smontate sostenute e trascinate su rulli",
-      "lede": "Lo YPL-04 applica il principio a portale alle sale montate smontate, con un sistema a rulli che sostiene e fa ruotare la sala montata durante la lavorazione.",
-      "summary": "Tornio a portale a rulli per la riprofilatura di sale montate smontate, a complemento dello YPL-02 nelle officine sale e nelle officine di revisione.",
+      "lede": "Un tornio automatico per sale montate a portale con trascinamento a rulli di frizione e movimentazione a passaggio – per la riprofilatura simultanea di sale montate smontate dal veicolo.",
+      "summary": "Tornio a portale con trascinamento a sei rulli di frizione e movimentazione a passaggio, per riprofilare sale montate smontate in 12–16 minuti.",
       "related": [
         "portal-wheel-lathe",
         "surface-wheel-lathe",
@@ -1788,105 +2005,137 @@
         {
           "type": "text",
           "id": "overview",
-          "eyebrow": "La macchina",
-          "heading": "Lavorazione a portale con trascinamento a rulli",
+          "eyebrow": "Panoramica del prodotto",
+          "heading": "Che cos'è il tornio CNC a portale a rulli?",
           "paragraphs": [
-            "I torni a portale lavorano sale montate smontate dal veicolo. Nella versione a rulli la sala montata è sostenuta e messa in rotazione su rulli – il principio di trascinamento noto dai torni in fossa – mentre le slitte portautensili lavorano dalla struttura a portale.",
-            "Lo YPL-04 è quindi un'opzione per le officine che desiderano l'accessibilità di una macchina a portale per sale montate smontate, abbinata a un trascinamento a rulli. Se sia più adatto lo YPL-04 o lo [YPL-02](page:portal-wheel-lathe) dipende dalle Sue sale montate, dai tipi di difetto e dal flusso di lavoro: La consigliamo in merito già in fase di richiesta.",
-            "Se preferisce lasciare le sale montate nel veicolo, l'alternativa è un [tornio in fossa](page:underfloor-wheel-lathe)."
+            "Il tornio CNC a portale a rulli (modello YPL-04) è una macchina automatica a portale con trascinamento a rulli che consente il passaggio delle sale montate attraverso la macchina. È adatto alla riprofilatura simultanea di ruote nuove o usurate dopo lo smontaggio della sala montata dal veicolo e accetta anche sale montate con riduttore calettato.",
+            "La sala montata è trascinata da sei rulli di frizione, tre per ruota, a contatto con le zone superiore e inferiore della superficie di rotolamento e del bordino. Ogni rullo è alloggiato in una cartuccia mandrino montata su bilancieri a basso attrito, che consentono la regolazione verticale per compensare le variazioni di diametro della ruota e mantenere un contatto costante anche su superfici sfaccettate o ovalizzate. Una pressione idraulica controllata, regolata da una valvola e da un accumulatore ad azoto, mantiene stabile tale contatto, e i motori dei rulli sono sincronizzati tramite un sistema di controllo master-slave.",
+            "Il carico e lo scarico sono completamente automatici e, dove lo spazio è limitato, è possibile prevedere l'ingresso e l'uscita dallo stesso lato. Le sale montate con CTRB esterni vengono centrate e bloccate da un dispositivo di bloccaggio ad azionamento idraulico, e i dischi freno montati sulla ruota o sull'asse possono essere lavorati come opzione."
           ],
           "image": "products/roller-type-portal-wheel-lathe",
-          "image_alt": "Illustrazione esemplificativa di un tornio a portale a rulli con una sala montata smontata sui rulli di trascinamento",
+          "image_alt": "Tornio CNC a portale a rulli HYT YPL-04 con portale carenato e console operatore",
           "layout": "image-right"
-        },
-        {
-          "type": "notice",
-          "variant": "review",
-          "text": "In attesa di dati da HYT: dati tecnici dello YPL-04, conferma del principio di trascinamento e bloccaggio e differenze rispetto allo YPL-02."
         },
         {
           "type": "features",
           "id": "advantages",
           "eyebrow": "Vantaggi principali",
-          "heading": "Che cosa offre la versione a rulli",
+          "heading": "Perché scegliere lo YPL-04?",
           "cols": 3,
           "items": [
             {
-              "icon": "arrow-repeat",
-              "title": "Trascinamento a rulli",
-              "text": "La sala montata è sostenuta e messa in rotazione su rulli, un principio familiare a chi utilizza torni in fossa."
+              "icon": "gear-wide-connected",
+              "title": "Trascinamento a sei rulli di frizione",
+              "text": "Tre rulli per ruota in acciaio rettificato temprato a cuore a 58–63 HRC, reversibili e rilavorabili per una maggiore durata."
             },
             {
-              "icon": "eye",
-              "title": "Accesso libero",
-              "text": "La sala montata smontata è facile da osservare, misurare e ispezionare durante tutto il ciclo."
+              "icon": "arrow-left-right",
+              "title": "Movimentazione automatica a passaggio",
+              "text": "Carico e scarico completamente automatici, con ingresso e uscita dallo stesso lato disponibili dove lo spazio è limitato."
+            },
+            {
+              "icon": "bricks",
+              "title": "Telaio a portale in ghisa a grana fine",
+              "text": "Tutte le strutture portanti garantiscono stabilità dimensionale e geometrica con un efficace smorzamento delle vibrazioni."
+            },
+            {
+              "icon": "lock",
+              "title": "Centraggio e bloccaggio CTRB",
+              "text": "Le sale montate con cuscinetti a cartuccia esterni vengono centrate e bloccate da cilindri idraulici."
             },
             {
               "icon": "rulers",
-              "title": "Lavorazione basata sulla misura",
-              "text": "Le ruote vengono misurate prima del taglio, così si asporta solo il materiale necessario."
+              "title": "Misura integrata dell'usura delle ruote",
+              "text": "Rulli tastatori a contatto misurano profilo, diametro, altezza e spessore del bordino, distanza tra le facce interne delle ruote e larghezza della ruota."
             },
             {
-              "icon": "train-front",
-              "title": "Flotte miste",
-              "text": "Libreria profili e attrezzaggio adattabile per diversi tipi di sala montata."
+              "icon": "graph-up",
+              "title": "Software di ottimizzazione del taglio",
+              "text": "Il CNC elabora i dati di usura e suggerisce la profondità di taglio più economica, con tutti i dati memorizzati e consultabili."
             },
             {
-              "icon": "diagram-3",
-              "title": "Integrazione nell'officina sale",
-              "text": "Può essere inserito in una linea con stazioni di misura, presse e binari per sale montate."
-            },
-            {
-              "icon": "tools",
-              "title": "Assistenza dal costruttore",
-              "text": "Ricambi, contratti di assistenza e aggiornamenti direttamente da HYT."
+              "icon": "disc",
+              "title": "Tornitura opzionale dei dischi freno",
+              "text": "Uno slittone retrattile cementato sul carro lavora i dischi freno montati sulla ruota o sull'asse fino a una rugosità inferiore a 2,5 μm Ra."
             }
           ]
         },
         {
           "type": "specs",
           "id": "specifications",
-          "heading": "Specifiche tecniche",
-          "intro": "I dati tecnici dello YPL-04 vengono forniti con l'offerta tecnica.",
+          "heading": "Dati tecnici",
+          "intro": "Dati tecnici HYT. Ogni macchina viene configurata in base allo scartamento, ai profili ruota e ai veicoli del cliente.",
           "columns": [
             "Parametro",
             "YPL-04"
           ],
           "rows": [
             [
-              "Tipo di macchina",
-              "Tornio CNC a portale a rulli per sale montate smontate"
+              "Configurazione della macchina",
+              "Costruzione a portale, sei rulli di frizione, movimentazione a passaggio delle sale montate"
             ],
             [
-              "Campo del diametro di rotolamento",
-              "Su richiesta*"
+              "Potenza dell'azionamento principale",
+              "Rulli superiori 2 × 37 kW; rulli inferiori 2 × 18,5 kW"
             ],
             [
-              "Larghezza ruota",
-              "Su richiesta"
+              "Velocità di taglio in profilatura",
+              "25–80 m/min"
             ],
             [
-              "Lunghezza dell'asse",
-              "Su richiesta*"
+              "Avanzamento della slitta portautensili in profilatura",
+              "0,1–4 mm/giro"
             ],
             [
-              "Peso massimo della sala montata",
-              "Su richiesta"
+              "Velocità rapida della slitta portautensili, entrambi gli assi",
+              "4500 mm/min"
             ],
             [
-              "Azionamento principale",
-              "Su richiesta"
+              "Sezione massima del truciolo / asportazione in profilatura",
+              "10–18 mm²"
             ],
             [
-              "Velocità di taglio",
-              "Su richiesta"
+              "Tempo ciclo per sala montata",
+              "12–16 min"
             ],
             [
               "Scartamento",
-              "Secondo specifica del cliente*"
+              "Secondo necessità"
+            ],
+            [
+              "Diametro di rotolamento, max / min",
+              "1250 mm / 650 mm (in funzione dello scartamento)"
+            ],
+            [
+              "Larghezza ruota",
+              "100–145 mm"
+            ],
+            [
+              "Carico massimo per asse / peso della sala montata",
+              "Peso della sala montata 50 kN"
+            ],
+            [
+              "Differenza di diametro tra le due ruote",
+              "< 0,1 mm"
+            ],
+            [
+              "Precisione del profilo ruota rispetto al calibro di riferimento",
+              "< 0,2 mm"
+            ],
+            [
+              "Oscillazione radiale della ruota",
+              "< 0,1 mm"
+            ],
+            [
+              "Oscillazione assiale della ruota",
+              "< 0,2 mm"
+            ],
+            [
+              "Finitura superficiale del profilo",
+              "< 12,5 μm Ra"
             ]
           ],
-          "note": "I valori contrassegnati con * dipendono dallo scartamento e dalla configurazione del cliente. I valori definitivi vengono confermati nell'offerta tecnica."
+          "note": "I valori che dipendono dallo scartamento sono indicati nella tabella. I valori definitivi vengono confermati nell'offerta tecnica."
         },
         {
           "type": "steps",
@@ -1980,7 +2229,7 @@
           "items": [
             {
               "image": "products/roller-type-portal-wheel-lathe",
-              "caption": "Illustrazione esemplificativa del tornio a portale a rulli YPL-04"
+              "caption": "Tornio CNC a portale a rulli HYT YPL-04 con portale carenato e console operatore"
             },
             {
               "image": "products/wheelset-profile-closeup",
@@ -1999,15 +2248,15 @@
           "items": [
             {
               "q": "Che cosa significa “a rulli”?",
-              "a": "Descrive il modo in cui la sala montata viene sostenuta e fatta ruotare durante la lavorazione: su rulli, in modo analogo al principio di trascinamento di un tornio in fossa. La disposizione esatta è illustrata nell'offerta tecnica."
+              "a": "Descrive il modo in cui la sala montata viene trascinata: da sei rulli di frizione, tre per ruota, a contatto con le zone superiore e inferiore della superficie di rotolamento e del bordino. I rulli sono montati su bilancieri regolabili in verticale, così il contatto resta costante anche su ruote sfaccettate o ovalizzate."
             },
             {
               "q": "In che cosa lo YPL-04 differisce dallo YPL-02?",
-              "a": "Entrambi sono torni a portale per sale montate smontate. Lo YPL-04 adotta un sistema a rulli; lo [YPL-02](page:portal-wheel-lathe) è il modello a portale con dati pubblicati per forti asportazioni. La aiutiamo a scegliere in base alle Sue sale montate e al Suo flusso di lavoro."
+              "a": "Entrambi sono torni a portale con movimentazione a passaggio per sale montate smontate. Lo YPL-04 trascina la sala montata con sei rulli di frizione (superiori 2 × 37 kW, inferiori 2 × 18,5 kW), accetta diametri di rotolamento a partire da 650 mm e completa una sala montata in 12–16 minuti. Lo [YPL-02](page:portal-wheel-lathe) dispone di un azionamento principale da 2 × 55 kW e di una sezione del truciolo di 32–50 mm² per asportazioni pesanti, con un tempo ciclo di 8–12 minuti. La aiutiamo a scegliere in base alle Sue sale montate e al Suo flusso di lavoro."
             },
             {
               "q": "Sono disponibili dati tecnici?",
-              "a": "Sì, su richiesta. Ci invii diametri delle ruote, lunghezze degli assi, pesi delle sale montate e scartamenti: Le risponderemo con dati calibrati sulla Sua flotta."
+              "a": "Sì – i dati principali sono riportati nella tabella qui sopra. I valori che dipendono dallo scartamento e la configurazione per le Sue sale montate vengono confermati nell'offerta tecnica."
             },
             {
               "q": "Serve una fossa?",
@@ -2020,10 +2269,10 @@
     "vertical-turning-boring-machine": {
       "nav": "Tornio verticale CNC per tornitura e alesatura",
       "title": "Tornio verticale CNC per tornitura e alesatura YVM-04",
-      "description": "Tornio verticale CNC HYT YVM-04 per ruote e cerchioni ferroviari: profilo, facce del cerchio e foro del mozzo lavorati con la ruota su tavola orizzontale.",
+      "description": "Tornio verticale per tornitura e alesatura di ruote ferroviarie. Lavorazione completa della ruota in un unico bloccaggio, con azionamento della tavola da 45 kW e cambio utensile a 12 posizioni.",
       "eyebrow": "Macchine per officine sale",
       "h1": "Tornio verticale CNC per tornitura e alesatura YVM-04 per ruote ferroviarie, cerchioni e fori del mozzo",
-      "lede": "Ruote e cerchioni sciolti vengono lavorati in posizione orizzontale su una tavola rotante, dove restano stabili sotto carico e profilo e foro del mozzo possono essere mantenuti entro tolleranze strette.",
+      "lede": "La soluzione di tornitura e alesatura verticale per le officine ferroviarie – lavorazione completa della ruota in un unico bloccaggio, dal foro del mozzo al profilo di rotolamento.",
       "summary": "Tornio verticale per tornitura e alesatura di ruote e cerchioni ferroviari sciolti – profilo, facce del cerchio e foro del mozzo – in nuova produzione e revisione.",
       "related": [
         "wheel-presses",
@@ -2035,100 +2284,127 @@
         {
           "type": "text",
           "id": "overview",
-          "eyebrow": "La macchina",
-          "heading": "La prima fase di precisione di una nuova sala montata",
+          "eyebrow": "Panoramica del prodotto",
+          "heading": "Che cos'è il tornio verticale CNC per tornitura e alesatura?",
           "paragraphs": [
-            "Prima che una ruota possa essere calettata su un asse, il foro del mozzo deve essere lavorato a un diametro esatto per l'accoppiamento con interferenza, e superficie di rotolamento e bordino devono corrispondere al profilo prescritto. Il tornio verticale per tornitura e alesatura è lo strumento naturale per questo lavoro: la ruota appoggia su una tavola rotante orizzontale, viene bloccata e lavorata dall'alto.",
-            "La configurazione verticale rende semplice caricare con la gru anche ruote pesanti, mantiene il pezzo stabile sotto lo sforzo di taglio e offre all'operatore una visione chiara della zona di taglio. La stessa macchina lavora i cerchioni per ruote cerchiate e altri componenti circolari della sala montata.",
-            "HYT ha fornito un tornio verticale CNC al deposito EMU di Sanpada a Mumbai e un tornio verticale CNC a torretta alla State Railway of Thailand a Bangkok. Scopra i nostri [progetti realizzati](page:executed-projects)."
+            "Il tornio verticale CNC per tornitura e alesatura HYT (YVM-04) è progettato appositamente per l'intera gamma di lavorazioni delle ruote ferroviarie. L'orientamento verticale del mandrino consente di bloccare e lavorare ruote ferroviarie pesanti e di grande diametro con stabilità e precisione eccezionali, eliminando le deformazioni causate dal bloccaggio orizzontale di pezzi pesanti.",
+            "La combinazione di un azionamento della tavola da 45 kW, di un cuscinetto reggispinta di grande diametro, di guide prismatiche temprate e di un cambio utensile automatico a 12 posizioni fa dello YVM-04 un vero centro di lavoro in un unico piazzamento per ogni profilo della ruota ferroviaria."
           ],
           "image": "products/vertical-turning-boring-machine",
-          "image_alt": "Illustrazione esemplificativa di un tornio verticale CNC per tornitura e alesatura con una ruota ferroviaria sulla tavola rotante",
+          "image_alt": "Tornio verticale CNC per tornitura e alesatura HYT YVM-04",
           "layout": "image-right"
         },
         {
           "type": "features",
           "id": "advantages",
           "eyebrow": "Vantaggi principali",
-          "heading": "Perché lavorare le ruote in verticale",
+          "heading": "Perché scegliere lo YVM-04?",
           "cols": 3,
           "items": [
             {
+              "icon": "bricks",
+              "title": "Robusta struttura in ghisa",
+              "text": "Rigidità superiore e lavorazione priva di vibrazioni."
+            },
+            {
               "icon": "bullseye",
-              "title": "Fori del mozzo precisi",
-              "text": "Diametro e finitura del foro controllati per un accoppiamento con interferenza affidabile sull'asse."
+              "title": "Gruppo tavola di alta precisione",
+              "text": "Cuscinetti reggispinta e a rulli conici per la massima precisione."
             },
             {
-              "icon": "layers",
-              "title": "Bloccaggio stabile",
-              "text": "La ruota appoggia in piano sulla tavola, così il suo stesso peso contribuisce a un appoggio saldo."
+              "icon": "nut",
+              "title": "Opzioni di mandrino flessibili",
+              "text": "Mandrino idraulico a 3 griffe o mandrino a 4 griffe indipendenti."
             },
             {
-              "icon": "arrows-collapse",
-              "title": "Meno ripiazzamenti",
-              "text": "Più elementi lavorati in un unico attrezzaggio riducono movimentazioni ed errori cumulativi."
+              "icon": "shield-check",
+              "title": "Area di lavoro completamente carenata",
+              "text": "Maggiore sicurezza per l'operatore."
             },
             {
-              "icon": "box-seam",
-              "title": "Carico semplice con la gru",
-              "text": "Ruote e cerchioni pesanti vengono calati direttamente sulla tavola."
+              "icon": "arrows-move",
+              "title": "Sistema di guide di precisione",
+              "text": "Movimenti fluidi, rigidità e precisione costante."
             },
             {
-              "icon": "cpu",
-              "title": "Programmi per ogni disegno di ruota",
-              "text": "I programmi CNC memorizzati garantiscono che ogni ruota dello stesso tipo sia identica."
-            },
-            {
-              "icon": "arrow-repeat",
-              "title": "Nuova costruzione e revisione",
-              "text": "Adatto a ruote nuove, cerchioni e lavori di revisione nella stessa officina."
+              "icon": "tools",
+              "title": "Cambio utensile automatico a 12 posizioni",
+              "text": "Attrezzaggio più rapido e maggiore produttività."
             }
           ]
         },
         {
           "type": "specs",
           "id": "specifications",
-          "heading": "Specifiche tecniche",
-          "intro": "Lo YVM-04 viene configurato in base alle dimensioni di ruote e cerchioni della Sua officina.",
+          "heading": "Dati tecnici",
+          "intro": "Dati tecnici HYT. Ogni macchina viene configurata in base allo scartamento, ai profili ruota e ai veicoli del cliente.",
           "columns": [
             "Parametro",
             "YVM-04"
           ],
           "rows": [
             [
-              "Tipo di macchina",
-              "Tornio verticale CNC per tornitura e alesatura"
+              "Configurazione della macchina",
+              "Tornio verticale per tornitura e alesatura; lavorazione completa della ruota in un unico bloccaggio – disco, profilo, cerchione e mozzo"
             ],
             [
-              "Pezzi tipici",
-              "Ruote ferroviarie, cerchioni e componenti circolari simili"
+              "Potenza dell'azionamento principale",
+              "Motore di azionamento della tavola 45 kW"
+            ],
+            [
+              "Velocità della tavola",
+              "3–300 giri/min"
+            ],
+            [
+              "Velocità di avanzamento rapido",
+              "Fino a 8000 mm/min"
+            ],
+            [
+              "Diametro di tornitura / diametro massimo ammesso",
+              "1600 mm"
             ],
             [
               "Diametro della tavola",
-              "Su richiesta"
+              "1400 mm"
             ],
             [
-              "Diametro massimo tornibile",
-              "Su richiesta"
+              "Altezza di tornitura",
+              "600 mm"
             ],
             [
-              "Altezza massima del pezzo",
-              "Su richiesta"
+              "Corsa verticale della testa a slittone",
+              "700 mm"
             ],
             [
-              "Peso massimo del pezzo",
-              "Su richiesta"
+              "Corsa orizzontale della testa a slittone",
+              "+900 / −50 mm"
             ],
             [
-              "Azionamento principale",
-              "Su richiesta"
+              "Sezione dello slittone",
+              "200 × 200 mm o 250 × 250 mm"
             ],
             [
-              "Sistema CNC",
-              "Su richiesta"
+              "Bloccaggio del pezzo",
+              "Mandrino idraulico autocentrante a tre griffe"
+            ],
+            [
+              "Cambio utensile",
+              "12 posizioni di serie; 20 posizioni come opzione personalizzata"
+            ],
+            [
+              "Finitura superficiale in alesatura",
+              "Ra 0,8 μm"
+            ],
+            [
+              "Finitura superficiale in tornitura",
+              "Ra 1,6 μm"
+            ],
+            [
+              "Finitura superficiale in sfacciatura",
+              "Ra 1,6 μm"
             ]
           ],
-          "note": "I valori definitivi vengono confermati nell'offerta tecnica per la Sua applicazione."
+          "note": "I valori definitivi vengono confermati nell'offerta tecnica."
         },
         {
           "type": "steps",
@@ -2227,7 +2503,7 @@
           "items": [
             {
               "image": "products/vertical-turning-boring-machine",
-              "caption": "Illustrazione esemplificativa del tornio verticale per tornitura e alesatura YVM-04"
+              "caption": "Tornio verticale CNC per tornitura e alesatura HYT YVM-04"
             },
             {
               "image": "projects/emu-car-shed",
@@ -2250,7 +2526,7 @@
           "items": [
             {
               "q": "Che cosa si può lavorare sullo YVM-04?",
-              "a": "Ruote e cerchioni ferroviari – superficie di rotolamento, bordino, facce del cerchio e foro del mozzo – e componenti circolari simili. I limiti dimensionali per i Suoi pezzi vengono confermati nell'offerta tecnica."
+              "a": "Ruote ferroviarie e cerchioni – disco, profilo di rotolamento, cerchione e foro del mozzo – in un unico bloccaggio, e componenti circolari simili. La macchina ha un diametro di tornitura di 1600 mm, un diametro della tavola di 1400 mm e un'altezza di tornitura di 600 mm."
             },
             {
               "q": "Perché lavorare le ruote in verticale anziché in orizzontale?",
@@ -2274,12 +2550,12 @@
     },
     "axle-journal-turning-burnishing-lathe": {
       "nav": "Tornio CNC per tornitura e rullatura dei fuselli",
-      "title": "Tornio CNC per tornitura e rullatura dei fuselli d'asse",
-      "description": "Tornio CNC HYT per fuselli d'asse: ripristina i fuselli nella revisione delle sale montate con tornitura precisa e rullatura per una finitura durevole.",
+      "title": "Tornio CNC per tornitura e rullatura dei fuselli d'asse YTB 04",
+      "description": "Tornio CNC per la tornitura e la rullatura dei fuselli degli assi ferroviari. Ovalizzazione e conicità inferiori a 0,01 mm e finitura rullata inferiore a 0,2 μm Ra.",
       "eyebrow": "Macchine per officine sale",
-      "h1": "Tornio CNC per tornitura e rullatura dei fuselli d'asse per la revisione delle sale montate",
-      "lede": "I fuselli portano l'intero carico del veicolo. Questo tornio ne ripristina il diametro durante la revisione e poi ne rulla la superficie, offrendo al cuscinetto una sede liscia e resistente all'usura.",
-      "summary": "Ripristina e rulla i fuselli d'asse durante la revisione delle sale montate, per sedi dei cuscinetti precise e durevoli.",
+      "h1": "Tornio CNC per tornitura e rullatura dei fuselli d'asse YTB 04 per la revisione delle sale montate",
+      "lede": "Un tornio CNC specializzato che ripristina la geometria originale dei fuselli degli assi ferroviari e conferisce alla sede del cuscinetto una finitura rullata inferiore a 0,2 μm Ra.",
+      "summary": "Tornio CNC che tornisce e rulla i fuselli degli assi ferroviari, con ovalizzazione e conicità inferiori a 0,01 mm e finitura inferiore a 0,2 μm Ra.",
       "related": [
         "axle-turning-lathe",
         "wheel-presses",
@@ -2290,100 +2566,114 @@
         {
           "type": "text",
           "id": "overview",
-          "eyebrow": "La macchina",
-          "heading": "Finitura dei fuselli, non tornitura completa dell'asse",
+          "eyebrow": "Panoramica del prodotto",
+          "heading": "Che cos'è il tornio CNC per tornitura e rullatura dei fuselli d'asse?",
           "paragraphs": [
-            "Ogni revisione di una sala montata mette sotto esame i fuselli dell'asse. Corrosione, segni di fretting e usura sulle sedi dei cuscinetti devono essere eliminati e il fusello deve tornare a un diametro e a una finitura superficiale ammessi dalla specifica del cuscinetto.",
-            "Il tornio CNC per tornitura e rullatura dei fuselli d'asse è costruito esattamente per questo compito. Tornisce a misura il fusello e le sedi adiacenti, quindi ne rulla la superficie: rulli temprati schiacciano le creste lasciate dalla tornitura e producono una finitura liscia e compattata. La rullatura è un processo di deformazione a freddo e non genera trucioli.",
-            "**Questa è una macchina per la revisione.** Per la tornitura di assi completi da grezzi o fucinati nella nuova produzione, veda il [tornio CNC per assi ATL-01](page:axle-turning-lathe)."
+            "Il tornio CNC per tornitura e rullatura dei fuselli d'asse (modello YTB 04) è una macchina specializzata per la manutenzione e la costruzione di sale montate ferroviarie. Ripristina e rifinisce i fuselli dell'asse – le superfici di precisione delle sedi dei cuscinetti situate alle due estremità di un asse ferroviario.",
+            "Queste superfici dei fuselli sostengono la sala montata nei cuscinetti del carrello. Qualsiasi usura, ovalizzazione, conicità o danno superficiale può causare il cedimento prematuro dei cuscinetti, un eccessivo sviluppo di calore, maggiori costi di manutenzione e potenziali rischi per la sicurezza.",
+            "La tornitura asporta il materiale usurato o danneggiato dal fusello, ripristinandone la geometria originale e la precisione dimensionale. La lavorazione a controllo CNC corregge ovalizzazione, conicità e usura superficiale per riportare il fusello entro specifica, quindi la rullatura rifinisce la superficie alla qualità richiesta."
           ],
           "image": "products/axle-journal-turning-burnishing-lathe",
-          "image_alt": "Illustrazione esemplificativa della rullatura di un fusello d'asse su un tornio CNC",
+          "image_alt": "Tornio CNC per tornitura e rullatura dei fuselli d'asse HYT YTB 04 con una sala montata in macchina",
           "layout": "image-right"
         },
         {
           "type": "features",
           "id": "advantages",
           "eyebrow": "Vantaggi principali",
-          "heading": "Perché tornire e rullare sulla stessa macchina",
-          "cols": 3,
+          "heading": "Perché scegliere lo YTB 04?",
+          "cols": 2,
           "items": [
             {
               "icon": "bullseye",
-              "title": "Accoppiamento corretto del cuscinetto",
-              "text": "Fuselli ripristinati al diametro richiesto per un accoppiamento affidabile del cuscinetto."
+              "title": "Lavorazione di precisione dei fuselli",
+              "text": "Tornitura accurata dei fuselli d'asse interni ed esterni."
             },
             {
               "icon": "stars",
-              "title": "Finitura liscia e compattata",
-              "text": "La rullatura lascia una superficie fine senza asportare ulteriore materiale."
+              "title": "Rullatura di qualità superiore",
+              "text": "Un'eccellente finitura superficiale e una maggiore durata dell'asse."
             },
             {
-              "icon": "shield-check",
-              "title": "Superficie più durevole",
-              "text": "Una superficie rullata resiste a usura e fretting meglio di una superficie soltanto tornita."
+              "icon": "bricks",
+              "title": "Robusto bancale rigido",
+              "text": "Due contropunte fisse per la massima stabilità e precisione."
             },
             {
-              "icon": "recycle",
-              "title": "Vita più lunga dell'asse",
-              "text": "Asportando solo lo strato danneggiato, gli assi restano entro i limiti per un maggior numero di revisioni."
-            },
-            {
-              "icon": "arrow-left-right",
-              "title": "Nessun trasferimento tra macchine",
-              "text": "Tornitura e rullatura sulla stessa macchina fanno risparmiare tempi di movimentazione e attrezzaggio."
-            },
-            {
-              "icon": "cpu",
-              "title": "Programmi ripetibili",
-              "text": "Programmi memorizzati per ogni tipo di asse garantiscono risultati costanti."
+              "icon": "arrows-expand",
+              "title": "Compensazione automatica della lunghezza dell'asse",
+              "text": "Una contropunta caricata a molla garantisce una rullatura uniforme."
             }
           ]
         },
         {
           "type": "specs",
           "id": "specifications",
-          "heading": "Specifiche tecniche",
-          "intro": "La macchina viene configurata in base ai tipi di asse del Suo programma di revisione.",
+          "heading": "Dati tecnici",
+          "intro": "Dati tecnici HYT. Ogni macchina viene configurata in base allo scartamento, ai profili ruota e ai veicoli del cliente.",
           "columns": [
             "Parametro",
-            "Valore"
+            "YTB 04"
           ],
           "rows": [
             [
-              "Tipo di macchina",
-              "Tornio CNC per tornitura e rullatura dei fuselli d'asse"
+              "Configurazione della macchina",
+              "Tornio per tornitura e rullatura dei fuselli d'asse; fuselli interni ed esterni degli assi delle sale montate"
             ],
             [
-              "Lavorazione tipica",
-              "Ripristino dei fuselli dei cuscinetti e delle sedi adiacenti durante la revisione"
+              "Potenza dell'azionamento principale",
+              "Motore dell'azionamento principale 11 kW"
             ],
             [
-              "Lunghezza massima dell'asse",
-              "Su richiesta*"
+              "Velocità di taglio per tornitura e rullatura dell'asse",
+              "50–400 m/min"
             ],
             [
-              "Campo del diametro dei fuselli",
-              "Su richiesta"
+              "Avanzamento della slitta portautensili per tornitura e rullatura dell'asse",
+              "0,1–2,5 mm/giro"
             ],
             [
-              "Peso massimo del pezzo",
-              "Su richiesta"
+              "Profondità di taglio massima in tornitura dell'asse",
+              "2 mm"
             ],
             [
-              "Utensile di rullatura",
-              "Su richiesta"
+              "Diametro di rotolamento, max / min",
+              "1250 mm / 540 mm (in funzione dello scartamento)"
             ],
             [
-              "Azionamento principale",
-              "Su richiesta"
+              "Larghezza ruota",
+              "75–145 mm"
             ],
             [
-              "Sistema CNC",
-              "Su richiesta"
+              "Lunghezza dell'asse, max / min",
+              "2750 mm / 1200 mm (in funzione dello scartamento)"
+            ],
+            [
+              "Diametro del fusello, min – max",
+              "70–320 mm"
+            ],
+            [
+              "Lunghezza del fusello, min – max",
+              "110–480 mm"
+            ],
+            [
+              "Peso massimo della sala montata",
+              "50 kN"
+            ],
+            [
+              "Ovalizzazione del fusello",
+              "< 0,01 mm"
+            ],
+            [
+              "Conicità del fusello",
+              "< 0,01 mm per 100 mm"
+            ],
+            [
+              "Finitura superficiale del fusello dopo la rullatura",
+              "< 0,2 μm Ra"
             ]
           ],
-          "note": "I valori contrassegnati con * dipendono dallo scartamento e dalla configurazione del cliente. I valori definitivi vengono confermati nell'offerta tecnica."
+          "note": "I valori che dipendono dallo scartamento sono indicati nella tabella. I valori definitivi vengono confermati nell'offerta tecnica."
         },
         {
           "type": "steps",
@@ -2482,7 +2772,7 @@
           "items": [
             {
               "image": "products/axle-journal-turning-burnishing-lathe",
-              "caption": "Illustrazione esemplificativa del tornio per tornitura e rullatura dei fuselli d'asse"
+              "caption": "Tornio CNC per tornitura e rullatura dei fuselli d'asse HYT YTB 04 con una sala montata in macchina"
             },
             {
               "image": "projects/railway-wheel-shop",
@@ -2501,7 +2791,7 @@
           "items": [
             {
               "q": "In che cosa questa macchina differisce dal tornio per assi ATL-01?",
-              "a": "Questo tornio ripristina e rulla i fuselli di assi già in esercizio. L'[ATL-01](page:axle-turning-lathe) tornisce assi completi da grezzi o fucinati nella nuova produzione. Molte officine sale hanno bisogno di entrambi."
+              "a": "Lo YTB 04 tornisce e rulla i fuselli interni ed esterni degli assi delle sale montate. L'[ATL-01](page:axle-turning-lathe) esegue la sgrossatura e la finitura di assi completi tra le punte. Molte officine sale hanno bisogno di entrambi."
             },
             {
               "q": "Perché rullare dopo la tornitura?",
@@ -2513,7 +2803,7 @@
             },
             {
               "q": "Quali superfici si possono lavorare?",
-              "a": "I fuselli dei cuscinetti e, a seconda della costruzione dell'asse, le sedi adiacenti. Il perimetro esatto viene confermato per i Suoi disegni d'asse nell'offerta tecnica."
+              "a": "Fuselli interni ed esterni degli assi delle sale montate, con diametri dei fuselli di 70–320 mm e lunghezze dei fuselli di 110–480 mm, su assi di 1200–2750 mm (in funzione dello scartamento) e sale montate fino a 50 kN."
             },
             {
               "q": "La macchina può lavorare diversi tipi di asse?",
@@ -2525,12 +2815,12 @@
     },
     "axle-turning-lathe": {
       "nav": "Tornio CNC per assi",
-      "title": "Tornio CNC per assi ferroviari nuovi ATL-01",
-      "description": "Il tornio CNC per assi HYT ATL-01 lavora assi ferroviari completi da grezzi o fucinati: fuselli, sedi e corpo torniti a disegno per nuove sale montate.",
+      "title": "Tornio CNC per assi ATL-01",
+      "description": "Tornio CNC per impieghi gravosi per la sgrossatura e la finitura di assi ferroviari: azionamento da 41 kW, 30–2500 giri/min, 3000 mm tra le punte, 600 mm di diametro tornibile sul carrello trasversale.",
       "eyebrow": "Macchine per officine sale",
-      "h1": "Tornio CNC per assi ATL-01 per la tornitura completa di assi grezzi e fucinati",
-      "lede": "L'ATL-01 tornisce un asse ferroviario dal fucinato grezzo al profilo finito – fuselli, sedi parapolvere e sedi ruota, raccordi e corpo – pronto per la fase di produzione successiva.",
-      "summary": "Tornisce assi ferroviari completi da grezzi o fucinati fino al profilo finito, per la produzione di nuove sale montate.",
+      "h1": "Tornio CNC per assi ATL-01 per la sgrossatura e la finitura di assi ferroviari",
+      "lede": "Un tornio CNC per impieghi gravosi e di alta precisione per la sgrossatura e la finitura di assi ferroviari – costruito per elevati volumi produttivi in depositi di manutenzione e officine di produzione.",
+      "summary": "Tornio CNC per impieghi gravosi per la sgrossatura e la finitura di assi ferroviari, con 3000 mm tra le punte e azionamento da 41 kW.",
       "related": [
         "axle-journal-turning-burnishing-lathe",
         "wheel-presses",
@@ -2541,100 +2831,129 @@
         {
           "type": "text",
           "id": "overview",
-          "eyebrow": "La macchina",
-          "heading": "Dal fucinato all'asse finito",
+          "eyebrow": "Panoramica del prodotto",
+          "heading": "Che cos'è il tornio CNC per assi?",
           "paragraphs": [
-            "Un asse nuovo nasce come fucinato con sovrametallo su ogni diametro. Tornirlo a disegno è impegnativo: l'asse è lungo e pesante, diversi diametri devono essere concentrici tra loro e i raggi di raccordo tra le sedi sono determinanti per la resistenza a fatica.",
-            "L'ATL-01 è un tornio CNC dedicato a questa tornitura completa. Lavora l'intera lunghezza dell'asse – fuselli, sedi parapolvere, sedi ruota, raccordi e corpo dell'asse – così l'asse esce dalla macchina pronto per finitura, controllo e calettamento delle ruote.",
-            "**Differenza rispetto al tornio per fuselli:** il [tornio CNC per tornitura e rullatura dei fuselli d'asse](page:axle-journal-turning-burnishing-lathe) è una macchina per la revisione che ripristina e rulla i fuselli di assi già in esercizio. L'ATL-01 è una macchina di produzione che tornisce l'intero asse da un grezzo o da un fucinato."
+            "Il tornio CNC per assi (modello ATL-01) è una macchina CNC per impieghi gravosi e di alta precisione, progettata specificamente per la sgrossatura e la finitura di assi ferroviari. È adatto a elevati volumi produttivi e viene impiegato sia nei depositi di manutenzione sia nelle officine di produzione.",
+            "L'architettura della macchina garantisce elevata rigidità, stabilità termica e smorzamento delle vibrazioni, mantenendo costante la precisione dimensionale per tutto il ciclo di lavorazione. Gli elementi strutturali sottoposti ai carichi di taglio sono in ghisa a grana fine, e un carro trasversale compatto e rigido porta la torretta.",
+            "Nel ciclo automatico la macchina esegue la tornitura completa dell'asse e la lavorazione delle sedi dei cuscinetti. Su richiesta sono disponibili rullatura, foratura e maschiatura, un mandrino retrattile a 3 griffe con trascinatore frontale e la finitura completa dell'asse in un unico piazzamento.",
+            "Un software di controllo dedicato con schermate HMI personalizzate gestisce le misure di sicurezza per un funzionamento semplice e sicuro e visualizza i messaggi di guasto. È disponibile il supporto per la manutenzione remota dalla sede centrale HYT, e il rapido accesso alle parti che richiedono interventi mantiene brevi i tempi di assistenza. La macchina integra funzionalità sia di Industria 4.0 sia di Industria 5.0."
           ],
           "image": "products/axle-turning-lathe",
-          "image_alt": "Illustrazione esemplificativa di un tornio CNC per assi che lavora un asse ferroviario per tutta la sua lunghezza",
+          "image_alt": "Illustrazione esemplificativa di un tornio CNC per assi",
           "layout": "image-right"
         },
         {
           "type": "features",
           "id": "advantages",
           "eyebrow": "Vantaggi principali",
-          "heading": "Costruito per la tornitura completa degli assi",
+          "heading": "Perché scegliere l'ATL-01?",
           "cols": 3,
           "items": [
             {
+              "icon": "speedometer2",
+              "title": "Costruito per la lavorazione di assi ad alta produttività",
+              "text": "Sgrossatura e finitura di assi ferroviari in depositi di manutenzione e officine di produzione."
+            },
+            {
+              "icon": "bricks",
+              "title": "Robusta costruzione in ghisa a grana fine",
+              "text": "Gli elementi strutturali sottoposti ai carichi di taglio sono in ghisa, per un'elevata rigidità, stabilità termica e smorzamento delle vibrazioni."
+            },
+            {
               "icon": "arrows-expand",
-              "title": "Lavorazione su tutta la lunghezza",
-              "text": "Ogni diametro lungo l'asse tornito a disegno su un'unica macchina."
+              "title": "Robusto diametro tornibile di 600 mm sul carrello trasversale",
+              "text": "Su un bancale a tre guide, con un carro trasversale compatto e rigido per lavorare gli assi con facilità."
+            },
+            {
+              "icon": "sliders",
+              "title": "Regolazione continua della velocità",
+              "text": "Da 30 a 2500 giri/min con una coppia al mandrino di 1200 Nm, per passate sia di sgrossatura sia di finitura."
+            },
+            {
+              "icon": "gear-wide-connected",
+              "title": "Torretta a 8 o 12 posizioni",
+              "text": "Utensili motorizzati su richiesta, così foratura e maschiatura possono essere eseguite senza un secondo piazzamento."
             },
             {
               "icon": "bullseye",
-              "title": "Sedi concentriche",
-              "text": "Fuselli, sedi e corpo lavorati su un asse comune per un'eccentricità costante."
+              "title": "Precisione geometrica ottimale",
+              "text": "In termini di rotondità, ovalizzazione, rugosità superficiale e cilindricità dell'asse lavorato."
             },
             {
-              "icon": "bezier2",
-              "title": "Raggi di raccordo controllati",
-              "text": "La contornitura CNC realizza i raggi prescritti tra le sedi, determinanti per la resistenza a fatica."
+              "icon": "life-preserver",
+              "title": "Robusta lunetta autocentrante",
+              "text": "Sostegno affidabile dell'asse durante il taglio."
             },
             {
-              "icon": "lightning-charge",
-              "title": "Asportazione efficiente",
-              "text": "Passate di sgrossatura e finitura pianificate in funzione del sovrametallo degli assi fucinati."
+              "icon": "droplet",
+              "title": "Adduzione diretta del refrigerante attraverso la torretta",
+              "text": "Portato sul punto di taglio per un raffreddamento efficace."
+            },
+            {
+              "icon": "volume-mute",
+              "title": "Cabina insonorizzata completamente chiusa",
+              "text": "Un ambiente di lavoro più silenzioso e sicuro."
             },
             {
               "icon": "cpu",
-              "title": "Programmi per ogni disegno",
-              "text": "Ogni tipo di asse viene memorizzato una volta e riprodotto con esattezza."
-            },
-            {
-              "icon": "diagram-3",
-              "title": "Alimenta la pressa per ruote",
-              "text": "Sedi ruota finite, pronte per il calettamento sulla [pressa per ruote](page:wheel-presses)."
+              "title": "Sistema CNC Siemens / Fanuc",
+              "text": "Schermate HMI personalizzate e supporto per la manutenzione remota dalla sede centrale HYT."
             }
           ]
         },
         {
           "type": "specs",
           "id": "specifications",
-          "heading": "Specifiche tecniche",
-          "intro": "L'ATL-01 viene dimensionato in base ai disegni degli assi che Lei produce.",
+          "heading": "Dati tecnici",
+          "intro": "Dati tecnici HYT. Ogni macchina viene configurata in base allo scartamento, ai profili ruota e ai veicoli del cliente.",
           "columns": [
             "Parametro",
             "ATL-01"
           ],
           "rows": [
             [
-              "Tipo di macchina",
-              "Tornio CNC per assi"
+              "Configurazione della macchina",
+              "Tornio CNC per assi; sgrossatura e finitura di assi ferroviari tra le punte"
             ],
             [
-              "Pezzo",
-              "Assi ferroviari grezzi o fucinati"
+              "Diametro tornibile sul carrello trasversale",
+              "0–600 mm"
             ],
             [
-              "Lunghezza massima dell'asse",
-              "Su richiesta"
+              "Carico massimo tra le punte",
+              "1,5 t"
             ],
             [
-              "Diametro massimo tornibile",
-              "Su richiesta"
+              "Coppia ammessa dal mandrino",
+              "1200 Nm"
             ],
             [
-              "Peso massimo dell'asse",
-              "Su richiesta"
+              "Potenza",
+              "41 kW"
             ],
             [
-              "Azionamento principale",
-              "Su richiesta"
+              "Velocità",
+              "30–2500 giri/min"
             ],
             [
-              "Bloccaggio del pezzo",
-              "Su richiesta"
+              "Distanza tra le punte",
+              "3000 mm"
+            ],
+            [
+              "Diametro del cannotto",
+              "160 mm"
+            ],
+            [
+              "Torretta",
+              "A 8 o a 12 posizioni, con utensili motorizzati su richiesta"
             ],
             [
               "Sistema CNC",
-              "Su richiesta"
+              "Siemens / Fanuc con software"
             ]
           ],
-          "note": "I valori definitivi vengono confermati nell'offerta tecnica per la Sua applicazione."
+          "note": "I valori definitivi vengono confermati nell'offerta tecnica."
         },
         {
           "type": "steps",
@@ -2705,6 +3024,11 @@
               "icon": "hammer",
               "title": "Stabilimenti di assi e fucinatura",
               "text": "Lavorazione di assi fucinati prima della consegna agli assemblatori di sale montate."
+            },
+            {
+              "icon": "wrench-adjustable",
+              "title": "Depositi di manutenzione",
+              "text": "Sgrossatura e finitura degli assi nell'ambito della manutenzione interna delle sale montate."
             }
           ]
         },
@@ -2751,15 +3075,15 @@
           "items": [
             {
               "q": "In che cosa l'ATL-01 differisce dal tornio per tornitura e rullatura dei fuselli d'asse?",
-              "a": "L'ATL-01 tornisce assi completi da grezzi o fucinati nella nuova produzione. Il [tornio per fuselli](page:axle-journal-turning-burnishing-lathe) ripristina e rulla, durante la revisione, i fuselli dei cuscinetti di assi in esercizio."
+              "a": "L'ATL-01 esegue la sgrossatura e la finitura di assi ferroviari completi tra le punte. Il [tornio per fuselli](page:axle-journal-turning-burnishing-lathe) (YTB 04) tornisce e rulla i fuselli interni ed esterni degli assi delle sale montate durante la revisione."
             },
             {
-              "q": "L'ATL-01 può rilavorare assi usati?",
-              "a": "Il suo scopo è la tornitura completa di assi nuovi. Il ripristino dei fuselli su assi in esercizio si esegue normalmente sul tornio per tornitura e rullatura dei fuselli – ci contatti se il Suo processo combina entrambe le lavorazioni."
+              "q": "L'ATL-01 si impiega nei depositi di manutenzione o solo in produzione?",
+              "a": "In entrambi. L'ATL-01 è costruito per elevati volumi produttivi e viene impiegato sia nei depositi di manutenzione sia nelle officine di produzione. Se il Suo processo comprende anche il ripristino dei fuselli su sale montate assemblate, consulti il [tornio per tornitura e rullatura dei fuselli](page:axle-journal-turning-burnishing-lathe)."
             },
             {
               "q": "Quali tipi di asse si possono lavorare?",
-              "a": "Assi per locomotive, carrozze, carri ed elettrotreni, entro i limiti di lunghezza, diametro e peso della macchina. Questi vengono verificati sui Suoi disegni."
+              "a": "Assi per locomotive, carrozze, carri e treni automotori, entro la capacità della macchina: 3000 mm tra le punte, 1,5 t di carico tra le punte e 600 mm di diametro tornibile sul carrello trasversale. Verifichiamo la compatibilità con i disegni dei Suoi assi."
             },
             {
               "q": "Che cosa succede dopo la tornitura?",
@@ -3523,12 +3847,12 @@
     },
     "multi-purpose-armature-machine": {
       "nav": "Macchina multifunzione per indotti",
-      "title": "Macchina multifunzione per indotti di motori di trazione",
-      "description": "Macchina multifunzione HYT per indotti di motori di trazione: tornitura del collettore, fresatura della mica e lavorazioni correlate in una macchina.",
+      "title": "Macchina multifunzione per indotti YMM-04",
+      "description": "Ricondizionamento degli indotti dei motori di trazione su un'unica piattaforma: tornitura e rettifica del collettore, fresatura della mica, bendaggio, rirullatura e taglio delle bobine.",
       "eyebrow": "Attrezzature per depositi e officine",
-      "h1": "Macchina multifunzione per la manutenzione degli indotti dei motori di trazione",
-      "lede": "Gli indotti dei motori di trazione richiedono diverse lavorazioni di precisione durante la revisione. Questa macchina le riunisce, così l'indotto viene spostato e riattrezzato meno volte.",
-      "summary": "Riunisce tornitura del collettore, fresatura della mica e lavorazioni correlate sull'indotto per la revisione dei motori di trazione, in un'unica macchina.",
+      "h1": "Macchina multifunzione per indotti YMM-04 per il ricondizionamento degli indotti dei motori di trazione",
+      "lede": "Un'unica piattaforma per il ricondizionamento completo degli indotti dei motori di trazione – tornitura, rettifica, fresatura della mica, bendaggio e taglio delle bobine in una sola macchina.",
+      "summary": "Un'unica piattaforma per il ricondizionamento degli indotti dei motori di trazione: tornitura e rettifica del collettore, fresatura della mica, bendaggio, rirullatura e taglio delle bobine.",
       "related": [
         "automated-train-washing-plant",
         "rail-cum-road-vehicle-shunter",
@@ -3538,92 +3862,128 @@
         {
           "type": "text",
           "id": "overview",
-          "eyebrow": "La macchina",
-          "heading": "Ripristinare il collettore, mantenere i motori in servizio",
+          "eyebrow": "Panoramica del prodotto",
+          "heading": "Che cos'è la macchina multifunzione per indotti?",
           "paragraphs": [
-            "In un motore di trazione a corrente continua, la corrente raggiunge l'indotto attraverso il collettore e le spazzole di carbone. Con il tempo il collettore si ovalizza per usura, la sua superficie diventa ruvida e l'isolamento in mica tra le lamelle di rame finisce a filo con il rame. Ne derivano rapida usura delle spazzole, scintillio e, alla fine, il guasto del motore.",
-            "Il ripristino del collettore comprende diverse lavorazioni: tornitura della superficie per renderla concentrica, fresatura della mica sotto il livello del rame e finitura degli spigoli delle lamelle. La macchina multifunzione per indotti esegue queste lavorazioni su un'unica macchina, così l'indotto si sposta meno spesso tra le postazioni di lavoro.",
-            "La gamma esatta di funzioni viene configurata in base ai tipi di indotto della Sua flotta."
+            "La macchina multifunzione per indotti è un sistema specializzato di manutenzione e revisione progettato per il ricondizionamento completo degli indotti dei motori di trazione impiegati in locomotive elettriche, EMU, vetture metropolitane e altro materiale rotabile ferroviario.",
+            "Invece di utilizzare più macchine autonome per le diverse lavorazioni, la HYT YMM-04 riunisce su un'unica piattaforma diversi processi critici di manutenzione dell'indotto, migliorando produttività, precisione ed efficienza dell'officina.",
+            "La macchina ripristina le dimensioni e la finitura superficiale originali di collettori e fuselli dei cuscinetti usurati. Le lavorazioni di tornitura e rettifica di alta precisione assicurano un migliore contatto elettrico, una minore usura delle spazzole, un funzionamento più regolare del motore e una maggiore durata dei componenti. La YMM-04 mantiene ovalizzazione e conicità del collettore al di sotto di 0,015 mm."
           ],
           "image": "products/multi-purpose-armature-machine",
-          "image_alt": "Illustrazione esemplificativa di un indotto di motore di trazione montato su una macchina multifunzione per indotti",
+          "image_alt": "Macchina multifunzione per indotti HYT YMM-04 con un indotto di motore di trazione in macchina",
           "layout": "image-right"
         },
         {
           "type": "features",
           "id": "advantages",
           "eyebrow": "Vantaggi principali",
-          "heading": "Perché riunire le lavorazioni sull'indotto",
+          "heading": "Perché scegliere la YMM-04?",
           "cols": 3,
           "items": [
             {
-              "icon": "layers",
-              "title": "Più lavorazioni, una sola macchina",
-              "text": "Tornitura, fresatura della mica e lavori correlati senza spostare l'indotto da una macchina all'altra."
+              "icon": "scissors",
+              "title": "Fresatura automatica della mica",
+              "text": "Rimozione precisa dell'isolamento."
+            },
+            {
+              "icon": "stars",
+              "title": "Sbavatura e lucidatura",
+              "text": "Una finitura superficiale del collettore di qualità superiore."
             },
             {
               "icon": "bullseye",
-              "title": "Collettore perfettamente concentrico",
-              "text": "Una superficie del collettore concentrica favorisce un contatto uniforme delle spazzole."
+              "title": "Tornitura e rettifica di precisione",
+              "text": "Di collettori e fuselli dei cuscinetti."
             },
             {
-              "icon": "scissors",
-              "title": "Fresatura pulita",
-              "text": "Mica ribassata sotto il rame per prevenire usura delle spazzole e scariche superficiali."
+              "icon": "layers",
+              "title": "Lavorazione integrata dell'indotto",
+              "text": "Bendaggio, rirullatura e taglio delle bobine sulla stessa macchina."
             },
             {
-              "icon": "arrows-move",
-              "title": "Meno movimentazioni",
-              "text": "Gli indotti pesanti vengono sollevati e attrezzati meno volte."
+              "icon": "bricks",
+              "title": "Robusta testa motrice in ghisa",
+              "text": "Rigidità e precisione di lavorazione eccezionali."
             },
             {
-              "icon": "sliders",
-              "title": "Adattabile",
-              "text": "Configurata per le dimensioni degli indotti della Sua flotta."
-            },
-            {
-              "icon": "house-gear",
-              "title": "Pensata per il deposito",
-              "text": "Una macchina al posto di diverse fa risparmiare spazio in officina."
+              "icon": "wifi",
+              "title": "Diagnostica remota",
+              "text": "Ricerca guasti più rapida e supporto specialistico da parte di HYT."
             }
           ]
         },
         {
           "type": "specs",
           "id": "specifications",
-          "heading": "Specifiche tecniche",
-          "intro": "La macchina viene configurata in base ai tipi di indotto di cui Lei esegue la manutenzione.",
+          "heading": "Dati tecnici",
+          "intro": "Dati tecnici HYT. Ogni macchina viene configurata in base allo scartamento, ai profili ruota e ai veicoli del cliente.",
           "columns": [
             "Parametro",
-            "Valore"
+            "YMM-04"
           ],
           "rows": [
             [
-              "Pezzo",
-              "Indotti di motori di trazione"
+              "Configurazione della macchina",
+              "Macchina universale multifunzione per indotti; fresatura della mica, tornitura, rettifica, bendaggio, rirullatura e taglio delle bobine"
             ],
             [
-              "Lavorazioni",
-              "Tornitura del collettore, fresatura della mica e lavorazioni correlate – perimetro su richiesta"
+              "Potenza dell'azionamento principale",
+              "Motore dell'azionamento principale 15 kW"
             ],
             [
-              "Peso massimo dell'indotto",
-              "Su richiesta"
+              "Velocità del mandrino della testa motrice, a regolazione continua",
+              "1,5–300 giri/min"
             ],
             [
-              "Lunghezza massima dell'indotto",
-              "Su richiesta"
+              "Avanzamento longitudinale del carro",
+              "0–100 mm/min"
             ],
             [
-              "Campo del diametro del collettore",
-              "Su richiesta"
+              "Avanzamento rapido longitudinale del carro",
+              "600 mm/min"
             ],
             [
-              "Azionamento",
-              "Su richiesta"
+              "Profondità di taglio massima in tornitura del collettore",
+              "2,5 mm"
+            ],
+            [
+              "Tensione massima di bendaggio con filo / nastro",
+              "300 kg"
+            ],
+            [
+              "Peso dell'indotto, max",
+              "30 kN"
+            ],
+            [
+              "Lunghezza dell'indotto, min – max",
+              "500–1600 mm"
+            ],
+            [
+              "Diametro dell'indotto, min – max",
+              "130–1500 mm"
+            ],
+            [
+              "Diametro del collettore da lavorare, min – max",
+              "120–900 mm"
+            ],
+            [
+              "Lunghezza del collettore da lavorare, min – max",
+              "75–450 mm"
+            ],
+            [
+              "Ovalizzazione in tornitura del collettore",
+              "< 0,015 mm"
+            ],
+            [
+              "Conicità in tornitura del collettore",
+              "< 0,015 mm"
+            ],
+            [
+              "Uniformità della tensione di bendaggio",
+              "< ± 10 kg"
             ]
           ],
-          "note": "I valori definitivi vengono confermati nell'offerta tecnica per la Sua applicazione."
+          "note": "I valori definitivi vengono confermati nell'offerta tecnica."
         },
         {
           "type": "steps",
@@ -3640,16 +4000,16 @@
               "text": "Si verificano eccentricità e condizioni superficiali del collettore."
             },
             {
-              "title": "Tornitura",
-              "text": "La superficie del collettore viene tornita per renderla concentrica."
+              "title": "Tornitura e rettifica",
+              "text": "Il collettore e i fuselli dei cuscinetti vengono torniti e rettificati in perfetta concentricità."
             },
             {
               "title": "Fresatura della mica",
               "text": "La mica tra le lamelle viene ribassata sotto il livello del rame."
             },
             {
-              "title": "Finitura",
-              "text": "Gli spigoli delle lamelle vengono smussati e la superficie pulita."
+              "title": "Sbavatura e lucidatura",
+              "text": "Gli spigoli delle lamelle vengono sbavati e la superficie del collettore lucidata."
             },
             {
               "title": "Controllo",
@@ -3663,14 +4023,14 @@
           "heading": "Caratteristiche principali",
           "cols": 2,
           "items": [
-            "Tornitura del collettore",
-            "Fresatura della mica",
-            "Finitura degli spigoli delle lamelle",
-            "Supporto dell'indotto adattato alla Sua gamma di indotti",
-            "Più lavorazioni in un unico attrezzaggio",
-            "Area di lavoro protetta",
-            "Progettata per le officine di deposito",
-            "Configurata per i motori della Sua flotta"
+            "Tornitura e rettifica del collettore",
+            "Fresatura automatica della mica",
+            "Sbavatura e lucidatura",
+            "Tornitura e rettifica dei fuselli dei cuscinetti",
+            "Bendaggio con filo e nastro fino a 300 kg di tensione",
+            "Rirullatura e taglio delle bobine",
+            "Velocità della testa motrice a regolazione continua, 1,5–300 giri/min",
+            "Robusta testa motrice in ghisa"
           ]
         },
         {
@@ -3722,7 +4082,7 @@
           "items": [
             {
               "image": "products/multi-purpose-armature-machine",
-              "caption": "Illustrazione esemplificativa della macchina multifunzione per indotti"
+              "caption": "Macchina multifunzione per indotti HYT YMM-04 con un indotto di motore di trazione in macchina"
             },
             {
               "image": "projects/emu-car-shed",
@@ -3741,7 +4101,7 @@
           "items": [
             {
               "q": "Quali lavorazioni esegue la macchina?",
-              "a": "Tornitura del collettore e fresatura della mica, insieme alle relative operazioni di finitura. Il perimetro esatto viene configurato in base ai Suoi tipi di indotto."
+              "a": "Tornitura e rettifica del collettore, fresatura della mica, sbavatura e lucidatura, tornitura e rettifica dei fuselli dei cuscinetti, bendaggio con filo e nastro, rirullatura e taglio delle bobine – tutto su un'unica macchina."
             },
             {
               "q": "Perché fresare la mica?",
@@ -3753,7 +4113,7 @@
             },
             {
               "q": "Quali dimensioni di indotto si possono lavorare?",
-              "a": "I limiti di peso e lunghezza dell'indotto e di diametro del collettore vengono definiti in base alla Sua flotta e confermati nell'offerta tecnica."
+              "a": "Indotti fino a 30 kN, con lunghezza di 500–1600 mm e diametro di 130–1500 mm, con diametri del collettore di 120–900 mm e lunghezze del collettore di 75–450 mm."
             },
             {
               "q": "La macchina può essere installata in un'officina di deposito esistente?",
@@ -3765,12 +4125,12 @@
     },
     "automated-train-washing-plant": {
       "nav": "Impianto automatico di lavaggio treni",
-      "title": "Impianto automatico di lavaggio treni per depositi",
-      "description": "Impianto HYT di lavaggio treni automatico: pulisce l'esterno dei convogli in transito lento. Risultati costanti, meno manodopera, consumi d'acqua controllati.",
+      "title": "Impianto automatico di lavaggio treni",
+      "description": "Impianto automatico di lavaggio carrozze a passaggio per Indian Railways. Un convoglio di 24 carrozze in meno di 15 minuti, con un massimo di 60 litri di acqua fresca per carrozza.",
       "eyebrow": "Attrezzature per depositi e officine",
       "h1": "Impianto automatico di lavaggio treni a passaggio per la pulizia esterna",
-      "lede": "I treni attraversano lentamente l'impianto ed escono puliti. Il lavaggio automatico garantisce risultati costanti, libera il personale dal lavoro manuale e tiene sotto controllo il consumo di acqua e detergente.",
-      "summary": "Impianto a passaggio che lava automaticamente l'esterno dei treni, per una pulizia costante con meno manodopera e consumi d'acqua controllati.",
+      "lede": "Un sistema di lavaggio esterno delle carrozze completamente automatico e a passaggio, progettato per Indian Railways – pulisce un convoglio completo di 24 carrozze in meno di 15 minuti, con un consumo d'acqua minimo e senza interventi manuali.",
+      "summary": "Impianto automatico di lavaggio carrozze a passaggio che pulisce un convoglio di 24 carrozze in meno di 15 minuti con un massimo di 60 litri di acqua fresca per carrozza.",
       "related": [
         "rail-cum-road-vehicle-shunter",
         "multi-purpose-armature-machine",
@@ -3780,100 +4140,95 @@
         {
           "type": "text",
           "id": "overview",
-          "eyebrow": "L'impianto",
-          "heading": "Treni puliti senza fatica manuale",
+          "eyebrow": "Panoramica del prodotto",
+          "heading": "Che cos'è l'impianto automatico di lavaggio treni?",
           "paragraphs": [
-            "Un treno pulito conta per i passeggeri, per la visuale del macchinista e per lo stato di vernice, finestrini e guarnizioni. Il lavaggio a mano è lento, fisicamente impegnativo e difficile da eseguire in modo uniforme su una flotta numerosa.",
-            "Un impianto di lavaggio automatico viene installato su un binario del deposito. Il treno lo attraversa a bassa velocità mentre l'impianto bagna la cassa, applica il detergente, spazzola con spazzole rotanti e risciacqua. I sensori rilevano il veicolo e comandano ogni fase, così acqua e detergente vengono utilizzati solo dove il treno è presente.",
-            "Layout dell'impianto, disposizione delle spazzole, prodotti chimici e gestione dell'acqua vengono progettati in base alle sagome dei Suoi veicoli, al binario del deposito e alle condizioni idriche locali."
+            "L'impianto automatico di lavaggio treni HYT elimina la dipendenza dal lavoro manuale per la pulizia delle carrozze – un requisito fondamentale di igiene e decoro in tutti i depositi e le linee di lavaggio di Indian Railways.",
+            "Il sistema è concepito come un'installazione fissa che i convogli attraversano a bassa velocità. Mentre ogni carrozza transita nell'impianto, viene in sequenza prebagnata, trattata con prodotti chimici, spazzolata meccanicamente, risciacquata ad alta pressione e asciugata, il tutto senza fermarsi. Il riciclo dell'acqua tramite un impianto di trattamento degli effluenti (ETP) integrato riduce ulteriormente i costi di esercizio."
           ],
           "image": "products/automated-train-washing-plant",
-          "image_alt": "Illustrazione esemplificativa di un treno che attraversa un impianto di lavaggio automatico con spazzole rotanti",
+          "image_alt": "Impianto automatico di lavaggio treni HYT con gruppi spazzole su entrambi i lati del binario",
           "layout": "image-right"
         },
         {
           "type": "features",
           "id": "advantages",
           "eyebrow": "Vantaggi principali",
-          "heading": "Perché automatizzare il lavaggio dei treni",
+          "heading": "Perché scegliere l'impianto automatico di lavaggio treni?",
           "cols": 3,
           "items": [
             {
-              "icon": "check2-circle",
-              "title": "Risultati costanti",
-              "text": "Ogni veicolo lavato con la stessa sequenza e la stessa copertura."
-            },
-            {
-              "icon": "people",
-              "title": "Meno lavoro manuale",
-              "text": "Personale sollevato da operazioni di pulizia faticose e ripetitive."
-            },
-            {
-              "icon": "droplet",
-              "title": "Consumo d'acqua controllato",
-              "text": "Acqua e detergente applicati solo dove e quando servono."
+              "icon": "magic",
+              "title": "Ciclo di lavaggio completamente automatico",
+              "text": "Pulizia delle carrozze uniforme e senza interventi manuali."
             },
             {
               "icon": "recycle",
-              "title": "Opzione recupero acqua",
-              "text": "È possibile includere recupero e trattamento per ridurre il fabbisogno di acqua fresca."
+              "title": "Sistema di riciclo dell'acqua",
+              "text": "Un ETP integrato limita il consumo di acqua fresca a soli 60 litri per carrozza."
             },
             {
-              "icon": "clock-history",
-              "title": "Passaggio rapido",
-              "text": "I treni vengono lavati durante il transito, integrandosi nei normali movimenti del deposito."
+              "icon": "speedometer",
+              "title": "Rilevamento della velocità tramite laser",
+              "text": "Sincronizza automaticamente il ciclo di lavaggio con il movimento del treno."
             },
             {
-              "icon": "brush",
-              "title": "Spazzole adattate alla sagoma",
-              "text": "Disposizione delle spazzole progettata in base alle sagome dei Suoi veicoli."
+              "icon": "boxes",
+              "title": "Design modulare e robusto",
+              "text": "Installazione e ricollocazione semplici, manutenzione ridotta."
+            },
+            {
+              "icon": "display",
+              "title": "Sistema di controllo centralizzato",
+              "text": "Monitoraggio in tempo reale e diagnostica dei guasti."
+            },
+            {
+              "icon": "wifi",
+              "title": "Diagnostica remota",
+              "text": "Supporto tecnico più rapido e fermi ridotti."
             }
           ]
         },
         {
           "type": "specs",
           "id": "specifications",
-          "heading": "Specifiche tecniche",
-          "intro": "L'impianto viene progettato per la Sua flotta, il layout del deposito e l'approvvigionamento idrico.",
+          "heading": "Dati tecnici",
+          "intro": "Dati tecnici HYT. Ogni macchina viene configurata in base allo scartamento, ai profili ruota e ai veicoli del cliente.",
           "columns": [
             "Parametro",
-            "Valore"
+            "Impianto di lavaggio"
           ],
           "rows": [
             [
-              "Tipo di lavaggio",
-              "Lavaggio esterno a passaggio"
+              "Configurazione della macchina",
+              "Impianto automatico di lavaggio esterno delle carrozze a passaggio"
             ],
             [
-              "Tipi di veicolo",
-              "Secondo specifica del cliente"
+              "Tempo ciclo, convoglio di 24 carrozze",
+              "≤ 15 min"
             ],
             [
-              "Velocità di transito del treno",
-              "Su richiesta"
+              "Velocità di lavaggio del treno",
+              "3–5 km/h"
             ],
             [
-              "Disposizione delle spazzole",
-              "Su richiesta"
+              "Pressione del risciacquo finale",
+              "Circa 10 kg/cm² (≈ 10 bar)"
             ],
             [
-              "Consumo d'acqua per treno",
-              "Su richiesta"
+              "Acqua fresca per carrozza",
+              "Max 60 L"
             ],
             [
-              "Recupero e trattamento dell'acqua",
-              "Su richiesta"
+              "Recupero dell'acqua",
+              "Riciclata tramite ETP integrato"
             ],
             [
-              "Dosaggio del detergente",
-              "Su richiesta"
-            ],
-            [
-              "Scartamento",
-              "Secondo specifica del cliente*"
+              "Rilevamento della velocità",
+              "Tramite laser, sincronizzato con il movimento del treno"
             ]
           ],
-          "note": "I valori contrassegnati con * dipendono dallo scartamento e dalla configurazione del cliente. I valori definitivi vengono confermati nell'offerta tecnica."
+          "note": "I valori definitivi vengono confermati nell'offerta tecnica."
         },
         {
           "type": "steps",
@@ -3883,27 +4238,27 @@
           "items": [
             {
               "title": "Rilevamento",
-              "text": "I sensori registrano l'arrivo del treno e avviano la sequenza."
+              "text": "Il rilevamento della velocità tramite laser registra il treno e sincronizza il ciclo di lavaggio con il suo movimento."
             },
             {
               "title": "Prebagnatura",
-              "text": "La cassa viene bagnata per ammorbidire lo sporco."
+              "text": "Ogni carrozza viene bagnata per ammorbidire lo sporco mentre entra nell'impianto a 3–5 km/h."
             },
             {
-              "title": "Applicazione del detergente",
-              "text": "Il prodotto detergente viene applicato alla concentrazione impostata."
+              "title": "Trattamento chimico",
+              "text": "Il detergente viene applicato sulla cassa della carrozza."
             },
             {
               "title": "Spazzolatura",
-              "text": "Spazzole rotanti puliscono le fiancate e le altre superfici previste."
+              "text": "Spazzole rotanti puliscono meccanicamente la carrozza."
             },
             {
-              "title": "Risciacquo",
-              "text": "Acqua pulita rimuove detergente e sporco disciolto."
+              "title": "Risciacquo ad alta pressione",
+              "text": "Un risciacquo finale a circa 10 bar rimuove il detergente e lo sporco ammorbidito."
             },
             {
-              "title": "Raccolta",
-              "text": "L'acqua di lavaggio viene convogliata alla raccolta o al recupero, secondo progetto."
+              "title": "Asciugatura e riciclo",
+              "text": "La carrozza viene asciugata e l'acqua di lavaggio viene riciclata tramite l'ETP integrato."
             }
           ]
         },
@@ -3913,14 +4268,14 @@
           "heading": "Caratteristiche principali",
           "cols": 2,
           "items": [
-            "Funzionamento a passaggio su un binario del deposito",
-            "Rilevamento automatico del veicolo",
-            "Fasi di prebagnatura, detergente e risciacquo",
-            "Spazzole rotanti adattate alle sagome dei veicoli",
-            "Dosaggio controllato del detergente",
-            "Recupero e trattamento dell'acqua opzionali",
-            "Quadro di comando centralizzato",
-            "Progettato per le condizioni idriche e climatiche locali"
+            "Funzionamento a passaggio – il treno non si ferma",
+            "Rilevamento della velocità tramite laser",
+            "Prebagnatura, trattamento chimico, spazzolatura, risciacquo ad alta pressione e asciugatura",
+            "Convoglio di 24 carrozze in 15 minuti o meno",
+            "Max 60 litri di acqua fresca per carrozza",
+            "Riciclo dell'acqua tramite un ETP integrato",
+            "Controllo centralizzato con monitoraggio in tempo reale",
+            "Design modulare e robusto"
           ]
         },
         {
@@ -3967,7 +4322,7 @@
           "items": [
             {
               "image": "products/automated-train-washing-plant",
-              "caption": "Illustrazione esemplificativa dell'impianto automatico di lavaggio treni"
+              "caption": "Impianto automatico di lavaggio treni HYT con gruppi spazzole su entrambi i lati del binario"
             },
             {
               "image": "projects/metro-depot",
@@ -3990,11 +4345,11 @@
           "items": [
             {
               "q": "Il treno deve fermarsi?",
-              "a": "No. In un impianto a passaggio il treno transita a bassa velocità mentre le fasi di lavaggio si susseguono in sequenza."
+              "a": "No. Il treno transita a 3–5 km/h mentre le fasi di lavaggio si susseguono in sequenza; un convoglio di 24 carrozze viene lavato in 15 minuti o meno."
             },
             {
               "q": "L'acqua di lavaggio può essere riciclata?",
-              "a": "È possibile includere recupero e trattamento dell'acqua. Il progetto dipende dalla qualità dell'acqua locale, dalle norme sugli scarichi e dal volume di lavaggio."
+              "a": "Sì. L'acqua di lavaggio viene riciclata tramite un impianto di trattamento degli effluenti (ETP) integrato, che limita il consumo di acqua fresca a un massimo di 60 litri per carrozza."
             },
             {
               "q": "Quali veicoli si possono lavare?",
@@ -4014,12 +4369,12 @@
     },
     "rail-cum-road-vehicle-shunter": {
       "nav": "Veicolo strada-rotaia (mezzo di manovra)",
-      "title": "Veicolo strada-rotaia da manovra per depositi",
-      "description": "Veicolo strada-rotaia HYT da manovra: sposta carrozze, carri e locomotive in depositi e raccordi, poi lascia il binario su ruote stradali verso un altro lavoro.",
+      "title": "Veicolo strada-rotaia da manovra KRE 15 RCRV",
+      "description": "Mezzo di manovra bimodale a batteria per depositi e officine. Sforzo di trazione di 15 kN, capacità di traino di 135 t e passaggio da rotaia a strada in due minuti.",
       "eyebrow": "Attrezzature per depositi e officine",
-      "h1": "Veicolo strada-rotaia (mezzo di manovra) per manovre flessibili in depositi e raccordi",
-      "lede": "Un unico veicolo che circola su rotaia per movimentare il materiale rotabile e su strada per raggiungere il binario successivo – un'alternativa alla locomotiva per molte movimentazioni in deposito.",
-      "summary": "Mezzo di manovra bimodale che movimenta il materiale rotabile su rotaia e si sposta su strada tra i binari – un'alternativa alle manovre con locomotiva nei depositi.",
+      "h1": "Veicolo strada-rotaia da manovra KRE 15 RCRV – manovre a batteria su rotaia e su strada",
+      "lede": "Un mezzo di manovra bimodale a batteria che movimenta locomotive, carrozze, carri e interi convogli sia su rotaia sia su strada – senza una locomotiva di manovra dedicata.",
+      "summary": "Mezzo di manovra strada-rotaia a batteria con sforzo di trazione di 15 kN e capacità di traino di 135 t per movimentare il materiale rotabile in depositi e officine.",
       "related": [
         "automated-train-washing-plant",
         "underfloor-wheel-lathe",
@@ -4029,100 +4384,101 @@
         {
           "type": "text",
           "id": "overview",
-          "eyebrow": "Il veicolo",
-          "heading": "Manovrare senza impegnare una locomotiva",
+          "eyebrow": "Panoramica del prodotto",
+          "heading": "Che cos'è il veicolo strada-rotaia da manovra?",
           "paragraphs": [
-            "Depositi e officine movimentano veicoli tutto il giorno: verso il binario del tornio, attraverso l'impianto di lavaggio, sopra le fosse d'ispezione e fuori verso i binari di ricovero. Impiegare una locomotiva per ogni movimento impegna mezzi di trazione e personale, e una locomotiva non può lasciare le rotaie per raggiungere un altro binario.",
-            "Un veicolo strada-rotaia da manovra invece può farlo. Circola su strada sui propri pneumatici, abbassa le ruote di guida ferroviarie in un punto di accesso al binario e poi procede sulle rotaie per agganciare e movimentare il materiale rotabile. A lavoro finito, solleva le ruote ferroviarie e si sposta verso il binario successivo.",
-            "Sistema di aggancio, frenatura, capacità di traino e scartamento vengono adattati ai veicoli da movimentare e al layout del Suo deposito."
+            "Il veicolo strada-rotaia da manovra HYT è una soluzione versatile per la movimentazione ferroviaria, progettata per spostare in modo sicuro ed efficiente locomotive, carrozze, carri, vetture metropolitane e interi convogli all'interno di depositi, officine, impianti di manutenzione e stabilimenti di produzione.",
+            "A differenza delle locomotive di manovra convenzionali, il veicolo strada-rotaia da manovra HYT unisce la mobilità stradale alla capacità di trazione su rotaia, consentendo agli operatori di trasferire senza interruzioni il materiale rotabile tra campate d'officina, binari di ispezione, impianti di lavaggio e binari di ricovero, senza bisogno di una locomotiva dedicata.",
+            "Il mezzo di manovra è dotato di avanzati sistemi idraulici e di trazione che assicurano accelerazioni dolci, frenature controllate e un posizionamento preciso del materiale rotabile durante le operazioni di manutenzione e montaggio. Ciò migliora la sicurezza operativa, riduce i tempi di rotazione e aumenta la produttività complessiva dell'officina.",
+            "Progettato per i moderni impianti di manutenzione ferroviaria, il veicolo strada-rotaia da manovra HYT offre un'alternativa economica e flessibile ai metodi di manovra tradizionali, aiutando gli operatori a massimizzare l'utilizzo dei mezzi riducendo al minimo i costi di esercizio e i requisiti infrastrutturali."
           ],
           "image": "products/rail-cum-road-vehicle-shunter",
-          "image_alt": "Illustrazione esemplificativa di un veicolo strada-rotaia da manovra agganciato a una carrozza passeggeri in un deposito",
+          "image_alt": "Veicolo strada-rotaia da manovra HYT KRE 15 RCRV",
           "layout": "image-right"
         },
         {
           "type": "features",
           "id": "advantages",
           "eyebrow": "Vantaggi principali",
-          "heading": "Che cosa cambia con un mezzo di manovra strada-rotaia",
+          "heading": "Perché scegliere il KRE 15 RCRV?",
           "cols": 3,
           "items": [
             {
               "icon": "signpost-split",
-              "title": "Raggiunge qualsiasi binario",
-              "text": "Si sposta su strada tra i binari invece di attendere deviatoi e itinerari."
+              "title": "Funzionamento bimodale",
+              "text": "Movimentazione fluida sia su binario sia su strada, con un tempo di passaggio da una modalità all'altra di soli due minuti."
             },
             {
-              "icon": "train-freight-front",
-              "title": "Libera le locomotive",
-              "text": "Le locomotive restano in servizio commerciale o sulla rete principale invece di essere impegnate nelle manovre in deposito."
-            },
-            {
-              "icon": "clock-history",
-              "title": "Pronto quando serve",
-              "text": "Rapido da impiegare per movimenti brevi e frequenti."
-            },
-            {
-              "icon": "box-seam",
-              "title": "Dimensionato per il lavoro in deposito",
-              "text": "Un veicolo compatto, adatto alle manovre in deposito e non al traino in linea."
+              "icon": "lightning-charge",
+              "title": "Prestazioni di manovra elevate",
+              "text": "Sforzo di trazione fino a 15 kN e capacità di traino di 135 t."
             },
             {
               "icon": "link-45deg",
-              "title": "Adattato al Suo materiale rotabile",
-              "text": "Organi di aggancio e collegamenti freno adatti alla Sua flotta."
+              "title": "Verricello integrato opzionale",
+              "text": "Operazioni di traino e spinta efficienti."
             },
             {
-              "icon": "shield-check",
-              "title": "Movimenti controllati",
-              "text": "Manovre a bassa velocità per spostamenti sicuri in presenza di personale e attrezzature."
+              "icon": "arrow-repeat",
+              "title": "Rotazione di 360°",
+              "text": "Manovrabilità eccezionale negli spazi ristretti del deposito."
+            },
+            {
+              "icon": "controller",
+              "title": "Comando a distanza",
+              "text": "Maggiore sicurezza, precisione e comodità per l'operatore."
+            },
+            {
+              "icon": "battery-charging",
+              "title": "Trazione elettrica a batteria",
+              "text": "Funzionamento pulito, silenzioso e senza emissioni."
             }
           ]
         },
         {
           "type": "specs",
           "id": "specifications",
-          "heading": "Specifiche tecniche",
-          "intro": "Le capacità vengono adattate alla composizione più pesante e alla pendenza più ripida del Suo deposito.",
+          "heading": "Dati tecnici",
+          "intro": "Dati tecnici HYT. Ogni macchina viene configurata in base allo scartamento, ai profili ruota e ai veicoli del cliente.",
           "columns": [
             "Parametro",
-            "Valore"
+            "KRE 15 RCRV"
           ],
           "rows": [
             [
-              "Modalità operative",
-              "Rotaia e strada"
+              "Configurazione della macchina",
+              "Mezzo di manovra bimodale strada-rotaia; trazione elettrica a batteria"
+            ],
+            [
+              "Peso in servizio",
+              "6 t ± 10%"
+            ],
+            [
+              "Carico massimo per ruota",
+              "Circa 1,5 t"
             ],
             [
               "Scartamento",
-              "Secondo specifica del cliente*"
+              "1676 mm / 1435 mm"
+            ],
+            [
+              "Velocità massima",
+              "V1 (a carico): 0–2 km/h; V2 (isolato): 0–4 km/h"
+            ],
+            [
+              "Sforzo di trazione massimo",
+              "15 kN al cerchione, con aderenza μ = 0,5 su rotaia asciutta (0,3 su rotaia bagnata)"
             ],
             [
               "Capacità di traino",
-              "Su richiesta"
+              "135 t di locomotive o altro materiale rotabile, su pendenze fino al 2,5 ‰ (2,5 su 1000)"
             ],
             [
-              "Sforzo di trazione",
-              "Su richiesta"
-            ],
-            [
-              "Gruppo motore",
-              "Su richiesta"
-            ],
-            [
-              "Sistema di aggancio",
-              "Secondo specifica del cliente"
-            ],
-            [
-              "Collegamento freno ai veicoli trainati",
-              "Su richiesta"
-            ],
-            [
-              "Passaggio rotaia–strada",
-              "Su richiesta"
+              "Tempo di passaggio da rotaia a strada",
+              "Circa 2 min"
             ]
           ],
-          "note": "I valori contrassegnati con * dipendono dallo scartamento e dalla configurazione del cliente. I valori definitivi vengono confermati nell'offerta tecnica."
+          "note": "I valori definitivi vengono confermati nell'offerta tecnica."
         },
         {
           "type": "steps",
@@ -4136,15 +4492,15 @@
             },
             {
               "title": "Inserimento su rotaia",
-              "text": "Le ruote di guida ferroviarie vengono abbassate e il veicolo viene allineato sul binario."
+              "text": "Il mezzo di manovra passa dalla modalità stradale a quella ferroviaria in circa due minuti e viene allineato sul binario."
             },
             {
               "title": "Aggancio",
-              "text": "Il veicolo si aggancia al materiale rotabile e si effettua il collegamento freno."
+              "text": "Si aggancia al materiale rotabile da movimentare."
             },
             {
               "title": "Manovra",
-              "text": "La composizione viene spostata sul binario d'officina, all'impianto di lavaggio o sul binario di ricovero."
+              "text": "Con il radiocomando, l'operatore sposta il convoglio verso il binario d'officina, l'impianto di lavaggio o il binario di ricovero."
             },
             {
               "title": "Sgancio",
@@ -4162,14 +4518,14 @@
           "heading": "Caratteristiche principali",
           "cols": 2,
           "items": [
-            "Circolazione su strada e su rotaia in un unico veicolo",
-            "Ruote di guida ferroviarie retrattili",
-            "Aggancio adatto al Suo materiale rotabile",
-            "Collegamento freno ai veicoli trainati su richiesta",
-            "Cabina di guida con visuale lungo il binario",
-            "Configurato per il Suo scartamento",
-            "Progettato per manovre a bassa velocità in deposito",
-            "Formazione degli operatori inclusa nella messa in servizio"
+            "Funzionamento su rotaia e su strada in un unico veicolo",
+            "Passaggio da rotaia a strada in circa 2 minuti",
+            "Sforzo di trazione fino a 15 kN al cerchione",
+            "Capacità di traino di 135 t su pendenze fino al 2,5 ‰",
+            "Comando a distanza",
+            "Rotazione di 360° per gli spazi ristretti del deposito",
+            "Verricello integrato opzionale",
+            "Trazione elettrica a batteria, senza emissioni"
           ]
         },
         {
@@ -4221,7 +4577,7 @@
           "items": [
             {
               "image": "products/rail-cum-road-vehicle-shunter",
-              "caption": "Illustrazione esemplificativa del veicolo strada-rotaia (mezzo di manovra)"
+              "caption": "Veicolo strada-rotaia da manovra HYT KRE 15 RCRV"
             },
             {
               "image": "projects/metro-depot",
@@ -4240,11 +4596,11 @@
           "items": [
             {
               "q": "Che cos'è un veicolo strada-rotaia?",
-              "a": "Un veicolo che può circolare su strada sui propri pneumatici e su rotaia grazie a ruote di guida retrattili. In modalità di manovra si aggancia al materiale rotabile e lo movimenta lungo il binario."
+              "a": "Un mezzo di manovra che circola su strada e su rotaia e passa da una modalità all'altra in circa due minuti. In modalità di manovra si aggancia al materiale rotabile e lo movimenta lungo il binario."
             },
             {
               "q": "Quanti veicoli può movimentare?",
-              "a": "Dipende dalla capacità di traino configurata, dal peso del Suo materiale rotabile e dalle pendenze del deposito. Dimensioniamo il veicolo in base alla movimentazione regolare più pesante."
+              "a": "Il KRE 15 RCRV movimenta fino a 135 t di locomotive o altro materiale rotabile su pendenze fino al 2,5 ‰, con uno sforzo di trazione fino a 15 kN. Verifichiamo questi valori rispetto alla Sua movimentazione regolare più pesante e alle pendenze del Suo deposito."
             },
             {
               "q": "Quale infrastruttura richiede?",
