@@ -113,25 +113,42 @@
     "products": "Equipment"
   },
   "contact": {
-    "heading": "Contact details",
+    "heading": "Our locations",
     "office_heading": "Registered office & works",
     "address_lines": [
       "HYT Engineering Company Pvt. Ltd.",
-      "29/10, 29/10/1, 29/10/2, D-II Block",
-      "MIDC Chinchwad",
-      "Pune 411019, Maharashtra, India"
+      "Plot No. 29/10, 29/10/1, 29/10/2, D-II Block",
+      "MIDC, Chinchwad",
+      "Pune – 411019, Maharashtra, India"
     ],
     "phone": "+91 20 6634 3900",
     "phone_alt": "+91 20 6634 3906",
     "tollfree": "1800 2100 456",
     "email": "info@hytengineering.com",
     "hours_heading": "Office hours",
-    "hours": "Monday to Saturday, 9:30–18:30 IST. Closed on Sundays and public holidays.",
+    "hours": "Monday to Saturday, 9:30 AM – 6:30 PM IST",
     "phone_heading": "Telephone",
     "email_heading": "Email",
     "map_link": "Open in Google Maps",
     "service_heading": "After-sales service",
-    "service_text": "Machine down or need a spare part? Call the toll-free line and keep the machine serial number ready."
+    "service_text": "Machine down or need a spare part? Call the toll-free line and keep the machine serial number ready.",
+    "locations_eyebrow": "Find us across the globe",
+    "website_heading": "Website",
+    "locations": {
+      "pune": {
+        "name": "HYT Engineering Company Pvt. Ltd.",
+        "role": "Pune, India – Headquarters & Works"
+      },
+      "delhi": {
+        "name": "HYT Engineering Company Pvt. Ltd., Delhi",
+        "role": "New Delhi, India – Sales & Marketing Office"
+      },
+      "safop": {
+        "name": "SAFOP S.p.A.",
+        "role": "Pordenone, Italy – Group subsidiary",
+        "note": "European operations & technology centre"
+      }
+    }
   },
   "form": {
     "required_note": "Fields marked * are required.",
@@ -200,7 +217,11 @@
       "error": "Sorry, your submission could not be sent. Please try again or email info@hytengineering.com.",
       "not_configured": "Online submission is not active yet on this preview site. Please email info@hytengineering.com or call +91 20 6634 3900 – your message has not been sent.",
       "rate_limited": "Too many attempts. Please wait a minute and try again."
-    }
+    },
+    "first_name": "First name",
+    "last_name": "Last name",
+    "message_requirements": "Message / requirements",
+    "secure_note": "Your data is secure. We respond within 24 hours."
   },
   "countries": [
     "India",

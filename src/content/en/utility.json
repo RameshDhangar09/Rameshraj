@@ -3,34 +3,23 @@
     "contact-us": {
       "nav": "Contact Us",
       "title": "Contact HYT Engineering",
-      "description": "Contact HYT Engineering in Pune about CNC wheel lathes, wheel shop machines, turnkey workshops or service. Call, email or send an enquiry form to our team.",
-      "eyebrow": "Contact",
-      "h1": "Contact HYT Engineering",
-      "lede": "Tell us about your fleet, your workshop or the problem you need to solve. An application engineer will come back to you – usually with questions before answers.",
-      "summary": "Telephone, email, address and enquiry form for HYT Engineering in Pune.",
+      "description": "Contact HYT Engineering in Pune, New Delhi or at SAFOP in Italy about CNC wheel lathes, wheel shops, turnkey workshops or service. We respond within 24 hours.",
+      "eyebrow": "Contact us",
+      "h1": "Let's start a conversation",
+      "lede": "Whether you're planning a new wheel shop, need service support on existing machinery, or want to explore a partnership – our team is ready to respond within 24 hours.",
+      "summary": "Our locations in Pune, New Delhi and Pordenone (Italy), telephone, email and enquiry form.",
       "blocks": [
         {
-          "type": "text",
-          "eyebrow": "How we can help",
-          "heading": "Talk to the people who build the machines",
-          "paragraphs": [
-            "Enquiries are answered by HYT's own engineering and sales team in Pune – people who know the machines and the railway workshops they work in. Whether you are planning a new depot, replacing an old lathe or need a quotation for a single machine, the more you tell us, the more useful our first reply will be.",
-            "Helpful details include your vehicle types and fleet size, wheel diameter range and profiles, track gauge, expected wheelsets per shift and a sketch of your workshop or depot layout."
-          ],
-          "image": "company/corporate-office",
-          "image_alt": "Sample illustration of the HYT Engineering office and works in Pune",
-          "layout": "image-right"
-        },
-        {
           "type": "contact",
-          "heading": "Contact details"
+          "id": "locations"
         },
         {
           "type": "form",
           "id": "enquiry",
           "form": "enquiry",
-          "heading": "Send an enquiry",
-          "intro": "Use this form for product, project and service enquiries. The more detail you give, the more specific our first answer can be."
+          "eyebrow": "Contact form",
+          "heading": "Drop us a message",
+          "intro": "Tell us about your fleet, your workshop or the problem you need to solve. Helpful details include vehicle types, wheel diameter range, track gauge and expected wheelsets per shift."
         },
         {
           "type": "split_cta",

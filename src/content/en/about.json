@@ -159,41 +159,314 @@
     "history": {
       "nav": "History",
       "title": "Our History – HYT Engineering Since 1977",
-      "description": "From small drilling machines and lathes in 1977 to CNC wheel lathes for national railways and metros – the milestones that shaped HYT Engineering in Pune.",
+      "description": "From drilling machines in 1977 to India's first indigenous wheel lathes, SAFOP in Italy and InnoTrans 2026 – the milestones that shaped HYT Engineering.",
       "eyebrow": "About HYT",
       "h1": "Our History",
-      "lede": "Almost five decades of building machine tools in Pune, and the steady shift from general workshop machines to the railway wheel technology we are known for today.",
-      "summary": "Milestones from our beginnings in 1977 to CNC wheel lathes for railways and metros.",
+      "lede": "Almost five decades of precision engineering in Pune – from the first machines for Indian Railways in 1977 to an international group with SAFOP S.p.A. in Italy.",
+      "summary": "Milestones from our founding in 1977 to India's first indigenous wheel lathes, SAFOP and international markets.",
       "blocks": [
         {
-          "type": "timeline",
-          "heading": "Milestones",
-          "intro": "The main steps in HYT's development. Further dated milestones will be added as archive material is reviewed.",
-          "items": [
-            {"year": "1977", "title": "The beginning", "text": "HYT starts out as HYT Engineering Corporation in Pune, building small drilling machines and lathes for local workshops and industry."},
-            {"year": "1989", "title": "Incorporation", "text": "The business is incorporated as HYT Engineering Company Pvt. Ltd., giving it the structure to take on larger engineering contracts."},
-            {"year": "Growth", "title": "Into CNC wheel lathes", "text": "HYT applies its machine tool experience to railway wheelsets and pioneers CNC wheel lathe technology in India – underfloor, surface and portal lathes, followed by wheel and axle shop machines."},
-            {"year": "Certified", "title": "Three ISO management systems", "text": "Quality, environmental and occupational health and safety management are certified to ISO 9001:2015, ISO 14001:2015 and ISO 45001:2018. See [Certifications](page:certifications)."},
-            {"year": "Global", "title": "On the international stage", "text": "HYT exhibits at Asia Pacific Rail, Middle East Rail, Africa Rail and AusRAIL, and supplies a CNC vertical turret lathe to the State Railway of Thailand."},
-            {"year": "Today", "title": "Orders from India's metro and rapid transit operators", "text": "Delhi Metro Rail Corporation awards HYT a CNC tandem underfloor wheel lathe, and National Capital Region Transport Corporation issues a Letter of Acceptance for fully automatic CNC underfloor wheel lathes. See [projects under execution](page:under-execution)."}
-          ]
-        },
-        {
           "type": "text",
-          "eyebrow": "What has not changed",
-          "heading": "A machine builder at heart",
+          "eyebrow": "The HYT story",
+          "heading": "From drilling machines to a global engineering group",
           "paragraphs": [
-            "Our products and customers have changed a great deal since 1977, but the core has not. We still design our machines ourselves, build them in our own works and stand behind them on the shop floor.",
-            "That continuity matters to railway operators. A wheel lathe can run for decades, and the company that built it should still be there to service, upgrade and eventually replace it. Learn more [about HYT](page:about) or see the [machines we build today](page:products)."
+            "Established in 1977 under the leadership of Mr. Bhojraj Hemraj Teli, HYT Engineering Company began with a mission to manufacture quality precision machines. From beginning as a maker of drilling machines, HYT has grown into a trusted engineering group, providing advanced railway maintenance machinery, precision machine tools and turnkey solutions to customers in India and international markets."
           ],
           "image": "company/manufacturing-facility",
           "image_alt": "Sample illustration of machine tools being assembled in the HYT works",
           "layout": "image-right"
         },
         {
-          "type": "notice",
-          "variant": "review",
-          "text": "For HYT review: only the 1977 and 1989 dates are verified. Please supply dated milestones (first CNC wheel lathe, first underfloor lathe, ISO certification years, first export order, major contracts) and archive photographs for the timeline."
+          "type": "timeline",
+          "layout": "split",
+          "id": "era-1970s",
+          "eyebrow": "Era · 1970s",
+          "heading": "Foundation",
+          "items": [
+            {
+              "year": "1977",
+              "tag": "Founding milestone",
+              "title": "Establishment of HYT Engineering Corporation",
+              "text": "Mr. Bhojraj Hemraj Teli established HYT Engineering Corporation in Pune with a single mission – to manufacture quality precision machines for Railways. Early work focused on machines for the rehabilitation of traction motors and the regeneration of armatures, laying the foundation for a specialised engineering enterprise."
+            }
+          ]
+        },
+        {
+          "type": "timeline",
+          "layout": "split",
+          "id": "era-1980s",
+          "eyebrow": "Era · 1980s",
+          "heading": "Early innovation",
+          "items": [
+            {
+              "year": "1981",
+              "tag": "First development",
+              "title": "Development and supply of the Mica Under Cutting Machine",
+              "text": "HYT developed and supplied the Mica Under Cutting Machine – an early specialised product showing the company's growing capability in precision machine tool development for the railway sector."
+            },
+            {
+              "year": "1985",
+              "tag": "Product innovation",
+              "title": "Development and supply of the Universal Armature Machine",
+              "text": "The Universal Armature Machine was developed and supplied, expanding HYT's portfolio of specialised machines for railway traction motor maintenance and rehabilitation."
+            },
+            {
+              "year": "1989",
+              "tag": "Incorporation",
+              "title": "HYT Engineering Company Pvt. Ltd.",
+              "text": "The business was incorporated as HYT Engineering Company Pvt. Ltd., giving it the structure to take on larger engineering contracts."
+            }
+          ],
+          "variant": "muted"
+        },
+        {
+          "type": "timeline",
+          "layout": "split",
+          "id": "era-1990s",
+          "eyebrow": "Era · 1990s",
+          "heading": "Wheel lathe pioneer",
+          "items": [
+            {
+              "year": "1992",
+              "tag": "India first",
+              "title": "India's first indigenous Surface Wheel Lathe",
+              "text": "A landmark year. HYT developed and supplied India's first indigenous Surface Wheel Lathe, marking the company's entry into wheel lathe technology."
+            },
+            {
+              "year": "1994",
+              "tag": "India first",
+              "title": "India's first indigenous Underfloor Wheel Lathe and Axle Journal Turning Lathe",
+              "text": "HYT achieved another national first, developing and supplying India's first indigenous Underfloor (Pit) Wheel Lathe and the Axle Journal Turning and Burnishing Lathe."
+            }
+          ]
+        },
+        {
+          "type": "timeline",
+          "layout": "split",
+          "id": "era-2000s",
+          "eyebrow": "Era · 2000s",
+          "heading": "The CNC era and global reach",
+          "items": [
+            {
+              "year": "2001",
+              "tag": "Group expansion",
+              "title": "Establishment of HYT Innovative Projects Pvt. Ltd.",
+              "text": "HYT expanded the group by establishing HYT Innovative Projects Pvt. Ltd. as a sister concern, specialising in precision tube manufacture using Flow Forming technology, from a 4,500 m² facility with a team of 50+ employees."
+            },
+            {
+              "year": "2001",
+              "tag": "Technology upgrade",
+              "title": "From non-CNC to CNC machines",
+              "text": "HYT completed a transformative upgrade from non-CNC to CNC, developing and supplying the CNC Surface Wheel Lathe and the CNC Vertical Turning Lathe – positioning itself as a technology-led engineering company aligned with global manufacturing standards."
+            },
+            {
+              "year": "2004",
+              "tag": "HYT goes global",
+              "title": "Export order – SMH Rail Sdn. Bhd., Malaysia",
+              "text": "A defining milestone. HYT received an international order from SMH Rail Sdn. Bhd., Malaysia, beginning the company's global footprint and its transformation into an internationally recognised machine tool exporter."
+            },
+            {
+              "year": "2005",
+              "tag": "Strategic project",
+              "title": "Reconditioning of a submarine manufacturing machine – Mazagon Dock Ltd.",
+              "text": "HYT demonstrated its versatility by successfully reconditioning a submarine manufacturing machine for Mazagon Dock Ltd., extending its expertise beyond railways into defence and heavy engineering."
+            },
+            {
+              "year": "2007",
+              "tag": "Major order",
+              "title": "Larsen & Toubro order",
+              "text": "HYT received a landmark order from Larsen & Toubro for the supply of machines for wheel disc manufacturing – one of its largest single orders, cementing HYT's position."
+            },
+            {
+              "year": "2009",
+              "tag": "India first",
+              "title": "Automated Train Wash Plant – Kurla, Mumbai",
+              "text": "HYT developed and supplied India's first Automated Train Wash Plant for Indian Railways at Kurla, Mumbai – introducing a new product category and demonstrating the ability to innovate beyond wheel lathes into broader rail infrastructure."
+            }
+          ],
+          "variant": "muted"
+        },
+        {
+          "type": "timeline",
+          "layout": "split",
+          "id": "era-2010s",
+          "eyebrow": "Era · 2010s",
+          "heading": "Turnkey leadership and global expansion",
+          "items": [
+            {
+              "year": "2010",
+              "tag": "Technology upgrade",
+              "title": "CNC Vertical Turning and Boring Machine",
+              "text": "HYT developed and supplied the CNC Vertical Turning and Boring Machine – a high-precision machine for large-diameter components that significantly expanded the company's addressable market and technical capability."
+            },
+            {
+              "year": "2011",
+              "tag": "First EPC project",
+              "title": "LHB coach shell manufacturing facility – ICF Chennai",
+              "text": "HYT entered the turnkey EPC domain with its first major infrastructure project, setting up an LHB coach shell manufacturing facility for Integral Coach Factory, Chennai. This marked the transformation from machine tool supplier to complete infrastructure solutions provider."
+            },
+            {
+              "year": "2013",
+              "tag": "Record order",
+              "title": "Largest-ever single order for CNC Surface Wheel Lathes – 36 machines",
+              "text": "HYT received its largest single order for CNC Surface Wheel Lathes, for 36 machines, demonstrating the scale of demand for the company's flagship products across Indian Railways."
+            },
+            {
+              "year": "2013",
+              "tag": "Leadership",
+              "title": "Ms. Rajashri Teli appointed Whole Time Director",
+              "text": "Ms. Rajashri Bhojraj Teli was appointed Whole Time Director, bringing progressive business strategies that would drive significant expansion and global recognition for the group."
+            },
+            {
+              "year": "2014",
+              "tag": "Product milestone",
+              "title": "CNC Portal Wheel Lathe – North Central Railway, Jhansi",
+              "text": "HYT supplied the CNC Portal Wheel Lathe to North Central Railway's wagon repair workshop at Jhansi, adding another variant to its wheel lathe portfolio and strengthening its relationship with Indian Railways."
+            },
+            {
+              "year": "2015",
+              "tag": "Product milestone",
+              "title": "CNC Underfloor Wheel Lathes – Chennai Metro",
+              "text": "HYT expanded into the metro segment by supplying CNC Underfloor Wheel Lathes to Chennai Metro – the first of many metro contracts that established HYT as a preferred supplier for India's growing urban rail network."
+            },
+            {
+              "year": "2015",
+              "tag": "Make in India",
+              "title": "Rail cum Road Vehicle (Shunter) developed with BEMO, Netherlands",
+              "text": "HYT developed the Rail cum Road Vehicle (Shunter) under a Make in India initiative in collaboration with BEMO, Netherlands – a versatile vehicle for railway yard operations."
+            },
+            {
+              "year": "2015",
+              "tag": "Infrastructure",
+              "title": "Green Building headquarters established in Pune",
+              "text": "HYT established its Green Building headquarters in Chinchwad, Pune – a modern, sustainable facility that became the central hub for engineering, manufacturing and administration."
+            },
+            {
+              "year": "2016",
+              "tag": "Technology transfer",
+              "title": "CNC spring coiling machines – technology transfer from TNI Spring Technologies, USA",
+              "text": "HYT manufactured and supplied the CNC Hot Helical Spring Coiling Machine, CNC Hot Bar End Tapering Machine and Re-pitching Machine for the spring project at ICF Chennai, under a technology transfer from TNI Spring Technologies LLC, USA – demonstrating HYT's ability to assimilate and deploy international technology."
+            },
+            {
+              "year": "2018",
+              "tag": "OEM supply",
+              "title": "Supply to Alstom and GE Diesel Locomotive Pvt. Ltd.",
+              "text": "HYT supplied new-generation Underfloor Wheel Lathe machines to Alstom and GE Diesel Locomotive Pvt. Ltd., marking entry into the international OEM supply chain for rolling stock manufacturers."
+            },
+            {
+              "year": "2018",
+              "tag": "Service model",
+              "title": "Wet leasing (Machine as a Service) – ICF Chennai",
+              "text": "HYT pioneered a wet leasing contract for ICF Chennai, taking full responsibility for supply, commissioning, operation and maintenance – a first-of-its-kind service model in the Indian rail machinery sector. See [wet leasing](page:wet-leasing)."
+            },
+            {
+              "year": "2019",
+              "tag": "SAFOP acquisition",
+              "title": "Acquisition of SAFOP S.p.A., Italy – 100% subsidiary",
+              "text": "HYT's most significant strategic move – the acquisition of SAFOP S.p.A., Italy (established 1923) as a subsidiary. With over 1,400 machines sold globally and a century of Italian precision engineering, SAFOP dramatically expanded the group's global presence and technology portfolio."
+            },
+            {
+              "year": "2019",
+              "tag": "National first",
+              "title": "India's first indigenous automated wheel and axle assembly plant – RWF Bangalore",
+              "text": "HYT developed and set up India's first indigenous Automated Wheel and Axle Assembly Plant for Rail Wheel Factory, Bangalore – a landmark in railway wheelset manufacturing automation."
+            },
+            {
+              "year": "2019",
+              "tag": "Export milestone",
+              "title": "Supply to SNCF France – compliant with European norms",
+              "text": "HYT developed and supplied Underfloor Wheel Lathes to SNCF France in compliance with European standards – a landmark export achievement that validated HYT's quality on the world stage."
+            }
+          ]
+        },
+        {
+          "type": "timeline",
+          "layout": "split",
+          "id": "era-2020s",
+          "eyebrow": "Era · 2020s",
+          "heading": "New horizons",
+          "items": [
+            {
+              "year": "2020",
+              "tag": "Record order",
+              "title": "Order for 27 Underfloor Wheel Lathes – Indian Railways",
+              "text": "HYT received an order for 27 Underfloor Wheel Lathes from Indian Railways – one of the largest single wheel lathe orders, reinforcing its position as the preferred supplier for Indian Railways' rolling stock maintenance infrastructure."
+            },
+            {
+              "year": "2021",
+              "tag": "Africa",
+              "title": "CNC Underfloor Wheel Lathe supplied to Gabon, and CNC Surface Wheel Lathe to Ghana",
+              "text": "HYT supplied and commissioned a CNC Underfloor Wheel Lathe in Gabon, Central Africa, setting up a complete wheel shop in the region, and delivered a CNC Surface Wheel Lathe to Ghana, West Africa – demonstrating strong demand across the African rail market."
+            },
+            {
+              "year": "2021",
+              "tag": "EPC projects",
+              "title": "Automated wheel shop at New Katni and axle machining line at RWF Bangalore",
+              "text": "HYT executed an automated wheel shop EPC project at New Katni, Madhya Pradesh – one of Indian Railways' largest wheel maintenance facilities – and set up a complete axle machining line at Rail Wheel Factory, Bangalore."
+            },
+            {
+              "year": "2021",
+              "tag": "Product innovation",
+              "title": "India's first indigenous Tandem Underfloor Wheel Lathe",
+              "text": "HYT developed India's first indigenous Tandem Underfloor Wheel Lathe – a twin-machine configuration for ultra-high-throughput wheel shops, awarded by Delhi Metro Rail Corporation."
+            },
+            {
+              "year": "2022",
+              "tag": "National first",
+              "title": "First Vande Bharat maintenance depot – Shakur Basti, Northern Railway",
+              "text": "HYT set up India's first dedicated maintenance depot for the Vande Bharat Express at Shakur Basti under Northern Railway – a landmark achievement as the country's flagship semi-high-speed train entered service, with HYT machines integral to its upkeep."
+            },
+            {
+              "year": "2024",
+              "tag": "Product innovation",
+              "title": "Bogie Assembly and Disassembly Line – Dibrugarh",
+              "text": "HYT delivered a Bogie Assembly and Disassembly Line at Dibrugarh for Northeast Frontier Railway – a sophisticated semi-automated assembly solution bringing modern manufacturing practice to one of India's most geographically challenging rail regions."
+            },
+            {
+              "year": "2024",
+              "tag": "Product innovation",
+              "title": "Large horizontal machines for turbine rotor maintenance",
+              "text": "HYT and SAFOP secured orders for large horizontal machines for the maintenance of turbine rotors."
+            },
+            {
+              "year": "2025",
+              "tag": "Global presence",
+              "title": "Five international exhibitions across four continents",
+              "text": "HYT exhibited at Middle East Rail in Dubai, Eurasia Rail in Istanbul, Asia Pacific Rail in Bangkok, Africa Rail in Johannesburg and NT Expo in São Paulo – the company's widest international showing in a single year."
+            },
+            {
+              "year": "2025",
+              "tag": "Global presence",
+              "title": "Orders from the Middle East and Turkey",
+              "text": "HYT secured orders from the Middle East and Turkey for underfloor wheel lathes, tandem underfloor wheel lathes, axle turning lathes and vertical turning lathes."
+            },
+            {
+              "year": "2026",
+              "tag": "Recognition",
+              "title": "Managing Director recognised at Hurun Stars of the Deccan",
+              "text": "Ms. Rajashri Teli, Managing Director, was recognised at Hurun Stars of the Deccan 2026 – acknowledging her role in the group's growth and international expansion."
+            },
+            {
+              "year": "2026",
+              "tag": "InnoTrans 2026",
+              "title": "HYT Group exhibits at InnoTrans 2026, Berlin",
+              "text": "HYT Engineering and SAFOP S.p.A. exhibited together as the HYT Group at InnoTrans 2026 – Hall 22A, Stands 630 & 730, Messe Berlin, 22–25 September 2026 – presenting the full CNC wheel lathe range to the world's leading transport technology audience."
+            }
+          ],
+          "variant": "muted"
+        },
+        {
+          "type": "cta",
+          "heading": "Be part of the next chapter",
+          "text": "Explore careers, partnerships or business opportunities with the HYT Group.",
+          "primary": {
+            "label": "Explore careers",
+            "page": "career"
+          },
+          "secondary": {
+            "label": "Contact our team",
+            "page": "contact-us"
+          }
         }
       ]
     },

@@ -145,7 +145,7 @@
           "heading": "Impressions",
           "items": [
             {"image": "company/exhibition-stand", "caption": "Sample illustration of the HYT exhibition stand"},
-            {"image": "products/underfloor-wheel-lathe-yul-08", "caption": "Sample illustration of an underfloor wheel lathe of the type presented to visitors"},
+            {"image": "products/underfloor-wheel-lathe-yul-08", "caption": "HYT CNC Underfloor Wheel Lathe (YUL-08)"},
             {"image": "products/wheelset-profile-closeup", "caption": "Sample illustration of a re-profiled wheel tread and flange"},
             {"image": "company/engineering-design", "caption": "Sample illustration of HYT engineers reviewing a machine design"}
           ]
@@ -357,7 +357,7 @@
             "Size the installation for the fleet you will have, not only the fleet you have today. Adding a second machine later is far easier if the pit, track and services were planned for it from the start."
           ],
           "image": "products/tandem-underfloor-wheel-lathe-yul-12t",
-          "image_alt": "Sample illustration of a tandem underfloor wheel lathe machining two wheelsets of a bogie",
+          "image_alt": "HYT CNC Tandem Underfloor Wheel Lathe (YUL-12T)",
           "layout": "image-left"
         },
         {

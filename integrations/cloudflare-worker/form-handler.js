@@ -16,7 +16,7 @@
  */
 const MAX_FIELD = 4000;
 const REQUIRED = {
-  enquiry: ['name', 'company', 'email', 'country', 'interest', 'subject', 'message', 'privacy_consent'],
+  enquiry: ['first_name', 'last_name', 'company', 'email', 'country', 'interest', 'message', 'privacy_consent'],
   supplier: ['name', 'company', 'email', 'phone', 'country', 'supply_category', 'privacy_consent'],
   career: ['name', 'email', 'phone', 'country', 'position', 'experience', 'privacy_consent'],
   catalogue: ['name', 'company', 'email', 'phone', 'country', 'interest', 'privacy_consent'],
@@ -91,7 +91,7 @@ export default {
         // Job applications go to HR; everything else to digital marketing
         to: [type === 'career' ? (env.MAIL_TO_CAREERS || 'careers@hytengineering.com') : (env.MAIL_TO || 'digitalmkt@hytengineering.com')],
         reply_to: get('email'),
-        subject: `[Website ${type}] ${get('subject') || get('company') || get('name')}`,
+        subject: `[Website ${type}] ${get('subject') || get('company') || get('name') || `${get('first_name')} ${get('last_name')}`.trim()}`,
         text: lines.join('\n'),
         attachments,
       }),

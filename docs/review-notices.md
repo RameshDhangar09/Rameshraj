@@ -1,14 +1,13 @@
 # Content pending HYT approval (generated)
 
 Every yellow review note on the preview site, by page. Generated from the English master by `tools/gen_docs.py`.
-**37 notes on 37 pages.**
+**32 notes on 32 pages.**
 
 These notes are hidden by `python3 src/build.py --production`; resolve them before launch.
 
 | Page | URL | What HYT must supply or decide |
 |------|-----|-------------------------------|
 | Group Companies | `/group-companies/` | For HYT review: group company details are not yet verified. Please supply the legal name of each group company, its main activity, location, relationship to HYT Engineering Company Pvt. Ltd. and website link (if any). The sections below are placeholders until then. |
-| History | `/history/` | For HYT review: only the 1977 and 1989 dates are verified. Please supply dated milestones (first CNC wheel lathe, first underfloor lathe, ISO certification years, first export order, major contracts) and archive photographs for the timeline. |
 | Quality | `/quality/` | For HYT review: please confirm that the six process steps reflect HYT's actual quality procedures, and whether specific inspection equipment or customer inspection (e.g. by third-party or railway inspectors) should be mentioned. |
 | Certifications | `/certifications/` | For HYT review: certificate PDFs are not yet available. Please supply the current ISO 9001:2015, ISO 14001:2015 and ISO 45001:2018 certificates, including certified scope, certification body and validity dates, so they can be added as downloads here. |
 | Awards | `/awards/` | For HYT review: the Dun & Bradstreet listing is taken from a publication index and must be confirmed. Please supply the full list of awards and recognitions (name, awarding body, year, certificate or photograph) to complete this page. |
@@ -18,10 +17,6 @@ These notes are hidden by `python3 src/build.py --production`; resolve them befo
 | Code of Conduct | `/compliance/code-of-conduct/` | For HYT review: this Code of Conduct is a draft and requires approval by HYT management and legal counsel before publication. Please also confirm the reporting channel for concerns (named contact or dedicated email address). |
 | Guidelines | `/compliance/guidelines/` | For HYT review: the menu label "Guidelines" is vague; this page is titled "Business Conduct Guidelines". Please confirm the label and the intended content, and approve the text (including any monetary limits for gifts and hospitality) with management and legal counsel. |
 | Policy Statement | `/compliance/policy-statement/` | For HYT review: please confirm which policies HYT wishes to publish here (integrated QHSE policy, separate policies, anti-bribery policy), approve the wording, and supply the name and title of the signatory and the issue date. |
-| CNC Surface Wheel Lathe | `/surface-wheel-lathe/` | Awaiting HYT input: technical data for the YSL-12 and YSL-21, and confirmation of the YSL-08 minimum tread diameter (sources quote 750 mm and 540 mm). |
-| CNC Underfloor Wheel Lathe (YUGL) | `/underfloor-wheel-lathe-yugl/` | Awaiting HYT confirmation: how the YUGL differs technically from the YUL-08 (automation level, drives, measuring system, capacities) and whether both models remain on sale. The positioning on this page is provisional. |
-| CNC Tandem Underfloor Wheel Lathe (YUGLX) | `/tandem-underfloor-wheel-lathe-yuglx/` | Awaiting HYT confirmation: how the YUGLX differs technically from the YUL-12T (automation level, drives, capacities, wheelbase range) and whether both models remain on sale. The positioning on this page is provisional. |
-| CNC Roller Type Portal Wheel Lathe | `/roller-type-portal-wheel-lathe/` | Awaiting HYT input: technical data for the YPL-04, confirmation of its drive and clamping principle, and how it differs from the YPL-02. |
 | SKC Gleittechnik (Germany) | `/skc-gleittechnik-gmbh-germany/` | Awaiting HYT input: the SKC Gleittechnik product range and technical data to be listed on this page, and approved partner text and logo usage. |
 | Executed Projects | `/executed-projects/` | HYT to supply the full list of approved executed projects with completion year, scope, photographs and written client permission to publish. HYT must also confirm whether the Indian Railways contract for nine CNC underfloor wheel lathes is complete (Executed) or still in progress (Under Execution). |
 | Projects Under Execution | `/under-execution/` | HYT to confirm the current status, scope and publishable details (photographs, client permission) for each project. Internal note: when a project is completed, move its section to Executed Projects. |

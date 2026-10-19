@@ -113,25 +113,42 @@
     "products": "Attrezzature"
   },
   "contact": {
-    "heading": "Recapiti",
+    "heading": "Le nostre sedi",
     "office_heading": "Sede legale e stabilimento",
     "address_lines": [
       "HYT Engineering Company Pvt. Ltd.",
-      "29/10, 29/10/1, 29/10/2, D-II Block",
-      "MIDC Chinchwad",
-      "Pune 411019, Maharashtra, India"
+      "Plot No. 29/10, 29/10/1, 29/10/2, D-II Block",
+      "MIDC, Chinchwad",
+      "Pune – 411019, Maharashtra, India"
     ],
     "phone": "+91 20 6634 3900",
     "phone_alt": "+91 20 6634 3906",
     "tollfree": "1800 2100 456",
     "email": "info@hytengineering.com",
     "hours_heading": "Orari d'ufficio",
-    "hours": "Dal lunedì al sabato, 9:30–18:30 IST. Chiuso la domenica e nei giorni festivi.",
+    "hours": "Dal lunedì al sabato, 9:30–18:30 IST",
     "phone_heading": "Telefono",
     "email_heading": "E-mail",
     "map_link": "Apri in Google Maps",
     "service_heading": "Assistenza post-vendita",
-    "service_text": "Macchina ferma o serve un ricambio? Chiami il numero verde tenendo a portata di mano il numero di matricola della macchina."
+    "service_text": "Macchina ferma o serve un ricambio? Chiami il numero verde tenendo a portata di mano il numero di matricola della macchina.",
+    "locations_eyebrow": "Presenti in tutto il mondo",
+    "website_heading": "Sito web",
+    "locations": {
+      "pune": {
+        "name": "HYT Engineering Company Pvt. Ltd.",
+        "role": "Pune, India – Sede centrale e stabilimento"
+      },
+      "delhi": {
+        "name": "HYT Engineering Company Pvt. Ltd., Delhi",
+        "role": "Nuova Delhi, India – Ufficio vendite e marketing"
+      },
+      "safop": {
+        "name": "SAFOP S.p.A.",
+        "role": "Pordenone, Italia – Società controllata del gruppo",
+        "note": "Centro europeo per operazioni e tecnologia"
+      }
+    }
   },
   "form": {
     "required_note": "I campi contrassegnati con * sono obbligatori.",
@@ -200,7 +217,11 @@
       "error": "Siamo spiacenti, non è stato possibile inviare i dati. Riprovi oppure scriva a info@hytengineering.com.",
       "not_configured": "L'invio online non è ancora attivo su questo sito di anteprima. Scriva a info@hytengineering.com oppure chiami il +91 20 6634 3900 – il Suo messaggio non è stato inviato.",
       "rate_limited": "Troppi tentativi. Attenda un minuto e riprovi."
-    }
+    },
+    "first_name": "Nome",
+    "last_name": "Cognome",
+    "message_requirements": "Messaggio / esigenze",
+    "secure_note": "I suoi dati sono al sicuro. Rispondiamo entro 24 ore."
   },
   "countries": [
     "India",

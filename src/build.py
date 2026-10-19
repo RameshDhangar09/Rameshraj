@@ -10,6 +10,7 @@ the server. See README.md for the template strategy.
 """
 import html
 import json
+from urllib.parse import quote_plus
 import re
 import shutil
 import sys
@@ -420,9 +421,14 @@ def b_gallery(ctx, b):
 def b_timeline(ctx, b):
     items = "".join(
         f'<li class="timeline__item reveal"><p class="timeline__year">{esc(it["year"])}</p>'
-        f'<div><h3 class="timeline__title">{inline(ctx, it["title"])}</h3><p>{inline(ctx, it.get("text", ""))}</p></div></li>'
+        + (f'<p class="timeline__tag">{esc(it["tag"])}</p>' if it.get("tag") else "")
+        + f'<div><h3 class="timeline__title">{inline(ctx, it["title"])}</h3><p>{inline(ctx, it.get("text", ""))}</p></div></li>'
         for it in b.get("items", []))
-    return section(heading_block(ctx, b) + f'<ol class="timeline">{items}</ol>', b)
+    muted = "section--muted" if b.get("variant") == "muted" else ""
+    if b.get("layout") == "split":
+        return section(f'<div class="row g-4 g-lg-5"><div class="col-lg-4"><div class="timeline-head">{heading_block(ctx, b)}</div></div>'
+                       f'<div class="col-lg-8"><ol class="timeline">{items}</ol></div></div>', b, (muted + " section--era").strip())
+    return section(heading_block(ctx, b) + f'<ol class="timeline">{items}</ol>', b, muted)
 
 
 def b_projects(ctx, b):
@@ -511,19 +517,38 @@ def b_downloads(ctx, b):
 
 
 def b_contact(ctx, b):
+    """Office locations (addresses from config.json, labels from common.json) plus the service line."""
     c = ctx.c["contact"]
-    addr = "<br>".join(esc(x) for x in c["address_lines"])
     tel = lambda n: "tel:" + re.sub(r"[^\d+]", "", n)
-    cards = [
-        (icon("geo-alt"), c["office_heading"], f'<address>{addr}</address><a class="link-arrow" href="{esc(CONFIG["maps_url"])}" target="_blank" rel="noopener">{esc(c["map_link"])} {icon("box-arrow-up-right")}<span class="visually-hidden"> {esc(ctx.t("a11y.opens_new_tab"))}</span></a>'),
-        (icon("telephone"), c["phone_heading"], f'<p><a href="{tel(c["phone"])}">{esc(c["phone"])}</a><br><a href="{tel(c["phone_alt"])}">{esc(c["phone_alt"])}</a></p><p>{esc(ctx.t("topbar.tollfree_label"))}: <a href="{tel(c["tollfree"])}">{esc(c["tollfree"])}</a></p>'),
-        (icon("envelope"), c["email_heading"], f'<p><a href="mailto:{esc(c["email"])}">{esc(c["email"])}</a></p><h4 class="contact-card__sub">{esc(c["hours_heading"])}</h4><p>{esc(c["hours"])}</p>'),
-        (icon("headset"), c["service_heading"], f'<p>{esc(c["service_text"])}</p><p><a href="{tel(c["tollfree"])}">{esc(c["tollfree"])}</a></p>'),
-    ]
-    inner = '<div class="row g-4">' + "".join(
-        f'<div class="col-sm-6 col-lg-3"><div class="contact-card reveal">{ic}<h3 class="contact-card__title">{esc(t)}</h3>{body}</div></div>'
-        for ic, t, body in cards) + "</div>"
-    return section(heading_block(ctx, {"heading": b.get("heading") or c["heading"], "intro": b.get("intro")}) + inner, b, "section--muted")
+    ext = f'{icon("box-arrow-up-right")}<span class="visually-hidden"> {esc(ctx.t("a11y.opens_new_tab"))}</span>'
+    cards = []
+    for loc in CONFIG["locations"]:
+        lab = c["locations"][loc["id"]]
+        body = [f'<p class="location-card__role">{esc(lab["role"])}</p>',
+                f'<address>{"<br>".join(esc(x) for x in loc["address_lines"])}</address>']
+        rows = []
+        if loc.get("phones"):
+            rows.append((icon("telephone"), c["phone_heading"], " / ".join(f'<a href="{tel(n)}">{esc(n)}</a>' for n in loc["phones"])))
+        if loc.get("tollfree"):
+            rows.append((icon("headset"), ctx.t("topbar.tollfree_label"), f'<a href="{tel(loc["tollfree"])}">{esc(loc["tollfree"])}</a>'))
+        if loc.get("email"):
+            rows.append((icon("envelope"), c["email_heading"], f'<a href="mailto:{esc(loc["email"])}">{esc(loc["email"])}</a>'))
+        if loc.get("hours"):
+            rows.append((icon("clock"), c["hours_heading"], esc(c["hours"])))
+        if loc.get("website"):
+            rows.append((icon("globe2"), c["website_heading"], f'<a href="{esc(loc["website"])}" target="_blank" rel="noopener">{esc(loc["website_label"])}{ext}</a>'))
+        if lab.get("note"):
+            rows.append((icon("info-circle"), "", esc(lab["note"])))
+        body.append('<ul class="location-card__list">' + "".join(
+            f'<li>{ic}<span>' + (f'<span class="visually-hidden">{esc(t)}: </span>' if t else "") + f'{v}</span></li>' for ic, t, v in rows) + "</ul>")
+        maps = "https://www.google.com/maps/search/?api=1&query=" + quote_plus(loc["maps_query"])
+        body.append(f'<a class="link-arrow location-card__map" href="{esc(maps)}" target="_blank" rel="noopener">{esc(c["map_link"])} {ext}</a>')
+        cards.append(f'<div class="col-md-6 col-lg-4"><div class="contact-card location-card reveal">{icon("geo-alt")}'
+                     f'<h3 class="contact-card__title">{esc(lab["name"])}</h3>{"".join(body)}</div></div>')
+    service = (f'<div class="contact-service reveal">{icon("headset")}<p><strong>{esc(c["service_heading"])}:</strong> {esc(c["service_text"])} '
+               f'<a href="{tel(c["tollfree"])}">{esc(c["tollfree"])}</a></p></div>')
+    head = heading_block(ctx, {"eyebrow": b.get("eyebrow") or c.get("locations_eyebrow"), "heading": b.get("heading") or c["heading"], "intro": b.get("intro")})
+    return section(head + '<div class="row g-4">' + "".join(cards) + "</div>" + service, b, "section--muted")
 
 
 def b_split_cta(ctx, b):
@@ -619,8 +644,10 @@ def b_form(ctx, b):
     f = ctx.c["form"]
     kind = b.get("form", "enquiry")
     fid = ctx.form_id = ctx.next_id("form")
-    fields = [
-        field(ctx, "text", "name", f["name"], attrs='autocomplete="name" maxlength="120"'),
+    name_fields = ([field(ctx, "text", "first_name", f["first_name"], attrs='autocomplete="given-name" maxlength="80"'),
+                    field(ctx, "text", "last_name", f["last_name"], attrs='autocomplete="family-name" maxlength="80"')]
+                   if kind == "enquiry" else [field(ctx, "text", "name", f["name"], attrs='autocomplete="name" maxlength="120"')])
+    fields = name_fields + [
         field(ctx, "text", "company", f["company"], required=kind != "career", attrs='autocomplete="organization" maxlength="160"'),
         field(ctx, "email", "email", f["email"], attrs='autocomplete="email" maxlength="160"'),
         field(ctx, "tel", "phone", f["phone"], required=kind != "enquiry", attrs='autocomplete="tel" maxlength="30" data-validate="phone"'),
@@ -628,9 +655,8 @@ def b_form(ctx, b):
     ]
     enctype = ""
     if kind == "enquiry":
-        fields.append(field(ctx, "select", "interest", f["interest"], options=interest_options(ctx), attrs="data-prefill-product"))
-        fields.append(field(ctx, "text", "subject", f["subject"], col="col-12", attrs='maxlength="160"'))
-        fields.append(field(ctx, "textarea", "message", f["message"], col="col-12", hint=f["message_hint"], attrs='minlength="20" maxlength="4000"'))
+        fields.append(field(ctx, "select", "interest", f["interest"], col="col-12", options=interest_options(ctx), attrs="data-prefill-product"))
+        fields.append(field(ctx, "textarea", "message", f["message_requirements"], col="col-12", hint=f["message_hint"], attrs='minlength="20" maxlength="4000"'))
     elif kind == "supplier":
         fields.append(field(ctx, "text", "designation", f["designation"], required=False, attrs='autocomplete="organization-title"'))
         fields.append(field(ctx, "url", "website", f["website"], required=False, attrs='placeholder="https://" autocomplete="url"'))
@@ -667,7 +693,9 @@ def b_form(ctx, b):
             f'<div class="form-summary" role="alert" tabindex="-1" hidden data-form-summary></div>'
             f'<div class="row g-3">{body}{privacy}{turnstile}</div>{hp}{hidden}'
             f'<div class="form-actions"><button type="submit" class="btn-hyt btn-hyt--primary" data-submit>'
-            f'<span class="btn-label">{esc(ctx.t(btn_label))}</span><span class="spinner" aria-hidden="true"></span></button></div>'
+            f'<span class="btn-label">{esc(ctx.t(btn_label))}</span><span class="spinner" aria-hidden="true"></span></button>'
+            + (f'<p class="form-secure-note">{icon("shield-lock")} {esc(f["secure_note"])}</p>' if kind == "enquiry" and f.get("secure_note") else "")
+            + '</div>'
             f'<div class="form-status" role="status" aria-live="polite" data-form-status></div></form>')
     head = heading_block(ctx, b)
     sid = b.get("id") or ("enquiry" if kind == "enquiry" else kind + "-form")

@@ -55,5 +55,51 @@
     }
   ],
   "hero_slides_note": "Videos supplied by HYT (16 Oct 2026): Wheel Lathes, Turnkey wheel shop, Services. Audio removed; WebM/VP9 preferred, MP4/H.264 fallback; 1920x960 desktop, 1280x640 phones.",
-  "chat_endpoint": ""
+  "chat_endpoint": "",
+  "locations": [
+    {
+      "id": "pune",
+      "address_lines": [
+        "HYT Engineering Company Pvt. Ltd.",
+        "Plot No. 29/10, 29/10/1, 29/10/2, D-II Block",
+        "MIDC, Chinchwad",
+        "Pune – 411019, India"
+      ],
+      "phones": [
+        "+91 20 6634 3900",
+        "+91 20 6634 3906"
+      ],
+      "tollfree": "1800 2100 456",
+      "email": "info@hytengineering.com",
+      "hours": true,
+      "maps_query": "HYT Engineering Company Pvt Ltd, Plot No. 29/10, D-II Block, MIDC Chinchwad, Pune 411019"
+    },
+    {
+      "id": "delhi",
+      "address_lines": [
+        "HYT Engineering Company Pvt. Ltd.",
+        "17-18, Ground Floor, Hans Bhawan",
+        "Bahadur Shah Zafar Marg, ITO",
+        "New Delhi – 110 002, India"
+      ],
+      "phones": [
+        "+91 11 4320 2200",
+        "+91 11 4320 2201"
+      ],
+      "email": "info@hytengineering.com",
+      "hours": true,
+      "maps_query": "Hans Bhawan, Bahadur Shah Zafar Marg, ITO, New Delhi 110002"
+    },
+    {
+      "id": "safop",
+      "address_lines": [
+        "SAFOP S.p.A.",
+        "Via Castelfranco Veneto, 65",
+        "33170 Pordenone PN, Italy"
+      ],
+      "website": "https://www.safop.com/en",
+      "website_label": "www.safop.com",
+      "maps_query": "SAFOP S.p.A., Via Castelfranco Veneto 65, 33170 Pordenone PN, Italy"
+    }
+  ]
 }

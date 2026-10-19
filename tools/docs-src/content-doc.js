@@ -41,7 +41,7 @@ body.push(new Paragraph({ spacing: { after: 220 }, border: { bottom: { style: Bo
 body.push(P(`All text on hytengineering.com in English (Global master version), in menu order: ${D.pages.length} pages. German, French, Italian, Dutch and North American English versions follow the same structure.`, {}, { size: 23, color: GREY }));
 body.push(P(' '));
 body.push(table(['Item', 'Detail'], [
-  ['Version / date', '1.0 – 16 October 2026'],
+  ['Version / date', '1.1 – 19 October 2026 (product data, history and contact updated from HYT documents)'],
   ['Source', 'Website content files (src/content/en/) – identical to the built website'],
   ['Status', 'Pre-launch. Items marked "Content pending HYT approval" need HYT confirmation before go-live.'],
   ['Related documents', 'HYT-Website-Page-List.xlsx (page hierarchy) · HYT-Website-Requirements-Specification.docx'],

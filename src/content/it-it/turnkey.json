@@ -31,7 +31,7 @@
             "Raramente il problema è una singola macchina. La difficoltà sta nel flusso: sale montate in coda alla pressa mentre il tornio è fermo, misure digitate due volte, gru condivise tra troppe postazioni. HYT progetta l'officina in funzione del Suo mix di sale montate e del Suo ciclo di revisione e costruisce in proprio le macchine principali – processo e attrezzature vengono così progettati insieme e un'unica organizzazione risponde del risultato."
           ],
           "image": "products/portal-wheel-lathe",
-          "image_alt": "Illustrazione esemplificativa di un tornio a portale che riprofila una sala montata smontata in un'officina sale montate ferroviaria",
+          "image_alt": "HYT Tornio CNC a portale per sale montate (YPL-02)",
           "badge_value": "1977",
           "badge_label": "costruiamo macchine utensili ferroviarie dal",
           "items": [
@@ -114,7 +114,7 @@
               "icon": "bullseye",
               "title": "Riprofilatura delle ruote",
               "image": "products/surface-wheel-lathe",
-              "image_alt": "Illustrazione esemplificativa di un tornio CNC a pavimento che riprofila una sala montata smontata",
+              "image_alt": "HYT Tornio CNC a pavimento per sale montate (YSL-08)",
               "text": "Le sale montate recuperate ricevono un nuovo profilo di rotolamento e del bordino su un [tornio CNC a pavimento](page:surface-wheel-lathe) o su un [tornio a portale](page:portal-wheel-lathe), scelto in base ai Suoi tipi di sale montate e ai difetti tipici.",
               "bullets": [
                 "Programmi di profilo per la Sua flotta",
@@ -126,7 +126,7 @@
               "icon": "circle",
               "title": "Alesatura delle ruote",
               "image": "products/vertical-turning-boring-machine",
-              "image_alt": "Illustrazione esemplificativa di un tornio verticale CNC per tornitura e alesatura che lavora una ruota ferroviaria",
+              "image_alt": "HYT Tornio verticale CNC per tornitura e alesatura (YVM-04)",
               "text": "Le ruote di ricambio vengono tornite e il loro foro viene alesato in funzione della sede sull'asse su un [tornio verticale CNC per tornitura e alesatura](page:vertical-turning-boring-machine).",
               "bullets": [
                 "Foro dimensionato sulla sede dell'asse misurata",
@@ -138,7 +138,7 @@
               "icon": "distribute-horizontal",
               "title": "Lavorazione di assi e fuselli",
               "image": "products/axle-journal-turning-burnishing-lathe",
-              "image_alt": "Illustrazione esemplificativa di un tornio per tornitura e rullatura dei fuselli",
+              "image_alt": "HYT Tornio CNC per tornitura e rullatura dei fuselli (YTB 04)",
               "text": "Gli assi vengono ripristinati su un [tornio per tornitura e rullatura dei fuselli](page:axle-journal-turning-burnishing-lathe); gli assi nuovi vengono lavorati su un [tornio per assi](page:axle-turning-lathe).",
               "bullets": [
                 "Fuselli torniti e rullati per sedi dei cuscinetti durature",
@@ -1278,7 +1278,7 @@
             "HYT costruisce una macchina per ciascun compito. Per gli assi nuovi, il [tornio CNC per assi ATL-01](page:axle-turning-lathe) tornisce fuselli, sedi parapolvere, sedi ruota, raccordi e corpo. Per la revisione, il [tornio per tornitura e rullatura dei fuselli](page:axle-journal-turning-burnishing-lathe) riporta entro i limiti i fuselli usurati e poi li rulla. Progettiamo la linea attorno alle lavorazioni svolte dal Suo impianto – o a entrambe, quando un'officina produce assi nuovi e revisiona quelli usati."
           ],
           "image": "products/axle-journal-turning-burnishing-lathe",
-          "image_alt": "Illustrazione esemplificativa di un tornio per tornitura e rullatura dei fuselli che ripristina il fusello di un asse ferroviario",
+          "image_alt": "HYT Tornio CNC per tornitura e rullatura dei fuselli (YTB 04)",
           "layout": "image-right"
         },
         {

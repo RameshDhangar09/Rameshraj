@@ -31,7 +31,7 @@
             "Eigenaren worstelen zelden met één afzonderlijke machine. De moeilijkheid zit in de doorstroming: wielstellen die bij de pers in de rij staan terwijl de draaibank stilstaat, meetwaarden die twee keer worden ingevoerd en kranen die over te veel werkplekken worden verdeeld. HYT ontwerpt de werkplaats rond uw mix van wielstellen en uw revisiecyclus en bouwt de kernmachines zelf, zodat proces en apparatuur samen worden ontworpen en één organisatie verantwoordelijk is voor het resultaat."
           ],
           "image": "products/portal-wheel-lathe",
-          "image_alt": "Voorbeeldillustratie van een portaalwielenbank die een uitgebouwd wielstel herprofileert in een wielstelwerkplaats",
+          "image_alt": "HYT CNC-portaalwielenbank (YPL-02)",
           "badge_value": "1977",
           "badge_label": "bouw van spoorwegwerktuigmachines sinds",
           "items": [
@@ -114,7 +114,7 @@
               "icon": "bullseye",
               "title": "Herprofileren van wielen",
               "image": "products/surface-wheel-lathe",
-              "image_alt": "Voorbeeldillustratie van een CNC-vloerwielenbank die een uitgebouwd wielstel herprofileert",
+              "image_alt": "HYT CNC-vloerwielenbank (YSL-08)",
               "text": "Behouden wielstellen krijgen een nieuw loopvlak- en flensprofiel op een [CNC-vloerwielenbank](page:surface-wheel-lathe) of een [portaalwielenbank](page:portal-wheel-lathe), gekozen op basis van uw wielsteltypen en gebruikelijke defecten.",
               "bullets": [
                 "Profielprogramma’s voor uw vloot",
@@ -126,7 +126,7 @@
               "icon": "circle",
               "title": "Uitboren van wielen",
               "image": "products/vertical-turning-boring-machine",
-              "image_alt": "Voorbeeldillustratie van een CNC-verticale draai- en boormachine die een spoorwegwiel bewerkt",
+              "image_alt": "HYT CNC-verticale draai- en boormachine (YVM-04)",
               "text": "Vervangende wielen worden op een [CNC-verticale draai- en boormachine](page:vertical-turning-boring-machine) gedraaid en hun naafboring wordt passend op de wielzitting van de as bewerkt.",
               "bullets": [
                 "Boring afgestemd op de gemeten wielzitting",
@@ -138,7 +138,7 @@
               "icon": "distribute-horizontal",
               "title": "As- en astapbewerking",
               "image": "products/axle-journal-turning-burnishing-lathe",
-              "image_alt": "Voorbeeldillustratie van een draai- en rolpolijstbank voor astappen",
+              "image_alt": "HYT CNC-draai- en rolpolijstbank voor astappen (YTB 04)",
               "text": "Assen worden hersteld op een [draai- en rolpolijstbank voor astappen](page:axle-journal-turning-burnishing-lathe); nieuwe assen worden bewerkt op een [asdraaibank](page:axle-turning-lathe).",
               "bullets": [
                 "Astappen gedraaid en rolgepolijst voor duurzame lagerzittingen",
@@ -1278,7 +1278,7 @@
             "HYT bouwt voor elke taak een eigen machine. Voor nieuwe assen draait de [CNC-asdraaibank ATL-01](page:axle-turning-lathe) astappen, stofkeerringzittingen, wielzittingen, overgangen en asschacht. Voor revisie draait de [draai- en rolpolijstbank voor astappen](page:axle-journal-turning-burnishing-lathe) versleten astappen terug binnen de toleranties en rolpolijst ze daarna. We plannen de lijn rond het werk dat uw faciliteit uitvoert – of rond beide, als een werkplaats nieuwe assen produceert én gebruikte assen reviseert."
           ],
           "image": "products/axle-journal-turning-burnishing-lathe",
-          "image_alt": "Voorbeeldillustratie van een draai- en rolpolijstbank voor astappen die de astap van een spoorwegas herstelt",
+          "image_alt": "HYT CNC-draai- en rolpolijstbank voor astappen (YTB 04)",
           "layout": "image-right"
         },
         {

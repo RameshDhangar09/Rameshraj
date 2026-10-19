@@ -10,7 +10,7 @@ message by email.
 
 | Form | Page(s) | `form_type` | Fields |
 |------|---------|-------------|--------|
-| Enquiry | `/contact-us/` (all languages) | `enquiry` | name*, company*, email*, phone, country*, interest* (product/service), subject*, message* (≥20 chars), privacy_consent* |
+| Enquiry | `/contact-us/` (all languages) | `enquiry` | first_name*, last_name*, company*, email*, phone, country*, interest* (product/service), message* (≥20 chars, labelled "Message / requirements"), privacy_consent* |
 | Supplier registration | `/supplier-registration/` | `supplier` | name*, company*, email*, phone*, country*, designation, website, gst, supply_category*, years, certs, message, privacy_consent* |
 | Job application (→ **careers@hytengineering.com**, approved by the MD) | `/career/` | `career` | name*, company, email*, phone*, country*, position*, experience*, cv (PDF ≤5 MB), cv_link, message, privacy_consent* |
 | Catalogue download | Dialog on every product page and Downloads ("Download catalogue" buttons) | `catalogue` | name*, company*, email*, phone*, country*, privacy_consent*, plus hidden `catalogue` (PDF path) and `interest` (product) – after delivery the visitor lands on the thank-you page and the PDF downloads |

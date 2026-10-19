@@ -113,25 +113,42 @@
     "products": "Uitrusting"
   },
   "contact": {
-    "heading": "Contactgegevens",
+    "heading": "Onze locaties",
     "office_heading": "Statutair kantoor & fabriek",
     "address_lines": [
       "HYT Engineering Company Pvt. Ltd.",
-      "29/10, 29/10/1, 29/10/2, D-II Block",
-      "MIDC Chinchwad",
-      "Pune 411019, Maharashtra, India"
+      "Plot No. 29/10, 29/10/1, 29/10/2, D-II Block",
+      "MIDC, Chinchwad",
+      "Pune – 411019, Maharashtra, India"
     ],
     "phone": "+91 20 6634 3900",
     "phone_alt": "+91 20 6634 3906",
     "tollfree": "1800 2100 456",
     "email": "info@hytengineering.com",
     "hours_heading": "Openingstijden",
-    "hours": "Maandag t/m zaterdag, 9.30–18.30 IST. Gesloten op zondag en officiële feestdagen.",
+    "hours": "Maandag t/m zaterdag, 9.30–18.30 uur IST",
     "phone_heading": "Telefoon",
     "email_heading": "E-mail",
     "map_link": "Openen in Google Maps",
     "service_heading": "Aftersalesservice",
-    "service_text": "Staat een machine stil of heeft u een reserveonderdeel nodig? Bel het gratis servicenummer en houd het serienummer van de machine bij de hand."
+    "service_text": "Staat een machine stil of heeft u een reserveonderdeel nodig? Bel het gratis servicenummer en houd het serienummer van de machine bij de hand.",
+    "locations_eyebrow": "Wereldwijd bereikbaar",
+    "website_heading": "Website",
+    "locations": {
+      "pune": {
+        "name": "HYT Engineering Company Pvt. Ltd.",
+        "role": "Pune, India – Hoofdkantoor & fabriek"
+      },
+      "delhi": {
+        "name": "HYT Engineering Company Pvt. Ltd., Delhi",
+        "role": "New Delhi, India – Verkoop- & marketingkantoor"
+      },
+      "safop": {
+        "name": "SAFOP S.p.A.",
+        "role": "Pordenone, Italië – Dochteronderneming van de groep",
+        "note": "Europees operationeel en technologiecentrum"
+      }
+    }
   },
   "form": {
     "required_note": "Velden gemarkeerd met * zijn verplicht.",
@@ -200,7 +217,11 @@
       "error": "Helaas kon uw inzending niet worden verzonden. Probeer het opnieuw of mail naar info@hytengineering.com.",
       "not_configured": "Online verzenden is op deze previewsite nog niet actief. Mail naar info@hytengineering.com of bel +91 20 6634 3900 – uw bericht is niet verzonden.",
       "rate_limited": "Te veel pogingen. Wacht een minuut en probeer het opnieuw."
-    }
+    },
+    "first_name": "Voornaam",
+    "last_name": "Achternaam",
+    "message_requirements": "Bericht / wensen",
+    "secure_note": "Uw gegevens zijn veilig. Wij reageren binnen 24 uur."
   },
   "countries": [
     "India",

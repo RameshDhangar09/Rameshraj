@@ -68,14 +68,14 @@ product(24, "tandem-underfloor-wheel-lathe-yuglx", "/tandem-underfloor-wheel-lat
 product(15, "portal-wheel-lathe",                  "/portal-wheel-lathe/",                  "wheel-lathes", "YPL-02")
 product(16, "roller-type-portal-wheel-lathe",      "/roller-type-portal-wheel-lathe/",      "wheel-lathes", "YPL-04")
 product(17, "vertical-turning-boring-machine",     "/vertical-turning-boring-machine/",     "wheel-axle-shop-machines", "YVM-04")
-product(18, "axle-journal-turning-burnishing-lathe", "/axle-journal-turning-burnishing-lathe/", "wheel-axle-shop-machines")
+product(18, "axle-journal-turning-burnishing-lathe", "/axle-journal-turning-burnishing-lathe/", "wheel-axle-shop-machines", "YTB 04")
 product(19, "axle-turning-lathe",                  "/axle-turning-lathe/",                  "wheel-axle-shop-machines", "ATL-01")
 product(27, "wheel-presses",                       "/wheel-presses/",                       "wheel-axle-shop-machines")
 product(25, "wheel-measuring-station",             "/wheel-measuring-station/",             "wheel-axle-shop-machines")
 product(26, "dynamic-wheel-balancing-machine",     "/dynamic-wheel-balancing-machine/",     "wheel-axle-shop-machines")
-product(20, "multi-purpose-armature-machine",      "/multi-purpose-armature-machine/",      "depot-workshop-equipment")
+product(20, "multi-purpose-armature-machine",      "/multi-purpose-armature-machine/",      "depot-workshop-equipment", "YMM-04")
 product(21, "automated-train-washing-plant",       "/automated-train-washing-plant/",       "depot-workshop-equipment")
-product(22, "rail-cum-road-vehicle-shunter",       "/rail-cum-road-vehicle-shunter/",       "depot-workshop-equipment")
+product(22, "rail-cum-road-vehicle-shunter",       "/rail-cum-road-vehicle-shunter/",       "depot-workshop-equipment", "KRE 15 RCRV")
 product(28, "skc-gleittechnik-gmbh-germany",       "/skc-gleittechnik-gmbh-germany/",       "partner-products")
 
 # --- Turnkey Projects

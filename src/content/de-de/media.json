@@ -145,7 +145,7 @@
           "heading": "Impressionen",
           "items": [
             {"image": "company/exhibition-stand", "caption": "Beispielillustration des HYT-Messestands"},
-            {"image": "products/underfloor-wheel-lathe-yul-08", "caption": "Beispielillustration einer Unterflur-Radsatzdrehmaschine der Art, wie sie den Besuchern vorgestellt wurde"},
+            {"image": "products/underfloor-wheel-lathe-yul-08", "caption": "HYT CNC-Unterflur-Radsatzdrehmaschine (YUL-08)"},
             {"image": "products/wheelset-profile-closeup", "caption": "Beispielillustration einer reprofilierten Lauffläche mit Spurkranz"},
             {"image": "company/engineering-design", "caption": "Beispielillustration von HYT-Ingenieuren bei der Prüfung einer Maschinenkonstruktion"}
           ]
@@ -357,7 +357,7 @@
             "Legen Sie die Anlage für die Flotte aus, die Sie haben werden – nicht nur für die heutige. Eine zweite Maschine lässt sich später wesentlich leichter ergänzen, wenn Grube, Gleis und Versorgung von Anfang an dafür geplant wurden."
           ],
           "image": "products/tandem-underfloor-wheel-lathe-yul-12t",
-          "image_alt": "Beispielillustration einer Tandem-Unterflur-Radsatzdrehmaschine bei der Bearbeitung zweier Radsätze eines Drehgestells",
+          "image_alt": "HYT CNC-Tandem-Unterflur-Radsatzdrehmaschine (YUL-12T)",
           "layout": "image-left"
         },
         {

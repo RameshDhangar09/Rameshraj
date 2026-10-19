@@ -155,12 +155,12 @@
     },
     "surface-wheel-lathe": {
       "nav": "CNC Surface Wheel Lathe",
-      "title": "CNC Surface Wheel Lathe YSL-08, YSL-12, YSL-21",
-      "description": "HYT CNC surface wheel lathes YSL-08, YSL-12 and YSL-21 re-profile removed wheelsets and brake discs at floor level – no track pit and simple civil works.",
+      "title": "CNC Surface Wheel Lathe YSL Series",
+      "description": "CNC surface wheel lathes for reprofiling removed railway wheelsets to OEM tread profile, with integrated pre- and post-machining measurement.",
       "eyebrow": "Wheel Lathes",
       "h1": "CNC Surface Wheel Lathe for wheelsets removed from the vehicle – models YSL-08, YSL-12 and YSL-21",
-      "lede": "A floor-level CNC lathe that restores wheel profiles and machines brake discs on wheelsets taken out of the vehicle. No pit, no work under the track – just a level foundation in your workshop.",
-      "summary": "Floor-level CNC lathe for re-profiling removed wheelsets and brake discs, available as models YSL-08, YSL-12 and YSL-21.",
+      "lede": "High-precision reprofiling of railway wheelsets that have been removed from the rolling stock – restoring the tread profile to exact OEM specification in a single automated cycle.",
+      "summary": "Floor-level CNC lathes for reprofiling removed wheelsets to OEM tread profile – models YSL-08, YSL-12 and YSL-21.",
       "related": [
         "underfloor-wheel-lathe",
         "portal-wheel-lathe",
@@ -171,61 +171,51 @@
         {
           "type": "text",
           "id": "overview",
-          "eyebrow": "About the machine",
-          "heading": "Re-profiling at floor level",
+          "eyebrow": "Product overview",
+          "heading": "What is the CNC Surface Wheel Lathe?",
           "paragraphs": [
-            "Many workshops remove wheelsets from the vehicle anyway – during bogie overhaul, after a wheel change or when axleboxes and bearings are serviced. For them, machining in a pit beneath the track brings no benefit. A surface wheel lathe does the job at floor level, where the wheelset is easy to reach, inspect and handle.",
-            "The wheelset is rolled into the machine on rails, raised into the machining position and clamped. Both wheels are measured and turned to the specified profile, and suitable configurations also machine wheel- or axle-mounted brake discs in the same setting.",
-            "**Surface or underfloor?** An [underfloor wheel lathe](page:underfloor-wheel-lathe) re-profiles wheels while the wheelset stays in the vehicle. That saves dismantling, but it needs a pit under the track. A surface lathe needs no pit and suits workshops where wheelsets come out of the vehicle in the normal course of maintenance, or where the building does not allow civil works beneath the rails."
+            "The CNC Surface Wheel Lathe is a high-precision machine designed for the reprofiling of railway wheelsets that have been disassembled from the rolling stock and are machined off the vehicle.",
+            "As railway wheels run on track over time, their tread profiles wear unevenly, causing vibration, noise, reduced braking efficiency and safety risks. The CNC Surface Wheel Lathe restores each wheel's profile back to the exact OEM specification in a single, automated cycle.",
+            "Wheelsets from all types of rolling stock – locomotives, coaches, wagons, metro trains and EMUs – can be machined on this lathe. A fully integrated pre- and post-machining measurement system ensures that every wheel is machined to exact tolerances, minimising material removal and extending wheel life."
           ],
           "image": "products/surface-wheel-lathe",
-          "image_alt": "Sample illustration of a CNC surface wheel lathe at floor level with a removed wheelset in the machining position",
+          "image_alt": "HYT CNC Surface Wheel Lathe YSL-08 with a wheelset in the machine",
           "layout": "image-right"
         },
         {
           "type": "features",
           "id": "advantages",
           "eyebrow": "Key advantages",
-          "heading": "Why workshops choose a surface lathe",
-          "cols": 3,
+          "heading": "Why choose the YSL series?",
+          "cols": 2,
           "items": [
             {
+              "icon": "arrow-left-right",
+              "title": "Automatic wheelset roll-in and roll-out",
+              "text": "An integrated traverser moves wheelsets in and out for higher productivity."
+            },
+            {
               "icon": "bricks",
-              "title": "No pit required",
-              "text": "Installed on a level foundation at floor level, which simplifies civil works and suits existing buildings."
-            },
-            {
-              "icon": "disc",
-              "title": "Wheels and brake discs",
-              "text": "Suitable configurations machine brake discs in the same setting as the wheel profile – the YSL-08 from 250 to 700 mm in diameter."
-            },
-            {
-              "icon": "eye",
-              "title": "Open access",
-              "text": "The whole wheelset is in view and within reach for inspection, measurement and tool changes."
+              "title": "Heavy-duty close-grained cast iron construction",
+              "text": "Ensures maximum rigidity and vibration damping."
             },
             {
               "icon": "rulers",
-              "title": "Measured before cutting",
-              "text": "Wheel dimensions are recorded first, so the CNC removes only the material needed to restore the profile."
+              "title": "Intelligent CNC wear measurement",
+              "text": "Maintains optimum cutting depth for consistent machining accuracy."
             },
             {
-              "icon": "arrows-expand",
-              "title": "Broad wheelset envelope",
-              "text": "The YSL-08 takes axle lengths from 1200 to 2750 mm, depending on gauge – useful for workshops serving mixed fleets."
-            },
-            {
-              "icon": "lightning-charge",
-              "title": "Power to suit your wheels",
-              "text": "Two main drive options on the YSL-08, so cutting power can be matched to wheel hardness and typical wear."
+              "icon": "wifi",
+              "title": "Remote diagnostics",
+              "text": "Enable faster troubleshooting and expert technical support."
             }
           ]
         },
         {
           "type": "specs",
           "id": "specifications",
-          "heading": "Technical specifications",
-          "intro": "Published data for the YSL-08. Data for the YSL-12 and YSL-21 is supplied with the technical offer.",
+          "heading": "Technical data",
+          "intro": "Technical data for the three models of the range. Each machine is configured to your track gauge, wheel profiles and vehicles.",
           "columns": [
             "Parameter",
             "YSL-08",
@@ -234,67 +224,103 @@
           ],
           "rows": [
             [
-              "Machine type",
-              "CNC surface wheel lathe",
-              "CNC surface wheel lathe",
-              "CNC surface wheel lathe"
+              "Machine configuration",
+              "Wheelset removed from the vehicle; both wheels reprofiled simultaneously",
+              "Wheelset removed from the vehicle; both wheels reprofiled simultaneously",
+              "Wheelset removed from the vehicle; single tool post"
             ],
             [
-              "Tread diameter, maximum",
-              "1250 mm",
-              "On request",
-              "On request"
+              "Main drive capacity",
+              "2 × 45 or 55 kW",
+              "2 × 37 kW",
+              "1 × 22 kW"
             ],
             [
-              "Tread diameter, minimum",
-              "On request*",
-              "On request",
-              "On request"
+              "Cutting speed while profiling",
+              "25–80 m/min",
+              "25–80 m/min",
+              "25–80 m/min"
+            ],
+            [
+              "Tool post feed for wheel profiling",
+              "0.1–3.5 mm/rev",
+              "0.1–3.5 mm/rev",
+              "0.1–3.5 mm/rev"
+            ],
+            [
+              "Tool post rapid speed, both axes",
+              "3000 mm/min",
+              "3000 mm/min",
+              "3000 mm/min"
+            ],
+            [
+              "Max. chip cross-section / stock removal while profiling",
+              "20 mm²",
+              "16 mm²",
+              "10 mm²"
+            ],
+            [
+              "Cycle time per wheelset (floor to floor)",
+              "14–16 min",
+              "16–18 min",
+              "50–60 min"
+            ],
+            [
+              "Track gauge",
+              "As required",
+              "As required",
+              "As required"
+            ],
+            [
+              "Wheel tread diameter, max. / min.",
+              "1250 mm / 750 mm (depends on track gauge)",
+              "1250 mm / 750 mm (depends on track gauge)",
+              "1250 mm / 750 mm (depends on track gauge)"
             ],
             [
               "Wheel width",
               "75–145 mm",
-              "On request",
-              "On request"
+              "75–145 mm",
+              "75–145 mm"
             ],
             [
-              "Axle length",
-              "1200–2750 mm*",
-              "On request",
-              "On request"
+              "Max. axle load / wheelset weight",
+              "50 kN wheelset weight",
+              "50 kN wheelset weight",
+              "–"
             ],
             [
-              "Maximum wheelset weight",
-              "50 kN",
-              "On request",
-              "On request"
+              "Difference in diameter of both wheels",
+              "< 0.15 mm",
+              "< 0.3 mm",
+              "< 0.5 mm"
             ],
             [
-              "Brake-disc machining diameter",
-              "250–700 mm",
-              "On request",
-              "On request"
+              "Accuracy of wheel profile against standard gauge",
+              "< 0.2 mm",
+              "< 0.2 mm",
+              "< 0.3 mm"
             ],
             [
-              "Main drive",
-              "2 × 45 kW or 2 × 55 kW",
-              "On request",
-              "On request"
+              "Radial run-out of wheel",
+              "< 0.2 mm",
+              "< 0.3 mm",
+              "< 0.3 mm"
             ],
             [
-              "Cutting speed",
-              "25–80 m/min",
-              "On request",
-              "On request"
+              "Axial run-out of wheel",
+              "< 0.2 mm",
+              "< 0.3 mm",
+              "< 0.3 mm"
             ],
             [
-              "Track gauge",
-              "To customer specification*",
-              "To customer specification*",
-              "To customer specification*"
+              "Profile surface finish",
+              "< 12.5 μm Ra",
+              "< 12.5 μm Ra",
+              "< 12.5 μm Ra"
             ]
           ],
-          "note": "Values marked * depend on track gauge and customer configuration. Final figures, including the minimum tread diameter, are confirmed in the technical offer."
+          "note": "“–” means no value is published for that model. Final figures are confirmed in the technical offer."
         },
         {
           "type": "text",
@@ -302,7 +328,7 @@
           "eyebrow": "Model range",
           "heading": "YSL-08",
           "paragraphs": [
-            "The YSL-08 is the reference model of the range. It takes wheelsets with tread diameters up to 1250 mm, wheel widths of 75–145 mm and a weight of up to 50 kN, and machines brake discs from 250 to 700 mm in diameter. A main drive of 2 × 45 kW or 2 × 55 kW and cutting speeds of 25–80 m/min let you match the machine to the wheels you re-profile most often."
+            "The YSL-08 is the highest-output model of the range. Two tool posts reprofile both wheels simultaneously, driven by a main drive of 2 × 45 or 55 kW with a chip cross-section of up to 20 mm². A wheelset is completed in 14–16 minutes floor to floor, holding the difference in diameter of both wheels below 0.15 mm."
           ]
         },
         {
@@ -311,8 +337,11 @@
           "eyebrow": "Model range",
           "heading": "YSL-12",
           "paragraphs": [
-            "The YSL-12 is a further model in the surface wheel lathe range. Its capacities and configuration are defined with you during the enquiry and confirmed in the technical offer. Share the largest, smallest and heaviest wheelsets in your fleet and we will tell you whether the YSL-12 is the right fit."
-          ]
+            "The YSL-12 also reprofiles both wheels simultaneously, with a 2 × 37 kW main drive and a chip cross-section of up to 16 mm². It covers the same tread diameters (750–1250 mm) and wheel widths (75–145 mm) as the YSL-08, with a floor-to-floor time of 16–18 minutes per wheelset."
+          ],
+          "image": "products/surface-wheel-lathe-ysl-12",
+          "image_alt": "HYT CNC Surface Wheel Lathe YSL-12 with a wheelset clamped between the headstocks",
+          "layout": "image-right"
         },
         {
           "type": "text",
@@ -320,13 +349,11 @@
           "eyebrow": "Model range",
           "heading": "YSL-21",
           "paragraphs": [
-            "The YSL-21 completes the range. As with the YSL-12, technical data is provided on request. Tell us which vehicles and wheel profiles the machine must cover, and we will send the data together with a model recommendation for your workshop."
-          ]
-        },
-        {
-          "type": "notice",
-          "variant": "review",
-          "text": "Awaiting HYT input: technical data for the YSL-12 and YSL-21, and confirmation of the YSL-08 minimum tread diameter (sources quote 750 mm and 540 mm)."
+            "The YSL-21 works with a single tool post and a 1 × 22 kW main drive, with a chip cross-section of up to 10 mm². It takes tread diameters of 750–1250 mm and wheel widths of 75–145 mm, with a floor-to-floor time of 50–60 minutes per wheelset."
+          ],
+          "image": "products/surface-wheel-lathe-ysl-21",
+          "image_alt": "HYT CNC Surface Wheel Lathe YSL-21",
+          "layout": "image-left"
         },
         {
           "type": "steps",
@@ -425,15 +452,15 @@
           "items": [
             {
               "image": "products/surface-wheel-lathe",
-              "caption": "Sample illustration of a CNC surface wheel lathe at floor level"
+              "caption": "HYT CNC Surface Wheel Lathe YSL-08 with a wheelset in the machine"
             },
             {
-              "image": "products/wheelset-profile-closeup",
-              "caption": "Sample illustration of a re-profiled tread and flange"
+              "image": "products/surface-wheel-lathe-ysl-12",
+              "caption": "HYT CNC Surface Wheel Lathe YSL-12"
             },
             {
-              "image": "projects/railway-wheel-shop",
-              "caption": "Sample illustration of wheelset handling in a wheel shop"
+              "image": "products/surface-wheel-lathe-ysl-21",
+              "caption": "HYT CNC Surface Wheel Lathe YSL-21"
             },
             {
               "image": "company/quality-inspection",
@@ -452,7 +479,7 @@
             },
             {
               "q": "Which model should I choose?",
-              "a": "Start with your largest tread diameter, longest axle and heaviest wheelset. The YSL-08 covers tread diameters up to 1250 mm and wheelsets up to 50 kN. Data for the YSL-12 and YSL-21 is supplied on request, together with our recommendation."
+              "a": "Start with your largest tread diameter, heaviest wheelset and daily volume. All three models take tread diameters of 750–1250 mm (depending on track gauge) and wheel widths of 75–145 mm. The YSL-08 has the shortest cycle (14–16 minutes floor to floor), the YSL-12 follows at 16–18 minutes and the single-tool-post YSL-21 at 50–60 minutes. We confirm the right model with our recommendation."
             },
             {
               "q": "Can brake discs be machined?",
@@ -473,10 +500,10 @@
     "underfloor-wheel-lathe": {
       "nav": "CNC Underfloor Wheel Lathe (YUL-08)",
       "title": "CNC Underfloor Wheel Lathe YUL-08",
-      "description": "HYT YUL-08 CNC underfloor wheel lathe: re-profile both wheels of a wheelset in the vehicle, without removing bogies or brake gear. 4 × 15 kW main drive.",
+      "description": "In-situ CNC underfloor wheel lathe for railway wheelsets. Four 15 kW drive rollers, tread diameters to 1500 mm and axle loads up to 400 kN.",
       "eyebrow": "Wheel Lathes",
       "h1": "CNC Underfloor Wheel Lathe YUL-08 – single-axle re-profiling without bogie removal",
-      "lede": "The YUL-08 re-profiles worn wheels while the wheelset stays in the vehicle. Trains are drawn over the pit, machined and returned to service in a single shift – often in a few hours.",
+      "lede": "Simultaneous reprofiling of both wheels of a wheelset in situ – without removing the wheelset, the bogie brake gear or the axle box covers from the vehicle.",
       "summary": "Single-axle pit lathe that re-profiles both wheels of a wheelset in the vehicle, without dropping bogies or removing brake gear.",
       "related": [
         "underfloor-wheel-lathe-yugl",
@@ -488,100 +515,145 @@
         {
           "type": "text",
           "id": "overview",
-          "eyebrow": "About the machine",
-          "heading": "Wheel maintenance without taking the train apart",
+          "eyebrow": "Product overview",
+          "heading": "What is the CNC Underfloor Wheel Lathe?",
           "paragraphs": [
-            "Flats, hollow treads and thin flanges are a fact of railway life. The traditional remedy – dropping the bogie, pulling the wheelset and sending it to the wheel shop – costs days of availability and a great deal of labour. The YUL-08 brings the machine to the wheelset instead.",
-            "Installed in a pit beneath a straight section of track, the lathe lifts the axle off the rails on its own drive rollers, clamps the axlebox securely and machines both wheels at the same time. Brake gear, traction motors and bogie frames stay where they are. When the cycle ends, the wheelset is lowered back on to the rails and the next axle is positioned over the machine.",
-            "Because the vehicle stays coupled and assembled, one YUL-08 can keep a large fleet within profile limits and shorten the time each train spends out of service."
+            "The CNC Underfloor Wheel Lathe (Model YUL-08) is an automatic machine for the simultaneous re-profiling of new or worn wheels of railway vehicles in situ. Wheelsets of locomotives, coaches, wagons, trams and metro vehicles can be machined while still assembled in the rolling stock, and brake discs mounted on those wheelsets can be machined on the same machine.",
+            "Installed in a pit below track level, the machine lifts and centres the wheelset on four synchronised drive rollers, then reprofiles both wheels simultaneously using two CNC tool posts. Each roller is connected to a 15 kW AC motor through a heavy-duty reduction gearbox, and digital variable speed drives give infinite speed variation so the machine can cut through hard spots and skid marks.",
+            "The drive rollers float individually to compensate for wheel irregularities and maintain continuous contact, while an individual jack and hold-down device provides rigid support and clamping of the axle or bearing box. Contact-type probes measure profile and diameter before and after turning, and the CNC software uses that wear data to suggest the most economical depth of cut."
           ],
           "image": "products/underfloor-wheel-lathe-yul-08",
-          "image_alt": "Sample illustration of the YUL-08 underfloor wheel lathe in a pit, with a locomotive wheelset supported on drive rollers",
+          "image_alt": "HYT CNC Underfloor Wheel Lathe YUL-08 with a wheelset on its drive rollers",
           "layout": "image-right"
         },
         {
           "type": "features",
           "id": "advantages",
           "eyebrow": "Key advantages",
-          "heading": "Why workshops choose an underfloor lathe",
+          "heading": "Why choose the YUL-08?",
           "cols": 3,
           "items": [
             {
-              "icon": "clock-history",
-              "title": "Short turnaround",
-              "text": "No bogie drop or wheelset removal, so vehicles return to traffic within the same shift."
+              "icon": "train-front",
+              "title": "In-situ machining",
+              "text": "Reprofiles wheelsets without removing them from the vehicle, so the bogie brake gear and axle box covers stay in place."
             },
             {
-              "icon": "arrows-collapse",
-              "title": "Both wheels at once",
-              "text": "Left and right wheels are machined simultaneously, matching diameters within the required tolerance."
+              "icon": "bricks",
+              "title": "Close-grained cast iron structure",
+              "text": "Gives dimensional and structural stability with efficient vibration damping."
+            },
+            {
+              "icon": "arrow-down-up",
+              "title": "Individually floating drive rollers",
+              "text": "Compensate for wheel irregularities and maintain continuous contact throughout the cut."
             },
             {
               "icon": "rulers",
-              "title": "Minimum material removal",
-              "text": "Automatic measurement before cutting lets the CNC take only the depth needed to restore the profile."
+              "title": "Electronic wear measurement",
+              "text": "The CNC software processes the wear data and suggests the most economical depth of cut."
             },
             {
-              "icon": "train-front",
-              "title": "One machine, mixed fleet",
-              "text": "Locomotives, coaches, EMUs and wagons handled with suitable adaptors and stored profile programs."
+              "icon": "lock",
+              "title": "Individual jack and hold-down device",
+              "text": "Rigid support and clamping of the axle or bearing box, suited to vehicles with higher axle loads."
             },
             {
-              "icon": "shield-check",
-              "title": "Safe operation",
-              "text": "Guarded working zone, interlocks and clear operator controls at track level."
+              "icon": "disc",
+              "title": "Optional brake disc machining",
+              "text": "Quick-change tooling and adapters remove unevenness from both side brake discs in the same setup."
             },
             {
-              "icon": "gear-wide-connected",
-              "title": "Built for service",
-              "text": "Standard industrial components and HYT spare parts support keep downtime low."
+              "icon": "wifi",
+              "title": "Remote diagnostics and teleservices",
+              "text": "Windows-based open architecture software supports remote maintenance from HYT headquarters."
             }
           ]
         },
         {
           "type": "specs",
           "id": "specifications",
-          "heading": "Technical specifications",
-          "intro": "Key data for the standard configuration. The machine is adapted to the customer's track gauge, wheel profiles and vehicle types.",
+          "heading": "Technical data",
+          "intro": "Technical data from HYT. Each machine is configured to your track gauge, wheel profiles and vehicles.",
           "columns": [
             "Parameter",
             "YUL-08"
           ],
           "rows": [
             [
-              "Machine type",
-              "CNC underfloor (pit) wheel lathe, single axle"
+              "Machine configuration",
+              "Single underfloor lathe; wheelset machined in situ, including brake discs assembled on the wheelset"
             ],
             [
-              "Main drive motor capacity",
-              "4 × 15 kW"
+              "Main drive capacity",
+              "4 × 15 kW on friction rollers"
             ],
             [
-              "Wheels machined simultaneously",
-              "2 (one wheelset)"
+              "Cutting speed while profiling",
+              "20–120 m/min"
             ],
             [
-              "Tread diameter range",
-              "On request*"
+              "Tool post feed for wheel profiling",
+              "0.1–2.5 mm/rev"
+            ],
+            [
+              "Tool post rapid speed, both axes",
+              "3000 mm/min"
+            ],
+            [
+              "Max. chip cross-section / stock removal while profiling",
+              "10 mm²"
+            ],
+            [
+              "Cycle time per wheelset",
+              "35 minutes"
             ],
             [
               "Track gauge",
-              "Broad, standard or metre gauge – to customer specification*"
+              "As required"
             ],
             [
-              "Maximum axle load",
-              "On request"
+              "Wheel tread diameter, max. / min.",
+              "1500 mm / 540 mm (depends on track gauge)"
             ],
             [
-              "Profiles",
-              "Customer-specified wheel profiles stored in the CNC"
+              "Wheel width",
+              "75–155 mm"
             ],
             [
-              "Measuring system",
-              "Automatic measurement of diameter, flange height and flange thickness"
+              "Wheelset distance, min. – max.",
+              "1800–3200 mm"
+            ],
+            [
+              "Max. axle load / wheelset weight",
+              "300 / 400 kN axle load"
+            ],
+            [
+              "Difference in diameter of both wheels",
+              "< 0.10 mm"
+            ],
+            [
+              "Difference in diameter of four wheels in one bogie",
+              "< 0.3 mm"
+            ],
+            [
+              "Accuracy of wheel profile against standard gauge",
+              "< 0.2 mm"
+            ],
+            [
+              "Radial run-out of wheel",
+              "< 0.1 mm"
+            ],
+            [
+              "Axial run-out of wheel",
+              "< 0.15 mm"
+            ],
+            [
+              "Profile surface finish",
+              "< 12.5 μm Ra"
             ]
           ],
-          "note": "Values marked * depend on track gauge and customer configuration. Final figures are confirmed in the technical offer."
+          "note": "Values that depend on track gauge are marked in the table. Final figures are confirmed in the technical offer."
         },
         {
           "type": "steps",
@@ -680,7 +752,7 @@
           "items": [
             {
               "image": "products/underfloor-wheel-lathe-yul-08",
-              "caption": "Sample illustration of the YUL-08 installed in a maintenance pit"
+              "caption": "HYT CNC Underfloor Wheel Lathe YUL-08 with a wheelset on its drive rollers"
             },
             {
               "image": "products/wheelset-profile-closeup",
@@ -727,12 +799,12 @@
     },
     "underfloor-wheel-lathe-yugl": {
       "nav": "CNC Underfloor Wheel Lathe (YUGL)",
-      "title": "CNC Underfloor Wheel Lathe YUGL – Automated Platform",
-      "description": "HYT YUGL CNC underfloor wheel lathe: in-vehicle wheelset re-profiling on a platform configured for higher automation. The related model to the YUL-08.",
+      "title": "CNC Underfloor Wheel Lathe YUGL",
+      "description": "HYT's flagship underfloor wheel lathe reprofiles both wheels of a wheelset simultaneously, without removing the wheelset from the rolling stock.",
       "eyebrow": "Wheel Lathes",
-      "h1": "CNC Underfloor Wheel Lathe YUGL – the next-generation underfloor platform for higher automation",
-      "lede": "Like the YUL-08, the YUGL re-profiles wheelsets while they stay in the vehicle. It is positioned for depots that want more of the cycle – positioning, measurement and data – handled automatically.",
-      "summary": "Next-generation underfloor wheel lathe for in-vehicle re-profiling, positioned for depots that want a higher degree of automation.",
+      "h1": "CNC Underfloor Wheel Lathe YUGL – HYT's flagship for in-situ wheel reprofiling",
+      "lede": "HYT's flagship wheel lathe – simultaneous reprofiling of both wheels of a wheelset without removing the wheelset from the rolling stock.",
+      "summary": "HYT's flagship underfloor lathe: reprofiles both wheels of a wheelset simultaneously without removing it from the rolling stock.",
       "related": [
         "underfloor-wheel-lathe",
         "tandem-underfloor-wheel-lathe-yuglx",
@@ -743,109 +815,154 @@
         {
           "type": "text",
           "id": "overview",
-          "eyebrow": "About the machine",
-          "heading": "Same principle, more automation",
+          "eyebrow": "Product overview",
+          "heading": "What is the CNC Underfloor Wheel Lathe?",
           "paragraphs": [
-            "Like every underfloor lathe, the YUGL is installed in a pit beneath the track. The vehicle is drawn over the machine, the wheelset is lifted off the rails and both wheels are re-profiled while brake gear, traction motors and bogie frames stay in place.",
-            "Where the [YUL-08](page:underfloor-wheel-lathe) is HYT's established single-axle machine, the YUGL is positioned as the next-generation platform. It is intended for depots where the lathe runs many cycles a day, operators change from shift to shift and machining data needs to flow into maintenance records. Degree of automation, measuring equipment and data interfaces are agreed with each customer.",
-            "Comparing the two models? Our application engineers will set out the differences for your fleet, workload and depot systems."
+            "The CNC Underfloor Wheel Lathe (Model YUGL) is HYT's flagship product – an automatic machine designed for the simultaneous profiling of new or worn wheels of railway vehicles without removing the wheelsets from the rolling stock.",
+            "Installed in a pit below track level, the machine lifts and centres each wheelset using synchronised drive rollers, then precisely reprofiles both wheels simultaneously using dual CNC tool posts, restoring the wheel tread profile to its original specification.",
+            "Wheelsets of all types of rolling stock – locomotives, coaches, wagons, metro trains and EMUs – can be turned on this machine while in their assembled condition. A fully integrated pre- and post-machining measurement system ensures that every wheel is machined to exact tolerances, minimising material removal and extending wheel life."
           ],
           "image": "products/underfloor-wheel-lathe-yugl",
-          "image_alt": "Sample illustration of a YUGL underfloor wheel lathe in a depot pit beneath a passenger vehicle",
+          "image_alt": "HYT CNC Underfloor Wheel Lathe YUGL with drive rollers and dual CNC tool posts",
           "layout": "image-right"
-        },
-        {
-          "type": "notice",
-          "variant": "review",
-          "text": "Awaiting HYT confirmation: how the YUGL differs technically from the YUL-08 (automation level, drives, measuring system, capacities) and whether both models remain on sale. The positioning on this page is provisional."
         },
         {
           "type": "features",
           "id": "advantages",
           "eyebrow": "Key advantages",
-          "heading": "What the YUGL is designed to deliver",
+          "heading": "Why choose the YUGL?",
           "cols": 3,
           "items": [
             {
-              "icon": "cpu",
-              "title": "Configurable automation",
-              "text": "Sequences from positioning to final measurement can be automated to reduce manual steps between cycles."
-            },
-            {
-              "icon": "clipboard-data",
-              "title": "Machining records",
-              "text": "Before-and-after measurements stored for each wheelset, supporting condition-based maintenance."
-            },
-            {
-              "icon": "people",
-              "title": "Consistent across shifts",
-              "text": "Guided operation and stored profiles make results less dependent on individual experience."
-            },
-            {
-              "icon": "clock-history",
-              "title": "No dismantling",
-              "text": "The wheelset stays in the vehicle, so trains return to service within the same shift."
+              "icon": "bricks",
+              "title": "Heavy-duty dual column construction",
+              "text": "Built with close-grained cast iron for maximum rigidity and machining accuracy."
             },
             {
               "icon": "arrows-collapse",
-              "title": "Both wheels together",
-              "text": "Left and right wheels machined at the same time for matched diameters."
+              "title": "Synchronised wheelset lifting",
+              "text": "Four drive rollers automatically lift and centre the wheelset with precision feedback control."
             },
             {
-              "icon": "train-lightrail-front",
-              "title": "Made for busy fleets",
-              "text": "Suited to metro and EMU depots where re-profiling is frequent and maintenance slots are short."
+              "icon": "rulers",
+              "title": "Intelligent CNC wear measurement",
+              "text": "Optimises cutting depth for consistent wheel profiling and extended tool life."
+            },
+            {
+              "icon": "display",
+              "title": "Centralised machine control",
+              "text": "A single operator station manages measurement, machining and process monitoring."
+            },
+            {
+              "icon": "tools",
+              "title": "Quick-change tooling system",
+              "text": "Reduces setup time and increases overall machine productivity."
             }
           ]
         },
         {
           "type": "specs",
           "id": "specifications",
-          "heading": "Technical specifications",
-          "intro": "The YUGL is configured for each project. Data is confirmed in the technical offer.",
+          "heading": "Technical data",
+          "intro": "Technical data from HYT. Each machine is configured to your track gauge, wheel profiles and vehicles.",
           "columns": [
             "Parameter",
-            "YUGL"
+            "YUGL 30",
+            "YUGL 15"
           ],
           "rows": [
             [
-              "Machine type",
-              "CNC underfloor (pit) wheel lathe, single axle"
+              "Machine configuration",
+              "Single underfloor lathe; wheelset reprofiled in situ, without disassembly",
+              "Single underfloor lathe for urban vehicles; wheelset reprofiled in situ"
             ],
             [
-              "Wheels machined simultaneously",
-              "2 (one wheelset)"
+              "Main drive capacity",
+              "4 × 13.5 kW on friction rollers",
+              "4 × 9 kW on friction rollers"
             ],
             [
-              "Main drive",
-              "On request"
+              "Cutting speed while profiling",
+              "20–120 m/min (optional 20–300 m/min)",
+              "20–120 m/min (optional 20–300 m/min)"
             ],
             [
-              "Tread diameter range",
-              "On request*"
+              "Tool post feed for wheel profiling",
+              "0.1–2.5 mm/rev",
+              "0.1–2.5 mm/rev"
+            ],
+            [
+              "Tool post rapid speed, both axes",
+              "Longitudinal carriage 5000 mm/min; vertical slide 3000 mm/min",
+              "Longitudinal carriage 5000 mm/min; vertical slide 3000 mm/min"
+            ],
+            [
+              "Max. chip cross-section / stock removal while profiling",
+              "10 mm²",
+              "6 mm²"
+            ],
+            [
+              "Cycle time per wheelset",
+              "30 minutes",
+              "30 minutes"
             ],
             [
               "Track gauge",
-              "To customer specification*"
+              "1000–1676 mm",
+              "1000–1676 mm"
             ],
             [
-              "Maximum axle load",
-              "On request"
+              "Wheel tread diameter, max. / min.",
+              "1600 mm / 580 mm",
+              "1250 mm / 375 mm"
             ],
             [
-              "Measuring system",
-              "On request"
+              "Wheel width",
+              "75–155 mm",
+              "75–155 mm"
             ],
             [
-              "Degree of automation",
-              "Configured to customer requirements"
+              "Wheelset distance, min. – max.",
+              "1700–3200 mm",
+              "1700–3200 mm"
             ],
             [
-              "Data interface to depot systems",
-              "On request"
+              "Max. axle load / wheelset weight",
+              "30 t (40 t on request)",
+              "18 t"
+            ],
+            [
+              "Difference in diameter of both wheels",
+              "< 0.10 mm",
+              "< 0.10 mm"
+            ],
+            [
+              "Difference in diameter of four wheels in one bogie",
+              "< 0.3 mm",
+              "< 0.3 mm"
+            ],
+            [
+              "Accuracy of wheel profile against standard gauge",
+              "< 0.2 mm",
+              "< 0.2 mm"
+            ],
+            [
+              "Radial run-out of wheel",
+              "< 0.10 mm",
+              "< 0.10 mm"
+            ],
+            [
+              "Axial run-out of wheel",
+              "< 0.15 mm",
+              "< 0.15 mm"
+            ],
+            [
+              "Profile surface finish",
+              "< 12.5 μm Ra",
+              "< 12.5 μm Ra"
             ]
           ],
-          "note": "Values marked * depend on track gauge and customer configuration. Final figures are confirmed in the technical offer."
+          "note": "Final figures are confirmed in the technical offer."
         },
         {
           "type": "steps",
@@ -939,7 +1056,7 @@
           "items": [
             {
               "image": "products/underfloor-wheel-lathe-yugl",
-              "caption": "Sample illustration of the YUGL underfloor wheel lathe"
+              "caption": "HYT CNC Underfloor Wheel Lathe YUGL with drive rollers and dual CNC tool posts"
             },
             {
               "image": "projects/metro-depot",
@@ -962,7 +1079,7 @@
           "items": [
             {
               "q": "How does the YUGL differ from the YUL-08?",
-              "a": "Both are single-axle underfloor lathes that re-profile wheelsets in the vehicle. The [YUL-08](page:underfloor-wheel-lathe) is the established model; the YUGL is positioned as the next-generation platform with a higher degree of automation. Detailed differences depend on configuration – ask us for a side-by-side comparison for your fleet."
+              "a": "Both are single-axle underfloor lathes that reprofile wheelsets in the vehicle. The YUGL is offered as the YUGL 30 (4 × 13.5 kW, tread diameters 580–1600 mm, 30 t axle load) and the YUGL 15 for urban vehicles. The [YUL-08](page:underfloor-wheel-lathe) has a 4 × 15 kW drive on individually floating rollers, tread diameters of 540–1500 mm and axle loads of 300 / 400 kN, and can also machine brake discs. Our engineers will recommend the model that suits your fleet."
             },
             {
               "q": "Does the wheelset have to be removed from the vehicle?",
@@ -987,10 +1104,10 @@
     "tandem-underfloor-wheel-lathe": {
       "nav": "CNC Tandem Underfloor Wheel Lathe (YUL-12T)",
       "title": "CNC Tandem Underfloor Wheel Lathe YUL-12T",
-      "description": "HYT YUL-12T tandem underfloor wheel lathe: two synchronised machines re-profile both wheelsets of a bogie in the vehicle. Tread diameter 540–1500 mm.",
+      "description": "Two underfloor wheel lathes in tandem, reprofiling both wheelsets of a bogie simultaneously in situ. Centre distance adjustable from 1800 to 3100 mm.",
       "eyebrow": "Wheel Lathes",
       "h1": "CNC Tandem Underfloor Wheel Lathe YUL-12T – both wheelsets of a bogie in one setting",
-      "lede": "Two synchronised underfloor lathes work side by side to re-profile a complete bogie while it stays under the vehicle. One machine is fixed; the other traverses to match the wheelbase.",
+      "lede": "Two underfloor wheel lathes working as one – reprofiling two vehicle-mounted wheelsets at the same time, in situ, and cutting reprofiling time by up to half.",
       "summary": "Two synchronised underfloor lathes that re-profile both wheelsets of a bogie in one setting, cutting re-profiling time per vehicle.",
       "related": [
         "underfloor-wheel-lathe",
@@ -1002,108 +1119,145 @@
         {
           "type": "text",
           "id": "overview",
-          "eyebrow": "About the machine",
-          "heading": "Two wheelsets, one setting",
+          "eyebrow": "Product overview",
+          "heading": "What is the CNC Tandem Underfloor Wheel Lathe?",
           "paragraphs": [
-            "On a single underfloor lathe, the wheelsets of a bogie are machined one after the other: the vehicle is moved, the next axle is positioned and the cycle starts again. The YUL-12T removes that step. Two machines installed in one pit work in synchronised tandem, so both wheelsets of a bogie are re-profiled together.",
-            "One unit is fixed; the second traverses along the pit to suit the bogie wheelbase. A single installation can therefore serve vehicles with different bogie designs – from locomotives to coaches and multiple units – without changes to the foundation.",
-            "HYT figures show that tandem operation reduces re-profiling time by 50% for coaches and 33% for locomotives compared with a single machine. For a platform positioned for higher automation, compare the [YUGLX](page:tandem-underfloor-wheel-lathe-yuglx)."
+            "The CNC Tandem Underfloor Wheel Lathe (Model YUL-12T) is a pair of underfloor wheel lathes installed on a common foundation and shared infrastructure. Two vehicle-mounted wheelsets are reprofiled simultaneously in situ, without removing the wheelsets, the bogie brake gear, the axle box covers or any other component of the railway vehicle.",
+            "One machine is fixed and the second is fixed or movable, so the pair accommodates the varying wheelbases of different bogies. The standard centre distance between the two machines ranges from 1800 to 3100 mm and can be changed to suit a specific requirement.",
+            "The two CNC systems communicate with each other and exchange data, holding the difference in diameter across all four wheels of one bogie below 0.3 mm. The machines can also run under independent control, so a single wheelset can be machined when that is all that is required, and the brake discs of both wheelsets can be turned simultaneously."
           ],
           "image": "products/tandem-underfloor-wheel-lathe-yul-12t",
-          "image_alt": "Sample illustration of two synchronised underfloor wheel lathes in a pit beneath a bogie",
+          "image_alt": "HYT CNC Tandem Underfloor Wheel Lathe YUL-12T – two underfloor lathes on a common foundation",
           "layout": "image-right"
         },
         {
           "type": "features",
           "id": "advantages",
           "eyebrow": "Key advantages",
-          "heading": "What tandem operation changes in the depot",
+          "heading": "Why choose the YUL-12T?",
           "cols": 3,
           "items": [
             {
-              "icon": "stopwatch",
-              "title": "Shorter re-profiling time",
-              "text": "50% less time for coaches and 33% less for locomotives than with a single machine (HYT figures)."
+              "icon": "clock-history",
+              "title": "Two wheelsets in one cycle",
+              "text": "Reprofiling time is reduced by up to 50%, returning rolling stock to revenue service faster."
             },
             {
-              "icon": "arrows-move",
-              "title": "Adjustable wheelbase",
-              "text": "The traversing unit is positioned to the bogie, so one pit serves several vehicle types."
+              "icon": "arrows-expand",
+              "title": "Adjustable centre distance",
+              "text": "1800 to 3100 mm as standard, covering the varying wheelbases of different bogies."
             },
             {
-              "icon": "train-front",
-              "title": "Fewer vehicle moves",
-              "text": "No shunting between the two axles of a bogie – less time, less handling and less risk."
+              "icon": "diagram-3",
+              "title": "Synchronised or independent control",
+              "text": "The two CNC systems communicate and exchange data, and either machine can also work on its own."
             },
             {
-              "icon": "aspect-ratio",
-              "title": "Wide diameter range",
-              "text": "Tread diameters from 540 to 1500 mm cover a broad mix of vehicles."
+              "icon": "bullseye",
+              "title": "Bogie-level accuracy",
+              "text": "The difference in diameter across the four wheels of one bogie is held below 0.3 mm."
             },
             {
-              "icon": "speedometer",
-              "title": "Flexible cutting speed",
-              "text": "20–120 m/min to suit wheel material and wear condition."
+              "icon": "building",
+              "title": "Common infrastructure",
+              "text": "Both machines share a single foundation and services, simplifying installation."
             },
             {
-              "icon": "arrows-collapse",
-              "title": "Matched wheels across the bogie",
-              "text": "Both wheelsets are measured and machined in the same setting, which makes diameter matching across the bogie easier to control."
+              "icon": "disc",
+              "title": "Simultaneous brake disc machining",
+              "text": "The discs of both wheelsets can be turned in the same cycle using quick-change tooling."
+            },
+            {
+              "icon": "rulers",
+              "title": "Probe or laser measurement",
+              "text": "Automatic measurement of profile and diameter before and after turning, with data stored in the CNC system."
             }
           ]
         },
         {
           "type": "specs",
           "id": "specifications",
-          "heading": "Technical specifications",
-          "intro": "Key data for the standard configuration. The machine is adapted to the customer's track gauge, bogie wheelbases and wheel profiles.",
+          "heading": "Technical data",
+          "intro": "Technical data from HYT. Each machine is configured to your track gauge, wheel profiles and vehicles.",
           "columns": [
             "Parameter",
             "YUL-12T"
           ],
           "rows": [
             [
-              "Machine type",
-              "CNC tandem underfloor (pit) wheel lathe – two synchronised machines"
+              "Machine configuration",
+              "Two underfloor lathes on a common foundation; centre distance 1800–3100 mm as standard"
             ],
             [
-              "Configuration",
-              "One fixed machine, one traversing machine to suit bogie wheelbase"
+              "Main drive capacity",
+              "4 × 15 kW on friction rollers, for each machine"
             ],
             [
-              "Wheelsets machined per setting",
-              "2 (one bogie)"
+              "Cutting speed while profiling",
+              "20–120 m/min (optional 20–300 m/min)"
             ],
             [
-              "Main drive motor capacity",
-              "4 × 15 kW"
+              "Tool post feed for wheel profiling",
+              "0.1–2.5 mm/rev"
             ],
             [
-              "Tread diameter range",
-              "540–1500 mm"
+              "Tool post rapid speed, both axes",
+              "3000 mm/min"
             ],
             [
-              "Cutting speed",
-              "20–120 m/min"
+              "Max. chip cross-section / stock removal while profiling",
+              "10 mm²"
             ],
             [
-              "Bogie wheelbase range",
-              "On request*"
+              "Cycle time per wheelset",
+              "35 minutes"
             ],
             [
               "Track gauge",
-              "To customer specification*"
+              "As required"
             ],
             [
-              "Maximum axle load",
-              "On request"
+              "Wheel tread diameter, max. / min.",
+              "1500 mm / 540 mm (depends on track gauge)"
             ],
             [
-              "Re-profiling time vs single machine",
-              "50% shorter for coaches, 33% shorter for locomotives (HYT figures)"
+              "Wheel width",
+              "75–155 mm"
+            ],
+            [
+              "Wheelset distance, min. – max.",
+              "1800–3200 mm"
+            ],
+            [
+              "Max. axle load / wheelset weight",
+              "300 / 400 kN axle load"
+            ],
+            [
+              "Difference in diameter of both wheels",
+              "< 0.10 mm"
+            ],
+            [
+              "Difference in diameter of four wheels in one bogie",
+              "< 0.3 mm"
+            ],
+            [
+              "Accuracy of wheel profile against standard gauge",
+              "< 0.2 mm"
+            ],
+            [
+              "Radial run-out of wheel",
+              "< 0.10 mm"
+            ],
+            [
+              "Axial run-out of wheel",
+              "< 0.15 mm"
+            ],
+            [
+              "Profile surface finish",
+              "< 12.5 μm Ra"
             ]
           ],
-          "note": "Values marked * depend on track gauge and customer configuration. Final figures are confirmed in the technical offer."
+          "note": "Values that depend on track gauge are marked in the table. Final figures are confirmed in the technical offer."
         },
         {
           "type": "steps",
@@ -1203,7 +1357,7 @@
           "items": [
             {
               "image": "products/tandem-underfloor-wheel-lathe-yul-12t",
-              "caption": "Sample illustration of the YUL-12T tandem underfloor wheel lathe"
+              "caption": "HYT CNC Tandem Underfloor Wheel Lathe YUL-12T – two underfloor lathes on a common foundation"
             },
             {
               "image": "projects/pit-foundation-civil-works",
@@ -1226,7 +1380,7 @@
           "items": [
             {
               "q": "How much time does a tandem lathe save?",
-              "a": "HYT figures show re-profiling time reduced by 50% for coaches and 33% for locomotives compared with a single underfloor machine. Actual savings depend on your vehicles and depot routine."
+              "a": "Machining both wheelsets of a bogie in one cycle reduces reprofiling time by up to 50% compared with a single underfloor machine. Actual savings depend on your vehicles and depot routine."
             },
             {
               "q": "How does the machine handle different bogie wheelbases?",
@@ -1238,7 +1392,7 @@
             },
             {
               "q": "What is the difference between the YUL-12T and the YUGLX?",
-              "a": "Both are tandem underfloor lathes. The YUL-12T is the established model with the data shown on this page. The [YUGLX](page:tandem-underfloor-wheel-lathe-yuglx) is positioned as the next-generation tandem platform with a higher degree of automation. We will compare both for your fleet."
+              "a": "Both are tandem underfloor lathes. The YUL-12T has a 4 × 15 kW drive per machine, a standard centre distance of 1800–3100 mm and tread diameters of 540–1500 mm. On the [YUGLX](page:tandem-underfloor-wheel-lathe-yuglx) the movable machine runs on CNC-controlled linear guideways; it covers a wheelbase range of 1700–3200 mm and, as the YUGLX 30, tread diameters up to 1600 mm. Our engineers will recommend the model that suits your fleet."
             },
             {
               "q": "Is a single machine enough for my depot?",
@@ -1250,12 +1404,12 @@
     },
     "tandem-underfloor-wheel-lathe-yuglx": {
       "nav": "CNC Tandem Underfloor Wheel Lathe (YUGLX)",
-      "title": "CNC Tandem Underfloor Lathe YUGLX – Automated Platform",
-      "description": "HYT YUGLX tandem underfloor wheel lathe: synchronised machines re-profile a full bogie in the vehicle, on a platform configured for higher automation.",
+      "title": "CNC Tandem Underfloor Wheel Lathe YUGLX",
+      "description": "Two synchronised CNC underfloor wheel lathes reprofiling all wheelsets of a coach or locomotive simultaneously, without uncoupling the train set.",
       "eyebrow": "Wheel Lathes",
-      "h1": "CNC Tandem Underfloor Wheel Lathe YUGLX – next-generation tandem platform for automated bogie re-profiling",
-      "lede": "The YUGLX applies the tandem principle – both wheelsets of a bogie in one setting – on a platform positioned for depots that want positioning, measurement and data handled with less manual input.",
-      "summary": "Next-generation tandem underfloor lathe that re-profiles a complete bogie in the vehicle, positioned for higher automation.",
+      "h1": "CNC Tandem Underfloor Wheel Lathe YUGLX – two synchronised lathes for complete coaches and locomotives",
+      "lede": "Two synchronised underfloor wheel lathes working in tandem – reprofiling two wheelsets of a complete coach or locomotive without uncoupling from the train set.",
+      "summary": "Two synchronised CNC underfloor lathes that reprofile the wheelsets of a complete coach or locomotive without uncoupling the train set.",
       "related": [
         "tandem-underfloor-wheel-lathe",
         "underfloor-wheel-lathe-yugl",
@@ -1266,109 +1420,154 @@
         {
           "type": "text",
           "id": "overview",
-          "eyebrow": "About the machine",
-          "heading": "A full bogie per cycle, with more automation",
+          "eyebrow": "Product overview",
+          "heading": "What is the CNC Tandem Underfloor Wheel Lathe?",
           "paragraphs": [
-            "In a busy depot the wheel lathe is often the bottleneck. A tandem underfloor lathe addresses that by machining both wheelsets of a bogie together, with the vehicle still assembled above the pit.",
-            "The YUGLX is positioned as the next-generation tandem platform alongside the established [YUL-12T](page:tandem-underfloor-wheel-lathe). It is intended for fleets where the machine is in near-continuous use, and where consistent cycles and complete machining records matter as much as cutting time. Automation scope, measuring equipment and data interfaces are agreed with each customer.",
-            "Its single-axle counterpart is the [YUGL](page:underfloor-wheel-lathe-yugl)."
+            "The CNC Tandem Underfloor Wheel Lathe (Model YUGLX) is HYT's most advanced wheel reprofiling solution – a combination of two full CNC underfloor wheel lathes working in perfectly synchronised tandem mode to reprofile multiple wheelsets of an entire coach or locomotive simultaneously.",
+            "One machine is fixed while the other is movable, driven by CNC-controlled linear motion guideways, to accommodate the varying wheelbase distances of different bogie configurations across coaches, locomotives, metro trains and EMUs.",
+            "The tandem configuration is particularly valuable in train-set formations where coaches cannot be separated. The entire train can be brought in and wheel profiling of a complete coach carried out in under two hours, dramatically reducing the time the vehicle is held out of revenue service."
           ],
           "image": "products/tandem-underfloor-wheel-lathe-yuglx",
-          "image_alt": "Sample illustration of a YUGLX tandem underfloor wheel lathe beneath a multiple-unit bogie",
+          "image_alt": "HYT CNC Tandem Underfloor Wheel Lathe YUGLX – two synchronised underfloor lathes in a depot pit",
           "layout": "image-right"
-        },
-        {
-          "type": "notice",
-          "variant": "review",
-          "text": "Awaiting HYT confirmation: how the YUGLX differs technically from the YUL-12T (automation level, drives, capacities, wheelbase range) and whether both models remain on sale. The positioning on this page is provisional."
         },
         {
           "type": "features",
           "id": "advantages",
           "eyebrow": "Key advantages",
-          "heading": "What the YUGLX is designed to deliver",
+          "heading": "Why choose the YUGLX?",
           "cols": 3,
           "items": [
             {
-              "icon": "stopwatch",
-              "title": "Whole bogie per setting",
-              "text": "Two wheelsets machined together, with no vehicle move between axles."
-            },
-            {
               "icon": "cpu",
-              "title": "Configurable automation",
-              "text": "Steps from positioning to final measurement can be automated to suit the depot."
+              "title": "Independent CNC control",
+              "text": "Individual CNC systems synchronise seamlessly for efficient tandem machining."
             },
             {
-              "icon": "clipboard-data",
-              "title": "Complete records",
-              "text": "Measurements for all four wheels stored per bogie for trend analysis and maintenance planning."
+              "icon": "bricks",
+              "title": "Heavy-duty box-type construction",
+              "text": "A rigid cast structure ensures stability, vibration damping and machining accuracy."
             },
             {
-              "icon": "arrows-move",
-              "title": "Wheelbase flexibility",
-              "text": "Machine spacing configured to the bogie wheelbases in your fleet."
+              "icon": "clock-history",
+              "title": "Reduced train downtime",
+              "text": "Simultaneous machining cuts maintenance time by up to 50%, even when coaches cannot be separated."
             },
             {
-              "icon": "people",
-              "title": "Less operator dependence",
-              "text": "Guided, repeatable cycles give consistent results across shifts."
+              "icon": "display",
+              "title": "Centralised machine control",
+              "text": "A single operator station manages measurement, machining and process monitoring."
             },
             {
-              "icon": "shield-check",
-              "title": "Safe pit operation",
-              "text": "Guarded working zones and interlocks around both machines."
+              "icon": "diagram-3",
+              "title": "Industry 4.0 ready",
+              "text": "Integrated smart diagnostics, real-time monitoring and digital connectivity for enhanced productivity."
             }
           ]
         },
         {
           "type": "specs",
           "id": "specifications",
-          "heading": "Technical specifications",
-          "intro": "The YUGLX is configured for each project. Data is confirmed in the technical offer.",
+          "heading": "Technical data",
+          "intro": "Technical data from HYT. Each machine is configured to your track gauge, wheel profiles and vehicles.",
           "columns": [
             "Parameter",
-            "YUGLX"
+            "YUGLX 30",
+            "YUGLX 15"
           ],
           "rows": [
             [
-              "Machine type",
-              "CNC tandem underfloor (pit) wheel lathe"
+              "Machine configuration",
+              "Two synchronised underfloor lathes on a common supporting bed; one fixed, the other with longitudinal movement to suit the bogie",
+              "Two synchronised underfloor lathes on a common supporting bed, for urban vehicles; one fixed, the other with longitudinal movement"
             ],
             [
-              "Wheelsets machined per setting",
-              "2 (one bogie)"
+              "Main drive capacity",
+              "4 × 13.5 kW on friction rollers, for each machine",
+              "4 × 9 kW on friction rollers, for each machine"
             ],
             [
-              "Main drive",
-              "On request"
+              "Cutting speed while profiling",
+              "20–120 m/min (optional 20–300 m/min)",
+              "20–120 m/min (optional 20–300 m/min)"
             ],
             [
-              "Tread diameter range",
-              "On request*"
+              "Tool post feed for wheel profiling",
+              "0.1–2.5 mm/rev",
+              "0.1–2.5 mm/rev"
             ],
             [
-              "Bogie wheelbase range",
-              "On request*"
+              "Tool post rapid speed, both axes",
+              "Longitudinal carriage 5000 mm/min; vertical slide 3000 mm/min",
+              "Longitudinal carriage 5000 mm/min; vertical slide 3000 mm/min"
+            ],
+            [
+              "Max. chip cross-section / stock removal while profiling",
+              "10 mm²",
+              "6 mm²"
+            ],
+            [
+              "Cycle time per wheelset",
+              "30 minutes",
+              "30 minutes"
             ],
             [
               "Track gauge",
-              "To customer specification*"
+              "1000–1676 mm",
+              "1000–1676 mm"
             ],
             [
-              "Maximum axle load",
-              "On request"
+              "Wheel tread diameter, max. / min.",
+              "1600 mm / 580 mm",
+              "1250 mm / 375 mm"
             ],
             [
-              "Degree of automation",
-              "Configured to customer requirements"
+              "Wheel width",
+              "75–155 mm",
+              "75–155 mm"
             ],
             [
-              "Data interface to depot systems",
-              "On request"
+              "Wheelbase distance, min. – max.",
+              "1700–3200 mm",
+              "1700–3200 mm"
+            ],
+            [
+              "Max. axle load / wheelset weight",
+              "30 t (40 t on request)",
+              "18 t"
+            ],
+            [
+              "Difference in diameter of both wheels",
+              "< 0.10 mm",
+              "< 0.10 mm"
+            ],
+            [
+              "Difference in diameter of four wheels in one bogie",
+              "< 0.3 mm",
+              "< 0.3 mm"
+            ],
+            [
+              "Accuracy of wheel profile against standard gauge",
+              "< 0.2 mm",
+              "< 0.2 mm"
+            ],
+            [
+              "Radial run-out of wheel",
+              "< 0.10 mm",
+              "< 0.10 mm"
+            ],
+            [
+              "Axial run-out of wheel",
+              "< 0.15 mm",
+              "< 0.15 mm"
+            ],
+            [
+              "Profile surface finish",
+              "< 12.5 μm Ra",
+              "< 12.5 μm Ra"
             ]
           ],
-          "note": "Values marked * depend on track gauge and customer configuration. Final figures are confirmed in the technical offer."
+          "note": "Final figures are confirmed in the technical offer."
         },
         {
           "type": "steps",
@@ -1382,7 +1581,7 @@
             },
             {
               "title": "Align",
-              "text": "The machines are aligned with both wheelsets of the bogie."
+              "text": "The movable machine travels on CNC-controlled linear guideways to match the wheelbase of the bogie."
             },
             {
               "title": "Lift & clamp",
@@ -1462,7 +1661,7 @@
           "items": [
             {
               "image": "products/tandem-underfloor-wheel-lathe-yuglx",
-              "caption": "Sample illustration of the YUGLX tandem underfloor wheel lathe"
+              "caption": "HYT CNC Tandem Underfloor Wheel Lathe YUGLX – two synchronised underfloor lathes in a depot pit"
             },
             {
               "image": "projects/metro-depot",
@@ -1485,7 +1684,7 @@
           "items": [
             {
               "q": "How does the YUGLX differ from the YUL-12T?",
-              "a": "Both are tandem underfloor lathes that machine both wheelsets of a bogie in one setting. The [YUL-12T](page:tandem-underfloor-wheel-lathe) is the established model; the YUGLX is positioned as the next-generation platform with a higher degree of automation. Ask us for a comparison based on your fleet."
+              "a": "Both are tandem underfloor lathes. On the YUGLX one machine is fixed and the other moves on CNC-controlled linear guideways; it is offered as the YUGLX 30 (tread diameters 580–1600 mm, 30 t axle load) and YUGLX 15 for urban vehicles, with a wheelbase range of 1700–3200 mm. The [YUL-12T](page:tandem-underfloor-wheel-lathe) has a 4 × 15 kW drive per machine, a standard centre distance of 1800–3100 mm and tread diameters of 540–1500 mm. Our engineers will recommend the model that suits your fleet."
             },
             {
               "q": "Why choose a tandem lathe over a single-axle machine?",
@@ -1509,11 +1708,11 @@
     },
     "portal-wheel-lathe": {
       "nav": "CNC Portal Wheel Lathe",
-      "title": "CNC Portal Wheel Lathe YPL-02 for Removed Wheelsets",
-      "description": "HYT YPL-02 CNC portal wheel lathe re-profiles removed wheelsets with heavy cuts: tread diameter 750–1250 mm, 2 × 55 kW main drive, wheelsets up to 50 kN.",
+      "title": "CNC Portal Wheel Lathe YPL-02",
+      "description": "Portal-construction CNC wheel lathe with roll-through wheelset handling. Simultaneous reprofiling of both wheels in 8 to 12 minutes per wheelset.",
       "eyebrow": "Wheel Lathes",
       "h1": "CNC Portal Wheel Lathe YPL-02 for wheelsets removed from the vehicle",
-      "lede": "A rigid portal machine for the wheel and axle shop. It turns removed wheelsets with heavy, stable cuts, so badly worn treads are restored efficiently and accurately.",
+      "lede": "An automatic machine in portal construction with roll-through movement of wheelsets – engineered for the most demanding railway wheel reprofiling environments.",
       "summary": "Rigid portal lathe for re-profiling removed wheelsets in wheel and axle shops, with a 2 × 55 kW main drive for heavy cuts.",
       "related": [
         "roller-type-portal-wheel-lathe",
@@ -1525,108 +1724,126 @@
         {
           "type": "text",
           "id": "overview",
-          "eyebrow": "About the machine",
-          "heading": "Built for the wheel shop",
+          "eyebrow": "Product overview",
+          "heading": "What is the CNC Portal Wheel Lathe?",
           "paragraphs": [
-            "When wheelsets are removed for overhaul, wheel replacement or heavy repair, they reach the wheel shop in a steady stream – often with deep flats, shelling or hollow wear that call for substantial material removal. The YPL-02 is designed for that work.",
-            "Its portal structure carries the tool slides over the wheelset and takes the cutting forces into a closed, rigid frame. With a 2 × 55 kW main drive and a chip cross-section of 32–50 mm², the machine takes heavy cuts on hard, worn treads while holding the profile accurately.",
-            "The wheelset is rolled in on rails, brought to the machining position and clamped; both wheels are then measured and turned. For a related portal design, see the [CNC Roller Type Portal Wheel Lathe YPL-04](page:roller-type-portal-wheel-lathe)."
+            "The HYT CNC Portal Wheel Lathe (YPL-02) is purpose-built for the simultaneous reprofiling of new or worn wheels across the complete range of railway vehicle types. Its portal architecture places the cutting heads above the wheelset, allowing roll-through loading of the wheelset.",
+            "All load-bearing structures are built from high-strength, close-grained cast iron, delivering exceptional dimensional stability, geometric accuracy and vibration damping – critical for achieving the tight tolerances required in modern railway operations."
           ],
           "image": "products/portal-wheel-lathe",
-          "image_alt": "Sample illustration of a CNC portal wheel lathe machining a removed wheelset in a wheel shop",
+          "image_alt": "HYT CNC Portal Wheel Lathe YPL-02 with operator at the machine",
           "layout": "image-right"
         },
         {
           "type": "features",
           "id": "advantages",
           "eyebrow": "Key advantages",
-          "heading": "Why wheel shops choose a portal lathe",
+          "heading": "Why choose the YPL-02?",
           "cols": 3,
           "items": [
             {
-              "icon": "lightning-charge",
-              "title": "Heavy-cut capability",
-              "text": "2 × 55 kW main drive and 32–50 mm² chip cross-section for efficient removal of deep defects."
+              "icon": "building",
+              "title": "Robust portal construction",
+              "text": "Heavy-duty portal design ensures superior rigidity and machining stability."
+            },
+            {
+              "icon": "arrow-left-right",
+              "title": "Automatic wheelset handling",
+              "text": "An integrated roll-through system increases productivity and reduces handling time."
             },
             {
               "icon": "bricks",
-              "title": "Rigid portal frame",
-              "text": "A closed structure for stable cutting and repeatable profiles on hard treads."
-            },
-            {
-              "icon": "arrows-expand",
-              "title": "Broad wheelset envelope",
-              "text": "Tread diameters 750–1250 mm, wheel widths 75–145 mm and axle lengths 1850–2750 mm, depending on gauge."
+              "title": "High-rigidity cast structure",
+              "text": "Close-grained cast iron construction delivers exceptional accuracy and vibration damping."
             },
             {
               "icon": "rulers",
-              "title": "Material-saving profiles",
-              "text": "Measurement before machining lets the CNC take only the depth needed, preserving wheel life."
+              "title": "Intelligent wear measurement",
+              "text": "Electronic wear compensation maintains optimum cutting depth and consistent wheel profiles."
             },
             {
-              "icon": "diagram-3",
-              "title": "Fits a wheel-shop flow",
-              "text": "Works alongside wheelset tracks, measuring stations and presses in a continuous process."
-            },
-            {
-              "icon": "geo-alt",
-              "title": "No pit under a running line",
-              "text": "The wheelset comes to the machine, so no track pit is needed in the wheel shop."
+              "icon": "shield-check",
+              "title": "Enhanced operational safety",
+              "text": "Automatic tool retraction protects the machine during power failures and emergency stops."
             }
           ]
         },
         {
           "type": "specs",
           "id": "specifications",
-          "heading": "Technical specifications",
-          "intro": "Key data for the standard configuration. The machine is adapted to the customer's gauge and wheel profiles.",
+          "heading": "Technical data",
+          "intro": "Technical data from HYT. Each machine is configured to your track gauge, wheel profiles and vehicles.",
           "columns": [
             "Parameter",
             "YPL-02"
           ],
           "rows": [
             [
-              "Machine type",
-              "CNC portal wheel lathe for removed wheelsets"
+              "Machine configuration",
+              "Portal construction with roll-through wheelset handling"
             ],
             [
-              "Tread diameter, maximum",
-              "1250 mm"
+              "Main drive capacity",
+              "2 × 55 kW"
             ],
             [
-              "Tread diameter, minimum",
-              "750 mm*"
+              "Cutting speed while profiling",
+              "25–80 m/min"
+            ],
+            [
+              "Tool post feed for wheel profiling",
+              "0.1–4 mm/rev"
+            ],
+            [
+              "Tool post rapid speed, both axes",
+              "4500 mm/min"
+            ],
+            [
+              "Max. chip cross-section / stock removal while profiling",
+              "32–50 mm²"
+            ],
+            [
+              "Cycle time per wheelset",
+              "8–12 min"
+            ],
+            [
+              "Track gauge",
+              "As required"
+            ],
+            [
+              "Wheel tread diameter, max. / min.",
+              "1250 mm / 750 mm (depends on track gauge)"
             ],
             [
               "Wheel width",
               "75–145 mm"
             ],
             [
-              "Axle length",
-              "1850–2750 mm*"
+              "Max. axle load / wheelset weight",
+              "50 kN wheelset weight"
             ],
             [
-              "Maximum wheelset weight",
-              "50 kN"
+              "Difference in diameter of both wheels",
+              "< 0.15 mm"
             ],
             [
-              "Main drive",
-              "2 × 55 kW"
+              "Accuracy of wheel profile against standard gauge",
+              "< 0.2 mm"
             ],
             [
-              "Chip cross-section",
-              "32–50 mm²"
+              "Radial run-out of wheel",
+              "< 0.1 mm"
             ],
             [
-              "Cutting speed",
-              "On request"
+              "Axial run-out of wheel",
+              "< 0.2 mm"
             ],
             [
-              "Track gauge",
-              "To customer specification*"
+              "Profile surface finish",
+              "< 12.5 μm Ra"
             ]
           ],
-          "note": "Values marked * depend on track gauge and customer configuration. Final figures are confirmed in the technical offer."
+          "note": "Values that depend on track gauge are marked in the table. Final figures are confirmed in the technical offer."
         },
         {
           "type": "steps",
@@ -1725,7 +1942,7 @@
           "items": [
             {
               "image": "products/portal-wheel-lathe",
-              "caption": "Sample illustration of the YPL-02 portal wheel lathe"
+              "caption": "HYT CNC Portal Wheel Lathe YPL-02 with operator at the machine"
             },
             {
               "image": "projects/railway-wheel-shop",
@@ -1760,7 +1977,7 @@
             },
             {
               "q": "How does the YPL-02 differ from the YPL-04?",
-              "a": "Both are portal lathes for removed wheelsets. The [YPL-04](page:roller-type-portal-wheel-lathe) is the roller-type design. We recommend one or the other after reviewing your wheelsets and workflow."
+              "a": "Both are portal lathes with roll-through handling for removed wheelsets. The YPL-02 has a 2 × 55 kW main drive for heavy cuts and completes a wheelset in 8–12 minutes. The [YPL-04](page:roller-type-portal-wheel-lathe) drives the wheelset through six friction rollers and suits wheelsets with a mounted gearbox or external cartridge bearings. We recommend one or the other after reviewing your wheelsets and workflow."
             },
             {
               "q": "Can the YPL-02 be part of an automated wheel shop?",
@@ -1773,11 +1990,11 @@
     "roller-type-portal-wheel-lathe": {
       "nav": "CNC Roller Type Portal Wheel Lathe",
       "title": "CNC Roller Type Portal Wheel Lathe YPL-04",
-      "description": "HYT YPL-04 roller type portal wheel lathe: CNC re-profiling of removed wheelsets supported and rotated on rollers, for wheel shops and overhaul workshops.",
+      "description": "Portal wheel lathe with six-roller friction drive and roll-through wheelset handling. Both wheels reprofiled in 12 to 16 minutes per wheelset.",
       "eyebrow": "Wheel Lathes",
       "h1": "CNC Roller Type Portal Wheel Lathe YPL-04 – removed wheelsets supported and driven on rollers",
-      "lede": "The YPL-04 applies the portal principle to removed wheelsets, using a roller-type arrangement to support and rotate the wheelset during machining.",
-      "summary": "Roller-type portal wheel lathe for re-profiling removed wheelsets, complementing the YPL-02 in wheel shops and overhaul workshops.",
+      "lede": "An automatic portal-construction wheel lathe with friction roller drive and roll-through wheelset handling – for simultaneous reprofiling of disassembled wheelsets.",
+      "summary": "Portal wheel lathe with a six-roller friction drive and roll-through handling for reprofiling removed wheelsets in 12–16 minutes.",
       "related": [
         "portal-wheel-lathe",
         "surface-wheel-lathe",
@@ -1788,105 +2005,137 @@
         {
           "type": "text",
           "id": "overview",
-          "eyebrow": "About the machine",
-          "heading": "Portal machining with a roller drive",
+          "eyebrow": "Product overview",
+          "heading": "What is the CNC Roller Type Portal Wheel Lathe?",
           "paragraphs": [
-            "Portal wheel lathes machine wheelsets that have been removed from the vehicle. In the roller-type design, the wheelset is supported and rotated on rollers – the drive principle familiar from underfloor lathes – while the tool slides work from the portal structure.",
-            "That makes the YPL-04 an option for workshops that want the access of a portal machine for removed wheelsets combined with a roller drive. Whether the YPL-04 or the [YPL-02](page:portal-wheel-lathe) suits you better depends on your wheelsets, defect types and workflow; we advise on that during the enquiry.",
-            "If you would rather keep wheelsets in the vehicle, an [underfloor wheel lathe](page:underfloor-wheel-lathe) is the alternative."
+            "The CNC Roller Type Portal Wheel Lathe (Model YPL-04) is an automatic machine in portal construction with roller drives that allow roll-through movement of wheelsets. It is suitable for the simultaneous re-profiling of new or worn wheels once the wheelset has been disassembled from the vehicle, and it also supports wheelsets with a mounted gearbox.",
+            "The wheelset is driven by six friction rollers, three per wheel, contacting the upper and lower tread flange areas. Each roller is housed in a spindle cartridge mounted on low-friction rocker arms, allowing vertical adjustment to accommodate wheel diameter variations and maintain consistent contact even on flat or oval surfaces. Controlled hydraulic pressure, regulated by a valve and nitrogen accumulator, keeps that contact stable, and the roller motors are synchronised through a master-slave control system.",
+            "Loading and unloading are fully automatic, and roll-in and roll-out from the same direction can be arranged where space is constrained. Wheelsets with an external CTRB are centred and clamped by a hydraulically actuated clamping device, and wheel- and axle-mounted brake discs can be machined as an option."
           ],
           "image": "products/roller-type-portal-wheel-lathe",
-          "image_alt": "Sample illustration of a roller type portal wheel lathe with a removed wheelset on drive rollers",
+          "image_alt": "HYT CNC Roller Type Portal Wheel Lathe YPL-04 with enclosed portal and operator console",
           "layout": "image-right"
-        },
-        {
-          "type": "notice",
-          "variant": "review",
-          "text": "Awaiting HYT input: technical data for the YPL-04, confirmation of its drive and clamping principle, and how it differs from the YPL-02."
         },
         {
           "type": "features",
           "id": "advantages",
           "eyebrow": "Key advantages",
-          "heading": "What the roller-type design offers",
+          "heading": "Why choose the YPL-04?",
           "cols": 3,
           "items": [
             {
-              "icon": "arrow-repeat",
-              "title": "Roller-type drive",
-              "text": "The wheelset is supported and rotated on rollers, a principle familiar to teams that run underfloor lathes."
+              "icon": "gear-wide-connected",
+              "title": "Six-roller friction drive",
+              "text": "Three rollers per wheel in through-hardened ground steel at 58–63 HRC, reversible and re-machinable for extended service life."
             },
             {
-              "icon": "eye",
-              "title": "Open access",
-              "text": "The removed wheelset is easy to see, measure and inspect throughout the cycle."
+              "icon": "arrow-left-right",
+              "title": "Automatic roll-through handling",
+              "text": "Fully automatic loading and unloading, with same-direction roll-in and roll-out available where space is constrained."
+            },
+            {
+              "icon": "bricks",
+              "title": "Close-grained cast iron portal frame",
+              "text": "All load-bearing structures give dimensional and geometrical stability with efficient vibration damping."
+            },
+            {
+              "icon": "lock",
+              "title": "CTRB centring and clamping",
+              "text": "Wheelsets with external cartridge bearings are centred and clamped by hydraulic cylinders."
             },
             {
               "icon": "rulers",
-              "title": "Measured machining",
-              "text": "Wheels are measured before cutting so that only the necessary material is removed."
+              "title": "Integrated wheel wear measurement",
+              "text": "Contact-type probe rollers measure profile, diameter, flange height and thickness, back-to-back distance and wheel width."
             },
             {
-              "icon": "train-front",
-              "title": "Mixed fleets",
-              "text": "Profile library and adaptable set-up for different wheelset types."
+              "icon": "graph-up",
+              "title": "Cut optimisation software",
+              "text": "The CNC processes the wear data and suggests the most economical depth of cut, with all data stored for retrieval."
             },
             {
-              "icon": "diagram-3",
-              "title": "Wheel-shop integration",
-              "text": "Can be placed in a line with measuring stations, presses and wheelset tracks."
-            },
-            {
-              "icon": "tools",
-              "title": "Supported by the manufacturer",
-              "text": "Spare parts, service contracts and upgrades directly from HYT."
+              "icon": "disc",
+              "title": "Optional brake disc turning",
+              "text": "A retractable case-hardened ram on the carriage machines wheel- and axle-mounted brake discs to below 2.5 μm Ra."
             }
           ]
         },
         {
           "type": "specs",
           "id": "specifications",
-          "heading": "Technical specifications",
-          "intro": "Technical data for the YPL-04 is supplied with the technical offer.",
+          "heading": "Technical data",
+          "intro": "Technical data from HYT. Each machine is configured to your track gauge, wheel profiles and vehicles.",
           "columns": [
             "Parameter",
             "YPL-04"
           ],
           "rows": [
             [
-              "Machine type",
-              "CNC roller type portal wheel lathe for removed wheelsets"
+              "Machine configuration",
+              "Portal construction, six friction rollers, roll-through wheelset handling"
             ],
             [
-              "Tread diameter range",
-              "On request*"
+              "Main drive capacity",
+              "Upper rollers 2 × 37 kW; lower rollers 2 × 18.5 kW"
             ],
             [
-              "Wheel width",
-              "On request"
+              "Cutting speed while profiling",
+              "25–80 m/min"
             ],
             [
-              "Axle length",
-              "On request*"
+              "Tool post feed for wheel profiling",
+              "0.1–4 mm/rev"
             ],
             [
-              "Maximum wheelset weight",
-              "On request"
+              "Tool post rapid speed, both axes",
+              "4500 mm/min"
             ],
             [
-              "Main drive",
-              "On request"
+              "Max. chip cross-section / stock removal while profiling",
+              "10–18 mm²"
             ],
             [
-              "Cutting speed",
-              "On request"
+              "Cycle time per wheelset",
+              "12–16 min"
             ],
             [
               "Track gauge",
-              "To customer specification*"
+              "As required"
+            ],
+            [
+              "Wheel tread diameter, max. / min.",
+              "1250 mm / 650 mm (depends on track gauge)"
+            ],
+            [
+              "Wheel width",
+              "100–145 mm"
+            ],
+            [
+              "Max. axle load / wheelset weight",
+              "50 kN wheelset weight"
+            ],
+            [
+              "Difference in diameter of both wheels",
+              "< 0.1 mm"
+            ],
+            [
+              "Accuracy of wheel profile against standard gauge",
+              "< 0.2 mm"
+            ],
+            [
+              "Radial run-out of wheel",
+              "< 0.1 mm"
+            ],
+            [
+              "Axial run-out of wheel",
+              "< 0.2 mm"
+            ],
+            [
+              "Profile surface finish",
+              "< 12.5 μm Ra"
             ]
           ],
-          "note": "Values marked * depend on track gauge and customer configuration. Final figures are confirmed in the technical offer."
+          "note": "Values that depend on track gauge are marked in the table. Final figures are confirmed in the technical offer."
         },
         {
           "type": "steps",
@@ -1980,7 +2229,7 @@
           "items": [
             {
               "image": "products/roller-type-portal-wheel-lathe",
-              "caption": "Sample illustration of the YPL-04 roller type portal wheel lathe"
+              "caption": "HYT CNC Roller Type Portal Wheel Lathe YPL-04 with enclosed portal and operator console"
             },
             {
               "image": "products/wheelset-profile-closeup",
@@ -1999,15 +2248,15 @@
           "items": [
             {
               "q": "What does 'roller type' mean?",
-              "a": "It describes how the wheelset is supported and rotated during machining: on rollers, similar to the drive principle of an underfloor lathe. The exact arrangement is shown in the technical offer."
+              "a": "It describes how the wheelset is driven: by six friction rollers, three per wheel, contacting the upper and lower tread flange areas. The rollers sit on rocker arms that adjust vertically, so contact stays consistent even on flat or oval wheels."
             },
             {
               "q": "How does the YPL-04 differ from the YPL-02?",
-              "a": "Both are portal lathes for removed wheelsets. The YPL-04 uses a roller-type arrangement; the [YPL-02](page:portal-wheel-lathe) is the portal model with published data for heavy cutting. We help you choose based on your wheelsets and workflow."
+              "a": "Both are portal lathes with roll-through handling for removed wheelsets. The YPL-04 drives the wheelset through six friction rollers (upper 2 × 37 kW, lower 2 × 18.5 kW), takes tread diameters from 650 mm and completes a wheelset in 12–16 minutes. The [YPL-02](page:portal-wheel-lathe) has a 2 × 55 kW main drive and a chip cross-section of 32–50 mm² for heavy cuts, with a cycle time of 8–12 minutes. We help you choose based on your wheelsets and workflow."
             },
             {
               "q": "Is technical data available?",
-              "a": "Yes – on request. Send us your wheel diameters, axle lengths, wheelset weights and gauges, and we will reply with data matched to your fleet."
+              "a": "Yes – the main data is in the table above. Values that depend on track gauge, and the configuration for your wheelsets, are confirmed in the technical offer."
             },
             {
               "q": "Do I need a pit?",
@@ -2020,10 +2269,10 @@
     "vertical-turning-boring-machine": {
       "nav": "CNC Vertical Turning & Boring Machine",
       "title": "CNC Vertical Turning & Boring Machine YVM-04",
-      "description": "HYT YVM-04 CNC vertical turning and boring machine for railway wheels and tyres: profile, rim faces and hub bore machined with the wheel on a horizontal table.",
+      "description": "Vertical turning and boring machine for railway wheels. Complete wheel machining in a single clamping, with a 45 kW table drive and 12-station tool changer.",
       "eyebrow": "Wheel & Axle Shop Machines",
       "h1": "CNC Vertical Turning & Boring Machine YVM-04 for railway wheels, tyres and hub bores",
-      "lede": "Loose wheels and tyres are machined lying flat on a rotary table, where they sit stable under load and the profile and hub bore can be held to tight tolerances.",
+      "lede": "The vertical turning and boring solution for railway workshops – complete wheel machining in a single clamping, from hub bore to tread profile.",
       "summary": "Vertical turning and boring machine for loose railway wheels and tyres – profile, rim faces and hub bore – in new production and overhaul.",
       "related": [
         "wheel-presses",
@@ -2035,100 +2284,127 @@
         {
           "type": "text",
           "id": "overview",
-          "eyebrow": "About the machine",
-          "heading": "The first precision step of a new wheelset",
+          "eyebrow": "Product overview",
+          "heading": "What is the CNC Vertical Turning & Boring Machine?",
           "paragraphs": [
-            "Before a wheel can be pressed on to an axle, its hub bore must be machined to an exact diameter for the interference fit, and its tread and flange must match the specified profile. A vertical turning and boring machine is the natural tool for this work: the wheel lies on a horizontal rotary table, is clamped and machined from above.",
-            "The vertical layout makes heavy wheels easy to load by crane, keeps the workpiece stable under cutting load and gives the operator a clear view of the cutting zone. The same machine handles tyres for tyred wheels and other round components of the wheelset.",
-            "HYT has supplied a CNC vertical turning lathe to the Sanpada EMU car shed in Mumbai, and a CNC vertical turret lathe to the State Railway of Thailand in Bangkok. See our [executed projects](page:executed-projects)."
+            "The HYT CNC Vertical Turning & Boring Machine (YVM-04) is purpose-engineered for the full range of railway wheel machining operations. Its vertical spindle orientation allows large-diameter, heavy railway wheels to be fixtured and machined with outstanding stability and accuracy, eliminating the distortion introduced by horizontal fixturing of heavy workpieces.",
+            "The combination of a 45 kW table drive, large-diameter thrust bearing support, hardened box guideways and a 12-station automatic tool changer makes the YVM-04 a true single-setup machining centre for every profile on the railway wheel."
           ],
           "image": "products/vertical-turning-boring-machine",
-          "image_alt": "Sample illustration of a CNC vertical turning and boring machine with a railway wheel on the rotary table",
+          "image_alt": "HYT CNC Vertical Turning & Boring Machine YVM-04",
           "layout": "image-right"
         },
         {
           "type": "features",
           "id": "advantages",
           "eyebrow": "Key advantages",
-          "heading": "Why machine wheels vertically",
+          "heading": "Why choose the YVM-04?",
           "cols": 3,
           "items": [
             {
+              "icon": "bricks",
+              "title": "Heavy-duty cast iron structure",
+              "text": "Superior rigidity and vibration-free machining."
+            },
+            {
               "icon": "bullseye",
-              "title": "Accurate hub bores",
-              "text": "Bore diameter and finish controlled for a reliable interference fit on the axle."
+              "title": "High-precision table assembly",
+              "text": "Thrust and taper roller bearings for maximum accuracy."
             },
             {
-              "icon": "layers",
-              "title": "Stable clamping",
-              "text": "The wheel lies flat on the table, so its own weight helps it seat firmly."
+              "icon": "nut",
+              "title": "Flexible chuck options",
+              "text": "3-jaw hydraulic or 4-jaw independent chuck."
             },
             {
-              "icon": "arrows-collapse",
-              "title": "Fewer re-clampings",
-              "text": "Several features machined in one set-up reduce handling and accumulated errors."
+              "icon": "shield-check",
+              "title": "Fully enclosed machining area",
+              "text": "Enhanced operator safety."
             },
             {
-              "icon": "box-seam",
-              "title": "Easy crane loading",
-              "text": "Heavy wheels and tyres are lowered straight on to the table."
+              "icon": "arrows-move",
+              "title": "Precision guideway system",
+              "text": "Smooth motion, rigidity and consistent accuracy."
             },
             {
-              "icon": "cpu",
-              "title": "Programs per wheel drawing",
-              "text": "Stored CNC programs keep every wheel of a type identical."
-            },
-            {
-              "icon": "arrow-repeat",
-              "title": "New build and overhaul",
-              "text": "Suited to new wheels, tyres and overhaul work in the same shop."
+              "icon": "tools",
+              "title": "12-station automatic tool changer",
+              "text": "Faster setup and higher productivity."
             }
           ]
         },
         {
           "type": "specs",
           "id": "specifications",
-          "heading": "Technical specifications",
-          "intro": "The YVM-04 is configured to the wheel and tyre sizes in your shop.",
+          "heading": "Technical data",
+          "intro": "Technical data from HYT. Each machine is configured to your track gauge, wheel profiles and vehicles.",
           "columns": [
             "Parameter",
             "YVM-04"
           ],
           "rows": [
             [
-              "Machine type",
-              "CNC vertical turning and boring machine"
+              "Machine configuration",
+              "Vertical turning & boring machine; complete wheel machining in a single clamping – plate, profile, rim and hub"
             ],
             [
-              "Typical workpieces",
-              "Railway wheels, tyres and similar round components"
+              "Main drive capacity",
+              "Table drive motor 45 kW"
+            ],
+            [
+              "Table speed",
+              "3–300 rpm"
+            ],
+            [
+              "Rapid traverse rate",
+              "Up to 8000 mm/min"
+            ],
+            [
+              "Turning / swing diameter",
+              "1600 mm"
             ],
             [
               "Table diameter",
-              "On request"
+              "1400 mm"
             ],
             [
-              "Maximum turning diameter",
-              "On request"
+              "Turning height",
+              "600 mm"
             ],
             [
-              "Maximum workpiece height",
-              "On request"
+              "Vertical travel of the ram head",
+              "700 mm"
             ],
             [
-              "Maximum workpiece weight",
-              "On request"
+              "Horizontal traverse of the ram head",
+              "+900 / −50 mm"
             ],
             [
-              "Main drive",
-              "On request"
+              "Ram cross-section",
+              "200 × 200 mm or 250 × 250 mm"
             ],
             [
-              "CNC system",
-              "On request"
+              "Workholding",
+              "Three-jaw self-centring hydraulic chuck"
+            ],
+            [
+              "Tool changer",
+              "12 stations as standard; 20 stations as a custom option"
+            ],
+            [
+              "Surface finish while boring",
+              "Ra 0.8 μm"
+            ],
+            [
+              "Surface finish while turning",
+              "Ra 1.6 μm"
+            ],
+            [
+              "Surface finish while facing",
+              "Ra 1.6 μm"
             ]
           ],
-          "note": "Final figures are confirmed in the technical offer for your application."
+          "note": "Final figures are confirmed in the technical offer."
         },
         {
           "type": "steps",
@@ -2227,7 +2503,7 @@
           "items": [
             {
               "image": "products/vertical-turning-boring-machine",
-              "caption": "Sample illustration of the YVM-04 vertical turning and boring machine"
+              "caption": "HYT CNC Vertical Turning & Boring Machine YVM-04"
             },
             {
               "image": "projects/emu-car-shed",
@@ -2250,7 +2526,7 @@
           "items": [
             {
               "q": "What can be machined on the YVM-04?",
-              "a": "Railway wheels and tyres – tread, flange, rim faces and hub bore – and similar round components. Size limits are confirmed for your workpieces in the technical offer."
+              "a": "Railway wheels and tyres – plate, tread profile, rim and hub bore – in a single clamping, and similar round components. The machine has a turning diameter of 1600 mm, a table diameter of 1400 mm and a turning height of 600 mm."
             },
             {
               "q": "Why machine wheels vertically rather than horizontally?",
@@ -2274,12 +2550,12 @@
     },
     "axle-journal-turning-burnishing-lathe": {
       "nav": "CNC Axle Journal Turning & Burnishing Lathe",
-      "title": "CNC Axle Journal Turning & Burnishing Lathe",
-      "description": "HYT CNC axle journal turning and burnishing lathe restores bearing journals during wheelset overhaul: precise turning, then burnishing for a durable finish.",
+      "title": "CNC Axle Journal Turning & Burnishing Lathe YTB 04",
+      "description": "CNC lathe for turning and roller burnishing railway axle journals. Ovality and taper below 0.01 mm and a burnished finish under 0.2 μm Ra.",
       "eyebrow": "Wheel & Axle Shop Machines",
-      "h1": "CNC Axle Journal Turning & Burnishing Lathe for wheelset overhaul",
-      "lede": "Bearing journals carry the full load of the vehicle. This lathe restores their diameter during overhaul, then burnishes the surface to give the bearing a smooth, hard-wearing seat.",
-      "summary": "Restores and burnishes axle journals during wheelset overhaul, for accurate, durable bearing seats.",
+      "h1": "CNC Axle Journal Turning & Burnishing Lathe YTB 04 for wheelset overhaul",
+      "lede": "A specialised CNC lathe that restores railway axle journals to their original geometry and delivers a burnished bearing-seat finish below 0.2 μm Ra.",
+      "summary": "CNC lathe that turns and roller-burnishes railway axle journals, with ovality and taper below 0.01 mm and a finish under 0.2 μm Ra.",
       "related": [
         "axle-turning-lathe",
         "wheel-presses",
@@ -2290,100 +2566,114 @@
         {
           "type": "text",
           "id": "overview",
-          "eyebrow": "About the machine",
-          "heading": "Journal finishing, not full axle turning",
+          "eyebrow": "Product overview",
+          "heading": "What is the CNC Axle Journal Turning & Burnishing Lathe?",
           "paragraphs": [
-            "Every wheelset overhaul brings the axle journals under scrutiny. Corrosion, fretting marks and wear at the bearing seats must be removed, and the journal returned to a diameter and surface finish that the bearing specification accepts.",
-            "The CNC Axle Journal Turning & Burnishing Lathe is built for exactly that task. It turns the journal and adjacent seats to size, then burnishes the surface: hardened rollers press down the peaks left by turning and leave a smooth, compacted finish. Burnishing is a cold-working process – it produces no chips.",
-            "**This is an overhaul machine.** For turning complete axles from raw or forged blanks in new production, see the [CNC Axle Turning Lathe ATL-01](page:axle-turning-lathe)."
+            "The CNC Axle Journal Turning & Burnishing Lathe (Model YTB 04) is a specialised machine for the maintenance and manufacture of railway wheelsets. It restores and finishes the axle journals – the precision bearing-seat surfaces located at each end of a railway axle.",
+            "These journal surfaces support the wheelset within the bogie bearings. Any wear, ovality, taper or surface damage can lead to premature bearing failure, excessive heat generation, increased maintenance costs and potential safety risks.",
+            "The turning operation removes worn or damaged material from the axle journal, restoring its original geometry and dimensional accuracy. CNC-controlled machining corrects ovality, taper and surface wear to bring the journal back within specification, and roller burnishing then finishes the surface to the required quality."
           ],
           "image": "products/axle-journal-turning-burnishing-lathe",
-          "image_alt": "Sample illustration of an axle journal being burnished on a CNC lathe",
+          "image_alt": "HYT CNC Axle Journal Turning & Burnishing Lathe YTB 04 with a wheelset in the machine",
           "layout": "image-right"
         },
         {
           "type": "features",
           "id": "advantages",
           "eyebrow": "Key advantages",
-          "heading": "Why turn and burnish on one machine",
-          "cols": 3,
+          "heading": "Why choose the YTB 04?",
+          "cols": 2,
           "items": [
             {
               "icon": "bullseye",
-              "title": "Correct bearing fit",
-              "text": "Journals restored to the diameter required for a reliable bearing fit."
+              "title": "Precision journal machining",
+              "text": "Accurate turning of in-board and out-board axle journals."
             },
             {
               "icon": "stars",
-              "title": "Smooth, compacted finish",
-              "text": "Burnishing leaves a fine surface without removing further material."
+              "title": "Superior roller burnishing",
+              "text": "An excellent surface finish and extended axle life."
             },
             {
-              "icon": "shield-check",
-              "title": "More durable surface",
-              "text": "A burnished surface resists wear and fretting better than a turned surface alone."
+              "icon": "bricks",
+              "title": "Heavy-duty rigid bed",
+              "text": "Dual fixed tailstocks for maximum stability and precision."
             },
             {
-              "icon": "recycle",
-              "title": "Longer axle life",
-              "text": "Removing only the damaged layer keeps axles within limits for more overhauls."
-            },
-            {
-              "icon": "arrow-left-right",
-              "title": "No transfer between machines",
-              "text": "Turning and burnishing on the same machine saves handling and set-up time."
-            },
-            {
-              "icon": "cpu",
-              "title": "Repeatable programs",
-              "text": "Stored programs for each axle type keep results consistent."
+              "icon": "arrows-expand",
+              "title": "Automatic axle length compensation",
+              "text": "A spring-loaded tailstock gives consistent burnishing performance."
             }
           ]
         },
         {
           "type": "specs",
           "id": "specifications",
-          "heading": "Technical specifications",
-          "intro": "The machine is configured to the axle types in your overhaul programme.",
+          "heading": "Technical data",
+          "intro": "Technical data from HYT. Each machine is configured to your track gauge, wheel profiles and vehicles.",
           "columns": [
             "Parameter",
-            "Value"
+            "YTB 04"
           ],
           "rows": [
             [
-              "Machine type",
-              "CNC lathe for axle journal turning and burnishing"
+              "Machine configuration",
+              "Axle journal turning & burnishing lathe; in-board and out-board journals of wheelset axles"
             ],
             [
-              "Typical work",
-              "Restoration of bearing journals and adjacent seats during overhaul"
+              "Main drive capacity",
+              "Main drive motor 11 kW"
             ],
             [
-              "Maximum axle length",
-              "On request*"
+              "Cutting speed for axle turning & burnishing",
+              "50–400 m/min"
             ],
             [
-              "Journal diameter range",
-              "On request"
+              "Tool post feed for axle turning & burnishing",
+              "0.1–2.5 mm/rev"
             ],
             [
-              "Maximum workpiece weight",
-              "On request"
+              "Max. depth of cut while axle turning",
+              "2 mm"
             ],
             [
-              "Burnishing tool",
-              "On request"
+              "Wheel tread diameter, max. / min.",
+              "1250 mm / 540 mm (depends on track gauge)"
             ],
             [
-              "Main drive",
-              "On request"
+              "Wheel width",
+              "75–145 mm"
             ],
             [
-              "CNC system",
-              "On request"
+              "Axle length, max. / min.",
+              "2750 mm / 1200 mm (depends on track gauge)"
+            ],
+            [
+              "Axle journal diameter, min. – max.",
+              "70–320 mm"
+            ],
+            [
+              "Axle journal length, min. – max.",
+              "110–480 mm"
+            ],
+            [
+              "Max. weight of wheelset",
+              "50 kN"
+            ],
+            [
+              "Ovality of journal",
+              "< 0.01 mm"
+            ],
+            [
+              "Taper of journal",
+              "< 0.01 mm per 100 mm"
+            ],
+            [
+              "Surface finish of journal after burnishing",
+              "< 0.2 μm Ra"
             ]
           ],
-          "note": "Values marked * depend on track gauge and customer configuration. Final figures are confirmed in the technical offer."
+          "note": "Values that depend on track gauge are marked in the table. Final figures are confirmed in the technical offer."
         },
         {
           "type": "steps",
@@ -2482,7 +2772,7 @@
           "items": [
             {
               "image": "products/axle-journal-turning-burnishing-lathe",
-              "caption": "Sample illustration of the axle journal turning and burnishing lathe"
+              "caption": "HYT CNC Axle Journal Turning & Burnishing Lathe YTB 04 with a wheelset in the machine"
             },
             {
               "image": "projects/railway-wheel-shop",
@@ -2501,7 +2791,7 @@
           "items": [
             {
               "q": "How does this machine differ from the ATL-01 axle turning lathe?",
-              "a": "This lathe restores and burnishes the journals of axles already in service. The [ATL-01](page:axle-turning-lathe) turns complete axles from raw or forged blanks in new production. Many wheel shops need both."
+              "a": "The YTB 04 turns and roller-burnishes the in-board and out-board bearing journals of wheelset axles. The [ATL-01](page:axle-turning-lathe) carries out roughing and finish machining of complete axles between centres. Many wheel shops need both."
             },
             {
               "q": "Why burnish after turning?",
@@ -2513,7 +2803,7 @@
             },
             {
               "q": "Which surfaces can be machined?",
-              "a": "Bearing journals and, depending on the axle design, adjacent seats. The exact scope is confirmed for your axle drawings in the technical offer."
+              "a": "In-board and out-board journals of wheelset axles, with journal diameters of 70–320 mm and journal lengths of 110–480 mm, on axles of 1200–2750 mm (depending on track gauge) and wheelsets up to 50 kN."
             },
             {
               "q": "Can the machine handle different axle types?",
@@ -2525,12 +2815,12 @@
     },
     "axle-turning-lathe": {
       "nav": "CNC Axle Turning Lathe",
-      "title": "CNC Axle Turning Lathe ATL-01 for New Axles",
-      "description": "HYT CNC axle turning lathe ATL-01 machines complete railway axles from raw or forged blanks – journals, seats and body turned to drawing for new wheelsets.",
+      "title": "CNC Axle Turning Lathe ATL-01",
+      "description": "Heavy-duty CNC lathe for roughing and finish machining of railway axles: 41 kW drive, 30–2500 rpm, 3000 mm between centres, 600 mm swing over the cross slide.",
       "eyebrow": "Wheel & Axle Shop Machines",
-      "h1": "CNC Axle Turning Lathe ATL-01 for complete turning of raw and forged axles",
-      "lede": "The ATL-01 turns a railway axle from forged blank to finished contour – journals, dust-guard and wheel seats, transitions and body – ready for the next production step.",
-      "summary": "Turns complete railway axles from raw or forged blanks to the finished contour for new wheelset production.",
+      "h1": "CNC Axle Turning Lathe ATL-01 for roughing and finish machining of railway axles",
+      "lede": "A heavy-duty, high-precision CNC lathe for roughing and finish machining of railway axles – built for high-production requirements in maintenance depots and production workshops.",
+      "summary": "Heavy-duty CNC lathe for roughing and finish machining of railway axles, with 3000 mm between centres and a 41 kW drive.",
       "related": [
         "axle-journal-turning-burnishing-lathe",
         "wheel-presses",
@@ -2541,100 +2831,129 @@
         {
           "type": "text",
           "id": "overview",
-          "eyebrow": "About the machine",
-          "heading": "From forging to finished axle",
+          "eyebrow": "Product overview",
+          "heading": "What is the CNC Axle Turning Lathe?",
           "paragraphs": [
-            "A new axle starts as a forging with machining allowance on every diameter. Turning it to the drawing is demanding: the axle is long and heavy, several diameters must run true to one another, and the transition radii between seats matter for fatigue strength.",
-            "The ATL-01 is a CNC lathe dedicated to this complete turning operation. It machines the full length of the axle – journals, dust-guard seats, wheel seats, transitions and the axle body – so the axle leaves the machine ready for finishing, inspection and wheel mounting.",
-            "**How it differs from the journal lathe:** the [CNC Axle Journal Turning & Burnishing Lathe](page:axle-journal-turning-burnishing-lathe) is an overhaul machine that restores and burnishes the journals of axles already in service. The ATL-01 is a production machine that turns the whole axle from a raw or forged blank."
+            "The CNC Axle Turning Lathe (Model ATL-01) is a heavy-duty, high-precision CNC machine engineered specifically for the roughing and finish machining of railway axles. It is suited to high production requirements and is used in both maintenance depots and production workshops.",
+            "The machine architecture ensures high rigidity, thermal stability and vibration damping, which keeps dimensional accuracy consistent throughout the machining cycle. Structural members subjected to cutting loads are made in close-grain cast iron, and a compact, stiff cross carriage carries the turret.",
+            "In the automatic cycle the machine carries out complete turning of the axle and machining of the bearing seats. Burnishing, drilling and tapping, a retractable 3-jaw chuck with face drive, and complete finish machining of the axle in a single setup are all available on request.",
+            "Dedicated control software with customised HMI screens handles the safety measures for easy and safe operation and displays fault messages. Remote maintenance support from HYT headquarters is available, and quick access to the parts that need attention keeps servicing time short. The machine integrates both Industry 4.0 and Industry 5.0 features."
           ],
           "image": "products/axle-turning-lathe",
-          "image_alt": "Sample illustration of a CNC axle turning lathe machining a full-length railway axle",
+          "image_alt": "Sample illustration of a CNC axle turning lathe",
           "layout": "image-right"
         },
         {
           "type": "features",
           "id": "advantages",
           "eyebrow": "Key advantages",
-          "heading": "Built for complete axle turning",
+          "heading": "Why choose the ATL-01?",
           "cols": 3,
           "items": [
             {
+              "icon": "speedometer2",
+              "title": "Built for high-production axle machining",
+              "text": "Roughing and finish machining of railway axles in maintenance depots and production workshops."
+            },
+            {
+              "icon": "bricks",
+              "title": "Robust close-grain cast iron construction",
+              "text": "Structural members subjected to cutting loads are cast iron, giving high rigidity, thermal stability and vibration damping."
+            },
+            {
               "icon": "arrows-expand",
-              "title": "Full-length machining",
-              "text": "Every diameter along the axle turned to the drawing on one machine."
+              "title": "Sturdy 600 mm swing over the cross slide",
+              "text": "On a three-way bed, with a compact and stiff cross carriage to machine axles easily."
+            },
+            {
+              "icon": "sliders",
+              "title": "Infinite speed variation",
+              "text": "From 30 to 2500 rpm with 1200 Nm of spindle torque, covering both roughing and finishing passes."
+            },
+            {
+              "icon": "gear-wide-connected",
+              "title": "8- or 12-position turret",
+              "text": "Live tooling on request, so drilling and tapping can be carried out without a second setup."
             },
             {
               "icon": "bullseye",
-              "title": "Concentric seats",
-              "text": "Journals, seats and body machined on a common axis for consistent run-out."
+              "title": "Optimal geometric accuracy",
+              "text": "In roundness, ovality, surface roughness and cylindricity of the machined axle."
             },
             {
-              "icon": "bezier2",
-              "title": "Controlled transition radii",
-              "text": "CNC contouring produces the specified radii between seats, which matter for fatigue strength."
+              "icon": "life-preserver",
+              "title": "Heavy-duty self-centring steady rest",
+              "text": "Reliable support of the axle through the cut."
             },
             {
-              "icon": "lightning-charge",
-              "title": "Efficient stock removal",
-              "text": "Roughing and finishing passes planned around the allowance on forged axles."
+              "icon": "droplet",
+              "title": "Direct coolant supply through the turret",
+              "text": "Delivered to the cutting point for efficient cooling."
+            },
+            {
+              "icon": "volume-mute",
+              "title": "Fully enclosed noise-reduction cabin",
+              "text": "A quieter and safer working environment."
             },
             {
               "icon": "cpu",
-              "title": "Programs per drawing",
-              "text": "Each axle type stored once and reproduced exactly."
-            },
-            {
-              "icon": "diagram-3",
-              "title": "Feeds the wheel press",
-              "text": "Finished wheel seats ready for mounting on the [wheel press](page:wheel-presses)."
+              "title": "Siemens / Fanuc CNC system",
+              "text": "Customised HMI screens and remote maintenance support from HYT headquarters."
             }
           ]
         },
         {
           "type": "specs",
           "id": "specifications",
-          "heading": "Technical specifications",
-          "intro": "The ATL-01 is sized to the axle drawings you produce.",
+          "heading": "Technical data",
+          "intro": "Technical data from HYT. Each machine is configured to your track gauge, wheel profiles and vehicles.",
           "columns": [
             "Parameter",
             "ATL-01"
           ],
           "rows": [
             [
-              "Machine type",
-              "CNC axle turning lathe"
+              "Machine configuration",
+              "CNC axle turning lathe; roughing and finish machining of railway axles between centres"
             ],
             [
-              "Workpiece",
-              "Raw or forged railway axles"
+              "Swing over cross slide",
+              "0–600 mm"
             ],
             [
-              "Maximum axle length",
-              "On request"
+              "Max. load between centres",
+              "1.5 t"
             ],
             [
-              "Maximum turning diameter",
-              "On request"
+              "Torque admitted by spindle",
+              "1200 Nm"
             ],
             [
-              "Maximum axle weight",
-              "On request"
+              "Power",
+              "41 kW"
             ],
             [
-              "Main drive",
-              "On request"
+              "Speed",
+              "30–2500 rpm"
             ],
             [
-              "Workpiece clamping",
-              "On request"
+              "Distance between centres",
+              "3000 mm"
+            ],
+            [
+              "Diameter of the quill",
+              "160 mm"
+            ],
+            [
+              "Turret",
+              "8-position or 12-position, with live tool on request"
             ],
             [
               "CNC system",
-              "On request"
+              "Siemens / Fanuc with software"
             ]
           ],
-          "note": "Final figures are confirmed in the technical offer for your application."
+          "note": "Final figures are confirmed in the technical offer."
         },
         {
           "type": "steps",
@@ -2705,6 +3024,11 @@
               "icon": "hammer",
               "title": "Axle and forging plants",
               "text": "Machining forged axles before delivery to wheelset assemblers."
+            },
+            {
+              "icon": "wrench-adjustable",
+              "title": "Maintenance depots",
+              "text": "Roughing and finish machining of axles as part of in-house wheelset maintenance."
             }
           ]
         },
@@ -2751,15 +3075,15 @@
           "items": [
             {
               "q": "How is the ATL-01 different from the Axle Journal Turning & Burnishing Lathe?",
-              "a": "The ATL-01 turns complete axles from raw or forged blanks in new production. The [journal lathe](page:axle-journal-turning-burnishing-lathe) restores and burnishes the bearing journals of axles in service during overhaul."
+              "a": "The ATL-01 carries out roughing and finish machining of complete railway axles between centres. The [journal lathe](page:axle-journal-turning-burnishing-lathe) (YTB 04) turns and roller-burnishes the in-board and out-board bearing journals of wheelset axles during overhaul."
             },
             {
-              "q": "Can the ATL-01 re-machine used axles?",
-              "a": "Its purpose is complete turning of new axles. Journal restoration on service axles is normally done on the journal turning and burnishing lathe – ask us if your process combines both."
+              "q": "Is the ATL-01 used in maintenance depots or only in production?",
+              "a": "Both. The ATL-01 is built for high production requirements and is used in maintenance depots as well as production workshops. If your process also includes journal restoration on assembled wheelsets, see the [journal turning and burnishing lathe](page:axle-journal-turning-burnishing-lathe)."
             },
             {
               "q": "Which axle types can be machined?",
-              "a": "Axles for locomotives, coaches, wagons and multiple units, within the machine's length, diameter and weight capacity. These are confirmed against your drawings."
+              "a": "Axles for locomotives, coaches, wagons and multiple units, within the machine's capacity: 3000 mm between centres, 1.5 t load between centres and 600 mm swing over the cross slide. We check the fit against your axle drawings."
             },
             {
               "q": "What happens after turning?",
@@ -3523,12 +3847,12 @@
     },
     "multi-purpose-armature-machine": {
       "nav": "Multipurpose Armature Machine",
-      "title": "Multipurpose Armature Machine for Traction Motors",
-      "description": "HYT multipurpose armature machine for traction-motor overhaul: commutator turning, mica undercutting and related armature operations on one machine.",
+      "title": "Multipurpose Armature Machine YMM-04",
+      "description": "Single-platform traction motor armature reconditioning: commutator turning and grinding, mica undercutting, banding, re-rolling and coil cut-off.",
       "eyebrow": "Depot & Workshop Equipment",
-      "h1": "Multipurpose Armature Machine for traction-motor armature maintenance",
-      "lede": "Traction-motor armatures need several precision operations during overhaul. This machine brings them together, so the armature is moved and set up fewer times.",
-      "summary": "Combines commutator turning, undercutting and related armature operations for traction-motor overhaul on one machine.",
+      "h1": "Multipurpose Armature Machine YMM-04 for traction-motor armature reconditioning",
+      "lede": "A single platform for complete traction motor armature reconditioning – turning, grinding, mica undercutting, banding and coil cut-off in one machine.",
+      "summary": "Single platform for traction-motor armature reconditioning: commutator turning and grinding, mica undercutting, banding, re-rolling and coil cut-off.",
       "related": [
         "automated-train-washing-plant",
         "rail-cum-road-vehicle-shunter",
@@ -3538,92 +3862,128 @@
         {
           "type": "text",
           "id": "overview",
-          "eyebrow": "About the machine",
-          "heading": "Restoring the commutator, keeping motors in service",
+          "eyebrow": "Product overview",
+          "heading": "What is the Multipurpose Armature Machine?",
           "paragraphs": [
-            "In a DC traction motor, current reaches the armature through the commutator and carbon brushes. Over time the commutator wears out of round, its surface roughens and the mica insulation between the copper segments ends up level with the copper. The results are rapid brush wear, sparking and, eventually, motor failure.",
-            "Restoring the commutator involves several operations: turning the surface true, undercutting the mica below the copper and finishing the segment edges. The multipurpose armature machine performs these operations on one machine, so the armature moves between workstations less often.",
-            "The exact range of functions is configured to the armature types in your fleet."
+            "The Multipurpose Armature Machine is a specialised maintenance and refurbishment system designed for the complete reconditioning of traction motor armatures used in electric locomotives, EMUs, metro coaches and other railway rolling stock.",
+            "Instead of using multiple standalone machines for different operations, the HYT YMM-04 integrates several critical armature maintenance processes into a single platform, improving productivity, accuracy and workshop efficiency.",
+            "The machine restores worn commutators and bearing journals to their original dimensions and surface finish. High-precision turning and grinding operations ensure improved electrical contact, reduced brush wear, smoother motor operation and extended component life. The YMM-04 maintains commutator ovality and taper below 0.015 mm."
           ],
           "image": "products/multi-purpose-armature-machine",
-          "image_alt": "Sample illustration of a traction-motor armature mounted on a multipurpose armature machine",
+          "image_alt": "HYT Multipurpose Armature Machine YMM-04 with a traction motor armature in the machine",
           "layout": "image-right"
         },
         {
           "type": "features",
           "id": "advantages",
           "eyebrow": "Key advantages",
-          "heading": "Why combine armature operations",
+          "heading": "Why choose the YMM-04?",
           "cols": 3,
           "items": [
             {
-              "icon": "layers",
-              "title": "Several operations, one machine",
-              "text": "Turning, undercutting and related work without moving the armature between machines."
+              "icon": "scissors",
+              "title": "Automatic mica undercutting",
+              "text": "Precise insulation removal."
+            },
+            {
+              "icon": "stars",
+              "title": "Deburring and polishing",
+              "text": "A superior commutator surface finish."
             },
             {
               "icon": "bullseye",
-              "title": "True-running commutator",
-              "text": "A concentric commutator surface supports even brush contact."
+              "title": "Precision turning and grinding",
+              "text": "Of commutators and bearing journals."
             },
             {
-              "icon": "scissors",
-              "title": "Clean undercut",
-              "text": "Mica cut back below the copper to prevent brush wear and flashover."
+              "icon": "layers",
+              "title": "Integrated armature processing",
+              "text": "Banding, re-rolling and coil cut-off operations on the same machine."
             },
             {
-              "icon": "arrows-move",
-              "title": "Less handling",
-              "text": "Heavy armatures are lifted and set up fewer times."
+              "icon": "bricks",
+              "title": "Heavy-duty cast iron headstock",
+              "text": "Exceptional rigidity and machining accuracy."
             },
             {
-              "icon": "sliders",
-              "title": "Adaptable",
-              "text": "Configured to the armature sizes in your fleet."
-            },
-            {
-              "icon": "house-gear",
-              "title": "Depot-friendly",
-              "text": "One machine instead of several saves floor space in the workshop."
+              "icon": "wifi",
+              "title": "Remote diagnostics",
+              "text": "Faster troubleshooting and expert support from HYT."
             }
           ]
         },
         {
           "type": "specs",
           "id": "specifications",
-          "heading": "Technical specifications",
-          "intro": "The machine is configured to the armature types you maintain.",
+          "heading": "Technical data",
+          "intro": "Technical data from HYT. Each machine is configured to your track gauge, wheel profiles and vehicles.",
           "columns": [
             "Parameter",
-            "Value"
+            "YMM-04"
           ],
           "rows": [
             [
-              "Workpiece",
-              "Traction-motor armatures"
+              "Machine configuration",
+              "Universal multi-purpose armature machine; mica undercutting, turning, grinding, banding, re-rolling and coil cut-off"
             ],
             [
-              "Operations",
-              "Commutator turning, mica undercutting and related operations – scope on request"
+              "Main drive capacity",
+              "Main drive motor 15 kW"
             ],
             [
-              "Maximum armature weight",
-              "On request"
+              "Headstock spindle speed, infinitely variable",
+              "1.5–300 rpm"
             ],
             [
-              "Maximum armature length",
-              "On request"
+              "Carriage feed, longitudinal",
+              "0–100 mm/min"
             ],
             [
-              "Commutator diameter range",
-              "On request"
+              "Carriage rapid traverse, longitudinal",
+              "600 mm/min"
             ],
             [
-              "Drive",
-              "On request"
+              "Max. depth of cut while commutator turning",
+              "2.5 mm"
+            ],
+            [
+              "Max. banding tension for wire / tape banding",
+              "300 kg"
+            ],
+            [
+              "Armature weight, max.",
+              "30 kN"
+            ],
+            [
+              "Armature length, min. – max.",
+              "500–1600 mm"
+            ],
+            [
+              "Armature diameter, min. – max.",
+              "130–1500 mm"
+            ],
+            [
+              "Commutator diameter to be machined, min. – max.",
+              "120–900 mm"
+            ],
+            [
+              "Commutator length to be machined, min. – max.",
+              "75–450 mm"
+            ],
+            [
+              "Ovality of commutator turning",
+              "< 0.015 mm"
+            ],
+            [
+              "Taper of commutator turning",
+              "< 0.015 mm"
+            ],
+            [
+              "Uniformity of banding tension",
+              "< ± 10 kg"
             ]
           ],
-          "note": "Final figures are confirmed in the technical offer for your application."
+          "note": "Final figures are confirmed in the technical offer."
         },
         {
           "type": "steps",
@@ -3640,16 +4000,16 @@
               "text": "The commutator is checked for eccentricity and surface condition."
             },
             {
-              "title": "Turn",
-              "text": "The commutator surface is turned true."
+              "title": "Turn & grind",
+              "text": "The commutator and bearing journals are turned and ground true."
             },
             {
               "title": "Undercut",
               "text": "The mica between segments is cut back below the copper."
             },
             {
-              "title": "Finish",
-              "text": "Segment edges are chamfered and the surface cleaned."
+              "title": "Deburr & polish",
+              "text": "Segment edges are deburred and the commutator surface polished."
             },
             {
               "title": "Inspect",
@@ -3663,14 +4023,14 @@
           "heading": "Main features",
           "cols": 2,
           "items": [
-            "Commutator turning",
-            "Mica undercutting",
-            "Segment edge finishing",
-            "Armature support adapted to your armature range",
-            "Several operations in one set-up",
-            "Guarded working area",
-            "Designed for depot workshops",
-            "Configured to the motors in your fleet"
+            "Commutator turning and grinding",
+            "Automatic mica undercutting",
+            "Deburring and polishing",
+            "Turning and grinding of bearing journals",
+            "Wire and tape banding up to 300 kg tension",
+            "Re-rolling and coil cut-off",
+            "Infinitely variable headstock speed, 1.5–300 rpm",
+            "Heavy-duty cast iron headstock"
           ]
         },
         {
@@ -3722,7 +4082,7 @@
           "items": [
             {
               "image": "products/multi-purpose-armature-machine",
-              "caption": "Sample illustration of the multipurpose armature machine"
+              "caption": "HYT Multipurpose Armature Machine YMM-04 with a traction motor armature in the machine"
             },
             {
               "image": "projects/emu-car-shed",
@@ -3741,7 +4101,7 @@
           "items": [
             {
               "q": "Which operations does the machine perform?",
-              "a": "Commutator turning and mica undercutting, together with related finishing operations. The exact scope is configured to your armature types."
+              "a": "Commutator turning and grinding, mica undercutting, deburring and polishing, turning and grinding of bearing journals, wire and tape banding, re-rolling and coil cut-off – all on one machine."
             },
             {
               "q": "Why undercut the mica?",
@@ -3753,7 +4113,7 @@
             },
             {
               "q": "Which armature sizes can be handled?",
-              "a": "Armature weight, length and commutator diameter limits are set to suit your fleet and confirmed in the technical offer."
+              "a": "Armatures up to 30 kN, 500–1600 mm long and 130–1500 mm in diameter, with commutator diameters of 120–900 mm and commutator lengths of 75–450 mm."
             },
             {
               "q": "Can the machine be installed in an existing depot workshop?",
@@ -3765,12 +4125,12 @@
     },
     "automated-train-washing-plant": {
       "nav": "Automated Train Washing Plant",
-      "title": "Automated Train Washing Plant for Depots",
-      "description": "HYT automated train washing plant cleans train exteriors as they pass through at low speed – consistent results, less manual labour and controlled water use.",
+      "title": "Automated Train Washing Plant",
+      "description": "Drive-through automatic coach washing plant for Indian Railways. A 24-coach rake in under 15 minutes, using a maximum of 60 litres of fresh water per coach.",
       "eyebrow": "Depot & Workshop Equipment",
       "h1": "Automated Train Washing Plant for drive-through exterior cleaning",
-      "lede": "Trains pass slowly through the plant and leave clean. Automated washing gives consistent results, frees staff from manual work and keeps water and detergent use under control.",
-      "summary": "Drive-through plant that washes train exteriors automatically, for consistent cleaning with less labour and controlled water use.",
+      "lede": "A fully automated, drive-through exterior coach washing system engineered for Indian Railways – cleaning a full rake of 24 coaches in under 15 minutes, with minimal water consumption and no manual intervention.",
+      "summary": "Drive-through automatic coach washing plant that cleans a 24-coach rake in under 15 minutes with a maximum of 60 litres of fresh water per coach.",
       "related": [
         "rail-cum-road-vehicle-shunter",
         "multi-purpose-armature-machine",
@@ -3780,100 +4140,95 @@
         {
           "type": "text",
           "id": "overview",
-          "eyebrow": "About the plant",
-          "heading": "Clean trains without the manual effort",
+          "eyebrow": "Product overview",
+          "heading": "What is the Automated Train Washing Plant?",
           "paragraphs": [
-            "A clean train matters to passengers, to the driver's view and to the condition of paint, windows and seals. Washing by hand is slow, physically demanding and hard to do consistently across a long fleet.",
-            "An automated washing plant is installed on a depot track. The train runs through at low speed while the plant wets the body, applies detergent, scrubs with rotating brushes and rinses. Sensors detect the vehicle and control each stage, so water and detergent are used only where a train is present.",
-            "Plant layout, brush arrangement, chemicals and water handling are designed around your vehicle profiles, depot track and local water conditions."
+            "HYT's Automated Train Washing Plant removes the dependence on manual labour for coach cleaning – a critical hygiene and presentation requirement across Indian Railways depots and washing lines.",
+            "The system is designed as a fixed installation through which rakes pass at low speed. As each coach travels through the plant it is sequentially pre-wetted, chemically treated, mechanically brushed, high-pressure rinsed and mopped, all without stopping. Water recycling through an integrated effluent treatment plant (ETP) further reduces operating costs."
           ],
           "image": "products/automated-train-washing-plant",
-          "image_alt": "Sample illustration of a train passing through an automated washing plant with rotating brushes",
+          "image_alt": "HYT Automated Train Washing Plant with brush units on both sides of the track",
           "layout": "image-right"
         },
         {
           "type": "features",
           "id": "advantages",
           "eyebrow": "Key advantages",
-          "heading": "Why automate train washing",
+          "heading": "Why choose the Automated Train Washing Plant?",
           "cols": 3,
           "items": [
             {
-              "icon": "check2-circle",
-              "title": "Consistent results",
-              "text": "Every vehicle washed with the same sequence and coverage."
-            },
-            {
-              "icon": "people",
-              "title": "Less manual work",
-              "text": "Staff freed from strenuous, repetitive cleaning."
-            },
-            {
-              "icon": "droplet",
-              "title": "Controlled water use",
-              "text": "Water and detergent applied only where and when needed."
+              "icon": "magic",
+              "title": "Fully automated wash cycle",
+              "text": "Consistent, hands-free coach cleaning."
             },
             {
               "icon": "recycle",
-              "title": "Water recovery option",
-              "text": "Recovery and treatment can be included to reduce fresh-water demand."
+              "title": "Water recycling system",
+              "text": "An integrated ETP limits fresh water use to just 60 litres per coach."
             },
             {
-              "icon": "clock-history",
-              "title": "Quick passage",
-              "text": "Trains are washed as they pass through, fitting into normal depot movements."
+              "icon": "speedometer",
+              "title": "Laser-based speed detection",
+              "text": "Automatically synchronises the wash cycle with train movement."
             },
             {
-              "icon": "brush",
-              "title": "Profile-matched brushes",
-              "text": "Brush arrangement designed around your vehicle profiles."
+              "icon": "boxes",
+              "title": "Modular heavy-duty design",
+              "text": "Straightforward installation, relocation and low maintenance."
+            },
+            {
+              "icon": "display",
+              "title": "Centralised control system",
+              "text": "Real-time monitoring and fault diagnostics."
+            },
+            {
+              "icon": "wifi",
+              "title": "Remote diagnostics",
+              "text": "Faster technical support and reduced downtime."
             }
           ]
         },
         {
           "type": "specs",
           "id": "specifications",
-          "heading": "Technical specifications",
-          "intro": "The plant is designed for your fleet, depot layout and water supply.",
+          "heading": "Technical data",
+          "intro": "Technical data from HYT. Each machine is configured to your track gauge, wheel profiles and vehicles.",
           "columns": [
             "Parameter",
-            "Value"
+            "Washing plant"
           ],
           "rows": [
             [
-              "Washing type",
-              "Drive-through exterior washing"
+              "Machine configuration",
+              "Drive-through automatic exterior coach washing plant"
             ],
             [
-              "Vehicle types",
-              "To customer specification"
+              "Cycle time, 24-coach rake",
+              "≤ 15 min"
             ],
             [
-              "Train passage speed",
-              "On request"
+              "Train wash speed",
+              "3–5 km/h"
             ],
             [
-              "Brush arrangement",
-              "On request"
+              "Final rinse pressure",
+              "Approx. 10 kg/cm² (≈ 10 bar)"
             ],
             [
-              "Water consumption per train",
-              "On request"
+              "Fresh water per coach",
+              "Max. 60 L"
             ],
             [
-              "Water recovery and treatment",
-              "On request"
+              "Water recovery",
+              "Recycled through integrated ETP"
             ],
             [
-              "Detergent dosing",
-              "On request"
-            ],
-            [
-              "Track gauge",
-              "To customer specification*"
+              "Speed detection",
+              "Laser-based, synchronised to train movement"
             ]
           ],
-          "note": "Values marked * depend on track gauge and customer configuration. Final figures are confirmed in the technical offer."
+          "note": "Final figures are confirmed in the technical offer."
         },
         {
           "type": "steps",
@@ -3883,27 +4238,27 @@
           "items": [
             {
               "title": "Detect",
-              "text": "Sensors register the approaching train and start the sequence."
+              "text": "Laser-based speed detection registers the train and synchronises the wash cycle with its movement."
             },
             {
               "title": "Pre-wet",
-              "text": "The body is wetted to loosen dirt."
+              "text": "Each coach is wetted to loosen dirt as it enters the plant at 3–5 km/h."
             },
             {
-              "title": "Apply detergent",
-              "text": "Cleaning agent is applied at the set concentration."
+              "title": "Chemical treatment",
+              "text": "Cleaning agent is applied to the coach body."
             },
             {
               "title": "Brush",
-              "text": "Rotating brushes scrub sides and other specified surfaces."
+              "text": "Rotating brushes scrub the coach mechanically."
             },
             {
-              "title": "Rinse",
-              "text": "Clean water removes detergent and loosened dirt."
+              "title": "High-pressure rinse",
+              "text": "A final rinse at approx. 10 bar removes detergent and loosened dirt."
             },
             {
-              "title": "Collect",
-              "text": "Wash water is drained to collection or recovery as designed."
+              "title": "Mop & recycle",
+              "text": "The coach is mopped, and wash water is recycled through the integrated ETP."
             }
           ]
         },
@@ -3913,14 +4268,14 @@
           "heading": "Main features",
           "cols": 2,
           "items": [
-            "Drive-through operation on a depot track",
-            "Automatic vehicle detection",
-            "Pre-wetting, detergent and rinse stages",
-            "Rotating brushes matched to vehicle profiles",
-            "Controlled detergent dosing",
-            "Optional water recovery and treatment",
-            "Central control panel",
-            "Designed for local water and climate conditions"
+            "Drive-through operation – the train does not stop",
+            "Laser-based speed detection",
+            "Pre-wetting, chemical treatment, brushing, high-pressure rinse and mopping",
+            "24-coach rake in 15 minutes or less",
+            "Max. 60 litres of fresh water per coach",
+            "Water recycling through an integrated ETP",
+            "Centralised control with real-time monitoring",
+            "Modular heavy-duty design"
           ]
         },
         {
@@ -3967,7 +4322,7 @@
           "items": [
             {
               "image": "products/automated-train-washing-plant",
-              "caption": "Sample illustration of the automated train washing plant"
+              "caption": "HYT Automated Train Washing Plant with brush units on both sides of the track"
             },
             {
               "image": "projects/metro-depot",
@@ -3990,11 +4345,11 @@
           "items": [
             {
               "q": "Does the train have to stop?",
-              "a": "No. In a drive-through plant the train passes at low speed while the washing stages operate in sequence."
+              "a": "No. The train passes through at 3–5 km/h while the washing stages operate in sequence; a 24-coach rake is washed in 15 minutes or less."
             },
             {
               "q": "Can wash water be recycled?",
-              "a": "Water recovery and treatment can be included. The design depends on local water quality, discharge rules and the volume of washing."
+              "a": "Yes. Wash water is recycled through an integrated effluent treatment plant (ETP), limiting fresh water use to a maximum of 60 litres per coach."
             },
             {
               "q": "Which vehicles can be washed?",
@@ -4014,12 +4369,12 @@
     },
     "rail-cum-road-vehicle-shunter": {
       "nav": "Rail cum Road Vehicle (Shunter)",
-      "title": "Rail cum Road Vehicle (Shunter) for Depots",
-      "description": "HYT rail cum road vehicle (shunter) moves coaches, wagons and locomotives in depots and sidings, then drives off the track on road wheels to its next job.",
+      "title": "Rail Cum Road Vehicle Shunter KRE 15 RCRV",
+      "description": "Battery-powered dual-mode shunter for depots and workshops. 15 kN tractive effort, 135 t towing capacity and a two-minute rail-to-road changeover.",
       "eyebrow": "Depot & Workshop Equipment",
-      "h1": "Rail cum Road Vehicle (Shunter) for flexible shunting in depots and sidings",
-      "lede": "One vehicle that runs on rails to move rolling stock and on roads to reach the next track – an alternative to a locomotive for many depot movements.",
-      "summary": "Dual-mode shunter that moves rolling stock on rails and drives on roads between tracks – an alternative to locomotive shunting in depots.",
+      "h1": "Rail Cum Road Vehicle Shunter KRE 15 RCRV – battery-powered shunting on rail and road",
+      "lede": "A dual-mode, battery-powered shunter that moves locomotives, coaches, wagons and complete train sets on both rail and road – without a dedicated shunting locomotive.",
+      "summary": "Battery-powered rail-and-road shunter with 15 kN tractive effort and 135 t towing capacity for moving rolling stock in depots and workshops.",
       "related": [
         "automated-train-washing-plant",
         "underfloor-wheel-lathe",
@@ -4029,100 +4384,101 @@
         {
           "type": "text",
           "id": "overview",
-          "eyebrow": "About the vehicle",
-          "heading": "Shunting without tying up a locomotive",
+          "eyebrow": "Product overview",
+          "heading": "What is the Rail Cum Road Vehicle Shunter?",
           "paragraphs": [
-            "Depots and workshops move vehicles all day: on to the wheel lathe road, through the washing plant, over inspection pits and out to the stabling sidings. Using a locomotive for each move ties up traction and crew, and a locomotive cannot leave the rails to reach a different track.",
-            "A Rail cum Road Vehicle (Shunter) can. It drives on the road on its tyres, sets down its rail guide wheels at a track access point and then runs on the rails to couple and move rolling stock. When the job is done, it raises the rail wheels and drives to the next track.",
-            "Coupling system, braking, hauling capacity and gauge are matched to the vehicles you need to move and the layout of your depot."
+            "The HYT Rail Cum Road Vehicle Shunter is a versatile rail handling solution designed to move locomotives, coaches, wagons, metro cars and complete train sets safely and efficiently within depots, workshops, maintenance facilities and production plants.",
+            "Unlike conventional shunting locomotives, the HYT Rail Cum Road Vehicle Shunter combines road mobility with rail traction capability, allowing operators to transfer rolling stock seamlessly between workshop bays, inspection lines, washing plants and storage tracks without the need for a dedicated rail locomotive.",
+            "The shunter is equipped with advanced hydraulic and traction systems, providing smooth acceleration, controlled braking and accurate positioning of rolling stock during maintenance and assembly operations. This improves operational safety, reduces turnaround time and enhances overall workshop productivity.",
+            "Designed for modern railway maintenance facilities, the HYT Rail Cum Road Vehicle Shunter offers a cost-effective and flexible alternative to traditional shunting methods, helping operators maximise asset utilisation while minimising operating costs and infrastructure requirements."
           ],
           "image": "products/rail-cum-road-vehicle-shunter",
-          "image_alt": "Sample illustration of a rail cum road shunting vehicle coupled to a passenger coach in a depot",
+          "image_alt": "HYT Rail Cum Road Vehicle Shunter KRE 15 RCRV",
           "layout": "image-right"
         },
         {
           "type": "features",
           "id": "advantages",
           "eyebrow": "Key advantages",
-          "heading": "What a road-rail shunter changes",
+          "heading": "Why choose the KRE 15 RCRV?",
           "cols": 3,
           "items": [
             {
               "icon": "signpost-split",
-              "title": "Reach any track",
-              "text": "Drives by road between tracks instead of waiting for points and paths."
+              "title": "Dual-mode operation",
+              "text": "Seamless movement on both rail track and road, with a changeover time of just two minutes."
             },
             {
-              "icon": "train-freight-front",
-              "title": "Frees locomotives",
-              "text": "Locomotives stay in revenue or mainline service rather than depot shunting."
-            },
-            {
-              "icon": "clock-history",
-              "title": "Ready when needed",
-              "text": "Quick to deploy for short, frequent movements."
-            },
-            {
-              "icon": "box-seam",
-              "title": "Sized for depot work",
-              "text": "A compact vehicle matched to depot moves, not mainline haulage."
+              "icon": "lightning-charge",
+              "title": "Powerful shunting performance",
+              "text": "Up to 15 kN tractive effort and 135 t towing capacity."
             },
             {
               "icon": "link-45deg",
-              "title": "Matched to your stock",
-              "text": "Couplers and brake connections suited to your fleet."
+              "title": "Integrated winch option",
+              "text": "Efficient pulling and pushing operations."
             },
             {
-              "icon": "shield-check",
-              "title": "Controlled movements",
-              "text": "Low-speed handling for safe moves around staff and equipment."
+              "icon": "arrow-repeat",
+              "title": "360° rotation capability",
+              "text": "Exceptional manoeuvrability in confined depot areas."
+            },
+            {
+              "icon": "controller",
+              "title": "Remote-controlled operation",
+              "text": "Enhanced safety, precision and operator convenience."
+            },
+            {
+              "icon": "battery-charging",
+              "title": "Battery-powered electric drive",
+              "text": "Clean, quiet and emission-free operation."
             }
           ]
         },
         {
           "type": "specs",
           "id": "specifications",
-          "heading": "Technical specifications",
-          "intro": "Capacities are matched to the heaviest consist and steepest gradient in your depot.",
+          "heading": "Technical data",
+          "intro": "Technical data from HYT. Each machine is configured to your track gauge, wheel profiles and vehicles.",
           "columns": [
             "Parameter",
-            "Value"
+            "KRE 15 RCRV"
           ],
           "rows": [
             [
-              "Operating modes",
-              "Rail and road"
+              "Machine configuration",
+              "Dual-mode rail and road shunter; battery-powered electric drive"
             ],
             [
-              "Track gauge",
-              "To customer specification*"
+              "Service weight",
+              "6 t ± 10%"
             ],
             [
-              "Hauling capacity",
-              "On request"
+              "Max. wheel load",
+              "Approx. 1.5 t"
             ],
             [
-              "Tractive effort",
-              "On request"
+              "Gauge",
+              "1676 mm / 1435 mm"
             ],
             [
-              "Power unit",
-              "On request"
+              "Max. speed",
+              "V1 (loaded): 0–2 km/h; V2 (solo): 0–4 km/h"
             ],
             [
-              "Coupling system",
-              "To customer specification"
+              "Max. tractive effort",
+              "15 kN at wheel rim, at adhesion μ = 0.5 dry (0.3 wet)"
             ],
             [
-              "Brake connection to hauled stock",
-              "On request"
+              "Towing capacity",
+              "135 t locomotive or other rolling stock, on gradients up to 2.5 ‰ (2.5 in 1000)"
             ],
             [
-              "Rail–road changeover",
-              "On request"
+              "Rail-to-road changeover time",
+              "Approx. 2 min"
             ]
           ],
-          "note": "Values marked * depend on track gauge and customer configuration. Final figures are confirmed in the technical offer."
+          "note": "Final figures are confirmed in the technical offer."
         },
         {
           "type": "steps",
@@ -4136,15 +4492,15 @@
             },
             {
               "title": "Rail on",
-              "text": "Rail guide wheels are lowered and the vehicle is aligned on the track."
+              "text": "The shunter changes from road to rail mode in about two minutes and is aligned on the track."
             },
             {
               "title": "Couple",
-              "text": "It couples to the rolling stock and the brake connection is made."
+              "text": "It couples to the rolling stock to be moved."
             },
             {
               "title": "Shunt",
-              "text": "The consist is moved to the workshop road, wash plant or siding."
+              "text": "Using the remote control, the operator moves the consist to the workshop road, wash plant or siding."
             },
             {
               "title": "Uncouple",
@@ -4162,14 +4518,14 @@
           "heading": "Main features",
           "cols": 2,
           "items": [
-            "Road and rail operation in one vehicle",
-            "Retractable rail guide wheels",
-            "Coupling to suit your rolling stock",
-            "Brake connection to hauled vehicles on request",
-            "Operator cab with view along the track",
-            "Configured to your track gauge",
-            "Designed for low-speed depot moves",
-            "Operator training included in commissioning"
+            "Rail and road operation in one vehicle",
+            "Rail-to-road changeover in approx. 2 minutes",
+            "Up to 15 kN tractive effort at the wheel rim",
+            "135 t towing capacity on gradients up to 2.5 ‰",
+            "Remote-controlled operation",
+            "360° rotation for confined depot areas",
+            "Integrated winch option",
+            "Battery-powered, emission-free electric drive"
           ]
         },
         {
@@ -4221,7 +4577,7 @@
           "items": [
             {
               "image": "products/rail-cum-road-vehicle-shunter",
-              "caption": "Sample illustration of the Rail cum Road Vehicle (Shunter)"
+              "caption": "HYT Rail Cum Road Vehicle Shunter KRE 15 RCRV"
             },
             {
               "image": "projects/metro-depot",
@@ -4240,11 +4596,11 @@
           "items": [
             {
               "q": "What is a rail cum road vehicle?",
-              "a": "A vehicle that can drive on roads on its tyres and run on rails using retractable guide wheels. In shunting mode it couples to rolling stock and moves it along the track."
+              "a": "A shunter that drives on roads and runs on rails, changing between the two modes in about two minutes. In shunting mode it couples to rolling stock and moves it along the track."
             },
             {
               "q": "How many vehicles can it move?",
-              "a": "That depends on the configured hauling capacity, the weight of your rolling stock and the gradients in the depot. We size the vehicle to your heaviest regular movement."
+              "a": "The KRE 15 RCRV moves up to 135 t of locomotives or other rolling stock on gradients up to 2.5 ‰, with a tractive effort of up to 15 kN. We check this against your heaviest regular movement and your depot gradients."
             },
             {
               "q": "What infrastructure does it need?",

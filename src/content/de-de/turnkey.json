@@ -31,7 +31,7 @@
             "Selten bereitet Betreibern eine einzelne Maschine Schwierigkeiten. Das Problem liegt im Ablauf: Radsätze stauen sich vor der Presse, während die Drehmaschine stillsteht, Messwerte werden doppelt eingegeben, und zu viele Arbeitsplätze teilen sich die Krane. HYT plant die Werkstatt rund um Ihren Radsatzmix und Ihren Revisionszyklus und baut die Kernmaschinen selbst – Prozess und Ausrüstung werden gemeinsam konstruiert, und ein Unternehmen steht für das Ergebnis ein."
           ],
           "image": "products/portal-wheel-lathe",
-          "image_alt": "Beispielabbildung einer Portal-Radsatzdrehmaschine bei der Reprofilierung eines ausgebauten Radsatzes in einer Radsatzwerkstatt",
+          "image_alt": "HYT CNC-Portal-Radsatzdrehmaschine (YPL-02)",
           "badge_value": "1977",
           "badge_label": "Eisenbahn-Werkzeugmaschinenbau seit",
           "items": [
@@ -114,7 +114,7 @@
               "icon": "bullseye",
               "title": "Reprofilierung",
               "image": "products/surface-wheel-lathe",
-              "image_alt": "Beispielabbildung einer CNC-Überflur-Radsatzdrehmaschine bei der Reprofilierung eines ausgebauten Radsatzes",
+              "image_alt": "HYT CNC-Überflur-Radsatzdrehmaschine (YSL-08)",
               "text": "Weiterverwendete Radsätze erhalten auf einer [CNC-Überflur-Radsatzdrehmaschine](page:surface-wheel-lathe) oder einer [Portal-Radsatzdrehmaschine](page:portal-wheel-lathe) ein neues Laufflächen- und Spurkranzprofil – die Maschine wird passend zu Ihren Radsatztypen und typischen Schäden gewählt.",
               "bullets": [
                 "Profilprogramme für Ihre Flotte",
@@ -126,7 +126,7 @@
               "icon": "circle",
               "title": "Ausbohren der Räder",
               "image": "products/vertical-turning-boring-machine",
-              "image_alt": "Beispielabbildung einer CNC-Vertikal-Dreh- und Bohrmaschine bei der Bearbeitung eines Eisenbahnrads",
+              "image_alt": "HYT CNC-Vertikal-Dreh- und Bohrmaschine (YVM-04)",
               "text": "Ersatzräder werden auf einer [CNC-Vertikal-Dreh- und Bohrmaschine](page:vertical-turning-boring-machine) gedreht, und ihre Bohrungen werden passend zum Radsitz der Achswelle bearbeitet.",
               "bullets": [
                 "Bohrung passend zum gemessenen Radsitz",
@@ -138,7 +138,7 @@
               "icon": "distribute-horizontal",
               "title": "Achswellen- & Achsschenkelbearbeitung",
               "image": "products/axle-journal-turning-burnishing-lathe",
-              "image_alt": "Beispielabbildung einer Achsschenkel-Dreh- und Glattwalzmaschine",
+              "image_alt": "HYT CNC-Achsschenkel-Dreh- und Glattwalzmaschine (YTB 04)",
               "text": "Achswellen werden auf einer [Achsschenkel-Dreh- und Glattwalzmaschine](page:axle-journal-turning-burnishing-lathe) instand gesetzt; neue Achswellen werden auf einer [Achswellendrehmaschine](page:axle-turning-lathe) bearbeitet.",
               "bullets": [
                 "Achsschenkel gedreht und glattgewalzt für dauerhafte Lagersitze",
@@ -1278,7 +1278,7 @@
             "HYT baut für jede Aufgabe eine eigene Maschine. Für neue Achswellen dreht die [CNC-Achswellendrehmaschine ATL-01](page:axle-turning-lathe) Achsschenkel, Staubringsitze, Radsitze, Übergänge und Achsschaft. Für die Revision dreht die [Achsschenkel-Dreh- und Glattwalzmaschine](page:axle-journal-turning-burnishing-lathe) verschlissene Achsschenkel wieder in die Toleranz und walzt sie anschließend glatt. Wir planen die Linie für die Arbeiten, die Ihr Werk ausführt – oder für beides, wenn eine Werkstatt neue Achswellen fertigt und gebrauchte revidiert."
           ],
           "image": "products/axle-journal-turning-burnishing-lathe",
-          "image_alt": "Beispielabbildung einer Achsschenkel-Dreh- und Glattwalzmaschine bei der Instandsetzung des Achsschenkels einer Eisenbahn-Achswelle",
+          "image_alt": "HYT CNC-Achsschenkel-Dreh- und Glattwalzmaschine (YTB 04)",
           "layout": "image-right"
         },
         {

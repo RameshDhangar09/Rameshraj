@@ -1255,3 +1255,25 @@ html:not(.js-ready) .hero-slide:not(:first-child) { display: none; }
 @media (max-width: 575.98px) { .axiom.is-open { z-index: 2000; } }
 .axiom-msg .axiom-contact__btn, .axiom-msg .axiom-card { color: var(--hyt-graphite); }
 .axiom-msg .axiom-contact__btn--primary, .axiom-msg .axiom-contact__btn--primary:hover { color: var(--hyt-black); }
+
+/* ---------- History: era timelines (Oct 2026) ---------- */
+.timeline__tag { grid-column: 1; margin: 0; font-family: var(--font-label); font-size: 0.72rem; font-weight: 700; letter-spacing: 0.12em; text-transform: uppercase; color: var(--hyt-grey-text); }
+.section--era .timeline-head { position: sticky; top: calc(var(--header-h, 80px) + 1.5rem); }
+.section--era .timeline-head .section-title { font-size: clamp(1.6rem, 2.6vw, 2.25rem); }
+.section--era .timeline__item { padding-bottom: 2rem; }
+.section--era .timeline__item:last-child { padding-bottom: 0.25rem; }
+@media (max-width: 991.98px) { .section--era .timeline-head { position: static; } }
+
+/* ---------- Contact: location cards ---------- */
+.location-card { display: flex; flex-direction: column; }
+.location-card__role { font-family: var(--font-label); font-size: 0.8rem; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; color: var(--hyt-orange-text); margin-top: -0.35rem; }
+.location-card address { margin-bottom: 1rem; }
+.location-card__list { list-style: none; padding: 0; margin: 0 0 1.25rem; display: grid; gap: 0.55rem; font-size: 0.95rem; color: #3b3f46; }
+.location-card__list li { display: grid; grid-template-columns: 1.25rem 1fr; gap: 0.6rem; align-items: start; }
+.location-card__list .bi { color: var(--hyt-blue, #184A72); font-size: 1rem; line-height: 1.5; }
+.location-card__map { margin-top: auto; }
+.contact-service { display: flex; gap: 0.85rem; align-items: center; margin-top: 2rem; padding: 1.1rem 1.4rem; background: #fff; border: var(--border); border-left: 4px solid var(--hyt-orange); border-radius: var(--radius); }
+.contact-service > .bi { font-size: 1.5rem; color: var(--hyt-orange-text); }
+.contact-service p { margin: 0; color: #3b3f46; }
+.form-secure-note { display: inline-flex; gap: 0.45rem; align-items: center; margin: 0 0 0 1.25rem; font-size: 0.92rem; color: var(--hyt-grey-text); }
+@media (max-width: 575.98px) { .form-secure-note { margin: 0.9rem 0 0; } }

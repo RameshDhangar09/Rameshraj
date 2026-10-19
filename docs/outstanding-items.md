@@ -25,12 +25,12 @@ site replaces hytengineering.com. Owner suggestions in brackets.
 |---|------|-------|-------|
 | B1 | Replace all sample illustrations with approved photographs (same filenames, 16:10, ≥1600×1000) – see `docs/image-inventory.md` | all | Marketing |
 | B2 | Real product catalogue(s) and per-product datasheets to replace `hyt-sample-catalogue.pdf` | Downloads, all product pages | Marketing / Engineering |
-| B3 | Technical data for every value shown as "On request" (YUL-08 ranges, YUGL, YUGLX, YPL-04, YSL-12, YSL-21, YVM-04, ATL-01, presses, measuring, balancing, armature, washing plant, shunter) and confirmation of published values (YSL-08 min tread Ø 750 vs 540 mm) | product pages | Engineering |
+| B3 | ~~Technical data~~ **Done 19 Oct 2026** for 13 products from HYT's product content document. Still "On request": wheel presses, wheel measuring station, dynamic wheel balancing machine, SKC partner products. Open queries from the document: YUL-12T/YUGLX and YUL-08/YUGL cycle time and wheelset-distance values were highlighted for checking (35 min / 1800–3200 mm; 30 min) | Product pages | Engineering |
 | B4 | Confirm company figures: 1,100+ machines delivered (other sources say 500+ / 928), founding story 1977 | Home, About, History | Management |
 | B5 | Full approved project list with client permissions, dates, photos; status of the Indian Railways nine-lathe contract | Executed / Under Execution, Industries | Projects |
 | B6 | Approved client list and logo-usage permissions | Clientele | Sales |
 | B7 | Group company names, activities, links | Group Companies | Management |
-| B8 | Dated history milestones and archive photos | History | Management |
+| B8 | ~~Dated history milestones~~ **Done 19 Oct 2026** (HYT history document, 1977–2026). Still open: archive photographs for the timeline | History | Management |
 | B9 | ISO certificates (PDF, certifying body, validity) – fix the swapped links on the old Quality page | Certifications | QA |
 | B10 | Award list | Awards | Marketing |
 | B11 | CSR policy and projects | CSR | HR / CSR committee |
@@ -41,19 +41,21 @@ site replaces hytengineering.com. Owner suggestions in brackets.
 | B16 | Service-centre / field-engineer locations | After-Sales Service Network | Service |
 | B17 | News dates, press releases, photos; exhibition years and stand photos; domestic exhibition list | News, Exhibitions | Marketing |
 | B18 | SKC Gleittechnik product range, technical data, approved partner text and logo | SKC page | Sales |
-| B19 | Confirm YUGL vs YUL-08 and YUGLX vs YUL-12T differences and whether all four stay on sale; YPL-04 "roller type" principle | product pages | Engineering |
+| B19 | Product naming: the document asks HYT to confirm how YUL-12T and YUGLX (both "CNC Tandem Underfloor Wheel Lathe") and YUL-08 and YUGL (both "CNC Underfloor Wheel Lathe") are split – the website keeps four separate pages on the approved URLs. The document's proposed `/products/...` URLs were **not** used because they would change the approved URL structure | product pages | Engineering / Marketing |
 | B20 | Decide Blog vs Knowledge Centre split; supply first articles (`/blog/article-name/`) | Blog | Marketing |
 | B21 | Decide whether catalogues stay behind a form (template ready) or remain direct downloads | Downloads | Marketing |
 | B22 | Confirm defence and heavy-engineering focus (machines/customers to feature) | Industries | Sales |
 | B23 | Native-speaker review of the German, French, Italian and Dutch versions (see `docs/translation-checklist.md`) | 5 language versions | Marketing + reviewers |
 | B25 | Approved customer logos (SVG/PNG) and written permission to display them – current files in `assets/images/clients/` are neutral placeholders | Home logo carousel, Clientele | Sales / Marketing |
-| B26 | Product videos (MP4 or YouTube IDs) for each machine – all product pages currently show one sample clip labelled "Sample video" | Product pages (`src/videos.json`) | Marketing |
+| B26 | Product videos: YouTube videos added for YUGL (H5TlP5VMCgw – HYT to confirm whether it shows the YUGL or the YUGLX), YVM-04, YTB 04, KRE 15 RCRV and the washing plant. **Still needed:** YUGLX, YUL-12T, YUL-08, YPL-04, YPL-02 (the supplied link b8IqjmsJbxs shows a tandem lathe, not used), YSL series, ATL-01, YMM-04 and the non-HYT-document products – these pages still show the labelled sample clip, to be removed before launch if no video arrives | Product pages (`src/videos.json`) | Marketing |
 | B27 | Catalogue gating: implemented as a short form before download (per HYT request). Confirm fields and whether a separate datasheet per product will be offered | Product pages, Downloads | Marketing |
 | B28 | Name, dates and page/news item of the next event for the highlighted "Next Event" link (currently points to International Exhibitions) | Top bar (`src/config.json` → `next_event`) | Marketing |
 | B29 | **Wheel Shop Automation page merged into Wheel Shops** at HYT's request (15 Oct 2026); `/wheel-shop-automation/` now 301-redirects to `/turnkey-project/wheel-shops/` (all languages). HYT to confirm the automation scope it offers (handling, software, data integration) – shown as a review note on the Wheel Shops page | Wheel Shops | Projects / Engineering |
 | B30 | Home page videos: the three hero slides use HYT's own clips (done). The corporate video in *Who we are* is embedded from Canva – keep the Canva design shared publicly, check it plays in a normal browser, and supply a poster image (a still from the film) to replace the sample illustration; alternatively export it as MP4 for self-hosting or publish it on YouTube | Home | Marketing |
+| B32 | High-resolution product photographs: the 14 photos now on the product pages were taken from HYT's Word document (about 600 px wide, upscaled). Please send the original image files (≥ 1600 px) so they can be replaced at the same filenames. No photo yet for ATL-01 | Product pages | Marketing |
+| B33 | Per-product catalogue PDFs named in the product document (e.g. `hyt-yugl-yuglx-catalogue.pdf`, `hyt-ypl-02-catalogue.pdf`) were not supplied – the sample catalogue is still used | Product pages, Downloads | Marketing |
 | B31 | **Axiom chat assistant** is live in local mode (answers only from website content). To switch on AI answers: choose hosting for `integrations/cloudflare-worker/axiom-chat.js`, create an Anthropic API key (stored only as a Worker secret), set daily/per-IP caps, sign the provider's data processing terms, add the AI provider to the Privacy Policy, then set `chat_endpoint` in `src/config.json` and rebuild. Review Axiom's texts (`common.json` → `chat`) and test with typical customer questions in every language | All pages | Marketing / IT / Legal |
-| B24 | Confirm the New Delhi sales office details (mentioned on an old page; not published) | Contact | Sales |
+| B24 | ~~New Delhi office~~ **Done 19 Oct 2026** – New Delhi Sales & Marketing Office and SAFOP S.p.A. (Pordenone) published on Contact Us with the Pune HQ | Contact | Sales |
 
 Every on-page review note is listed with its exact wording in
 [`review-notices.md`](review-notices.md); the workbook REVIEW rows are mapped in

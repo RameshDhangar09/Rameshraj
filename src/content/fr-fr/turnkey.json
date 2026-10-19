@@ -31,7 +31,7 @@
             "Les exploitants butent rarement sur une machine isolée. La difficulté réside dans le flux : des essieux montés qui attendent devant la presse pendant que le tour reste à l’arrêt, des mesures saisies deux fois, des ponts roulants partagés entre trop de postes. HYT conçoit l’atelier en fonction de vos types d’essieux montés et de votre cycle de révision, et construit elle-même les machines principales – procédé et équipements sont ainsi étudiés ensemble, et un seul interlocuteur répond du résultat."
           ],
           "image": "products/portal-wheel-lathe",
-          "image_alt": "Illustration d’exemple d’un tour à roues à portique reprofilant un essieu monté déposé dans un atelier d’essieux ferroviaire",
+          "image_alt": "HYT Tour à roues à portique CNC (YPL-02)",
           "badge_value": "1977",
           "badge_label": "nous construisons des machines-outils ferroviaires depuis",
           "items": [
@@ -114,7 +114,7 @@
               "icon": "bullseye",
               "title": "Reprofilage des roues",
               "image": "products/surface-wheel-lathe",
-              "image_alt": "Illustration d’exemple d’un tour à roues sur sol CNC reprofilant un essieu monté déposé",
+              "image_alt": "HYT Tour à roues sur sol CNC (YSL-08)",
               "text": "Les essieux montés conservés reçoivent un nouveau profil de table de roulement et de boudin sur un [tour à roues sur sol CNC](page:surface-wheel-lathe) ou un [tour à roues à portique](page:portal-wheel-lathe), choisi en fonction de vos types d’essieux montés et des défauts habituels.",
               "bullets": [
                 "Programmes de profils adaptés à votre flotte",
@@ -126,7 +126,7 @@
               "icon": "circle",
               "title": "Alésage des roues",
               "image": "products/vertical-turning-boring-machine",
-              "image_alt": "Illustration d’exemple d’un tour vertical CNC de tournage et d’alésage usinant une roue ferroviaire",
+              "image_alt": "HYT Tour vertical CNC de tournage et d'alésage (YVM-04)",
               "text": "Les roues de remplacement sont tournées et leur alésage est usiné en fonction de la portée de calage de l’essieu sur un [tour vertical CNC de tournage et d’alésage](page:vertical-turning-boring-machine).",
               "bullets": [
                 "Alésage dimensionné d’après la portée de calage mesurée",
@@ -138,7 +138,7 @@
               "icon": "distribute-horizontal",
               "title": "Usinage des essieux et des fusées",
               "image": "products/axle-journal-turning-burnishing-lathe",
-              "image_alt": "Illustration d’exemple d’un tour de tournage et galetage de fusées d’essieu",
+              "image_alt": "HYT Tour CNC de tournage et galetage de fusées d'essieu (YTB 04)",
               "text": "Les essieux sont remis en état sur un [tour de tournage et galetage de fusées d’essieu](page:axle-journal-turning-burnishing-lathe) ; les essieux neufs sont usinés sur un [tour à essieux](page:axle-turning-lathe).",
               "bullets": [
                 "Fusées tournées et galetées pour des portées de roulement durables",
@@ -1278,7 +1278,7 @@
             "HYT construit une machine pour chaque tâche. Pour les essieux neufs, le [tour à essieux CNC ATL-01](page:axle-turning-lathe) tourne les fusées, les portées de cache-poussière, les portées de calage, les raccordements et le corps d’essieu. Pour la révision, le [tour de tournage et galetage de fusées d’essieu](page:axle-journal-turning-burnishing-lathe) ramène les fusées usées dans les tolérances par tournage, puis les galète. Nous concevons la ligne en fonction des travaux réalisés dans votre installation – ou des deux, lorsqu’un atelier produit des essieux neufs et révise des essieux usagés."
           ],
           "image": "products/axle-journal-turning-burnishing-lathe",
-          "image_alt": "Illustration d’exemple d’un tour de tournage et galetage de fusées remettant en état la fusée d’un essieu ferroviaire",
+          "image_alt": "HYT Tour CNC de tournage et galetage de fusées d'essieu (YTB 04)",
           "layout": "image-right"
         },
         {

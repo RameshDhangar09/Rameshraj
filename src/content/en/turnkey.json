@@ -31,7 +31,7 @@
             "Owners rarely struggle with a single machine. The difficulty lies in the flow: wheelsets queuing at the press while the lathe stands idle, measurements keyed in twice, cranes shared between too many stations. HYT designs the shop around your wheelset mix and overhaul cycle, and builds the core machines itself – so process and equipment are engineered together and one organisation answers for the result."
           ],
           "image": "products/portal-wheel-lathe",
-          "image_alt": "Sample illustration of a portal wheel lathe re-profiling a removed wheelset in a railway wheel shop",
+          "image_alt": "HYT CNC Portal Wheel Lathe (YPL-02)",
           "badge_value": "1977",
           "badge_label": "building railway machine tools since",
           "items": [
@@ -114,7 +114,7 @@
               "icon": "bullseye",
               "title": "Wheel re-profiling",
               "image": "products/surface-wheel-lathe",
-              "image_alt": "Sample illustration of a CNC surface wheel lathe re-profiling a removed wheelset",
+              "image_alt": "HYT CNC Surface Wheel Lathe (YSL-08)",
               "text": "Retained wheelsets get a new tread and flange profile on a [CNC surface wheel lathe](page:surface-wheel-lathe) or a [portal wheel lathe](page:portal-wheel-lathe), chosen to suit your wheelset types and typical defects.",
               "bullets": [
                 "Profile programs for your fleet",
@@ -126,7 +126,7 @@
               "icon": "circle",
               "title": "Wheel boring",
               "image": "products/vertical-turning-boring-machine",
-              "image_alt": "Sample illustration of a CNC vertical turning and boring machine machining a railway wheel",
+              "image_alt": "HYT CNC Vertical Turning & Boring Machine (YVM-04)",
               "text": "Replacement wheels are turned and their bores machined to match the axle seat on a [CNC vertical turning and boring machine](page:vertical-turning-boring-machine).",
               "bullets": [
                 "Bore sized to the measured axle seat",
@@ -138,7 +138,7 @@
               "icon": "distribute-horizontal",
               "title": "Axle & journal machining",
               "image": "products/axle-journal-turning-burnishing-lathe",
-              "image_alt": "Sample illustration of an axle journal turning and burnishing lathe",
+              "image_alt": "HYT CNC Axle Journal Turning & Burnishing Lathe (YTB 04)",
               "text": "Axles are restored on an [axle journal turning and burnishing lathe](page:axle-journal-turning-burnishing-lathe); new axles are machined on an [axle turning lathe](page:axle-turning-lathe).",
               "bullets": [
                 "Journals turned and burnished for durable bearing seats",
@@ -1278,7 +1278,7 @@
             "HYT builds a machine for each task. For new axles, the [CNC Axle Turning Lathe ATL-01](page:axle-turning-lathe) turns journals, dust-guard seats, wheel seats, transitions and body. For overhaul, the [Axle Journal Turning & Burnishing Lathe](page:axle-journal-turning-burnishing-lathe) turns worn journals back within limits and then burnishes them. We plan the line around the work your facility performs – or both, where a workshop produces new axles and overhauls used ones."
           ],
           "image": "products/axle-journal-turning-burnishing-lathe",
-          "image_alt": "Sample illustration of an axle journal turning and burnishing lathe restoring the journal of a railway axle",
+          "image_alt": "HYT CNC Axle Journal Turning & Burnishing Lathe (YTB 04)",
           "layout": "image-right"
         },
         {
