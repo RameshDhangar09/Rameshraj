@@ -296,7 +296,7 @@
           "type": "timeline",
           "layout": "split",
           "id": "era-1970s",
-          "eyebrow": "Epoca · Anni Settanta",
+          "eyebrow": "1977\u20131979",
           "heading": "Fondazione",
           "items": [
             {
@@ -311,7 +311,7 @@
           "type": "timeline",
           "layout": "split",
           "id": "era-1980s",
-          "eyebrow": "Epoca · Anni Ottanta",
+          "eyebrow": "1980\u20131989",
           "heading": "Prime innovazioni",
           "items": [
             {
@@ -339,7 +339,7 @@
           "type": "timeline",
           "layout": "split",
           "id": "era-1990s",
-          "eyebrow": "Epoca · Anni Novanta",
+          "eyebrow": "1990\u20131999",
           "heading": "Pionieri dei torni per sale montate",
           "items": [
             {
@@ -360,7 +360,7 @@
           "type": "timeline",
           "layout": "split",
           "id": "era-2000s",
-          "eyebrow": "Epoca · Anni Duemila",
+          "eyebrow": "2000\u20132009",
           "heading": "L'era del CNC e la proiezione internazionale",
           "items": [
             {
@@ -406,7 +406,7 @@
           "type": "timeline",
           "layout": "split",
           "id": "era-2010s",
-          "eyebrow": "Epoca · Anni Dieci",
+          "eyebrow": "2010\u20132019",
           "heading": "Leadership nel chiavi in mano ed espansione globale",
           "items": [
             {
@@ -499,7 +499,7 @@
           "type": "timeline",
           "layout": "split",
           "id": "era-2020s",
-          "eyebrow": "Epoca · Anni Venti",
+          "eyebrow": "2020\u20132026",
           "heading": "Nuovi orizzonti",
           "items": [
             {

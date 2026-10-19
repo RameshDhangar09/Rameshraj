@@ -296,7 +296,7 @@
           "type": "timeline",
           "layout": "split",
           "id": "era-1970s",
-          "eyebrow": "Ära · 1970er",
+          "eyebrow": "1977\u20131979",
           "heading": "Gründung",
           "items": [
             {
@@ -311,7 +311,7 @@
           "type": "timeline",
           "layout": "split",
           "id": "era-1980s",
-          "eyebrow": "Ära · 1980er",
+          "eyebrow": "1980\u20131989",
           "heading": "Frühe Innovationen",
           "items": [
             {
@@ -339,7 +339,7 @@
           "type": "timeline",
           "layout": "split",
           "id": "era-1990s",
-          "eyebrow": "Ära · 1990er",
+          "eyebrow": "1990\u20131999",
           "heading": "Wegbereiter der Radsatzdrehmaschinen",
           "items": [
             {
@@ -360,7 +360,7 @@
           "type": "timeline",
           "layout": "split",
           "id": "era-2000s",
-          "eyebrow": "Ära · 2000er",
+          "eyebrow": "2000\u20132009",
           "heading": "Das CNC-Zeitalter und internationale Reichweite",
           "items": [
             {
@@ -406,7 +406,7 @@
           "type": "timeline",
           "layout": "split",
           "id": "era-2010s",
-          "eyebrow": "Ära · 2010er",
+          "eyebrow": "2010\u20132019",
           "heading": "Führend bei schlüsselfertigen Projekten und internationale Expansion",
           "items": [
             {
@@ -499,7 +499,7 @@
           "type": "timeline",
           "layout": "split",
           "id": "era-2020s",
-          "eyebrow": "Ära · 2020er",
+          "eyebrow": "2020\u20132026",
           "heading": "Neue Horizonte",
           "items": [
             {

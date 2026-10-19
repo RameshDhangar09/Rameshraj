@@ -296,7 +296,7 @@
           "type": "timeline",
           "layout": "split",
           "id": "era-1970s",
-          "eyebrow": "Époque · années 1970",
+          "eyebrow": "1977\u20131979",
           "heading": "La fondation",
           "items": [
             {
@@ -311,7 +311,7 @@
           "type": "timeline",
           "layout": "split",
           "id": "era-1980s",
-          "eyebrow": "Époque · années 1980",
+          "eyebrow": "1980\u20131989",
           "heading": "Premières innovations",
           "items": [
             {
@@ -339,7 +339,7 @@
           "type": "timeline",
           "layout": "split",
           "id": "era-1990s",
-          "eyebrow": "Époque · années 1990",
+          "eyebrow": "1990\u20131999",
           "heading": "Pionnier des tours à roues",
           "items": [
             {
@@ -360,7 +360,7 @@
           "type": "timeline",
           "layout": "split",
           "id": "era-2000s",
-          "eyebrow": "Époque · années 2000",
+          "eyebrow": "2000\u20132009",
           "heading": "L’ère de la CNC et le rayonnement international",
           "items": [
             {
@@ -406,7 +406,7 @@
           "type": "timeline",
           "layout": "split",
           "id": "era-2010s",
-          "eyebrow": "Époque · années 2010",
+          "eyebrow": "2010\u20132019",
           "heading": "Leadership clés en main et expansion internationale",
           "items": [
             {
@@ -499,7 +499,7 @@
           "type": "timeline",
           "layout": "split",
           "id": "era-2020s",
-          "eyebrow": "Époque · années 2020",
+          "eyebrow": "2020\u20132026",
           "heading": "Nouveaux horizons",
           "items": [
             {

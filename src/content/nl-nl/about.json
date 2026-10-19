@@ -296,7 +296,7 @@
           "type": "timeline",
           "layout": "split",
           "id": "era-1970s",
-          "eyebrow": "Periode · jaren 70",
+          "eyebrow": "1977\u20131979",
           "heading": "Oprichting",
           "items": [
             {
@@ -311,7 +311,7 @@
           "type": "timeline",
           "layout": "split",
           "id": "era-1980s",
-          "eyebrow": "Periode · jaren 80",
+          "eyebrow": "1980\u20131989",
           "heading": "Vroege innovatie",
           "items": [
             {
@@ -339,7 +339,7 @@
           "type": "timeline",
           "layout": "split",
           "id": "era-1990s",
-          "eyebrow": "Periode · jaren 90",
+          "eyebrow": "1990\u20131999",
           "heading": "Pionier in wielenbanken",
           "items": [
             {
@@ -360,7 +360,7 @@
           "type": "timeline",
           "layout": "split",
           "id": "era-2000s",
-          "eyebrow": "Periode · jaren 2000",
+          "eyebrow": "2000\u20132009",
           "heading": "Het CNC-tijdperk en wereldwijd bereik",
           "items": [
             {
@@ -406,7 +406,7 @@
           "type": "timeline",
           "layout": "split",
           "id": "era-2010s",
-          "eyebrow": "Periode · jaren 2010",
+          "eyebrow": "2010\u20132019",
           "heading": "Toonaangevend in turnkey en internationale groei",
           "items": [
             {
@@ -499,7 +499,7 @@
           "type": "timeline",
           "layout": "split",
           "id": "era-2020s",
-          "eyebrow": "Periode · jaren 2020",
+          "eyebrow": "2020\u20132026",
           "heading": "Nieuwe horizonten",
           "items": [
             {

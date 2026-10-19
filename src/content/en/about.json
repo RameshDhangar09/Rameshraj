@@ -180,7 +180,7 @@
           "type": "timeline",
           "layout": "split",
           "id": "era-1970s",
-          "eyebrow": "Era · 1970s",
+          "eyebrow": "1977\u20131979",
           "heading": "Foundation",
           "items": [
             {
@@ -195,7 +195,7 @@
           "type": "timeline",
           "layout": "split",
           "id": "era-1980s",
-          "eyebrow": "Era · 1980s",
+          "eyebrow": "1980\u20131989",
           "heading": "Early innovation",
           "items": [
             {
@@ -223,7 +223,7 @@
           "type": "timeline",
           "layout": "split",
           "id": "era-1990s",
-          "eyebrow": "Era · 1990s",
+          "eyebrow": "1990\u20131999",
           "heading": "Wheel lathe pioneer",
           "items": [
             {
@@ -244,7 +244,7 @@
           "type": "timeline",
           "layout": "split",
           "id": "era-2000s",
-          "eyebrow": "Era · 2000s",
+          "eyebrow": "2000\u20132009",
           "heading": "The CNC era and global reach",
           "items": [
             {
@@ -290,7 +290,7 @@
           "type": "timeline",
           "layout": "split",
           "id": "era-2010s",
-          "eyebrow": "Era · 2010s",
+          "eyebrow": "2010\u20132019",
           "heading": "Turnkey leadership and global expansion",
           "items": [
             {
@@ -383,7 +383,7 @@
           "type": "timeline",
           "layout": "split",
           "id": "era-2020s",
-          "eyebrow": "Era · 2020s",
+          "eyebrow": "2020\u20132026",
           "heading": "New horizons",
           "items": [
             {
