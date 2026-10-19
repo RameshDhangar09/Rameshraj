@@ -3,34 +3,23 @@
     "contact-us": {
       "nav": "Contact",
       "title": "Contact met HYT Engineering",
-      "description": "Neem contact op met HYT Engineering in Pune over CNC-wielenbanken, wielstelmachines, turnkey werkplaatsen of service. Bel, mail of stuur een aanvraag.",
+      "description": "Neem contact op met HYT Engineering in Pune of New Delhi, of met SAFOP in Italië, over CNC-wielenbanken, wielstelwerkplaatsen, turnkeywerkplaatsen of service. Wij reageren binnen 24 uur.",
       "eyebrow": "Contact",
-      "h1": "Contact met HYT Engineering",
-      "lede": "Vertel ons over uw vloot, uw werkplaats of het probleem dat u wilt oplossen. Een applicatie-engineer neemt contact met u op – meestal eerst met vragen, dan met antwoorden.",
-      "summary": "Telefoon, e-mail, adres en aanvraagformulier van HYT Engineering in Pune.",
+      "h1": "Laten we in gesprek gaan",
+      "lede": "Plant u een nieuwe wielstelwerkplaats, hebt u serviceondersteuning nodig voor bestaande machines of wilt u een samenwerking verkennen? Ons team reageert binnen 24 uur.",
+      "summary": "Onze vestigingen in Pune, New Delhi en Pordenone (Italië), telefoon, e-mail en contactformulier.",
       "blocks": [
         {
-          "type": "text",
-          "eyebrow": "Hoe wij u kunnen helpen",
-          "heading": "Praat met de mensen die de machines bouwen",
-          "paragraphs": [
-            "Aanvragen worden beantwoord door het eigen engineering- en verkoopteam van HYT in Pune – mensen die de machines kennen en de spoorwerkplaatsen waarin ze werken. Of u nu een nieuw depot plant, een oude draaibank vervangt of een offerte nodig heeft voor één machine: hoe meer u ons vertelt, hoe bruikbaarder ons eerste antwoord zal zijn.",
-            "Nuttige gegevens zijn onder meer uw voertuigtypen en vlootomvang, het bereik van de wieldiameters en de wielprofielen, de spoorwijdte, het verwachte aantal wielstellen per dienst en een schets van de indeling van uw werkplaats of depot."
-          ],
-          "image": "company/corporate-office",
-          "image_alt": "Voorbeeldillustratie van het kantoor en de fabriek van HYT Engineering in Pune",
-          "layout": "image-right"
-        },
-        {
           "type": "contact",
-          "heading": "Contactgegevens"
+          "id": "locations"
         },
         {
           "type": "form",
           "id": "enquiry",
           "form": "enquiry",
-          "heading": "Stuur een aanvraag",
-          "intro": "Gebruik dit formulier voor aanvragen over producten, projecten en service. Hoe meer details u geeft, hoe gerichter ons eerste antwoord kan zijn."
+          "eyebrow": "Contactformulier",
+          "heading": "Stuur ons een bericht",
+          "intro": "Vertel ons over uw vloot, uw werkplaats of het probleem dat u wilt oplossen. Nuttige gegevens zijn onder meer voertuigtypen, het bereik van de wieldiameters, de spoorwijdte en het verwachte aantal wielstellen per dienst."
         },
         {
           "type": "split_cta",

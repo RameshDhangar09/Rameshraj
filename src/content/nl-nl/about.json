@@ -275,65 +275,314 @@
     "history": {
       "nav": "Geschiedenis",
       "title": "Onze geschiedenis – HYT Engineering sinds 1977",
-      "description": "Van kleine boormachines en draaibanken in 1977 tot CNC-wielenbanken voor spoorwegen en metro’s – de mijlpalen die HYT Engineering hebben gevormd.",
+      "description": "Van boormachines in 1977 tot de eerste in India ontwikkelde wielenbanken, SAFOP in Italië en InnoTrans 2026 – de mijlpalen die HYT Engineering hebben gevormd.",
       "eyebrow": "Over HYT",
       "h1": "Onze geschiedenis",
-      "lede": "Bijna vijftig jaar werktuigmachinebouw in Pune, en de geleidelijke verschuiving van algemene werkplaatsmachines naar de wieltechnologie voor het spoor waar we vandaag om bekendstaan.",
-      "summary": "Mijlpalen van ons begin in 1977 tot CNC-wielenbanken voor spoorwegen en metro’s.",
+      "lede": "Bijna vijf decennia precisietechniek in Pune – van de eerste machines voor Indian Railways in 1977 tot een internationale groep met SAFOP S.p.A. in Italië.",
+      "summary": "Mijlpalen van onze oprichting in 1977 tot de eerste in India ontwikkelde wielenbanken, SAFOP en internationale markten.",
       "blocks": [
         {
-          "type": "timeline",
-          "heading": "Mijlpalen",
-          "intro": "De belangrijkste stappen in de ontwikkeling van HYT. Verdere gedateerde mijlpalen volgen zodra het archiefmateriaal is doorgenomen.",
-          "items": [
-            {
-              "year": "1977",
-              "title": "Het begin",
-              "text": "HYT start als HYT Engineering Corporation in Pune en bouwt kleine boormachines en draaibanken voor lokale werkplaatsen en de industrie."
-            },
-            {
-              "year": "1989",
-              "title": "Oprichting van de vennootschap",
-              "text": "Het bedrijf wordt ingeschreven als HYT Engineering Company Pvt. Ltd. en krijgt daarmee de structuur om grotere engineeringopdrachten aan te nemen."
-            },
-            {
-              "year": "Groei",
-              "title": "De stap naar CNC-wielenbanken",
-              "text": "HYT zet zijn ervaring met werktuigmachines in voor wielstellen en is in India pionier op het gebied van CNC-wielenbanken – onderloopdraaibanken, vloer- en portaalwielenbanken, gevolgd door machines voor de wielstelwerkplaats."
-            },
-            {
-              "year": "Gecertificeerd",
-              "title": "Drie ISO-managementsystemen",
-              "text": "Het kwaliteits-, milieu- en arbomanagement is gecertificeerd volgens ISO 9001:2015, ISO 14001:2015 en ISO 45001:2018. Zie [Certificeringen](page:certifications)."
-            },
-            {
-              "year": "Wereldwijd",
-              "title": "Op het internationale podium",
-              "text": "HYT exposeert op Asia Pacific Rail, Middle East Rail, Africa Rail en AusRAIL en levert een CNC-verticale revolverdraaibank aan de State Railway of Thailand."
-            },
-            {
-              "year": "Vandaag",
-              "title": "Orders van Indiase metro- en snelvervoerbedrijven",
-              "text": "Delhi Metro Rail Corporation gunt HYT een CNC-tandemonderloopdraaibank en National Capital Region Transport Corporation verstrekt een Letter of Acceptance voor volautomatische CNC-onderloopdraaibanken. Zie [projecten in uitvoering](page:under-execution)."
-            }
-          ]
-        },
-        {
           "type": "text",
-          "eyebrow": "Wat niet is veranderd",
-          "heading": "In hart en nieren machinebouwer",
+          "eyebrow": "Het verhaal van HYT",
+          "heading": "Van boormachines tot een wereldwijde engineeringgroep",
           "paragraphs": [
-            "Onze producten en klanten zijn sinds 1977 sterk veranderd, maar de kern niet. We ontwerpen onze machines nog steeds zelf, bouwen ze in onze eigen fabriek en staan er op de werkvloer voor in.",
-            "Die continuïteit is belangrijk voor spoorwegbedrijven. Een wielenbank kan tientallen jaren meegaan, en het bedrijf dat haar heeft gebouwd, moet er dan nog steeds zijn om haar te onderhouden, te moderniseren en uiteindelijk te vervangen. Lees meer [over HYT](page:about) of bekijk de [machines die we vandaag bouwen](page:products)."
+            "HYT Engineering Company werd in 1977 opgericht onder leiding van de heer Bhojraj Hemraj Teli, met als missie hoogwaardige precisiemachines te bouwen. Begonnen als fabrikant van boormachines, is HYT uitgegroeid tot een betrouwbare engineeringgroep die geavanceerde machines voor spoorwegonderhoud, precisiewerktuigmachines en turnkeyoplossingen levert aan klanten in India en op internationale markten."
           ],
           "image": "company/manufacturing-facility",
           "image_alt": "Voorbeeldillustratie van werktuigmachines in montage in de HYT-fabriek",
           "layout": "image-right"
         },
         {
-          "type": "notice",
-          "variant": "review",
-          "text": "Ter beoordeling door HYT: alleen de jaartallen 1977 en 1989 zijn geverifieerd. Graag gedateerde mijlpalen aanleveren (eerste CNC-wielenbank, eerste onderloopdraaibank, jaren van ISO-certificering, eerste exportorder, grote contracten) en archieffoto’s voor de tijdlijn."
+          "type": "timeline",
+          "layout": "split",
+          "id": "era-1970s",
+          "eyebrow": "Periode · jaren 70",
+          "heading": "Oprichting",
+          "items": [
+            {
+              "year": "1977",
+              "tag": "Oprichtingsmijlpaal",
+              "title": "Oprichting van HYT Engineering Corporation",
+              "text": "De heer Bhojraj Hemraj Teli richtte HYT Engineering Corporation op in Pune met één missie: hoogwaardige precisiemachines bouwen voor het spoor. Het eerste werk richtte zich op machines voor de revisie van tractiemotoren en het herstel van ankers – de basis voor een gespecialiseerde engineeringonderneming."
+            }
+          ]
+        },
+        {
+          "type": "timeline",
+          "layout": "split",
+          "id": "era-1980s",
+          "eyebrow": "Periode · jaren 80",
+          "heading": "Vroege innovatie",
+          "items": [
+            {
+              "year": "1981",
+              "tag": "Eerste ontwikkeling",
+              "title": "Ontwikkeling en levering van de machine voor het uitfrezen van mica",
+              "text": "HYT ontwikkelde en leverde de machine voor het uitfrezen van mica – een vroeg gespecialiseerd product dat liet zien hoe het bedrijf zijn kunde in de ontwikkeling van precisiewerktuigmachines voor de spoorsector uitbreidde."
+            },
+            {
+              "year": "1985",
+              "tag": "Productinnovatie",
+              "title": "Ontwikkeling en levering van de universele ankermachine",
+              "text": "De universele ankermachine werd ontwikkeld en geleverd, waarmee HYT zijn portfolio van gespecialiseerde machines voor het onderhoud en de revisie van tractiemotoren voor het spoor uitbreidde."
+            },
+            {
+              "year": "1989",
+              "tag": "Oprichting van de vennootschap",
+              "title": "HYT Engineering Company Pvt. Ltd.",
+              "text": "Het bedrijf werd ingeschreven als HYT Engineering Company Pvt. Ltd. en kreeg daarmee de structuur om grotere engineeringopdrachten aan te nemen."
+            }
+          ],
+          "variant": "muted"
+        },
+        {
+          "type": "timeline",
+          "layout": "split",
+          "id": "era-1990s",
+          "eyebrow": "Periode · jaren 90",
+          "heading": "Pionier in wielenbanken",
+          "items": [
+            {
+              "year": "1992",
+              "tag": "Een primeur voor India",
+              "title": "De eerste in India ontwikkelde vloerwielenbank",
+              "text": "Een historisch jaar. HYT ontwikkelde en leverde de eerste in India ontwikkelde vloerwielenbank en betrad daarmee de wereld van de wielenbanktechnologie."
+            },
+            {
+              "year": "1994",
+              "tag": "Een primeur voor India",
+              "title": "De eerste in India ontwikkelde onderloopdraaibank en astappendraaibank",
+              "text": "HYT behaalde opnieuw een nationale primeur met de ontwikkeling en levering van de eerste in India ontwikkelde onderloopdraaibank (putdraaibank) en de draai- en rolpolijstbank voor astappen."
+            }
+          ]
+        },
+        {
+          "type": "timeline",
+          "layout": "split",
+          "id": "era-2000s",
+          "eyebrow": "Periode · jaren 2000",
+          "heading": "Het CNC-tijdperk en wereldwijd bereik",
+          "items": [
+            {
+              "year": "2001",
+              "tag": "Uitbreiding van de groep",
+              "title": "Oprichting van HYT Innovative Projects Pvt. Ltd.",
+              "text": "HYT breidde de groep uit met de oprichting van zusterbedrijf HYT Innovative Projects Pvt. Ltd., gespecialiseerd in de productie van precisiebuizen met flowforming-technologie, in een vestiging van 4.500 m² met meer dan 50 medewerkers."
+            },
+            {
+              "year": "2001",
+              "tag": "Technologische vernieuwing",
+              "title": "Van conventionele naar CNC-machines",
+              "text": "HYT voltooide een ingrijpende overstap van conventionele machines naar CNC en ontwikkelde en leverde de CNC-vloerwielenbank en de CNC-verticale draaibank – en positioneerde zich daarmee als technologiegedreven engineeringbedrijf dat aansluit bij wereldwijde productienormen."
+            },
+            {
+              "year": "2004",
+              "tag": "HYT gaat internationaal",
+              "title": "Exportorder – SMH Rail Sdn. Bhd., Maleisië",
+              "text": "Een bepalende mijlpaal. HYT ontving een internationale order van SMH Rail Sdn. Bhd. in Maleisië – het begin van de wereldwijde aanwezigheid van het bedrijf en van zijn ontwikkeling tot internationaal erkende exporteur van werktuigmachines."
+            },
+            {
+              "year": "2005",
+              "tag": "Strategisch project",
+              "title": "Revisie van een machine voor de bouw van onderzeeërs – Mazagon Dock Ltd.",
+              "text": "HYT toonde zijn veelzijdigheid door met succes een machine voor de bouw van onderzeeërs te reviseren voor Mazagon Dock Ltd., en breidde zijn expertise daarmee uit van het spoor naar defensie en zware industrie."
+            },
+            {
+              "year": "2007",
+              "tag": "Grote order",
+              "title": "Order van Larsen & Toubro",
+              "text": "HYT ontving een historische order van Larsen & Toubro voor de levering van machines voor de productie van wielschijven – een van de grootste afzonderlijke orders, die de positie van HYT verstevigde."
+            },
+            {
+              "year": "2009",
+              "tag": "Een primeur voor India",
+              "title": "Automatische treinwasinstallatie – Kurla, Mumbai",
+              "text": "HYT ontwikkelde en leverde de eerste automatische treinwasinstallatie van India voor Indian Railways in Kurla, Mumbai – een nieuwe productcategorie, die liet zien dat het bedrijf ook buiten wielenbanken kon innoveren in bredere spoorinfrastructuur."
+            }
+          ],
+          "variant": "muted"
+        },
+        {
+          "type": "timeline",
+          "layout": "split",
+          "id": "era-2010s",
+          "eyebrow": "Periode · jaren 2010",
+          "heading": "Toonaangevend in turnkey en internationale groei",
+          "items": [
+            {
+              "year": "2010",
+              "tag": "Technologische vernieuwing",
+              "title": "CNC-verticale draai- en boormachine",
+              "text": "HYT ontwikkelde en leverde de CNC-verticale draai- en boormachine – een zeer nauwkeurige machine voor onderdelen met een grote diameter, die de markt en de technische mogelijkheden van het bedrijf aanzienlijk vergrootte."
+            },
+            {
+              "year": "2011",
+              "tag": "Eerste EPC-project",
+              "title": "Productiefaciliteit voor LHB-rijtuigbakken – ICF Chennai",
+              "text": "HYT betrad het domein van turnkey-EPC met zijn eerste grote infrastructuurproject: de inrichting van een productiefaciliteit voor LHB-rijtuigbakken voor de Integral Coach Factory in Chennai. Daarmee groeide het bedrijf van leverancier van werktuigmachines uit tot aanbieder van complete infrastructuuroplossingen."
+            },
+            {
+              "year": "2013",
+              "tag": "Recordorder",
+              "title": "Grootste order ooit voor CNC-vloerwielenbanken – 36 machines",
+              "text": "HYT ontving zijn grootste afzonderlijke order voor CNC-vloerwielenbanken, voor 36 machines – een bewijs van de omvang van de vraag naar de vlaggenschipproducten van het bedrijf binnen Indian Railways."
+            },
+            {
+              "year": "2013",
+              "tag": "Leiderschap",
+              "title": "Mevrouw Rajashri Teli benoemd tot Whole Time Director",
+              "text": "Mevrouw Rajashri Bhojraj Teli werd benoemd tot Whole Time Director en bracht een vooruitstrevende bedrijfsstrategie mee die de groep aanzienlijke groei en internationale erkenning zou opleveren."
+            },
+            {
+              "year": "2014",
+              "tag": "Productmijlpaal",
+              "title": "CNC-portaalwielenbank – North Central Railway, Jhansi",
+              "text": "HYT leverde de CNC-portaalwielenbank aan de wagenwerkplaats van North Central Railway in Jhansi, voegde daarmee een nieuwe variant aan zijn wielenbankportfolio toe en versterkte de relatie met Indian Railways."
+            },
+            {
+              "year": "2015",
+              "tag": "Productmijlpaal",
+              "title": "CNC-onderloopdraaibanken – Chennai Metro",
+              "text": "HYT betrad het metrosegment met de levering van CNC-onderloopdraaibanken aan Chennai Metro – de eerste van vele metro-opdrachten die HYT tot voorkeursleverancier maakten voor het groeiende stedelijke spoornet van India."
+            },
+            {
+              "year": "2015",
+              "tag": "Make in India",
+              "title": "Rail-wegvoertuig (rangeervoertuig) ontwikkeld met BEMO, Nederland",
+              "text": "HYT ontwikkelde het rail-wegvoertuig (rangeervoertuig) in het kader van een Make in India-initiatief, in samenwerking met BEMO uit Nederland – een veelzijdig voertuig voor werkzaamheden op spoorwegemplacementen."
+            },
+            {
+              "year": "2015",
+              "tag": "Infrastructuur",
+              "title": "Duurzaam hoofdkantoor (Green Building) in Pune geopend",
+              "text": "HYT opende zijn Green Building-hoofdkantoor in Chinchwad, Pune – een moderne, duurzame vestiging die het centrale knooppunt werd voor engineering, productie en administratie."
+            },
+            {
+              "year": "2016",
+              "tag": "Technologieoverdracht",
+              "title": "CNC-veerwikkelmachines – technologieoverdracht van TNI Spring Technologies, VS",
+              "text": "HYT bouwde en leverde de CNC-machine voor het warm wikkelen van schroefveren, de CNC-machine voor het warm aftaperen van staafeinden en de spoedcorrectiemachine voor het verenproject bij ICF Chennai, op basis van een technologieoverdracht van TNI Spring Technologies LLC uit de VS – een bewijs dat HYT internationale technologie kan overnemen en toepassen."
+            },
+            {
+              "year": "2018",
+              "tag": "OEM-levering",
+              "title": "Levering aan Alstom en GE Diesel Locomotive Pvt. Ltd.",
+              "text": "HYT leverde onderloopdraaibanken van de nieuwe generatie aan Alstom en GE Diesel Locomotive Pvt. Ltd. en trad daarmee toe tot de internationale OEM-toeleveringsketen van fabrikanten van rollend materieel."
+            },
+            {
+              "year": "2018",
+              "tag": "Servicemodel",
+              "title": "Wet leasing (Machine as a Service) – ICF Chennai",
+              "text": "HYT introduceerde als eerste een wet-leasingcontract voor ICF Chennai en nam de volledige verantwoordelijkheid voor levering, inbedrijfstelling, bediening en onderhoud – een servicemodel dat uniek was in de Indiase sector van spoorwegmachines. Zie [wet leasing](page:wet-leasing)."
+            },
+            {
+              "year": "2019",
+              "tag": "Overname van SAFOP",
+              "title": "Overname van SAFOP S.p.A., Italië – 100% dochteronderneming",
+              "text": "De belangrijkste strategische stap van HYT – de overname van SAFOP S.p.A. in Italië (opgericht in 1923) als dochteronderneming. Met meer dan 1.400 wereldwijd verkochte machines en een eeuw Italiaanse precisietechniek vergrootte SAFOP de wereldwijde aanwezigheid en het technologieportfolio van de groep aanzienlijk."
+            },
+            {
+              "year": "2019",
+              "tag": "Nationale primeur",
+              "title": "De eerste in India ontwikkelde automatische installatie voor wiel- en asassemblage – RWF Bangalore",
+              "text": "HYT ontwikkelde en bouwde de eerste in India ontwikkelde automatische installatie voor wiel- en asassemblage voor de Rail Wheel Factory in Bangalore – een mijlpaal in de automatisering van de productie van wielstellen."
+            },
+            {
+              "year": "2019",
+              "tag": "Exportmijlpaal",
+              "title": "Levering aan SNCF Frankrijk – conform Europese normen",
+              "text": "HYT ontwikkelde en leverde onderloopdraaibanken aan SNCF in Frankrijk, conform de Europese normen – een historisch exportsucces dat de kwaliteit van HYT op het wereldtoneel bevestigde."
+            }
+          ]
+        },
+        {
+          "type": "timeline",
+          "layout": "split",
+          "id": "era-2020s",
+          "eyebrow": "Periode · jaren 2020",
+          "heading": "Nieuwe horizonten",
+          "items": [
+            {
+              "year": "2020",
+              "tag": "Recordorder",
+              "title": "Order voor 27 onderloopdraaibanken – Indian Railways",
+              "text": "HYT ontving van Indian Railways een order voor 27 onderloopdraaibanken – een van de grootste afzonderlijke orders voor wielenbanken, die zijn positie als voorkeursleverancier voor de onderhoudsinfrastructuur van het rollend materieel van Indian Railways versterkte."
+            },
+            {
+              "year": "2021",
+              "tag": "Afrika",
+              "title": "CNC-onderloopdraaibank geleverd aan Gabon en CNC-vloerwielenbank aan Ghana",
+              "text": "HYT leverde en nam een CNC-onderloopdraaibank in bedrijf in Gabon, Centraal-Afrika, en richtte daar een complete wielstelwerkplaats in. Daarnaast leverde het een CNC-vloerwielenbank aan Ghana, West-Afrika – een teken van de sterke vraag op de Afrikaanse spoormarkt."
+            },
+            {
+              "year": "2021",
+              "tag": "EPC-projecten",
+              "title": "Geautomatiseerde wielstelwerkplaats in New Katni en asbewerkingslijn bij RWF Bangalore",
+              "text": "HYT voerde een EPC-project uit voor een geautomatiseerde wielstelwerkplaats in New Katni, Madhya Pradesh – een van de grootste wielonderhoudsfaciliteiten van Indian Railways – en richtte een complete asbewerkingslijn in bij de Rail Wheel Factory in Bangalore."
+            },
+            {
+              "year": "2021",
+              "tag": "Productinnovatie",
+              "title": "De eerste in India ontwikkelde tandemonderloopdraaibank",
+              "text": "HYT ontwikkelde de eerste in India ontwikkelde tandemonderloopdraaibank – een opstelling met twee machines voor wielstelwerkplaatsen met een zeer hoge doorvoer, gegund door de Delhi Metro Rail Corporation."
+            },
+            {
+              "year": "2022",
+              "tag": "Nationale primeur",
+              "title": "Eerste onderhoudsdepot voor de Vande Bharat – Shakur Basti, Northern Railway",
+              "text": "HYT richtte bij Shakur Basti, onder Northern Railway, het eerste speciale onderhoudsdepot van India voor de Vande Bharat Express in – een mijlpaal op het moment dat de semi-hogesnelheidstrein, het vlaggenschip van het land, in dienst kwam, met HYT-machines als vast onderdeel van het onderhoud."
+            },
+            {
+              "year": "2024",
+              "tag": "Productinnovatie",
+              "title": "Lijn voor assemblage en demontage van draaistellen – Dibrugarh",
+              "text": "HYT leverde in Dibrugarh een lijn voor de assemblage en demontage van draaistellen voor Northeast Frontier Railway – een geavanceerde, halfautomatische assemblageoplossing die moderne productiemethoden bracht naar een van de geografisch meest uitdagende spoorregio's van India."
+            },
+            {
+              "year": "2024",
+              "tag": "Productinnovatie",
+              "title": "Grote horizontale machines voor het onderhoud van turbinerotoren",
+              "text": "HYT en SAFOP verwierven orders voor grote horizontale machines voor het onderhoud van turbinerotoren."
+            },
+            {
+              "year": "2025",
+              "tag": "Wereldwijde aanwezigheid",
+              "title": "Vijf internationale beurzen op vier continenten",
+              "text": "HYT stond op Middle East Rail in Dubai, Eurasia Rail in Istanbul, Asia Pacific Rail in Bangkok, Africa Rail in Johannesburg en NT Expo in São Paulo – de breedste internationale presentatie van het bedrijf in één jaar."
+            },
+            {
+              "year": "2025",
+              "tag": "Wereldwijde aanwezigheid",
+              "title": "Orders uit het Midden-Oosten en Turkije",
+              "text": "HYT verwierf orders uit het Midden-Oosten en Turkije voor onderloopdraaibanken, tandemonderloopdraaibanken, asdraaibanken en verticale draaibanken."
+            },
+            {
+              "year": "2026",
+              "tag": "Erkenning",
+              "title": "Managing Director onderscheiden bij Hurun Stars of the Deccan",
+              "text": "Mevrouw Rajashri Teli, Managing Director, werd onderscheiden bij Hurun Stars of the Deccan 2026 – een erkenning van haar rol in de groei en internationale expansie van de groep."
+            },
+            {
+              "year": "2026",
+              "tag": "InnoTrans 2026",
+              "title": "HYT Group exposeert op InnoTrans 2026 in Berlijn",
+              "text": "HYT Engineering en SAFOP S.p.A. exposeerden samen als HYT Group op InnoTrans 2026 – hal 22A, stands 630 & 730, Messe Berlin, 22–25 september 2026 – en presenteerden het complete assortiment CNC-wielenbanken aan het toonaangevende publiek van de wereldwijde transporttechniek."
+            }
+          ],
+          "variant": "muted"
+        },
+        {
+          "type": "cta",
+          "heading": "Schrijf mee aan het volgende hoofdstuk",
+          "text": "Ontdek loopbaanmogelijkheden, partnerschappen of zakelijke kansen bij de HYT Group.",
+          "primary": {
+            "label": "Bekijk vacatures",
+            "page": "career"
+          },
+          "secondary": {
+            "label": "Neem contact op met ons team",
+            "page": "contact-us"
+          }
         }
       ]
     },

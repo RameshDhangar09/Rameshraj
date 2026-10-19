@@ -155,12 +155,12 @@
     },
     "surface-wheel-lathe": {
       "nav": "CNC-vloerwielenbank",
-      "title": "CNC-vloerwielenbank YSL-08, YSL-12, YSL-21",
-      "description": "CNC-vloerwielenbanken YSL-08, YSL-12 en YSL-21 van HYT: herprofileren van uitgebouwde wielstellen en remschijven op vloerniveau – geen put nodig.",
+      "title": "CNC-vloerwielenbank YSL-serie",
+      "description": "CNC-vloerwielenbanken voor het herprofileren van uitgebouwde wielstellen naar het OEM-loopvlakprofiel, met geïntegreerde meting vóór en na het bewerken.",
       "eyebrow": "Wielenbanken",
       "h1": "CNC-vloerwielenbank voor uitgebouwde wielstellen – modellen YSL-08, YSL-12 en YSL-21",
-      "lede": "Een CNC-draaibank op vloerniveau die wielprofielen herstelt en remschijven bewerkt op wielstellen die uit het voertuig zijn gehaald. Geen put, geen werk onder het spoor – alleen een vlakke fundatie in uw werkplaats.",
-      "summary": "CNC-draaibank op vloerniveau voor het herprofileren van uitgebouwde wielstellen en remschijven, leverbaar als YSL-08, YSL-12 en YSL-21.",
+      "lede": "Zeer nauwkeurig herprofileren van wielstellen die uit het rollend materieel zijn uitgebouwd – het loopvlakprofiel wordt in één geautomatiseerde cyclus weer exact volgens de OEM-specificatie hersteld.",
+      "summary": "CNC-wielenbanken op vloerniveau voor het herprofileren van uitgebouwde wielstellen naar het OEM-loopvlakprofiel – modellen YSL-08, YSL-12 en YSL-21.",
       "related": [
         "underfloor-wheel-lathe",
         "portal-wheel-lathe",
@@ -171,61 +171,51 @@
         {
           "type": "text",
           "id": "overview",
-          "eyebrow": "Over de machine",
-          "heading": "Herprofileren op vloerniveau",
+          "eyebrow": "Productoverzicht",
+          "heading": "Wat is de CNC-vloerwielenbank?",
           "paragraphs": [
-            "Veel werkplaatsen bouwen de wielstellen toch al uit het voertuig – bij de revisie van draaistellen, na een wielwissel of bij onderhoud aan asbussen en lagers. Voor hen levert bewerken in een put onder het spoor geen voordeel op. Een vloerwielenbank doet het werk op vloerniveau, waar het wielstel goed bereikbaar is en eenvoudig te inspecteren en te hanteren.",
-            "Het wielstel wordt over rails de machine in gerold, in de bewerkingspositie geheven en opgespannen. Beide wielen worden gemeten en naar het voorgeschreven profiel gedraaid; geschikte configuraties bewerken in dezelfde opspanning ook wiel- of asremschijven.",
-            "**Vloer of onderloop?** Een [onderloopdraaibank](page:underfloor-wheel-lathe) herprofileert de wielen terwijl het wielstel in het voertuig blijft. Dat bespaart demontage, maar vraagt om een put onder het spoor. Een vloerwielenbank heeft geen put nodig en past bij werkplaatsen waar wielstellen bij het reguliere onderhoud toch uit het voertuig komen, of waar het gebouw geen civiele werken onder de sporen toelaat."
+            "De CNC-vloerwielenbank is een zeer nauwkeurige machine voor het herprofileren van wielstellen die uit het rollend materieel zijn uitgebouwd en buiten het voertuig worden bewerkt.",
+            "Naarmate spoorwegwielen langer over het spoor rijden, slijten hun loopvlakprofielen ongelijkmatig. Dat veroorzaakt trillingen, geluid, een lagere remwerking en veiligheidsrisico's. De CNC-vloerwielenbank herstelt het profiel van elk wiel in één geautomatiseerde cyclus weer exact volgens de OEM-specificatie.",
+            "Wielstellen van alle soorten rollend materieel – locomotieven, rijtuigen, wagons, metrotreinen en elektrische treinstellen – kunnen op deze draaibank worden bewerkt. Een volledig geïntegreerd meetsysteem vóór en na het bewerken zorgt ervoor dat elk wiel binnen exacte toleranties wordt bewerkt, met minimale materiaalafname en een langere levensduur van het wiel."
           ],
           "image": "products/surface-wheel-lathe",
-          "image_alt": "Voorbeeldillustratie van een CNC-vloerwielenbank op vloerniveau met een uitgebouwd wielstel in de bewerkingspositie",
+          "image_alt": "HYT CNC-vloerwielenbank YSL-08 met een wielstel in de machine",
           "layout": "image-right"
         },
         {
           "type": "features",
           "id": "advantages",
           "eyebrow": "Belangrijkste voordelen",
-          "heading": "Waarom werkplaatsen voor een vloerwielenbank kiezen",
-          "cols": 3,
+          "heading": "Waarom kiezen voor de YSL-serie?",
+          "cols": 2,
           "items": [
             {
+              "icon": "arrow-left-right",
+              "title": "Automatisch in- en uitrollen van wielstellen",
+              "text": "Een geïntegreerde dwarsverschuifinrichting voert wielstellen aan en af voor een hogere productiviteit."
+            },
+            {
               "icon": "bricks",
-              "title": "Geen put nodig",
-              "text": "Opgesteld op een vlakke fundatie op vloerniveau; dat vereenvoudigt de civiele werken en past goed in bestaande gebouwen."
-            },
-            {
-              "icon": "disc",
-              "title": "Wielen en remschijven",
-              "text": "Geschikte configuraties bewerken remschijven in dezelfde opspanning als het wielprofiel – de YSL-08 van 250 tot 700 mm diameter."
-            },
-            {
-              "icon": "eye",
-              "title": "Vrije toegang",
-              "text": "Het hele wielstel is zichtbaar en binnen handbereik voor inspectie, meting en gereedschapswissel."
+              "title": "Zware constructie van fijnkorrelig gietijzer",
+              "text": "Zorgt voor maximale stijfheid en trillingsdemping."
             },
             {
               "icon": "rulers",
-              "title": "Eerst meten, dan verspanen",
-              "text": "De wielmaten worden eerst vastgelegd, zodat de CNC alleen het materiaal wegneemt dat nodig is om het profiel te herstellen."
+              "title": "Intelligente CNC-slijtagemeting",
+              "text": "Houdt de snedediepte optimaal voor een constante bewerkingsnauwkeurigheid."
             },
             {
-              "icon": "arrows-expand",
-              "title": "Ruim bereik aan wielstellen",
-              "text": "De YSL-08 verwerkt aslengten van 1200 tot 2750 mm, afhankelijk van de spoorwijdte – handig voor werkplaatsen met een gemengde vloot."
-            },
-            {
-              "icon": "lightning-charge",
-              "title": "Vermogen afgestemd op uw wielen",
-              "text": "De YSL-08 heeft twee hoofdaandrijvingsopties, zodat het snijvermogen kan worden afgestemd op de wielhardheid en de gebruikelijke slijtage."
+              "icon": "wifi",
+              "title": "Diagnose op afstand",
+              "text": "Maakt snellere storingsanalyse en deskundige technische ondersteuning mogelijk."
             }
           ]
         },
         {
           "type": "specs",
           "id": "specifications",
-          "heading": "Technische specificaties",
-          "intro": "Gepubliceerde gegevens voor de YSL-08. De gegevens voor de YSL-12 en YSL-21 ontvangt u bij de technische offerte.",
+          "heading": "Technische gegevens",
+          "intro": "Technische gegevens van de drie modellen van de serie. Elke machine wordt geconfigureerd op uw spoorwijdte, wielprofielen en voertuigen.",
           "columns": [
             "Parameter",
             "YSL-08",
@@ -234,67 +224,103 @@
           ],
           "rows": [
             [
-              "Machinetype",
-              "CNC-vloerwielenbank",
-              "CNC-vloerwielenbank",
-              "CNC-vloerwielenbank"
+              "Machineconfiguratie",
+              "Wielstel uitgebouwd uit het voertuig; beide wielen tegelijk geherprofileerd",
+              "Wielstel uitgebouwd uit het voertuig; beide wielen tegelijk geherprofileerd",
+              "Wielstel uitgebouwd uit het voertuig; één gereedschapsslede"
             ],
             [
-              "Loopcirkeldiameter, maximaal",
-              "1250 mm",
-              "Op aanvraag",
-              "Op aanvraag"
+              "Vermogen hoofdaandrijving",
+              "2 × 45 of 55 kW",
+              "2 × 37 kW",
+              "1 × 22 kW"
             ],
             [
-              "Loopcirkeldiameter, minimaal",
-              "Op aanvraag*",
-              "Op aanvraag",
-              "Op aanvraag"
+              "Snijsnelheid bij profileren",
+              "25–80 m/min",
+              "25–80 m/min",
+              "25–80 m/min"
+            ],
+            [
+              "Voeding gereedschapsslede bij wielprofileren",
+              "0,1–3,5 mm/omw",
+              "0,1–3,5 mm/omw",
+              "0,1–3,5 mm/omw"
+            ],
+            [
+              "IJlgang gereedschapsslede, beide assen",
+              "3000 mm/min",
+              "3000 mm/min",
+              "3000 mm/min"
+            ],
+            [
+              "Max. spaandoorsnede / materiaalafname bij profileren",
+              "20 mm²",
+              "16 mm²",
+              "10 mm²"
+            ],
+            [
+              "Cyclustijd per wielstel (van vloer tot vloer)",
+              "14–16 min",
+              "16–18 min",
+              "50–60 min"
+            ],
+            [
+              "Spoorwijdte",
+              "Naar behoefte",
+              "Naar behoefte",
+              "Naar behoefte"
+            ],
+            [
+              "Loopcirkeldiameter, max. / min.",
+              "1250 mm / 750 mm (afhankelijk van de spoorwijdte)",
+              "1250 mm / 750 mm (afhankelijk van de spoorwijdte)",
+              "1250 mm / 750 mm (afhankelijk van de spoorwijdte)"
             ],
             [
               "Wielbreedte",
               "75–145 mm",
-              "Op aanvraag",
-              "Op aanvraag"
+              "75–145 mm",
+              "75–145 mm"
             ],
             [
-              "Aslengte",
-              "1200–2750 mm*",
-              "Op aanvraag",
-              "Op aanvraag"
+              "Max. aslast / gewicht wielstel",
+              "50 kN gewicht wielstel",
+              "50 kN gewicht wielstel",
+              "–"
             ],
             [
-              "Maximaal wielstelgewicht",
-              "50 kN",
-              "Op aanvraag",
-              "Op aanvraag"
+              "Diameterverschil tussen beide wielen",
+              "< 0,15 mm",
+              "< 0,3 mm",
+              "< 0,5 mm"
             ],
             [
-              "Bewerkingsdiameter remschijf",
-              "250–700 mm",
-              "Op aanvraag",
-              "Op aanvraag"
+              "Nauwkeurigheid wielprofiel ten opzichte van standaardkaliber",
+              "< 0,2 mm",
+              "< 0,2 mm",
+              "< 0,3 mm"
             ],
             [
-              "Hoofdaandrijving",
-              "2 × 45 kW of 2 × 55 kW",
-              "Op aanvraag",
-              "Op aanvraag"
+              "Radiale slingering van het wiel",
+              "< 0,2 mm",
+              "< 0,3 mm",
+              "< 0,3 mm"
             ],
             [
-              "Snijsnelheid",
-              "25–80 m/min",
-              "Op aanvraag",
-              "Op aanvraag"
+              "Axiale slingering van het wiel",
+              "< 0,2 mm",
+              "< 0,3 mm",
+              "< 0,3 mm"
             ],
             [
-              "Spoorwijdte",
-              "Volgens klantspecificatie*",
-              "Volgens klantspecificatie*",
-              "Volgens klantspecificatie*"
+              "Oppervlakteruwheid profiel",
+              "< 12,5 μm Ra",
+              "< 12,5 μm Ra",
+              "< 12,5 μm Ra"
             ]
           ],
-          "note": "Met * gemarkeerde waarden zijn afhankelijk van de spoorwijdte en de klantconfiguratie. De definitieve waarden, inclusief de minimale loopcirkeldiameter, worden in de technische offerte bevestigd."
+          "note": "„–” betekent dat voor dat model geen waarde is gepubliceerd. De definitieve waarden worden in de technische offerte bevestigd."
         },
         {
           "type": "text",
@@ -302,7 +328,7 @@
           "eyebrow": "Modellen",
           "heading": "YSL-08",
           "paragraphs": [
-            "De YSL-08 is het referentiemodel van de serie. Hij verwerkt wielstellen met loopcirkeldiameters tot 1250 mm, wielbreedten van 75–145 mm en een gewicht tot 50 kN, en bewerkt remschijven met een diameter van 250 tot 700 mm. Met een hoofdaandrijving van 2 × 45 kW of 2 × 55 kW en snijsnelheden van 25–80 m/min stemt u de machine af op de wielen die u het vaakst herprofileert."
+            "De YSL-08 is het model met de hoogste capaciteit van de serie. Twee gereedschapssleden herprofileren beide wielen tegelijk, aangedreven door een hoofdaandrijving van 2 × 45 of 55 kW met een spaandoorsnede tot 20 mm². Een wielstel is van vloer tot vloer in 14–16 minuten gereed, met een diameterverschil tussen beide wielen van minder dan 0,15 mm."
           ]
         },
         {
@@ -311,8 +337,11 @@
           "eyebrow": "Modellen",
           "heading": "YSL-12",
           "paragraphs": [
-            "De YSL-12 is een volgend model in de serie vloerwielenbanken. Capaciteiten en configuratie worden tijdens de aanvraag samen met u vastgelegd en in de technische offerte bevestigd. Geef ons de grootste, kleinste en zwaarste wielstellen in uw vloot door, dan laten we u weten of de YSL-12 de juiste keuze is."
-          ]
+            "Ook de YSL-12 herprofileert beide wielen tegelijk, met een hoofdaandrijving van 2 × 37 kW en een spaandoorsnede tot 16 mm². Hij bestrijkt dezelfde loopcirkeldiameters (750–1250 mm) en wielbreedten (75–145 mm) als de YSL-08, met een tijd van vloer tot vloer van 16–18 minuten per wielstel."
+          ],
+          "image": "products/surface-wheel-lathe-ysl-12",
+          "image_alt": "HYT CNC-vloerwielenbank YSL-12 met een wielstel opgespannen tussen de spilkasten",
+          "layout": "image-right"
         },
         {
           "type": "text",
@@ -320,13 +349,11 @@
           "eyebrow": "Modellen",
           "heading": "YSL-21",
           "paragraphs": [
-            "De YSL-21 maakt de serie compleet. Net als bij de YSL-12 zijn de technische gegevens op aanvraag beschikbaar. Laat ons weten welke voertuigen en wielprofielen de machine moet dekken, dan sturen wij u de gegevens samen met een modeladvies voor uw werkplaats."
-          ]
-        },
-        {
-          "type": "notice",
-          "variant": "review",
-          "text": "In afwachting van input van HYT: technische gegevens voor de YSL-12 en YSL-21, en bevestiging van de minimale loopcirkeldiameter van de YSL-08 (bronnen noemen 750 mm en 540 mm)."
+            "De YSL-21 werkt met één gereedschapsslede en een hoofdaandrijving van 1 × 22 kW, met een spaandoorsnede tot 10 mm². Hij verwerkt loopcirkeldiameters van 750–1250 mm en wielbreedten van 75–145 mm, met een tijd van vloer tot vloer van 50–60 minuten per wielstel."
+          ],
+          "image": "products/surface-wheel-lathe-ysl-21",
+          "image_alt": "HYT CNC-vloerwielenbank YSL-21",
+          "layout": "image-left"
         },
         {
           "type": "steps",
@@ -425,15 +452,15 @@
           "items": [
             {
               "image": "products/surface-wheel-lathe",
-              "caption": "Voorbeeldillustratie van een CNC-vloerwielenbank op vloerniveau"
+              "caption": "HYT CNC-vloerwielenbank YSL-08 met een wielstel in de machine"
             },
             {
-              "image": "products/wheelset-profile-closeup",
-              "caption": "Voorbeeldillustratie van een geherprofileerd loopvlak en flens"
+              "image": "products/surface-wheel-lathe-ysl-12",
+              "caption": "HYT CNC-vloerwielenbank YSL-12"
             },
             {
-              "image": "projects/railway-wheel-shop",
-              "caption": "Voorbeeldillustratie van wielstelhandling in een wielstelwerkplaats"
+              "image": "products/surface-wheel-lathe-ysl-21",
+              "caption": "HYT CNC-vloerwielenbank YSL-21"
             },
             {
               "image": "company/quality-inspection",
@@ -452,7 +479,7 @@
             },
             {
               "q": "Welk model moet ik kiezen?",
-              "a": "Ga uit van uw grootste loopcirkeldiameter, langste as en zwaarste wielstel. De YSL-08 dekt loopcirkeldiameters tot 1250 mm en wielstellen tot 50 kN. Gegevens voor de YSL-12 en YSL-21 ontvangt u op aanvraag, samen met ons advies."
+              "a": "Ga uit van uw grootste loopcirkeldiameter, zwaarste wielstel en dagelijkse aantallen. Alle drie de modellen verwerken loopcirkeldiameters van 750–1250 mm (afhankelijk van de spoorwijdte) en wielbreedten van 75–145 mm. De YSL-08 heeft de kortste cyclus (14–16 minuten van vloer tot vloer), de YSL-12 volgt met 16–18 minuten en de YSL-21 met één gereedschapsslede met 50–60 minuten. Met ons advies bevestigen we het juiste model."
             },
             {
               "q": "Kunnen ook remschijven worden bewerkt?",
@@ -473,10 +500,10 @@
     "underfloor-wheel-lathe": {
       "nav": "CNC-onderloopdraaibank (YUL-08)",
       "title": "CNC-onderloopdraaibank YUL-08 voor wielstellen",
-      "description": "CNC-onderloopdraaibank YUL-08 van HYT: herprofileert beide wielen van een wielstel in het voertuig, zonder draaistellen of remwerk uit te bouwen. 4 × 15 kW.",
+      "description": "CNC-onderloopdraaibank voor het bewerken van wielstellen in het voertuig. Vier aandrijfrollen van 15 kW, loopcirkeldiameters tot 1500 mm en aslasten tot 400 kN.",
       "eyebrow": "Wielenbanken",
       "h1": "CNC-onderloopdraaibank YUL-08 – herprofileren per as zonder draaistellen uit te bouwen",
-      "lede": "De YUL-08 herprofileert versleten wielen terwijl het wielstel in het voertuig blijft. Treinen worden over de put getrokken, bewerkt en binnen één dienst weer in bedrijf genomen – vaak al binnen enkele uren.",
+      "lede": "Gelijktijdig herprofileren van beide wielen van een wielstel in het voertuig – zonder het wielstel, het remwerk van het draaistel of de asbusdeksels van het voertuig te demonteren.",
       "summary": "Putdraaibank voor één as die beide wielen van een wielstel in het voertuig herprofileert, zonder draaistellen uit te bouwen of remwerk te demonteren.",
       "related": [
         "underfloor-wheel-lathe-yugl",
@@ -488,100 +515,145 @@
         {
           "type": "text",
           "id": "overview",
-          "eyebrow": "Over de machine",
-          "heading": "Wielonderhoud zonder de trein uit elkaar te halen",
+          "eyebrow": "Productoverzicht",
+          "heading": "Wat is de CNC-onderloopdraaibank?",
           "paragraphs": [
-            "Vlakke plekken, holle loopvlakken en dunne flenzen horen nu eenmaal bij het spoorbedrijf. De traditionele oplossing – draaistel uitbouwen, wielstel eruit halen en naar de wielstelwerkplaats sturen – kost dagen aan beschikbaarheid en veel arbeid. De YUL-08 brengt de machine in plaats daarvan naar het wielstel.",
-            "De draaibank is opgesteld in een put onder een recht spoorgedeelte, tilt de as met eigen aandrijfrollen van de spoorstaven, spant de asbus stevig op en bewerkt beide wielen tegelijk. Remwerk, tractiemotoren en draaistelframes blijven op hun plaats. Na afloop van de cyclus wordt het wielstel weer op de spoorstaven neergelaten en wordt de volgende as boven de machine gepositioneerd.",
-            "Omdat het voertuig gekoppeld en gemonteerd blijft, kan één YUL-08 een grote vloot binnen de profieltoleranties houden en de tijd verkorten dat elke trein buiten dienst is."
+            "De CNC-onderloopdraaibank (model YUL-08) is een automatische machine voor het gelijktijdig herprofileren van nieuwe of versleten wielen van spoorvoertuigen in het voertuig. Wielstellen van locomotieven, rijtuigen, wagons, trams en metrovoertuigen kunnen worden bewerkt terwijl ze in het rollend materieel gemonteerd blijven, en remschijven op die wielstellen kunnen op dezelfde machine worden bewerkt.",
+            "De machine is opgesteld in een put onder spoorniveau, tilt en centreert het wielstel op vier gesynchroniseerde aandrijfrollen en herprofileert vervolgens beide wielen tegelijk met twee CNC-gereedschapssleden. Elke rol is via een zware reductiekast verbonden met een AC-motor van 15 kW, en digitale frequentieregelaars zorgen voor een traploze toerentalregeling, zodat de machine ook door harde plekken en slipplekken heen kan snijden.",
+            "De aandrijfrollen zweven afzonderlijk om onregelmatigheden van het wiel te compenseren en continu contact te houden, terwijl een afzonderlijke vijzel- en neerhoudinrichting de as of de asbus stijf ondersteunt en opspant. Tasters meten profiel en diameter vóór en na het draaien, en de CNC-software gebruikt die slijtagegegevens om de meest economische snedediepte voor te stellen."
           ],
           "image": "products/underfloor-wheel-lathe-yul-08",
-          "image_alt": "Voorbeeldillustratie van de YUL-08-onderloopdraaibank in een put, met een locomotiefwielstel op de aandrijfrollen",
+          "image_alt": "HYT CNC-onderloopdraaibank YUL-08 met een wielstel op de aandrijfrollen",
           "layout": "image-right"
         },
         {
           "type": "features",
           "id": "advantages",
           "eyebrow": "Belangrijkste voordelen",
-          "heading": "Waarom werkplaatsen voor een onderloopdraaibank kiezen",
+          "heading": "Waarom kiezen voor de YUL-08?",
           "cols": 3,
           "items": [
             {
-              "icon": "clock-history",
-              "title": "Korte doorlooptijd",
-              "text": "Geen draaistellen of wielstellen uitbouwen, zodat voertuigen binnen dezelfde dienst weer in de dienstregeling terugkeren."
+              "icon": "train-front",
+              "title": "Bewerken in het voertuig",
+              "text": "Herprofileert wielstellen zonder ze uit het voertuig te verwijderen, zodat het remwerk van het draaistel en de asbusdeksels op hun plaats blijven."
             },
             {
-              "icon": "arrows-collapse",
-              "title": "Beide wielen tegelijk",
-              "text": "Linker- en rechterwiel worden gelijktijdig bewerkt, met diameters die binnen de vereiste tolerantie op elkaar aansluiten."
+              "icon": "bricks",
+              "title": "Constructie van fijnkorrelig gietijzer",
+              "text": "Zorgt voor maatvastheid en constructieve stabiliteit met een effectieve trillingsdemping."
+            },
+            {
+              "icon": "arrow-down-up",
+              "title": "Afzonderlijk zwevende aandrijfrollen",
+              "text": "Compenseren onregelmatigheden van het wiel en houden tijdens de hele snede continu contact."
             },
             {
               "icon": "rulers",
-              "title": "Minimale materiaalafname",
-              "text": "Door automatisch te meten vóór het verspanen neemt de CNC alleen de diepte weg die nodig is om het profiel te herstellen."
+              "title": "Elektronische slijtagemeting",
+              "text": "De CNC-software verwerkt de slijtagegegevens en stelt de meest economische snedediepte voor."
             },
             {
-              "icon": "train-front",
-              "title": "Eén machine, gemengde vloot",
-              "text": "Locomotieven, rijtuigen, treinstellen en wagons met passende adapters en opgeslagen profielprogramma's."
+              "icon": "lock",
+              "title": "Afzonderlijke vijzel- en neerhoudinrichting",
+              "text": "Stijve ondersteuning en opspanning van de as of de asbus, geschikt voor voertuigen met hogere aslasten."
             },
             {
-              "icon": "shield-check",
-              "title": "Veilige bediening",
-              "text": "Afgeschermde werkzone, vergrendelingen en overzichtelijke bediening op spoorniveau."
+              "icon": "disc",
+              "title": "Optioneel bewerken van remschijven",
+              "text": "Snelwisselgereedschap en adapters verwijderen oneffenheden van de remschijven aan beide zijden in dezelfde opspanning."
             },
             {
-              "icon": "gear-wide-connected",
-              "title": "Gebouwd voor service",
-              "text": "Standaard industriële componenten en de reserveonderdelenservice van HYT houden de stilstand laag."
+              "icon": "wifi",
+              "title": "Diagnose op afstand en teleservice",
+              "text": "Software met open architectuur op Windows-basis maakt onderhoud op afstand vanuit het hoofdkantoor van HYT mogelijk."
             }
           ]
         },
         {
           "type": "specs",
           "id": "specifications",
-          "heading": "Technische specificaties",
-          "intro": "Kerngegevens voor de standaardconfiguratie. De machine wordt aangepast aan de spoorwijdte, wielprofielen en voertuigtypen van de klant.",
+          "heading": "Technische gegevens",
+          "intro": "Technische gegevens van HYT. Elke machine wordt geconfigureerd op uw spoorwijdte, wielprofielen en voertuigen.",
           "columns": [
             "Parameter",
             "YUL-08"
           ],
           "rows": [
             [
-              "Machinetype",
-              "CNC-onderloopdraaibank (putdraaibank), één as"
+              "Machineconfiguratie",
+              "Enkele onderloopdraaibank; wielstel in het voertuig bewerkt, inclusief op het wielstel gemonteerde remschijven"
             ],
             [
               "Vermogen hoofdaandrijving",
-              "4 × 15 kW"
+              "4 × 15 kW op wrijvingsrollen"
             ],
             [
-              "Gelijktijdig bewerkte wielen",
-              "2 (één wielstel)"
+              "Snijsnelheid bij profileren",
+              "20–120 m/min"
             ],
             [
-              "Bereik loopcirkeldiameter",
-              "Op aanvraag*"
+              "Voeding gereedschapsslede bij wielprofileren",
+              "0,1–2,5 mm/omw"
+            ],
+            [
+              "IJlgang gereedschapsslede, beide assen",
+              "3000 mm/min"
+            ],
+            [
+              "Max. spaandoorsnede / materiaalafname bij profileren",
+              "10 mm²"
+            ],
+            [
+              "Cyclustijd per wielstel",
+              "35 minuten"
             ],
             [
               "Spoorwijdte",
-              "Breedspoor, normaalspoor of meterspoor – volgens klantspecificatie*"
+              "Naar behoefte"
             ],
             [
-              "Maximale aslast",
-              "Op aanvraag"
+              "Loopcirkeldiameter, max. / min.",
+              "1500 mm / 540 mm (afhankelijk van de spoorwijdte)"
             ],
             [
-              "Profielen",
-              "Door de klant gespecificeerde wielprofielen, opgeslagen in de CNC"
+              "Wielbreedte",
+              "75–155 mm"
             ],
             [
-              "Meetsysteem",
-              "Automatische meting van diameter, flenshoogte en flensdikte"
+              "Afstand wielstellen, min. – max.",
+              "1800–3200 mm"
+            ],
+            [
+              "Max. aslast / gewicht wielstel",
+              "300 / 400 kN aslast"
+            ],
+            [
+              "Diameterverschil tussen beide wielen",
+              "< 0,10 mm"
+            ],
+            [
+              "Diameterverschil tussen de vier wielen van één draaistel",
+              "< 0,3 mm"
+            ],
+            [
+              "Nauwkeurigheid wielprofiel ten opzichte van standaardkaliber",
+              "< 0,2 mm"
+            ],
+            [
+              "Radiale slingering van het wiel",
+              "< 0,1 mm"
+            ],
+            [
+              "Axiale slingering van het wiel",
+              "< 0,15 mm"
+            ],
+            [
+              "Oppervlakteruwheid profiel",
+              "< 12,5 μm Ra"
             ]
           ],
-          "note": "Met * gemarkeerde waarden zijn afhankelijk van de spoorwijdte en de klantconfiguratie. De definitieve waarden worden in de technische offerte bevestigd."
+          "note": "Waarden die afhankelijk zijn van de spoorwijdte zijn in de tabel aangegeven. De definitieve waarden worden in de technische offerte bevestigd."
         },
         {
           "type": "steps",
@@ -680,7 +752,7 @@
           "items": [
             {
               "image": "products/underfloor-wheel-lathe-yul-08",
-              "caption": "Voorbeeldillustratie van de YUL-08, geïnstalleerd in een onderhoudsput"
+              "caption": "HYT CNC-onderloopdraaibank YUL-08 met een wielstel op de aandrijfrollen"
             },
             {
               "image": "products/wheelset-profile-closeup",
@@ -727,12 +799,12 @@
     },
     "underfloor-wheel-lathe-yugl": {
       "nav": "CNC-onderloopdraaibank (YUGL)",
-      "title": "CNC-onderloopdraaibank YUGL – geautomatiseerd platform",
-      "description": "CNC-onderloopdraaibank YUGL van HYT: herprofileren van wielstellen in het voertuig op een platform voor een hogere automatiseringsgraad. Verwant aan de YUL-08.",
+      "title": "CNC-onderloopdraaibank YUGL",
+      "description": "De vlaggenschip-onderloopdraaibank van HYT herprofileert beide wielen van een wielstel tegelijk, zonder het wielstel uit het rollend materieel te verwijderen.",
       "eyebrow": "Wielenbanken",
-      "h1": "CNC-onderloopdraaibank YUGL – het onderloopplatform van de volgende generatie voor meer automatisering",
-      "lede": "Net als de YUL-08 herprofileert de YUGL wielstellen terwijl ze in het voertuig blijven. De machine is bedoeld voor depots die een groter deel van de cyclus – positioneren, meten en data – automatisch willen laten verlopen.",
-      "summary": "Onderloopdraaibank van de volgende generatie voor herprofileren in het voertuig, bedoeld voor depots die een hogere automatiseringsgraad wensen.",
+      "h1": "CNC-onderloopdraaibank YUGL – het vlaggenschip van HYT voor het herprofileren van wielen in het voertuig",
+      "lede": "Het vlaggenschip onder de wielenbanken van HYT – gelijktijdig herprofileren van beide wielen van een wielstel zonder het wielstel uit het rollend materieel te verwijderen.",
+      "summary": "Vlaggenschip-onderloopdraaibank van HYT: herprofileert beide wielen van een wielstel tegelijk zonder het uit het rollend materieel te verwijderen.",
       "related": [
         "underfloor-wheel-lathe",
         "tandem-underfloor-wheel-lathe-yuglx",
@@ -743,109 +815,154 @@
         {
           "type": "text",
           "id": "overview",
-          "eyebrow": "Over de machine",
-          "heading": "Hetzelfde principe, meer automatisering",
+          "eyebrow": "Productoverzicht",
+          "heading": "Wat is de CNC-onderloopdraaibank?",
           "paragraphs": [
-            "Zoals elke onderloopdraaibank wordt de YUGL in een put onder het spoor opgesteld. Het voertuig wordt over de machine getrokken, het wielstel wordt van de spoorstaven getild en beide wielen worden geherprofileerd terwijl remwerk, tractiemotoren en draaistelframes op hun plaats blijven.",
-            "Waar de [YUL-08](page:underfloor-wheel-lathe) de beproefde machine voor één as van HYT is, is de YUGL gepositioneerd als platform van de volgende generatie. Hij is bedoeld voor depots waar de draaibank vele cycli per dag draait, operators per dienst wisselen en bewerkingsgegevens moeten doorstromen naar de onderhoudsadministratie. Automatiseringsgraad, meetapparatuur en data-interfaces worden per klant afgestemd.",
-            "Twijfelt u tussen beide modellen? Onze applicatie-engineers zetten de verschillen voor uw vloot, werklast en depotsystemen voor u op een rij."
+            "De CNC-onderloopdraaibank (model YUGL) is het vlaggenschip van HYT – een automatische machine voor het gelijktijdig profileren van nieuwe of versleten wielen van spoorvoertuigen, zonder de wielstellen uit het rollend materieel te verwijderen.",
+            "De machine is opgesteld in een put onder spoorniveau, tilt en centreert elk wielstel met gesynchroniseerde aandrijfrollen en herprofileert vervolgens beide wielen tegelijk en nauwkeurig met twee CNC-gereedschapssleden, waarbij het loopvlakprofiel weer volgens de oorspronkelijke specificatie wordt hersteld.",
+            "Wielstellen van alle soorten rollend materieel – locomotieven, rijtuigen, wagons, metrotreinen en elektrische treinstellen – kunnen in gemonteerde toestand op deze machine worden gedraaid. Een volledig geïntegreerd meetsysteem vóór en na het bewerken zorgt ervoor dat elk wiel binnen exacte toleranties wordt bewerkt, met minimale materiaalafname en een langere levensduur van het wiel."
           ],
           "image": "products/underfloor-wheel-lathe-yugl",
-          "image_alt": "Voorbeeldillustratie van een YUGL-onderloopdraaibank in een depotput onder een reizigersvoertuig",
+          "image_alt": "HYT CNC-onderloopdraaibank YUGL met aandrijfrollen en twee CNC-gereedschapssleden",
           "layout": "image-right"
-        },
-        {
-          "type": "notice",
-          "variant": "review",
-          "text": "In afwachting van bevestiging door HYT: hoe de YUGL technisch verschilt van de YUL-08 (automatiseringsgraad, aandrijvingen, meetsysteem, capaciteiten) en of beide modellen leverbaar blijven. De positionering op deze pagina is voorlopig."
         },
         {
           "type": "features",
           "id": "advantages",
           "eyebrow": "Belangrijkste voordelen",
-          "heading": "Waarvoor de YUGL is ontworpen",
+          "heading": "Waarom kiezen voor de YUGL?",
           "cols": 3,
           "items": [
             {
-              "icon": "cpu",
-              "title": "Configureerbare automatisering",
-              "text": "Reeksen van positioneren tot eindmeting kunnen worden geautomatiseerd om handmatige stappen tussen de cycli te beperken."
-            },
-            {
-              "icon": "clipboard-data",
-              "title": "Bewerkingsregistratie",
-              "text": "Metingen vóór en na de bewerking worden per wielstel opgeslagen, als basis voor toestandsafhankelijk onderhoud."
-            },
-            {
-              "icon": "people",
-              "title": "Constant over alle diensten",
-              "text": "Begeleide bediening en opgeslagen profielen maken de resultaten minder afhankelijk van individuele ervaring."
-            },
-            {
-              "icon": "clock-history",
-              "title": "Geen demontage",
-              "text": "Het wielstel blijft in het voertuig, zodat treinen binnen dezelfde dienst weer inzetbaar zijn."
+              "icon": "bricks",
+              "title": "Zware constructie met dubbele kolom",
+              "text": "Gebouwd van fijnkorrelig gietijzer voor maximale stijfheid en bewerkingsnauwkeurigheid."
             },
             {
               "icon": "arrows-collapse",
-              "title": "Beide wielen samen",
-              "text": "Linker- en rechterwiel worden tegelijk bewerkt voor gelijke diameters."
+              "title": "Gesynchroniseerd heffen van het wielstel",
+              "text": "Vier aandrijfrollen tillen en centreren het wielstel automatisch, met nauwkeurige terugkoppeling."
             },
             {
-              "icon": "train-lightrail-front",
-              "title": "Gemaakt voor drukke vloten",
-              "text": "Geschikt voor metro- en treinsteldepots waar vaak wordt geherprofileerd en de onderhoudsvensters kort zijn."
+              "icon": "rulers",
+              "title": "Intelligente CNC-slijtagemeting",
+              "text": "Optimaliseert de snedediepte voor een constant wielprofiel en een langere standtijd van het gereedschap."
+            },
+            {
+              "icon": "display",
+              "title": "Centrale machinebesturing",
+              "text": "Eén bedienpost voor meten, bewerken en procesbewaking."
+            },
+            {
+              "icon": "tools",
+              "title": "Snelwisselsysteem voor gereedschap",
+              "text": "Verkort de insteltijd en verhoogt de totale productiviteit van de machine."
             }
           ]
         },
         {
           "type": "specs",
           "id": "specifications",
-          "heading": "Technische specificaties",
-          "intro": "De YUGL wordt per project geconfigureerd. De gegevens worden in de technische offerte bevestigd.",
+          "heading": "Technische gegevens",
+          "intro": "Technische gegevens van HYT. Elke machine wordt geconfigureerd op uw spoorwijdte, wielprofielen en voertuigen.",
           "columns": [
             "Parameter",
-            "YUGL"
+            "YUGL 30",
+            "YUGL 15"
           ],
           "rows": [
             [
-              "Machinetype",
-              "CNC-onderloopdraaibank (putdraaibank), één as"
+              "Machineconfiguratie",
+              "Enkele onderloopdraaibank; wielstel in het voertuig geherprofileerd, zonder demontage",
+              "Enkele onderloopdraaibank voor stedelijke voertuigen; wielstel in het voertuig geherprofileerd"
             ],
             [
-              "Gelijktijdig bewerkte wielen",
-              "2 (één wielstel)"
+              "Vermogen hoofdaandrijving",
+              "4 × 13,5 kW op wrijvingsrollen",
+              "4 × 9 kW op wrijvingsrollen"
             ],
             [
-              "Hoofdaandrijving",
-              "Op aanvraag"
+              "Snijsnelheid bij profileren",
+              "20–120 m/min (optioneel 20–300 m/min)",
+              "20–120 m/min (optioneel 20–300 m/min)"
             ],
             [
-              "Bereik loopcirkeldiameter",
-              "Op aanvraag*"
+              "Voeding gereedschapsslede bij wielprofileren",
+              "0,1–2,5 mm/omw",
+              "0,1–2,5 mm/omw"
+            ],
+            [
+              "IJlgang gereedschapsslede, beide assen",
+              "Langsslede 5000 mm/min; verticale slede 3000 mm/min",
+              "Langsslede 5000 mm/min; verticale slede 3000 mm/min"
+            ],
+            [
+              "Max. spaandoorsnede / materiaalafname bij profileren",
+              "10 mm²",
+              "6 mm²"
+            ],
+            [
+              "Cyclustijd per wielstel",
+              "30 minuten",
+              "30 minuten"
             ],
             [
               "Spoorwijdte",
-              "Volgens klantspecificatie*"
+              "1000–1676 mm",
+              "1000–1676 mm"
             ],
             [
-              "Maximale aslast",
-              "Op aanvraag"
+              "Loopcirkeldiameter, max. / min.",
+              "1600 mm / 580 mm",
+              "1250 mm / 375 mm"
             ],
             [
-              "Meetsysteem",
-              "Op aanvraag"
+              "Wielbreedte",
+              "75–155 mm",
+              "75–155 mm"
             ],
             [
-              "Automatiseringsgraad",
-              "Geconfigureerd volgens de eisen van de klant"
+              "Afstand wielstellen, min. – max.",
+              "1700–3200 mm",
+              "1700–3200 mm"
             ],
             [
-              "Data-interface met depotsystemen",
-              "Op aanvraag"
+              "Max. aslast / gewicht wielstel",
+              "30 t (40 t op aanvraag)",
+              "18 t"
+            ],
+            [
+              "Diameterverschil tussen beide wielen",
+              "< 0,10 mm",
+              "< 0,10 mm"
+            ],
+            [
+              "Diameterverschil tussen de vier wielen van één draaistel",
+              "< 0,3 mm",
+              "< 0,3 mm"
+            ],
+            [
+              "Nauwkeurigheid wielprofiel ten opzichte van standaardkaliber",
+              "< 0,2 mm",
+              "< 0,2 mm"
+            ],
+            [
+              "Radiale slingering van het wiel",
+              "< 0,10 mm",
+              "< 0,10 mm"
+            ],
+            [
+              "Axiale slingering van het wiel",
+              "< 0,15 mm",
+              "< 0,15 mm"
+            ],
+            [
+              "Oppervlakteruwheid profiel",
+              "< 12,5 μm Ra",
+              "< 12,5 μm Ra"
             ]
           ],
-          "note": "Met * gemarkeerde waarden zijn afhankelijk van de spoorwijdte en de klantconfiguratie. De definitieve waarden worden in de technische offerte bevestigd."
+          "note": "De definitieve waarden worden in de technische offerte bevestigd."
         },
         {
           "type": "steps",
@@ -939,7 +1056,7 @@
           "items": [
             {
               "image": "products/underfloor-wheel-lathe-yugl",
-              "caption": "Voorbeeldillustratie van de YUGL-onderloopdraaibank"
+              "caption": "HYT CNC-onderloopdraaibank YUGL met aandrijfrollen en twee CNC-gereedschapssleden"
             },
             {
               "image": "projects/metro-depot",
@@ -962,7 +1079,7 @@
           "items": [
             {
               "q": "Wat is het verschil tussen de YUGL en de YUL-08?",
-              "a": "Beide zijn onderloopdraaibanken voor één as die wielstellen in het voertuig herprofileren. De [YUL-08](page:underfloor-wheel-lathe) is het beproefde model; de YUGL is gepositioneerd als platform van de volgende generatie met een hogere automatiseringsgraad. De precieze verschillen hangen af van de configuratie – vraag ons om een vergelijking naast elkaar voor uw vloot."
+              "a": "Beide zijn onderloopdraaibanken voor één as die wielstellen in het voertuig herprofileren. De YUGL wordt aangeboden als YUGL 30 (4 × 13,5 kW, loopcirkeldiameters 580–1600 mm, aslast 30 t) en als YUGL 15 voor stedelijke voertuigen. De [YUL-08](page:underfloor-wheel-lathe) heeft een aandrijving van 4 × 15 kW op afzonderlijk zwevende rollen, loopcirkeldiameters van 540–1500 mm en aslasten van 300 / 400 kN, en kan ook remschijven bewerken. Onze engineers adviseren u het model dat bij uw vloot past."
             },
             {
               "q": "Moet het wielstel uit het voertuig worden gehaald?",
@@ -987,10 +1104,10 @@
     "tandem-underfloor-wheel-lathe": {
       "nav": "CNC-tandemonderloopdraaibank (YUL-12T)",
       "title": "CNC-tandemonderloopdraaibank YUL-12T",
-      "description": "Tandemonderloopdraaibank YUL-12T van HYT: twee gesynchroniseerde machines herprofileren beide wielstellen van een draaistel in het voertuig. Ø 540–1500 mm.",
+      "description": "Twee onderloopdraaibanken in tandem die beide wielstellen van een draaistel tegelijk in het voertuig herprofileren. Hartafstand instelbaar van 1800 tot 3100 mm.",
       "eyebrow": "Wielenbanken",
       "h1": "CNC-tandemonderloopdraaibank YUL-12T – beide wielstellen van een draaistel in één opspanning",
-      "lede": "Twee gesynchroniseerde onderloopdraaibanken werken naast elkaar om een compleet draaistel te herprofileren terwijl het onder het voertuig blijft. Eén machine staat vast; de andere verrijdt om zich aan de asafstand aan te passen.",
+      "lede": "Twee onderloopdraaibanken die als één werken – twee wielstellen onder het voertuig tegelijk herprofileren, in het voertuig, met tot de helft kortere herprofileringstijd.",
       "summary": "Twee gesynchroniseerde onderloopdraaibanken die beide wielstellen van een draaistel in één opspanning herprofileren en zo de herprofileringstijd per voertuig verkorten.",
       "related": [
         "underfloor-wheel-lathe",
@@ -1002,108 +1119,145 @@
         {
           "type": "text",
           "id": "overview",
-          "eyebrow": "Over de machine",
-          "heading": "Twee wielstellen, één opspanning",
+          "eyebrow": "Productoverzicht",
+          "heading": "Wat is de CNC-tandemonderloopdraaibank?",
           "paragraphs": [
-            "Op een enkele onderloopdraaibank worden de wielstellen van een draaistel na elkaar bewerkt: het voertuig wordt verplaatst, de volgende as wordt gepositioneerd en de cyclus begint opnieuw. De YUL-12T maakt die stap overbodig. Twee machines in één put werken als gesynchroniseerde tandem, zodat beide wielstellen van een draaistel samen worden geherprofileerd.",
-            "Eén unit staat vast; de tweede verrijdt langs de put om zich aan de asafstand van het draaistel aan te passen. Eén installatie kan daardoor voertuigen met verschillende draaisteltypen bedienen – van locomotieven tot rijtuigen en treinstellen – zonder aanpassingen aan de fundatie.",
-            "Volgens cijfers van HYT verkort tandembedrijf de herprofileringstijd met 50% bij rijtuigen en met 33% bij locomotieven ten opzichte van één machine. Voor een platform met een hogere automatiseringsgraad kunt u de [YUGLX](page:tandem-underfloor-wheel-lathe-yuglx) vergelijken."
+            "De CNC-tandemonderloopdraaibank (model YUL-12T) bestaat uit twee onderloopdraaibanken op een gemeenschappelijke fundatie met gedeelde infrastructuur. Twee wielstellen worden tegelijk in het voertuig geherprofileerd, zonder de wielstellen, het remwerk van het draaistel, de asbusdeksels of andere onderdelen van het spoorvoertuig te demonteren.",
+            "Eén machine staat vast en de tweede is vast of verplaatsbaar, zodat het paar zich aanpast aan de uiteenlopende asafstanden van verschillende draaistellen. De standaard hartafstand tussen de twee machines ligt tussen 1800 en 3100 mm en kan worden aangepast aan een specifieke eis.",
+            "De twee CNC-systemen communiceren met elkaar en wisselen gegevens uit, zodat het diameterverschil tussen alle vier de wielen van één draaistel onder 0,3 mm blijft. De machines kunnen ook onafhankelijk van elkaar worden bestuurd, zodat één wielstel kan worden bewerkt als dat volstaat, en de remschijven van beide wielstellen kunnen tegelijk worden gedraaid."
           ],
           "image": "products/tandem-underfloor-wheel-lathe-yul-12t",
-          "image_alt": "Voorbeeldillustratie van twee gesynchroniseerde onderloopdraaibanken in een put onder een draaistel",
+          "image_alt": "HYT CNC-tandemonderloopdraaibank YUL-12T – twee onderloopdraaibanken op een gemeenschappelijke fundatie",
           "layout": "image-right"
         },
         {
           "type": "features",
           "id": "advantages",
           "eyebrow": "Belangrijkste voordelen",
-          "heading": "Wat tandembedrijf in het depot verandert",
+          "heading": "Waarom kiezen voor de YUL-12T?",
           "cols": 3,
           "items": [
             {
-              "icon": "stopwatch",
-              "title": "Kortere herprofileringstijd",
-              "text": "50% minder tijd bij rijtuigen en 33% minder bij locomotieven dan met één machine (cijfers van HYT)."
+              "icon": "clock-history",
+              "title": "Twee wielstellen in één cyclus",
+              "text": "De herprofileringstijd wordt met tot 50% verkort, zodat rollend materieel sneller terugkeert in de commerciële dienst."
             },
             {
-              "icon": "arrows-move",
-              "title": "Instelbare asafstand",
-              "text": "De verrijdbare unit wordt op het draaistel gepositioneerd, zodat één put meerdere voertuigtypen bedient."
+              "icon": "arrows-expand",
+              "title": "Instelbare hartafstand",
+              "text": "Standaard 1800 tot 3100 mm, voor de uiteenlopende asafstanden van verschillende draaistellen."
             },
             {
-              "icon": "train-front",
-              "title": "Minder voertuigbewegingen",
-              "text": "Geen rangeren tussen de twee assen van een draaistel – minder tijd, minder handelingen en minder risico."
+              "icon": "diagram-3",
+              "title": "Gesynchroniseerde of onafhankelijke besturing",
+              "text": "De twee CNC-systemen communiceren en wisselen gegevens uit, en elke machine kan ook zelfstandig werken."
             },
             {
-              "icon": "aspect-ratio",
-              "title": "Groot diameterbereik",
-              "text": "Loopcirkeldiameters van 540 tot 1500 mm dekken een brede mix aan voertuigen."
+              "icon": "bullseye",
+              "title": "Nauwkeurigheid op draaistelniveau",
+              "text": "Het diameterverschil tussen de vier wielen van één draaistel blijft onder 0,3 mm."
             },
             {
-              "icon": "speedometer",
-              "title": "Flexibele snijsnelheid",
-              "text": "20–120 m/min, afgestemd op het wielmateriaal en de slijtagetoestand."
+              "icon": "building",
+              "title": "Gemeenschappelijke infrastructuur",
+              "text": "Beide machines delen één fundatie en dezelfde voorzieningen, wat de installatie vereenvoudigt."
             },
             {
-              "icon": "arrows-collapse",
-              "title": "Gelijke wielen over het hele draaistel",
-              "text": "Beide wielstellen worden in dezelfde opspanning gemeten en bewerkt, waardoor de diameters over het draaistel beter op elkaar af te stemmen zijn."
+              "icon": "disc",
+              "title": "Gelijktijdig bewerken van remschijven",
+              "text": "De remschijven van beide wielstellen kunnen in dezelfde cyclus worden gedraaid met snelwisselgereedschap."
+            },
+            {
+              "icon": "rulers",
+              "title": "Meting met taster of laser",
+              "text": "Automatische meting van profiel en diameter vóór en na het draaien, met opslag van de gegevens in het CNC-systeem."
             }
           ]
         },
         {
           "type": "specs",
           "id": "specifications",
-          "heading": "Technische specificaties",
-          "intro": "Kerngegevens voor de standaardconfiguratie. De machine wordt aangepast aan de spoorwijdte, de asafstanden van de draaistellen en de wielprofielen van de klant.",
+          "heading": "Technische gegevens",
+          "intro": "Technische gegevens van HYT. Elke machine wordt geconfigureerd op uw spoorwijdte, wielprofielen en voertuigen.",
           "columns": [
             "Parameter",
             "YUL-12T"
           ],
           "rows": [
             [
-              "Machinetype",
-              "CNC-tandemonderloopdraaibank (putdraaibank) – twee gesynchroniseerde machines"
-            ],
-            [
-              "Configuratie",
-              "Eén vaste machine en één verrijdbare machine voor de asafstand van het draaistel"
-            ],
-            [
-              "Bewerkte wielstellen per opspanning",
-              "2 (één draaistel)"
+              "Machineconfiguratie",
+              "Twee onderloopdraaibanken op een gemeenschappelijke fundatie; hartafstand standaard 1800–3100 mm"
             ],
             [
               "Vermogen hoofdaandrijving",
-              "4 × 15 kW"
+              "4 × 15 kW op wrijvingsrollen, per machine"
             ],
             [
-              "Bereik loopcirkeldiameter",
-              "540–1500 mm"
+              "Snijsnelheid bij profileren",
+              "20–120 m/min (optioneel 20–300 m/min)"
             ],
             [
-              "Snijsnelheid",
-              "20–120 m/min"
+              "Voeding gereedschapsslede bij wielprofileren",
+              "0,1–2,5 mm/omw"
             ],
             [
-              "Bereik asafstand draaistel",
-              "Op aanvraag*"
+              "IJlgang gereedschapsslede, beide assen",
+              "3000 mm/min"
+            ],
+            [
+              "Max. spaandoorsnede / materiaalafname bij profileren",
+              "10 mm²"
+            ],
+            [
+              "Cyclustijd per wielstel",
+              "35 minuten"
             ],
             [
               "Spoorwijdte",
-              "Volgens klantspecificatie*"
+              "Naar behoefte"
             ],
             [
-              "Maximale aslast",
-              "Op aanvraag"
+              "Loopcirkeldiameter, max. / min.",
+              "1500 mm / 540 mm (afhankelijk van de spoorwijdte)"
             ],
             [
-              "Herprofileringstijd t.o.v. één machine",
-              "50% korter bij rijtuigen, 33% korter bij locomotieven (cijfers van HYT)"
+              "Wielbreedte",
+              "75–155 mm"
+            ],
+            [
+              "Afstand wielstellen, min. – max.",
+              "1800–3200 mm"
+            ],
+            [
+              "Max. aslast / gewicht wielstel",
+              "300 / 400 kN aslast"
+            ],
+            [
+              "Diameterverschil tussen beide wielen",
+              "< 0,10 mm"
+            ],
+            [
+              "Diameterverschil tussen de vier wielen van één draaistel",
+              "< 0,3 mm"
+            ],
+            [
+              "Nauwkeurigheid wielprofiel ten opzichte van standaardkaliber",
+              "< 0,2 mm"
+            ],
+            [
+              "Radiale slingering van het wiel",
+              "< 0,10 mm"
+            ],
+            [
+              "Axiale slingering van het wiel",
+              "< 0,15 mm"
+            ],
+            [
+              "Oppervlakteruwheid profiel",
+              "< 12,5 μm Ra"
             ]
           ],
-          "note": "Met * gemarkeerde waarden zijn afhankelijk van de spoorwijdte en de klantconfiguratie. De definitieve waarden worden in de technische offerte bevestigd."
+          "note": "Waarden die afhankelijk zijn van de spoorwijdte zijn in de tabel aangegeven. De definitieve waarden worden in de technische offerte bevestigd."
         },
         {
           "type": "steps",
@@ -1203,7 +1357,7 @@
           "items": [
             {
               "image": "products/tandem-underfloor-wheel-lathe-yul-12t",
-              "caption": "Voorbeeldillustratie van de YUL-12T-tandemonderloopdraaibank"
+              "caption": "HYT CNC-tandemonderloopdraaibank YUL-12T – twee onderloopdraaibanken op een gemeenschappelijke fundatie"
             },
             {
               "image": "projects/pit-foundation-civil-works",
@@ -1226,7 +1380,7 @@
           "items": [
             {
               "q": "Hoeveel tijd bespaart een tandemdraaibank?",
-              "a": "Volgens cijfers van HYT wordt de herprofileringstijd met 50% verkort bij rijtuigen en met 33% bij locomotieven ten opzichte van één onderloopdraaibank. De werkelijke besparing hangt af van uw voertuigen en uw werkwijze in het depot."
+              "a": "Door beide wielstellen van een draaistel in één cyclus te bewerken, wordt de herprofileringstijd met tot 50% verkort ten opzichte van één enkele onderloopdraaibank. De werkelijke besparing hangt af van uw voertuigen en de werkwijze in uw depot."
             },
             {
               "q": "Hoe gaat de machine om met verschillende asafstanden van draaistellen?",
@@ -1238,7 +1392,7 @@
             },
             {
               "q": "Wat is het verschil tussen de YUL-12T en de YUGLX?",
-              "a": "Beide zijn tandemonderloopdraaibanken. De YUL-12T is het beproefde model met de gegevens op deze pagina. De [YUGLX](page:tandem-underfloor-wheel-lathe-yuglx) is gepositioneerd als tandemplatform van de volgende generatie met een hogere automatiseringsgraad. Wij vergelijken beide graag voor uw vloot."
+              "a": "Beide zijn tandemonderloopdraaibanken. De YUL-12T heeft per machine een aandrijving van 4 × 15 kW, een standaard hartafstand van 1800–3100 mm en loopcirkeldiameters van 540–1500 mm. Bij de [YUGLX](page:tandem-underfloor-wheel-lathe-yuglx) rijdt de verplaatsbare machine over CNC-gestuurde lineaire geleidingen; hij bestrijkt een asafstandbereik van 1700–3200 mm en, als YUGLX 30, loopcirkeldiameters tot 1600 mm. Onze engineers adviseren u het model dat bij uw vloot past."
             },
             {
               "q": "Is één machine voldoende voor mijn depot?",
@@ -1250,12 +1404,12 @@
     },
     "tandem-underfloor-wheel-lathe-yuglx": {
       "nav": "CNC-tandemonderloopdraaibank (YUGLX)",
-      "title": "CNC-tandemonderloopdraaibank YUGLX – automatisering",
-      "description": "Tandemonderloopdraaibank YUGLX van HYT: gesynchroniseerde machines herprofileren een compleet draaistel in het voertuig, met hogere automatisering.",
+      "title": "CNC-tandemonderloopdraaibank YUGLX",
+      "description": "Twee gesynchroniseerde CNC-onderloopdraaibanken die alle wielstellen van een rijtuig of locomotief tegelijk herprofileren, zonder de treinsamenstelling te ontkoppelen.",
       "eyebrow": "Wielenbanken",
-      "h1": "CNC-tandemonderloopdraaibank YUGLX – tandemplatform van de volgende generatie voor geautomatiseerd herprofileren van draaistellen",
-      "lede": "De YUGLX past het tandemprincipe toe – beide wielstellen van een draaistel in één opspanning – op een platform voor depots die positioneren, meten en data met minder handmatige inbreng willen afhandelen.",
-      "summary": "Tandemonderloopdraaibank van de volgende generatie die een compleet draaistel in het voertuig herprofileert, bedoeld voor een hogere automatiseringsgraad.",
+      "h1": "CNC-tandemonderloopdraaibank YUGLX – twee gesynchroniseerde draaibanken voor complete rijtuigen en locomotieven",
+      "lede": "Twee gesynchroniseerde onderloopdraaibanken in tandembedrijf – herprofileren van twee wielstellen van een compleet rijtuig of een complete locomotief zonder ontkoppelen van de treinsamenstelling.",
+      "summary": "Twee gesynchroniseerde CNC-onderloopdraaibanken die de wielstellen van een compleet rijtuig of een complete locomotief herprofileren zonder de treinsamenstelling te ontkoppelen.",
       "related": [
         "tandem-underfloor-wheel-lathe",
         "underfloor-wheel-lathe-yugl",
@@ -1266,109 +1420,154 @@
         {
           "type": "text",
           "id": "overview",
-          "eyebrow": "Over de machine",
-          "heading": "Een compleet draaistel per cyclus, met meer automatisering",
+          "eyebrow": "Productoverzicht",
+          "heading": "Wat is de CNC-tandemonderloopdraaibank?",
           "paragraphs": [
-            "In een druk depot is de wielenbank vaak de bottleneck. Een tandemonderloopdraaibank lost dat op door beide wielstellen van een draaistel samen te bewerken, terwijl het voertuig gemonteerd boven de put blijft staan.",
-            "De YUGLX is gepositioneerd als tandemplatform van de volgende generatie, naast de beproefde [YUL-12T](page:tandem-underfloor-wheel-lathe). Hij is bedoeld voor vloten waarbij de machine vrijwel continu in gebruik is en waarbij constante cycli en volledige bewerkingsregistratie net zo zwaar wegen als de verspaningstijd. Omvang van de automatisering, meetapparatuur en data-interfaces worden per klant afgestemd.",
-            "De tegenhanger voor één as is de [YUGL](page:underfloor-wheel-lathe-yugl)."
+            "De CNC-tandemonderloopdraaibank (model YUGLX) is de meest geavanceerde oplossing van HYT voor het herprofileren van wielen – een combinatie van twee volwaardige CNC-onderloopdraaibanken die in perfect gesynchroniseerd tandembedrijf meerdere wielstellen van een volledig rijtuig of een volledige locomotief tegelijk herprofileren.",
+            "Eén machine staat vast, de andere is verplaatsbaar en wordt aangedreven via CNC-gestuurde lineaire geleidingen, zodat de machines zich aanpassen aan de uiteenlopende asafstanden van verschillende draaisteluitvoeringen bij rijtuigen, locomotieven, metrotreinen en elektrische treinstellen.",
+            "De tandemopstelling is vooral waardevol bij treinsamenstellingen waarvan de rijtuigen niet kunnen worden gescheiden. De volledige trein kan worden binnengehaald en het herprofileren van een compleet rijtuig is in minder dan twee uur gereed, waardoor het voertuig veel korter buiten de commerciële dienst blijft."
           ],
           "image": "products/tandem-underfloor-wheel-lathe-yuglx",
-          "image_alt": "Voorbeeldillustratie van een YUGLX-tandemonderloopdraaibank onder een draaistel van een treinstel",
+          "image_alt": "HYT CNC-tandemonderloopdraaibank YUGLX – twee gesynchroniseerde onderloopdraaibanken in een depotput",
           "layout": "image-right"
-        },
-        {
-          "type": "notice",
-          "variant": "review",
-          "text": "In afwachting van bevestiging door HYT: hoe de YUGLX technisch verschilt van de YUL-12T (automatiseringsgraad, aandrijvingen, capaciteiten, bereik asafstand) en of beide modellen leverbaar blijven. De positionering op deze pagina is voorlopig."
         },
         {
           "type": "features",
           "id": "advantages",
           "eyebrow": "Belangrijkste voordelen",
-          "heading": "Waarvoor de YUGLX is ontworpen",
+          "heading": "Waarom kiezen voor de YUGLX?",
           "cols": 3,
           "items": [
             {
-              "icon": "stopwatch",
-              "title": "Compleet draaistel per opspanning",
-              "text": "Twee wielstellen worden samen bewerkt, zonder het voertuig tussen de assen te verplaatsen."
-            },
-            {
               "icon": "cpu",
-              "title": "Configureerbare automatisering",
-              "text": "Stappen van positioneren tot eindmeting kunnen worden geautomatiseerd, afgestemd op het depot."
+              "title": "Onafhankelijke CNC-besturing",
+              "text": "Afzonderlijke CNC-systemen synchroniseren naadloos voor efficiënt bewerken in tandem."
             },
             {
-              "icon": "clipboard-data",
-              "title": "Volledige registratie",
-              "text": "Metingen van alle vier de wielen worden per draaistel opgeslagen voor trendanalyse en onderhoudsplanning."
+              "icon": "bricks",
+              "title": "Zware kastconstructie",
+              "text": "Een stijve gietconstructie zorgt voor stabiliteit, trillingsdemping en bewerkingsnauwkeurigheid."
             },
             {
-              "icon": "arrows-move",
-              "title": "Flexibele asafstand",
-              "text": "De onderlinge afstand van de machines wordt afgestemd op de asafstanden van de draaistellen in uw vloot."
+              "icon": "clock-history",
+              "title": "Kortere stilstand van de trein",
+              "text": "Gelijktijdig bewerken verkort de onderhoudstijd met tot 50%, ook als rijtuigen niet kunnen worden gescheiden."
             },
             {
-              "icon": "people",
-              "title": "Minder afhankelijk van de operator",
-              "text": "Begeleide, herhaalbare cycli zorgen voor constante resultaten in alle diensten."
+              "icon": "display",
+              "title": "Centrale machinebesturing",
+              "text": "Eén bedienpost voor meten, bewerken en procesbewaking."
             },
             {
-              "icon": "shield-check",
-              "title": "Veilig werken in de put",
-              "text": "Afgeschermde werkzones en vergrendelingen rond beide machines."
+              "icon": "diagram-3",
+              "title": "Klaar voor Industrie 4.0",
+              "text": "Geïntegreerde slimme diagnose, realtime bewaking en digitale connectiviteit voor een hogere productiviteit."
             }
           ]
         },
         {
           "type": "specs",
           "id": "specifications",
-          "heading": "Technische specificaties",
-          "intro": "De YUGLX wordt per project geconfigureerd. De gegevens worden in de technische offerte bevestigd.",
+          "heading": "Technische gegevens",
+          "intro": "Technische gegevens van HYT. Elke machine wordt geconfigureerd op uw spoorwijdte, wielprofielen en voertuigen.",
           "columns": [
             "Parameter",
-            "YUGLX"
+            "YUGLX 30",
+            "YUGLX 15"
           ],
           "rows": [
             [
-              "Machinetype",
-              "CNC-tandemonderloopdraaibank (putdraaibank)"
+              "Machineconfiguratie",
+              "Twee gesynchroniseerde onderloopdraaibanken op een gemeenschappelijk draagbed; één vast, de andere in langsrichting verplaatsbaar passend bij het draaistel",
+              "Twee gesynchroniseerde onderloopdraaibanken op een gemeenschappelijk draagbed, voor stedelijke voertuigen; één vast, de andere in langsrichting verplaatsbaar"
             ],
             [
-              "Bewerkte wielstellen per opspanning",
-              "2 (één draaistel)"
+              "Vermogen hoofdaandrijving",
+              "4 × 13,5 kW op wrijvingsrollen, per machine",
+              "4 × 9 kW op wrijvingsrollen, per machine"
             ],
             [
-              "Hoofdaandrijving",
-              "Op aanvraag"
+              "Snijsnelheid bij profileren",
+              "20–120 m/min (optioneel 20–300 m/min)",
+              "20–120 m/min (optioneel 20–300 m/min)"
             ],
             [
-              "Bereik loopcirkeldiameter",
-              "Op aanvraag*"
+              "Voeding gereedschapsslede bij wielprofileren",
+              "0,1–2,5 mm/omw",
+              "0,1–2,5 mm/omw"
             ],
             [
-              "Bereik asafstand draaistel",
-              "Op aanvraag*"
+              "IJlgang gereedschapsslede, beide assen",
+              "Langsslede 5000 mm/min; verticale slede 3000 mm/min",
+              "Langsslede 5000 mm/min; verticale slede 3000 mm/min"
+            ],
+            [
+              "Max. spaandoorsnede / materiaalafname bij profileren",
+              "10 mm²",
+              "6 mm²"
+            ],
+            [
+              "Cyclustijd per wielstel",
+              "30 minuten",
+              "30 minuten"
             ],
             [
               "Spoorwijdte",
-              "Volgens klantspecificatie*"
+              "1000–1676 mm",
+              "1000–1676 mm"
             ],
             [
-              "Maximale aslast",
-              "Op aanvraag"
+              "Loopcirkeldiameter, max. / min.",
+              "1600 mm / 580 mm",
+              "1250 mm / 375 mm"
             ],
             [
-              "Automatiseringsgraad",
-              "Geconfigureerd volgens de eisen van de klant"
+              "Wielbreedte",
+              "75–155 mm",
+              "75–155 mm"
             ],
             [
-              "Data-interface met depotsystemen",
-              "Op aanvraag"
+              "Asafstand, min. – max.",
+              "1700–3200 mm",
+              "1700–3200 mm"
+            ],
+            [
+              "Max. aslast / gewicht wielstel",
+              "30 t (40 t op aanvraag)",
+              "18 t"
+            ],
+            [
+              "Diameterverschil tussen beide wielen",
+              "< 0,10 mm",
+              "< 0,10 mm"
+            ],
+            [
+              "Diameterverschil tussen de vier wielen van één draaistel",
+              "< 0,3 mm",
+              "< 0,3 mm"
+            ],
+            [
+              "Nauwkeurigheid wielprofiel ten opzichte van standaardkaliber",
+              "< 0,2 mm",
+              "< 0,2 mm"
+            ],
+            [
+              "Radiale slingering van het wiel",
+              "< 0,10 mm",
+              "< 0,10 mm"
+            ],
+            [
+              "Axiale slingering van het wiel",
+              "< 0,15 mm",
+              "< 0,15 mm"
+            ],
+            [
+              "Oppervlakteruwheid profiel",
+              "< 12,5 μm Ra",
+              "< 12,5 μm Ra"
             ]
           ],
-          "note": "Met * gemarkeerde waarden zijn afhankelijk van de spoorwijdte en de klantconfiguratie. De definitieve waarden worden in de technische offerte bevestigd."
+          "note": "De definitieve waarden worden in de technische offerte bevestigd."
         },
         {
           "type": "steps",
@@ -1382,7 +1581,7 @@
             },
             {
               "title": "Uitlijnen",
-              "text": "De machines worden uitgelijnd op beide wielstellen van het draaistel."
+              "text": "De verplaatsbare machine rijdt over CNC-gestuurde lineaire geleidingen om zich aan te passen aan de asafstand van het draaistel."
             },
             {
               "title": "Heffen en opspannen",
@@ -1462,7 +1661,7 @@
           "items": [
             {
               "image": "products/tandem-underfloor-wheel-lathe-yuglx",
-              "caption": "Voorbeeldillustratie van de YUGLX-tandemonderloopdraaibank"
+              "caption": "HYT CNC-tandemonderloopdraaibank YUGLX – twee gesynchroniseerde onderloopdraaibanken in een depotput"
             },
             {
               "image": "projects/metro-depot",
@@ -1485,7 +1684,7 @@
           "items": [
             {
               "q": "Wat is het verschil tussen de YUGLX en de YUL-12T?",
-              "a": "Beide zijn tandemonderloopdraaibanken die beide wielstellen van een draaistel in één opspanning bewerken. De [YUL-12T](page:tandem-underfloor-wheel-lathe) is het beproefde model; de YUGLX is gepositioneerd als platform van de volgende generatie met een hogere automatiseringsgraad. Vraag ons om een vergelijking op basis van uw vloot."
+              "a": "Beide zijn tandemonderloopdraaibanken. Bij de YUGLX staat één machine vast en beweegt de andere over CNC-gestuurde lineaire geleidingen; hij wordt aangeboden als YUGLX 30 (loopcirkeldiameters 580–1600 mm, aslast 30 t) en als YUGLX 15 voor stedelijke voertuigen, met een asafstandbereik van 1700–3200 mm. De [YUL-12T](page:tandem-underfloor-wheel-lathe) heeft per machine een aandrijving van 4 × 15 kW, een standaard hartafstand van 1800–3100 mm en loopcirkeldiameters van 540–1500 mm. Onze engineers adviseren u het model dat bij uw vloot past."
             },
             {
               "q": "Waarom een tandemdraaibank in plaats van een machine voor één as?",
@@ -1509,11 +1708,11 @@
     },
     "portal-wheel-lathe": {
       "nav": "CNC-portaalwielenbank",
-      "title": "CNC-portaalwielenbank YPL-02 voor uitgebouwde wielstellen",
-      "description": "CNC-portaalwielenbank YPL-02 van HYT: herprofileert uitgebouwde wielstellen met zware verspaning. Ø 750–1250 mm, 2 × 55 kW, wielstellen tot 50 kN.",
+      "title": "CNC-portaalwielenbank YPL-02",
+      "description": "CNC-wielenbank in portaalconstructie met doorrolhandling van wielstellen. Gelijktijdig herprofileren van beide wielen in 8 tot 12 minuten per wielstel.",
       "eyebrow": "Wielenbanken",
       "h1": "CNC-portaalwielenbank YPL-02 voor uitgebouwde wielstellen",
-      "lede": "Een stijve portaalmachine voor de wielstelwerkplaats. Ze draait uitgebouwde wielstellen met zware, stabiele sneden, zodat sterk versleten loopvlakken efficiënt en nauwkeurig worden hersteld.",
+      "lede": "Een automatische machine in portaalconstructie waar wielstellen doorheen rollen – ontworpen voor de meest veeleisende omgevingen voor het herprofileren van spoorwegwielen.",
       "summary": "Stijve portaaldraaibank voor het herprofileren van uitgebouwde wielstellen in wielstelwerkplaatsen, met een hoofdaandrijving van 2 × 55 kW voor zware verspaning.",
       "related": [
         "roller-type-portal-wheel-lathe",
@@ -1525,108 +1724,126 @@
         {
           "type": "text",
           "id": "overview",
-          "eyebrow": "Over de machine",
-          "heading": "Gebouwd voor de wielstelwerkplaats",
+          "eyebrow": "Productoverzicht",
+          "heading": "Wat is de CNC-portaalwielenbank?",
           "paragraphs": [
-            "Wanneer wielstellen worden uitgebouwd voor revisie, wielvervanging of zware reparatie, komen ze in een constante stroom in de wielstelwerkplaats aan – vaak met diepe vlakke plekken, afschilfering of holle slijtage die veel materiaalafname vergen. De YPL-02 is voor dat werk ontworpen.",
-            "De portaalconstructie draagt de gereedschapssleden boven het wielstel en leidt de snijkrachten af in een gesloten, stijf frame. Met een hoofdaandrijving van 2 × 55 kW en een spaandoorsnede van 32–50 mm² verspaant de machine zwaar op harde, versleten loopvlakken en houdt ze het profiel toch nauwkeurig.",
-            "Het wielstel wordt over rails ingerold, in de bewerkingspositie gebracht en opgespannen; daarna worden beide wielen gemeten en gedraaid. Een verwante portaaluitvoering is de [CNC-portaalwielenbank met rollenaandrijving YPL-04](page:roller-type-portal-wheel-lathe)."
+            "De CNC-portaalwielenbank van HYT (YPL-02) is speciaal gebouwd voor het gelijktijdig herprofileren van nieuwe of versleten wielen van alle typen spoorvoertuigen. Door de portaalarchitectuur bevinden de snijkoppen zich boven het wielstel, zodat het wielstel door de machine kan worden gerold.",
+            "Alle dragende constructies zijn uitgevoerd in hoogwaardig, fijnkorrelig gietijzer en bieden een uitzonderlijke maatvastheid, geometrische nauwkeurigheid en trillingsdemping – essentieel om de nauwe toleranties te halen die het moderne spoorbedrijf vraagt."
           ],
           "image": "products/portal-wheel-lathe",
-          "image_alt": "Voorbeeldillustratie van een CNC-portaalwielenbank die een uitgebouwd wielstel in een wielstelwerkplaats bewerkt",
+          "image_alt": "HYT CNC-portaalwielenbank YPL-02 met operator bij de machine",
           "layout": "image-right"
         },
         {
           "type": "features",
           "id": "advantages",
           "eyebrow": "Belangrijkste voordelen",
-          "heading": "Waarom wielstelwerkplaatsen voor een portaalwielenbank kiezen",
+          "heading": "Waarom kiezen voor de YPL-02?",
           "cols": 3,
           "items": [
             {
-              "icon": "lightning-charge",
-              "title": "Geschikt voor zware verspaning",
-              "text": "Hoofdaandrijving van 2 × 55 kW en spaandoorsnede van 32–50 mm² voor het efficiënt verwijderen van diepe defecten."
+              "icon": "building",
+              "title": "Robuuste portaalconstructie",
+              "text": "Een zwaar portaalontwerp zorgt voor een uitstekende stijfheid en bewerkingsstabiliteit."
+            },
+            {
+              "icon": "arrow-left-right",
+              "title": "Automatische handling van wielstellen",
+              "text": "Een geïntegreerd doorrolsysteem verhoogt de productiviteit en verkort de handlingtijd."
             },
             {
               "icon": "bricks",
-              "title": "Stijf portaalframe",
-              "text": "Een gesloten constructie voor stabiel verspanen en herhaalbare profielen op harde loopvlakken."
-            },
-            {
-              "icon": "arrows-expand",
-              "title": "Ruim bereik aan wielstellen",
-              "text": "Loopcirkeldiameters van 750–1250 mm, wielbreedten van 75–145 mm en aslengten van 1850–2750 mm, afhankelijk van de spoorwijdte."
+              "title": "Zeer stijve gietconstructie",
+              "text": "De constructie van fijnkorrelig gietijzer biedt een uitzonderlijke nauwkeurigheid en trillingsdemping."
             },
             {
               "icon": "rulers",
-              "title": "Materiaalbesparende profielen",
-              "text": "Door vóór het bewerken te meten neemt de CNC alleen de benodigde diepte weg, wat de levensduur van het wiel spaart."
+              "title": "Intelligente slijtagemeting",
+              "text": "Elektronische slijtagecompensatie houdt de snedediepte optimaal en de wielprofielen constant."
             },
             {
-              "icon": "diagram-3",
-              "title": "Past in de werkplaatsstroom",
-              "text": "Werkt samen met wielstelsporen, meetstations en persen in een continu proces."
-            },
-            {
-              "icon": "geo-alt",
-              "title": "Geen put onder een berijdbaar spoor",
-              "text": "Het wielstel komt naar de machine, dus in de wielstelwerkplaats is geen put in het spoor nodig."
+              "icon": "shield-check",
+              "title": "Hogere bedrijfsveiligheid",
+              "text": "Het automatisch terugtrekken van het gereedschap beschermt de machine bij stroomuitval en noodstops."
             }
           ]
         },
         {
           "type": "specs",
           "id": "specifications",
-          "heading": "Technische specificaties",
-          "intro": "Kerngegevens voor de standaardconfiguratie. De machine wordt aangepast aan de spoorwijdte en de wielprofielen van de klant.",
+          "heading": "Technische gegevens",
+          "intro": "Technische gegevens van HYT. Elke machine wordt geconfigureerd op uw spoorwijdte, wielprofielen en voertuigen.",
           "columns": [
             "Parameter",
             "YPL-02"
           ],
           "rows": [
             [
-              "Machinetype",
-              "CNC-portaalwielenbank voor uitgebouwde wielstellen"
+              "Machineconfiguratie",
+              "Portaalconstructie met doorrolhandling van wielstellen"
             ],
             [
-              "Loopcirkeldiameter, maximaal",
-              "1250 mm"
+              "Vermogen hoofdaandrijving",
+              "2 × 55 kW"
             ],
             [
-              "Loopcirkeldiameter, minimaal",
-              "750 mm*"
+              "Snijsnelheid bij profileren",
+              "25–80 m/min"
+            ],
+            [
+              "Voeding gereedschapsslede bij wielprofileren",
+              "0,1–4 mm/omw"
+            ],
+            [
+              "IJlgang gereedschapsslede, beide assen",
+              "4500 mm/min"
+            ],
+            [
+              "Max. spaandoorsnede / materiaalafname bij profileren",
+              "32–50 mm²"
+            ],
+            [
+              "Cyclustijd per wielstel",
+              "8–12 min"
+            ],
+            [
+              "Spoorwijdte",
+              "Naar behoefte"
+            ],
+            [
+              "Loopcirkeldiameter, max. / min.",
+              "1250 mm / 750 mm (afhankelijk van de spoorwijdte)"
             ],
             [
               "Wielbreedte",
               "75–145 mm"
             ],
             [
-              "Aslengte",
-              "1850–2750 mm*"
+              "Max. aslast / gewicht wielstel",
+              "50 kN gewicht wielstel"
             ],
             [
-              "Maximaal wielstelgewicht",
-              "50 kN"
+              "Diameterverschil tussen beide wielen",
+              "< 0,15 mm"
             ],
             [
-              "Hoofdaandrijving",
-              "2 × 55 kW"
+              "Nauwkeurigheid wielprofiel ten opzichte van standaardkaliber",
+              "< 0,2 mm"
             ],
             [
-              "Spaandoorsnede",
-              "32–50 mm²"
+              "Radiale slingering van het wiel",
+              "< 0,1 mm"
             ],
             [
-              "Snijsnelheid",
-              "Op aanvraag"
+              "Axiale slingering van het wiel",
+              "< 0,2 mm"
             ],
             [
-              "Spoorwijdte",
-              "Volgens klantspecificatie*"
+              "Oppervlakteruwheid profiel",
+              "< 12,5 μm Ra"
             ]
           ],
-          "note": "Met * gemarkeerde waarden zijn afhankelijk van de spoorwijdte en de klantconfiguratie. De definitieve waarden worden in de technische offerte bevestigd."
+          "note": "Waarden die afhankelijk zijn van de spoorwijdte zijn in de tabel aangegeven. De definitieve waarden worden in de technische offerte bevestigd."
         },
         {
           "type": "steps",
@@ -1725,7 +1942,7 @@
           "items": [
             {
               "image": "products/portal-wheel-lathe",
-              "caption": "Voorbeeldillustratie van de YPL-02-portaalwielenbank"
+              "caption": "HYT CNC-portaalwielenbank YPL-02 met operator bij de machine"
             },
             {
               "image": "projects/railway-wheel-shop",
@@ -1760,7 +1977,7 @@
             },
             {
               "q": "Wat is het verschil tussen de YPL-02 en de YPL-04?",
-              "a": "Beide zijn portaaldraaibanken voor uitgebouwde wielstellen. De [YPL-04](page:roller-type-portal-wheel-lathe) is de uitvoering met rollenaandrijving. Na analyse van uw wielstellen en werkstroom adviseren wij het ene of het andere type."
+              "a": "Beide zijn portaalwielenbanken met doorrolhandling voor uitgebouwde wielstellen. De YPL-02 heeft een hoofdaandrijving van 2 × 55 kW voor zware verspaning en voltooit een wielstel in 8–12 minuten. De [YPL-04](page:roller-type-portal-wheel-lathe) drijft het wielstel aan via zes wrijvingsrollen en is geschikt voor wielstellen met een gemonteerde tandwielkast of externe cassettelagers. Wij adviseren het ene of het andere model nadat we uw wielstellen en werkproces hebben beoordeeld."
             },
             {
               "q": "Kan de YPL-02 deel uitmaken van een geautomatiseerde wielstelwerkplaats?",
@@ -1773,11 +1990,11 @@
     "roller-type-portal-wheel-lathe": {
       "nav": "CNC-portaalwielenbank met rollenaandrijving",
       "title": "CNC-portaalwielenbank met rollenaandrijving YPL-04",
-      "description": "Portaalwielenbank YPL-04 van HYT met rollenaandrijving: CNC-herprofileren van uitgebouwde wielstellen op rollen, voor wielstel- en revisiewerkplaatsen.",
+      "description": "Portaalwielenbank met wrijvingsaandrijving via zes rollen en doorrolhandling van wielstellen. Beide wielen in 12 tot 16 minuten per wielstel geherprofileerd.",
       "eyebrow": "Wielenbanken",
       "h1": "CNC-portaalwielenbank met rollenaandrijving YPL-04 – uitgebouwde wielstellen ondersteund en aangedreven op rollen",
-      "lede": "De YPL-04 past het portaalprincipe toe op uitgebouwde wielstellen en gebruikt een rollenopstelling om het wielstel tijdens de bewerking te ondersteunen en rond te draaien.",
-      "summary": "Portaalwielenbank met rollenaandrijving voor het herprofileren van uitgebouwde wielstellen, als aanvulling op de YPL-02 in wielstel- en revisiewerkplaatsen.",
+      "lede": "Een automatische wielenbank in portaalconstructie met wrijvingsrolaandrijving en doorrolhandling van wielstellen – voor het gelijktijdig herprofileren van uitgebouwde wielstellen.",
+      "summary": "Portaalwielenbank met wrijvingsaandrijving via zes rollen en doorrolhandling voor het herprofileren van uitgebouwde wielstellen in 12–16 minuten.",
       "related": [
         "portal-wheel-lathe",
         "surface-wheel-lathe",
@@ -1788,105 +2005,137 @@
         {
           "type": "text",
           "id": "overview",
-          "eyebrow": "Over de machine",
-          "heading": "Portaalbewerking met rollenaandrijving",
+          "eyebrow": "Productoverzicht",
+          "heading": "Wat is de CNC-portaalwielenbank met rollenaandrijving?",
           "paragraphs": [
-            "Portaalwielenbanken bewerken wielstellen die uit het voertuig zijn gehaald. Bij de uitvoering met rollenaandrijving wordt het wielstel op rollen ondersteund en rondgedraaid – het aandrijfprincipe dat bekend is van onderloopdraaibanken – terwijl de gereedschapssleden vanuit de portaalconstructie werken.",
-            "Daarmee is de YPL-04 een optie voor werkplaatsen die de toegankelijkheid van een portaalmachine voor uitgebouwde wielstellen willen combineren met een rollenaandrijving. Of de YPL-04 of de [YPL-02](page:portal-wheel-lathe) beter bij u past, hangt af van uw wielstellen, defecttypen en werkstroom; wij adviseren u daarover tijdens de aanvraag.",
-            "Wilt u de wielstellen liever in het voertuig laten, dan is een [onderloopdraaibank](page:underfloor-wheel-lathe) het alternatief."
+            "De CNC-portaalwielenbank met rollenaandrijving (model YPL-04) is een automatische machine in portaalconstructie met rolaandrijvingen waarmee wielstellen door de machine kunnen rollen. Hij is geschikt voor het gelijktijdig herprofileren van nieuwe of versleten wielen nadat het wielstel uit het voertuig is uitgebouwd, en verwerkt ook wielstellen met een gemonteerde tandwielkast.",
+            "Het wielstel wordt aangedreven door zes wrijvingsrollen, drie per wiel, die contact maken met het bovenste en onderste deel van loopvlak en flens. Elke rol zit in een spilcassette op wrijvingsarme tuimelarmen, die verticaal kunnen verstellen om diameterverschillen van het wiel op te vangen en ook bij vlakke of ovale loopvlakken een constant contact te houden. Een geregelde hydraulische druk, ingesteld met een ventiel en een stikstofaccumulator, houdt dat contact stabiel, en de rolmotoren worden via een master-slavebesturing gesynchroniseerd.",
+            "Laden en lossen verlopen volledig automatisch, en waar de ruimte beperkt is, kan het in- en uitrollen vanuit dezelfde richting plaatsvinden. Wielstellen met een externe CTRB worden door een hydraulisch bediende spaninrichting gecentreerd en opgespannen, en op wiel en as gemonteerde remschijven kunnen optioneel worden bewerkt."
           ],
           "image": "products/roller-type-portal-wheel-lathe",
-          "image_alt": "Voorbeeldillustratie van een portaalwielenbank met rollenaandrijving en een uitgebouwd wielstel op de aandrijfrollen",
+          "image_alt": "HYT CNC-portaalwielenbank met rollenaandrijving YPL-04 met omkast portaal en bedienconsole",
           "layout": "image-right"
-        },
-        {
-          "type": "notice",
-          "variant": "review",
-          "text": "In afwachting van input van HYT: technische gegevens voor de YPL-04, bevestiging van het aandrijf- en opspanprincipe, en hoe de machine verschilt van de YPL-02."
         },
         {
           "type": "features",
           "id": "advantages",
           "eyebrow": "Belangrijkste voordelen",
-          "heading": "Wat de uitvoering met rollenaandrijving biedt",
+          "heading": "Waarom kiezen voor de YPL-04?",
           "cols": 3,
           "items": [
             {
-              "icon": "arrow-repeat",
-              "title": "Rollenaandrijving",
-              "text": "Het wielstel wordt op rollen ondersteund en rondgedraaid – een principe dat bekend is bij teams die met onderloopdraaibanken werken."
+              "icon": "gear-wide-connected",
+              "title": "Wrijvingsaandrijving met zes rollen",
+              "text": "Drie rollen per wiel van doorgehard, geslepen staal met 58–63 HRC, omkeerbaar en opnieuw te bewerken voor een lange levensduur."
             },
             {
-              "icon": "eye",
-              "title": "Vrije toegang",
-              "text": "Het uitgebouwde wielstel is gedurende de hele cyclus goed zichtbaar en eenvoudig te meten en te inspecteren."
+              "icon": "arrow-left-right",
+              "title": "Automatische doorrolhandling",
+              "text": "Volledig automatisch laden en lossen, met in- en uitrollen vanuit dezelfde richting waar de ruimte beperkt is."
+            },
+            {
+              "icon": "bricks",
+              "title": "Portaalframe van fijnkorrelig gietijzer",
+              "text": "Alle dragende constructies zorgen voor maatvastheid en geometrische stabiliteit met een effectieve trillingsdemping."
+            },
+            {
+              "icon": "lock",
+              "title": "Centreren en opspannen van CTRB",
+              "text": "Wielstellen met externe cassettelagers worden door hydraulische cilinders gecentreerd en opgespannen."
             },
             {
               "icon": "rulers",
-              "title": "Bewerken op basis van meting",
-              "text": "De wielen worden vóór het verspanen gemeten, zodat alleen het noodzakelijke materiaal wordt weggenomen."
+              "title": "Geïntegreerde meting van wielslijtage",
+              "text": "Tastrollen meten profiel, diameter, flenshoogte en flensdikte, binnenwerkse maat en wielbreedte."
             },
             {
-              "icon": "train-front",
-              "title": "Gemengde vloten",
-              "text": "Profielbibliotheek en aanpasbare opstelling voor verschillende typen wielstellen."
+              "icon": "graph-up",
+              "title": "Software voor snede-optimalisatie",
+              "text": "De CNC verwerkt de slijtagegegevens en stelt de meest economische snedediepte voor; alle gegevens worden opgeslagen en blijven opvraagbaar."
             },
             {
-              "icon": "diagram-3",
-              "title": "Integratie in de wielstelwerkplaats",
-              "text": "Kan in een lijn worden opgenomen met meetstations, persen en wielstelsporen."
-            },
-            {
-              "icon": "tools",
-              "title": "Ondersteund door de fabrikant",
-              "text": "Reserveonderdelen, servicecontracten en upgrades rechtstreeks van HYT."
+              "icon": "disc",
+              "title": "Optioneel draaien van remschijven",
+              "text": "Een intrekbare, ingezette ram op de slede bewerkt op wiel en as gemonteerde remschijven tot onder 2,5 μm Ra."
             }
           ]
         },
         {
           "type": "specs",
           "id": "specifications",
-          "heading": "Technische specificaties",
-          "intro": "De technische gegevens van de YPL-04 ontvangt u bij de technische offerte.",
+          "heading": "Technische gegevens",
+          "intro": "Technische gegevens van HYT. Elke machine wordt geconfigureerd op uw spoorwijdte, wielprofielen en voertuigen.",
           "columns": [
             "Parameter",
             "YPL-04"
           ],
           "rows": [
             [
-              "Machinetype",
-              "CNC-portaalwielenbank met rollenaandrijving voor uitgebouwde wielstellen"
+              "Machineconfiguratie",
+              "Portaalconstructie, zes wrijvingsrollen, doorrolhandling van wielstellen"
             ],
             [
-              "Bereik loopcirkeldiameter",
-              "Op aanvraag*"
+              "Vermogen hoofdaandrijving",
+              "Bovenste rollen 2 × 37 kW; onderste rollen 2 × 18,5 kW"
             ],
             [
-              "Wielbreedte",
-              "Op aanvraag"
+              "Snijsnelheid bij profileren",
+              "25–80 m/min"
             ],
             [
-              "Aslengte",
-              "Op aanvraag*"
+              "Voeding gereedschapsslede bij wielprofileren",
+              "0,1–4 mm/omw"
             ],
             [
-              "Maximaal wielstelgewicht",
-              "Op aanvraag"
+              "IJlgang gereedschapsslede, beide assen",
+              "4500 mm/min"
             ],
             [
-              "Hoofdaandrijving",
-              "Op aanvraag"
+              "Max. spaandoorsnede / materiaalafname bij profileren",
+              "10–18 mm²"
             ],
             [
-              "Snijsnelheid",
-              "Op aanvraag"
+              "Cyclustijd per wielstel",
+              "12–16 min"
             ],
             [
               "Spoorwijdte",
-              "Volgens klantspecificatie*"
+              "Naar behoefte"
+            ],
+            [
+              "Loopcirkeldiameter, max. / min.",
+              "1250 mm / 650 mm (afhankelijk van de spoorwijdte)"
+            ],
+            [
+              "Wielbreedte",
+              "100–145 mm"
+            ],
+            [
+              "Max. aslast / gewicht wielstel",
+              "50 kN gewicht wielstel"
+            ],
+            [
+              "Diameterverschil tussen beide wielen",
+              "< 0,1 mm"
+            ],
+            [
+              "Nauwkeurigheid wielprofiel ten opzichte van standaardkaliber",
+              "< 0,2 mm"
+            ],
+            [
+              "Radiale slingering van het wiel",
+              "< 0,1 mm"
+            ],
+            [
+              "Axiale slingering van het wiel",
+              "< 0,2 mm"
+            ],
+            [
+              "Oppervlakteruwheid profiel",
+              "< 12,5 μm Ra"
             ]
           ],
-          "note": "Met * gemarkeerde waarden zijn afhankelijk van de spoorwijdte en de klantconfiguratie. De definitieve waarden worden in de technische offerte bevestigd."
+          "note": "Waarden die afhankelijk zijn van de spoorwijdte zijn in de tabel aangegeven. De definitieve waarden worden in de technische offerte bevestigd."
         },
         {
           "type": "steps",
@@ -1980,7 +2229,7 @@
           "items": [
             {
               "image": "products/roller-type-portal-wheel-lathe",
-              "caption": "Voorbeeldillustratie van de YPL-04-portaalwielenbank met rollenaandrijving"
+              "caption": "HYT CNC-portaalwielenbank met rollenaandrijving YPL-04 met omkast portaal en bedienconsole"
             },
             {
               "image": "products/wheelset-profile-closeup",
@@ -1999,15 +2248,15 @@
           "items": [
             {
               "q": "Wat betekent “met rollenaandrijving”?",
-              "a": "Het beschrijft hoe het wielstel tijdens de bewerking wordt ondersteund en rondgedraaid: op rollen, vergelijkbaar met het aandrijfprincipe van een onderloopdraaibank. De precieze opstelling ziet u in de technische offerte."
+              "a": "De naam verwijst naar de manier waarop het wielstel wordt aangedreven: door zes wrijvingsrollen, drie per wiel, die contact maken met het bovenste en onderste deel van loopvlak en flens. De rollen zitten op tuimelarmen die verticaal verstellen, zodat het contact ook bij vlakke of ovale wielen constant blijft."
             },
             {
               "q": "Wat is het verschil tussen de YPL-04 en de YPL-02?",
-              "a": "Beide zijn portaaldraaibanken voor uitgebouwde wielstellen. De YPL-04 werkt met een rollenopstelling; de [YPL-02](page:portal-wheel-lathe) is het portaalmodel met gepubliceerde gegevens voor zware verspaning. Wij helpen u kiezen op basis van uw wielstellen en werkstroom."
+              "a": "Beide zijn portaalwielenbanken met doorrolhandling voor uitgebouwde wielstellen. De YPL-04 drijft het wielstel aan via zes wrijvingsrollen (boven 2 × 37 kW, onder 2 × 18,5 kW), verwerkt loopcirkeldiameters vanaf 650 mm en voltooit een wielstel in 12–16 minuten. De [YPL-02](page:portal-wheel-lathe) heeft een hoofdaandrijving van 2 × 55 kW en een spaandoorsnede van 32–50 mm² voor zware verspaning, met een cyclustijd van 8–12 minuten. Wij helpen u kiezen op basis van uw wielstellen en werkproces."
             },
             {
               "q": "Zijn er technische gegevens beschikbaar?",
-              "a": "Ja – op aanvraag. Stuur ons uw wieldiameters, aslengten, wielstelgewichten en spoorwijdten, dan ontvangt u gegevens die zijn afgestemd op uw vloot."
+              "a": "Ja – de belangrijkste gegevens staan in de tabel hierboven. Waarden die afhankelijk zijn van de spoorwijdte en de configuratie voor uw wielstellen worden in de technische offerte bevestigd."
             },
             {
               "q": "Heb ik een put nodig?",
@@ -2020,10 +2269,10 @@
     "vertical-turning-boring-machine": {
       "nav": "CNC-verticale draai- en boormachine",
       "title": "CNC-verticale draai- en boormachine YVM-04",
-      "description": "CNC-verticale draai- en boormachine YVM-04 van HYT voor wielen en banden: profiel, velgvlakken en naafboring bewerkt met het wiel op een horizontale tafel.",
+      "description": "Verticale draai- en boormachine voor spoorwegwielen. Complete wielbewerking in één opspanning, met een tafelaandrijving van 45 kW en een gereedschapswisselaar met 12 posities.",
       "eyebrow": "Machines voor de wielstelwerkplaats",
       "h1": "CNC-verticale draai- en boormachine YVM-04 voor spoorwegwielen, banden en naafboringen",
-      "lede": "Losse wielen en banden worden liggend op een draaitafel bewerkt. Daar liggen ze stabiel onder belasting en kunnen profiel en naafboring binnen nauwe toleranties worden gehouden.",
+      "lede": "De verticale draai- en booroplossing voor spoorwegwerkplaatsen – complete wielbewerking in één opspanning, van naafboring tot loopvlakprofiel.",
       "summary": "Verticale draai- en boormachine voor losse spoorwegwielen en banden – profiel, velgvlakken en naafboring – voor nieuwbouw en revisie.",
       "related": [
         "wheel-presses",
@@ -2035,100 +2284,127 @@
         {
           "type": "text",
           "id": "overview",
-          "eyebrow": "Over de machine",
-          "heading": "De eerste precisiestap van een nieuw wielstel",
+          "eyebrow": "Productoverzicht",
+          "heading": "Wat is de CNC-verticale draai- en boormachine?",
           "paragraphs": [
-            "Voordat een wiel op een as kan worden geperst, moet de naafboring op een exacte diameter voor de perspassing worden bewerkt en moeten loopvlak en flens overeenkomen met het voorgeschreven profiel. Een verticale draai- en boormachine is hiervoor het aangewezen gereedschap: het wiel ligt op een horizontale draaitafel, wordt opgespannen en van bovenaf bewerkt.",
-            "Door de verticale opbouw zijn zware wielen eenvoudig met de kraan te laden, blijft het werkstuk stabiel onder de snijbelasting en heeft de operator goed zicht op de snijzone. Dezelfde machine bewerkt ook banden voor bandagewielen en andere ronde onderdelen van het wielstel.",
-            "HYT heeft een CNC-verticale draaibank geleverd aan het treinsteldepot Sanpada in Mumbai en een CNC-verticale revolverdraaibank aan de State Railway of Thailand in Bangkok. Bekijk onze [uitgevoerde projecten](page:executed-projects)."
+            "De CNC-verticale draai- en boormachine van HYT (YVM-04) is speciaal ontwikkeld voor alle bewerkingen aan spoorwegwielen. Door de verticale spilopstelling kunnen zware spoorwegwielen met een grote diameter met uitstekende stabiliteit en nauwkeurigheid worden opgespannen en bewerkt, zonder de vervorming die ontstaat wanneer zware werkstukken horizontaal worden opgespannen.",
+            "De combinatie van een tafelaandrijving van 45 kW, een axiaallagering met grote diameter, geharde vlakgeleidingen en een automatische gereedschapswisselaar met 12 posities maakt de YVM-04 tot een echt bewerkingscentrum dat elk profiel van het spoorwegwiel in één opspanning bewerkt."
           ],
           "image": "products/vertical-turning-boring-machine",
-          "image_alt": "Voorbeeldillustratie van een CNC-verticale draai- en boormachine met een spoorwegwiel op de draaitafel",
+          "image_alt": "HYT CNC-verticale draai- en boormachine YVM-04",
           "layout": "image-right"
         },
         {
           "type": "features",
           "id": "advantages",
           "eyebrow": "Belangrijkste voordelen",
-          "heading": "Waarom wielen verticaal bewerken",
+          "heading": "Waarom kiezen voor de YVM-04?",
           "cols": 3,
           "items": [
             {
+              "icon": "bricks",
+              "title": "Zware gietijzeren constructie",
+              "text": "Uitstekende stijfheid en trillingsvrij bewerken."
+            },
+            {
               "icon": "bullseye",
-              "title": "Nauwkeurige naafboringen",
-              "text": "Boringsdiameter en oppervlaktekwaliteit worden beheerst voor een betrouwbare perspassing op de as."
+              "title": "Uiterst nauwkeurige tafelopbouw",
+              "text": "Axiaal- en kegelrollagers voor maximale nauwkeurigheid."
             },
             {
-              "icon": "layers",
-              "title": "Stabiele opspanning",
-              "text": "Het wiel ligt plat op de tafel, zodat het eigen gewicht helpt om het stevig te laten aanliggen."
+              "icon": "nut",
+              "title": "Flexibele klauwplaatopties",
+              "text": "Hydraulische driebekklauwplaat of vierbekklauwplaat met onafhankelijk verstelbare bekken."
             },
             {
-              "icon": "arrows-collapse",
-              "title": "Minder keren omspannen",
-              "text": "Meerdere bewerkingen in één opspanning beperken de handling en opgetelde maatfouten."
+              "icon": "shield-check",
+              "title": "Volledig omkaste bewerkingsruimte",
+              "text": "Meer veiligheid voor de operator."
             },
             {
-              "icon": "box-seam",
-              "title": "Eenvoudig laden met de kraan",
-              "text": "Zware wielen en banden worden direct op de tafel neergelaten."
+              "icon": "arrows-move",
+              "title": "Nauwkeurig geleidingssysteem",
+              "text": "Soepele beweging, stijfheid en een constante nauwkeurigheid."
             },
             {
-              "icon": "cpu",
-              "title": "Programma's per wieltekening",
-              "text": "Opgeslagen CNC-programma's zorgen ervoor dat elk wiel van een type identiek is."
-            },
-            {
-              "icon": "arrow-repeat",
-              "title": "Nieuwbouw en revisie",
-              "text": "Geschikt voor nieuwe wielen, banden en revisiewerk in dezelfde werkplaats."
+              "icon": "tools",
+              "title": "Automatische gereedschapswisselaar met 12 posities",
+              "text": "Sneller instellen en een hogere productiviteit."
             }
           ]
         },
         {
           "type": "specs",
           "id": "specifications",
-          "heading": "Technische specificaties",
-          "intro": "De YVM-04 wordt geconfigureerd op de wiel- en bandmaten in uw werkplaats.",
+          "heading": "Technische gegevens",
+          "intro": "Technische gegevens van HYT. Elke machine wordt geconfigureerd op uw spoorwijdte, wielprofielen en voertuigen.",
           "columns": [
             "Parameter",
             "YVM-04"
           ],
           "rows": [
             [
-              "Machinetype",
-              "CNC-verticale draai- en boormachine"
+              "Machineconfiguratie",
+              "Verticale draai- en boormachine; complete wielbewerking in één opspanning – wielschijf, profiel, velg en naaf"
             ],
             [
-              "Typische werkstukken",
-              "Spoorwegwielen, banden en vergelijkbare ronde onderdelen"
+              "Vermogen hoofdaandrijving",
+              "Tafelaandrijfmotor 45 kW"
+            ],
+            [
+              "Tafeltoerental",
+              "3–300 omw/min"
+            ],
+            [
+              "IJlgangsnelheid",
+              "Tot 8000 mm/min"
+            ],
+            [
+              "Draai-/zwaaidiameter",
+              "1600 mm"
             ],
             [
               "Tafeldiameter",
-              "Op aanvraag"
+              "1400 mm"
             ],
             [
-              "Maximale draaidiameter",
-              "Op aanvraag"
+              "Draaihoogte",
+              "600 mm"
             ],
             [
-              "Maximale werkstukhoogte",
-              "Op aanvraag"
+              "Verticale slag van de ramkop",
+              "700 mm"
             ],
             [
-              "Maximaal werkstukgewicht",
-              "Op aanvraag"
+              "Horizontale verplaatsing van de ramkop",
+              "+900 / −50 mm"
             ],
             [
-              "Hoofdaandrijving",
-              "Op aanvraag"
+              "Doorsnede van de ram",
+              "200 × 200 mm of 250 × 250 mm"
             ],
             [
-              "CNC-systeem",
-              "Op aanvraag"
+              "Werkstukopspanning",
+              "Zelfcentrerende hydraulische driebekklauwplaat"
+            ],
+            [
+              "Gereedschapswisselaar",
+              "Standaard 12 posities; 20 posities als optie op maat"
+            ],
+            [
+              "Oppervlakteruwheid bij boren",
+              "Ra 0,8 μm"
+            ],
+            [
+              "Oppervlakteruwheid bij draaien",
+              "Ra 1,6 μm"
+            ],
+            [
+              "Oppervlakteruwheid bij vlakdraaien",
+              "Ra 1,6 μm"
             ]
           ],
-          "note": "De definitieve waarden worden in de technische offerte voor uw toepassing bevestigd."
+          "note": "De definitieve waarden worden in de technische offerte bevestigd."
         },
         {
           "type": "steps",
@@ -2227,7 +2503,7 @@
           "items": [
             {
               "image": "products/vertical-turning-boring-machine",
-              "caption": "Voorbeeldillustratie van de YVM-04 verticale draai- en boormachine"
+              "caption": "HYT CNC-verticale draai- en boormachine YVM-04"
             },
             {
               "image": "projects/emu-car-shed",
@@ -2250,7 +2526,7 @@
           "items": [
             {
               "q": "Wat kan er op de YVM-04 worden bewerkt?",
-              "a": "Spoorwegwielen en banden – loopvlak, flens, velgvlakken en naafboring – en vergelijkbare ronde onderdelen. De maatgrenzen worden voor uw werkstukken in de technische offerte bevestigd."
+              "a": "Spoorwegwielen en banden – wielschijf, loopvlakprofiel, velg en naafboring – in één opspanning, en vergelijkbare ronde onderdelen. De machine heeft een draaidiameter van 1600 mm, een tafeldiameter van 1400 mm en een draaihoogte van 600 mm."
             },
             {
               "q": "Waarom wielen verticaal bewerken en niet horizontaal?",
@@ -2274,12 +2550,12 @@
     },
     "axle-journal-turning-burnishing-lathe": {
       "nav": "CNC-draai- en rolpolijstbank voor astappen",
-      "title": "CNC-draai- en rolpolijstbank voor astappen",
-      "description": "CNC-draai- en rolpolijstbank van HYT voor astappen: herstelt lagerzittingen bij wielstelrevisie door nauwkeurig draaien en aansluitend rolpolijsten.",
+      "title": "CNC-draai- en rolpolijstbank voor astappen YTB 04",
+      "description": "CNC-draaibank voor het draaien en rolpolijsten van astappen van spoorwegassen. Ovaliteit en conus onder 0,01 mm en een gerolpolijst oppervlak onder 0,2 μm Ra.",
       "eyebrow": "Machines voor de wielstelwerkplaats",
-      "h1": "CNC-draai- en rolpolijstbank voor astappen bij de revisie van wielstellen",
-      "lede": "Astappen dragen de volledige last van het voertuig. Deze draaibank herstelt hun diameter tijdens de revisie en rolpolijst daarna het oppervlak, zodat het lager een gladde, slijtvaste zitting krijgt.",
-      "summary": "Herstelt en rolpolijst astappen tijdens de revisie van wielstellen, voor nauwkeurige en duurzame lagerzittingen.",
+      "h1": "CNC-draai- en rolpolijstbank voor astappen YTB 04 voor de revisie van wielstellen",
+      "lede": "Een gespecialiseerde CNC-draaibank die astappen van spoorwegassen in hun oorspronkelijke geometrie herstelt en een gerolpolijste lagerzitting onder 0,2 μm Ra oplevert.",
+      "summary": "CNC-draaibank die astappen van spoorwegassen draait en rolpolijst, met ovaliteit en conus onder 0,01 mm en een oppervlak onder 0,2 μm Ra.",
       "related": [
         "axle-turning-lathe",
         "wheel-presses",
@@ -2290,100 +2566,114 @@
         {
           "type": "text",
           "id": "overview",
-          "eyebrow": "Over de machine",
-          "heading": "Afwerken van astappen, niet het draaien van complete assen",
+          "eyebrow": "Productoverzicht",
+          "heading": "Wat is de CNC-draai- en rolpolijstbank voor astappen?",
           "paragraphs": [
-            "Bij elke wielstelrevisie worden de astappen kritisch beoordeeld. Corrosie, passingsroest en slijtage op de lagerzittingen moeten worden verwijderd, en de astap moet weer een diameter en oppervlaktekwaliteit krijgen die volgens de lagerspecificatie toelaatbaar zijn.",
-            "De CNC-draai- en rolpolijstbank voor astappen is precies voor die taak gebouwd. Hij draait de astap en de aangrenzende zittingen op maat en rolpolijst daarna het oppervlak: geharde rollen drukken de toppen weg die het draaien achterlaat en zorgen voor een glad, verdicht oppervlak. Rolpolijsten is een koudvervormingsproces – er ontstaan geen spanen.",
-            "**Dit is een revisiemachine.** Voor het draaien van complete assen uit ruwe of gesmede halffabricaten bij nieuwbouw, zie de [CNC-asdraaibank ATL-01](page:axle-turning-lathe)."
+            "De CNC-draai- en rolpolijstbank voor astappen (model YTB 04) is een gespecialiseerde machine voor het onderhoud en de vervaardiging van wielstellen. Hij herstelt en werkt de astappen af – de nauwkeurige lagerzittingen aan beide uiteinden van een spoorwegas.",
+            "Deze astappen dragen het wielstel in de lagers van het draaistel. Slijtage, ovaliteit, conus of oppervlakteschade kan leiden tot vroegtijdig lagerfalen, overmatige warmteontwikkeling, hogere onderhoudskosten en mogelijke veiligheidsrisico's.",
+            "Bij het draaien wordt versleten of beschadigd materiaal van de astap verwijderd, zodat de oorspronkelijke geometrie en maatnauwkeurigheid worden hersteld. CNC-gestuurde bewerking corrigeert ovaliteit, conus en oppervlakteslijtage en brengt de astap weer binnen de specificatie, waarna rolpolijsten het oppervlak tot de vereiste kwaliteit afwerkt."
           ],
           "image": "products/axle-journal-turning-burnishing-lathe",
-          "image_alt": "Voorbeeldillustratie van een astap die op een CNC-draaibank wordt gerolpolijst",
+          "image_alt": "HYT CNC-draai- en rolpolijstbank voor astappen YTB 04 met een wielstel in de machine",
           "layout": "image-right"
         },
         {
           "type": "features",
           "id": "advantages",
           "eyebrow": "Belangrijkste voordelen",
-          "heading": "Waarom draaien en rolpolijsten op één machine",
-          "cols": 3,
+          "heading": "Waarom kiezen voor de YTB 04?",
+          "cols": 2,
           "items": [
             {
               "icon": "bullseye",
-              "title": "Juiste lagerpassing",
-              "text": "Astappen worden hersteld tot de diameter die nodig is voor een betrouwbare lagerpassing."
+              "title": "Nauwkeurige bewerking van astappen",
+              "text": "Nauwkeurig draaien van binnen- en buitenliggende astappen."
             },
             {
               "icon": "stars",
-              "title": "Glad, verdicht oppervlak",
-              "text": "Rolpolijsten levert een fijn oppervlak op zonder verder materiaal weg te nemen."
+              "title": "Uitstekend rolpolijsten",
+              "text": "Een uitstekende oppervlaktekwaliteit en een langere levensduur van de as."
             },
             {
-              "icon": "shield-check",
-              "title": "Duurzamer oppervlak",
-              "text": "Een gerolpolijst oppervlak is beter bestand tegen slijtage en passingsroest dan een uitsluitend gedraaid oppervlak."
+              "icon": "bricks",
+              "title": "Zwaar, stijf bed",
+              "text": "Twee vaste losse koppen voor maximale stabiliteit en precisie."
             },
             {
-              "icon": "recycle",
-              "title": "Langere levensduur van de as",
-              "text": "Doordat alleen de beschadigde laag wordt verwijderd, blijven assen langer binnen de grenswaarden en gaan ze meer revisies mee."
-            },
-            {
-              "icon": "arrow-left-right",
-              "title": "Geen overbrenging tussen machines",
-              "text": "Draaien en rolpolijsten op dezelfde machine bespaart handling en insteltijd."
-            },
-            {
-              "icon": "cpu",
-              "title": "Herhaalbare programma's",
-              "text": "Opgeslagen programma's per astype zorgen voor constante resultaten."
+              "icon": "arrows-expand",
+              "title": "Automatische compensatie van de aslengte",
+              "text": "Een verende losse kop zorgt voor een constant rolpolijstresultaat."
             }
           ]
         },
         {
           "type": "specs",
           "id": "specifications",
-          "heading": "Technische specificaties",
-          "intro": "De machine wordt geconfigureerd op de astypen in uw revisieprogramma.",
+          "heading": "Technische gegevens",
+          "intro": "Technische gegevens van HYT. Elke machine wordt geconfigureerd op uw spoorwijdte, wielprofielen en voertuigen.",
           "columns": [
             "Parameter",
-            "Waarde"
+            "YTB 04"
           ],
           "rows": [
             [
-              "Machinetype",
-              "CNC-draaibank voor het draaien en rolpolijsten van astappen"
+              "Machineconfiguratie",
+              "Draai- en rolpolijstbank voor astappen; binnen- en buitenliggende astappen van wielstelassen"
             ],
             [
-              "Typische werkzaamheden",
-              "Herstel van astappen en aangrenzende zittingen tijdens revisie"
+              "Vermogen hoofdaandrijving",
+              "Hoofdaandrijfmotor 11 kW"
             ],
             [
-              "Maximale aslengte",
-              "Op aanvraag*"
+              "Snijsnelheid bij asdraaien en rolpolijsten",
+              "50–400 m/min"
             ],
             [
-              "Bereik diameter astap",
-              "Op aanvraag"
+              "Voeding gereedschapsslede bij asdraaien en rolpolijsten",
+              "0,1–2,5 mm/omw"
             ],
             [
-              "Maximaal werkstukgewicht",
-              "Op aanvraag"
+              "Max. snedediepte bij asdraaien",
+              "2 mm"
             ],
             [
-              "Rolpolijstgereedschap",
-              "Op aanvraag"
+              "Loopcirkeldiameter, max. / min.",
+              "1250 mm / 540 mm (afhankelijk van de spoorwijdte)"
             ],
             [
-              "Hoofdaandrijving",
-              "Op aanvraag"
+              "Wielbreedte",
+              "75–145 mm"
             ],
             [
-              "CNC-systeem",
-              "Op aanvraag"
+              "Aslengte, max. / min.",
+              "2750 mm / 1200 mm (afhankelijk van de spoorwijdte)"
+            ],
+            [
+              "Diameter astap, min. – max.",
+              "70–320 mm"
+            ],
+            [
+              "Lengte astap, min. – max.",
+              "110–480 mm"
+            ],
+            [
+              "Max. gewicht wielstel",
+              "50 kN"
+            ],
+            [
+              "Ovaliteit van de astap",
+              "< 0,01 mm"
+            ],
+            [
+              "Conus van de astap",
+              "< 0,01 mm per 100 mm"
+            ],
+            [
+              "Oppervlakteruwheid van de astap na rolpolijsten",
+              "< 0,2 μm Ra"
             ]
           ],
-          "note": "Met * gemarkeerde waarden zijn afhankelijk van de spoorwijdte en de klantconfiguratie. De definitieve waarden worden in de technische offerte bevestigd."
+          "note": "Waarden die afhankelijk zijn van de spoorwijdte zijn in de tabel aangegeven. De definitieve waarden worden in de technische offerte bevestigd."
         },
         {
           "type": "steps",
@@ -2482,7 +2772,7 @@
           "items": [
             {
               "image": "products/axle-journal-turning-burnishing-lathe",
-              "caption": "Voorbeeldillustratie van de draai- en rolpolijstbank voor astappen"
+              "caption": "HYT CNC-draai- en rolpolijstbank voor astappen YTB 04 met een wielstel in de machine"
             },
             {
               "image": "projects/railway-wheel-shop",
@@ -2501,7 +2791,7 @@
           "items": [
             {
               "q": "Wat is het verschil tussen deze machine en de asdraaibank ATL-01?",
-              "a": "Deze draaibank herstelt en rolpolijst de astappen van assen die al in gebruik zijn. De [ATL-01](page:axle-turning-lathe) draait complete assen uit ruwe of gesmede halffabricaten bij nieuwbouw. Veel wielstelwerkplaatsen hebben beide nodig."
+              "a": "De YTB 04 draait en rolpolijst de binnen- en buitenliggende lagertappen van wielstelassen. De [ATL-01](page:axle-turning-lathe) voert het voor- en nabewerken van complete assen tussen de centers uit. Veel wielstelwerkplaatsen hebben beide nodig."
             },
             {
               "q": "Waarom rolpolijsten na het draaien?",
@@ -2513,7 +2803,7 @@
             },
             {
               "q": "Welke oppervlakken kunnen worden bewerkt?",
-              "a": "Astappen en, afhankelijk van de asconstructie, aangrenzende zittingen. De precieze omvang wordt voor uw astekeningen in de technische offerte bevestigd."
+              "a": "Binnen- en buitenliggende astappen van wielstelassen, met tapdiameters van 70–320 mm en taplengten van 110–480 mm, op assen van 1200–2750 mm (afhankelijk van de spoorwijdte) en wielstellen tot 50 kN."
             },
             {
               "q": "Kan de machine verschillende astypen verwerken?",
@@ -2525,12 +2815,12 @@
     },
     "axle-turning-lathe": {
       "nav": "CNC-asdraaibank",
-      "title": "CNC-asdraaibank ATL-01 voor nieuwe assen",
-      "description": "De CNC-asdraaibank ATL-01 van HYT bewerkt complete spoorwegassen uit ruwe of gesmede halffabricaten – astappen, zittingen en asschacht volgens tekening.",
+      "title": "CNC-asdraaibank ATL-01",
+      "description": "Zware CNC-draaibank voor het voor- en nabewerken van spoorwegassen: aandrijving van 41 kW, 30–2500 omw/min, 3000 mm tussen de centers, 600 mm draaidiameter boven de dwarsslede.",
       "eyebrow": "Machines voor de wielstelwerkplaats",
-      "h1": "CNC-asdraaibank ATL-01 voor het volledig draaien van ruwe en gesmede assen",
-      "lede": "De ATL-01 draait een spoorwegas van gesmeed halffabricaat tot afgewerkte contour – astappen, stofkeerring- en wielzittingen, overgangen en asschacht – klaar voor de volgende productiestap.",
-      "summary": "Draait complete spoorwegassen uit ruwe of gesmede halffabricaten tot de afgewerkte contour, voor de productie van nieuwe wielstellen.",
+      "h1": "CNC-asdraaibank ATL-01 voor het voor- en nabewerken van spoorwegassen",
+      "lede": "Een zware, uiterst nauwkeurige CNC-draaibank voor het voor- en nabewerken van spoorwegassen – gebouwd voor hoge productie-eisen in onderhoudsdepots en productiewerkplaatsen.",
+      "summary": "Zware CNC-draaibank voor het voor- en nabewerken van spoorwegassen, met 3000 mm tussen de centers en een aandrijving van 41 kW.",
       "related": [
         "axle-journal-turning-burnishing-lathe",
         "wheel-presses",
@@ -2541,100 +2831,129 @@
         {
           "type": "text",
           "id": "overview",
-          "eyebrow": "Over de machine",
-          "heading": "Van smeedstuk tot afgewerkte as",
+          "eyebrow": "Productoverzicht",
+          "heading": "Wat is de CNC-asdraaibank?",
           "paragraphs": [
-            "Een nieuwe as begint als smeedstuk met bewerkingstoeslag op elke diameter. Het draaien volgens tekening is veeleisend: de as is lang en zwaar, meerdere diameters moeten ten opzichte van elkaar rondlopen en de overgangsradii tussen de zittingen zijn bepalend voor de vermoeiingssterkte.",
-            "De ATL-01 is een CNC-draaibank die speciaal voor deze volledige draaibewerking is bedoeld. Hij bewerkt de as over de hele lengte – astappen, stofkeerringzittingen, wielzittingen, overgangen en asschacht – zodat de as de machine verlaat klaar voor nabewerking, inspectie en wielmontage.",
-            "**Het verschil met de astapdraaibank:** de [CNC-draai- en rolpolijstbank voor astappen](page:axle-journal-turning-burnishing-lathe) is een revisiemachine die de astappen van assen in gebruik herstelt en rolpolijst. De ATL-01 is een productiemachine die de hele as uit een ruw of gesmeed halffabricaat draait."
+            "De CNC-asdraaibank (model ATL-01) is een zware, uiterst nauwkeurige CNC-machine die speciaal is ontwikkeld voor het voor- en nabewerken van spoorwegassen. Hij is geschikt voor hoge productie-eisen en wordt zowel in onderhoudsdepots als in productiewerkplaatsen ingezet.",
+            "De machineopbouw zorgt voor een hoge stijfheid, thermische stabiliteit en trillingsdemping, waardoor de maatnauwkeurigheid tijdens de hele bewerkingscyclus constant blijft. Constructiedelen die snijkrachten opnemen, zijn uitgevoerd in fijnkorrelig gietijzer, en een compacte, stijve dwarsslede draagt de revolverkop.",
+            "In de automatische cyclus voert de machine het complete draaien van de as en het bewerken van de lagerzittingen uit. Rolpolijsten, boren en tappen, een intrekbare driebekklauwplaat met meenemer en het complete nabewerken van de as in één opspanning zijn alle op aanvraag leverbaar.",
+            "Speciale besturingssoftware met HMI-schermen op maat bewaakt de veiligheidsvoorzieningen voor een eenvoudige en veilige bediening en toont storingsmeldingen. Onderhoud op afstand vanuit het hoofdkantoor van HYT is beschikbaar, en doordat de onderdelen die aandacht nodig hebben snel bereikbaar zijn, blijft de servicetijd kort. De machine integreert zowel Industrie 4.0- als Industrie 5.0-functies."
           ],
           "image": "products/axle-turning-lathe",
-          "image_alt": "Voorbeeldillustratie van een CNC-asdraaibank die een spoorwegas over de volle lengte bewerkt",
+          "image_alt": "Voorbeeldillustratie van een CNC-asdraaibank",
           "layout": "image-right"
         },
         {
           "type": "features",
           "id": "advantages",
           "eyebrow": "Belangrijkste voordelen",
-          "heading": "Gebouwd voor het volledig draaien van assen",
+          "heading": "Waarom kiezen voor de ATL-01?",
           "cols": 3,
           "items": [
             {
+              "icon": "speedometer2",
+              "title": "Gebouwd voor asbewerking in grote aantallen",
+              "text": "Voor- en nabewerken van spoorwegassen in onderhoudsdepots en productiewerkplaatsen."
+            },
+            {
+              "icon": "bricks",
+              "title": "Robuuste constructie van fijnkorrelig gietijzer",
+              "text": "Constructiedelen die snijkrachten opnemen, zijn van gietijzer, voor een hoge stijfheid, thermische stabiliteit en trillingsdemping."
+            },
+            {
               "icon": "arrows-expand",
-              "title": "Bewerking over de volle lengte",
-              "text": "Elke diameter langs de as wordt op één machine volgens tekening gedraaid."
+              "title": "Royale draaidiameter van 600 mm boven de dwarsslede",
+              "text": "Op een driebaansbed, met een compacte en stijve dwarsslede om assen eenvoudig te bewerken."
+            },
+            {
+              "icon": "sliders",
+              "title": "Traploze toerentalregeling",
+              "text": "Van 30 tot 2500 omw/min met een spilkoppel van 1200 Nm, voor zowel voor- als nabewerkingsgangen."
+            },
+            {
+              "icon": "gear-wide-connected",
+              "title": "Revolverkop met 8 of 12 posities",
+              "text": "Aangedreven gereedschap op aanvraag, zodat boren en tappen zonder tweede opspanning mogelijk zijn."
             },
             {
               "icon": "bullseye",
-              "title": "Concentrische zittingen",
-              "text": "Astappen, zittingen en asschacht worden op een gemeenschappelijke as bewerkt voor een constante slingering."
+              "title": "Optimale geometrische nauwkeurigheid",
+              "text": "In rondheid, ovaliteit, oppervlakteruwheid en cilindriciteit van de bewerkte as."
             },
             {
-              "icon": "bezier2",
-              "title": "Beheerste overgangsradii",
-              "text": "CNC-contourdraaien levert de voorgeschreven radii tussen de zittingen, die bepalend zijn voor de vermoeiingssterkte."
+              "icon": "life-preserver",
+              "title": "Zware zelfcentrerende bril",
+              "text": "Betrouwbare ondersteuning van de as tijdens de snede."
             },
             {
-              "icon": "lightning-charge",
-              "title": "Efficiënte materiaalafname",
-              "text": "Voor- en nabewerkingsgangen afgestemd op de toeslag van gesmede assen."
+              "icon": "droplet",
+              "title": "Directe koelmiddeltoevoer door de revolverkop",
+              "text": "Aangevoerd tot op het snijpunt voor een efficiënte koeling."
+            },
+            {
+              "icon": "volume-mute",
+              "title": "Volledig omsloten geluidwerende cabine",
+              "text": "Een stillere en veiligere werkomgeving."
             },
             {
               "icon": "cpu",
-              "title": "Programma's per tekening",
-              "text": "Elk astype wordt eenmaal opgeslagen en exact gereproduceerd."
-            },
-            {
-              "icon": "diagram-3",
-              "title": "Levert aan de wielpers",
-              "text": "Afgewerkte wielzittingen, klaar voor montage op de [wielpers](page:wheel-presses)."
+              "title": "CNC-besturing van Siemens / Fanuc",
+              "text": "HMI-schermen op maat en onderhoud op afstand vanuit het hoofdkantoor van HYT."
             }
           ]
         },
         {
           "type": "specs",
           "id": "specifications",
-          "heading": "Technische specificaties",
-          "intro": "De ATL-01 wordt gedimensioneerd op de astekeningen die u produceert.",
+          "heading": "Technische gegevens",
+          "intro": "Technische gegevens van HYT. Elke machine wordt geconfigureerd op uw spoorwijdte, wielprofielen en voertuigen.",
           "columns": [
             "Parameter",
             "ATL-01"
           ],
           "rows": [
             [
-              "Machinetype",
-              "CNC-asdraaibank"
+              "Machineconfiguratie",
+              "CNC-asdraaibank; voor- en nabewerken van spoorwegassen tussen de centers"
             ],
             [
-              "Werkstuk",
-              "Ruwe of gesmede spoorwegassen"
+              "Draaidiameter boven dwarsslede",
+              "0–600 mm"
             ],
             [
-              "Maximale aslengte",
-              "Op aanvraag"
+              "Max. belasting tussen de centers",
+              "1,5 t"
             ],
             [
-              "Maximale draaidiameter",
-              "Op aanvraag"
+              "Toelaatbaar spilkoppel",
+              "1200 Nm"
             ],
             [
-              "Maximaal asgewicht",
-              "Op aanvraag"
+              "Vermogen",
+              "41 kW"
             ],
             [
-              "Hoofdaandrijving",
-              "Op aanvraag"
+              "Toerental",
+              "30–2500 omw/min"
             ],
             [
-              "Werkstukopspanning",
-              "Op aanvraag"
+              "Afstand tussen de centers",
+              "3000 mm"
+            ],
+            [
+              "Diameter van de pinole",
+              "160 mm"
+            ],
+            [
+              "Revolverkop",
+              "8 of 12 posities, met aangedreven gereedschap op aanvraag"
             ],
             [
               "CNC-systeem",
-              "Op aanvraag"
+              "Siemens / Fanuc met software"
             ]
           ],
-          "note": "De definitieve waarden worden in de technische offerte voor uw toepassing bevestigd."
+          "note": "De definitieve waarden worden in de technische offerte bevestigd."
         },
         {
           "type": "steps",
@@ -2705,6 +3024,11 @@
               "icon": "hammer",
               "title": "As- en smeedbedrijven",
               "text": "Bewerking van gesmede assen vóór levering aan wielstelassembleurs."
+            },
+            {
+              "icon": "wrench-adjustable",
+              "title": "Onderhoudsdepots",
+              "text": "Voor- en nabewerken van assen als onderdeel van het eigen wielstelonderhoud."
             }
           ]
         },
@@ -2751,15 +3075,15 @@
           "items": [
             {
               "q": "Wat is het verschil tussen de ATL-01 en de draai- en rolpolijstbank voor astappen?",
-              "a": "De ATL-01 draait complete assen uit ruwe of gesmede halffabricaten bij nieuwbouw. De [astapdraaibank](page:axle-journal-turning-burnishing-lathe) herstelt en rolpolijst tijdens de revisie de astappen van assen die in gebruik zijn."
+              "a": "De ATL-01 voert het voor- en nabewerken van complete spoorwegassen tussen de centers uit. De [astappendraaibank](page:axle-journal-turning-burnishing-lathe) (YTB 04) draait en rolpolijst de binnen- en buitenliggende lagertappen van wielstelassen tijdens de revisie."
             },
             {
-              "q": "Kan de ATL-01 gebruikte assen opnieuw bewerken?",
-              "a": "De machine is bedoeld voor het volledig draaien van nieuwe assen. Het herstel van astappen bij assen in gebruik gebeurt normaal gesproken op de draai- en rolpolijstbank voor astappen – neem contact met ons op als uw proces beide combineert."
+              "q": "Wordt de ATL-01 in onderhoudsdepots gebruikt of alleen in de productie?",
+              "a": "Beide. De ATL-01 is gebouwd voor hoge productie-eisen en wordt zowel in onderhoudsdepots als in productiewerkplaatsen ingezet. Omvat uw proces ook het herstellen van astappen aan gemonteerde wielstellen, bekijk dan de [draai- en rolpolijstbank voor astappen](page:axle-journal-turning-burnishing-lathe)."
             },
             {
               "q": "Welke astypen kunnen worden bewerkt?",
-              "a": "Assen voor locomotieven, rijtuigen, wagons en treinstellen, binnen de capaciteit van de machine qua lengte, diameter en gewicht. Die worden aan de hand van uw tekeningen bevestigd."
+              "a": "Assen voor locomotieven, rijtuigen, wagons en treinstellen binnen de capaciteit van de machine: 3000 mm tussen de centers, 1,5 t belasting tussen de centers en 600 mm draaidiameter boven de dwarsslede. Wij controleren de geschiktheid aan de hand van uw astekeningen."
             },
             {
               "q": "Wat gebeurt er na het draaien?",
@@ -3523,12 +3847,12 @@
     },
     "multi-purpose-armature-machine": {
       "nav": "Multifunctionele ankermachine",
-      "title": "Multifunctionele ankermachine voor tractiemotoren",
-      "description": "Multifunctionele ankermachine van HYT voor de revisie van tractiemotoren: collector afdraaien, mica uitfrezen en verwante ankerbewerkingen op één machine.",
+      "title": "Multifunctionele ankermachine YMM-04",
+      "description": "Revisie van ankers van tractiemotoren op één platform: collector draaien en slijpen, mica uitfrezen, bandageren, narollen en spoelen afsnijden.",
       "eyebrow": "Uitrusting voor depot en werkplaats",
-      "h1": "Multifunctionele ankermachine voor het onderhoud van ankers van tractiemotoren",
-      "lede": "Ankers van tractiemotoren vragen tijdens de revisie om meerdere precisiebewerkingen. Deze machine combineert ze, zodat het anker minder vaak hoeft te worden verplaatst en opgespannen.",
-      "summary": "Combineert het afdraaien van de collector, het uitfrezen van mica en verwante ankerbewerkingen voor de revisie van tractiemotoren op één machine.",
+      "h1": "Multifunctionele ankermachine YMM-04 voor de revisie van ankers van tractiemotoren",
+      "lede": "Eén platform voor de complete revisie van ankers van tractiemotoren – draaien, slijpen, mica uitfrezen, bandageren en spoelen afsnijden op één machine.",
+      "summary": "Eén platform voor de revisie van ankers van tractiemotoren: collector draaien en slijpen, mica uitfrezen, bandageren, narollen en spoelen afsnijden.",
       "related": [
         "automated-train-washing-plant",
         "rail-cum-road-vehicle-shunter",
@@ -3538,92 +3862,128 @@
         {
           "type": "text",
           "id": "overview",
-          "eyebrow": "Over de machine",
-          "heading": "De collector herstellen, de motoren in bedrijf houden",
+          "eyebrow": "Productoverzicht",
+          "heading": "Wat is de multifunctionele ankermachine?",
           "paragraphs": [
-            "In een gelijkstroomtractiemotor bereikt de stroom het anker via de collector en de koolborstels. Na verloop van tijd slijt de collector onrond, wordt het oppervlak ruw en komt de mica-isolatie tussen de koperen lamellen gelijk te liggen met het koper. Het gevolg is snelle borstelslijtage, vonkvorming en uiteindelijk uitval van de motor.",
-            "Het herstellen van de collector omvat meerdere bewerkingen: het oppervlak rond draaien, de mica tot onder het koper uitfrezen en de lamelranden afwerken. De multifunctionele ankermachine voert deze bewerkingen uit op één machine, zodat het anker minder vaak tussen werkplekken wordt verplaatst.",
-            "De precieze functieomvang wordt geconfigureerd op de ankertypen in uw vloot."
+            "De multifunctionele ankermachine is een gespecialiseerd onderhouds- en revisiesysteem voor de complete revisie van ankers van tractiemotoren in elektrische locomotieven, elektrische treinstellen, metrorijtuigen en ander rollend materieel.",
+            "In plaats van meerdere losse machines voor verschillende bewerkingen te gebruiken, integreert de HYT YMM-04 een aantal kritische onderhoudsprocessen voor ankers op één platform. Dat verbetert de productiviteit, de nauwkeurigheid en de efficiëntie van de werkplaats.",
+            "De machine herstelt versleten collectoren en lagertappen tot hun oorspronkelijke afmetingen en oppervlaktekwaliteit. Zeer nauwkeurig draaien en slijpen zorgt voor een beter elektrisch contact, minder borstelslijtage, een soepelere motorwerking en een langere levensduur van de onderdelen. De YMM-04 houdt ovaliteit en conus van de collector onder 0,015 mm."
           ],
           "image": "products/multi-purpose-armature-machine",
-          "image_alt": "Voorbeeldillustratie van een anker van een tractiemotor op een multifunctionele ankermachine",
+          "image_alt": "HYT multifunctionele ankermachine YMM-04 met een anker van een tractiemotor in de machine",
           "layout": "image-right"
         },
         {
           "type": "features",
           "id": "advantages",
           "eyebrow": "Belangrijkste voordelen",
-          "heading": "Waarom ankerbewerkingen combineren",
+          "heading": "Waarom kiezen voor de YMM-04?",
           "cols": 3,
           "items": [
             {
-              "icon": "layers",
-              "title": "Meerdere bewerkingen, één machine",
-              "text": "Draaien, uitfrezen en verwant werk zonder het anker tussen machines te verplaatsen."
+              "icon": "scissors",
+              "title": "Automatisch mica uitfrezen",
+              "text": "Nauwkeurig verwijderen van isolatie."
+            },
+            {
+              "icon": "stars",
+              "title": "Ontbramen en polijsten",
+              "text": "Een uitstekende oppervlaktekwaliteit van de collector."
             },
             {
               "icon": "bullseye",
-              "title": "Rondlopende collector",
-              "text": "Een concentrisch collectoroppervlak zorgt voor een gelijkmatig borstelcontact."
+              "title": "Nauwkeurig draaien en slijpen",
+              "text": "Van collectoren en lagertappen."
             },
             {
-              "icon": "scissors",
-              "title": "Zuiver uitgefreesd",
-              "text": "Mica teruggenomen tot onder het koper om borstelslijtage en overslag te voorkomen."
+              "icon": "layers",
+              "title": "Geïntegreerde ankerbewerking",
+              "text": "Bandageren, narollen en spoelen afsnijden op dezelfde machine."
             },
             {
-              "icon": "arrows-move",
-              "title": "Minder handling",
-              "text": "Zware ankers worden minder vaak getild en opgespannen."
+              "icon": "bricks",
+              "title": "Zware gietijzeren spilkast",
+              "text": "Uitzonderlijke stijfheid en bewerkingsnauwkeurigheid."
             },
             {
-              "icon": "sliders",
-              "title": "Aanpasbaar",
-              "text": "Geconfigureerd op de ankermaten in uw vloot."
-            },
-            {
-              "icon": "house-gear",
-              "title": "Geschikt voor het depot",
-              "text": "Eén machine in plaats van meerdere bespaart vloeroppervlak in de werkplaats."
+              "icon": "wifi",
+              "title": "Diagnose op afstand",
+              "text": "Snellere storingsanalyse en deskundige ondersteuning door HYT."
             }
           ]
         },
         {
           "type": "specs",
           "id": "specifications",
-          "heading": "Technische specificaties",
-          "intro": "De machine wordt geconfigureerd op de ankertypen die u onderhoudt.",
+          "heading": "Technische gegevens",
+          "intro": "Technische gegevens van HYT. Elke machine wordt geconfigureerd op uw spoorwijdte, wielprofielen en voertuigen.",
           "columns": [
             "Parameter",
-            "Waarde"
+            "YMM-04"
           ],
           "rows": [
             [
-              "Werkstuk",
-              "Ankers van tractiemotoren"
+              "Machineconfiguratie",
+              "Universele multifunctionele ankermachine; mica uitfrezen, draaien, slijpen, bandageren, narollen en spoelen afsnijden"
             ],
             [
-              "Bewerkingen",
-              "Collector afdraaien, mica uitfrezen en verwante bewerkingen – omvang op aanvraag"
+              "Vermogen hoofdaandrijving",
+              "Hoofdaandrijfmotor 15 kW"
             ],
             [
-              "Maximaal ankergewicht",
-              "Op aanvraag"
+              "Spiltoerental spilkast, traploos regelbaar",
+              "1,5–300 omw/min"
             ],
             [
-              "Maximale ankerlengte",
-              "Op aanvraag"
+              "Voeding slede, langs",
+              "0–100 mm/min"
             ],
             [
-              "Bereik collectordiameter",
-              "Op aanvraag"
+              "IJlgang slede, langs",
+              "600 mm/min"
             ],
             [
-              "Aandrijving",
-              "Op aanvraag"
+              "Max. snedediepte bij collector draaien",
+              "2,5 mm"
+            ],
+            [
+              "Max. bandagespanning voor draad-/bandbandage",
+              "300 kg"
+            ],
+            [
+              "Ankergewicht, max.",
+              "30 kN"
+            ],
+            [
+              "Ankerlengte, min. – max.",
+              "500–1600 mm"
+            ],
+            [
+              "Ankerdiameter, min. – max.",
+              "130–1500 mm"
+            ],
+            [
+              "Te bewerken collectordiameter, min. – max.",
+              "120–900 mm"
+            ],
+            [
+              "Te bewerken collectorlengte, min. – max.",
+              "75–450 mm"
+            ],
+            [
+              "Ovaliteit bij collector draaien",
+              "< 0,015 mm"
+            ],
+            [
+              "Conus bij collector draaien",
+              "< 0,015 mm"
+            ],
+            [
+              "Gelijkmatigheid van de bandagespanning",
+              "< ± 10 kg"
             ]
           ],
-          "note": "De definitieve waarden worden in de technische offerte voor uw toepassing bevestigd."
+          "note": "De definitieve waarden worden in de technische offerte bevestigd."
         },
         {
           "type": "steps",
@@ -3640,16 +4000,16 @@
               "text": "De collector wordt gecontroleerd op excentriciteit en oppervlaktetoestand."
             },
             {
-              "title": "Draaien",
-              "text": "Het collectoroppervlak wordt rond gedraaid."
+              "title": "Draaien en slijpen",
+              "text": "De collector en de lagertappen worden rondlopend gedraaid en geslepen."
             },
             {
               "title": "Uitfrezen",
               "text": "De mica tussen de lamellen wordt tot onder het koper teruggenomen."
             },
             {
-              "title": "Afwerken",
-              "text": "De lamelranden worden afgeschuind en het oppervlak wordt gereinigd."
+              "title": "Ontbramen en polijsten",
+              "text": "De lamelranden worden ontbraamd en het collectoroppervlak wordt gepolijst."
             },
             {
               "title": "Inspecteren",
@@ -3663,14 +4023,14 @@
           "heading": "Belangrijkste kenmerken",
           "cols": 2,
           "items": [
-            "Collector afdraaien",
-            "Mica uitfrezen",
-            "Afwerking van lamelranden",
-            "Ankerondersteuning afgestemd op uw assortiment ankers",
-            "Meerdere bewerkingen in één opspanning",
-            "Afgeschermde werkruimte",
-            "Ontworpen voor depotwerkplaatsen",
-            "Geconfigureerd op de motoren in uw vloot"
+            "Collector draaien en slijpen",
+            "Automatisch mica uitfrezen",
+            "Ontbramen en polijsten",
+            "Draaien en slijpen van lagertappen",
+            "Draad- en bandbandage tot 300 kg spanning",
+            "Narollen en spoelen afsnijden",
+            "Traploos regelbaar spilkasttoerental, 1,5–300 omw/min",
+            "Zware gietijzeren spilkast"
           ]
         },
         {
@@ -3722,7 +4082,7 @@
           "items": [
             {
               "image": "products/multi-purpose-armature-machine",
-              "caption": "Voorbeeldillustratie van de multifunctionele ankermachine"
+              "caption": "HYT multifunctionele ankermachine YMM-04 met een anker van een tractiemotor in de machine"
             },
             {
               "image": "projects/emu-car-shed",
@@ -3741,7 +4101,7 @@
           "items": [
             {
               "q": "Welke bewerkingen voert de machine uit?",
-              "a": "Collector afdraaien en mica uitfrezen, samen met verwante afwerkingsbewerkingen. De precieze omvang wordt geconfigureerd op uw ankertypen."
+              "a": "Collector draaien en slijpen, mica uitfrezen, ontbramen en polijsten, draaien en slijpen van lagertappen, draad- en bandbandage, narollen en spoelen afsnijden – alles op één machine."
             },
             {
               "q": "Waarom de mica uitfrezen?",
@@ -3753,7 +4113,7 @@
             },
             {
               "q": "Welke ankermaten kunnen worden verwerkt?",
-              "a": "De grenzen voor ankergewicht, ankerlengte en collectordiameter worden afgestemd op uw vloot en in de technische offerte bevestigd."
+              "a": "Ankers tot 30 kN, 500–1600 mm lang en met een diameter van 130–1500 mm, met collectordiameters van 120–900 mm en collectorlengten van 75–450 mm."
             },
             {
               "q": "Kan de machine in een bestaande depotwerkplaats worden geïnstalleerd?",
@@ -3765,12 +4125,12 @@
     },
     "automated-train-washing-plant": {
       "nav": "Automatische treinwasinstallatie",
-      "title": "Automatische treinwasinstallatie voor depots",
-      "description": "Automatische treinwasinstallatie van HYT: reinigt de buitenkant van doorrijdende treinen – constant resultaat, minder handwerk, beheerst waterverbruik.",
+      "title": "Automatische treinwasinstallatie",
+      "description": "Automatische doorrijwasinstallatie voor rijtuigen van Indian Railways. Een treinstam van 24 rijtuigen in minder dan 15 minuten, met maximaal 60 liter vers water per rijtuig.",
       "eyebrow": "Uitrusting voor depot en werkplaats",
       "h1": "Automatische treinwasinstallatie voor het reinigen van de buitenkant tijdens het doorrijden",
-      "lede": "Treinen rijden langzaam door de installatie en komen er schoon uit. Automatisch wassen levert een constant resultaat, ontlast het personeel van handwerk en houdt het verbruik van water en reinigingsmiddel onder controle.",
-      "summary": "Doorrijwasinstallatie die de buitenkant van treinen automatisch wast, voor een constante reiniging met minder arbeid en een beheerst waterverbruik.",
+      "lede": "Een volledig geautomatiseerd doorrijsysteem voor het wassen van de buitenkant van rijtuigen, ontwikkeld voor Indian Railways – reinigt een volledige treinstam van 24 rijtuigen in minder dan 15 minuten, met minimaal waterverbruik en zonder handmatige tussenkomst.",
+      "summary": "Automatische doorrijwasinstallatie die een treinstam van 24 rijtuigen in minder dan 15 minuten reinigt, met maximaal 60 liter vers water per rijtuig.",
       "related": [
         "rail-cum-road-vehicle-shunter",
         "multi-purpose-armature-machine",
@@ -3780,100 +4140,95 @@
         {
           "type": "text",
           "id": "overview",
-          "eyebrow": "Over de installatie",
-          "heading": "Schone treinen zonder handwerk",
+          "eyebrow": "Productoverzicht",
+          "heading": "Wat is de automatische treinwasinstallatie?",
           "paragraphs": [
-            "Een schone trein is belangrijk voor de reizigers, voor het zicht van de machinist en voor de staat van lak, ruiten en afdichtingen. Met de hand wassen is traag, fysiek zwaar en bij een grote vloot lastig consequent uit te voeren.",
-            "Een automatische wasinstallatie wordt op een depotspoor geplaatst. De trein rijdt er met lage snelheid doorheen terwijl de installatie de wagenbak bevochtigt, reinigingsmiddel aanbrengt, met roterende borstels schrobt en naspoelt. Sensoren detecteren het voertuig en sturen elke fase aan, zodat water en reinigingsmiddel alleen worden gebruikt waar een trein aanwezig is.",
-            "Indeling van de installatie, borstelopstelling, chemicaliën en waterbehandeling worden ontworpen op basis van uw voertuigprofielen, het depotspoor en de lokale waterkwaliteit."
+            "De automatische treinwasinstallatie van HYT maakt het reinigen van rijtuigen onafhankelijk van handarbeid – een essentiële eis voor hygiëne en presentatie in de depots en wasstraten van Indian Railways.",
+            "Het systeem is ontworpen als vaste installatie waar treinstammen met lage snelheid doorheen rijden. Terwijl elk rijtuig door de installatie rijdt, wordt het achtereenvolgens voorbevochtigd, chemisch behandeld, mechanisch geborsteld, met hoge druk nagespoeld en afgedroogd met moppen, alles zonder te stoppen. Waterhergebruik via een geïntegreerde afvalwaterzuiveringsinstallatie (ETP) verlaagt de bedrijfskosten verder."
           ],
           "image": "products/automated-train-washing-plant",
-          "image_alt": "Voorbeeldillustratie van een trein die door een automatische wasinstallatie met roterende borstels rijdt",
+          "image_alt": "HYT automatische treinwasinstallatie met borsteleenheden aan beide zijden van het spoor",
           "layout": "image-right"
         },
         {
           "type": "features",
           "id": "advantages",
           "eyebrow": "Belangrijkste voordelen",
-          "heading": "Waarom treinen automatisch wassen",
+          "heading": "Waarom kiezen voor de automatische treinwasinstallatie?",
           "cols": 3,
           "items": [
             {
-              "icon": "check2-circle",
-              "title": "Constant resultaat",
-              "text": "Elk voertuig wordt met dezelfde volgorde en dekking gewassen."
-            },
-            {
-              "icon": "people",
-              "title": "Minder handwerk",
-              "text": "Personeel wordt ontlast van zwaar, repetitief reinigingswerk."
-            },
-            {
-              "icon": "droplet",
-              "title": "Beheerst waterverbruik",
-              "text": "Water en reinigingsmiddel worden alleen aangebracht waar en wanneer dat nodig is."
+              "icon": "magic",
+              "title": "Volledig geautomatiseerde wascyclus",
+              "text": "Constant reinigen van rijtuigen, zonder handwerk."
             },
             {
               "icon": "recycle",
-              "title": "Optie voor waterterugwinning",
-              "text": "Terugwinning en behandeling kunnen worden opgenomen om de behoefte aan vers water te verminderen."
+              "title": "Systeem voor waterhergebruik",
+              "text": "Een geïntegreerde ETP beperkt het verbruik van vers water tot slechts 60 liter per rijtuig."
             },
             {
-              "icon": "clock-history",
-              "title": "Snelle doorgang",
-              "text": "Treinen worden gewassen terwijl ze doorrijden, passend binnen de normale bewegingen in het depot."
+              "icon": "speedometer",
+              "title": "Snelheidsdetectie met laser",
+              "text": "Synchroniseert de wascyclus automatisch met de beweging van de trein."
             },
             {
-              "icon": "brush",
-              "title": "Borstels afgestemd op het profiel",
-              "text": "Borstelopstelling ontworpen op basis van uw voertuigprofielen."
+              "icon": "boxes",
+              "title": "Modulair, robuust ontwerp",
+              "text": "Eenvoudige installatie en verplaatsing, en weinig onderhoud."
+            },
+            {
+              "icon": "display",
+              "title": "Centraal besturingssysteem",
+              "text": "Realtime bewaking en storingsdiagnose."
+            },
+            {
+              "icon": "wifi",
+              "title": "Diagnose op afstand",
+              "text": "Snellere technische ondersteuning en minder stilstand."
             }
           ]
         },
         {
           "type": "specs",
           "id": "specifications",
-          "heading": "Technische specificaties",
-          "intro": "De installatie wordt ontworpen voor uw vloot, depotindeling en watervoorziening.",
+          "heading": "Technische gegevens",
+          "intro": "Technische gegevens van HYT. Elke machine wordt geconfigureerd op uw spoorwijdte, wielprofielen en voertuigen.",
           "columns": [
             "Parameter",
-            "Waarde"
+            "Wasinstallatie"
           ],
           "rows": [
             [
-              "Wastype",
-              "Wassen van de buitenkant tijdens het doorrijden"
+              "Machineconfiguratie",
+              "Automatische doorrijwasinstallatie voor de buitenkant van rijtuigen"
             ],
             [
-              "Voertuigtypen",
-              "Volgens klantspecificatie"
+              "Cyclustijd, treinstam van 24 rijtuigen",
+              "≤ 15 min"
             ],
             [
-              "Doorrijsnelheid van de trein",
-              "Op aanvraag"
+              "Wassnelheid van de trein",
+              "3–5 km/h"
             ],
             [
-              "Borstelopstelling",
-              "Op aanvraag"
+              "Druk bij naspoelen",
+              "Ca. 10 kg/cm² (≈ 10 bar)"
             ],
             [
-              "Waterverbruik per trein",
-              "Op aanvraag"
+              "Vers water per rijtuig",
+              "Max. 60 l"
             ],
             [
-              "Waterterugwinning en -behandeling",
-              "Op aanvraag"
+              "Waterterugwinning",
+              "Hergebruikt via geïntegreerde ETP"
             ],
             [
-              "Dosering van reinigingsmiddel",
-              "Op aanvraag"
-            ],
-            [
-              "Spoorwijdte",
-              "Volgens klantspecificatie*"
+              "Snelheidsdetectie",
+              "Met laser, gesynchroniseerd met de beweging van de trein"
             ]
           ],
-          "note": "Met * gemarkeerde waarden zijn afhankelijk van de spoorwijdte en de klantconfiguratie. De definitieve waarden worden in de technische offerte bevestigd."
+          "note": "De definitieve waarden worden in de technische offerte bevestigd."
         },
         {
           "type": "steps",
@@ -3883,27 +4238,27 @@
           "items": [
             {
               "title": "Detecteren",
-              "text": "Sensoren registreren de naderende trein en starten de reeks."
+              "text": "Snelheidsdetectie met laser registreert de trein en synchroniseert de wascyclus met zijn beweging."
             },
             {
               "title": "Voorbevochtigen",
-              "text": "De wagenbak wordt bevochtigd om vuil los te weken."
+              "text": "Elk rijtuig wordt bevochtigd om vuil los te weken wanneer het met 3–5 km/h de installatie binnenrijdt."
             },
             {
-              "title": "Reinigingsmiddel aanbrengen",
-              "text": "Reinigingsmiddel wordt in de ingestelde concentratie aangebracht."
+              "title": "Chemische behandeling",
+              "text": "Op de wagenbak wordt reinigingsmiddel aangebracht."
             },
             {
               "title": "Borstelen",
-              "text": "Roterende borstels schrobben de zijkanten en andere voorgeschreven oppervlakken."
+              "text": "Roterende borstels schrobben het rijtuig mechanisch."
             },
             {
-              "title": "Naspoelen",
-              "text": "Schoon water verwijdert reinigingsmiddel en losgeweekt vuil."
+              "title": "Naspoelen onder hoge druk",
+              "text": "Een laatste spoelgang op ca. 10 bar verwijdert reinigingsmiddel en losgeweekt vuil."
             },
             {
-              "title": "Opvangen",
-              "text": "Waswater wordt volgens het ontwerp afgevoerd naar opvang of terugwinning."
+              "title": "Moppen en hergebruiken",
+              "text": "Het rijtuig wordt met moppen afgedroogd en het waswater wordt via de geïntegreerde ETP hergebruikt."
             }
           ]
         },
@@ -3913,14 +4268,14 @@
           "heading": "Belangrijkste kenmerken",
           "cols": 2,
           "items": [
-            "Doorrijbedrijf op een depotspoor",
-            "Automatische voertuigdetectie",
-            "Fasen voor voorbevochtigen, reinigingsmiddel en naspoelen",
-            "Roterende borstels afgestemd op de voertuigprofielen",
-            "Beheerste dosering van reinigingsmiddel",
-            "Optionele waterterugwinning en -behandeling",
-            "Centraal bedieningspaneel",
-            "Ontworpen voor lokale water- en klimaatomstandigheden"
+            "Doorrijbedrijf – de trein stopt niet",
+            "Snelheidsdetectie met laser",
+            "Voorbevochtigen, chemische behandeling, borstelen, naspoelen onder hoge druk en moppen",
+            "Treinstam van 24 rijtuigen in 15 minuten of minder",
+            "Max. 60 liter vers water per rijtuig",
+            "Waterhergebruik via een geïntegreerde ETP",
+            "Centrale besturing met realtime bewaking",
+            "Modulair, robuust ontwerp"
           ]
         },
         {
@@ -3967,7 +4322,7 @@
           "items": [
             {
               "image": "products/automated-train-washing-plant",
-              "caption": "Voorbeeldillustratie van de automatische treinwasinstallatie"
+              "caption": "HYT automatische treinwasinstallatie met borsteleenheden aan beide zijden van het spoor"
             },
             {
               "image": "projects/metro-depot",
@@ -3990,11 +4345,11 @@
           "items": [
             {
               "q": "Moet de trein stoppen?",
-              "a": "Nee. Bij een doorrijwasinstallatie rijdt de trein met lage snelheid door terwijl de wasfasen na elkaar werken."
+              "a": "Nee. De trein rijdt met 3–5 km/h door de installatie terwijl de wasfasen na elkaar werken; een treinstam van 24 rijtuigen is in 15 minuten of minder gewassen."
             },
             {
               "q": "Kan waswater worden hergebruikt?",
-              "a": "Waterterugwinning en -behandeling kunnen worden opgenomen. Het ontwerp hangt af van de lokale waterkwaliteit, de lozingsvoorschriften en het wasvolume."
+              "a": "Ja. Het waswater wordt hergebruikt via een geïntegreerde afvalwaterzuiveringsinstallatie (ETP), waardoor het verbruik van vers water beperkt blijft tot maximaal 60 liter per rijtuig."
             },
             {
               "q": "Welke voertuigen kunnen worden gewassen?",
@@ -4014,12 +4369,12 @@
     },
     "rail-cum-road-vehicle-shunter": {
       "nav": "Rail-wegvoertuig (rangeervoertuig)",
-      "title": "Rail-wegvoertuig (rangeervoertuig) voor depots",
-      "description": "Rail-wegvoertuig (rangeervoertuig) van HYT: rangeert rijtuigen, wagons en locomotieven op depotsporen en rijdt over de weg naar het volgende spoor.",
+      "title": "Rail-wegrangeervoertuig KRE 15 RCRV",
+      "description": "Accugevoed tweewegrangeervoertuig voor depots en werkplaatsen. Trekkracht 15 kN, trekcapaciteit 135 t en omschakelen van spoor naar weg in twee minuten.",
       "eyebrow": "Uitrusting voor depot en werkplaats",
-      "h1": "Rail-wegvoertuig (rangeervoertuig) voor flexibel rangeren op depot- en opstelsporen",
-      "lede": "Eén voertuig dat over het spoor rijdt om rollend materieel te verplaatsen en over de weg naar het volgende spoor – voor veel bewegingen in het depot een alternatief voor een locomotief.",
-      "summary": "Tweewegrangeervoertuig dat rollend materieel over het spoor verplaatst en over de weg tussen sporen rijdt – een alternatief voor rangeren met een locomotief in depots.",
+      "h1": "Rail-wegrangeervoertuig KRE 15 RCRV – accugevoed rangeren over spoor en weg",
+      "lede": "Een accugevoed tweewegrangeervoertuig dat locomotieven, rijtuigen, wagons en complete treinsamenstellingen over spoor en weg verplaatst – zonder speciale rangeerlocomotief.",
+      "summary": "Accugevoed rail-wegrangeervoertuig met 15 kN trekkracht en 135 t trekcapaciteit voor het verplaatsen van rollend materieel in depots en werkplaatsen.",
       "related": [
         "automated-train-washing-plant",
         "underfloor-wheel-lathe",
@@ -4029,100 +4384,101 @@
         {
           "type": "text",
           "id": "overview",
-          "eyebrow": "Over het voertuig",
-          "heading": "Rangeren zonder een locomotief vast te leggen",
+          "eyebrow": "Productoverzicht",
+          "heading": "Wat is het rail-wegrangeervoertuig?",
           "paragraphs": [
-            "Depots en werkplaatsen verplaatsen de hele dag voertuigen: naar het spoor van de wielenbank, door de wasinstallatie, over inspectieputten en naar de opstelsporen. Wie voor elke beweging een locomotief inzet, legt tractie en personeel vast – en een locomotief kan het spoor niet verlaten om een ander spoor te bereiken.",
-            "Een rail-wegvoertuig (rangeervoertuig) kan dat wel. Het rijdt op zijn banden over de weg, laat bij een spoortoegang zijn spoorgeleidingswielen zakken en rijdt vervolgens over het spoor om rollend materieel aan te koppelen en te verplaatsen. Is het werk klaar, dan haalt het de spoorwielen op en rijdt het naar het volgende spoor.",
-            "Koppelsysteem, remmen, trekcapaciteit en spoorwijdte worden afgestemd op de voertuigen die u moet verplaatsen en op de indeling van uw depot."
+            "Het rail-wegrangeervoertuig van HYT is een veelzijdige oplossing om locomotieven, rijtuigen, wagons, metrorijtuigen en complete treinsamenstellingen veilig en efficiënt te verplaatsen binnen depots, werkplaatsen, onderhoudsfaciliteiten en productiebedrijven.",
+            "Anders dan conventionele rangeerlocomotieven combineert het rail-wegrangeervoertuig van HYT mobiliteit over de weg met tractie op het spoor. Operators verplaatsen rollend materieel zo naadloos tussen werkplaatshallen, inspectiesporen, wasinstallaties en opstelsporen, zonder dat er een speciale locomotief nodig is.",
+            "Het rangeervoertuig is uitgerust met geavanceerde hydraulische en tractiesystemen voor soepel optrekken, gecontroleerd remmen en nauwkeurig positioneren van rollend materieel tijdens onderhouds- en montagewerkzaamheden. Dat verbetert de bedrijfsveiligheid, verkort de doorlooptijd en verhoogt de totale productiviteit van de werkplaats.",
+            "Het rail-wegrangeervoertuig van HYT is ontworpen voor moderne spoorwegonderhoudsfaciliteiten en biedt een kosteneffectief en flexibel alternatief voor traditionele rangeermethoden. Zo benutten operators hun middelen optimaal, terwijl bedrijfskosten en infrastructuurbehoefte beperkt blijven."
           ],
           "image": "products/rail-cum-road-vehicle-shunter",
-          "image_alt": "Voorbeeldillustratie van een rail-wegrangeervoertuig, gekoppeld aan een reizigersrijtuig in een depot",
+          "image_alt": "HYT rail-wegrangeervoertuig KRE 15 RCRV",
           "layout": "image-right"
         },
         {
           "type": "features",
           "id": "advantages",
           "eyebrow": "Belangrijkste voordelen",
-          "heading": "Wat een rail-wegrangeervoertuig verandert",
+          "heading": "Waarom kiezen voor de KRE 15 RCRV?",
           "cols": 3,
           "items": [
             {
               "icon": "signpost-split",
-              "title": "Elk spoor bereikbaar",
-              "text": "Rijdt over de weg tussen sporen in plaats van te wachten op wissels en rijwegen."
+              "title": "Tweewegbedrijf",
+              "text": "Naadloos rijden over spoor en weg, met een omschakeltijd van slechts twee minuten."
             },
             {
-              "icon": "train-freight-front",
-              "title": "Locomotieven komen vrij",
-              "text": "Locomotieven blijven in de commerciële dienst of op het hoofdnet in plaats van in het depot te rangeren."
-            },
-            {
-              "icon": "clock-history",
-              "title": "Direct inzetbaar",
-              "text": "Snel in te zetten voor korte, frequente bewegingen."
-            },
-            {
-              "icon": "box-seam",
-              "title": "Afgestemd op depotwerk",
-              "text": "Een compact voertuig voor bewegingen in het depot, niet voor tractie op het hoofdnet."
+              "icon": "lightning-charge",
+              "title": "Krachtige rangeerprestaties",
+              "text": "Tot 15 kN trekkracht en 135 t trekcapaciteit."
             },
             {
               "icon": "link-45deg",
-              "title": "Afgestemd op uw materieel",
-              "text": "Koppelingen en remaansluitingen passend bij uw vloot."
+              "title": "Optionele geïntegreerde lier",
+              "text": "Efficiënt trekken en duwen."
             },
             {
-              "icon": "shield-check",
-              "title": "Beheerste bewegingen",
-              "text": "Rangeren met lage snelheid voor veilige bewegingen rond personeel en uitrusting."
+              "icon": "arrow-repeat",
+              "title": "360° draaibaar",
+              "text": "Uitzonderlijke wendbaarheid op krappe depotterreinen."
+            },
+            {
+              "icon": "controller",
+              "title": "Bediening op afstand",
+              "text": "Meer veiligheid, precisie en bedieningsgemak."
+            },
+            {
+              "icon": "battery-charging",
+              "title": "Accugevoede elektrische aandrijving",
+              "text": "Schoon, stil en emissievrij bedrijf."
             }
           ]
         },
         {
           "type": "specs",
           "id": "specifications",
-          "heading": "Technische specificaties",
-          "intro": "De capaciteiten worden afgestemd op de zwaarste samenstelling en de steilste helling in uw depot.",
+          "heading": "Technische gegevens",
+          "intro": "Technische gegevens van HYT. Elke machine wordt geconfigureerd op uw spoorwijdte, wielprofielen en voertuigen.",
           "columns": [
             "Parameter",
-            "Waarde"
+            "KRE 15 RCRV"
           ],
           "rows": [
             [
-              "Bedrijfsmodi",
-              "Spoor en weg"
+              "Machineconfiguratie",
+              "Tweewegrangeervoertuig voor spoor en weg; accugevoede elektrische aandrijving"
+            ],
+            [
+              "Dienstgewicht",
+              "6 t ± 10%"
+            ],
+            [
+              "Max. wiellast",
+              "Ca. 1,5 t"
             ],
             [
               "Spoorwijdte",
-              "Volgens klantspecificatie*"
+              "1676 mm / 1435 mm"
+            ],
+            [
+              "Max. snelheid",
+              "V1 (beladen): 0–2 km/h; V2 (solo): 0–4 km/h"
+            ],
+            [
+              "Max. trekkracht",
+              "15 kN aan de wielomtrek, bij een adhesie μ = 0,5 droog (0,3 nat)"
             ],
             [
               "Trekcapaciteit",
-              "Op aanvraag"
+              "135 t locomotief of ander rollend materieel, op hellingen tot 2,5 ‰ (2,5 op 1000)"
             ],
             [
-              "Trekkracht",
-              "Op aanvraag"
-            ],
-            [
-              "Aandrijfeenheid",
-              "Op aanvraag"
-            ],
-            [
-              "Koppelsysteem",
-              "Volgens klantspecificatie"
-            ],
-            [
-              "Remaansluiting op getrokken materieel",
-              "Op aanvraag"
-            ],
-            [
-              "Omschakeling spoor–weg",
-              "Op aanvraag"
+              "Omschakeltijd spoor/weg",
+              "Ca. 2 min"
             ]
           ],
-          "note": "Met * gemarkeerde waarden zijn afhankelijk van de spoorwijdte en de klantconfiguratie. De definitieve waarden worden in de technische offerte bevestigd."
+          "note": "De definitieve waarden worden in de technische offerte bevestigd."
         },
         {
           "type": "steps",
@@ -4136,15 +4492,15 @@
             },
             {
               "title": "Opsporen",
-              "text": "De spoorgeleidingswielen worden neergelaten en het voertuig wordt op het spoor uitgelijnd."
+              "text": "Het rangeervoertuig schakelt in ongeveer twee minuten om van weg- naar spoorbedrijf en wordt op het spoor uitgelijnd."
             },
             {
               "title": "Koppelen",
-              "text": "Het voertuig koppelt aan het rollend materieel en de remaansluiting wordt gemaakt."
+              "text": "Het koppelt aan het rollend materieel dat moet worden verplaatst."
             },
             {
               "title": "Rangeren",
-              "text": "De samenstelling wordt naar het werkplaatsspoor, de wasinstallatie of het opstelspoor verplaatst."
+              "text": "Met de afstandsbediening verplaatst de operator de samenstelling naar het werkplaatsspoor, de wasinstallatie of het opstelspoor."
             },
             {
               "title": "Afkoppelen",
@@ -4162,14 +4518,14 @@
           "heading": "Belangrijkste kenmerken",
           "cols": 2,
           "items": [
-            "Weg- en spoorbedrijf in één voertuig",
-            "Intrekbare spoorgeleidingswielen",
-            "Koppeling passend bij uw rollend materieel",
-            "Remaansluiting op getrokken voertuigen op aanvraag",
-            "Bestuurderscabine met zicht langs het spoor",
-            "Geconfigureerd op uw spoorwijdte",
-            "Ontworpen voor bewegingen met lage snelheid in het depot",
-            "Opleiding van bestuurders inbegrepen bij de inbedrijfstelling"
+            "Spoor- en wegbedrijf in één voertuig",
+            "Omschakelen van spoor naar weg in ca. 2 minuten",
+            "Tot 15 kN trekkracht aan de wielomtrek",
+            "135 t trekcapaciteit op hellingen tot 2,5 ‰",
+            "Bediening op afstand",
+            "360° draaibaar voor krappe depotterreinen",
+            "Optionele geïntegreerde lier",
+            "Accugevoede, emissievrije elektrische aandrijving"
           ]
         },
         {
@@ -4221,7 +4577,7 @@
           "items": [
             {
               "image": "products/rail-cum-road-vehicle-shunter",
-              "caption": "Voorbeeldillustratie van het rail-wegvoertuig (rangeervoertuig)"
+              "caption": "HYT rail-wegrangeervoertuig KRE 15 RCRV"
             },
             {
               "image": "projects/metro-depot",
@@ -4240,11 +4596,11 @@
           "items": [
             {
               "q": "Wat is een rail-wegvoertuig?",
-              "a": "Een voertuig dat op zijn banden over de weg kan rijden en met intrekbare geleidingswielen over het spoor. In de rangeermodus koppelt het aan rollend materieel en verplaatst het dat over het spoor."
+              "a": "Een rangeervoertuig dat over de weg rijdt en over het spoor loopt, en in ongeveer twee minuten tussen beide modi omschakelt. In rangeerbedrijf koppelt het aan rollend materieel en verplaatst het dat over het spoor."
             },
             {
               "q": "Hoeveel voertuigen kan het verplaatsen?",
-              "a": "Dat hangt af van de geconfigureerde trekcapaciteit, het gewicht van uw rollend materieel en de hellingen in het depot. Wij dimensioneren het voertuig op uw zwaarste reguliere beweging."
+              "a": "De KRE 15 RCRV verplaatst tot 135 t aan locomotieven of ander rollend materieel op hellingen tot 2,5 ‰, met een trekkracht tot 15 kN. Wij toetsen dit aan uw zwaarste regelmatige beweging en de hellingen in uw depot."
             },
             {
               "q": "Welke infrastructuur is nodig?",
