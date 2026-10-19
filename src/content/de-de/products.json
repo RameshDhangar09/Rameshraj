@@ -155,12 +155,12 @@
     },
     "surface-wheel-lathe": {
       "nav": "CNC-Überflur-Radsatzdrehmaschine",
-      "title": "CNC-Überflur-Radsatzdrehmaschine YSL-08, YSL-12, YSL-21",
-      "description": "HYT CNC-Überflur-Radsatzdrehmaschinen YSL-08, YSL-12, YSL-21: Reprofilierung ausgebauter Radsätze und Bremsscheiben ohne Gleisgrube, einfache Bauarbeiten.",
+      "title": "CNC-Überflur-Radsatzdrehmaschine Baureihe YSL",
+      "description": "CNC-Überflur-Radsatzdrehmaschinen zur Reprofilierung ausgebauter Radsätze auf das OEM-Laufflächenprofil – mit integrierter Messung vor und nach der Bearbeitung.",
       "eyebrow": "Radsatzdrehmaschinen",
       "h1": "CNC-Überflur-Radsatzdrehmaschine für ausgebaute Radsätze – Modelle YSL-08, YSL-12 und YSL-21",
-      "lede": "Eine CNC-Drehmaschine auf Hallenbodenniveau, die Radprofile wiederherstellt und Bremsscheiben an aus dem Fahrzeug ausgebauten Radsätzen bearbeitet. Keine Grube, keine Arbeiten unter dem Gleis – nur ein ebenes Fundament in Ihrer Werkstatt.",
-      "summary": "CNC-Drehmaschine auf Hallenbodenniveau zur Reprofilierung ausgebauter Radsätze und Bremsscheiben, erhältlich als Modelle YSL-08, YSL-12 und YSL-21.",
+      "lede": "Hochpräzise Reprofilierung von Radsätzen, die aus dem Fahrzeug ausgebaut wurden – das Laufflächenprofil wird in einem einzigen automatischen Zyklus exakt auf die OEM-Spezifikation zurückgeführt.",
+      "summary": "CNC-Maschinen auf Hallenbodenniveau zur Reprofilierung ausgebauter Radsätze auf das OEM-Laufflächenprofil – Modelle YSL-08, YSL-12 und YSL-21.",
       "related": [
         "underfloor-wheel-lathe",
         "portal-wheel-lathe",
@@ -171,53 +171,43 @@
         {
           "type": "text",
           "id": "overview",
-          "eyebrow": "Über die Maschine",
-          "heading": "Reprofilierung auf Hallenbodenniveau",
+          "eyebrow": "Produktübersicht",
+          "heading": "Was ist die CNC-Überflur-Radsatzdrehmaschine?",
           "paragraphs": [
-            "Viele Werkstätten bauen die Radsätze ohnehin aus dem Fahrzeug aus – bei der Drehgestellrevision, nach einem Radwechsel oder bei der Wartung von Radsatzlagern und Lagergehäusen. Für sie bringt die Bearbeitung in einer Grube unter dem Gleis keinen Vorteil. Eine Überflur-Radsatzdrehmaschine erledigt die Arbeit auf Hallenbodenniveau, wo der Radsatz leicht zugänglich ist und sich einfach prüfen und handhaben lässt.",
-            "Der Radsatz wird auf Schienen in die Maschine gerollt, in die Bearbeitungsposition angehoben und gespannt. Beide Räder werden vermessen und auf das vorgegebene Profil gedreht; geeignete Konfigurationen bearbeiten in derselben Aufspannung auch Rad- oder Wellenbremsscheiben.",
-            "**Überflur oder Unterflur?** Eine [Unterflur-Radsatzdrehmaschine](page:underfloor-wheel-lathe) reprofiliert die Räder, während der Radsatz im Fahrzeug bleibt. Das spart den Ausbau, erfordert aber eine Grube unter dem Gleis. Eine Überflurmaschine braucht keine Grube und eignet sich für Werkstätten, in denen Radsätze im normalen Instandhaltungsablauf ausgebaut werden oder in denen das Gebäude keine Bauarbeiten unter den Schienen zulässt."
+            "Die CNC-Überflur-Radsatzdrehmaschine ist eine Hochpräzisionsmaschine für die Reprofilierung von Radsätzen, die aus dem Fahrzeug ausgebaut wurden und außerhalb des Fahrzeugs bearbeitet werden.",
+            "Im Laufe des Betriebs verschleißen die Laufflächenprofile von Eisenbahnrädern ungleichmäßig – mit Vibrationen, Geräuschen, geringerer Bremswirkung und Sicherheitsrisiken als Folge. Die CNC-Überflur-Radsatzdrehmaschine bringt das Profil jedes Rades in einem einzigen automatischen Zyklus exakt auf die OEM-Spezifikation zurück.",
+            "Radsätze aller Arten von Schienenfahrzeugen – Lokomotiven, Reisezugwagen, Güterwagen, Metrozüge und Elektrotriebzüge – lassen sich auf dieser Maschine bearbeiten. Ein vollständig integriertes Messsystem vor und nach der Bearbeitung stellt sicher, dass jedes Rad exakt innerhalb der Toleranzen bearbeitet wird – mit minimalem Materialabtrag und längerer Lebensdauer der Räder."
           ],
           "image": "products/surface-wheel-lathe",
-          "image_alt": "Beispielabbildung einer CNC-Überflur-Radsatzdrehmaschine auf Hallenbodenniveau mit einem ausgebauten Radsatz in Bearbeitungsposition",
+          "image_alt": "HYT CNC-Überflur-Radsatzdrehmaschine YSL-08 mit einem Radsatz in der Maschine",
           "layout": "image-right"
         },
         {
           "type": "features",
           "id": "advantages",
           "eyebrow": "Die wichtigsten Vorteile",
-          "heading": "Warum Werkstätten sich für eine Überflurmaschine entscheiden",
-          "cols": 3,
+          "heading": "Warum die Baureihe YSL?",
+          "cols": 2,
           "items": [
             {
+              "icon": "arrow-left-right",
+              "title": "Automatisches Ein- und Ausrollen der Radsätze",
+              "text": "Eine integrierte Querverschiebeeinrichtung fördert die Radsätze in die Maschine und wieder heraus – für höhere Produktivität."
+            },
+            {
               "icon": "bricks",
-              "title": "Keine Grube erforderlich",
-              "text": "Aufstellung auf einem ebenen Fundament auf Hallenbodenniveau – das vereinfacht die Bauarbeiten und passt in bestehende Gebäude."
-            },
-            {
-              "icon": "disc",
-              "title": "Räder und Bremsscheiben",
-              "text": "Geeignete Konfigurationen bearbeiten Bremsscheiben in derselben Aufspannung wie das Radprofil – die YSL-08 im Durchmesserbereich von 250 bis 700 mm."
-            },
-            {
-              "icon": "eye",
-              "title": "Freier Zugang",
-              "text": "Der gesamte Radsatz ist für Prüfung, Messung und Werkzeugwechsel im Blick und in Reichweite."
+              "title": "Robuste Bauweise aus feinkörnigem Gusseisen",
+              "text": "Sorgt für maximale Steifigkeit und Schwingungsdämpfung."
             },
             {
               "icon": "rulers",
-              "title": "Erst messen, dann zerspanen",
-              "text": "Zuerst werden die Radmaße erfasst, sodass die CNC nur so viel Material abträgt, wie zur Wiederherstellung des Profils nötig ist."
+              "title": "Intelligente CNC-Verschleißmessung",
+              "text": "Hält die optimale Schnitttiefe für eine gleichbleibende Bearbeitungsgenauigkeit ein."
             },
             {
-              "icon": "arrows-expand",
-              "title": "Großer Radsatz-Arbeitsbereich",
-              "text": "Die YSL-08 nimmt je nach Spurweite Achslängen von 1200 bis 2750 mm auf – ideal für Werkstätten, die gemischte Flotten betreuen."
-            },
-            {
-              "icon": "lightning-charge",
-              "title": "Leistung passend zu Ihren Rädern",
-              "text": "Zwei Hauptantriebsvarianten bei der YSL-08, damit sich die Schnittleistung an Radhärte und typischen Verschleiß anpassen lässt."
+              "icon": "wifi",
+              "title": "Ferndiagnose",
+              "text": "Ermöglicht eine schnellere Fehlersuche und fachkundige technische Unterstützung."
             }
           ]
         },
@@ -225,7 +215,7 @@
           "type": "specs",
           "id": "specifications",
           "heading": "Technische Daten",
-          "intro": "Veröffentlichte Daten für die YSL-08. Die Daten für YSL-12 und YSL-21 erhalten Sie mit dem technischen Angebot.",
+          "intro": "Technische Daten der drei Modelle der Baureihe. Jede Maschine wird auf Ihre Spurweite, Radprofile und Fahrzeuge konfiguriert.",
           "columns": [
             "Parameter",
             "YSL-08",
@@ -234,67 +224,103 @@
           ],
           "rows": [
             [
-              "Maschinentyp",
-              "CNC-Überflur-Radsatzdrehmaschine",
-              "CNC-Überflur-Radsatzdrehmaschine",
-              "CNC-Überflur-Radsatzdrehmaschine"
+              "Maschinenkonfiguration",
+              "Radsatz aus dem Fahrzeug ausgebaut; beide Räder werden gleichzeitig reprofiliert",
+              "Radsatz aus dem Fahrzeug ausgebaut; beide Räder werden gleichzeitig reprofiliert",
+              "Radsatz aus dem Fahrzeug ausgebaut; ein Werkzeugschlitten"
             ],
             [
-              "Laufkreisdurchmesser, maximal",
-              "1250 mm",
-              "Auf Anfrage",
-              "Auf Anfrage"
+              "Leistung des Hauptantriebs",
+              "2 × 45 oder 55 kW",
+              "2 × 37 kW",
+              "1 × 22 kW"
             ],
             [
-              "Laufkreisdurchmesser, minimal",
-              "Auf Anfrage*",
-              "Auf Anfrage",
-              "Auf Anfrage"
+              "Schnittgeschwindigkeit beim Profilieren",
+              "25–80 m/min",
+              "25–80 m/min",
+              "25–80 m/min"
+            ],
+            [
+              "Vorschub des Werkzeugschlittens beim Radprofilieren",
+              "0,1–3,5 mm/U",
+              "0,1–3,5 mm/U",
+              "0,1–3,5 mm/U"
+            ],
+            [
+              "Eilganggeschwindigkeit des Werkzeugschlittens, beide Achsen",
+              "3000 mm/min",
+              "3000 mm/min",
+              "3000 mm/min"
+            ],
+            [
+              "Max. Spanungsquerschnitt / Materialabtrag beim Profilieren",
+              "20 mm²",
+              "16 mm²",
+              "10 mm²"
+            ],
+            [
+              "Zykluszeit je Radsatz (inkl. Be- und Entladen)",
+              "14–16 min",
+              "16–18 min",
+              "50–60 min"
+            ],
+            [
+              "Spurweite",
+              "Nach Bedarf",
+              "Nach Bedarf",
+              "Nach Bedarf"
+            ],
+            [
+              "Laufkreisdurchmesser, max. / min.",
+              "1250 mm / 750 mm (abhängig von der Spurweite)",
+              "1250 mm / 750 mm (abhängig von der Spurweite)",
+              "1250 mm / 750 mm (abhängig von der Spurweite)"
             ],
             [
               "Radbreite",
               "75–145 mm",
-              "Auf Anfrage",
-              "Auf Anfrage"
+              "75–145 mm",
+              "75–145 mm"
             ],
             [
-              "Achslänge",
-              "1200–2750 mm*",
-              "Auf Anfrage",
-              "Auf Anfrage"
+              "Max. Radsatzlast / Radsatzgewicht",
+              "50 kN Radsatzgewicht",
+              "50 kN Radsatzgewicht",
+              "–"
             ],
             [
-              "Max. Radsatzgewicht",
-              "50 kN",
-              "Auf Anfrage",
-              "Auf Anfrage"
+              "Durchmesserdifferenz beider Räder",
+              "< 0,15 mm",
+              "< 0,3 mm",
+              "< 0,5 mm"
             ],
             [
-              "Bearbeitungsdurchmesser Bremsscheibe",
-              "250–700 mm",
-              "Auf Anfrage",
-              "Auf Anfrage"
+              "Genauigkeit des Radprofils gegenüber der Normlehre",
+              "< 0,2 mm",
+              "< 0,2 mm",
+              "< 0,3 mm"
             ],
             [
-              "Hauptantrieb",
-              "2 × 45 kW oder 2 × 55 kW",
-              "Auf Anfrage",
-              "Auf Anfrage"
+              "Rundlaufabweichung des Rades",
+              "< 0,2 mm",
+              "< 0,3 mm",
+              "< 0,3 mm"
             ],
             [
-              "Schnittgeschwindigkeit",
-              "25–80 m/min",
-              "Auf Anfrage",
-              "Auf Anfrage"
+              "Planlaufabweichung des Rades",
+              "< 0,2 mm",
+              "< 0,3 mm",
+              "< 0,3 mm"
             ],
             [
-              "Spurweite",
-              "Nach Kundenvorgabe*",
-              "Nach Kundenvorgabe*",
-              "Nach Kundenvorgabe*"
+              "Oberflächengüte des Profils",
+              "< 12,5 μm Ra",
+              "< 12,5 μm Ra",
+              "< 12,5 μm Ra"
             ]
           ],
-          "note": "Mit * gekennzeichnete Werte hängen von Spurweite und Kundenkonfiguration ab. Die endgültigen Werte, einschließlich des minimalen Laufkreisdurchmessers, werden im technischen Angebot bestätigt."
+          "note": "„–“ bedeutet, dass für dieses Modell kein Wert veröffentlicht ist. Die endgültigen Werte werden im technischen Angebot bestätigt."
         },
         {
           "type": "text",
@@ -302,7 +328,7 @@
           "eyebrow": "Modellreihe",
           "heading": "YSL-08",
           "paragraphs": [
-            "Die YSL-08 ist das Referenzmodell der Baureihe. Sie nimmt Radsätze mit Laufkreisdurchmessern bis 1250 mm, Radbreiten von 75–145 mm und einem Gewicht bis 50 kN auf und bearbeitet Bremsscheiben mit 250 bis 700 mm Durchmesser. Mit einem Hauptantrieb von 2 × 45 kW oder 2 × 55 kW und Schnittgeschwindigkeiten von 25–80 m/min stimmen Sie die Maschine auf die Räder ab, die Sie am häufigsten reprofilieren."
+            "Die YSL-08 ist das leistungsstärkste Modell der Baureihe. Zwei Werkzeugschlitten reprofilieren beide Räder gleichzeitig, angetrieben von einem Hauptantrieb mit 2 × 45 oder 55 kW bei einem Spanungsquerschnitt von bis zu 20 mm². Ein Radsatz ist einschließlich Be- und Entladen in 14–16 Minuten fertig bearbeitet, wobei die Durchmesserdifferenz beider Räder unter 0,15 mm bleibt."
           ]
         },
         {
@@ -311,8 +337,11 @@
           "eyebrow": "Modellreihe",
           "heading": "YSL-12",
           "paragraphs": [
-            "Die YSL-12 ist ein weiteres Modell der Überflur-Baureihe. Leistungsdaten und Konfiguration werden im Rahmen Ihrer Anfrage gemeinsam mit Ihnen festgelegt und im technischen Angebot bestätigt. Nennen Sie uns die größten, kleinsten und schwersten Radsätze Ihrer Flotte, und wir sagen Ihnen, ob die YSL-12 die richtige Wahl ist."
-          ]
+            "Auch die YSL-12 reprofiliert beide Räder gleichzeitig – mit einem Hauptantrieb von 2 × 37 kW und einem Spanungsquerschnitt von bis zu 16 mm². Sie deckt dieselben Laufkreisdurchmesser (750–1250 mm) und Radbreiten (75–145 mm) ab wie die YSL-08, bei einer Bearbeitungszeit von 16–18 Minuten je Radsatz einschließlich Be- und Entladen."
+          ],
+          "image": "products/surface-wheel-lathe-ysl-12",
+          "image_alt": "HYT CNC-Überflur-Radsatzdrehmaschine YSL-12 mit einem zwischen den Spindelstöcken gespannten Radsatz",
+          "layout": "image-right"
         },
         {
           "type": "text",
@@ -320,13 +349,11 @@
           "eyebrow": "Modellreihe",
           "heading": "YSL-21",
           "paragraphs": [
-            "Die YSL-21 rundet die Baureihe ab. Wie bei der YSL-12 erhalten Sie die technischen Daten auf Anfrage. Teilen Sie uns mit, welche Fahrzeuge und Radprofile die Maschine abdecken muss, und wir senden Ihnen die Daten zusammen mit einer Modellempfehlung für Ihre Werkstatt."
-          ]
-        },
-        {
-          "type": "notice",
-          "variant": "review",
-          "text": "Angaben von HYT ausstehend: technische Daten für YSL-12 und YSL-21 sowie Bestätigung des minimalen Laufkreisdurchmessers der YSL-08 (Quellen nennen 750 mm bzw. 540 mm)."
+            "Die YSL-21 arbeitet mit einem einzelnen Werkzeugschlitten und einem Hauptantrieb von 1 × 22 kW bei einem Spanungsquerschnitt von bis zu 10 mm². Sie nimmt Laufkreisdurchmesser von 750–1250 mm und Radbreiten von 75–145 mm auf, bei einer Bearbeitungszeit von 50–60 Minuten je Radsatz einschließlich Be- und Entladen."
+          ],
+          "image": "products/surface-wheel-lathe-ysl-21",
+          "image_alt": "HYT CNC-Überflur-Radsatzdrehmaschine YSL-21",
+          "layout": "image-left"
         },
         {
           "type": "steps",
@@ -425,15 +452,15 @@
           "items": [
             {
               "image": "products/surface-wheel-lathe",
-              "caption": "Beispielabbildung einer CNC-Überflur-Radsatzdrehmaschine auf Hallenbodenniveau"
+              "caption": "HYT CNC-Überflur-Radsatzdrehmaschine YSL-08 mit einem Radsatz in der Maschine"
             },
             {
-              "image": "products/wheelset-profile-closeup",
-              "caption": "Beispielabbildung einer reprofilierten Lauffläche mit Spurkranz"
+              "image": "products/surface-wheel-lathe-ysl-12",
+              "caption": "HYT CNC-Überflur-Radsatzdrehmaschine YSL-12"
             },
             {
-              "image": "projects/railway-wheel-shop",
-              "caption": "Beispielabbildung des Radsatzhandlings in einer Radsatzwerkstatt"
+              "image": "products/surface-wheel-lathe-ysl-21",
+              "caption": "HYT CNC-Überflur-Radsatzdrehmaschine YSL-21"
             },
             {
               "image": "company/quality-inspection",
@@ -452,7 +479,7 @@
             },
             {
               "q": "Welches Modell sollte ich wählen?",
-              "a": "Gehen Sie von Ihrem größten Laufkreisdurchmesser, Ihrer längsten Achse und Ihrem schwersten Radsatz aus. Die YSL-08 deckt Laufkreisdurchmesser bis 1250 mm und Radsätze bis 50 kN ab. Die Daten für YSL-12 und YSL-21 erhalten Sie auf Anfrage, zusammen mit unserer Empfehlung."
+              "a": "Gehen Sie von Ihrem größten Laufkreisdurchmesser, Ihrem schwersten Radsatz und Ihrem Tagesvolumen aus. Alle drei Modelle nehmen Laufkreisdurchmesser von 750–1250 mm (abhängig von der Spurweite) und Radbreiten von 75–145 mm auf. Die YSL-08 hat den kürzesten Zyklus (14–16 Minuten einschließlich Be- und Entladen), es folgen die YSL-12 mit 16–18 Minuten und die YSL-21 mit einem Werkzeugschlitten mit 50–60 Minuten. Das passende Modell bestätigen wir mit unserer Empfehlung."
             },
             {
               "q": "Können Bremsscheiben bearbeitet werden?",
@@ -473,10 +500,10 @@
     "underfloor-wheel-lathe": {
       "nav": "CNC-Unterflur-Radsatzdrehmaschine (YUL-08)",
       "title": "CNC-Unterflur-Radsatzdrehmaschine YUL-08",
-      "description": "HYT YUL-08 CNC-Unterflur-Radsatzdrehmaschine: beide Räder im Fahrzeug reprofilieren, ohne Ausbau von Drehgestell oder Bremsgestänge. Hauptantrieb 4 × 15 kW.",
+      "description": "CNC-Unterflur-Radsatzdrehmaschine für die Bearbeitung von Radsätzen im eingebauten Zustand. Vier Antriebsrollen mit je 15 kW, Laufkreisdurchmesser bis 1500 mm und Radsatzlasten bis 400 kN.",
       "eyebrow": "Radsatzdrehmaschinen",
       "h1": "CNC-Unterflur-Radsatzdrehmaschine YUL-08 – Einzelradsatz-Reprofilierung ohne Drehgestellausbau",
-      "lede": "Die YUL-08 reprofiliert verschlissene Räder, während der Radsatz im Fahrzeug bleibt. Züge werden über die Grube gezogen, bearbeitet und innerhalb einer Schicht – oft in wenigen Stunden – wieder in den Betrieb übergeben.",
+      "lede": "Gleichzeitige Reprofilierung beider Räder eines Radsatzes im eingebauten Zustand – ohne Ausbau des Radsatzes, des Bremsgestänges oder der Radsatzlagerdeckel.",
       "summary": "Grubenmaschine für Einzelradsätze, die beide Räder eines Radsatzes im Fahrzeug reprofiliert – ohne Drehgestellausbau und ohne Demontage des Bremsgestänges.",
       "related": [
         "underfloor-wheel-lathe-yugl",
@@ -488,53 +515,58 @@
         {
           "type": "text",
           "id": "overview",
-          "eyebrow": "Über die Maschine",
-          "heading": "Radinstandhaltung, ohne den Zug zu zerlegen",
+          "eyebrow": "Produktübersicht",
+          "heading": "Was ist die CNC-Unterflur-Radsatzdrehmaschine?",
           "paragraphs": [
-            "Flachstellen, Hohllauf und dünne Spurkränze gehören zum Bahnalltag. Die klassische Abhilfe – Drehgestell absenken, Radsatz ausbauen und in die Radsatzwerkstatt schicken – kostet Tage an Verfügbarkeit und viel Arbeitszeit. Die YUL-08 bringt stattdessen die Maschine zum Radsatz.",
-            "In einer Grube unter einem geraden Gleisabschnitt eingebaut, hebt die Maschine den Radsatz mit eigenen Antriebsrollen von den Schienen, spannt das Radsatzlagergehäuse sicher und bearbeitet beide Räder gleichzeitig. Bremsgestänge, Fahrmotoren und Drehgestellrahmen bleiben, wo sie sind. Nach Abschluss des Zyklus wird der Radsatz wieder auf die Schienen abgesenkt und der nächste Radsatz über der Maschine positioniert.",
-            "Da das Fahrzeug gekuppelt und montiert bleibt, kann eine einzige YUL-08 eine große Flotte innerhalb der Profilgrenzwerte halten und die Stillstandszeit jedes Zuges verkürzen."
+            "Die CNC-Unterflur-Radsatzdrehmaschine (Modell YUL-08) ist eine automatische Maschine für die gleichzeitige Reprofilierung neuer oder verschlissener Räder von Schienenfahrzeugen im eingebauten Zustand. Radsätze von Lokomotiven, Reisezugwagen, Güterwagen, Straßenbahnen und Metrofahrzeugen lassen sich bearbeiten, während sie im Fahrzeug montiert bleiben; auf diesen Radsätzen montierte Bremsscheiben können auf derselben Maschine bearbeitet werden.",
+            "In einer Grube unterhalb der Schienenoberkante eingebaut, hebt und zentriert die Maschine den Radsatz auf vier synchronisierten Antriebsrollen und reprofiliert anschließend beide Räder gleichzeitig mit zwei CNC-Werkzeugschlitten. Jede Rolle ist über ein robustes Untersetzungsgetriebe mit einem 15-kW-Drehstrommotor verbunden; digitale Drehzahlregler ermöglichen eine stufenlose Drehzahlanpassung, sodass die Maschine auch harte Stellen und Flachstellen zuverlässig durchschneidet.",
+            "Die Antriebsrollen sind einzeln schwimmend gelagert, gleichen Unregelmäßigkeiten der Räder aus und halten den Kontakt konstant aufrecht, während eine eigene Hebe- und Niederhaltevorrichtung die Achse bzw. das Radsatzlagergehäuse steif abstützt und spannt. Berührende Messtaster erfassen Profil und Durchmesser vor und nach dem Drehen, und die CNC-Software schlägt anhand dieser Verschleißdaten die wirtschaftlichste Schnitttiefe vor."
           ],
           "image": "products/underfloor-wheel-lathe-yul-08",
-          "image_alt": "Beispielabbildung der Unterflur-Radsatzdrehmaschine YUL-08 in einer Grube, mit einem Lokomotivradsatz auf den Antriebsrollen",
+          "image_alt": "HYT CNC-Unterflur-Radsatzdrehmaschine YUL-08 mit einem Radsatz auf den Antriebsrollen",
           "layout": "image-right"
         },
         {
           "type": "features",
           "id": "advantages",
           "eyebrow": "Die wichtigsten Vorteile",
-          "heading": "Warum Werkstätten sich für eine Unterflurmaschine entscheiden",
+          "heading": "Warum die YUL-08?",
           "cols": 3,
           "items": [
             {
-              "icon": "clock-history",
-              "title": "Kurze Standzeit",
-              "text": "Kein Absenken des Drehgestells und kein Radsatzausbau – die Fahrzeuge gehen noch in derselben Schicht wieder in Betrieb."
+              "icon": "train-front",
+              "title": "Bearbeitung im eingebauten Zustand",
+              "text": "Reprofiliert Radsätze, ohne sie aus dem Fahrzeug auszubauen – Bremsgestänge und Radsatzlagerdeckel bleiben an ihrem Platz."
             },
             {
-              "icon": "arrows-collapse",
-              "title": "Beide Räder gleichzeitig",
-              "text": "Linkes und rechtes Rad werden simultan bearbeitet; die Durchmesser stimmen innerhalb der geforderten Toleranz überein."
+              "icon": "bricks",
+              "title": "Struktur aus feinkörnigem Gusseisen",
+              "text": "Sorgt für Maß- und Formstabilität bei wirksamer Schwingungsdämpfung."
+            },
+            {
+              "icon": "arrow-down-up",
+              "title": "Einzeln schwimmend gelagerte Antriebsrollen",
+              "text": "Gleichen Unregelmäßigkeiten der Räder aus und halten während des gesamten Schnitts den Kontakt aufrecht."
             },
             {
               "icon": "rulers",
-              "title": "Minimaler Materialabtrag",
-              "text": "Die automatische Messung vor dem Zerspanen ermöglicht es der CNC, nur so tief zu schneiden, wie zur Wiederherstellung des Profils nötig."
+              "title": "Elektronische Verschleißmessung",
+              "text": "Die CNC-Software verarbeitet die Verschleißdaten und schlägt die wirtschaftlichste Schnitttiefe vor."
             },
             {
-              "icon": "train-front",
-              "title": "Eine Maschine, gemischte Flotte",
-              "text": "Lokomotiven, Reisezugwagen, Triebzüge und Güterwagen – mit passenden Adaptern und gespeicherten Profilprogrammen."
+              "icon": "lock",
+              "title": "Eigene Hebe- und Niederhaltevorrichtung",
+              "text": "Steife Abstützung und Spannung der Achse bzw. des Radsatzlagergehäuses – geeignet für Fahrzeuge mit höheren Radsatzlasten."
             },
             {
-              "icon": "shield-check",
-              "title": "Sicherer Betrieb",
-              "text": "Geschützter Arbeitsbereich, Verriegelungen und übersichtliche Bedienelemente auf Gleisniveau."
+              "icon": "disc",
+              "title": "Optionale Bremsscheibenbearbeitung",
+              "text": "Schnellwechselwerkzeuge und Adapter beseitigen Unebenheiten an den Bremsscheiben beider Seiten in derselben Aufspannung."
             },
             {
-              "icon": "gear-wide-connected",
-              "title": "Servicefreundlich gebaut",
-              "text": "Industrielle Standardkomponenten und die Ersatzteilversorgung durch HYT halten Ausfallzeiten gering."
+              "icon": "wifi",
+              "title": "Ferndiagnose und Teleservice",
+              "text": "Eine Windows-basierte Software mit offener Architektur unterstützt die Fernwartung durch die HYT-Zentrale."
             }
           ]
         },
@@ -542,46 +574,86 @@
           "type": "specs",
           "id": "specifications",
           "heading": "Technische Daten",
-          "intro": "Eckdaten der Standardkonfiguration. Die Maschine wird an Spurweite, Radprofile und Fahrzeugtypen des Kunden angepasst.",
+          "intro": "Technische Daten von HYT. Jede Maschine wird auf Ihre Spurweite, Radprofile und Fahrzeuge konfiguriert.",
           "columns": [
             "Parameter",
             "YUL-08"
           ],
           "rows": [
             [
-              "Maschinentyp",
-              "CNC-Unterflur-Radsatzdrehmaschine (Grubenmaschine), Einzelradsatz"
+              "Maschinenkonfiguration",
+              "Einzelne Unterflurmaschine; Radsatz wird im eingebauten Zustand bearbeitet, einschließlich der auf dem Radsatz montierten Bremsscheiben"
             ],
             [
-              "Leistung der Hauptantriebsmotoren",
-              "4 × 15 kW"
+              "Leistung des Hauptantriebs",
+              "4 × 15 kW über Reibrollen"
             ],
             [
-              "Gleichzeitig bearbeitete Räder",
-              "2 (ein Radsatz)"
+              "Schnittgeschwindigkeit beim Profilieren",
+              "20–120 m/min"
             ],
             [
-              "Bereich Laufkreisdurchmesser",
-              "Auf Anfrage*"
+              "Vorschub des Werkzeugschlittens beim Radprofilieren",
+              "0,1–2,5 mm/U"
+            ],
+            [
+              "Eilganggeschwindigkeit des Werkzeugschlittens, beide Achsen",
+              "3000 mm/min"
+            ],
+            [
+              "Max. Spanungsquerschnitt / Materialabtrag beim Profilieren",
+              "10 mm²"
+            ],
+            [
+              "Zykluszeit je Radsatz",
+              "35 Minuten"
             ],
             [
               "Spurweite",
-              "Breit-, Normal- oder Meterspur – nach Kundenvorgabe*"
+              "Nach Bedarf"
             ],
             [
-              "Max. Radsatzlast",
-              "Auf Anfrage"
+              "Laufkreisdurchmesser, max. / min.",
+              "1500 mm / 540 mm (abhängig von der Spurweite)"
             ],
             [
-              "Profile",
-              "Kundenspezifische Radprofile, in der CNC gespeichert"
+              "Radbreite",
+              "75–155 mm"
             ],
             [
-              "Messsystem",
-              "Automatische Messung von Durchmesser, Spurkranzhöhe und Spurkranzdicke"
+              "Radsatzabstand, min. – max.",
+              "1800–3200 mm"
+            ],
+            [
+              "Max. Radsatzlast / Radsatzgewicht",
+              "300 / 400 kN Radsatzlast"
+            ],
+            [
+              "Durchmesserdifferenz beider Räder",
+              "< 0,10 mm"
+            ],
+            [
+              "Durchmesserdifferenz der vier Räder eines Drehgestells",
+              "< 0,3 mm"
+            ],
+            [
+              "Genauigkeit des Radprofils gegenüber der Normlehre",
+              "< 0,2 mm"
+            ],
+            [
+              "Rundlaufabweichung des Rades",
+              "< 0,1 mm"
+            ],
+            [
+              "Planlaufabweichung des Rades",
+              "< 0,15 mm"
+            ],
+            [
+              "Oberflächengüte des Profils",
+              "< 12,5 μm Ra"
             ]
           ],
-          "note": "Mit * gekennzeichnete Werte hängen von Spurweite und Kundenkonfiguration ab. Die endgültigen Werte werden im technischen Angebot bestätigt."
+          "note": "Von der Spurweite abhängige Werte sind in der Tabelle gekennzeichnet. Die endgültigen Werte werden im technischen Angebot bestätigt."
         },
         {
           "type": "steps",
@@ -680,7 +752,7 @@
           "items": [
             {
               "image": "products/underfloor-wheel-lathe-yul-08",
-              "caption": "Beispielabbildung der YUL-08, eingebaut in eine Instandhaltungsgrube"
+              "caption": "HYT CNC-Unterflur-Radsatzdrehmaschine YUL-08 mit einem Radsatz auf den Antriebsrollen"
             },
             {
               "image": "products/wheelset-profile-closeup",
@@ -727,12 +799,12 @@
     },
     "underfloor-wheel-lathe-yugl": {
       "nav": "CNC-Unterflur-Radsatzdrehmaschine (YUGL)",
-      "title": "CNC-Unterflur-Radsatzdrehmaschine YUGL – automatisiert",
-      "description": "HYT YUGL CNC-Unterflur-Radsatzdrehmaschine: Reprofilierung im Fahrzeug auf einer Plattform mit höherem Automatisierungsgrad – das Schwestermodell der YUL-08.",
+      "title": "CNC-Unterflur-Radsatzdrehmaschine YUGL",
+      "description": "Die Unterflur-Radsatzdrehmaschine und das Flaggschiff von HYT reprofiliert beide Räder eines Radsatzes gleichzeitig, ohne den Radsatz aus dem Fahrzeug auszubauen.",
       "eyebrow": "Radsatzdrehmaschinen",
-      "h1": "CNC-Unterflur-Radsatzdrehmaschine YUGL – die Unterflur-Plattform der nächsten Generation für mehr Automatisierung",
-      "lede": "Wie die YUL-08 reprofiliert die YUGL Radsätze, während sie im Fahrzeug bleiben. Sie richtet sich an Betriebswerke, die einen größeren Teil des Zyklus – Positionierung, Messung und Daten – automatisiert abwickeln möchten.",
-      "summary": "Unterflur-Radsatzdrehmaschine der nächsten Generation für die Reprofilierung im Fahrzeug, ausgerichtet auf Betriebswerke mit höherem Automatisierungsbedarf.",
+      "h1": "CNC-Unterflur-Radsatzdrehmaschine YUGL – das Flaggschiff von HYT für die Radreprofilierung im eingebauten Zustand",
+      "lede": "Die Flaggschiff-Radsatzdrehmaschine von HYT – gleichzeitige Reprofilierung beider Räder eines Radsatzes, ohne den Radsatz aus dem Fahrzeug auszubauen.",
+      "summary": "Die Flaggschiff-Unterflurmaschine von HYT: reprofiliert beide Räder eines Radsatzes gleichzeitig, ohne ihn aus dem Fahrzeug auszubauen.",
       "related": [
         "underfloor-wheel-lathe",
         "tandem-underfloor-wheel-lathe-yuglx",
@@ -743,58 +815,48 @@
         {
           "type": "text",
           "id": "overview",
-          "eyebrow": "Über die Maschine",
-          "heading": "Gleiches Prinzip, mehr Automatisierung",
+          "eyebrow": "Produktübersicht",
+          "heading": "Was ist die CNC-Unterflur-Radsatzdrehmaschine?",
           "paragraphs": [
-            "Wie jede Unterflur-Radsatzdrehmaschine wird die YUGL in einer Grube unter dem Gleis eingebaut. Das Fahrzeug wird über die Maschine gezogen, der Radsatz von den Schienen abgehoben und beide Räder werden reprofiliert, während Bremsgestänge, Fahrmotoren und Drehgestellrahmen eingebaut bleiben.",
-            "Während die [YUL-08](page:underfloor-wheel-lathe) die bewährte Einzelradsatzmaschine von HYT ist, ist die YUGL als Plattform der nächsten Generation positioniert. Sie ist für Betriebswerke gedacht, in denen die Maschine viele Zyklen pro Tag fährt, die Bediener von Schicht zu Schicht wechseln und Bearbeitungsdaten in die Instandhaltungsdokumentation einfließen müssen. Automatisierungsgrad, Messausrüstung und Datenschnittstellen werden mit jedem Kunden individuell vereinbart.",
-            "Sie vergleichen die beiden Modelle? Unsere Anwendungsingenieure erläutern Ihnen die Unterschiede bezogen auf Ihre Flotte, Ihr Arbeitsvolumen und Ihre Werkstattsysteme."
+            "Die CNC-Unterflur-Radsatzdrehmaschine (Modell YUGL) ist das Flaggschiff von HYT – eine automatische Maschine für die gleichzeitige Profilierung neuer oder verschlissener Räder von Schienenfahrzeugen, ohne die Radsätze aus dem Fahrzeug auszubauen.",
+            "In einer Grube unterhalb der Schienenoberkante eingebaut, hebt und zentriert die Maschine jeden Radsatz mit synchronisierten Antriebsrollen und reprofiliert anschließend beide Räder gleichzeitig und präzise mit zwei CNC-Werkzeugschlitten. So wird das Laufflächenprofil wieder auf seine ursprüngliche Spezifikation gebracht.",
+            "Radsätze aller Arten von Schienenfahrzeugen – Lokomotiven, Reisezugwagen, Güterwagen, Metrozüge und Elektrotriebzüge – lassen sich auf dieser Maschine im eingebauten Zustand bearbeiten. Ein vollständig integriertes Messsystem vor und nach der Bearbeitung stellt sicher, dass jedes Rad exakt innerhalb der Toleranzen bearbeitet wird – mit minimalem Materialabtrag und längerer Lebensdauer der Räder."
           ],
           "image": "products/underfloor-wheel-lathe-yugl",
-          "image_alt": "Beispielabbildung einer Unterflur-Radsatzdrehmaschine YUGL in der Grube eines Betriebswerks unter einem Personenfahrzeug",
+          "image_alt": "HYT CNC-Unterflur-Radsatzdrehmaschine YUGL mit Antriebsrollen und zwei CNC-Werkzeugschlitten",
           "layout": "image-right"
-        },
-        {
-          "type": "notice",
-          "variant": "review",
-          "text": "Bestätigung durch HYT ausstehend: technische Unterschiede zwischen YUGL und YUL-08 (Automatisierungsgrad, Antriebe, Messsystem, Leistungsdaten) und ob beide Modelle weiterhin angeboten werden. Die Positionierung auf dieser Seite ist vorläufig."
         },
         {
           "type": "features",
           "id": "advantages",
           "eyebrow": "Die wichtigsten Vorteile",
-          "heading": "Was die YUGL leisten soll",
+          "heading": "Warum die YUGL?",
           "cols": 3,
           "items": [
             {
-              "icon": "cpu",
-              "title": "Konfigurierbare Automatisierung",
-              "text": "Abläufe von der Positionierung bis zur Abschlussmessung lassen sich automatisieren, um manuelle Schritte zwischen den Zyklen zu reduzieren."
-            },
-            {
-              "icon": "clipboard-data",
-              "title": "Bearbeitungsprotokolle",
-              "text": "Vorher-Nachher-Messwerte werden für jeden Radsatz gespeichert und unterstützen die zustandsorientierte Instandhaltung."
-            },
-            {
-              "icon": "people",
-              "title": "Gleichbleibend über alle Schichten",
-              "text": "Geführte Bedienung und gespeicherte Profile machen die Ergebnisse weniger abhängig von der Erfahrung einzelner Mitarbeiter."
-            },
-            {
-              "icon": "clock-history",
-              "title": "Keine Demontage",
-              "text": "Der Radsatz bleibt im Fahrzeug, sodass die Züge noch in derselben Schicht wieder in Betrieb gehen."
+              "icon": "bricks",
+              "title": "Robuste Doppelständer-Bauweise",
+              "text": "Aus feinkörnigem Gusseisen gefertigt – für maximale Steifigkeit und Bearbeitungsgenauigkeit."
             },
             {
               "icon": "arrows-collapse",
-              "title": "Beide Räder zusammen",
-              "text": "Linkes und rechtes Rad werden gleichzeitig bearbeitet – für übereinstimmende Durchmesser."
+              "title": "Synchronisiertes Anheben des Radsatzes",
+              "text": "Vier Antriebsrollen heben und zentrieren den Radsatz automatisch – mit präziser Regelung über Rückmeldesignale."
             },
             {
-              "icon": "train-lightrail-front",
-              "title": "Für stark ausgelastete Flotten",
-              "text": "Geeignet für Metro- und Triebzug-Betriebswerke mit häufiger Reprofilierung und kurzen Instandhaltungsfenstern."
+              "icon": "rulers",
+              "title": "Intelligente CNC-Verschleißmessung",
+              "text": "Optimiert die Schnitttiefe für eine gleichbleibende Radprofilierung und längere Werkzeugstandzeiten."
+            },
+            {
+              "icon": "display",
+              "title": "Zentrale Maschinensteuerung",
+              "text": "Ein einziger Bedienplatz steuert Messung, Bearbeitung und Prozessüberwachung."
+            },
+            {
+              "icon": "tools",
+              "title": "Schnellwechsel-Werkzeugsystem",
+              "text": "Verkürzt die Rüstzeit und steigert die Gesamtproduktivität der Maschine."
             }
           ]
         },
@@ -802,50 +864,105 @@
           "type": "specs",
           "id": "specifications",
           "heading": "Technische Daten",
-          "intro": "Die YUGL wird für jedes Projekt individuell konfiguriert. Die Daten werden im technischen Angebot bestätigt.",
+          "intro": "Technische Daten von HYT. Jede Maschine wird auf Ihre Spurweite, Radprofile und Fahrzeuge konfiguriert.",
           "columns": [
             "Parameter",
-            "YUGL"
+            "YUGL 30",
+            "YUGL 15"
           ],
           "rows": [
             [
-              "Maschinentyp",
-              "CNC-Unterflur-Radsatzdrehmaschine (Grubenmaschine), Einzelradsatz"
+              "Maschinenkonfiguration",
+              "Einzelne Unterflurmaschine; Radsatz wird im eingebauten Zustand reprofiliert, ohne Demontage",
+              "Einzelne Unterflurmaschine für Nahverkehrsfahrzeuge; Radsatz wird im eingebauten Zustand reprofiliert"
             ],
             [
-              "Gleichzeitig bearbeitete Räder",
-              "2 (ein Radsatz)"
+              "Leistung des Hauptantriebs",
+              "4 × 13,5 kW über Reibrollen",
+              "4 × 9 kW über Reibrollen"
             ],
             [
-              "Hauptantrieb",
-              "Auf Anfrage"
+              "Schnittgeschwindigkeit beim Profilieren",
+              "20–120 m/min (optional 20–300 m/min)",
+              "20–120 m/min (optional 20–300 m/min)"
             ],
             [
-              "Bereich Laufkreisdurchmesser",
-              "Auf Anfrage*"
+              "Vorschub des Werkzeugschlittens beim Radprofilieren",
+              "0,1–2,5 mm/U",
+              "0,1–2,5 mm/U"
+            ],
+            [
+              "Eilganggeschwindigkeit des Werkzeugschlittens, beide Achsen",
+              "Längsschlitten 5000 mm/min; Vertikalschlitten 3000 mm/min",
+              "Längsschlitten 5000 mm/min; Vertikalschlitten 3000 mm/min"
+            ],
+            [
+              "Max. Spanungsquerschnitt / Materialabtrag beim Profilieren",
+              "10 mm²",
+              "6 mm²"
+            ],
+            [
+              "Zykluszeit je Radsatz",
+              "30 Minuten",
+              "30 Minuten"
             ],
             [
               "Spurweite",
-              "Nach Kundenvorgabe*"
+              "1000–1676 mm",
+              "1000–1676 mm"
             ],
             [
-              "Max. Radsatzlast",
-              "Auf Anfrage"
+              "Laufkreisdurchmesser, max. / min.",
+              "1600 mm / 580 mm",
+              "1250 mm / 375 mm"
             ],
             [
-              "Messsystem",
-              "Auf Anfrage"
+              "Radbreite",
+              "75–155 mm",
+              "75–155 mm"
             ],
             [
-              "Automatisierungsgrad",
-              "Nach Kundenanforderung konfiguriert"
+              "Radsatzabstand, min. – max.",
+              "1700–3200 mm",
+              "1700–3200 mm"
             ],
             [
-              "Datenschnittstelle zu Werkstattsystemen",
-              "Auf Anfrage"
+              "Max. Radsatzlast / Radsatzgewicht",
+              "30 t (40 t auf Anfrage)",
+              "18 t"
+            ],
+            [
+              "Durchmesserdifferenz beider Räder",
+              "< 0,10 mm",
+              "< 0,10 mm"
+            ],
+            [
+              "Durchmesserdifferenz der vier Räder eines Drehgestells",
+              "< 0,3 mm",
+              "< 0,3 mm"
+            ],
+            [
+              "Genauigkeit des Radprofils gegenüber der Normlehre",
+              "< 0,2 mm",
+              "< 0,2 mm"
+            ],
+            [
+              "Rundlaufabweichung des Rades",
+              "< 0,10 mm",
+              "< 0,10 mm"
+            ],
+            [
+              "Planlaufabweichung des Rades",
+              "< 0,15 mm",
+              "< 0,15 mm"
+            ],
+            [
+              "Oberflächengüte des Profils",
+              "< 12,5 μm Ra",
+              "< 12,5 μm Ra"
             ]
           ],
-          "note": "Mit * gekennzeichnete Werte hängen von Spurweite und Kundenkonfiguration ab. Die endgültigen Werte werden im technischen Angebot bestätigt."
+          "note": "Die endgültigen Werte werden im technischen Angebot bestätigt."
         },
         {
           "type": "steps",
@@ -939,7 +1056,7 @@
           "items": [
             {
               "image": "products/underfloor-wheel-lathe-yugl",
-              "caption": "Beispielabbildung der Unterflur-Radsatzdrehmaschine YUGL"
+              "caption": "HYT CNC-Unterflur-Radsatzdrehmaschine YUGL mit Antriebsrollen und zwei CNC-Werkzeugschlitten"
             },
             {
               "image": "projects/metro-depot",
@@ -962,7 +1079,7 @@
           "items": [
             {
               "q": "Worin unterscheidet sich die YUGL von der YUL-08?",
-              "a": "Beide sind Unterflur-Radsatzdrehmaschinen für Einzelradsätze, die Radsätze im Fahrzeug reprofilieren. Die [YUL-08](page:underfloor-wheel-lathe) ist das bewährte Modell; die YUGL ist als Plattform der nächsten Generation mit höherem Automatisierungsgrad positioniert. Die genauen Unterschiede hängen von der Konfiguration ab – fragen Sie uns nach einem direkten Vergleich für Ihre Flotte."
+              "a": "Beide sind Unterflur-Radsatzdrehmaschinen für Einzelradsätze, die Radsätze im Fahrzeug reprofilieren. Die YUGL wird als YUGL 30 (4 × 13,5 kW, Laufkreisdurchmesser 580–1600 mm, 30 t Radsatzlast) und als YUGL 15 für Nahverkehrsfahrzeuge angeboten. Die [YUL-08](page:underfloor-wheel-lathe) verfügt über einen Antrieb von 4 × 15 kW mit einzeln schwimmend gelagerten Rollen, Laufkreisdurchmesser von 540–1500 mm und Radsatzlasten von 300 / 400 kN und kann zusätzlich Bremsscheiben bearbeiten. Unsere Ingenieure empfehlen Ihnen das Modell, das zu Ihrer Flotte passt."
             },
             {
               "q": "Muss der Radsatz aus dem Fahrzeug ausgebaut werden?",
@@ -987,10 +1104,10 @@
     "tandem-underfloor-wheel-lathe": {
       "nav": "CNC-Tandem-Unterflur-Radsatzdrehmaschine (YUL-12T)",
       "title": "CNC-Tandem-Unterflur-Radsatzdrehmaschine YUL-12T",
-      "description": "HYT YUL-12T Tandem-Unterflur-Radsatzdrehmaschine: zwei synchronisierte Maschinen reprofilieren beide Radsätze eines Drehgestells. Laufkreis 540–1500 mm.",
+      "description": "Zwei Unterflur-Radsatzdrehmaschinen im Tandem reprofilieren beide Radsätze eines Drehgestells gleichzeitig im eingebauten Zustand. Mittenabstand einstellbar von 1800 bis 3100 mm.",
       "eyebrow": "Radsatzdrehmaschinen",
       "h1": "CNC-Tandem-Unterflur-Radsatzdrehmaschine YUL-12T – beide Radsätze eines Drehgestells in einer Aufspannung",
-      "lede": "Zwei synchronisierte Unterflur-Radsatzdrehmaschinen arbeiten nebeneinander und reprofilieren ein komplettes Drehgestell, während es unter dem Fahrzeug bleibt. Eine Maschine ist fest installiert, die andere verfährt zur Anpassung an den Achsstand.",
+      "lede": "Zwei Unterflur-Radsatzdrehmaschinen, die wie eine arbeiten – sie reprofilieren zwei im Fahrzeug eingebaute Radsätze gleichzeitig und verkürzen die Reprofilierungszeit um bis zu die Hälfte.",
       "summary": "Zwei synchronisierte Unterflur-Radsatzdrehmaschinen, die beide Radsätze eines Drehgestells in einer Aufspannung reprofilieren und so die Bearbeitungszeit pro Fahrzeug verkürzen.",
       "related": [
         "underfloor-wheel-lathe",
@@ -1002,53 +1119,58 @@
         {
           "type": "text",
           "id": "overview",
-          "eyebrow": "Über die Maschine",
-          "heading": "Zwei Radsätze, eine Aufspannung",
+          "eyebrow": "Produktübersicht",
+          "heading": "Was ist die CNC-Tandem-Unterflur-Radsatzdrehmaschine?",
           "paragraphs": [
-            "Auf einer einzelnen Unterflur-Radsatzdrehmaschine werden die Radsätze eines Drehgestells nacheinander bearbeitet: Das Fahrzeug wird verschoben, der nächste Radsatz positioniert und der Zyklus beginnt von vorn. Bei der YUL-12T entfällt dieser Schritt. Zwei in einer Grube installierte Maschinen arbeiten synchron im Tandem, sodass beide Radsätze eines Drehgestells gemeinsam reprofiliert werden.",
-            "Eine Einheit ist fest installiert; die zweite verfährt entlang der Grube und passt sich dem Achsstand des Drehgestells an. Eine einzige Anlage kann daher Fahrzeuge mit unterschiedlichen Drehgestellbauarten bedienen – von Lokomotiven über Reisezugwagen bis zu Triebzügen – ohne Änderungen am Fundament.",
-            "Laut HYT-Angaben verkürzt der Tandembetrieb die Reprofilierungszeit gegenüber einer Einzelmaschine um 50 % bei Reisezugwagen und um 33 % bei Lokomotiven. Eine Plattform mit höherem Automatisierungsgrad finden Sie mit der [YUGLX](page:tandem-underfloor-wheel-lathe-yuglx)."
+            "Die CNC-Tandem-Unterflur-Radsatzdrehmaschine (Modell YUL-12T) besteht aus zwei Unterflur-Radsatzdrehmaschinen auf einem gemeinsamen Fundament mit gemeinsamer Infrastruktur. Zwei im Fahrzeug eingebaute Radsätze werden gleichzeitig reprofiliert – ohne Ausbau der Radsätze, des Bremsgestänges, der Radsatzlagerdeckel oder anderer Komponenten des Schienenfahrzeugs.",
+            "Eine Maschine ist fest installiert, die zweite fest oder verfahrbar, sodass das Maschinenpaar die unterschiedlichen Achsstände verschiedener Drehgestelle abdeckt. Der Standard-Mittenabstand zwischen den beiden Maschinen beträgt 1800 bis 3100 mm und kann an spezifische Anforderungen angepasst werden.",
+            "Die beiden CNC-Systeme kommunizieren miteinander und tauschen Daten aus, sodass die Durchmesserdifferenz der vier Räder eines Drehgestells unter 0,3 mm bleibt. Die Maschinen lassen sich auch unabhängig voneinander steuern – so kann bei Bedarf ein einzelner Radsatz bearbeitet werden, und die Bremsscheiben beider Radsätze lassen sich gleichzeitig abdrehen."
           ],
           "image": "products/tandem-underfloor-wheel-lathe-yul-12t",
-          "image_alt": "Beispielabbildung von zwei synchronisierten Unterflur-Radsatzdrehmaschinen in einer Grube unter einem Drehgestell",
+          "image_alt": "HYT CNC-Tandem-Unterflur-Radsatzdrehmaschine YUL-12T – zwei Unterflurmaschinen auf einem gemeinsamen Fundament",
           "layout": "image-right"
         },
         {
           "type": "features",
           "id": "advantages",
           "eyebrow": "Die wichtigsten Vorteile",
-          "heading": "Was der Tandembetrieb im Betriebswerk verändert",
+          "heading": "Warum die YUL-12T?",
           "cols": 3,
           "items": [
             {
-              "icon": "stopwatch",
-              "title": "Kürzere Reprofilierungszeit",
-              "text": "50 % weniger Zeit bei Reisezugwagen und 33 % weniger bei Lokomotiven als mit einer Einzelmaschine (HYT-Angaben)."
+              "icon": "clock-history",
+              "title": "Zwei Radsätze in einem Zyklus",
+              "text": "Die Reprofilierungszeit verkürzt sich um bis zu 50 %, und die Fahrzeuge kehren schneller in den Betrieb zurück."
             },
             {
-              "icon": "arrows-move",
-              "title": "Einstellbarer Achsstand",
-              "text": "Die verfahrbare Einheit wird auf das Drehgestell ausgerichtet, sodass eine Grube mehrere Fahrzeugtypen bedient."
+              "icon": "arrows-expand",
+              "title": "Einstellbarer Mittenabstand",
+              "text": "Standardmäßig 1800 bis 3100 mm – für die unterschiedlichen Achsstände verschiedener Drehgestelle."
             },
             {
-              "icon": "train-front",
-              "title": "Weniger Fahrzeugbewegungen",
-              "text": "Kein Rangieren zwischen den beiden Radsätzen eines Drehgestells – weniger Zeit, weniger Handling, weniger Risiko."
+              "icon": "diagram-3",
+              "title": "Synchrone oder unabhängige Steuerung",
+              "text": "Die beiden CNC-Systeme kommunizieren und tauschen Daten aus; jede Maschine kann auch eigenständig arbeiten."
             },
             {
-              "icon": "aspect-ratio",
-              "title": "Großer Durchmesserbereich",
-              "text": "Laufkreisdurchmesser von 540 bis 1500 mm decken ein breites Fahrzeugspektrum ab."
+              "icon": "bullseye",
+              "title": "Genauigkeit auf Drehgestellebene",
+              "text": "Die Durchmesserdifferenz der vier Räder eines Drehgestells bleibt unter 0,3 mm."
             },
             {
-              "icon": "speedometer",
-              "title": "Flexible Schnittgeschwindigkeit",
-              "text": "20–120 m/min, abgestimmt auf Radwerkstoff und Verschleißzustand."
+              "icon": "building",
+              "title": "Gemeinsame Infrastruktur",
+              "text": "Beide Maschinen teilen sich ein Fundament und die Versorgungsanschlüsse – das vereinfacht die Installation."
             },
             {
-              "icon": "arrows-collapse",
-              "title": "Abgestimmte Räder im ganzen Drehgestell",
-              "text": "Beide Radsätze werden in derselben Aufspannung gemessen und bearbeitet – das erleichtert die Durchmesserabstimmung über das gesamte Drehgestell."
+              "icon": "disc",
+              "title": "Gleichzeitige Bremsscheibenbearbeitung",
+              "text": "Die Bremsscheiben beider Radsätze lassen sich mit Schnellwechselwerkzeugen im selben Zyklus abdrehen."
+            },
+            {
+              "icon": "rulers",
+              "title": "Messung per Taster oder Laser",
+              "text": "Automatische Messung von Profil und Durchmesser vor und nach dem Drehen; die Daten werden im CNC-System gespeichert."
             }
           ]
         },
@@ -1056,54 +1178,86 @@
           "type": "specs",
           "id": "specifications",
           "heading": "Technische Daten",
-          "intro": "Eckdaten der Standardkonfiguration. Die Maschine wird an Spurweite, Drehgestell-Achsstände und Radprofile des Kunden angepasst.",
+          "intro": "Technische Daten von HYT. Jede Maschine wird auf Ihre Spurweite, Radprofile und Fahrzeuge konfiguriert.",
           "columns": [
             "Parameter",
             "YUL-12T"
           ],
           "rows": [
             [
-              "Maschinentyp",
-              "CNC-Tandem-Unterflur-Radsatzdrehmaschine (Grubenmaschine) – zwei synchronisierte Maschinen"
+              "Maschinenkonfiguration",
+              "Zwei Unterflurmaschinen auf einem gemeinsamen Fundament; Mittenabstand standardmäßig 1800–3100 mm"
             ],
             [
-              "Konfiguration",
-              "Eine feste und eine verfahrbare Maschine zur Anpassung an den Drehgestell-Achsstand"
+              "Leistung des Hauptantriebs",
+              "4 × 15 kW über Reibrollen, je Maschine"
             ],
             [
-              "Bearbeitete Radsätze pro Aufspannung",
-              "2 (ein Drehgestell)"
+              "Schnittgeschwindigkeit beim Profilieren",
+              "20–120 m/min (optional 20–300 m/min)"
             ],
             [
-              "Leistung der Hauptantriebsmotoren",
-              "4 × 15 kW"
+              "Vorschub des Werkzeugschlittens beim Radprofilieren",
+              "0,1–2,5 mm/U"
             ],
             [
-              "Bereich Laufkreisdurchmesser",
-              "540–1500 mm"
+              "Eilganggeschwindigkeit des Werkzeugschlittens, beide Achsen",
+              "3000 mm/min"
             ],
             [
-              "Schnittgeschwindigkeit",
-              "20–120 m/min"
+              "Max. Spanungsquerschnitt / Materialabtrag beim Profilieren",
+              "10 mm²"
             ],
             [
-              "Bereich Drehgestell-Achsstand",
-              "Auf Anfrage*"
+              "Zykluszeit je Radsatz",
+              "35 Minuten"
             ],
             [
               "Spurweite",
-              "Nach Kundenvorgabe*"
+              "Nach Bedarf"
             ],
             [
-              "Max. Radsatzlast",
-              "Auf Anfrage"
+              "Laufkreisdurchmesser, max. / min.",
+              "1500 mm / 540 mm (abhängig von der Spurweite)"
             ],
             [
-              "Reprofilierungszeit im Vergleich zur Einzelmaschine",
-              "50 % kürzer bei Reisezugwagen, 33 % kürzer bei Lokomotiven (HYT-Angaben)"
+              "Radbreite",
+              "75–155 mm"
+            ],
+            [
+              "Radsatzabstand, min. – max.",
+              "1800–3200 mm"
+            ],
+            [
+              "Max. Radsatzlast / Radsatzgewicht",
+              "300 / 400 kN Radsatzlast"
+            ],
+            [
+              "Durchmesserdifferenz beider Räder",
+              "< 0,10 mm"
+            ],
+            [
+              "Durchmesserdifferenz der vier Räder eines Drehgestells",
+              "< 0,3 mm"
+            ],
+            [
+              "Genauigkeit des Radprofils gegenüber der Normlehre",
+              "< 0,2 mm"
+            ],
+            [
+              "Rundlaufabweichung des Rades",
+              "< 0,10 mm"
+            ],
+            [
+              "Planlaufabweichung des Rades",
+              "< 0,15 mm"
+            ],
+            [
+              "Oberflächengüte des Profils",
+              "< 12,5 μm Ra"
             ]
           ],
-          "note": "Mit * gekennzeichnete Werte hängen von Spurweite und Kundenkonfiguration ab. Die endgültigen Werte werden im technischen Angebot bestätigt."
+          "note": "Von der Spurweite abhängige Werte sind in der Tabelle gekennzeichnet. Die endgültigen Werte werden im technischen Angebot bestätigt."
         },
         {
           "type": "steps",
@@ -1203,7 +1357,7 @@
           "items": [
             {
               "image": "products/tandem-underfloor-wheel-lathe-yul-12t",
-              "caption": "Beispielabbildung der Tandem-Unterflur-Radsatzdrehmaschine YUL-12T"
+              "caption": "HYT CNC-Tandem-Unterflur-Radsatzdrehmaschine YUL-12T – zwei Unterflurmaschinen auf einem gemeinsamen Fundament"
             },
             {
               "image": "projects/pit-foundation-civil-works",
@@ -1226,7 +1380,7 @@
           "items": [
             {
               "q": "Wie viel Zeit spart eine Tandemmaschine?",
-              "a": "Laut HYT-Angaben verkürzt sich die Reprofilierungszeit gegenüber einer einzelnen Unterflurmaschine um 50 % bei Reisezugwagen und um 33 % bei Lokomotiven. Die tatsächliche Einsparung hängt von Ihren Fahrzeugen und Abläufen im Betriebswerk ab."
+              "a": "Die Bearbeitung beider Radsätze eines Drehgestells in einem Zyklus verkürzt die Reprofilierungszeit gegenüber einer einzelnen Unterflurmaschine um bis zu 50 %. Die tatsächliche Einsparung hängt von Ihren Fahrzeugen und Abläufen im Betriebswerk ab."
             },
             {
               "q": "Wie geht die Maschine mit unterschiedlichen Drehgestell-Achsständen um?",
@@ -1238,7 +1392,7 @@
             },
             {
               "q": "Was ist der Unterschied zwischen der YUL-12T und der YUGLX?",
-              "a": "Beide sind Tandem-Unterflur-Radsatzdrehmaschinen. Die YUL-12T ist das bewährte Modell mit den auf dieser Seite angegebenen Daten. Die [YUGLX](page:tandem-underfloor-wheel-lathe-yuglx) ist als Tandemplattform der nächsten Generation mit höherem Automatisierungsgrad positioniert. Gern vergleichen wir beide für Ihre Flotte."
+              "a": "Beide sind Tandem-Unterflur-Radsatzdrehmaschinen. Die YUL-12T verfügt über einen Antrieb von 4 × 15 kW je Maschine, einen Standard-Mittenabstand von 1800–3100 mm und Laufkreisdurchmesser von 540–1500 mm. Bei der [YUGLX](page:tandem-underfloor-wheel-lathe-yuglx) läuft die verfahrbare Maschine auf CNC-gesteuerten Linearführungen; sie deckt einen Achsstandbereich von 1700–3200 mm und als YUGLX 30 Laufkreisdurchmesser bis 1600 mm ab. Unsere Ingenieure empfehlen Ihnen das Modell, das zu Ihrer Flotte passt."
             },
             {
               "q": "Reicht eine Einzelmaschine für mein Betriebswerk?",
@@ -1250,12 +1404,12 @@
     },
     "tandem-underfloor-wheel-lathe-yuglx": {
       "nav": "CNC-Tandem-Unterflur-Radsatzdrehmaschine (YUGLX)",
-      "title": "CNC-Tandem-Unterflur-Drehmaschine YUGLX – automatisiert",
-      "description": "HYT YUGLX Tandem-Unterflur-Radsatzdrehmaschine: synchronisierte Maschinen reprofilieren ein ganzes Drehgestell im Fahrzeug – mit höherem Automatisierungsgrad.",
+      "title": "CNC-Tandem-Unterflur-Radsatzdrehmaschine YUGLX",
+      "description": "Zwei synchronisierte CNC-Unterflur-Radsatzdrehmaschinen reprofilieren alle Radsätze eines Reisezugwagens oder einer Lokomotive gleichzeitig – ohne den Zugverband zu trennen.",
       "eyebrow": "Radsatzdrehmaschinen",
-      "h1": "CNC-Tandem-Unterflur-Radsatzdrehmaschine YUGLX – Tandemplattform der nächsten Generation für die automatisierte Drehgestell-Reprofilierung",
-      "lede": "Die YUGLX überträgt das Tandemprinzip – beide Radsätze eines Drehgestells in einer Aufspannung – auf eine Plattform für Betriebswerke, die Positionierung, Messung und Datenerfassung mit weniger manuellem Aufwand abwickeln möchten.",
-      "summary": "Tandem-Unterflur-Radsatzdrehmaschine der nächsten Generation, die ein komplettes Drehgestell im Fahrzeug reprofiliert – ausgerichtet auf einen höheren Automatisierungsgrad.",
+      "h1": "CNC-Tandem-Unterflur-Radsatzdrehmaschine YUGLX – zwei synchronisierte Maschinen für komplette Wagen und Lokomotiven",
+      "lede": "Zwei synchronisierte Unterflur-Radsatzdrehmaschinen im Tandembetrieb – sie reprofilieren zwei Radsätze eines kompletten Wagens oder einer Lokomotive, ohne das Fahrzeug aus dem Zugverband zu lösen.",
+      "summary": "Zwei synchronisierte CNC-Unterflur-Radsatzdrehmaschinen, die die Radsätze eines kompletten Wagens oder einer Lokomotive reprofilieren, ohne den Zugverband zu trennen.",
       "related": [
         "tandem-underfloor-wheel-lathe",
         "underfloor-wheel-lathe-yugl",
@@ -1266,58 +1420,48 @@
         {
           "type": "text",
           "id": "overview",
-          "eyebrow": "Über die Maschine",
-          "heading": "Ein ganzes Drehgestell pro Zyklus – mit mehr Automatisierung",
+          "eyebrow": "Produktübersicht",
+          "heading": "Was ist die CNC-Tandem-Unterflur-Radsatzdrehmaschine?",
           "paragraphs": [
-            "In einem stark ausgelasteten Betriebswerk ist die Radsatzdrehmaschine oft der Engpass. Eine Tandem-Unterflur-Radsatzdrehmaschine löst das, indem sie beide Radsätze eines Drehgestells gemeinsam bearbeitet, während das Fahrzeug montiert über der Grube steht.",
-            "Die YUGLX ist als Tandemplattform der nächsten Generation neben der bewährten [YUL-12T](page:tandem-underfloor-wheel-lathe) positioniert. Sie ist für Flotten gedacht, bei denen die Maschine nahezu ununterbrochen im Einsatz ist und gleichbleibende Zyklen sowie lückenlose Bearbeitungsprotokolle ebenso zählen wie die Bearbeitungszeit. Automatisierungsumfang, Messausrüstung und Datenschnittstellen werden mit jedem Kunden individuell vereinbart.",
-            "Ihr Gegenstück für Einzelradsätze ist die [YUGL](page:underfloor-wheel-lathe-yugl)."
+            "Die CNC-Tandem-Unterflur-Radsatzdrehmaschine (Modell YUGLX) ist die fortschrittlichste Lösung von HYT für die Radreprofilierung – eine Kombination aus zwei vollwertigen CNC-Unterflur-Radsatzdrehmaschinen, die in exakt synchronisiertem Tandembetrieb mehrere Radsätze eines ganzen Wagens oder einer Lokomotive gleichzeitig reprofilieren.",
+            "Eine Maschine ist fest installiert, die andere verfahrbar und wird über CNC-gesteuerte Linearführungen bewegt. So lassen sich die unterschiedlichen Achsstände verschiedener Drehgestellbauarten von Reisezugwagen, Lokomotiven, Metrozügen und Elektrotriebzügen abdecken.",
+            "Die Tandemkonfiguration ist besonders wertvoll bei Zugverbänden, deren Wagen sich nicht trennen lassen. Der gesamte Zug kann eingefahren und die Radprofilierung eines kompletten Wagens in weniger als zwei Stunden durchgeführt werden – das verkürzt die Zeit, in der das Fahrzeug dem Fahrgastbetrieb nicht zur Verfügung steht, erheblich."
           ],
           "image": "products/tandem-underfloor-wheel-lathe-yuglx",
-          "image_alt": "Beispielabbildung einer Tandem-Unterflur-Radsatzdrehmaschine YUGLX unter einem Triebzug-Drehgestell",
+          "image_alt": "HYT CNC-Tandem-Unterflur-Radsatzdrehmaschine YUGLX – zwei synchronisierte Unterflurmaschinen in einer Betriebswerksgrube",
           "layout": "image-right"
-        },
-        {
-          "type": "notice",
-          "variant": "review",
-          "text": "Bestätigung durch HYT ausstehend: technische Unterschiede zwischen YUGLX und YUL-12T (Automatisierungsgrad, Antriebe, Leistungsdaten, Achsstandbereich) und ob beide Modelle weiterhin angeboten werden. Die Positionierung auf dieser Seite ist vorläufig."
         },
         {
           "type": "features",
           "id": "advantages",
           "eyebrow": "Die wichtigsten Vorteile",
-          "heading": "Was die YUGLX leisten soll",
+          "heading": "Warum die YUGLX?",
           "cols": 3,
           "items": [
             {
-              "icon": "stopwatch",
-              "title": "Ganzes Drehgestell pro Aufspannung",
-              "text": "Zwei Radsätze werden gemeinsam bearbeitet – ohne Fahrzeugbewegung zwischen den Radsätzen."
-            },
-            {
               "icon": "cpu",
-              "title": "Konfigurierbare Automatisierung",
-              "text": "Arbeitsschritte von der Positionierung bis zur Abschlussmessung lassen sich passend zum Betriebswerk automatisieren."
+              "title": "Unabhängige CNC-Steuerung",
+              "text": "Eigenständige CNC-Systeme synchronisieren sich nahtlos für eine effiziente Tandembearbeitung."
             },
             {
-              "icon": "clipboard-data",
-              "title": "Lückenlose Protokolle",
-              "text": "Messwerte aller vier Räder werden je Drehgestell gespeichert – für Trendanalysen und Instandhaltungsplanung."
+              "icon": "bricks",
+              "title": "Robuste Kastenbauweise",
+              "text": "Eine steife Gussstruktur sorgt für Stabilität, Schwingungsdämpfung und Bearbeitungsgenauigkeit."
             },
             {
-              "icon": "arrows-move",
-              "title": "Flexibler Achsstand",
-              "text": "Der Maschinenabstand wird auf die Drehgestell-Achsstände Ihrer Flotte konfiguriert."
+              "icon": "clock-history",
+              "title": "Kürzere Zugstillstandszeiten",
+              "text": "Die gleichzeitige Bearbeitung verkürzt die Instandhaltungszeit um bis zu 50 % – auch wenn sich die Wagen nicht trennen lassen."
             },
             {
-              "icon": "people",
-              "title": "Weniger abhängig vom Bediener",
-              "text": "Geführte, wiederholgenaue Zyklen liefern über alle Schichten hinweg gleichbleibende Ergebnisse."
+              "icon": "display",
+              "title": "Zentrale Maschinensteuerung",
+              "text": "Ein einziger Bedienplatz steuert Messung, Bearbeitung und Prozessüberwachung."
             },
             {
-              "icon": "shield-check",
-              "title": "Sicherer Grubenbetrieb",
-              "text": "Geschützte Arbeitsbereiche und Verriegelungen an beiden Maschinen."
+              "icon": "diagram-3",
+              "title": "Bereit für Industrie 4.0",
+              "text": "Integrierte intelligente Diagnose, Echtzeitüberwachung und digitale Vernetzung für mehr Produktivität."
             }
           ]
         },
@@ -1325,50 +1469,105 @@
           "type": "specs",
           "id": "specifications",
           "heading": "Technische Daten",
-          "intro": "Die YUGLX wird für jedes Projekt individuell konfiguriert. Die Daten werden im technischen Angebot bestätigt.",
+          "intro": "Technische Daten von HYT. Jede Maschine wird auf Ihre Spurweite, Radprofile und Fahrzeuge konfiguriert.",
           "columns": [
             "Parameter",
-            "YUGLX"
+            "YUGLX 30",
+            "YUGLX 15"
           ],
           "rows": [
             [
-              "Maschinentyp",
-              "CNC-Tandem-Unterflur-Radsatzdrehmaschine (Grubenmaschine)"
+              "Maschinenkonfiguration",
+              "Zwei synchronisierte Unterflurmaschinen auf einem gemeinsamen Tragbett; eine fest, die andere in Längsrichtung verfahrbar zur Anpassung an das Drehgestell",
+              "Zwei synchronisierte Unterflurmaschinen auf einem gemeinsamen Tragbett, für Nahverkehrsfahrzeuge; eine fest, die andere in Längsrichtung verfahrbar"
             ],
             [
-              "Bearbeitete Radsätze pro Aufspannung",
-              "2 (ein Drehgestell)"
+              "Leistung des Hauptantriebs",
+              "4 × 13,5 kW über Reibrollen, je Maschine",
+              "4 × 9 kW über Reibrollen, je Maschine"
             ],
             [
-              "Hauptantrieb",
-              "Auf Anfrage"
+              "Schnittgeschwindigkeit beim Profilieren",
+              "20–120 m/min (optional 20–300 m/min)",
+              "20–120 m/min (optional 20–300 m/min)"
             ],
             [
-              "Bereich Laufkreisdurchmesser",
-              "Auf Anfrage*"
+              "Vorschub des Werkzeugschlittens beim Radprofilieren",
+              "0,1–2,5 mm/U",
+              "0,1–2,5 mm/U"
             ],
             [
-              "Bereich Drehgestell-Achsstand",
-              "Auf Anfrage*"
+              "Eilganggeschwindigkeit des Werkzeugschlittens, beide Achsen",
+              "Längsschlitten 5000 mm/min; Vertikalschlitten 3000 mm/min",
+              "Längsschlitten 5000 mm/min; Vertikalschlitten 3000 mm/min"
+            ],
+            [
+              "Max. Spanungsquerschnitt / Materialabtrag beim Profilieren",
+              "10 mm²",
+              "6 mm²"
+            ],
+            [
+              "Zykluszeit je Radsatz",
+              "30 Minuten",
+              "30 Minuten"
             ],
             [
               "Spurweite",
-              "Nach Kundenvorgabe*"
+              "1000–1676 mm",
+              "1000–1676 mm"
             ],
             [
-              "Max. Radsatzlast",
-              "Auf Anfrage"
+              "Laufkreisdurchmesser, max. / min.",
+              "1600 mm / 580 mm",
+              "1250 mm / 375 mm"
             ],
             [
-              "Automatisierungsgrad",
-              "Nach Kundenanforderung konfiguriert"
+              "Radbreite",
+              "75–155 mm",
+              "75–155 mm"
             ],
             [
-              "Datenschnittstelle zu Werkstattsystemen",
-              "Auf Anfrage"
+              "Achsstand, min. – max.",
+              "1700–3200 mm",
+              "1700–3200 mm"
+            ],
+            [
+              "Max. Radsatzlast / Radsatzgewicht",
+              "30 t (40 t auf Anfrage)",
+              "18 t"
+            ],
+            [
+              "Durchmesserdifferenz beider Räder",
+              "< 0,10 mm",
+              "< 0,10 mm"
+            ],
+            [
+              "Durchmesserdifferenz der vier Räder eines Drehgestells",
+              "< 0,3 mm",
+              "< 0,3 mm"
+            ],
+            [
+              "Genauigkeit des Radprofils gegenüber der Normlehre",
+              "< 0,2 mm",
+              "< 0,2 mm"
+            ],
+            [
+              "Rundlaufabweichung des Rades",
+              "< 0,10 mm",
+              "< 0,10 mm"
+            ],
+            [
+              "Planlaufabweichung des Rades",
+              "< 0,15 mm",
+              "< 0,15 mm"
+            ],
+            [
+              "Oberflächengüte des Profils",
+              "< 12,5 μm Ra",
+              "< 12,5 μm Ra"
             ]
           ],
-          "note": "Mit * gekennzeichnete Werte hängen von Spurweite und Kundenkonfiguration ab. Die endgültigen Werte werden im technischen Angebot bestätigt."
+          "note": "Die endgültigen Werte werden im technischen Angebot bestätigt."
         },
         {
           "type": "steps",
@@ -1382,7 +1581,7 @@
             },
             {
               "title": "Ausrichten",
-              "text": "Die Maschinen werden auf beide Radsätze des Drehgestells ausgerichtet."
+              "text": "Die verfahrbare Maschine bewegt sich auf CNC-gesteuerten Linearführungen und wird an den Achsstand des Drehgestells angepasst."
             },
             {
               "title": "Anheben & spannen",
@@ -1462,7 +1661,7 @@
           "items": [
             {
               "image": "products/tandem-underfloor-wheel-lathe-yuglx",
-              "caption": "Beispielabbildung der Tandem-Unterflur-Radsatzdrehmaschine YUGLX"
+              "caption": "HYT CNC-Tandem-Unterflur-Radsatzdrehmaschine YUGLX – zwei synchronisierte Unterflurmaschinen in einer Betriebswerksgrube"
             },
             {
               "image": "projects/metro-depot",
@@ -1485,7 +1684,7 @@
           "items": [
             {
               "q": "Worin unterscheidet sich die YUGLX von der YUL-12T?",
-              "a": "Beide sind Tandem-Unterflur-Radsatzdrehmaschinen, die beide Radsätze eines Drehgestells in einer Aufspannung bearbeiten. Die [YUL-12T](page:tandem-underfloor-wheel-lathe) ist das bewährte Modell; die YUGLX ist als Plattform der nächsten Generation mit höherem Automatisierungsgrad positioniert. Fragen Sie uns nach einem Vergleich auf Basis Ihrer Flotte."
+              "a": "Beide sind Tandem-Unterflur-Radsatzdrehmaschinen. Bei der YUGLX ist eine Maschine fest installiert, die andere bewegt sich auf CNC-gesteuerten Linearführungen; sie wird als YUGLX 30 (Laufkreisdurchmesser 580–1600 mm, 30 t Radsatzlast) und als YUGLX 15 für Nahverkehrsfahrzeuge angeboten, jeweils mit einem Achsstandbereich von 1700–3200 mm. Die [YUL-12T](page:tandem-underfloor-wheel-lathe) verfügt über einen Antrieb von 4 × 15 kW je Maschine, einen Standard-Mittenabstand von 1800–3100 mm und Laufkreisdurchmesser von 540–1500 mm. Unsere Ingenieure empfehlen Ihnen das Modell, das zu Ihrer Flotte passt."
             },
             {
               "q": "Warum eine Tandemmaschine statt einer Einzelradsatzmaschine?",
@@ -1509,11 +1708,11 @@
     },
     "portal-wheel-lathe": {
       "nav": "CNC-Portal-Radsatzdrehmaschine",
-      "title": "CNC-Portal-Radsatzdrehmaschine YPL-02 – ausgebaute Radsätze",
-      "description": "HYT YPL-02 CNC-Portal-Radsatzdrehmaschine für ausgebaute Radsätze und hohe Zerspanleistung: Laufkreis 750–1250 mm, Antrieb 2 × 55 kW, Radsätze bis 50 kN.",
+      "title": "CNC-Portal-Radsatzdrehmaschine YPL-02",
+      "description": "CNC-Radsatzdrehmaschine in Portalbauweise mit Durchroll-Radsatzhandling. Gleichzeitige Reprofilierung beider Räder in 8 bis 12 Minuten je Radsatz.",
       "eyebrow": "Radsatzdrehmaschinen",
       "h1": "CNC-Portal-Radsatzdrehmaschine YPL-02 für ausgebaute Radsätze",
-      "lede": "Eine steife Portalmaschine für die Radsatzwerkstatt. Sie bearbeitet ausgebaute Radsätze mit kräftigen, stabilen Schnitten, sodass auch stark verschlissene Laufflächen effizient und präzise wiederhergestellt werden.",
+      "lede": "Eine automatische Maschine in Portalbauweise mit Durchrollen der Radsätze – ausgelegt für die anspruchsvollsten Einsatzbedingungen bei der Reprofilierung von Eisenbahnrädern.",
       "summary": "Steife Portal-Radsatzdrehmaschine zur Reprofilierung ausgebauter Radsätze in Radsatzwerkstätten, mit 2 × 55 kW Hauptantrieb für hohe Zerspanleistung.",
       "related": [
         "roller-type-portal-wheel-lathe",
@@ -1525,53 +1724,47 @@
         {
           "type": "text",
           "id": "overview",
-          "eyebrow": "Über die Maschine",
-          "heading": "Für die Radsatzwerkstatt gebaut",
+          "eyebrow": "Produktübersicht",
+          "heading": "Was ist die CNC-Portal-Radsatzdrehmaschine?",
           "paragraphs": [
-            "Werden Radsätze zur Revision, zum Radwechsel oder für größere Reparaturen ausgebaut, erreichen sie die Radsatzwerkstatt in stetigem Strom – oft mit tiefen Flachstellen, Ausbröckelungen oder Hohllauf, die einen erheblichen Materialabtrag erfordern. Genau für diese Arbeit ist die YPL-02 ausgelegt.",
-            "Ihre Portalstruktur führt die Werkzeugschlitten über den Radsatz und leitet die Schnittkräfte in einen geschlossenen, steifen Rahmen ab. Mit einem Hauptantrieb von 2 × 55 kW und einem Spanungsquerschnitt von 32–50 mm² bewältigt die Maschine kräftige Schnitte an harten, verschlissenen Laufflächen und hält dabei das Profil präzise ein.",
-            "Der Radsatz wird auf Schienen eingerollt, in die Bearbeitungsposition gebracht und gespannt; anschließend werden beide Räder vermessen und gedreht. Eine verwandte Portalbauart finden Sie mit der [CNC-Portal-Radsatzdrehmaschine mit Rollenantrieb YPL-04](page:roller-type-portal-wheel-lathe)."
+            "Die HYT CNC-Portal-Radsatzdrehmaschine (YPL-02) ist speziell für die gleichzeitige Reprofilierung neuer oder verschlissener Räder aller Arten von Schienenfahrzeugen konstruiert. Ihre Portalbauweise ordnet die Schneidköpfe oberhalb des Radsatzes an und ermöglicht so das Durchrollen beim Beladen.",
+            "Alle tragenden Strukturen bestehen aus hochfestem, feinkörnigem Gusseisen und bieten hervorragende Maßstabilität, geometrische Genauigkeit und Schwingungsdämpfung – entscheidend für die engen Toleranzen, die der moderne Bahnbetrieb verlangt."
           ],
           "image": "products/portal-wheel-lathe",
-          "image_alt": "Beispielabbildung einer CNC-Portal-Radsatzdrehmaschine bei der Bearbeitung eines ausgebauten Radsatzes in einer Radsatzwerkstatt",
+          "image_alt": "HYT CNC-Portal-Radsatzdrehmaschine YPL-02 mit Bediener an der Maschine",
           "layout": "image-right"
         },
         {
           "type": "features",
           "id": "advantages",
           "eyebrow": "Die wichtigsten Vorteile",
-          "heading": "Warum Radsatzwerkstätten sich für eine Portalmaschine entscheiden",
+          "heading": "Warum die YPL-02?",
           "cols": 3,
           "items": [
             {
-              "icon": "lightning-charge",
-              "title": "Hohe Zerspanleistung",
-              "text": "Hauptantrieb 2 × 55 kW und Spanungsquerschnitt 32–50 mm² für den effizienten Abtrag tiefer Schäden."
+              "icon": "building",
+              "title": "Robuste Portalbauweise",
+              "text": "Die massive Portalkonstruktion sorgt für hohe Steifigkeit und Bearbeitungsstabilität."
+            },
+            {
+              "icon": "arrow-left-right",
+              "title": "Automatisches Radsatzhandling",
+              "text": "Ein integriertes Durchrollsystem steigert die Produktivität und verkürzt die Handlingzeit."
             },
             {
               "icon": "bricks",
-              "title": "Steifer Portalrahmen",
-              "text": "Eine geschlossene Struktur für stabiles Zerspanen und wiederholgenaue Profile auch auf harten Laufflächen."
-            },
-            {
-              "icon": "arrows-expand",
-              "title": "Großer Radsatz-Arbeitsbereich",
-              "text": "Laufkreisdurchmesser 750–1250 mm, Radbreiten 75–145 mm und Achslängen 1850–2750 mm, je nach Spurweite."
+              "title": "Hochsteife Gussstruktur",
+              "text": "Die Konstruktion aus feinkörnigem Gusseisen bietet hervorragende Genauigkeit und Schwingungsdämpfung."
             },
             {
               "icon": "rulers",
-              "title": "Materialschonende Profile",
-              "text": "Die Messung vor der Bearbeitung ermöglicht es der CNC, nur so tief wie nötig zu schneiden – das verlängert die Lebensdauer der Räder."
+              "title": "Intelligente Verschleißmessung",
+              "text": "Die elektronische Verschleißkompensation hält die optimale Schnitttiefe und gleichbleibende Radprofile ein."
             },
             {
-              "icon": "diagram-3",
-              "title": "Passt in den Werkstattfluss",
-              "text": "Arbeitet im kontinuierlichen Prozess mit Radsatzgleisen, Messstationen und Pressen zusammen."
-            },
-            {
-              "icon": "geo-alt",
-              "title": "Keine Grube unter einem Betriebsgleis",
-              "text": "Der Radsatz kommt zur Maschine, daher ist in der Radsatzwerkstatt keine Gleisgrube erforderlich."
+              "icon": "shield-check",
+              "title": "Höhere Betriebssicherheit",
+              "text": "Der automatische Werkzeugrückzug schützt die Maschine bei Stromausfall und Not-Halt."
             }
           ]
         },
@@ -1579,54 +1772,78 @@
           "type": "specs",
           "id": "specifications",
           "heading": "Technische Daten",
-          "intro": "Eckdaten der Standardkonfiguration. Die Maschine wird an Spurweite und Radprofile des Kunden angepasst.",
+          "intro": "Technische Daten von HYT. Jede Maschine wird auf Ihre Spurweite, Radprofile und Fahrzeuge konfiguriert.",
           "columns": [
             "Parameter",
             "YPL-02"
           ],
           "rows": [
             [
-              "Maschinentyp",
-              "CNC-Portal-Radsatzdrehmaschine für ausgebaute Radsätze"
+              "Maschinenkonfiguration",
+              "Portalbauweise mit Durchroll-Radsatzhandling"
             ],
             [
-              "Laufkreisdurchmesser, maximal",
-              "1250 mm"
+              "Leistung des Hauptantriebs",
+              "2 × 55 kW"
             ],
             [
-              "Laufkreisdurchmesser, minimal",
-              "750 mm*"
+              "Schnittgeschwindigkeit beim Profilieren",
+              "25–80 m/min"
+            ],
+            [
+              "Vorschub des Werkzeugschlittens beim Radprofilieren",
+              "0,1–4 mm/U"
+            ],
+            [
+              "Eilganggeschwindigkeit des Werkzeugschlittens, beide Achsen",
+              "4500 mm/min"
+            ],
+            [
+              "Max. Spanungsquerschnitt / Materialabtrag beim Profilieren",
+              "32–50 mm²"
+            ],
+            [
+              "Zykluszeit je Radsatz",
+              "8–12 min"
+            ],
+            [
+              "Spurweite",
+              "Nach Bedarf"
+            ],
+            [
+              "Laufkreisdurchmesser, max. / min.",
+              "1250 mm / 750 mm (abhängig von der Spurweite)"
             ],
             [
               "Radbreite",
               "75–145 mm"
             ],
             [
-              "Achslänge",
-              "1850–2750 mm*"
+              "Max. Radsatzlast / Radsatzgewicht",
+              "50 kN Radsatzgewicht"
             ],
             [
-              "Max. Radsatzgewicht",
-              "50 kN"
+              "Durchmesserdifferenz beider Räder",
+              "< 0,15 mm"
             ],
             [
-              "Hauptantrieb",
-              "2 × 55 kW"
+              "Genauigkeit des Radprofils gegenüber der Normlehre",
+              "< 0,2 mm"
             ],
             [
-              "Spanungsquerschnitt",
-              "32–50 mm²"
+              "Rundlaufabweichung des Rades",
+              "< 0,1 mm"
             ],
             [
-              "Schnittgeschwindigkeit",
-              "Auf Anfrage"
+              "Planlaufabweichung des Rades",
+              "< 0,2 mm"
             ],
             [
-              "Spurweite",
-              "Nach Kundenvorgabe*"
+              "Oberflächengüte des Profils",
+              "< 12,5 μm Ra"
             ]
           ],
-          "note": "Mit * gekennzeichnete Werte hängen von Spurweite und Kundenkonfiguration ab. Die endgültigen Werte werden im technischen Angebot bestätigt."
+          "note": "Von der Spurweite abhängige Werte sind in der Tabelle gekennzeichnet. Die endgültigen Werte werden im technischen Angebot bestätigt."
         },
         {
           "type": "steps",
@@ -1725,7 +1942,7 @@
           "items": [
             {
               "image": "products/portal-wheel-lathe",
-              "caption": "Beispielabbildung der Portal-Radsatzdrehmaschine YPL-02"
+              "caption": "HYT CNC-Portal-Radsatzdrehmaschine YPL-02 mit Bediener an der Maschine"
             },
             {
               "image": "projects/railway-wheel-shop",
@@ -1760,7 +1977,7 @@
             },
             {
               "q": "Worin unterscheidet sich die YPL-02 von der YPL-04?",
-              "a": "Beide sind Portalmaschinen für ausgebaute Radsätze. Die [YPL-04](page:roller-type-portal-wheel-lathe) ist die Bauart mit Rollenantrieb. Welche wir empfehlen, entscheiden wir nach Prüfung Ihrer Radsätze und Abläufe."
+              "a": "Beide sind Portal-Radsatzdrehmaschinen mit Durchroll-Handling für ausgebaute Radsätze. Die YPL-02 verfügt über einen Hauptantrieb von 2 × 55 kW für kräftige Schnitte und bearbeitet einen Radsatz in 8–12 Minuten. Die [YPL-04](page:roller-type-portal-wheel-lathe) treibt den Radsatz über sechs Reibrollen an und eignet sich für Radsätze mit montiertem Getriebe oder außenliegenden Kassettenlagern. Welche Maschine passt, empfehlen wir nach Prüfung Ihrer Radsätze und Arbeitsabläufe."
             },
             {
               "q": "Kann die YPL-02 Teil einer automatisierten Radsatzwerkstatt sein?",
@@ -1773,11 +1990,11 @@
     "roller-type-portal-wheel-lathe": {
       "nav": "CNC-Portal-Radsatzdrehmaschine mit Rollenantrieb",
       "title": "CNC-Portal-Radsatzdrehmaschine mit Rollenantrieb YPL-04",
-      "description": "HYT YPL-04 Portal-Radsatzdrehmaschine mit Rollenantrieb: CNC-Reprofilierung ausgebauter, auf Rollen gelagerter Radsätze für Radsatz- und Revisionswerkstätten.",
+      "description": "Portal-Radsatzdrehmaschine mit Reibrollenantrieb über sechs Rollen und Durchroll-Radsatzhandling. Beide Räder werden in 12 bis 16 Minuten je Radsatz reprofiliert.",
       "eyebrow": "Radsatzdrehmaschinen",
       "h1": "CNC-Portal-Radsatzdrehmaschine mit Rollenantrieb YPL-04 – ausgebaute Radsätze auf Rollen gelagert und angetrieben",
-      "lede": "Die YPL-04 überträgt das Portalprinzip auf ausgebaute Radsätze und nutzt eine Rollenanordnung, die den Radsatz während der Bearbeitung trägt und in Drehung versetzt.",
-      "summary": "Portal-Radsatzdrehmaschine mit Rollenantrieb zur Reprofilierung ausgebauter Radsätze – die Ergänzung zur YPL-02 in Radsatz- und Revisionswerkstätten.",
+      "lede": "Eine automatische Radsatzdrehmaschine in Portalbauweise mit Reibrollenantrieb und Durchroll-Radsatzhandling – für die gleichzeitige Reprofilierung ausgebauter Radsätze.",
+      "summary": "Portal-Radsatzdrehmaschine mit Reibrollenantrieb über sechs Rollen und Durchroll-Handling, die ausgebaute Radsätze in 12–16 Minuten reprofiliert.",
       "related": [
         "portal-wheel-lathe",
         "surface-wheel-lathe",
@@ -1788,58 +2005,58 @@
         {
           "type": "text",
           "id": "overview",
-          "eyebrow": "Über die Maschine",
-          "heading": "Portalbearbeitung mit Rollenantrieb",
+          "eyebrow": "Produktübersicht",
+          "heading": "Was ist die CNC-Portal-Radsatzdrehmaschine mit Rollenantrieb?",
           "paragraphs": [
-            "Portal-Radsatzdrehmaschinen bearbeiten Radsätze, die aus dem Fahrzeug ausgebaut wurden. Bei der Rollenbauart wird der Radsatz auf Rollen gelagert und angetrieben – das von Unterflurmaschinen bekannte Antriebsprinzip –, während die Werkzeugschlitten von der Portalstruktur aus arbeiten.",
-            "Damit ist die YPL-04 eine Option für Werkstätten, die die gute Zugänglichkeit einer Portalmaschine für ausgebaute Radsätze mit einem Rollenantrieb verbinden möchten. Ob die YPL-04 oder die [YPL-02](page:portal-wheel-lathe) besser zu Ihnen passt, hängt von Ihren Radsätzen, Schadensbildern und Abläufen ab; dazu beraten wir Sie im Rahmen Ihrer Anfrage.",
-            "Möchten Sie die Radsätze lieber im Fahrzeug belassen, ist eine [Unterflur-Radsatzdrehmaschine](page:underfloor-wheel-lathe) die Alternative."
+            "Die CNC-Portal-Radsatzdrehmaschine mit Rollenantrieb (Modell YPL-04) ist eine automatische Maschine in Portalbauweise, deren Rollenantriebe das Durchrollen der Radsätze ermöglichen. Sie eignet sich für die gleichzeitige Reprofilierung neuer oder verschlissener Räder, nachdem der Radsatz aus dem Fahrzeug ausgebaut wurde, und nimmt auch Radsätze mit montiertem Getriebe auf.",
+            "Der Radsatz wird von sechs Reibrollen angetrieben – drei je Rad –, die an den oberen und unteren Lauf- und Spurkranzbereichen anliegen. Jede Rolle sitzt in einer Spindelpatrone auf reibungsarmen Schwingarmen, die eine vertikale Anpassung an unterschiedliche Raddurchmesser erlauben und selbst bei Flachstellen oder unrunden Laufflächen einen gleichmäßigen Kontakt sichern. Ein geregelter Hydraulikdruck, eingestellt über ein Ventil und einen Stickstoffspeicher, hält diesen Kontakt stabil, und die Rollenmotoren werden über eine Master-Slave-Steuerung synchronisiert.",
+            "Be- und Entladen erfolgen vollautomatisch; wo der Platz begrenzt ist, kann das Ein- und Ausrollen aus derselben Richtung vorgesehen werden. Radsätze mit außenliegendem Kegelrollen-Kassettenlager (CTRB) werden von einer hydraulisch betätigten Spannvorrichtung zentriert und gespannt; rad- und achsmontierte Bremsscheiben lassen sich optional bearbeiten."
           ],
           "image": "products/roller-type-portal-wheel-lathe",
-          "image_alt": "Beispielabbildung einer Portal-Radsatzdrehmaschine mit Rollenantrieb und einem ausgebauten Radsatz auf den Antriebsrollen",
+          "image_alt": "HYT CNC-Portal-Radsatzdrehmaschine mit Rollenantrieb YPL-04 mit geschlossenem Portal und Bedienpult",
           "layout": "image-right"
-        },
-        {
-          "type": "notice",
-          "variant": "review",
-          "text": "Angaben von HYT ausstehend: technische Daten der YPL-04, Bestätigung ihres Antriebs- und Spannprinzips sowie ihre Unterschiede zur YPL-02."
         },
         {
           "type": "features",
           "id": "advantages",
           "eyebrow": "Die wichtigsten Vorteile",
-          "heading": "Was die Rollenbauart bietet",
+          "heading": "Warum die YPL-04?",
           "cols": 3,
           "items": [
             {
-              "icon": "arrow-repeat",
-              "title": "Rollenantrieb",
-              "text": "Der Radsatz wird auf Rollen gelagert und angetrieben – ein Prinzip, das Teams mit Erfahrung an Unterflurmaschinen vertraut ist."
+              "icon": "gear-wide-connected",
+              "title": "Reibrollenantrieb mit sechs Rollen",
+              "text": "Drei Rollen je Rad aus durchgehärtetem, geschliffenem Stahl mit 58–63 HRC – wendbar und nachbearbeitbar für eine lange Lebensdauer."
             },
             {
-              "icon": "eye",
-              "title": "Freier Zugang",
-              "text": "Der ausgebaute Radsatz lässt sich während des gesamten Zyklus gut einsehen, vermessen und prüfen."
+              "icon": "arrow-left-right",
+              "title": "Automatisches Durchroll-Handling",
+              "text": "Vollautomatisches Be- und Entladen; Ein- und Ausrollen aus derselben Richtung möglich, wo der Platz begrenzt ist."
+            },
+            {
+              "icon": "bricks",
+              "title": "Portalrahmen aus feinkörnigem Gusseisen",
+              "text": "Alle tragenden Strukturen bieten Maß- und Formstabilität bei wirksamer Schwingungsdämpfung."
+            },
+            {
+              "icon": "lock",
+              "title": "Zentrieren und Spannen von CTRB-Radsätzen",
+              "text": "Radsätze mit außenliegenden Kassettenlagern werden von Hydraulikzylindern zentriert und gespannt."
             },
             {
               "icon": "rulers",
-              "title": "Bearbeitung nach Messung",
-              "text": "Die Räder werden vor dem Zerspanen vermessen, sodass nur das nötige Material abgetragen wird."
+              "title": "Integrierte Radverschleißmessung",
+              "text": "Berührende Tastrollen messen Profil, Durchmesser, Spurkranzhöhe und -dicke, Innenmaß sowie Radbreite."
             },
             {
-              "icon": "train-front",
-              "title": "Gemischte Flotten",
-              "text": "Profilbibliothek und anpassbares Rüstkonzept für unterschiedliche Radsatztypen."
+              "icon": "graph-up",
+              "title": "Software zur Schnittoptimierung",
+              "text": "Die CNC verarbeitet die Verschleißdaten und schlägt die wirtschaftlichste Schnitttiefe vor; alle Daten werden abrufbar gespeichert."
             },
             {
-              "icon": "diagram-3",
-              "title": "Integration in die Radsatzwerkstatt",
-              "text": "Kann in einer Linie mit Messstationen, Pressen und Radsatzgleisen angeordnet werden."
-            },
-            {
-              "icon": "tools",
-              "title": "Betreut durch den Hersteller",
-              "text": "Ersatzteile, Serviceverträge und Modernisierungen direkt von HYT."
+              "icon": "disc",
+              "title": "Optionales Abdrehen von Bremsscheiben",
+              "text": "Ein ausfahrbarer, einsatzgehärteter Stößel auf dem Schlitten bearbeitet rad- und achsmontierte Bremsscheiben auf unter 2,5 μm Ra."
             }
           ]
         },
@@ -1847,46 +2064,78 @@
           "type": "specs",
           "id": "specifications",
           "heading": "Technische Daten",
-          "intro": "Die technischen Daten der YPL-04 erhalten Sie mit dem technischen Angebot.",
+          "intro": "Technische Daten von HYT. Jede Maschine wird auf Ihre Spurweite, Radprofile und Fahrzeuge konfiguriert.",
           "columns": [
             "Parameter",
             "YPL-04"
           ],
           "rows": [
             [
-              "Maschinentyp",
-              "CNC-Portal-Radsatzdrehmaschine mit Rollenantrieb für ausgebaute Radsätze"
+              "Maschinenkonfiguration",
+              "Portalbauweise, sechs Reibrollen, Durchroll-Radsatzhandling"
             ],
             [
-              "Bereich Laufkreisdurchmesser",
-              "Auf Anfrage*"
+              "Leistung des Hauptantriebs",
+              "Obere Rollen 2 × 37 kW; untere Rollen 2 × 18,5 kW"
             ],
             [
-              "Radbreite",
-              "Auf Anfrage"
+              "Schnittgeschwindigkeit beim Profilieren",
+              "25–80 m/min"
             ],
             [
-              "Achslänge",
-              "Auf Anfrage*"
+              "Vorschub des Werkzeugschlittens beim Radprofilieren",
+              "0,1–4 mm/U"
             ],
             [
-              "Max. Radsatzgewicht",
-              "Auf Anfrage"
+              "Eilganggeschwindigkeit des Werkzeugschlittens, beide Achsen",
+              "4500 mm/min"
             ],
             [
-              "Hauptantrieb",
-              "Auf Anfrage"
+              "Max. Spanungsquerschnitt / Materialabtrag beim Profilieren",
+              "10–18 mm²"
             ],
             [
-              "Schnittgeschwindigkeit",
-              "Auf Anfrage"
+              "Zykluszeit je Radsatz",
+              "12–16 min"
             ],
             [
               "Spurweite",
-              "Nach Kundenvorgabe*"
+              "Nach Bedarf"
+            ],
+            [
+              "Laufkreisdurchmesser, max. / min.",
+              "1250 mm / 650 mm (abhängig von der Spurweite)"
+            ],
+            [
+              "Radbreite",
+              "100–145 mm"
+            ],
+            [
+              "Max. Radsatzlast / Radsatzgewicht",
+              "50 kN Radsatzgewicht"
+            ],
+            [
+              "Durchmesserdifferenz beider Räder",
+              "< 0,1 mm"
+            ],
+            [
+              "Genauigkeit des Radprofils gegenüber der Normlehre",
+              "< 0,2 mm"
+            ],
+            [
+              "Rundlaufabweichung des Rades",
+              "< 0,1 mm"
+            ],
+            [
+              "Planlaufabweichung des Rades",
+              "< 0,2 mm"
+            ],
+            [
+              "Oberflächengüte des Profils",
+              "< 12,5 μm Ra"
             ]
           ],
-          "note": "Mit * gekennzeichnete Werte hängen von Spurweite und Kundenkonfiguration ab. Die endgültigen Werte werden im technischen Angebot bestätigt."
+          "note": "Von der Spurweite abhängige Werte sind in der Tabelle gekennzeichnet. Die endgültigen Werte werden im technischen Angebot bestätigt."
         },
         {
           "type": "steps",
@@ -1980,7 +2229,7 @@
           "items": [
             {
               "image": "products/roller-type-portal-wheel-lathe",
-              "caption": "Beispielabbildung der Portal-Radsatzdrehmaschine mit Rollenantrieb YPL-04"
+              "caption": "HYT CNC-Portal-Radsatzdrehmaschine mit Rollenantrieb YPL-04 mit geschlossenem Portal und Bedienpult"
             },
             {
               "image": "products/wheelset-profile-closeup",
@@ -1999,15 +2248,15 @@
           "items": [
             {
               "q": "Was bedeutet „Rollenbauart“?",
-              "a": "Der Begriff beschreibt, wie der Radsatz während der Bearbeitung gelagert und angetrieben wird: auf Rollen, ähnlich dem Antriebsprinzip einer Unterflur-Radsatzdrehmaschine. Die genaue Anordnung geht aus dem technischen Angebot hervor."
+              "a": "Die Bezeichnung beschreibt, wie der Radsatz angetrieben wird: durch sechs Reibrollen, drei je Rad, die an den oberen und unteren Lauf- und Spurkranzbereichen anliegen. Die Rollen sitzen auf vertikal nachgebenden Schwingarmen, sodass der Kontakt selbst bei Rädern mit Flachstellen oder Unrundheit gleichmäßig bleibt."
             },
             {
               "q": "Worin unterscheidet sich die YPL-04 von der YPL-02?",
-              "a": "Beide sind Portalmaschinen für ausgebaute Radsätze. Die YPL-04 arbeitet mit einer Rollenanordnung; die [YPL-02](page:portal-wheel-lathe) ist das Portalmodell mit veröffentlichten Daten für hohe Zerspanleistung. Wir helfen Ihnen bei der Wahl auf Basis Ihrer Radsätze und Abläufe."
+              "a": "Beide sind Portal-Radsatzdrehmaschinen mit Durchroll-Handling für ausgebaute Radsätze. Die YPL-04 treibt den Radsatz über sechs Reibrollen an (oben 2 × 37 kW, unten 2 × 18,5 kW), nimmt Laufkreisdurchmesser ab 650 mm auf und bearbeitet einen Radsatz in 12–16 Minuten. Die [YPL-02](page:portal-wheel-lathe) verfügt über einen Hauptantrieb von 2 × 55 kW und einen Spanungsquerschnitt von 32–50 mm² für kräftige Schnitte, bei einer Zykluszeit von 8–12 Minuten. Wir helfen Ihnen bei der Auswahl auf Basis Ihrer Radsätze und Arbeitsabläufe."
             },
             {
               "q": "Sind technische Daten verfügbar?",
-              "a": "Ja – auf Anfrage. Senden Sie uns Ihre Raddurchmesser, Achslängen, Radsatzgewichte und Spurweiten, und wir antworten mit Daten, die auf Ihre Flotte abgestimmt sind."
+              "a": "Ja – die wichtigsten Daten finden Sie in der Tabelle oben. Von der Spurweite abhängige Werte sowie die Konfiguration für Ihre Radsätze werden im technischen Angebot bestätigt."
             },
             {
               "q": "Brauche ich eine Grube?",
@@ -2020,10 +2269,10 @@
     "vertical-turning-boring-machine": {
       "nav": "CNC-Vertikal-Dreh- und Bohrmaschine",
       "title": "CNC-Vertikal-Dreh- und Bohrmaschine YVM-04",
-      "description": "HYT YVM-04 CNC-Vertikal-Dreh- und Bohrmaschine für Eisenbahnräder und Radreifen: Profil, Radkranzflächen und Nabenbohrung auf horizontalem Planscheibentisch.",
+      "description": "Vertikal-Dreh- und Bohrmaschine für Eisenbahnräder. Komplettbearbeitung des Rades in einer Aufspannung, mit 45-kW-Tischantrieb und Werkzeugwechsler mit 12 Plätzen.",
       "eyebrow": "Maschinen für Radsatzwerkstätten",
       "h1": "CNC-Vertikal-Dreh- und Bohrmaschine YVM-04 für Eisenbahnräder, Radreifen und Nabenbohrungen",
-      "lede": "Lose Räder und Radreifen werden liegend auf einem Rundtisch bearbeitet – dort liegen sie auch unter Last stabil, und Profil sowie Nabenbohrung lassen sich mit engen Toleranzen fertigen.",
+      "lede": "Die Vertikal-Dreh- und Bohrlösung für Bahnwerkstätten – Komplettbearbeitung des Rades in einer Aufspannung, von der Nabenbohrung bis zum Laufflächenprofil.",
       "summary": "Vertikal-Dreh- und Bohrmaschine für lose Eisenbahnräder und Radreifen – Profil, Radkranzflächen und Nabenbohrung – in Neufertigung und Aufarbeitung.",
       "related": [
         "wheel-presses",
@@ -2035,53 +2284,52 @@
         {
           "type": "text",
           "id": "overview",
-          "eyebrow": "Über die Maschine",
-          "heading": "Der erste Präzisionsschritt eines neuen Radsatzes",
+          "eyebrow": "Produktübersicht",
+          "heading": "Was ist die CNC-Vertikal-Dreh- und Bohrmaschine?",
           "paragraphs": [
-            "Bevor ein Rad auf eine Achswelle aufgepresst werden kann, muss seine Nabenbohrung für den Pressverband auf einen exakten Durchmesser bearbeitet werden, und Lauffläche sowie Spurkranz müssen dem vorgegebenen Profil entsprechen. Eine Vertikal-Dreh- und Bohrmaschine ist dafür das naheliegende Werkzeug: Das Rad liegt auf einem horizontalen Rundtisch, wird gespannt und von oben bearbeitet.",
-            "Die vertikale Bauweise erleichtert das Beladen schwerer Räder per Kran, hält das Werkstück unter Schnittlast stabil und gibt dem Bediener freie Sicht auf den Zerspanungsbereich. Dieselbe Maschine bearbeitet auch Radreifen für bereifte Räder und andere rotationssymmetrische Bauteile des Radsatzes.",
-            "HYT hat eine CNC-Vertikaldrehmaschine an das Triebzug-Betriebswerk Sanpada in Mumbai und eine CNC-Vertikal-Revolverdrehmaschine an die State Railway of Thailand in Bangkok geliefert. Siehe unsere [realisierten Projekte](page:executed-projects)."
+            "Die HYT CNC-Vertikal-Dreh- und Bohrmaschine (YVM-04) ist speziell für das gesamte Spektrum der Bearbeitung von Eisenbahnrädern ausgelegt. Dank der vertikalen Spindelanordnung lassen sich große, schwere Eisenbahnräder mit hervorragender Stabilität und Genauigkeit spannen und bearbeiten – ohne den Verzug, den eine horizontale Aufspannung schwerer Werkstücke mit sich bringt.",
+            "Die Kombination aus 45-kW-Tischantrieb, großem Axiallager, gehärteten Kastenführungen und einem automatischen Werkzeugwechsler mit 12 Plätzen macht die YVM-04 zu einem echten Bearbeitungszentrum, das jedes Profil am Eisenbahnrad in einer einzigen Aufspannung fertigt."
           ],
           "image": "products/vertical-turning-boring-machine",
-          "image_alt": "Beispielabbildung einer CNC-Vertikal-Dreh- und Bohrmaschine mit einem Eisenbahnrad auf dem Rundtisch",
+          "image_alt": "HYT CNC-Vertikal-Dreh- und Bohrmaschine YVM-04",
           "layout": "image-right"
         },
         {
           "type": "features",
           "id": "advantages",
           "eyebrow": "Die wichtigsten Vorteile",
-          "heading": "Warum Räder vertikal bearbeiten?",
+          "heading": "Warum die YVM-04?",
           "cols": 3,
           "items": [
             {
+              "icon": "bricks",
+              "title": "Robuste Gusseisenstruktur",
+              "text": "Hohe Steifigkeit und schwingungsfreie Bearbeitung."
+            },
+            {
               "icon": "bullseye",
-              "title": "Präzise Nabenbohrungen",
-              "text": "Bohrungsdurchmesser und Oberflächengüte werden für einen zuverlässigen Pressverband auf der Achswelle kontrolliert."
+              "title": "Hochpräzise Tischbaugruppe",
+              "text": "Axial- und Kegelrollenlager für maximale Genauigkeit."
             },
             {
-              "icon": "layers",
-              "title": "Stabile Spannung",
-              "text": "Das Rad liegt flach auf dem Tisch, sodass sein Eigengewicht für einen festen Sitz sorgt."
+              "icon": "nut",
+              "title": "Flexible Spannfutteroptionen",
+              "text": "Hydraulisches Dreibackenfutter oder Vierbacken-Planscheibenfutter mit Einzelverstellung."
             },
             {
-              "icon": "arrows-collapse",
-              "title": "Weniger Umspannen",
-              "text": "Mehrere Merkmale in einer Aufspannung bearbeitet – das reduziert Handling und Fehlersummierung."
+              "icon": "shield-check",
+              "title": "Vollständig geschlossener Arbeitsraum",
+              "text": "Mehr Sicherheit für den Bediener."
             },
             {
-              "icon": "box-seam",
-              "title": "Einfache Kranbeladung",
-              "text": "Schwere Räder und Radreifen werden direkt auf den Tisch abgesenkt."
+              "icon": "arrows-move",
+              "title": "Präzises Führungssystem",
+              "text": "Gleichmäßige Bewegung, hohe Steifigkeit und gleichbleibende Genauigkeit."
             },
             {
-              "icon": "cpu",
-              "title": "Programme je Radzeichnung",
-              "text": "Gespeicherte CNC-Programme sorgen dafür, dass jedes Rad eines Typs identisch gefertigt wird."
-            },
-            {
-              "icon": "arrow-repeat",
-              "title": "Neubau und Aufarbeitung",
-              "text": "Geeignet für neue Räder, Radreifen und Aufarbeitung in derselben Werkstatt."
+              "icon": "tools",
+              "title": "Automatischer Werkzeugwechsler mit 12 Plätzen",
+              "text": "Schnelleres Rüsten und höhere Produktivität."
             }
           ]
         },
@@ -2089,46 +2337,74 @@
           "type": "specs",
           "id": "specifications",
           "heading": "Technische Daten",
-          "intro": "Die YVM-04 wird auf die Rad- und Radreifengrößen Ihrer Werkstatt konfiguriert.",
+          "intro": "Technische Daten von HYT. Jede Maschine wird auf Ihre Spurweite, Radprofile und Fahrzeuge konfiguriert.",
           "columns": [
             "Parameter",
             "YVM-04"
           ],
           "rows": [
             [
-              "Maschinentyp",
-              "CNC-Vertikal-Dreh- und Bohrmaschine"
+              "Maschinenkonfiguration",
+              "Vertikal-Dreh- und Bohrmaschine; Komplettbearbeitung des Rades in einer Aufspannung – Radscheibe, Profil, Kranz und Nabe"
             ],
             [
-              "Typische Werkstücke",
-              "Eisenbahnräder, Radreifen und ähnliche rotationssymmetrische Bauteile"
+              "Leistung des Hauptantriebs",
+              "Tischantriebsmotor 45 kW"
+            ],
+            [
+              "Tischdrehzahl",
+              "3–300 U/min"
+            ],
+            [
+              "Eilganggeschwindigkeit",
+              "Bis 8000 mm/min"
+            ],
+            [
+              "Dreh- / Umlaufdurchmesser",
+              "1600 mm"
             ],
             [
               "Tischdurchmesser",
-              "Auf Anfrage"
+              "1400 mm"
             ],
             [
-              "Max. Drehdurchmesser",
-              "Auf Anfrage"
+              "Drehhöhe",
+              "600 mm"
             ],
             [
-              "Max. Werkstückhöhe",
-              "Auf Anfrage"
+              "Vertikaler Verfahrweg des Stößelkopfs",
+              "700 mm"
             ],
             [
-              "Max. Werkstückgewicht",
-              "Auf Anfrage"
+              "Horizontaler Verfahrweg des Stößelkopfs",
+              "+900 / −50 mm"
             ],
             [
-              "Hauptantrieb",
-              "Auf Anfrage"
+              "Stößelquerschnitt",
+              "200 × 200 mm oder 250 × 250 mm"
             ],
             [
-              "CNC-System",
-              "Auf Anfrage"
+              "Werkstückspannung",
+              "Selbstzentrierendes hydraulisches Dreibackenfutter"
+            ],
+            [
+              "Werkzeugwechsler",
+              "Standardmäßig 12 Plätze; 20 Plätze als kundenspezifische Option"
+            ],
+            [
+              "Oberflächengüte beim Bohren",
+              "Ra 0,8 μm"
+            ],
+            [
+              "Oberflächengüte beim Drehen",
+              "Ra 1,6 μm"
+            ],
+            [
+              "Oberflächengüte beim Plandrehen",
+              "Ra 1,6 μm"
             ]
           ],
-          "note": "Die endgültigen Werte werden im technischen Angebot für Ihre Anwendung bestätigt."
+          "note": "Die endgültigen Werte werden im technischen Angebot bestätigt."
         },
         {
           "type": "steps",
@@ -2227,7 +2503,7 @@
           "items": [
             {
               "image": "products/vertical-turning-boring-machine",
-              "caption": "Beispielabbildung der Vertikal-Dreh- und Bohrmaschine YVM-04"
+              "caption": "HYT CNC-Vertikal-Dreh- und Bohrmaschine YVM-04"
             },
             {
               "image": "projects/emu-car-shed",
@@ -2250,7 +2526,7 @@
           "items": [
             {
               "q": "Was lässt sich auf der YVM-04 bearbeiten?",
-              "a": "Eisenbahnräder und Radreifen – Lauffläche, Spurkranz, Radkranzflächen und Nabenbohrung – sowie ähnliche rotationssymmetrische Bauteile. Die Größengrenzen werden für Ihre Werkstücke im technischen Angebot bestätigt."
+              "a": "Eisenbahnräder und Radreifen – Radscheibe, Laufflächenprofil, Kranz und Nabenbohrung – in einer Aufspannung sowie ähnliche rotationssymmetrische Bauteile. Die Maschine hat einen Drehdurchmesser von 1600 mm, einen Tischdurchmesser von 1400 mm und eine Drehhöhe von 600 mm."
             },
             {
               "q": "Warum Räder vertikal statt horizontal bearbeiten?",
@@ -2274,12 +2550,12 @@
     },
     "axle-journal-turning-burnishing-lathe": {
       "nav": "CNC-Achsschenkel-Dreh- und Glattwalzmaschine",
-      "title": "CNC-Achsschenkel-Dreh- und Glattwalzmaschine für Radsätze",
-      "description": "HYT CNC-Achsschenkel-Dreh- und Glattwalzmaschine: Instandsetzung der Lagersitze bei der Radsatzrevision – präzise gedreht, dann dauerhaft glattgewalzt.",
+      "title": "CNC-Achsschenkel-Dreh- und Glattwalzmaschine YTB 04",
+      "description": "CNC-Drehmaschine zum Drehen und Glattwalzen von Achsschenkeln an Eisenbahnachsen. Ovalität und Konizität unter 0,01 mm und eine glattgewalzte Oberfläche unter 0,2 μm Ra.",
       "eyebrow": "Maschinen für Radsatzwerkstätten",
-      "h1": "CNC-Achsschenkel-Dreh- und Glattwalzmaschine für die Radsatzrevision",
-      "lede": "Die Achsschenkel tragen die gesamte Last des Fahrzeugs. Diese Maschine stellt bei der Revision ihren Durchmesser wieder her und walzt die Oberfläche anschließend glatt – für einen glatten, verschleißfesten Lagersitz.",
-      "summary": "Stellt Achsschenkel bei der Radsatzrevision wieder her und walzt sie glatt – für präzise, langlebige Lagersitze.",
+      "h1": "CNC-Achsschenkel-Dreh- und Glattwalzmaschine YTB 04 für die Radsatzrevision",
+      "lede": "Eine spezialisierte CNC-Drehmaschine, die Achsschenkel von Eisenbahnachsen auf ihre ursprüngliche Geometrie zurückführt und eine glattgewalzte Lagersitzoberfläche unter 0,2 μm Ra erzeugt.",
+      "summary": "CNC-Drehmaschine, die Achsschenkel von Eisenbahnachsen dreht und glattwalzt – mit Ovalität und Konizität unter 0,01 mm und einer Oberfläche unter 0,2 μm Ra.",
       "related": [
         "axle-turning-lathe",
         "wheel-presses",
@@ -2290,53 +2566,43 @@
         {
           "type": "text",
           "id": "overview",
-          "eyebrow": "Über die Maschine",
-          "heading": "Achsschenkelbearbeitung, keine komplette Achsbearbeitung",
+          "eyebrow": "Produktübersicht",
+          "heading": "Was ist die CNC-Achsschenkel-Dreh- und Glattwalzmaschine?",
           "paragraphs": [
-            "Bei jeder Radsatzrevision werden die Achsschenkel genau geprüft. Korrosion, Passungsrost und Verschleiß an den Lagersitzen müssen beseitigt und der Achsschenkel auf einen Durchmesser und eine Oberflächengüte gebracht werden, die die Lagerspezifikation zulässt.",
-            "Die CNC-Achsschenkel-Dreh- und Glattwalzmaschine ist genau für diese Aufgabe gebaut. Sie dreht den Achsschenkel und die angrenzenden Sitze auf Maß und walzt die Oberfläche anschließend glatt: Gehärtete Rollen drücken die vom Drehen verbliebenen Rauheitsspitzen ein und hinterlassen eine glatte, verdichtete Oberfläche. Glattwalzen ist ein Kaltumformverfahren – es entstehen keine Späne.",
-            "**Dies ist eine Maschine für die Revision.** Für das Drehen kompletter Achswellen aus Roh- oder Schmiedeteilen in der Neufertigung siehe die [CNC-Achswellendrehmaschine ATL-01](page:axle-turning-lathe)."
+            "Die CNC-Achsschenkel-Dreh- und Glattwalzmaschine (Modell YTB 04) ist eine Spezialmaschine für die Instandhaltung und Fertigung von Eisenbahnradsätzen. Sie setzt die Achsschenkel instand und bearbeitet sie fertig – die präzisen Lagersitzflächen an beiden Enden einer Eisenbahnachse.",
+            "Diese Achsschenkel tragen den Radsatz in den Drehgestelllagern. Verschleiß, Ovalität, Konizität oder Oberflächenschäden können zu vorzeitigem Lagerausfall, übermäßiger Wärmeentwicklung, höheren Instandhaltungskosten und möglichen Sicherheitsrisiken führen.",
+            "Beim Drehen wird verschlissenes oder beschädigtes Material vom Achsschenkel abgetragen und seine ursprüngliche Geometrie und Maßgenauigkeit wiederhergestellt. Die CNC-gesteuerte Bearbeitung korrigiert Ovalität, Konizität und Oberflächenverschleiß und bringt den Achsschenkel wieder in die Spezifikation; anschließend erhält die Oberfläche durch Glattwalzen die geforderte Güte."
           ],
           "image": "products/axle-journal-turning-burnishing-lathe",
-          "image_alt": "Beispielabbildung eines Achsschenkels beim Glattwalzen auf einer CNC-Drehmaschine",
+          "image_alt": "HYT CNC-Achsschenkel-Dreh- und Glattwalzmaschine YTB 04 mit einem Radsatz in der Maschine",
           "layout": "image-right"
         },
         {
           "type": "features",
           "id": "advantages",
           "eyebrow": "Die wichtigsten Vorteile",
-          "heading": "Warum Drehen und Glattwalzen auf einer Maschine?",
-          "cols": 3,
+          "heading": "Warum die YTB 04?",
+          "cols": 2,
           "items": [
             {
               "icon": "bullseye",
-              "title": "Korrekter Lagersitz",
-              "text": "Achsschenkel werden auf den Durchmesser gebracht, der für einen zuverlässigen Lagersitz erforderlich ist."
+              "title": "Präzise Achsschenkelbearbeitung",
+              "text": "Genaues Drehen innen- und außenliegender Achsschenkel."
             },
             {
               "icon": "stars",
-              "title": "Glatte, verdichtete Oberfläche",
-              "text": "Glattwalzen erzeugt eine feine Oberfläche, ohne weiteres Material abzutragen."
+              "title": "Hochwertiges Glattwalzen",
+              "text": "Eine hervorragende Oberflächengüte und eine längere Lebensdauer der Achse."
             },
             {
-              "icon": "shield-check",
-              "title": "Langlebigere Oberfläche",
-              "text": "Eine glattgewalzte Oberfläche widersteht Verschleiß und Passungsrost besser als eine nur gedrehte."
+              "icon": "bricks",
+              "title": "Robustes, steifes Maschinenbett",
+              "text": "Zwei feste Reitstöcke für maximale Stabilität und Präzision."
             },
             {
-              "icon": "recycle",
-              "title": "Längere Lebensdauer der Achswelle",
-              "text": "Da nur die beschädigte Schicht abgetragen wird, bleiben die Achswellen über mehr Revisionen innerhalb der Grenzmaße."
-            },
-            {
-              "icon": "arrow-left-right",
-              "title": "Kein Umsetzen zwischen Maschinen",
-              "text": "Drehen und Glattwalzen auf derselben Maschine spart Handling- und Rüstzeit."
-            },
-            {
-              "icon": "cpu",
-              "title": "Wiederholgenaue Programme",
-              "text": "Gespeicherte Programme für jeden Achstyp sorgen für gleichbleibende Ergebnisse."
+              "icon": "arrows-expand",
+              "title": "Automatischer Achslängenausgleich",
+              "text": "Ein federbelasteter Reitstock sorgt für ein gleichbleibendes Glattwalzergebnis."
             }
           ]
         },
@@ -2344,46 +2610,70 @@
           "type": "specs",
           "id": "specifications",
           "heading": "Technische Daten",
-          "intro": "Die Maschine wird auf die Achstypen Ihres Revisionsprogramms konfiguriert.",
+          "intro": "Technische Daten von HYT. Jede Maschine wird auf Ihre Spurweite, Radprofile und Fahrzeuge konfiguriert.",
           "columns": [
             "Parameter",
-            "Wert"
+            "YTB 04"
           ],
           "rows": [
             [
-              "Maschinentyp",
-              "CNC-Drehmaschine zum Drehen und Glattwalzen von Achsschenkeln"
+              "Maschinenkonfiguration",
+              "Achsschenkel-Dreh- und Glattwalzmaschine; innen- und außenliegende Achsschenkel von Radsatzwellen"
             ],
             [
-              "Typische Arbeiten",
-              "Instandsetzung von Achsschenkeln und angrenzenden Sitzen bei der Revision"
+              "Leistung des Hauptantriebs",
+              "Hauptantriebsmotor 11 kW"
             ],
             [
-              "Max. Achslänge",
-              "Auf Anfrage*"
+              "Schnittgeschwindigkeit beim Drehen & Glattwalzen der Achse",
+              "50–400 m/min"
             ],
             [
-              "Bereich Achsschenkeldurchmesser",
-              "Auf Anfrage"
+              "Vorschub des Werkzeugschlittens beim Drehen & Glattwalzen der Achse",
+              "0,1–2,5 mm/U"
             ],
             [
-              "Max. Werkstückgewicht",
-              "Auf Anfrage"
+              "Max. Schnitttiefe beim Achsdrehen",
+              "2 mm"
             ],
             [
-              "Glattwalzwerkzeug",
-              "Auf Anfrage"
+              "Laufkreisdurchmesser, max. / min.",
+              "1250 mm / 540 mm (abhängig von der Spurweite)"
             ],
             [
-              "Hauptantrieb",
-              "Auf Anfrage"
+              "Radbreite",
+              "75–145 mm"
             ],
             [
-              "CNC-System",
-              "Auf Anfrage"
+              "Achslänge, max. / min.",
+              "2750 mm / 1200 mm (abhängig von der Spurweite)"
+            ],
+            [
+              "Achsschenkeldurchmesser, min. – max.",
+              "70–320 mm"
+            ],
+            [
+              "Achsschenkellänge, min. – max.",
+              "110–480 mm"
+            ],
+            [
+              "Max. Radsatzgewicht",
+              "50 kN"
+            ],
+            [
+              "Ovalität des Achsschenkels",
+              "< 0,01 mm"
+            ],
+            [
+              "Konizität des Achsschenkels",
+              "< 0,01 mm je 100 mm"
+            ],
+            [
+              "Oberflächengüte des Achsschenkels nach dem Glattwalzen",
+              "< 0,2 μm Ra"
             ]
           ],
-          "note": "Mit * gekennzeichnete Werte hängen von Spurweite und Kundenkonfiguration ab. Die endgültigen Werte werden im technischen Angebot bestätigt."
+          "note": "Von der Spurweite abhängige Werte sind in der Tabelle gekennzeichnet. Die endgültigen Werte werden im technischen Angebot bestätigt."
         },
         {
           "type": "steps",
@@ -2482,7 +2772,7 @@
           "items": [
             {
               "image": "products/axle-journal-turning-burnishing-lathe",
-              "caption": "Beispielabbildung der Achsschenkel-Dreh- und Glattwalzmaschine"
+              "caption": "HYT CNC-Achsschenkel-Dreh- und Glattwalzmaschine YTB 04 mit einem Radsatz in der Maschine"
             },
             {
               "image": "projects/railway-wheel-shop",
@@ -2501,7 +2791,7 @@
           "items": [
             {
               "q": "Worin unterscheidet sich diese Maschine von der Achswellendrehmaschine ATL-01?",
-              "a": "Diese Maschine stellt die Achsschenkel von Achswellen im Betrieb wieder her und walzt sie glatt. Die [ATL-01](page:axle-turning-lathe) dreht komplette Achswellen aus Roh- oder Schmiedeteilen in der Neufertigung. Viele Radsatzwerkstätten benötigen beide."
+              "a": "Die YTB 04 dreht und glattwalzt die innen- und außenliegenden Lagerzapfen von Radsatzwellen. Die [ATL-01](page:axle-turning-lathe) übernimmt die Schrupp- und Schlichtbearbeitung kompletter Achsen zwischen Spitzen. Viele Radsatzwerkstätten benötigen beide Maschinen."
             },
             {
               "q": "Warum nach dem Drehen glattwalzen?",
@@ -2513,7 +2803,7 @@
             },
             {
               "q": "Welche Flächen können bearbeitet werden?",
-              "a": "Achsschenkel und – je nach Achskonstruktion – angrenzende Sitze. Der genaue Umfang wird für Ihre Achszeichnungen im technischen Angebot bestätigt."
+              "a": "Innen- und außenliegende Achsschenkel von Radsatzwellen mit Achsschenkeldurchmessern von 70–320 mm und Achsschenkellängen von 110–480 mm, an Achsen von 1200–2750 mm Länge (abhängig von der Spurweite) und Radsätzen bis 50 kN."
             },
             {
               "q": "Kann die Maschine unterschiedliche Achstypen bearbeiten?",
@@ -2525,12 +2815,12 @@
     },
     "axle-turning-lathe": {
       "nav": "CNC-Achswellendrehmaschine",
-      "title": "CNC-Achswellendrehmaschine ATL-01 für neue Achswellen",
-      "description": "HYT CNC-Achswellendrehmaschine ATL-01: komplette Bearbeitung von Achswellen aus Roh- oder Schmiedeteilen – Achsschenkel, Sitze und Schaft für neue Radsätze.",
+      "title": "CNC-Achswellendrehmaschine ATL-01",
+      "description": "Robuste CNC-Drehmaschine für die Schrupp- und Schlichtbearbeitung von Eisenbahnachsen: 41-kW-Antrieb, 30–2500 U/min, 3000 mm Spitzenweite, 600 mm Umlaufdurchmesser über Querschlitten.",
       "eyebrow": "Maschinen für Radsatzwerkstätten",
-      "h1": "CNC-Achswellendrehmaschine ATL-01 für die Komplettbearbeitung roher und geschmiedeter Achswellen",
-      "lede": "Die ATL-01 dreht eine Eisenbahn-Achswelle vom Schmiederohling bis zur fertigen Kontur – Achsschenkel, Staubringsitze und Radsitze, Übergänge und Achsschaft – bereit für den nächsten Fertigungsschritt.",
-      "summary": "Dreht komplette Eisenbahn-Achswellen aus Roh- oder Schmiedeteilen auf Fertigkontur für die Radsatzneufertigung.",
+      "h1": "CNC-Achswellendrehmaschine ATL-01 für die Schrupp- und Schlichtbearbeitung von Eisenbahnachsen",
+      "lede": "Eine robuste, hochpräzise CNC-Drehmaschine für die Schrupp- und Schlichtbearbeitung von Eisenbahnachsen – gebaut für hohe Stückzahlen in Betriebswerken und Fertigungswerkstätten.",
+      "summary": "Robuste CNC-Drehmaschine für die Schrupp- und Schlichtbearbeitung von Eisenbahnachsen, mit 3000 mm Spitzenweite und 41-kW-Antrieb.",
       "related": [
         "axle-journal-turning-burnishing-lathe",
         "wheel-presses",
@@ -2541,53 +2831,74 @@
         {
           "type": "text",
           "id": "overview",
-          "eyebrow": "Über die Maschine",
-          "heading": "Vom Schmiedeteil zur fertigen Achswelle",
+          "eyebrow": "Produktübersicht",
+          "heading": "Was ist die CNC-Achswellendrehmaschine?",
           "paragraphs": [
-            "Eine neue Achswelle beginnt als Schmiedeteil mit Bearbeitungszugabe an jedem Durchmesser. Sie nach Zeichnung zu drehen ist anspruchsvoll: Die Achswelle ist lang und schwer, mehrere Durchmesser müssen zueinander rundlaufen, und die Übergangsradien zwischen den Sitzen sind entscheidend für die Dauerfestigkeit.",
-            "Die ATL-01 ist eine CNC-Drehmaschine speziell für diese Komplettbearbeitung. Sie bearbeitet die Achswelle auf ganzer Länge – Achsschenkel, Staubringsitze, Radsitze, Übergänge und Achsschaft –, sodass die Achswelle die Maschine bereit für Endbearbeitung, Prüfung und Radmontage verlässt.",
-            "**Der Unterschied zur Achsschenkelmaschine:** Die [CNC-Achsschenkel-Dreh- und Glattwalzmaschine](page:axle-journal-turning-burnishing-lathe) ist eine Revisionsmaschine, die die Achsschenkel von Achswellen im Betrieb instand setzt und glattwalzt. Die ATL-01 ist eine Produktionsmaschine, die die gesamte Achswelle aus einem Roh- oder Schmiedeteil dreht."
+            "Die CNC-Achswellendrehmaschine (Modell ATL-01) ist eine robuste, hochpräzise CNC-Maschine, die speziell für die Schrupp- und Schlichtbearbeitung von Eisenbahnachsen entwickelt wurde. Sie ist auf hohe Stückzahlen ausgelegt und wird sowohl in Betriebswerken als auch in Fertigungswerkstätten eingesetzt.",
+            "Die Maschinenarchitektur gewährleistet hohe Steifigkeit, thermische Stabilität und Schwingungsdämpfung und hält so die Maßgenauigkeit über den gesamten Bearbeitungszyklus konstant. Die durch Schnittkräfte belasteten Bauteile bestehen aus feinkörnigem Gusseisen, und ein kompakter, steifer Querschlitten trägt den Revolverkopf.",
+            "Im Automatikzyklus führt die Maschine die komplette Drehbearbeitung der Achse und die Bearbeitung der Lagersitze aus. Glattwalzen, Bohren und Gewindeschneiden, ein einfahrbares Dreibackenfutter mit Stirnmitnehmer sowie die vollständige Schlichtbearbeitung der Achse in einer Aufspannung sind auf Anfrage erhältlich.",
+            "Eine eigene Steuerungssoftware mit kundenspezifischen HMI-Bildschirmen übernimmt die Sicherheitsfunktionen für einen einfachen und sicheren Betrieb und zeigt Störmeldungen an. Fernwartung durch die HYT-Zentrale ist verfügbar, und der schnelle Zugang zu wartungsrelevanten Bauteilen hält die Servicezeiten kurz. Die Maschine vereint Funktionen von Industrie 4.0 und Industrie 5.0."
           ],
           "image": "products/axle-turning-lathe",
-          "image_alt": "Beispielabbildung einer CNC-Achswellendrehmaschine bei der Bearbeitung einer Eisenbahn-Achswelle in voller Länge",
+          "image_alt": "Beispielabbildung einer CNC-Achswellendrehmaschine",
           "layout": "image-right"
         },
         {
           "type": "features",
           "id": "advantages",
           "eyebrow": "Die wichtigsten Vorteile",
-          "heading": "Für die komplette Achswellenbearbeitung gebaut",
+          "heading": "Warum die ATL-01?",
           "cols": 3,
           "items": [
             {
+              "icon": "speedometer2",
+              "title": "Gebaut für die Achsbearbeitung in hohen Stückzahlen",
+              "text": "Schrupp- und Schlichtbearbeitung von Eisenbahnachsen in Betriebswerken und Fertigungswerkstätten."
+            },
+            {
+              "icon": "bricks",
+              "title": "Robuste Bauweise aus feinkörnigem Gusseisen",
+              "text": "Die durch Schnittkräfte belasteten Bauteile bestehen aus Gusseisen – für hohe Steifigkeit, thermische Stabilität und Schwingungsdämpfung."
+            },
+            {
               "icon": "arrows-expand",
-              "title": "Bearbeitung auf ganzer Länge",
-              "text": "Jeder Durchmesser entlang der Achswelle wird auf einer Maschine nach Zeichnung gedreht."
+              "title": "Kräftiger Umlaufdurchmesser von 600 mm über Querschlitten",
+              "text": "Auf einem Dreibahnenbett, mit kompaktem und steifem Querschlitten für die einfache Bearbeitung von Achsen."
+            },
+            {
+              "icon": "sliders",
+              "title": "Stufenlose Drehzahlregelung",
+              "text": "Von 30 bis 2500 U/min bei 1200 Nm Spindeldrehmoment – für Schrupp- und Schlichtdurchgänge gleichermaßen."
+            },
+            {
+              "icon": "gear-wide-connected",
+              "title": "Revolverkopf mit 8 oder 12 Positionen",
+              "text": "Angetriebene Werkzeuge auf Anfrage, sodass Bohren und Gewindeschneiden ohne zweite Aufspannung möglich sind."
             },
             {
               "icon": "bullseye",
-              "title": "Konzentrische Sitze",
-              "text": "Achsschenkel, Sitze und Schaft werden auf einer gemeinsamen Achse bearbeitet – für gleichbleibenden Rundlauf."
+              "title": "Optimale geometrische Genauigkeit",
+              "text": "Bei Rundheit, Ovalität, Oberflächenrauheit und Zylindrizität der bearbeiteten Achse."
             },
             {
-              "icon": "bezier2",
-              "title": "Kontrollierte Übergangsradien",
-              "text": "Die CNC-Konturbearbeitung erzeugt die vorgegebenen Radien zwischen den Sitzen, die für die Dauerfestigkeit entscheidend sind."
+              "icon": "life-preserver",
+              "title": "Robuste selbstzentrierende Lünette",
+              "text": "Zuverlässige Abstützung der Achse während des Schnitts."
             },
             {
-              "icon": "lightning-charge",
-              "title": "Effizienter Materialabtrag",
-              "text": "Schrupp- und Schlichtschnitte werden auf die Bearbeitungszugabe geschmiedeter Achswellen abgestimmt."
+              "icon": "droplet",
+              "title": "Direkte Kühlmittelzufuhr durch den Revolver",
+              "text": "Zuführung direkt an die Schneide für effiziente Kühlung."
+            },
+            {
+              "icon": "volume-mute",
+              "title": "Vollständig geschlossene Schallschutzkabine",
+              "text": "Eine leisere und sicherere Arbeitsumgebung."
             },
             {
               "icon": "cpu",
-              "title": "Programme je Zeichnung",
-              "text": "Jeder Achstyp wird einmal gespeichert und exakt reproduziert."
-            },
-            {
-              "icon": "diagram-3",
-              "title": "Zuarbeit für die Radsatzpresse",
-              "text": "Fertig bearbeitete Radsitze, bereit zur Montage auf der [Radsatzpresse](page:wheel-presses)."
+              "title": "CNC-System von Siemens / Fanuc",
+              "text": "Kundenspezifische HMI-Bildschirme und Fernwartung durch die HYT-Zentrale."
             }
           ]
         },
@@ -2595,46 +2906,54 @@
           "type": "specs",
           "id": "specifications",
           "heading": "Technische Daten",
-          "intro": "Die ATL-01 wird auf die Achszeichnungen ausgelegt, die Sie fertigen.",
+          "intro": "Technische Daten von HYT. Jede Maschine wird auf Ihre Spurweite, Radprofile und Fahrzeuge konfiguriert.",
           "columns": [
             "Parameter",
             "ATL-01"
           ],
           "rows": [
             [
-              "Maschinentyp",
-              "CNC-Achswellendrehmaschine"
+              "Maschinenkonfiguration",
+              "CNC-Achswellendrehmaschine; Schrupp- und Schlichtbearbeitung von Eisenbahnachsen zwischen Spitzen"
             ],
             [
-              "Werkstück",
-              "Rohe oder geschmiedete Eisenbahn-Achswellen"
+              "Umlaufdurchmesser über Querschlitten",
+              "0–600 mm"
             ],
             [
-              "Max. Achslänge",
-              "Auf Anfrage"
+              "Max. Last zwischen Spitzen",
+              "1,5 t"
             ],
             [
-              "Max. Drehdurchmesser",
-              "Auf Anfrage"
+              "Zulässiges Spindeldrehmoment",
+              "1200 Nm"
             ],
             [
-              "Max. Achswellengewicht",
-              "Auf Anfrage"
+              "Leistung",
+              "41 kW"
             ],
             [
-              "Hauptantrieb",
-              "Auf Anfrage"
+              "Drehzahl",
+              "30–2500 U/min"
             ],
             [
-              "Werkstückspannung",
-              "Auf Anfrage"
+              "Spitzenweite",
+              "3000 mm"
+            ],
+            [
+              "Pinolendurchmesser",
+              "160 mm"
+            ],
+            [
+              "Revolverkopf",
+              "8 oder 12 Positionen, angetriebenes Werkzeug auf Anfrage"
             ],
             [
               "CNC-System",
-              "Auf Anfrage"
+              "Siemens / Fanuc mit Software"
             ]
           ],
-          "note": "Die endgültigen Werte werden im technischen Angebot für Ihre Anwendung bestätigt."
+          "note": "Die endgültigen Werte werden im technischen Angebot bestätigt."
         },
         {
           "type": "steps",
@@ -2694,17 +3013,22 @@
             {
               "icon": "train-freight-front",
               "title": "Schienenfahrzeughersteller",
-              "text": "Achswellen für neue Lokomotiven, Reisezugwagen, Güterwagen und Triebzüge."
+              "text": "Achsen für neue Lokomotiven, Reisezugwagen, Güterwagen und Triebzüge."
             },
             {
               "icon": "building-gear",
               "title": "Radsatzwerkstätten",
-              "text": "Eigenfertigung von Ersatz-Achswellen."
+              "text": "Eigenfertigung von Ersatzachsen."
             },
             {
               "icon": "hammer",
-              "title": "Achswellen- und Schmiedewerke",
-              "text": "Bearbeitung geschmiedeter Achswellen vor der Auslieferung an Radsatzmonteure."
+              "title": "Achsen- und Schmiedewerke",
+              "text": "Bearbeitung geschmiedeter Achsen vor der Auslieferung an Radsatzmontagebetriebe."
+            },
+            {
+              "icon": "wrench-adjustable",
+              "title": "Instandhaltungs-Betriebswerke",
+              "text": "Schrupp- und Schlichtbearbeitung von Achsen im Rahmen der eigenen Radsatzinstandhaltung."
             }
           ]
         },
@@ -2751,15 +3075,15 @@
           "items": [
             {
               "q": "Worin unterscheidet sich die ATL-01 von der Achsschenkel-Dreh- und Glattwalzmaschine?",
-              "a": "Die ATL-01 dreht komplette Achswellen aus Roh- oder Schmiedeteilen in der Neufertigung. Die [Achsschenkelmaschine](page:axle-journal-turning-burnishing-lathe) setzt bei der Revision die Achsschenkel von Achswellen im Betrieb instand und walzt sie glatt."
+              "a": "Die ATL-01 übernimmt die Schrupp- und Schlichtbearbeitung kompletter Eisenbahnachsen zwischen Spitzen. Die [Achsschenkeldrehmaschine](page:axle-journal-turning-burnishing-lathe) (YTB 04) dreht und glattwalzt bei der Revision die innen- und außenliegenden Lagerzapfen von Radsatzwellen."
             },
             {
-              "q": "Kann die ATL-01 gebrauchte Achswellen nachbearbeiten?",
-              "a": "Ihr Zweck ist die Komplettbearbeitung neuer Achswellen. Die Achsschenkelinstandsetzung an Achswellen aus dem Betrieb erfolgt in der Regel auf der Achsschenkel-Dreh- und Glattwalzmaschine – sprechen Sie uns an, wenn Ihr Prozess beides kombiniert."
+              "q": "Wird die ATL-01 in Betriebswerken oder nur in der Fertigung eingesetzt?",
+              "a": "In beiden Bereichen. Die ATL-01 ist auf hohe Stückzahlen ausgelegt und wird in Betriebswerken ebenso eingesetzt wie in Fertigungswerkstätten. Wenn Ihr Prozess auch die Instandsetzung von Achsschenkeln an montierten Radsätzen umfasst, sehen Sie sich die [Achsschenkel-Dreh- und Glattwalzmaschine](page:axle-journal-turning-burnishing-lathe) an."
             },
             {
               "q": "Welche Achstypen können bearbeitet werden?",
-              "a": "Achswellen für Lokomotiven, Reisezugwagen, Güterwagen und Triebzüge im Rahmen der Längen-, Durchmesser- und Gewichtskapazität der Maschine. Diese werden anhand Ihrer Zeichnungen bestätigt."
+              "a": "Achsen für Lokomotiven, Reisezugwagen, Güterwagen und Triebzüge im Rahmen der Maschinenkapazität: 3000 mm Spitzenweite, 1,5 t Last zwischen Spitzen und 600 mm Umlaufdurchmesser über Querschlitten. Wir prüfen die Eignung anhand Ihrer Achszeichnungen."
             },
             {
               "q": "Was passiert nach dem Drehen?",
@@ -3523,12 +3847,12 @@
     },
     "multi-purpose-armature-machine": {
       "nav": "Mehrzweck-Ankerbearbeitungsmaschine",
-      "title": "Mehrzweck-Ankerbearbeitungsmaschine für Fahrmotoren",
-      "description": "HYT Mehrzweck-Ankerbearbeitungsmaschine für die Fahrmotorrevision: Kommutator abdrehen, Glimmer ausfräsen und weitere Ankerarbeiten auf einer Maschine.",
+      "title": "Mehrzweck-Ankerbearbeitungsmaschine YMM-04",
+      "description": "Revision von Fahrmotorankern auf einer Plattform: Kommutator drehen und schleifen, Glimmer ausfräsen, Bandagieren, Nachwalzen und Spulenabtrennen.",
       "eyebrow": "Ausrüstung für Betriebswerke & Werkstätten",
-      "h1": "Mehrzweck-Ankerbearbeitungsmaschine für die Instandhaltung von Fahrmotorankern",
-      "lede": "Fahrmotoranker erfordern bei der Revision mehrere Präzisionsarbeitsgänge. Diese Maschine vereint sie, sodass der Anker seltener bewegt und neu eingerichtet werden muss.",
-      "summary": "Vereint Kommutatordrehen, Glimmerausfräsen und weitere Ankerarbeiten für die Fahrmotorrevision auf einer Maschine.",
+      "h1": "Mehrzweck-Ankerbearbeitungsmaschine YMM-04 für die Revision von Fahrmotorankern",
+      "lede": "Eine Plattform für die komplette Revision von Fahrmotorankern – Drehen, Schleifen, Glimmerausfräsen, Bandagieren und Spulenabtrennen auf einer Maschine.",
+      "summary": "Eine Plattform für die Revision von Fahrmotorankern: Kommutator drehen und schleifen, Glimmer ausfräsen, Bandagieren, Nachwalzen und Spulenabtrennen.",
       "related": [
         "automated-train-washing-plant",
         "rail-cum-road-vehicle-shunter",
@@ -3538,53 +3862,53 @@
         {
           "type": "text",
           "id": "overview",
-          "eyebrow": "Über die Maschine",
-          "heading": "Kommutator instand setzen, Motoren im Einsatz halten",
+          "eyebrow": "Produktübersicht",
+          "heading": "Was ist die Mehrzweck-Ankerbearbeitungsmaschine?",
           "paragraphs": [
-            "In einem Gleichstrom-Fahrmotor gelangt der Strom über Kommutator und Kohlebürsten zum Anker. Mit der Zeit verschleißt der Kommutator unrund, seine Oberfläche wird rau, und die Glimmerisolierung zwischen den Kupferlamellen liegt schließlich auf gleicher Höhe wie das Kupfer. Die Folgen sind schneller Bürstenverschleiß, Bürstenfeuer und letztlich der Ausfall des Motors.",
-            "Die Instandsetzung des Kommutators umfasst mehrere Arbeitsgänge: Rundlaufendes Abdrehen der Oberfläche, Ausfräsen des Glimmers unter das Kupferniveau und Bearbeiten der Lamellenkanten. Die Mehrzweck-Ankerbearbeitungsmaschine führt diese Arbeitsgänge auf einer Maschine aus, sodass der Anker seltener zwischen Arbeitsplätzen umgesetzt werden muss.",
-            "Der genaue Funktionsumfang wird auf die Ankertypen Ihrer Flotte konfiguriert."
+            "Die Mehrzweck-Ankerbearbeitungsmaschine ist eine spezialisierte Instandhaltungs- und Aufarbeitungsanlage für die komplette Revision von Fahrmotorankern in Elektrolokomotiven, Elektrotriebzügen, Metrowagen und anderen Schienenfahrzeugen.",
+            "Statt mehrere Einzelmaschinen für unterschiedliche Arbeitsgänge einzusetzen, vereint die HYT YMM-04 mehrere entscheidende Prozesse der Ankerinstandhaltung auf einer Plattform – für mehr Produktivität, Genauigkeit und Effizienz in der Werkstatt.",
+            "Die Maschine bringt verschlissene Kommutatoren und Lagerzapfen wieder auf ihre ursprünglichen Maße und Oberflächengüte. Hochpräzises Drehen und Schleifen sorgt für einen besseren elektrischen Kontakt, geringeren Bürstenverschleiß, einen ruhigeren Motorlauf und eine längere Lebensdauer der Bauteile. Die YMM-04 hält Ovalität und Konizität des Kommutators unter 0,015 mm."
           ],
           "image": "products/multi-purpose-armature-machine",
-          "image_alt": "Beispielabbildung eines Fahrmotorankers, eingespannt in eine Mehrzweck-Ankerbearbeitungsmaschine",
+          "image_alt": "HYT Mehrzweck-Ankerbearbeitungsmaschine YMM-04 mit einem Fahrmotoranker in der Maschine",
           "layout": "image-right"
         },
         {
           "type": "features",
           "id": "advantages",
           "eyebrow": "Die wichtigsten Vorteile",
-          "heading": "Warum Ankerarbeiten kombinieren?",
+          "heading": "Warum die YMM-04?",
           "cols": 3,
           "items": [
             {
-              "icon": "layers",
-              "title": "Mehrere Arbeitsgänge, eine Maschine",
-              "text": "Drehen, Ausfräsen und weitere Arbeiten, ohne den Anker zwischen Maschinen umzusetzen."
+              "icon": "scissors",
+              "title": "Automatisches Glimmerausfräsen",
+              "text": "Präzises Entfernen der Isolierung."
+            },
+            {
+              "icon": "stars",
+              "title": "Entgraten und Polieren",
+              "text": "Eine hervorragende Oberflächengüte des Kommutators."
             },
             {
               "icon": "bullseye",
-              "title": "Rundlaufender Kommutator",
-              "text": "Eine konzentrische Kommutatoroberfläche sorgt für gleichmäßigen Bürstenkontakt."
+              "title": "Präzises Drehen und Schleifen",
+              "text": "Von Kommutatoren und Lagerzapfen."
             },
             {
-              "icon": "scissors",
-              "title": "Saubere Ausfräsung",
-              "text": "Der Glimmer wird unter das Kupferniveau zurückgesetzt, um Bürstenverschleiß und Rundfeuer zu verhindern."
+              "icon": "layers",
+              "title": "Integrierte Ankerbearbeitung",
+              "text": "Bandagieren, Nachwalzen und Spulenabtrennen auf derselben Maschine."
             },
             {
-              "icon": "arrows-move",
-              "title": "Weniger Handling",
-              "text": "Schwere Anker werden seltener angehoben und eingerichtet."
+              "icon": "bricks",
+              "title": "Robuster Spindelstock aus Gusseisen",
+              "text": "Hervorragende Steifigkeit und Bearbeitungsgenauigkeit."
             },
             {
-              "icon": "sliders",
-              "title": "Anpassungsfähig",
-              "text": "Konfiguriert auf die Ankergrößen Ihrer Flotte."
-            },
-            {
-              "icon": "house-gear",
-              "title": "Ideal fürs Betriebswerk",
-              "text": "Eine Maschine statt mehrerer spart Stellfläche in der Werkstatt."
+              "icon": "wifi",
+              "title": "Ferndiagnose",
+              "text": "Schnellere Fehlersuche und fachkundige Unterstützung durch HYT."
             }
           ]
         },
@@ -3592,38 +3916,74 @@
           "type": "specs",
           "id": "specifications",
           "heading": "Technische Daten",
-          "intro": "Die Maschine wird auf die Ankertypen konfiguriert, die Sie instand halten.",
+          "intro": "Technische Daten von HYT. Jede Maschine wird auf Ihre Spurweite, Radprofile und Fahrzeuge konfiguriert.",
           "columns": [
             "Parameter",
-            "Wert"
+            "YMM-04"
           ],
           "rows": [
             [
-              "Werkstück",
-              "Fahrmotoranker"
+              "Maschinenkonfiguration",
+              "Universelle Mehrzweck-Ankerbearbeitungsmaschine; Glimmerausfräsen, Drehen, Schleifen, Bandagieren, Nachwalzen und Spulenabtrennen"
             ],
             [
-              "Arbeitsgänge",
-              "Kommutatordrehen, Glimmerausfräsen und weitere Arbeitsgänge – Umfang auf Anfrage"
+              "Leistung des Hauptantriebs",
+              "Hauptantriebsmotor 15 kW"
             ],
             [
-              "Max. Ankergewicht",
-              "Auf Anfrage"
+              "Spindeldrehzahl des Spindelstocks, stufenlos",
+              "1,5–300 U/min"
             ],
             [
-              "Max. Ankerlänge",
-              "Auf Anfrage"
+              "Schlittenvorschub, längs",
+              "0–100 mm/min"
             ],
             [
-              "Bereich Kommutatordurchmesser",
-              "Auf Anfrage"
+              "Schlitteneilgang, längs",
+              "600 mm/min"
             ],
             [
-              "Antrieb",
-              "Auf Anfrage"
+              "Max. Schnitttiefe beim Kommutatordrehen",
+              "2,5 mm"
+            ],
+            [
+              "Max. Bandagierzug für Draht- / Bandbandagen",
+              "300 kg"
+            ],
+            [
+              "Ankergewicht, max.",
+              "30 kN"
+            ],
+            [
+              "Ankerlänge, min. – max.",
+              "500–1600 mm"
+            ],
+            [
+              "Ankerdurchmesser, min. – max.",
+              "130–1500 mm"
+            ],
+            [
+              "Zu bearbeitender Kommutatordurchmesser, min. – max.",
+              "120–900 mm"
+            ],
+            [
+              "Zu bearbeitende Kommutatorlänge, min. – max.",
+              "75–450 mm"
+            ],
+            [
+              "Ovalität nach dem Kommutatordrehen",
+              "< 0,015 mm"
+            ],
+            [
+              "Konizität nach dem Kommutatordrehen",
+              "< 0,015 mm"
+            ],
+            [
+              "Gleichmäßigkeit des Bandagierzugs",
+              "< ± 10 kg"
             ]
           ],
-          "note": "Die endgültigen Werte werden im technischen Angebot für Ihre Anwendung bestätigt."
+          "note": "Die endgültigen Werte werden im technischen Angebot bestätigt."
         },
         {
           "type": "steps",
@@ -3640,16 +4000,16 @@
               "text": "Der Kommutator wird auf Exzentrizität und Oberflächenzustand geprüft."
             },
             {
-              "title": "Drehen",
-              "text": "Die Kommutatoroberfläche wird rundlaufend abgedreht."
+              "title": "Drehen & schleifen",
+              "text": "Kommutator und Lagerzapfen werden rundlaufend gedreht und geschliffen."
             },
             {
               "title": "Ausfräsen",
               "text": "Der Glimmer zwischen den Lamellen wird unter das Kupferniveau zurückgesetzt."
             },
             {
-              "title": "Fertigbearbeiten",
-              "text": "Die Lamellenkanten werden angefast und die Oberfläche gereinigt."
+              "title": "Entgraten & polieren",
+              "text": "Die Lamellenkanten werden entgratet und die Kommutatoroberfläche poliert."
             },
             {
               "title": "Prüfen",
@@ -3663,14 +4023,14 @@
           "heading": "Hauptmerkmale",
           "cols": 2,
           "items": [
-            "Kommutatordrehen",
-            "Glimmerausfräsen",
-            "Bearbeitung der Lamellenkanten",
-            "Ankerauflage, angepasst an Ihr Ankerspektrum",
-            "Mehrere Arbeitsgänge in einer Aufspannung",
-            "Geschützter Arbeitsbereich",
-            "Ausgelegt für Betriebswerkstätten",
-            "Konfiguriert auf die Motoren Ihrer Flotte"
+            "Drehen und Schleifen des Kommutators",
+            "Automatisches Glimmerausfräsen",
+            "Entgraten und Polieren",
+            "Drehen und Schleifen der Lagerzapfen",
+            "Draht- und Bandbandagierung mit bis zu 300 kg Zugkraft",
+            "Nachwalzen und Spulenabtrennen",
+            "Stufenlos einstellbare Spindelstockdrehzahl, 1,5–300 U/min",
+            "Robuster Spindelstock aus Gusseisen"
           ]
         },
         {
@@ -3722,7 +4082,7 @@
           "items": [
             {
               "image": "products/multi-purpose-armature-machine",
-              "caption": "Beispielabbildung der Mehrzweck-Ankerbearbeitungsmaschine"
+              "caption": "HYT Mehrzweck-Ankerbearbeitungsmaschine YMM-04 mit einem Fahrmotoranker in der Maschine"
             },
             {
               "image": "projects/emu-car-shed",
@@ -3741,7 +4101,7 @@
           "items": [
             {
               "q": "Welche Arbeitsgänge führt die Maschine aus?",
-              "a": "Kommutatordrehen und Glimmerausfräsen sowie zugehörige Fertigbearbeitungen. Der genaue Umfang wird auf Ihre Ankertypen konfiguriert."
+              "a": "Drehen und Schleifen des Kommutators, Glimmerausfräsen, Entgraten und Polieren, Drehen und Schleifen der Lagerzapfen, Draht- und Bandbandagierung, Nachwalzen und Spulenabtrennen – alles auf einer Maschine."
             },
             {
               "q": "Warum muss der Glimmer ausgefräst werden?",
@@ -3753,7 +4113,7 @@
             },
             {
               "q": "Welche Ankergrößen können bearbeitet werden?",
-              "a": "Die Grenzwerte für Ankergewicht, Ankerlänge und Kommutatordurchmesser werden auf Ihre Flotte abgestimmt und im technischen Angebot bestätigt."
+              "a": "Anker bis 30 kN, 500–1600 mm lang und mit 130–1500 mm Durchmesser, bei Kommutatordurchmessern von 120–900 mm und Kommutatorlängen von 75–450 mm."
             },
             {
               "q": "Kann die Maschine in einer bestehenden Betriebswerkstatt aufgestellt werden?",
@@ -3765,12 +4125,12 @@
     },
     "automated-train-washing-plant": {
       "nav": "Automatische Zugwaschanlage",
-      "title": "Automatische Zugwaschanlage für Betriebswerke",
-      "description": "HYT automatische Zugwaschanlage reinigt Züge außen in langsamer Durchfahrt – gleichbleibende Ergebnisse, weniger Handarbeit, kontrollierter Wasserverbrauch.",
+      "title": "Automatische Zugwaschanlage",
+      "description": "Automatische Durchfahr-Waschanlage für Reisezugwagen der Indian Railways. Eine Garnitur mit 24 Wagen in unter 15 Minuten, mit höchstens 60 Litern Frischwasser je Wagen.",
       "eyebrow": "Ausrüstung für Betriebswerke & Werkstätten",
       "h1": "Automatische Zugwaschanlage für die Außenreinigung in der Durchfahrt",
-      "lede": "Die Züge fahren langsam durch die Anlage und verlassen sie sauber. Automatisches Waschen liefert gleichbleibende Ergebnisse, entlastet das Personal von Handarbeit und hält den Wasser- und Reinigungsmittelverbrauch unter Kontrolle.",
-      "summary": "Durchfahr-Waschanlage, die die Außenflächen von Zügen automatisch reinigt – gleichbleibend sauber, mit weniger Personalaufwand und kontrolliertem Wasserverbrauch.",
+      "lede": "Eine vollautomatische Durchfahr-Außenwaschanlage für Reisezugwagen, ausgelegt für Indian Railways – sie reinigt eine komplette Garnitur mit 24 Wagen in unter 15 Minuten, bei minimalem Wasserverbrauch und ohne manuelle Eingriffe.",
+      "summary": "Automatische Durchfahr-Waschanlage, die eine Garnitur mit 24 Wagen in unter 15 Minuten reinigt – mit höchstens 60 Litern Frischwasser je Wagen.",
       "related": [
         "rail-cum-road-vehicle-shunter",
         "multi-purpose-armature-machine",
@@ -3780,53 +4140,52 @@
         {
           "type": "text",
           "id": "overview",
-          "eyebrow": "Über die Anlage",
-          "heading": "Saubere Züge ohne manuellen Aufwand",
+          "eyebrow": "Produktübersicht",
+          "heading": "Was ist die Automatische Zugwaschanlage?",
           "paragraphs": [
-            "Ein sauberer Zug ist wichtig für die Fahrgäste, für die Sicht des Triebfahrzeugführers und für den Zustand von Lack, Fenstern und Dichtungen. Handwäsche ist langsam, körperlich anstrengend und bei einer großen Flotte kaum gleichmäßig durchzuführen.",
-            "Eine automatische Waschanlage wird an einem Gleis im Betriebswerk installiert. Der Zug fährt mit niedriger Geschwindigkeit hindurch, während die Anlage den Wagenkasten benetzt, Reinigungsmittel aufträgt, mit rotierenden Bürsten schrubbt und nachspült. Sensoren erkennen das Fahrzeug und steuern jede Stufe, sodass Wasser und Reinigungsmittel nur dort eingesetzt werden, wo sich ein Zug befindet.",
-            "Anlagenlayout, Bürstenanordnung, Chemie und Wassermanagement werden auf Ihre Fahrzeugprofile, Ihr Betriebswerksgleis und die örtlichen Wasserverhältnisse ausgelegt."
+            "Die Automatische Zugwaschanlage von HYT macht die Reinigung von Reisezugwagen unabhängig von manueller Arbeit – eine zentrale Anforderung an Hygiene und Erscheinungsbild in den Betriebswerken und Waschgleisen der Indian Railways.",
+            "Das System ist als feste Anlage ausgelegt, die die Garnituren mit niedriger Geschwindigkeit durchfahren. Jeder Wagen wird beim Durchfahren nacheinander vorgenässt, chemisch behandelt, mechanisch gebürstet, mit Hochdruck gespült und abgezogen – ohne anzuhalten. Die Wasseraufbereitung über eine integrierte Abwasserbehandlungsanlage (ETP) senkt die Betriebskosten zusätzlich."
           ],
           "image": "products/automated-train-washing-plant",
-          "image_alt": "Beispielabbildung eines Zuges bei der Durchfahrt durch eine automatische Waschanlage mit rotierenden Bürsten",
+          "image_alt": "HYT Automatische Zugwaschanlage mit Bürsteneinheiten auf beiden Seiten des Gleises",
           "layout": "image-right"
         },
         {
           "type": "features",
           "id": "advantages",
           "eyebrow": "Die wichtigsten Vorteile",
-          "heading": "Warum die Zugwäsche automatisieren?",
+          "heading": "Warum die Automatische Zugwaschanlage?",
           "cols": 3,
           "items": [
             {
-              "icon": "check2-circle",
-              "title": "Gleichbleibende Ergebnisse",
-              "text": "Jedes Fahrzeug wird mit demselben Ablauf und derselben Abdeckung gewaschen."
-            },
-            {
-              "icon": "people",
-              "title": "Weniger Handarbeit",
-              "text": "Das Personal wird von anstrengender, monotoner Reinigungsarbeit entlastet."
-            },
-            {
-              "icon": "droplet",
-              "title": "Kontrollierter Wasserverbrauch",
-              "text": "Wasser und Reinigungsmittel werden nur dort und dann eingesetzt, wo und wann sie benötigt werden."
+              "icon": "magic",
+              "title": "Vollautomatischer Waschzyklus",
+              "text": "Gleichbleibende Reinigung der Wagen ohne Handarbeit."
             },
             {
               "icon": "recycle",
-              "title": "Option Wasserrückgewinnung",
-              "text": "Rückgewinnung und Aufbereitung können integriert werden, um den Frischwasserbedarf zu senken."
+              "title": "Wasserrecycling",
+              "text": "Eine integrierte ETP begrenzt den Frischwasserverbrauch auf nur 60 Liter je Wagen."
             },
             {
-              "icon": "clock-history",
-              "title": "Schnelle Durchfahrt",
-              "text": "Die Züge werden bei der Durchfahrt gewaschen – passend zu den normalen Fahrzeugbewegungen im Betriebswerk."
+              "icon": "speedometer",
+              "title": "Lasergestützte Geschwindigkeitserfassung",
+              "text": "Synchronisiert den Waschzyklus automatisch mit der Zugbewegung."
             },
             {
-              "icon": "brush",
-              "title": "Profilgerechte Bürsten",
-              "text": "Die Bürstenanordnung wird auf Ihre Fahrzeugprofile ausgelegt."
+              "icon": "boxes",
+              "title": "Modulare, robuste Bauweise",
+              "text": "Unkomplizierte Installation und Versetzung bei geringem Wartungsaufwand."
+            },
+            {
+              "icon": "display",
+              "title": "Zentrale Steuerung",
+              "text": "Echtzeitüberwachung und Fehlerdiagnose."
+            },
+            {
+              "icon": "wifi",
+              "title": "Ferndiagnose",
+              "text": "Schnellere technische Unterstützung und kürzere Ausfallzeiten."
             }
           ]
         },
@@ -3834,46 +4193,42 @@
           "type": "specs",
           "id": "specifications",
           "heading": "Technische Daten",
-          "intro": "Die Anlage wird auf Ihre Flotte, Ihr Betriebswerkslayout und Ihre Wasserversorgung ausgelegt.",
+          "intro": "Technische Daten von HYT. Jede Maschine wird auf Ihre Spurweite, Radprofile und Fahrzeuge konfiguriert.",
           "columns": [
             "Parameter",
-            "Wert"
+            "Waschanlage"
           ],
           "rows": [
             [
-              "Waschart",
-              "Außenwäsche in der Durchfahrt"
+              "Maschinenkonfiguration",
+              "Automatische Durchfahr-Außenwaschanlage für Reisezugwagen"
             ],
             [
-              "Fahrzeugtypen",
-              "Nach Kundenvorgabe"
+              "Zykluszeit, Garnitur mit 24 Wagen",
+              "≤ 15 min"
             ],
             [
-              "Durchfahrgeschwindigkeit",
-              "Auf Anfrage"
+              "Waschgeschwindigkeit des Zuges",
+              "3–5 km/h"
             ],
             [
-              "Bürstenanordnung",
-              "Auf Anfrage"
+              "Druck der Schlussspülung",
+              "Ca. 10 kg/cm² (≈ 10 bar)"
             ],
             [
-              "Wasserverbrauch pro Zug",
-              "Auf Anfrage"
+              "Frischwasser je Wagen",
+              "Max. 60 l"
             ],
             [
-              "Wasserrückgewinnung und -aufbereitung",
-              "Auf Anfrage"
+              "Wasserrückgewinnung",
+              "Aufbereitung über integrierte ETP"
             ],
             [
-              "Reinigungsmitteldosierung",
-              "Auf Anfrage"
-            ],
-            [
-              "Spurweite",
-              "Nach Kundenvorgabe*"
+              "Geschwindigkeitserfassung",
+              "Lasergestützt, mit der Zugbewegung synchronisiert"
             ]
           ],
-          "note": "Mit * gekennzeichnete Werte hängen von Spurweite und Kundenkonfiguration ab. Die endgültigen Werte werden im technischen Angebot bestätigt."
+          "note": "Die endgültigen Werte werden im technischen Angebot bestätigt."
         },
         {
           "type": "steps",
@@ -3883,27 +4238,27 @@
           "items": [
             {
               "title": "Erkennen",
-              "text": "Sensoren registrieren den einfahrenden Zug und starten den Ablauf."
+              "text": "Die lasergestützte Geschwindigkeitserfassung erkennt den Zug und synchronisiert den Waschzyklus mit seiner Bewegung."
             },
             {
               "title": "Vorbenetzen",
-              "text": "Der Wagenkasten wird benetzt, um den Schmutz anzulösen."
+              "text": "Jeder Wagen wird beim Einfahren in die Anlage mit 3–5 km/h benetzt, um den Schmutz anzulösen."
             },
             {
-              "title": "Reinigungsmittel auftragen",
-              "text": "Das Reinigungsmittel wird in der eingestellten Konzentration aufgetragen."
+              "title": "Chemische Behandlung",
+              "text": "Reinigungsmittel wird auf den Wagenkasten aufgetragen."
             },
             {
               "title": "Bürsten",
-              "text": "Rotierende Bürsten reinigen die Seitenwände und weitere festgelegte Flächen."
+              "text": "Rotierende Bürsten reinigen den Wagen mechanisch."
             },
             {
-              "title": "Spülen",
-              "text": "Klarwasser entfernt Reinigungsmittel und gelösten Schmutz."
+              "title": "Hochdruckspülung",
+              "text": "Eine Schlussspülung mit ca. 10 bar entfernt Reinigungsmittel und gelösten Schmutz."
             },
             {
-              "title": "Auffangen",
-              "text": "Das Waschwasser wird je nach Auslegung in die Sammlung oder Rückgewinnung abgeleitet."
+              "title": "Abziehen & Recycling",
+              "text": "Der Wagen wird abgezogen, und das Waschwasser wird über die integrierte ETP aufbereitet."
             }
           ]
         },
@@ -3913,14 +4268,14 @@
           "heading": "Hauptmerkmale",
           "cols": 2,
           "items": [
-            "Durchfahrbetrieb an einem Betriebswerksgleis",
-            "Automatische Fahrzeugerkennung",
-            "Stufen für Vorbenetzung, Reinigungsmittel und Spülung",
-            "Rotierende Bürsten, abgestimmt auf die Fahrzeugprofile",
-            "Kontrollierte Reinigungsmitteldosierung",
-            "Optionale Wasserrückgewinnung und -aufbereitung",
-            "Zentrales Bedienpult",
-            "Ausgelegt für örtliche Wasser- und Klimabedingungen"
+            "Durchfahrbetrieb – der Zug hält nicht an",
+            "Lasergestützte Geschwindigkeitserfassung",
+            "Vornässen, chemische Behandlung, Bürsten, Hochdruckspülung und Abziehen",
+            "Garnitur mit 24 Wagen in höchstens 15 Minuten",
+            "Max. 60 Liter Frischwasser je Wagen",
+            "Wasserrecycling über eine integrierte ETP",
+            "Zentrale Steuerung mit Echtzeitüberwachung",
+            "Modulare, robuste Bauweise"
           ]
         },
         {
@@ -3967,7 +4322,7 @@
           "items": [
             {
               "image": "products/automated-train-washing-plant",
-              "caption": "Beispielabbildung der automatischen Zugwaschanlage"
+              "caption": "HYT Automatische Zugwaschanlage mit Bürsteneinheiten auf beiden Seiten des Gleises"
             },
             {
               "image": "projects/metro-depot",
@@ -3990,11 +4345,11 @@
           "items": [
             {
               "q": "Muss der Zug anhalten?",
-              "a": "Nein. In einer Durchfahr-Waschanlage fährt der Zug mit niedriger Geschwindigkeit hindurch, während die Waschstufen nacheinander arbeiten."
+              "a": "Nein. Der Zug fährt mit 3–5 km/h durch, während die Waschstufen nacheinander arbeiten; eine Garnitur mit 24 Wagen ist in höchstens 15 Minuten gewaschen."
             },
             {
               "q": "Kann das Waschwasser wiederverwendet werden?",
-              "a": "Wasserrückgewinnung und -aufbereitung können integriert werden. Die Auslegung hängt von der örtlichen Wasserqualität, den Einleitvorschriften und dem Waschvolumen ab."
+              "a": "Ja. Das Waschwasser wird über eine integrierte Abwasserbehandlungsanlage (ETP) aufbereitet, wodurch der Frischwasserverbrauch auf höchstens 60 Liter je Wagen begrenzt wird."
             },
             {
               "q": "Welche Fahrzeuge können gewaschen werden?",
@@ -4014,12 +4369,12 @@
     },
     "rail-cum-road-vehicle-shunter": {
       "nav": "Zweiwege-Rangierfahrzeug (Shunter)",
-      "title": "Zweiwege-Rangierfahrzeug (Shunter) für Betriebswerke",
-      "description": "HYT Zweiwege-Rangierfahrzeug bewegt Reisezugwagen, Güterwagen und Loks in Betriebswerken und Abstellanlagen und fährt auf Straßenrädern zum nächsten Einsatz.",
+      "title": "Zweiwege-Rangierfahrzeug KRE 15 RCRV",
+      "description": "Batteriebetriebenes Zweiwege-Rangierfahrzeug für Betriebswerke und Werkstätten. 15 kN Zugkraft, 135 t Anhängelast und Umstellung von Schiene auf Straße in zwei Minuten.",
       "eyebrow": "Ausrüstung für Betriebswerke & Werkstätten",
-      "h1": "Zweiwege-Rangierfahrzeug (Shunter) für flexibles Rangieren in Betriebswerken und Abstellanlagen",
-      "lede": "Ein Fahrzeug, das auf Schienen Schienenfahrzeuge bewegt und auf der Straße zum nächsten Gleis fährt – für viele Rangierbewegungen im Betriebswerk eine Alternative zur Lokomotive.",
-      "summary": "Zweiwege-Rangierfahrzeug, das Schienenfahrzeuge auf dem Gleis bewegt und zwischen den Gleisen auf der Straße fährt – eine Alternative zum Rangieren mit Lokomotiven im Betriebswerk.",
+      "h1": "Zweiwege-Rangierfahrzeug KRE 15 RCRV – batteriebetriebenes Rangieren auf Schiene und Straße",
+      "lede": "Ein batteriebetriebenes Zweiwege-Rangierfahrzeug, das Lokomotiven, Reisezugwagen, Güterwagen und komplette Zugverbände auf Schiene und Straße bewegt – ganz ohne eigene Rangierlok.",
+      "summary": "Batteriebetriebenes Zweiwege-Rangierfahrzeug mit 15 kN Zugkraft und 135 t Anhängelast zum Bewegen von Schienenfahrzeugen in Betriebswerken und Werkstätten.",
       "related": [
         "automated-train-washing-plant",
         "underfloor-wheel-lathe",
@@ -4029,53 +4384,54 @@
         {
           "type": "text",
           "id": "overview",
-          "eyebrow": "Über das Fahrzeug",
-          "heading": "Rangieren, ohne eine Lokomotive zu binden",
+          "eyebrow": "Produktübersicht",
+          "heading": "Was ist das Zweiwege-Rangierfahrzeug?",
           "paragraphs": [
-            "Betriebswerke und Werkstätten bewegen den ganzen Tag Fahrzeuge: zum Radsatzdrehmaschinengleis, durch die Waschanlage, über Untersuchungsgruben und hinaus auf die Abstellgleise. Wird für jede Bewegung eine Lokomotive eingesetzt, bindet das Triebfahrzeuge und Personal – und eine Lokomotive kann die Schienen nicht verlassen, um ein anderes Gleis zu erreichen.",
-            "Ein Zweiwege-Rangierfahrzeug kann das. Es fährt auf seinen Reifen über die Straße, setzt an einer Gleiszufahrt seine Schienenführungsräder ab und fährt dann auf den Schienen, um Schienenfahrzeuge anzukuppeln und zu bewegen. Ist die Aufgabe erledigt, hebt es die Schienenräder an und fährt zum nächsten Gleis.",
-            "Kupplungssystem, Bremsanlage, Zugleistung und Spurweite werden auf die Fahrzeuge, die Sie bewegen müssen, und auf das Layout Ihres Betriebswerks abgestimmt."
+            "Das Zweiwege-Rangierfahrzeug von HYT ist eine vielseitige Lösung für das Bewegen von Lokomotiven, Reisezugwagen, Güterwagen, Metrowagen und kompletten Zugverbänden – sicher und effizient innerhalb von Betriebswerken, Werkstätten, Instandhaltungsanlagen und Produktionsstätten.",
+            "Anders als herkömmliche Rangierlokomotiven verbindet das Zweiwege-Rangierfahrzeug von HYT Straßenmobilität mit Schienentraktion. So können Bediener Schienenfahrzeuge nahtlos zwischen Werkstatthallen, Inspektionsgleisen, Waschanlagen und Abstellgleisen umsetzen, ohne eine eigene Rangierlok zu benötigen.",
+            "Das Rangierfahrzeug verfügt über moderne Hydraulik- und Antriebssysteme, die sanftes Beschleunigen, kontrolliertes Bremsen und genaues Positionieren der Fahrzeuge bei Instandhaltungs- und Montagearbeiten ermöglichen. Das erhöht die Betriebssicherheit, verkürzt die Durchlaufzeiten und steigert die Produktivität der gesamten Werkstatt.",
+            "Ausgelegt für moderne Bahninstandhaltungsanlagen, bietet das Zweiwege-Rangierfahrzeug von HYT eine kostengünstige und flexible Alternative zu herkömmlichen Rangiermethoden. Betreiber nutzen ihre Anlagen besser aus und senken zugleich Betriebskosten und Infrastrukturanforderungen."
           ],
           "image": "products/rail-cum-road-vehicle-shunter",
-          "image_alt": "Beispielabbildung eines Zweiwege-Rangierfahrzeugs, gekuppelt an einen Reisezugwagen in einem Betriebswerk",
+          "image_alt": "HYT Zweiwege-Rangierfahrzeug KRE 15 RCRV",
           "layout": "image-right"
         },
         {
           "type": "features",
           "id": "advantages",
           "eyebrow": "Die wichtigsten Vorteile",
-          "heading": "Was ein Zweiwege-Rangierfahrzeug verändert",
+          "heading": "Warum das KRE 15 RCRV?",
           "cols": 3,
           "items": [
             {
               "icon": "signpost-split",
-              "title": "Jedes Gleis erreichen",
-              "text": "Fährt über die Straße von Gleis zu Gleis, statt auf Weichen und Fahrstraßen zu warten."
+              "title": "Zweiwegebetrieb",
+              "text": "Nahtlose Fahrt auf Schiene und Straße – mit einer Umstellzeit von nur zwei Minuten."
             },
             {
-              "icon": "train-freight-front",
-              "title": "Entlastet Lokomotiven",
-              "text": "Lokomotiven bleiben im kommerziellen Einsatz oder auf der Strecke, statt im Betriebswerk zu rangieren."
-            },
-            {
-              "icon": "clock-history",
-              "title": "Einsatzbereit, wenn nötig",
-              "text": "Schnell verfügbar für kurze, häufige Bewegungen."
-            },
-            {
-              "icon": "box-seam",
-              "title": "Für den Betriebswerkseinsatz dimensioniert",
-              "text": "Ein kompaktes Fahrzeug, ausgelegt auf Rangierbewegungen im Betriebswerk, nicht auf Streckendienst."
+              "icon": "lightning-charge",
+              "title": "Starke Rangierleistung",
+              "text": "Bis zu 15 kN Zugkraft und 135 t Anhängelast."
             },
             {
               "icon": "link-45deg",
-              "title": "Auf Ihre Fahrzeuge abgestimmt",
-              "text": "Kupplungen und Bremsanschlüsse passend zu Ihrer Flotte."
+              "title": "Optionale integrierte Seilwinde",
+              "text": "Effizientes Ziehen und Schieben."
             },
             {
-              "icon": "shield-check",
-              "title": "Kontrollierte Bewegungen",
-              "text": "Feinfühliges Fahren mit niedriger Geschwindigkeit für sichere Bewegungen in der Nähe von Personal und Anlagen."
+              "icon": "arrow-repeat",
+              "title": "Drehung um 360°",
+              "text": "Hervorragende Manövrierfähigkeit auf beengten Flächen im Betriebswerk."
+            },
+            {
+              "icon": "controller",
+              "title": "Fernbedienter Betrieb",
+              "text": "Mehr Sicherheit, Präzision und Bedienkomfort."
+            },
+            {
+              "icon": "battery-charging",
+              "title": "Batterieelektrischer Antrieb",
+              "text": "Sauberer, leiser und emissionsfreier Betrieb."
             }
           ]
         },
@@ -4083,46 +4439,46 @@
           "type": "specs",
           "id": "specifications",
           "heading": "Technische Daten",
-          "intro": "Die Leistungsdaten werden auf den schwersten Zugverband und die größte Steigung in Ihrem Betriebswerk abgestimmt.",
+          "intro": "Technische Daten von HYT. Jede Maschine wird auf Ihre Spurweite, Radprofile und Fahrzeuge konfiguriert.",
           "columns": [
             "Parameter",
-            "Wert"
+            "KRE 15 RCRV"
           ],
           "rows": [
             [
-              "Betriebsarten",
-              "Schiene und Straße"
+              "Maschinenkonfiguration",
+              "Zweiwege-Rangierfahrzeug für Schiene und Straße; batterieelektrischer Antrieb"
+            ],
+            [
+              "Dienstgewicht",
+              "6 t ± 10 %"
+            ],
+            [
+              "Max. Radlast",
+              "Ca. 1,5 t"
             ],
             [
               "Spurweite",
-              "Nach Kundenvorgabe*"
+              "1676 mm / 1435 mm"
             ],
             [
-              "Zugleistung (Anhängelast)",
-              "Auf Anfrage"
+              "Max. Geschwindigkeit",
+              "V1 (beladen): 0–2 km/h; V2 (solo): 0–4 km/h"
             ],
             [
-              "Zugkraft",
-              "Auf Anfrage"
+              "Max. Zugkraft",
+              "15 kN am Radumfang, bei Haftwert μ = 0,5 trocken (0,3 nass)"
             ],
             [
-              "Antriebsaggregat",
-              "Auf Anfrage"
+              "Anhängelast",
+              "135 t Lokomotive oder sonstige Schienenfahrzeuge, bei Steigungen bis 2,5 ‰ (2,5 auf 1000)"
             ],
             [
-              "Kupplungssystem",
-              "Nach Kundenvorgabe"
-            ],
-            [
-              "Bremsanschluss zu geschleppten Fahrzeugen",
-              "Auf Anfrage"
-            ],
-            [
-              "Umstellung Schiene–Straße",
-              "Auf Anfrage"
+              "Umstellzeit Schiene/Straße",
+              "Ca. 2 min"
             ]
           ],
-          "note": "Mit * gekennzeichnete Werte hängen von Spurweite und Kundenkonfiguration ab. Die endgültigen Werte werden im technischen Angebot bestätigt."
+          "note": "Die endgültigen Werte werden im technischen Angebot bestätigt."
         },
         {
           "type": "steps",
@@ -4136,15 +4492,15 @@
             },
             {
               "title": "Aufgleisen",
-              "text": "Die Schienenführungsräder werden abgesenkt und das Fahrzeug auf dem Gleis ausgerichtet."
+              "text": "Das Rangierfahrzeug wechselt in etwa zwei Minuten vom Straßen- in den Schienenmodus und wird auf dem Gleis ausgerichtet."
             },
             {
               "title": "Ankuppeln",
-              "text": "Es kuppelt an die Schienenfahrzeuge an, und der Bremsanschluss wird hergestellt."
+              "text": "Es kuppelt an die zu bewegenden Fahrzeuge an."
             },
             {
               "title": "Rangieren",
-              "text": "Der Verband wird zum Werkstattgleis, zur Waschanlage oder zum Abstellgleis bewegt."
+              "text": "Per Fernbedienung bewegt der Bediener den Fahrzeugverband zum Werkstattgleis, zur Waschanlage oder auf das Abstellgleis."
             },
             {
               "title": "Abkuppeln",
@@ -4162,14 +4518,14 @@
           "heading": "Hauptmerkmale",
           "cols": 2,
           "items": [
-            "Straßen- und Schienenbetrieb in einem Fahrzeug",
-            "Einziehbare Schienenführungsräder",
-            "Kupplung passend zu Ihren Schienenfahrzeugen",
-            "Bremsanschluss zu geschleppten Fahrzeugen auf Anfrage",
-            "Führerkabine mit Sicht entlang des Gleises",
-            "Konfiguriert auf Ihre Spurweite",
-            "Ausgelegt für Rangierbewegungen mit niedriger Geschwindigkeit im Betriebswerk",
-            "Bedienerschulung im Rahmen der Inbetriebnahme"
+            "Schienen- und Straßenbetrieb in einem Fahrzeug",
+            "Umstellung von Schiene auf Straße in ca. 2 Minuten",
+            "Bis zu 15 kN Zugkraft am Radumfang",
+            "135 t Anhängelast bei Steigungen bis 2,5 ‰",
+            "Fernbedienter Betrieb",
+            "Drehung um 360° für beengte Flächen im Betriebswerk",
+            "Optionale integrierte Seilwinde",
+            "Batteriebetriebener, emissionsfreier Elektroantrieb"
           ]
         },
         {
@@ -4221,7 +4577,7 @@
           "items": [
             {
               "image": "products/rail-cum-road-vehicle-shunter",
-              "caption": "Beispielabbildung des Zweiwege-Rangierfahrzeugs (Shunter)"
+              "caption": "HYT Zweiwege-Rangierfahrzeug KRE 15 RCRV"
             },
             {
               "image": "projects/metro-depot",
@@ -4240,11 +4596,11 @@
           "items": [
             {
               "q": "Was ist ein Zweiwege-Fahrzeug?",
-              "a": "Ein Fahrzeug, das auf seinen Reifen auf der Straße und mithilfe einziehbarer Führungsräder auf Schienen fahren kann. Im Rangierbetrieb kuppelt es an Schienenfahrzeuge an und bewegt sie auf dem Gleis."
+              "a": "Ein Rangierfahrzeug, das auf der Straße fährt und auf Schienen läuft und in etwa zwei Minuten zwischen beiden Betriebsarten wechselt. Im Rangierbetrieb kuppelt es an Schienenfahrzeuge an und bewegt sie auf dem Gleis."
             },
             {
               "q": "Wie viele Fahrzeuge kann es bewegen?",
-              "a": "Das hängt von der konfigurierten Zugleistung, dem Gewicht Ihrer Schienenfahrzeuge und den Steigungen im Betriebswerk ab. Wir legen das Fahrzeug auf Ihre schwerste regelmäßige Rangierbewegung aus."
+              "a": "Das KRE 15 RCRV bewegt bis zu 135 t an Lokomotiven oder sonstigen Schienenfahrzeugen auf Steigungen bis 2,5 ‰, mit einer Zugkraft von bis zu 15 kN. Wir gleichen diese Werte mit Ihrer schwersten regelmäßigen Rangierbewegung und den Steigungen in Ihrem Betriebswerk ab."
             },
             {
               "q": "Welche Infrastruktur wird benötigt?",

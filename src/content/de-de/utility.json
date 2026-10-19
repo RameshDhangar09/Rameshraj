@@ -3,41 +3,48 @@
     "contact-us": {
       "nav": "Kontakt",
       "title": "Kontakt – HYT Engineering",
-      "description": "Kontaktieren Sie HYT Engineering in Pune zu CNC-Radsatzdrehmaschinen, Maschinen für die Radsatzwerkstatt, schlüsselfertigen Werkstätten oder Service.",
+      "description": "Kontaktieren Sie HYT Engineering in Pune, Neu-Delhi oder bei SAFOP in Italien zu CNC-Radsatzdrehmaschinen, Radsatzwerkstätten, schlüsselfertigen Werkstätten oder Service. Wir antworten innerhalb von 24 Stunden.",
       "eyebrow": "Kontakt",
-      "h1": "Kontakt zu HYT Engineering",
-      "lede": "Erzählen Sie uns von Ihrer Flotte, Ihrer Werkstatt oder der Aufgabe, die Sie lösen möchten. Ein Anwendungsingenieur meldet sich bei Ihnen – meist zunächst mit Rückfragen, bevor er Antworten gibt.",
-      "summary": "Telefon, E-Mail, Anschrift und Anfrageformular von HYT Engineering in Pune.",
+      "h1": "Kommen wir ins Gespräch",
+      "lede": "Ob Sie eine neue Radsatzwerkstatt planen, Serviceunterstützung für vorhandene Maschinen benötigen oder eine Partnerschaft ausloten möchten – unser Team antwortet Ihnen innerhalb von 24 Stunden.",
+      "summary": "Unsere Standorte in Pune, Neu-Delhi und Pordenone (Italien), Telefon, E-Mail und Anfrageformular.",
       "blocks": [
         {
-          "type": "text",
-          "eyebrow": "So helfen wir Ihnen",
-          "heading": "Sprechen Sie mit den Menschen, die die Maschinen bauen",
-          "paragraphs": [
-            "Anfragen beantwortet das eigene Engineering- und Vertriebsteam von HYT in Pune – Menschen, die die Maschinen und die Bahnwerkstätten, in denen sie arbeiten, genau kennen. Ob Sie ein neues Betriebswerk planen, eine alte Drehmaschine ersetzen oder ein Angebot für eine einzelne Maschine benötigen: Je mehr Sie uns mitteilen, desto hilfreicher wird unsere erste Antwort.",
-            "Hilfreich sind Angaben zu Fahrzeugtypen und Flottengröße, Raddurchmesserbereich und Radprofilen, Spurweite, der erwarteten Anzahl Radsätze pro Schicht sowie eine Skizze Ihres Werkstatt- oder Betriebswerklayouts."
-          ],
-          "image": "company/corporate-office",
-          "image_alt": "Beispielillustration des Büros und Werks von HYT Engineering in Pune",
-          "layout": "image-right"
-        },
-        {
           "type": "contact",
-          "heading": "Kontaktdaten"
+          "id": "locations"
         },
         {
           "type": "form",
           "id": "enquiry",
           "form": "enquiry",
-          "heading": "Anfrage senden",
-          "intro": "Nutzen Sie dieses Formular für Anfragen zu Produkten, Projekten und Serviceleistungen. Je detaillierter Ihre Angaben, desto konkreter kann unsere erste Antwort ausfallen."
+          "eyebrow": "Kontaktformular",
+          "heading": "Schreiben Sie uns",
+          "intro": "Erzählen Sie uns von Ihrer Flotte, Ihrer Werkstatt oder der Aufgabe, die Sie lösen möchten. Hilfreich sind Angaben zu Fahrzeugtypen, Raddurchmesserbereich, Spurweite und der erwarteten Anzahl an Radsätzen pro Schicht."
         },
         {
           "type": "split_cta",
           "items": [
-            {"icon": "headset", "heading": "Kundendienst", "text": "Maschinenstillstand oder Ersatzteile benötigt? Finden Sie den richtigen Serviceansprechpartner für Ihre Anlage.", "label": "Servicenetz", "page": "service-centers"},
-            {"icon": "truck", "heading": "Lieferanten", "text": "Sie möchten HYT mit Komponenten oder Dienstleistungen beliefern? Registrieren Sie Ihr Unternehmen bei unserem Einkauf.", "label": "Lieferantenregistrierung", "page": "supplier-registration"},
-            {"icon": "briefcase", "heading": "Karriere", "text": "Sie suchen eine Aufgabe in Engineering, Fertigung oder Service? Bewerben Sie sich über unsere Karriereseite.", "label": "Zur Karriereseite", "page": "career"}
+            {
+              "icon": "headset",
+              "heading": "Kundendienst",
+              "text": "Maschinenstillstand oder Ersatzteile benötigt? Finden Sie den richtigen Serviceansprechpartner für Ihre Anlage.",
+              "label": "Servicenetz",
+              "page": "service-centers"
+            },
+            {
+              "icon": "truck",
+              "heading": "Lieferanten",
+              "text": "Sie möchten HYT mit Komponenten oder Dienstleistungen beliefern? Registrieren Sie Ihr Unternehmen bei unserem Einkauf.",
+              "label": "Lieferantenregistrierung",
+              "page": "supplier-registration"
+            },
+            {
+              "icon": "briefcase",
+              "heading": "Karriere",
+              "text": "Sie suchen eine Aufgabe in Engineering, Fertigung oder Service? Bewerben Sie sich über unsere Karriereseite.",
+              "label": "Zur Karriereseite",
+              "page": "career"
+            }
           ]
         }
       ]

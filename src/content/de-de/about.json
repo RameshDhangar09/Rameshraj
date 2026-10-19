@@ -275,65 +275,314 @@
     "history": {
       "nav": "Geschichte",
       "title": "Unsere Geschichte – HYT Engineering seit 1977",
-      "description": "Von kleinen Bohr- und Drehmaschinen 1977 bis zu CNC-Radsatzdrehmaschinen für Staatsbahnen und Metros – die Meilensteine von HYT Engineering in Pune.",
+      "description": "Von Bohrmaschinen im Jahr 1977 über Indiens erste eigenentwickelte Radsatzdrehmaschinen bis zu SAFOP in Italien und der InnoTrans 2026 – die Meilensteine, die HYT Engineering geprägt haben.",
       "eyebrow": "Über HYT",
       "h1": "Unsere Geschichte",
-      "lede": "Fast fünf Jahrzehnte Werkzeugmaschinenbau in Pune – und der stetige Wandel von allgemeinen Werkstattmaschinen hin zur Radsatztechnik für die Bahn, für die wir heute bekannt sind.",
-      "summary": "Meilensteine von unseren Anfängen 1977 bis zu CNC-Radsatzdrehmaschinen für Bahnen und Metros.",
+      "lede": "Fast fünf Jahrzehnte Präzisionsmaschinenbau in Pune – von den ersten Maschinen für Indian Railways im Jahr 1977 bis zu einer internationalen Gruppe mit SAFOP S.p.A. in Italien.",
+      "summary": "Meilensteine von unserer Gründung 1977 über Indiens erste eigenentwickelte Radsatzdrehmaschinen bis zu SAFOP und internationalen Märkten.",
       "blocks": [
         {
-          "type": "timeline",
-          "heading": "Meilensteine",
-          "intro": "Die wichtigsten Schritte in der Entwicklung von HYT. Weitere datierte Meilensteine ergänzen wir, sobald das Archivmaterial gesichtet ist.",
-          "items": [
-            {
-              "year": "1977",
-              "title": "Der Anfang",
-              "text": "HYT startet als HYT Engineering Corporation in Pune und baut kleine Bohr- und Drehmaschinen für örtliche Werkstätten und die Industrie."
-            },
-            {
-              "year": "1989",
-              "title": "Gründung der Gesellschaft",
-              "text": "Das Unternehmen wird als HYT Engineering Company Pvt. Ltd. eingetragen und erhält damit die Struktur für größere Engineering-Aufträge."
-            },
-            {
-              "year": "Wachstum",
-              "title": "Einstieg in CNC-Radsatzdrehmaschinen",
-              "text": "HYT überträgt seine Erfahrung im Werkzeugmaschinenbau auf Radsätze und wird in Indien zum Wegbereiter der CNC-Radsatzdrehtechnik – mit Unterflur-, Überflur- und Portal-Radsatzdrehmaschinen, gefolgt von Maschinen für die Radsatzwerkstatt."
-            },
-            {
-              "year": "Zertifiziert",
-              "title": "Drei ISO-Managementsysteme",
-              "text": "Qualitäts-, Umwelt- sowie Arbeitsschutzmanagement sind nach ISO 9001:2015, ISO 14001:2015 und ISO 45001:2018 zertifiziert. Siehe [Zertifizierungen](page:certifications)."
-            },
-            {
-              "year": "International",
-              "title": "Auf internationaler Bühne",
-              "text": "HYT stellt auf der Asia Pacific Rail, Middle East Rail, Africa Rail und AusRAIL aus und liefert eine CNC-Vertikal-Revolverdrehmaschine an die State Railway of Thailand."
-            },
-            {
-              "year": "Heute",
-              "title": "Aufträge von Indiens Metro- und Schnellbahnbetreibern",
-              "text": "Die Delhi Metro Rail Corporation beauftragt HYT mit einer CNC-Tandem-Unterflur-Radsatzdrehmaschine, und die National Capital Region Transport Corporation erteilt einen Letter of Acceptance für vollautomatische CNC-Unterflur-Radsatzdrehmaschinen. Siehe [laufende Projekte](page:under-execution)."
-            }
-          ]
-        },
-        {
           "type": "text",
-          "eyebrow": "Was sich nicht geändert hat",
-          "heading": "Im Kern ein Maschinenbauer",
+          "eyebrow": "Die Geschichte von HYT",
+          "heading": "Von Bohrmaschinen zur weltweit tätigen Engineering-Gruppe",
           "paragraphs": [
-            "Unsere Produkte und Kunden haben sich seit 1977 stark verändert, unser Kern jedoch nicht. Wir konstruieren unsere Maschinen nach wie vor selbst, bauen sie in unserem eigenen Werk und stehen in der Werkstatt für sie ein.",
-            "Diese Kontinuität ist für Bahnbetreiber wichtig. Eine Radsatzdrehmaschine kann jahrzehntelang laufen – und das Unternehmen, das sie gebaut hat, sollte dann noch da sein, um sie zu warten, zu modernisieren und schließlich zu ersetzen. Erfahren Sie mehr [über HYT](page:about) oder entdecken Sie die [Maschinen, die wir heute bauen](page:products)."
+            "Die 1977 unter der Leitung von Herrn Bhojraj Hemraj Teli gegründete HYT Engineering Company trat mit dem Ziel an, hochwertige Präzisionsmaschinen zu fertigen. Aus den Anfängen als Hersteller von Bohrmaschinen hat sich HYT zu einer anerkannten Engineering-Gruppe entwickelt, die Kunden in Indien und auf internationalen Märkten mit modernen Maschinen für die Bahninstandhaltung, Präzisionswerkzeugmaschinen und schlüsselfertigen Lösungen beliefert."
           ],
           "image": "company/manufacturing-facility",
           "image_alt": "Beispielillustration der Montage von Werkzeugmaschinen im HYT-Werk",
           "layout": "image-right"
         },
         {
-          "type": "notice",
-          "variant": "review",
-          "text": "Zur Prüfung durch HYT: Nur die Jahreszahlen 1977 und 1989 sind verifiziert. Bitte liefern Sie datierte Meilensteine (erste CNC-Radsatzdrehmaschine, erste Unterflur-Radsatzdrehmaschine, Jahre der ISO-Zertifizierungen, erster Exportauftrag, wichtige Aufträge) sowie Archivfotos für die Zeitleiste."
+          "type": "timeline",
+          "layout": "split",
+          "id": "era-1970s",
+          "eyebrow": "Ära · 1970er",
+          "heading": "Gründung",
+          "items": [
+            {
+              "year": "1977",
+              "tag": "Gründungsmeilenstein",
+              "title": "Gründung der HYT Engineering Corporation",
+              "text": "Herr Bhojraj Hemraj Teli gründete die HYT Engineering Corporation in Pune mit einem klaren Ziel – hochwertige Präzisionsmaschinen für die Bahn zu fertigen. Die ersten Arbeiten konzentrierten sich auf Maschinen für die Instandsetzung von Fahrmotoren und die Aufarbeitung von Ankern und legten damit den Grundstein für ein spezialisiertes Engineering-Unternehmen."
+            }
+          ]
+        },
+        {
+          "type": "timeline",
+          "layout": "split",
+          "id": "era-1980s",
+          "eyebrow": "Ära · 1980er",
+          "heading": "Frühe Innovationen",
+          "items": [
+            {
+              "year": "1981",
+              "tag": "Erste Eigenentwicklung",
+              "title": "Entwicklung und Lieferung der Glimmerausfräsmaschine",
+              "text": "HYT entwickelte und lieferte die Glimmerausfräsmaschine (Mica Under Cutting Machine) – ein frühes Spezialprodukt, das die wachsende Kompetenz des Unternehmens in der Entwicklung von Präzisionswerkzeugmaschinen für den Bahnsektor belegte."
+            },
+            {
+              "year": "1985",
+              "tag": "Produktinnovation",
+              "title": "Entwicklung und Lieferung der Universal-Ankerbearbeitungsmaschine",
+              "text": "Die Universal-Ankerbearbeitungsmaschine wurde entwickelt und ausgeliefert und erweiterte das Portfolio von HYT an Spezialmaschinen für die Instandhaltung und Instandsetzung von Fahrmotoren."
+            },
+            {
+              "year": "1989",
+              "tag": "Gesellschaftsgründung",
+              "title": "Eintragung als HYT Engineering Company Pvt. Ltd.",
+              "text": "Das Unternehmen wurde als HYT Engineering Company Pvt. Ltd. eingetragen und erhielt damit die Struktur für größere Engineering-Aufträge."
+            }
+          ],
+          "variant": "muted"
+        },
+        {
+          "type": "timeline",
+          "layout": "split",
+          "id": "era-1990s",
+          "eyebrow": "Ära · 1990er",
+          "heading": "Wegbereiter der Radsatzdrehmaschinen",
+          "items": [
+            {
+              "year": "1992",
+              "tag": "Erstmals in Indien",
+              "title": "Indiens erste eigenentwickelte Überflur-Radsatzdrehmaschine",
+              "text": "Ein Meilenstein: HYT entwickelte und lieferte Indiens erste eigenentwickelte Überflur-Radsatzdrehmaschine und stieg damit in die Radsatzdrehtechnik ein."
+            },
+            {
+              "year": "1994",
+              "tag": "Erstmals in Indien",
+              "title": "Indiens erste eigenentwickelte Unterflur-Radsatzdrehmaschine und Achsschenkeldrehmaschine",
+              "text": "HYT gelang eine weitere Premiere für Indien: die Entwicklung und Lieferung der ersten im Land entwickelten Unterflur-Radsatzdrehmaschine (Grubenmaschine) sowie der Achsschenkel-Dreh- und Glattwalzmaschine."
+            }
+          ]
+        },
+        {
+          "type": "timeline",
+          "layout": "split",
+          "id": "era-2000s",
+          "eyebrow": "Ära · 2000er",
+          "heading": "Das CNC-Zeitalter und internationale Reichweite",
+          "items": [
+            {
+              "year": "2001",
+              "tag": "Erweiterung der Gruppe",
+              "title": "Gründung der HYT Innovative Projects Pvt. Ltd.",
+              "text": "HYT erweiterte die Gruppe um die Schwestergesellschaft HYT Innovative Projects Pvt. Ltd., die sich auf die Fertigung von Präzisionsrohren im Drückwalzverfahren (Flow Forming) spezialisiert hat – auf einer Fläche von 4.500 m² und mit einem Team von über 50 Mitarbeitenden."
+            },
+            {
+              "year": "2001",
+              "tag": "Technologiesprung",
+              "title": "Von konventionellen Maschinen zu CNC-Maschinen",
+              "text": "HYT vollzog den grundlegenden Wandel von konventionellen zu CNC-gesteuerten Maschinen, entwickelte und lieferte die CNC-Überflur-Radsatzdrehmaschine und die CNC-Vertikaldrehmaschine – und positionierte sich damit als technologieorientiertes Engineering-Unternehmen auf dem Niveau internationaler Fertigungsstandards."
+            },
+            {
+              "year": "2004",
+              "tag": "HYT wird international",
+              "title": "Exportauftrag – SMH Rail Sdn. Bhd., Malaysia",
+              "text": "Ein prägender Meilenstein: HYT erhielt einen internationalen Auftrag von SMH Rail Sdn. Bhd., Malaysia. Damit begann die weltweite Präsenz des Unternehmens und sein Wandel zu einem international anerkannten Werkzeugmaschinenexporteur."
+            },
+            {
+              "year": "2005",
+              "tag": "Strategisches Projekt",
+              "title": "Instandsetzung einer Maschine für den U-Boot-Bau – Mazagon Dock Ltd.",
+              "text": "HYT bewies seine Vielseitigkeit mit der erfolgreichen Instandsetzung einer Maschine für den U-Boot-Bau bei Mazagon Dock Ltd. und erweiterte seine Expertise über die Bahn hinaus auf Verteidigung und Schwermaschinenbau."
+            },
+            {
+              "year": "2007",
+              "tag": "Großauftrag",
+              "title": "Auftrag von Larsen & Toubro",
+              "text": "HYT erhielt einen wegweisenden Auftrag von Larsen & Toubro über die Lieferung von Maschinen für die Radscheibenfertigung – einer der größten Einzelaufträge des Unternehmens, der die Position von HYT festigte."
+            },
+            {
+              "year": "2009",
+              "tag": "Erstmals in Indien",
+              "title": "Automatische Zugwaschanlage – Kurla, Mumbai",
+              "text": "HYT entwickelte und lieferte Indiens erste automatische Zugwaschanlage für Indian Railways in Kurla, Mumbai – eine neue Produktkategorie, die zeigte, dass das Unternehmen auch über Radsatzdrehmaschinen hinaus Innovationen für die Bahninfrastruktur hervorbringt."
+            }
+          ],
+          "variant": "muted"
+        },
+        {
+          "type": "timeline",
+          "layout": "split",
+          "id": "era-2010s",
+          "eyebrow": "Ära · 2010er",
+          "heading": "Führend bei schlüsselfertigen Projekten und internationale Expansion",
+          "items": [
+            {
+              "year": "2010",
+              "tag": "Technologiesprung",
+              "title": "CNC-Vertikal-Dreh- und Bohrmaschine",
+              "text": "HYT entwickelte und lieferte die CNC-Vertikal-Dreh- und Bohrmaschine – eine Hochpräzisionsmaschine für Bauteile mit großem Durchmesser, die den adressierbaren Markt und die technische Kompetenz des Unternehmens deutlich erweiterte."
+            },
+            {
+              "year": "2011",
+              "tag": "Erstes EPC-Projekt",
+              "title": "Fertigungsanlage für LHB-Wagenkästen – ICF Chennai",
+              "text": "Mit seinem ersten großen Infrastrukturprojekt stieg HYT in das EPC-Geschäft für schlüsselfertige Anlagen ein: dem Aufbau einer Fertigungsanlage für LHB-Wagenkästen für die Integral Coach Factory in Chennai. Damit wandelte sich HYT vom Werkzeugmaschinenlieferanten zum Anbieter kompletter Infrastrukturlösungen."
+            },
+            {
+              "year": "2013",
+              "tag": "Rekordauftrag",
+              "title": "Größter Einzelauftrag für CNC-Überflur-Radsatzdrehmaschinen – 36 Maschinen",
+              "text": "HYT erhielt seinen bislang größten Einzelauftrag für CNC-Überflur-Radsatzdrehmaschinen über 36 Maschinen – ein Beleg für die große Nachfrage nach den Flaggschiffprodukten des Unternehmens im gesamten Netz der Indian Railways."
+            },
+            {
+              "year": "2013",
+              "tag": "Unternehmensführung",
+              "title": "Frau Rajashri Teli zur Whole Time Director ernannt",
+              "text": "Frau Rajashri Bhojraj Teli wurde zur Whole Time Director ernannt und brachte zukunftsorientierte Geschäftsstrategien ein, die der Gruppe deutliches Wachstum und internationale Anerkennung verschafften."
+            },
+            {
+              "year": "2014",
+              "tag": "Produktmeilenstein",
+              "title": "CNC-Portal-Radsatzdrehmaschine – North Central Railway, Jhansi",
+              "text": "HYT lieferte die CNC-Portal-Radsatzdrehmaschine an das Güterwagen-Ausbesserungswerk der North Central Railway in Jhansi, erweiterte damit sein Portfolio an Radsatzdrehmaschinen um eine weitere Bauart und stärkte die Beziehung zu Indian Railways."
+            },
+            {
+              "year": "2015",
+              "tag": "Produktmeilenstein",
+              "title": "CNC-Unterflur-Radsatzdrehmaschinen – Chennai Metro",
+              "text": "HYT stieg mit der Lieferung von CNC-Unterflur-Radsatzdrehmaschinen an die Chennai Metro in das Metro-Segment ein – der erste von vielen Metro-Aufträgen, die HYT als bevorzugten Lieferanten für Indiens wachsende Stadtbahnnetze etablierten."
+            },
+            {
+              "year": "2015",
+              "tag": "Make in India",
+              "title": "Zweiwege-Rangierfahrzeug (Shunter) gemeinsam mit BEMO, Niederlande, entwickelt",
+              "text": "Im Rahmen der Initiative Make in India entwickelte HYT gemeinsam mit BEMO, Niederlande, das Zweiwege-Rangierfahrzeug (Shunter) – ein vielseitiges Fahrzeug für den Rangierbetrieb auf Bahnanlagen."
+            },
+            {
+              "year": "2015",
+              "tag": "Infrastruktur",
+              "title": "Firmenzentrale als Green Building in Pune eröffnet",
+              "text": "HYT eröffnete seine als Green Building errichtete Zentrale in Chinchwad, Pune – ein moderner, nachhaltiger Standort, der zum Mittelpunkt für Engineering, Fertigung und Verwaltung wurde."
+            },
+            {
+              "year": "2016",
+              "tag": "Technologietransfer",
+              "title": "CNC-Federwickelmaschinen – Technologietransfer von TNI Spring Technologies, USA",
+              "text": "Im Rahmen eines Technologietransfers von TNI Spring Technologies LLC, USA, fertigte und lieferte HYT die CNC-Warmwickelmaschine für Schraubenfedern, die CNC-Maschine zum Warmanspitzen von Stabenden und die Nachsetzmaschine für das Federnprojekt der ICF Chennai – ein Beleg dafür, dass HYT internationale Technologie aufnehmen und einsetzen kann."
+            },
+            {
+              "year": "2018",
+              "tag": "OEM-Lieferung",
+              "title": "Lieferung an Alstom und GE Diesel Locomotive Pvt. Ltd.",
+              "text": "HYT lieferte Unterflur-Radsatzdrehmaschinen der neuen Generation an Alstom und GE Diesel Locomotive Pvt. Ltd. und trat damit in die internationale OEM-Lieferkette der Schienenfahrzeughersteller ein."
+            },
+            {
+              "year": "2018",
+              "tag": "Servicemodell",
+              "title": "Wet Leasing (Machine as a Service) – ICF Chennai",
+              "text": "HYT führte für die ICF Chennai als Vorreiter einen Wet-Leasing-Vertrag ein und übernahm die volle Verantwortung für Lieferung, Inbetriebnahme, Betrieb und Instandhaltung – ein im indischen Bahnmaschinensektor bis dahin einzigartiges Servicemodell. Siehe [Wet Leasing](page:wet-leasing)."
+            },
+            {
+              "year": "2019",
+              "tag": "Übernahme von SAFOP",
+              "title": "Übernahme der SAFOP S.p.A., Italien – 100-prozentige Tochtergesellschaft",
+              "text": "Der bedeutendste strategische Schritt von HYT – die Übernahme der SAFOP S.p.A., Italien (gegründet 1923), als Tochtergesellschaft. Mit über 1.400 weltweit verkauften Maschinen und einem Jahrhundert italienischer Präzisionstechnik erweiterte SAFOP die internationale Präsenz und das Technologieportfolio der Gruppe erheblich."
+            },
+            {
+              "year": "2019",
+              "tag": "Premiere für Indien",
+              "title": "Indiens erste eigenentwickelte automatische Radsatz-Montageanlage – RWF Bangalore",
+              "text": "HYT entwickelte und errichtete Indiens erste eigenentwickelte automatische Montageanlage für Räder und Achsen für die Rail Wheel Factory in Bangalore – ein Meilenstein der Automatisierung in der Radsatzfertigung."
+            },
+            {
+              "year": "2019",
+              "tag": "Exportmeilenstein",
+              "title": "Lieferung an die SNCF, Frankreich – konform mit europäischen Normen",
+              "text": "HYT entwickelte und lieferte Unterflur-Radsatzdrehmaschinen an die SNCF in Frankreich, konform mit europäischen Normen – ein bedeutender Exporterfolg, der die Qualität von HYT auf internationaler Ebene bestätigte."
+            }
+          ]
+        },
+        {
+          "type": "timeline",
+          "layout": "split",
+          "id": "era-2020s",
+          "eyebrow": "Ära · 2020er",
+          "heading": "Neue Horizonte",
+          "items": [
+            {
+              "year": "2020",
+              "tag": "Rekordauftrag",
+              "title": "Auftrag über 27 Unterflur-Radsatzdrehmaschinen – Indian Railways",
+              "text": "HYT erhielt von Indian Railways einen Auftrag über 27 Unterflur-Radsatzdrehmaschinen – einer der größten Einzelaufträge für Radsatzdrehmaschinen, der die Position von HYT als bevorzugter Lieferant für die Instandhaltungsinfrastruktur der Indian Railways bekräftigte."
+            },
+            {
+              "year": "2021",
+              "tag": "Afrika",
+              "title": "CNC-Unterflur-Radsatzdrehmaschine nach Gabun und CNC-Überflur-Radsatzdrehmaschine nach Ghana geliefert",
+              "text": "HYT lieferte eine CNC-Unterflur-Radsatzdrehmaschine nach Gabun in Zentralafrika, nahm sie in Betrieb und richtete dort eine komplette Radsatzwerkstatt ein; zudem ging eine CNC-Überflur-Radsatzdrehmaschine nach Ghana in Westafrika – ein Zeichen der starken Nachfrage auf dem afrikanischen Bahnmarkt."
+            },
+            {
+              "year": "2021",
+              "tag": "EPC-Projekte",
+              "title": "Automatisierte Radsatzwerkstatt in New Katni und Achsbearbeitungslinie bei RWF Bangalore",
+              "text": "HYT realisierte als EPC-Projekt eine automatisierte Radsatzwerkstatt in New Katni, Madhya Pradesh – eine der größten Radsatz-Instandhaltungsanlagen der Indian Railways – und errichtete eine komplette Achsbearbeitungslinie bei der Rail Wheel Factory in Bangalore."
+            },
+            {
+              "year": "2021",
+              "tag": "Produktinnovation",
+              "title": "Indiens erste eigenentwickelte Tandem-Unterflur-Radsatzdrehmaschine",
+              "text": "HYT entwickelte Indiens erste eigenentwickelte Tandem-Unterflur-Radsatzdrehmaschine – eine Doppelmaschinen-Konfiguration für Radsatzwerkstätten mit sehr hohem Durchsatz, beauftragt von der Delhi Metro Rail Corporation."
+            },
+            {
+              "year": "2022",
+              "tag": "Premiere für Indien",
+              "title": "Erstes Vande-Bharat-Betriebswerk – Shakur Basti, Northern Railway",
+              "text": "HYT errichtete in Shakur Basti im Bereich der Northern Railway Indiens erstes eigens für den Vande Bharat Express bestimmtes Betriebswerk – ein Meilenstein, als der semi-hochgeschwindigkeitsfähige Vorzeigezug des Landes in Betrieb ging, mit HYT-Maschinen als festem Bestandteil seiner Instandhaltung."
+            },
+            {
+              "year": "2024",
+              "tag": "Produktinnovation",
+              "title": "Montage- und Demontagelinie für Drehgestelle – Dibrugarh",
+              "text": "HYT lieferte eine Montage- und Demontagelinie für Drehgestelle in Dibrugarh für die Northeast Frontier Railway – eine anspruchsvolle teilautomatisierte Montagelösung, die moderne Fertigungspraxis in eine der geografisch schwierigsten Bahnregionen Indiens bringt."
+            },
+            {
+              "year": "2024",
+              "tag": "Produktinnovation",
+              "title": "Große Horizontalmaschinen für die Instandhaltung von Turbinenrotoren",
+              "text": "HYT und SAFOP erhielten Aufträge über große Horizontalmaschinen für die Instandhaltung von Turbinenrotoren."
+            },
+            {
+              "year": "2025",
+              "tag": "Internationale Präsenz",
+              "title": "Fünf internationale Messen auf vier Kontinenten",
+              "text": "HYT stellte auf der Middle East Rail in Dubai, der Eurasia Rail in Istanbul, der Asia Pacific Rail in Bangkok, der Africa Rail in Johannesburg und der NT Expo in São Paulo aus – der bislang breiteste internationale Auftritt des Unternehmens innerhalb eines Jahres."
+            },
+            {
+              "year": "2025",
+              "tag": "Internationale Präsenz",
+              "title": "Aufträge aus dem Nahen Osten und der Türkei",
+              "text": "HYT erhielt Aufträge aus dem Nahen Osten und der Türkei über Unterflur-Radsatzdrehmaschinen, Tandem-Unterflur-Radsatzdrehmaschinen, Achswellendrehmaschinen und Vertikaldrehmaschinen."
+            },
+            {
+              "year": "2026",
+              "tag": "Anerkennung",
+              "title": "Managing Director bei den Hurun Stars of the Deccan ausgezeichnet",
+              "text": "Frau Rajashri Teli, Managing Director, wurde bei den Hurun Stars of the Deccan 2026 ausgezeichnet – in Anerkennung ihrer Rolle für das Wachstum und die internationale Expansion der Gruppe."
+            },
+            {
+              "year": "2026",
+              "tag": "InnoTrans 2026",
+              "title": "HYT Group auf der InnoTrans 2026 in Berlin",
+              "text": "HYT Engineering und SAFOP S.p.A. präsentierten sich gemeinsam als HYT Group auf der InnoTrans 2026 – Halle 22A, Stände 630 & 730, Messe Berlin, 22.–25. September 2026 – und zeigten dem führenden internationalen Fachpublikum der Verkehrstechnik das komplette Programm an CNC-Radsatzdrehmaschinen."
+            }
+          ],
+          "variant": "muted"
+        },
+        {
+          "type": "cta",
+          "heading": "Gestalten Sie das nächste Kapitel mit",
+          "text": "Entdecken Sie Karrieremöglichkeiten, Partnerschaften und Geschäftschancen mit der HYT Group.",
+          "primary": {
+            "label": "Karriere entdecken",
+            "page": "career"
+          },
+          "secondary": {
+            "label": "Unser Team kontaktieren",
+            "page": "contact-us"
+          }
         }
       ]
     },
