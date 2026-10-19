@@ -3,34 +3,23 @@
     "contact-us": {
       "nav": "Contact",
       "title": "Contacter HYT Engineering – tours à roues CNC",
-      "description": "Contactez HYT Engineering à Pune pour vos tours à roues CNC, machines d’atelier d’essieux, ateliers clés en main ou le SAV : téléphone, e-mail ou formulaire.",
-      "eyebrow": "Contact",
-      "h1": "Contacter HYT Engineering",
-      "lede": "Parlez-nous de votre parc, de votre atelier ou du problème que vous devez résoudre. Un ingénieur d’application reviendra vers vous – généralement avec des questions avant d’apporter des réponses.",
-      "summary": "Téléphone, e-mail, adresse et formulaire de demande de HYT Engineering à Pune.",
+      "description": "Contactez HYT Engineering à Pune, à New Delhi ou chez SAFOP en Italie pour vos tours à roues CNC, ateliers de roues, ateliers clés en main ou le SAV. Nous répondons sous 24 heures.",
+      "eyebrow": "Contactez-nous",
+      "h1": "Engageons la conversation",
+      "lede": "Que vous prévoyiez un nouvel atelier de roues, ayez besoin d’assistance pour des machines existantes ou souhaitiez explorer un partenariat, notre équipe est prête à vous répondre sous 24 heures.",
+      "summary": "Nos sites à Pune, New Delhi et Pordenone (Italie), téléphone, e-mail et formulaire de demande.",
       "blocks": [
         {
-          "type": "text",
-          "eyebrow": "Comment pouvons-nous vous aider ?",
-          "heading": "Échangez avec ceux qui construisent les machines",
-          "paragraphs": [
-            "Les demandes sont traitées par l’équipe technique et commerciale de HYT à Pune – des personnes qui connaissent les machines et les ateliers ferroviaires dans lesquels elles travaillent. Que vous prévoyiez un nouvel atelier de maintenance, le remplacement d’un ancien tour ou que vous ayez besoin d’un devis pour une seule machine : plus vous nous en dites, plus notre première réponse vous sera utile.",
-            "Informations utiles : types de véhicules et taille du parc, plage de diamètres et profils de roue, écartement de la voie, nombre d’essieux montés prévu par poste, ainsi qu’un croquis de l’implantation de votre atelier ou dépôt."
-          ],
-          "image": "company/corporate-office",
-          "image_alt": "Illustration d’exemple des bureaux et de l’usine de HYT Engineering à Pune",
-          "layout": "image-right"
-        },
-        {
           "type": "contact",
-          "heading": "Coordonnées"
+          "id": "locations"
         },
         {
           "type": "form",
           "id": "enquiry",
           "form": "enquiry",
-          "heading": "Envoyer une demande",
-          "intro": "Utilisez ce formulaire pour toute demande concernant nos produits, projets et services. Plus vous nous donnez de détails, plus notre première réponse pourra être précise."
+          "eyebrow": "Formulaire de contact",
+          "heading": "Écrivez-nous",
+          "intro": "Parlez-nous de votre parc, de votre atelier ou du problème que vous devez résoudre. Informations utiles : types de véhicules, plage de diamètres de roue, écartement de la voie et nombre d’essieux montés prévu par poste."
         },
         {
           "type": "split_cta",

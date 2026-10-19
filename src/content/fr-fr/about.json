@@ -275,65 +275,314 @@
     "history": {
       "nav": "Histoire",
       "title": "Notre histoire – HYT Engineering depuis 1977",
-      "description": "Des petites perceuses et tours de 1977 aux tours à roues CNC pour réseaux ferroviaires et métros : les étapes qui ont façonné HYT Engineering à Pune.",
+      "description": "Des perceuses de 1977 aux premiers tours à roues indiens de conception nationale, de SAFOP en Italie à InnoTrans 2026 : les étapes qui ont façonné HYT Engineering.",
       "eyebrow": "À propos de HYT",
       "h1": "Notre histoire",
-      "lede": "Près de cinquante ans de construction de machines-outils à Pune, et une évolution continue des machines d’atelier généralistes vers la technologie des roues ferroviaires qui fait aujourd’hui notre réputation.",
-      "summary": "Les grandes étapes, de nos débuts en 1977 aux tours à roues CNC pour les réseaux ferroviaires et les métros.",
+      "lede": "Près de cinq décennies d’ingénierie de précision à Pune – des premières machines pour Indian Railways en 1977 à un groupe international comprenant SAFOP S.p.A. en Italie.",
+      "summary": "Les grandes étapes, de notre fondation en 1977 aux premiers tours à roues indiens de conception nationale, à SAFOP et aux marchés internationaux.",
       "blocks": [
         {
-          "type": "timeline",
-          "heading": "Grandes étapes",
-          "intro": "Les principales étapes du développement de HYT. D’autres jalons datés seront ajoutés au fur et à mesure de l’examen des archives.",
-          "items": [
-            {
-              "year": "1977",
-              "title": "Les débuts",
-              "text": "HYT démarre sous le nom de HYT Engineering Corporation à Pune et construit de petites perceuses et des tours pour les ateliers et l’industrie locale."
-            },
-            {
-              "year": "1989",
-              "title": "Constitution en société",
-              "text": "L’entreprise est constituée en société sous le nom de HYT Engineering Company Pvt. Ltd., ce qui lui donne la structure nécessaire pour décrocher des contrats d’ingénierie plus importants."
-            },
-            {
-              "year": "Croissance",
-              "title": "Le virage des tours à roues CNC",
-              "text": "HYT met son expérience des machines-outils au service des essieux montés ferroviaires et devient pionnière de la technologie des tours à roues CNC en Inde – tours en fosse, en surface et à portique, puis machines pour ateliers d’essieux."
-            },
-            {
-              "year": "Certification",
-              "title": "Trois systèmes de management ISO",
-              "text": "Les systèmes de management de la qualité, de l’environnement ainsi que de la santé et de la sécurité au travail sont certifiés ISO 9001:2015, ISO 14001:2015 et ISO 45001:2018. Voir [Certifications](page:certifications)."
-            },
-            {
-              "year": "International",
-              "title": "Sur la scène internationale",
-              "text": "HYT expose aux salons Asia Pacific Rail, Middle East Rail, Africa Rail et AusRAIL, et fournit un tour vertical à tourelle CNC à State Railway of Thailand."
-            },
-            {
-              "year": "Aujourd’hui",
-              "title": "Commandes des exploitants indiens de métro et de transport rapide",
-              "text": "Delhi Metro Rail Corporation attribue à HYT un tour en fosse tandem CNC, et National Capital Region Transport Corporation émet une lettre d’acceptation pour des tours en fosse CNC entièrement automatiques. Voir les [projets en cours de réalisation](page:under-execution)."
-            }
-          ]
-        },
-        {
           "type": "text",
-          "eyebrow": "Ce qui n’a pas changé",
-          "heading": "Constructeur de machines dans l’âme",
+          "eyebrow": "L’histoire de HYT",
+          "heading": "Des perceuses à un groupe d’ingénierie international",
           "paragraphs": [
-            "Nos produits et nos clients ont beaucoup évolué depuis 1977, mais l’essentiel est resté le même. Nous concevons toujours nos machines nous-mêmes, les construisons dans notre propre usine et en assumons la responsabilité jusque dans l’atelier.",
-            "Cette continuité compte pour les exploitants ferroviaires. Un tour à roues peut fonctionner pendant des décennies, et l’entreprise qui l’a construit doit encore être là pour l’entretenir, le moderniser et, un jour, le remplacer. Pour en savoir plus, consultez la page [À propos de HYT](page:about) ou découvrez les [machines que nous construisons aujourd’hui](page:products)."
+            "Fondée en 1977 sous la direction de M. Bhojraj Hemraj Teli, HYT Engineering Company s’est donné pour mission de fabriquer des machines de précision de qualité. D’abord fabricant de perceuses, HYT est devenue un groupe d’ingénierie de confiance qui fournit des machines de maintenance ferroviaire avancées, des machines-outils de précision et des solutions clés en main à ses clients en Inde et sur les marchés internationaux."
           ],
           "image": "company/manufacturing-facility",
           "image_alt": "Illustration d’exemple de machines-outils en cours de montage dans l’usine HYT",
           "layout": "image-right"
         },
         {
-          "type": "notice",
-          "variant": "review",
-          "text": "Pour validation par HYT : seules les dates de 1977 et 1989 sont vérifiées. Merci de fournir des jalons datés (premier tour à roues CNC, premier tour en fosse, années de certification ISO, première commande à l’export, contrats majeurs) ainsi que des photographies d’archives pour la frise chronologique."
+          "type": "timeline",
+          "layout": "split",
+          "id": "era-1970s",
+          "eyebrow": "Époque · années 1970",
+          "heading": "La fondation",
+          "items": [
+            {
+              "year": "1977",
+              "tag": "Étape fondatrice",
+              "title": "Création de HYT Engineering Corporation",
+              "text": "M. Bhojraj Hemraj Teli fonde HYT Engineering Corporation à Pune avec une mission unique : fabriquer des machines de précision de qualité pour les chemins de fer. Les premiers travaux portent sur des machines destinées à la remise en état des moteurs de traction et à la régénération des induits, posant les bases d’une entreprise d’ingénierie spécialisée."
+            }
+          ]
+        },
+        {
+          "type": "timeline",
+          "layout": "split",
+          "id": "era-1980s",
+          "eyebrow": "Époque · années 1980",
+          "heading": "Premières innovations",
+          "items": [
+            {
+              "year": "1981",
+              "tag": "Premier développement",
+              "title": "Développement et fourniture de la machine à fraiser les micas",
+              "text": "HYT développe et fournit la machine à fraiser les micas – l’un de ses premiers produits spécialisés, qui témoigne de la capacité croissante de l’entreprise à développer des machines-outils de précision pour le secteur ferroviaire."
+            },
+            {
+              "year": "1985",
+              "tag": "Innovation produit",
+              "title": "Développement et fourniture de la machine universelle pour induits",
+              "text": "La machine universelle pour induits est développée et fournie, élargissant le portefeuille HYT de machines spécialisées pour la maintenance et la remise en état des moteurs de traction ferroviaires."
+            },
+            {
+              "year": "1989",
+              "tag": "Constitution en société",
+              "title": "HYT Engineering Company Pvt. Ltd.",
+              "text": "L’entreprise est constituée en société sous le nom de HYT Engineering Company Pvt. Ltd., ce qui lui donne la structure nécessaire pour décrocher des contrats d’ingénierie plus importants."
+            }
+          ],
+          "variant": "muted"
+        },
+        {
+          "type": "timeline",
+          "layout": "split",
+          "id": "era-1990s",
+          "eyebrow": "Époque · années 1990",
+          "heading": "Pionnier des tours à roues",
+          "items": [
+            {
+              "year": "1992",
+              "tag": "Une première en Inde",
+              "title": "Premier tour à roues sur sol de conception indienne",
+              "text": "Une année charnière. HYT développe et fournit le premier tour à roues sur sol de conception indienne, marquant l’entrée de l’entreprise dans la technologie des tours à roues."
+            },
+            {
+              "year": "1994",
+              "tag": "Une première en Inde",
+              "title": "Premier tour en fosse et premier tour à fusées d’essieu de conception indienne",
+              "text": "HYT signe une nouvelle première nationale en développant et en fournissant le premier tour à roues en fosse de conception indienne ainsi que le tour de tournage et galetage de fusées d’essieu."
+            }
+          ]
+        },
+        {
+          "type": "timeline",
+          "layout": "split",
+          "id": "era-2000s",
+          "eyebrow": "Époque · années 2000",
+          "heading": "L’ère de la CNC et le rayonnement international",
+          "items": [
+            {
+              "year": "2001",
+              "tag": "Expansion du groupe",
+              "title": "Création de HYT Innovative Projects Pvt. Ltd.",
+              "text": "HYT élargit le groupe en créant la société sœur HYT Innovative Projects Pvt. Ltd., spécialisée dans la fabrication de tubes de précision par fluotournage (Flow Forming), sur un site de 4 500 m² avec une équipe de plus de 50 collaborateurs."
+            },
+            {
+              "year": "2001",
+              "tag": "Évolution technologique",
+              "title": "Des machines conventionnelles aux machines CNC",
+              "text": "HYT mène à bien une profonde transformation, des machines conventionnelles aux machines CNC, en développant et en fournissant le tour à roues sur sol CNC et le tour vertical CNC – et se positionne ainsi comme une entreprise d’ingénierie portée par la technologie et alignée sur les standards de fabrication internationaux."
+            },
+            {
+              "year": "2004",
+              "tag": "HYT à l’international",
+              "title": "Commande à l’export – SMH Rail Sdn. Bhd., Malaisie",
+              "text": "Une étape déterminante. HYT reçoit une commande internationale de SMH Rail Sdn. Bhd., en Malaisie, qui marque le début de sa présence mondiale et de sa transformation en exportateur de machines-outils reconnu à l’international."
+            },
+            {
+              "year": "2005",
+              "tag": "Projet stratégique",
+              "title": "Remise en état d’une machine de construction de sous-marins – Mazagon Dock Ltd.",
+              "text": "HYT démontre sa polyvalence en remettant en état avec succès une machine de construction de sous-marins pour Mazagon Dock Ltd., étendant son savoir-faire au-delà du ferroviaire, à la défense et à l’industrie lourde."
+            },
+            {
+              "year": "2007",
+              "tag": "Commande majeure",
+              "title": "Commande de Larsen & Toubro",
+              "text": "HYT reçoit de Larsen & Toubro une commande historique portant sur la fourniture de machines pour la fabrication de disques de roue – l’une de ses plus importantes commandes individuelles, qui consolide la position de HYT."
+            },
+            {
+              "year": "2009",
+              "tag": "Une première en Inde",
+              "title": "Installation automatique de lavage des trains – Kurla, Mumbai",
+              "text": "HYT développe et fournit la première installation automatique de lavage des trains d’Inde pour Indian Railways à Kurla, Mumbai – une nouvelle catégorie de produits qui démontre sa capacité à innover au-delà des tours à roues, dans le domaine plus large des infrastructures ferroviaires."
+            }
+          ],
+          "variant": "muted"
+        },
+        {
+          "type": "timeline",
+          "layout": "split",
+          "id": "era-2010s",
+          "eyebrow": "Époque · années 2010",
+          "heading": "Leadership clés en main et expansion internationale",
+          "items": [
+            {
+              "year": "2010",
+              "tag": "Évolution technologique",
+              "title": "Tour vertical CNC de tournage et d’alésage",
+              "text": "HYT développe et fournit le tour vertical CNC de tournage et d’alésage – une machine de haute précision pour les pièces de grand diamètre, qui élargit nettement le marché accessible et les capacités techniques de l’entreprise."
+            },
+            {
+              "year": "2011",
+              "tag": "Premier projet EPC",
+              "title": "Unité de fabrication de caisses de voitures LHB – ICF Chennai",
+              "text": "HYT fait son entrée dans le domaine EPC clés en main avec son premier grand projet d’infrastructure : la mise en place d’une unité de fabrication de caisses de voitures LHB pour l’Integral Coach Factory de Chennai. L’entreprise passe ainsi du statut de fournisseur de machines-outils à celui de fournisseur de solutions d’infrastructure complètes."
+            },
+            {
+              "year": "2013",
+              "tag": "Commande record",
+              "title": "Plus importante commande individuelle de tours à roues sur sol CNC – 36 machines",
+              "text": "HYT reçoit sa plus importante commande individuelle de tours à roues sur sol CNC, portant sur 36 machines, ce qui illustre l’ampleur de la demande pour les produits phares de l’entreprise sur l’ensemble du réseau d’Indian Railways."
+            },
+            {
+              "year": "2013",
+              "tag": "Direction",
+              "title": "Mme Rajashri Teli nommée Whole Time Director",
+              "text": "Mme Rajashri Bhojraj Teli est nommée Whole Time Director (administratrice à plein temps) et apporte des stratégies commerciales novatrices qui porteront une expansion importante et la reconnaissance internationale du groupe."
+            },
+            {
+              "year": "2014",
+              "tag": "Étape produit",
+              "title": "Tour à roues à portique CNC – North Central Railway, Jhansi",
+              "text": "HYT fournit le tour à roues à portique CNC à l’atelier de réparation de wagons de North Central Railway à Jhansi, ajoutant une nouvelle variante à sa gamme de tours à roues et renforçant ses liens avec Indian Railways."
+            },
+            {
+              "year": "2015",
+              "tag": "Étape produit",
+              "title": "Tours en fosse CNC – Chennai Metro",
+              "text": "HYT s’étend au segment du métro en fournissant des tours en fosse CNC à Chennai Metro – le premier de nombreux contrats de métro qui ont fait de HYT un fournisseur privilégié du réseau ferroviaire urbain en pleine croissance en Inde."
+            },
+            {
+              "year": "2015",
+              "tag": "Make in India",
+              "title": "Véhicule rail-route (locotracteur) développé avec BEMO, Pays-Bas",
+              "text": "HYT développe le véhicule rail-route (locotracteur) dans le cadre de l’initiative Make in India, en collaboration avec BEMO (Pays-Bas) – un véhicule polyvalent pour les opérations dans les faisceaux de voies ferroviaires."
+            },
+            {
+              "year": "2015",
+              "tag": "Infrastructure",
+              "title": "Création du siège Green Building à Pune",
+              "text": "HYT installe son siège Green Building à Chinchwad, Pune – un site moderne et durable, devenu le centre névralgique de l’ingénierie, de la fabrication et de l’administration."
+            },
+            {
+              "year": "2016",
+              "tag": "Transfert de technologie",
+              "title": "Machines CNC d’enroulement de ressorts – transfert de technologie de TNI Spring Technologies, États-Unis",
+              "text": "HYT fabrique et fournit la machine CNC d’enroulement à chaud de ressorts hélicoïdaux, la machine CNC d’effilage à chaud des extrémités de barres et la machine de remise au pas pour le projet de ressorts d’ICF Chennai, dans le cadre d’un transfert de technologie de TNI Spring Technologies LLC (États-Unis) – preuve de la capacité de HYT à assimiler et à mettre en œuvre des technologies internationales."
+            },
+            {
+              "year": "2018",
+              "tag": "Fourniture OEM",
+              "title": "Fourniture à Alstom et GE Diesel Locomotive Pvt. Ltd.",
+              "text": "HYT fournit des tours en fosse de nouvelle génération à Alstom et à GE Diesel Locomotive Pvt. Ltd., faisant son entrée dans la chaîne d’approvisionnement internationale des constructeurs de matériel roulant."
+            },
+            {
+              "year": "2018",
+              "tag": "Modèle de service",
+              "title": "Location avec opérateur (Machine as a Service) – ICF Chennai",
+              "text": "HYT inaugure un contrat de location avec opérateur pour ICF Chennai, en assumant l’entière responsabilité de la fourniture, de la mise en service, de l’exploitation et de la maintenance – un modèle de service inédit dans le secteur indien des machines ferroviaires. Voir [location avec opérateur](page:wet-leasing)."
+            },
+            {
+              "year": "2019",
+              "tag": "Acquisition de SAFOP",
+              "title": "Acquisition de SAFOP S.p.A., Italie – filiale à 100 %",
+              "text": "L’initiative stratégique la plus marquante de HYT – l’acquisition de SAFOP S.p.A., Italie (fondée en 1923), devenue filiale du groupe. Forte de plus de 1 400 machines vendues dans le monde et d’un siècle d’ingénierie de précision italienne, SAFOP a considérablement élargi la présence mondiale et le portefeuille technologique du groupe."
+            },
+            {
+              "year": "2019",
+              "tag": "Première nationale",
+              "title": "Première usine automatisée d’assemblage de roues et d’essieux de conception indienne – RWF Bangalore",
+              "text": "HYT développe et met en place la première usine automatisée d’assemblage de roues et d’essieux de conception indienne pour la Rail Wheel Factory de Bangalore – une étape majeure dans l’automatisation de la fabrication des essieux montés ferroviaires."
+            },
+            {
+              "year": "2019",
+              "tag": "Étape à l’export",
+              "title": "Fourniture à la SNCF – conforme aux normes européennes",
+              "text": "HYT développe et fournit des tours en fosse à la SNCF, conformément aux normes européennes – une réussite à l’export qui confirme la qualité de HYT sur la scène mondiale."
+            }
+          ]
+        },
+        {
+          "type": "timeline",
+          "layout": "split",
+          "id": "era-2020s",
+          "eyebrow": "Époque · années 2020",
+          "heading": "Nouveaux horizons",
+          "items": [
+            {
+              "year": "2020",
+              "tag": "Commande record",
+              "title": "Commande de 27 tours en fosse – Indian Railways",
+              "text": "HYT reçoit d’Indian Railways une commande de 27 tours en fosse – l’une des plus importantes commandes individuelles de tours à roues, qui conforte sa position de fournisseur privilégié pour les infrastructures de maintenance du matériel roulant d’Indian Railways."
+            },
+            {
+              "year": "2021",
+              "tag": "Afrique",
+              "title": "Tour en fosse CNC fourni au Gabon et tour à roues sur sol CNC au Ghana",
+              "text": "HYT fournit et met en service un tour en fosse CNC au Gabon, en Afrique centrale, en y créant un atelier de roues complet, et livre un tour à roues sur sol CNC au Ghana, en Afrique de l’Ouest – signe d’une forte demande sur le marché ferroviaire africain."
+            },
+            {
+              "year": "2021",
+              "tag": "Projets EPC",
+              "title": "Atelier de roues automatisé à New Katni et ligne d’usinage d’essieux à RWF Bangalore",
+              "text": "HYT réalise un projet EPC d’atelier de roues automatisé à New Katni (Madhya Pradesh) – l’une des plus grandes installations de maintenance des roues d’Indian Railways – et met en place une ligne complète d’usinage d’essieux à la Rail Wheel Factory de Bangalore."
+            },
+            {
+              "year": "2021",
+              "tag": "Innovation produit",
+              "title": "Premier tour en fosse tandem de conception indienne",
+              "text": "HYT développe le premier tour en fosse tandem de conception indienne – une configuration à deux machines pour les ateliers de roues à très haut débit, commandée par Delhi Metro Rail Corporation."
+            },
+            {
+              "year": "2022",
+              "tag": "Première nationale",
+              "title": "Premier dépôt de maintenance Vande Bharat – Shakur Basti, Northern Railway",
+              "text": "HYT met en place le premier dépôt de maintenance d’Inde dédié au Vande Bharat Express, à Shakur Basti (Northern Railway) – une réalisation majeure au moment où le train phare semi-grande vitesse du pays entre en service, avec des machines HYT au cœur de son entretien."
+            },
+            {
+              "year": "2024",
+              "tag": "Innovation produit",
+              "title": "Ligne d’assemblage et de désassemblage de bogies – Dibrugarh",
+              "text": "HYT livre une ligne d’assemblage et de désassemblage de bogies à Dibrugarh pour Northeast Frontier Railway – une solution d’assemblage semi-automatisée sophistiquée qui apporte des méthodes de fabrication modernes à l’une des régions ferroviaires les plus difficiles d’accès de l’Inde."
+            },
+            {
+              "year": "2024",
+              "tag": "Innovation produit",
+              "title": "Grandes machines horizontales pour la maintenance des rotors de turbines",
+              "text": "HYT et SAFOP remportent des commandes de grandes machines horizontales pour la maintenance des rotors de turbines."
+            },
+            {
+              "year": "2025",
+              "tag": "Présence mondiale",
+              "title": "Cinq salons internationaux sur quatre continents",
+              "text": "HYT expose à Middle East Rail à Dubaï, Eurasia Rail à Istanbul, Asia Pacific Rail à Bangkok, Africa Rail à Johannesburg et NT Expo à São Paulo – la plus large présence internationale de l’entreprise en une seule année."
+            },
+            {
+              "year": "2025",
+              "tag": "Présence mondiale",
+              "title": "Commandes du Moyen-Orient et de Turquie",
+              "text": "HYT remporte des commandes au Moyen-Orient et en Turquie pour des tours en fosse, des tours en fosse tandem, des tours à essieux et des tours verticaux."
+            },
+            {
+              "year": "2026",
+              "tag": "Reconnaissance",
+              "title": "La directrice générale distinguée aux Hurun Stars of the Deccan",
+              "text": "Mme Rajashri Teli, directrice générale, est distinguée aux Hurun Stars of the Deccan 2026, en reconnaissance de son rôle dans la croissance et l’expansion internationale du groupe."
+            },
+            {
+              "year": "2026",
+              "tag": "InnoTrans 2026",
+              "title": "Le groupe HYT expose à InnoTrans 2026, Berlin",
+              "text": "HYT Engineering et SAFOP S.p.A. exposent ensemble sous la bannière du groupe HYT à InnoTrans 2026 – hall 22A, stands 630 et 730, Messe Berlin, du 22 au 25 septembre 2026 – et présentent la gamme complète de tours à roues CNC au public de référence des technologies de transport."
+            }
+          ],
+          "variant": "muted"
+        },
+        {
+          "type": "cta",
+          "heading": "Écrivez avec nous le prochain chapitre",
+          "text": "Découvrez les carrières, partenariats et opportunités d’affaires au sein du groupe HYT.",
+          "primary": {
+            "label": "Découvrir les carrières",
+            "page": "career"
+          },
+          "secondary": {
+            "label": "Contacter notre équipe",
+            "page": "contact-us"
+          }
         }
       ]
     },

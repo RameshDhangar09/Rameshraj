@@ -155,12 +155,12 @@
     },
     "surface-wheel-lathe": {
       "nav": "Tour à roues sur sol CNC",
-      "title": "Tour à roues sur sol CNC YSL-08, YSL-12, YSL-21",
-      "description": "Les tours à roues sur sol CNC HYT YSL-08, YSL-12 et YSL-21 reprofilent essieux montés déposés et disques de frein au niveau du sol, sans fosse sous voie.",
+      "title": "Tour à roues sur sol CNC, série YSL",
+      "description": "Tours à roues sur sol CNC pour reprofiler les essieux montés ferroviaires déposés selon le profil de roulement d'origine (OEM), avec mesure intégrée avant et après usinage.",
       "eyebrow": "Tours à roues",
       "h1": "Tour à roues sur sol CNC pour essieux montés déposés – modèles YSL-08, YSL-12 et YSL-21",
-      "lede": "Un tour CNC installé au niveau du sol qui restaure le profil des roues et usine les disques de frein des essieux montés déposés du véhicule. Ni fosse ni travaux sous la voie : une simple fondation plane dans votre atelier.",
-      "summary": "Tour CNC au niveau du sol pour le reprofilage des essieux montés déposés et des disques de frein, disponible en modèles YSL-08, YSL-12 et YSL-21.",
+      "lede": "Reprofilage de haute précision des essieux montés ferroviaires déposés du matériel roulant – restauration du profil de roulement selon la spécification d'origine (OEM) exacte en un seul cycle automatisé.",
+      "summary": "Tours CNC au niveau du sol pour reprofiler les essieux montés déposés selon le profil de roulement d'origine (OEM) – modèles YSL-08, YSL-12 et YSL-21.",
       "related": [
         "underfloor-wheel-lathe",
         "portal-wheel-lathe",
@@ -171,61 +171,51 @@
         {
           "type": "text",
           "id": "overview",
-          "eyebrow": "La machine",
-          "heading": "Le reprofilage au niveau du sol",
+          "eyebrow": "Présentation du produit",
+          "heading": "Qu'est-ce que le tour à roues sur sol CNC ?",
           "paragraphs": [
-            "De nombreux ateliers déposent de toute façon les essieux montés du véhicule – lors de la révision des bogies, après un changement de roue ou à l'occasion de l'entretien des boîtes d'essieu et des roulements. Pour eux, usiner dans une fosse sous la voie n'apporte aucun avantage. Un tour à roues sur sol effectue ce travail au niveau du sol, là où l'essieu monté est facile d'accès, à inspecter et à manutentionner.",
-            "L'essieu monté est roulé sur rails jusque dans la machine, soulevé en position d'usinage puis serré. Les deux roues sont mesurées et tournées selon le profil prescrit ; sur les configurations adaptées, les disques de frein montés sur roue ou sur essieu sont également usinés dans le même serrage.",
-            "**Sur sol ou en fosse ?** Un [tour en fosse](page:underfloor-wheel-lathe) reprofile les roues sans sortir l'essieu monté du véhicule. Cela évite le démontage, mais exige une fosse sous la voie. Un tour sur sol ne nécessite aucune fosse et convient aux ateliers où les essieux montés sont déposés dans le cadre normal de la maintenance, ou lorsque le bâtiment ne permet pas de travaux de génie civil sous les rails."
+            "Le tour à roues sur sol CNC est une machine de haute précision conçue pour le reprofilage des essieux montés ferroviaires déposés du matériel roulant et usinés hors du véhicule.",
+            "Au fil des kilomètres, les profils de roulement des roues ferroviaires s'usent de manière irrégulière, ce qui provoque vibrations, bruit, baisse de l'efficacité du freinage et risques pour la sécurité. Le tour à roues sur sol CNC restaure le profil de chaque roue selon la spécification d'origine (OEM) exacte en un seul cycle automatisé.",
+            "Les essieux montés de tous les types de matériel roulant – locomotives, voitures, wagons, rames de métro et automotrices – peuvent être usinés sur ce tour. Un système de mesure entièrement intégré, avant et après usinage, garantit que chaque roue est usinée dans les tolérances exactes, en limitant l'enlèvement de matière et en prolongeant la durée de vie des roues."
           ],
           "image": "products/surface-wheel-lathe",
-          "image_alt": "Illustration d'exemple d'un tour à roues sur sol CNC avec un essieu monté déposé en position d'usinage",
+          "image_alt": "Tour à roues sur sol CNC HYT YSL-08 avec un essieu monté dans la machine",
           "layout": "image-right"
         },
         {
           "type": "features",
           "id": "advantages",
           "eyebrow": "Principaux avantages",
-          "heading": "Pourquoi les ateliers choisissent un tour sur sol",
-          "cols": 3,
+          "heading": "Pourquoi choisir la série YSL ?",
+          "cols": 2,
           "items": [
             {
+              "icon": "arrow-left-right",
+              "title": "Entrée et sortie automatiques des essieux montés",
+              "text": "Un transbordeur intégré fait entrer et sortir les essieux montés pour une productivité accrue."
+            },
+            {
               "icon": "bricks",
-              "title": "Aucune fosse nécessaire",
-              "text": "Installé sur une fondation plane au niveau du sol, ce qui simplifie le génie civil et convient aux bâtiments existants."
-            },
-            {
-              "icon": "disc",
-              "title": "Roues et disques de frein",
-              "text": "Les configurations adaptées usinent les disques de frein dans le même serrage que le profil de roue – de 250 à 700 mm de diamètre sur le YSL-08."
-            },
-            {
-              "icon": "eye",
-              "title": "Accès dégagé",
-              "text": "L'essieu monté est entièrement visible et à portée de main pour l'inspection, la mesure et les changements d'outils."
+              "title": "Construction robuste en fonte à grain fin",
+              "text": "Garantit une rigidité et un amortissement des vibrations maximaux."
             },
             {
               "icon": "rulers",
-              "title": "Mesure avant usinage",
-              "text": "Les cotes de roue sont relevées en premier, de sorte que la CNC n'enlève que la matière nécessaire pour restaurer le profil."
+              "title": "Mesure intelligente de l'usure par CNC",
+              "text": "Maintient une profondeur de passe optimale pour une précision d'usinage constante."
             },
             {
-              "icon": "arrows-expand",
-              "title": "Large plage d'essieux montés",
-              "text": "Le YSL-08 accepte des longueurs d'essieu de 1 200 à 2 750 mm selon l'écartement – un atout pour les ateliers qui servent des parcs hétérogènes."
-            },
-            {
-              "icon": "lightning-charge",
-              "title": "Une puissance adaptée à vos roues",
-              "text": "Deux motorisations principales au choix sur le YSL-08, pour adapter la puissance de coupe à la dureté des roues et à l'usure habituelle."
+              "icon": "wifi",
+              "title": "Télédiagnostic",
+              "text": "Permet un dépannage plus rapide et une assistance technique experte."
             }
           ]
         },
         {
           "type": "specs",
           "id": "specifications",
-          "heading": "Caractéristiques techniques",
-          "intro": "Données publiées pour le YSL-08. Les données des YSL-12 et YSL-21 sont fournies avec l'offre technique.",
+          "heading": "Données techniques",
+          "intro": "Données techniques des trois modèles de la gamme. Chaque machine est configurée selon votre écartement de voie, vos profils de roue et vos véhicules.",
           "columns": [
             "Paramètre",
             "YSL-08",
@@ -234,67 +224,103 @@
           ],
           "rows": [
             [
-              "Type de machine",
-              "Tour à roues sur sol CNC",
-              "Tour à roues sur sol CNC",
-              "Tour à roues sur sol CNC"
+              "Configuration de la machine",
+              "Essieu monté déposé du véhicule ; les deux roues reprofilées simultanément",
+              "Essieu monté déposé du véhicule ; les deux roues reprofilées simultanément",
+              "Essieu monté déposé du véhicule ; un seul porte-outil"
             ],
             [
-              "Diamètre de roulement maximal",
-              "1 250 mm",
-              "Sur demande",
-              "Sur demande"
+              "Puissance d'entraînement principal",
+              "2 × 45 ou 55 kW",
+              "2 × 37 kW",
+              "1 × 22 kW"
             ],
             [
-              "Diamètre de roulement minimal",
-              "Sur demande*",
-              "Sur demande",
-              "Sur demande"
+              "Vitesse de coupe en reprofilage",
+              "25–80 m/min",
+              "25–80 m/min",
+              "25–80 m/min"
+            ],
+            [
+              "Avance du porte-outil en reprofilage",
+              "0,1–3,5 mm/tr",
+              "0,1–3,5 mm/tr",
+              "0,1–3,5 mm/tr"
+            ],
+            [
+              "Vitesse rapide du porte-outil, deux axes",
+              "3 000 mm/min",
+              "3 000 mm/min",
+              "3 000 mm/min"
+            ],
+            [
+              "Section de copeau / enlèvement de matière max. en reprofilage",
+              "20 mm²",
+              "16 mm²",
+              "10 mm²"
+            ],
+            [
+              "Temps de cycle par essieu monté (de sol à sol)",
+              "14–16 min",
+              "16–18 min",
+              "50–60 min"
+            ],
+            [
+              "Écartement de voie",
+              "Selon besoin",
+              "Selon besoin",
+              "Selon besoin"
+            ],
+            [
+              "Diamètre de roulement, max. / min.",
+              "1 250 mm / 750 mm (selon l'écartement de voie)",
+              "1 250 mm / 750 mm (selon l'écartement de voie)",
+              "1 250 mm / 750 mm (selon l'écartement de voie)"
             ],
             [
               "Largeur de roue",
               "75–145 mm",
-              "Sur demande",
-              "Sur demande"
+              "75–145 mm",
+              "75–145 mm"
             ],
             [
-              "Longueur d'essieu",
-              "1 200–2 750 mm*",
-              "Sur demande",
-              "Sur demande"
+              "Charge à l'essieu max. / poids de l'essieu monté",
+              "Poids de l'essieu monté 50 kN",
+              "Poids de l'essieu monté 50 kN",
+              "–"
             ],
             [
-              "Poids maximal de l'essieu monté",
-              "50 kN",
-              "Sur demande",
-              "Sur demande"
+              "Écart de diamètre entre les deux roues",
+              "< 0,15 mm",
+              "< 0,3 mm",
+              "< 0,5 mm"
             ],
             [
-              "Diamètre d'usinage des disques de frein",
-              "250–700 mm",
-              "Sur demande",
-              "Sur demande"
+              "Précision du profil de roue par rapport au gabarit de référence",
+              "< 0,2 mm",
+              "< 0,2 mm",
+              "< 0,3 mm"
             ],
             [
-              "Entraînement principal",
-              "2 × 45 kW ou 2 × 55 kW",
-              "Sur demande",
-              "Sur demande"
+              "Faux-rond radial de la roue",
+              "< 0,2 mm",
+              "< 0,3 mm",
+              "< 0,3 mm"
             ],
             [
-              "Vitesse de coupe",
-              "25–80 m/min",
-              "Sur demande",
-              "Sur demande"
+              "Voile axial de la roue",
+              "< 0,2 mm",
+              "< 0,3 mm",
+              "< 0,3 mm"
             ],
             [
-              "Écartement de voie",
-              "Selon spécification du client*",
-              "Selon spécification du client*",
-              "Selon spécification du client*"
+              "État de surface du profil",
+              "< 12,5 μm Ra",
+              "< 12,5 μm Ra",
+              "< 12,5 μm Ra"
             ]
           ],
-          "note": "Les valeurs marquées * dépendent de l'écartement de voie et de la configuration du client. Les valeurs définitives, y compris le diamètre de roulement minimal, sont confirmées dans l'offre technique."
+          "note": "« – » signifie qu'aucune valeur n'est publiée pour ce modèle. Les valeurs définitives sont confirmées dans l'offre technique."
         },
         {
           "type": "text",
@@ -302,7 +328,7 @@
           "eyebrow": "Gamme de modèles",
           "heading": "YSL-08",
           "paragraphs": [
-            "Le YSL-08 est le modèle de référence de la gamme. Il accepte des essieux montés d'un diamètre de roulement jusqu'à 1 250 mm, d'une largeur de roue de 75 à 145 mm et d'un poids jusqu'à 50 kN, et usine des disques de frein de 250 à 700 mm de diamètre. Un entraînement principal de 2 × 45 kW ou 2 × 55 kW et des vitesses de coupe de 25 à 80 m/min permettent d'adapter la machine aux roues que vous reprofilez le plus souvent."
+            "Le YSL-08 est le modèle le plus productif de la gamme. Deux porte-outils reprofilent les deux roues simultanément, avec un entraînement principal de 2 × 45 ou 55 kW et une section de copeau jusqu'à 20 mm². Un essieu monté est traité en 14 à 16 minutes de sol à sol, avec un écart de diamètre entre les deux roues inférieur à 0,15 mm."
           ]
         },
         {
@@ -311,8 +337,11 @@
           "eyebrow": "Gamme de modèles",
           "heading": "YSL-12",
           "paragraphs": [
-            "Le YSL-12 est un autre modèle de la gamme de tours à roues sur sol. Ses capacités et sa configuration sont définies avec vous lors de la consultation et confirmées dans l'offre technique. Indiquez-nous les essieux montés les plus grands, les plus petits et les plus lourds de votre parc, et nous vous dirons si le YSL-12 est le bon choix."
-          ]
+            "Le YSL-12 reprofile lui aussi les deux roues simultanément, avec un entraînement principal de 2 × 37 kW et une section de copeau jusqu'à 16 mm². Il couvre les mêmes diamètres de roulement (750–1 250 mm) et largeurs de roue (75–145 mm) que le YSL-08, avec un temps de sol à sol de 16 à 18 minutes par essieu monté."
+          ],
+          "image": "products/surface-wheel-lathe-ysl-12",
+          "image_alt": "Tour à roues sur sol CNC HYT YSL-12 avec un essieu monté bridé entre les poupées",
+          "layout": "image-right"
         },
         {
           "type": "text",
@@ -320,13 +349,11 @@
           "eyebrow": "Gamme de modèles",
           "heading": "YSL-21",
           "paragraphs": [
-            "Le YSL-21 complète la gamme. Comme pour le YSL-12, les données techniques sont fournies sur demande. Précisez-nous les véhicules et les profils de roue que la machine doit couvrir : nous vous transmettrons les données accompagnées d'une recommandation de modèle pour votre atelier."
-          ]
-        },
-        {
-          "type": "notice",
-          "variant": "review",
-          "text": "En attente d'informations de HYT : données techniques des YSL-12 et YSL-21, et confirmation du diamètre de roulement minimal du YSL-08 (les sources indiquent 750 mm et 540 mm)."
+            "Le YSL-21 travaille avec un seul porte-outil et un entraînement principal de 1 × 22 kW, avec une section de copeau jusqu'à 10 mm². Il accepte des diamètres de roulement de 750 à 1 250 mm et des largeurs de roue de 75 à 145 mm, avec un temps de sol à sol de 50 à 60 minutes par essieu monté."
+          ],
+          "image": "products/surface-wheel-lathe-ysl-21",
+          "image_alt": "Tour à roues sur sol CNC HYT YSL-21",
+          "layout": "image-left"
         },
         {
           "type": "steps",
@@ -425,15 +452,15 @@
           "items": [
             {
               "image": "products/surface-wheel-lathe",
-              "caption": "Illustration d'exemple d'un tour à roues sur sol CNC"
+              "caption": "Tour à roues sur sol CNC HYT YSL-08 avec un essieu monté dans la machine"
             },
             {
-              "image": "products/wheelset-profile-closeup",
-              "caption": "Illustration d'exemple d'une table de roulement et d'un boudin reprofilés"
+              "image": "products/surface-wheel-lathe-ysl-12",
+              "caption": "Tour à roues sur sol CNC HYT YSL-12"
             },
             {
-              "image": "projects/railway-wheel-shop",
-              "caption": "Illustration d'exemple de la manutention d'essieux montés dans un atelier d'essieux"
+              "image": "products/surface-wheel-lathe-ysl-21",
+              "caption": "Tour à roues sur sol CNC HYT YSL-21"
             },
             {
               "image": "company/quality-inspection",
@@ -452,7 +479,7 @@
             },
             {
               "q": "Quel modèle choisir ?",
-              "a": "Partez de votre plus grand diamètre de roulement, de votre essieu le plus long et de votre essieu monté le plus lourd. Le YSL-08 couvre des diamètres de roulement jusqu'à 1 250 mm et des essieux montés jusqu'à 50 kN. Les données des YSL-12 et YSL-21 sont fournies sur demande, accompagnées de notre recommandation."
+              "a": "Partez de votre plus grand diamètre de roulement, de votre essieu monté le plus lourd et de votre volume journalier. Les trois modèles acceptent des diamètres de roulement de 750 à 1 250 mm (selon l'écartement de voie) et des largeurs de roue de 75 à 145 mm. Le YSL-08 offre le cycle le plus court (14 à 16 minutes de sol à sol), suivi du YSL-12 avec 16 à 18 minutes et du YSL-21 à un seul porte-outil avec 50 à 60 minutes. Nous confirmons le modèle adapté dans notre recommandation."
             },
             {
               "q": "Peut-on usiner les disques de frein ?",
@@ -473,10 +500,10 @@
     "underfloor-wheel-lathe": {
       "nav": "Tour en fosse CNC (YUL-08)",
       "title": "Tour en fosse CNC YUL-08 pour essieux montés",
-      "description": "Tour en fosse CNC HYT YUL-08 : reprofilage des deux roues d'un essieu monté sous le véhicule, sans dépose des bogies ni de la timonerie. Entraînement 4 × 15 kW.",
+      "description": "Tour en fosse CNC pour le reprofilage in situ des essieux montés ferroviaires. Quatre galets d'entraînement de 15 kW, diamètres de roulement jusqu'à 1 500 mm et charges à l'essieu jusqu'à 400 kN.",
       "eyebrow": "Tours à roues",
       "h1": "Tour en fosse CNC YUL-08 – reprofilage essieu par essieu sans dépose des bogies",
-      "lede": "Le YUL-08 reprofile les roues usées sans sortir l'essieu monté du véhicule. Le train est amené au-dessus de la fosse, usiné et remis en service en un seul poste – souvent en quelques heures.",
+      "lede": "Reprofilage simultané et in situ des deux roues d'un essieu monté – sans déposer du véhicule l'essieu monté, la timonerie de frein du bogie ni les couvercles de boîtes d'essieu.",
       "summary": "Tour en fosse à un essieu qui reprofile les deux roues d'un essieu monté sous le véhicule, sans dépose des bogies ni de la timonerie de frein.",
       "related": [
         "underfloor-wheel-lathe-yugl",
@@ -488,100 +515,145 @@
         {
           "type": "text",
           "id": "overview",
-          "eyebrow": "La machine",
-          "heading": "Entretenir les roues sans démonter le train",
+          "eyebrow": "Présentation du produit",
+          "heading": "Qu'est-ce que le tour en fosse CNC ?",
           "paragraphs": [
-            "Méplats, tables de roulement creusées et boudins amincis font partie du quotidien ferroviaire. La solution traditionnelle – déposer le bogie, sortir l'essieu monté et l'envoyer à l'atelier d'essieux – coûte des jours de disponibilité et beaucoup de main-d'œuvre. Le YUL-08 fait l'inverse : il amène la machine à l'essieu monté.",
-            "Installé dans une fosse sous un tronçon de voie en alignement, le tour soulève l'essieu des rails sur ses propres galets d'entraînement, bride solidement la boîte d'essieu et usine les deux roues simultanément. Timonerie de frein, moteurs de traction et châssis de bogie restent en place. En fin de cycle, l'essieu monté est redescendu sur les rails et l'essieu suivant est positionné au-dessus de la machine.",
-            "Le véhicule restant attelé et assemblé, un seul YUL-08 peut maintenir un parc important dans les tolérances de profil et réduire le temps d'immobilisation de chaque train."
+            "Le tour en fosse CNC (modèle YUL-08) est une machine automatique destinée au reprofilage simultané et in situ des roues neuves ou usées des véhicules ferroviaires. Les essieux montés des locomotives, voitures, wagons, tramways et véhicules de métro peuvent être usinés sans être sortis du matériel roulant, et les disques de frein montés sur ces essieux peuvent être usinés sur la même machine.",
+            "Installée dans une fosse sous le niveau de la voie, la machine soulève et centre l'essieu monté sur quatre galets d'entraînement synchronisés, puis reprofile les deux roues simultanément à l'aide de deux porte-outils CNC. Chaque galet est relié à un moteur à courant alternatif de 15 kW par un réducteur renforcé, et des variateurs de vitesse numériques assurent une variation continue de la vitesse, si bien que la machine vient à bout des points durs et des méplats.",
+            "Les galets d'entraînement flottent individuellement pour compenser les irrégularités des roues et maintenir un contact permanent, tandis qu'un dispositif individuel de vérin et de maintien assure un appui et un bridage rigides de l'essieu ou de la boîte d'essieu. Des palpeurs à contact mesurent le profil et le diamètre avant et après tournage, et le logiciel CNC exploite ces données d'usure pour proposer la profondeur de passe la plus économique."
           ],
           "image": "products/underfloor-wheel-lathe-yul-08",
-          "image_alt": "Illustration d'exemple du tour en fosse YUL-08 avec un essieu monté de locomotive reposant sur les galets d'entraînement",
+          "image_alt": "Tour en fosse CNC HYT YUL-08 avec un essieu monté sur ses galets d'entraînement",
           "layout": "image-right"
         },
         {
           "type": "features",
           "id": "advantages",
           "eyebrow": "Principaux avantages",
-          "heading": "Pourquoi les ateliers choisissent un tour en fosse",
+          "heading": "Pourquoi choisir le YUL-08 ?",
           "cols": 3,
           "items": [
             {
-              "icon": "clock-history",
-              "title": "Immobilisation réduite",
-              "text": "Ni dépose de bogie ni démontage d'essieu monté : les véhicules reprennent le service dans le même poste."
+              "icon": "train-front",
+              "title": "Usinage in situ",
+              "text": "Reprofile les essieux montés sans les déposer du véhicule : la timonerie de frein du bogie et les couvercles de boîtes d'essieu restent en place."
             },
             {
-              "icon": "arrows-collapse",
-              "title": "Les deux roues à la fois",
-              "text": "Les roues gauche et droite sont usinées simultanément, avec des diamètres appariés dans la tolérance requise."
+              "icon": "bricks",
+              "title": "Structure en fonte à grain fin",
+              "text": "Assure la stabilité dimensionnelle et structurelle, avec un amortissement efficace des vibrations."
+            },
+            {
+              "icon": "arrow-down-up",
+              "title": "Galets d'entraînement à flottement individuel",
+              "text": "Compensent les irrégularités des roues et maintiennent un contact permanent pendant toute la passe."
             },
             {
               "icon": "rulers",
-              "title": "Enlèvement de matière minimal",
-              "text": "La mesure automatique avant usinage permet à la CNC de ne prendre que la profondeur nécessaire pour restaurer le profil."
+              "title": "Mesure électronique de l'usure",
+              "text": "Le logiciel CNC traite les données d'usure et propose la profondeur de passe la plus économique."
             },
             {
-              "icon": "train-front",
-              "title": "Une machine, un parc hétérogène",
-              "text": "Locomotives, voitures, automotrices et wagons sont traités grâce à des adaptateurs appropriés et à des programmes de profils enregistrés."
+              "icon": "lock",
+              "title": "Dispositif individuel de vérin et de maintien",
+              "text": "Appui et bridage rigides de l'essieu ou de la boîte d'essieu, adaptés aux véhicules à charge à l'essieu élevée."
             },
             {
-              "icon": "shield-check",
-              "title": "Fonctionnement sûr",
-              "text": "Zone de travail protégée, verrouillages de sécurité et commandes claires pour l'opérateur au niveau de la voie."
+              "icon": "disc",
+              "title": "Usinage des disques de frein en option",
+              "text": "Un outillage et des adaptateurs à changement rapide éliminent les irrégularités des disques de frein des deux côtés dans le même serrage."
             },
             {
-              "icon": "gear-wide-connected",
-              "title": "Conçu pour la maintenance",
-              "text": "Des composants industriels standard et l'assistance pièces de rechange HYT limitent les temps d'arrêt."
+              "icon": "wifi",
+              "title": "Télédiagnostic et téléservices",
+              "text": "Un logiciel à architecture ouverte sous Windows permet la télémaintenance depuis le siège de HYT."
             }
           ]
         },
         {
           "type": "specs",
           "id": "specifications",
-          "heading": "Caractéristiques techniques",
-          "intro": "Données principales de la configuration standard. La machine est adaptée à l'écartement de voie, aux profils de roue et aux types de véhicules du client.",
+          "heading": "Données techniques",
+          "intro": "Données techniques fournies par HYT. Chaque machine est configurée selon votre écartement de voie, vos profils de roue et vos véhicules.",
           "columns": [
             "Paramètre",
             "YUL-08"
           ],
           "rows": [
             [
-              "Type de machine",
-              "Tour à roues en fosse CNC, à un essieu"
+              "Configuration de la machine",
+              "Tour en fosse unique ; essieu monté usiné in situ, y compris les disques de frein montés sur l'essieu"
             ],
             [
-              "Puissance des moteurs d'entraînement principal",
-              "4 × 15 kW"
+              "Puissance d'entraînement principal",
+              "4 × 15 kW sur galets de friction"
             ],
             [
-              "Roues usinées simultanément",
-              "2 (un essieu monté)"
+              "Vitesse de coupe en reprofilage",
+              "20–120 m/min"
             ],
             [
-              "Plage de diamètres de roulement",
-              "Sur demande*"
+              "Avance du porte-outil en reprofilage",
+              "0,1–2,5 mm/tr"
+            ],
+            [
+              "Vitesse rapide du porte-outil, deux axes",
+              "3 000 mm/min"
+            ],
+            [
+              "Section de copeau / enlèvement de matière max. en reprofilage",
+              "10 mm²"
+            ],
+            [
+              "Temps de cycle par essieu monté",
+              "35 minutes"
             ],
             [
               "Écartement de voie",
-              "Voie large, normale ou métrique – selon spécification du client*"
+              "Selon besoin"
             ],
             [
-              "Charge à l'essieu maximale",
-              "Sur demande"
+              "Diamètre de roulement, max. / min.",
+              "1 500 mm / 540 mm (selon l'écartement de voie)"
             ],
             [
-              "Profils",
-              "Profils de roue spécifiés par le client, enregistrés dans la CNC"
+              "Largeur de roue",
+              "75–155 mm"
             ],
             [
-              "Système de mesure",
-              "Mesure automatique du diamètre, de la hauteur et de l'épaisseur du boudin"
+              "Écartement des essieux montés, min. – max.",
+              "1 800–3 200 mm"
+            ],
+            [
+              "Charge à l'essieu max. / poids de l'essieu monté",
+              "Charge à l'essieu de 300 / 400 kN"
+            ],
+            [
+              "Écart de diamètre entre les deux roues",
+              "< 0,10 mm"
+            ],
+            [
+              "Écart de diamètre entre les quatre roues d'un bogie",
+              "< 0,3 mm"
+            ],
+            [
+              "Précision du profil de roue par rapport au gabarit de référence",
+              "< 0,2 mm"
+            ],
+            [
+              "Faux-rond radial de la roue",
+              "< 0,1 mm"
+            ],
+            [
+              "Voile axial de la roue",
+              "< 0,15 mm"
+            ],
+            [
+              "État de surface du profil",
+              "< 12,5 μm Ra"
             ]
           ],
-          "note": "Les valeurs marquées * dépendent de l'écartement de voie et de la configuration du client. Les valeurs définitives sont confirmées dans l'offre technique."
+          "note": "Les valeurs qui dépendent de l'écartement de voie sont signalées dans le tableau. Les valeurs définitives sont confirmées dans l'offre technique."
         },
         {
           "type": "steps",
@@ -594,7 +666,7 @@
               "text": "Le véhicule est amené au-dessus de la fosse et l'essieu monté sélectionné est arrêté au-dessus de la machine."
             },
             {
-              "title": "Levage et bridage",
+              "title": "Levage et serrage",
               "text": "Les galets d'entraînement montent pour reprendre la charge de la roue ; la boîte d'essieu est bridée pour maintenir l'essieu monté stable."
             },
             {
@@ -680,7 +752,7 @@
           "items": [
             {
               "image": "products/underfloor-wheel-lathe-yul-08",
-              "caption": "Illustration d'exemple du YUL-08 installé dans une fosse de maintenance"
+              "caption": "Tour en fosse CNC HYT YUL-08 avec un essieu monté sur ses galets d'entraînement"
             },
             {
               "image": "products/wheelset-profile-closeup",
@@ -727,12 +799,12 @@
     },
     "underfloor-wheel-lathe-yugl": {
       "nav": "Tour en fosse CNC (YUGL)",
-      "title": "Tour en fosse CNC YUGL – plateforme automatisée",
-      "description": "Tour en fosse CNC HYT YUGL : reprofilage des essieux montés sous le véhicule sur une plateforme conçue pour plus d'automatisation. Modèle apparenté au YUL-08.",
+      "title": "Tour en fosse CNC YUGL",
+      "description": "Le tour en fosse phare de HYT reprofile simultanément les deux roues d'un essieu monté, sans déposer l'essieu monté du matériel roulant.",
       "eyebrow": "Tours à roues",
-      "h1": "Tour en fosse CNC YUGL – la nouvelle génération de tour en fosse, pour davantage d'automatisation",
-      "lede": "Comme le YUL-08, le YUGL reprofile les essieux montés sans les sortir du véhicule. Il s'adresse aux dépôts qui souhaitent automatiser une plus grande partie du cycle – positionnement, mesure et données.",
-      "summary": "Tour en fosse de nouvelle génération pour le reprofilage sous le véhicule, destiné aux dépôts recherchant un degré d'automatisation plus élevé.",
+      "h1": "Tour en fosse CNC YUGL – le modèle phare de HYT pour le reprofilage des roues in situ",
+      "lede": "Le tour à roues phare de HYT – reprofilage simultané des deux roues d'un essieu monté sans déposer l'essieu monté du matériel roulant.",
+      "summary": "Le tour en fosse phare de HYT : reprofilage simultané des deux roues d'un essieu monté sans le déposer du matériel roulant.",
       "related": [
         "underfloor-wheel-lathe",
         "tandem-underfloor-wheel-lathe-yuglx",
@@ -743,109 +815,154 @@
         {
           "type": "text",
           "id": "overview",
-          "eyebrow": "La machine",
-          "heading": "Le même principe, plus d'automatisation",
+          "eyebrow": "Présentation du produit",
+          "heading": "Qu'est-ce que le tour en fosse CNC ?",
           "paragraphs": [
-            "Comme tout tour en fosse, le YUGL est installé dans une fosse sous la voie. Le véhicule est amené au-dessus de la machine, l'essieu monté est soulevé des rails et les deux roues sont reprofilées pendant que timonerie de frein, moteurs de traction et châssis de bogie restent en place.",
-            "Alors que le [YUL-08](page:underfloor-wheel-lathe) est la machine à un essieu éprouvée de HYT, le YUGL se positionne comme la plateforme de nouvelle génération. Il est destiné aux dépôts où le tour enchaîne de nombreux cycles par jour, où les opérateurs changent d'un poste à l'autre et où les données d'usinage doivent alimenter les dossiers de maintenance. Le degré d'automatisation, les équipements de mesure et les interfaces de données sont définis avec chaque client.",
-            "Vous comparez les deux modèles ? Nos ingénieurs d'application vous présenteront les différences au regard de votre parc, de votre charge de travail et des systèmes de votre dépôt."
+            "Le tour en fosse CNC (modèle YUGL) est le produit phare de HYT – une machine automatique conçue pour le profilage simultané des roues neuves ou usées des véhicules ferroviaires sans déposer les essieux montés du matériel roulant.",
+            "Installée dans une fosse sous le niveau de la voie, la machine soulève et centre chaque essieu monté à l'aide de galets d'entraînement synchronisés, puis reprofile avec précision les deux roues simultanément grâce à deux porte-outils CNC, en restaurant le profil de la table de roulement selon sa spécification d'origine.",
+            "Les essieux montés de tous les types de matériel roulant – locomotives, voitures, wagons, rames de métro et automotrices – peuvent être usinés sur cette machine à l'état assemblé. Un système de mesure entièrement intégré, avant et après usinage, garantit que chaque roue est usinée dans les tolérances exactes, en limitant l'enlèvement de matière et en prolongeant la durée de vie des roues."
           ],
           "image": "products/underfloor-wheel-lathe-yugl",
-          "image_alt": "Illustration d'exemple d'un tour en fosse YUGL dans la fosse d'un dépôt, sous un véhicule voyageurs",
+          "image_alt": "Tour en fosse CNC HYT YUGL avec galets d'entraînement et deux porte-outils CNC",
           "layout": "image-right"
-        },
-        {
-          "type": "notice",
-          "variant": "review",
-          "text": "En attente de confirmation de HYT : différences techniques entre le YUGL et le YUL-08 (niveau d'automatisation, entraînements, système de mesure, capacités) et maintien ou non des deux modèles au catalogue. Le positionnement présenté sur cette page est provisoire."
         },
         {
           "type": "features",
           "id": "advantages",
           "eyebrow": "Principaux avantages",
-          "heading": "Ce que le YUGL est conçu pour apporter",
+          "heading": "Pourquoi choisir le YUGL ?",
           "cols": 3,
           "items": [
             {
-              "icon": "cpu",
-              "title": "Automatisation configurable",
-              "text": "Les séquences, du positionnement jusqu'à la mesure finale, peuvent être automatisées pour réduire les interventions manuelles entre les cycles."
-            },
-            {
-              "icon": "clipboard-data",
-              "title": "Historique d'usinage",
-              "text": "Mesures avant et après usinage enregistrées pour chaque essieu monté, au service de la maintenance conditionnelle."
-            },
-            {
-              "icon": "people",
-              "title": "Des résultats constants d'un poste à l'autre",
-              "text": "Le guidage de l'opérateur et les profils enregistrés rendent les résultats moins dépendants de l'expérience individuelle."
-            },
-            {
-              "icon": "clock-history",
-              "title": "Aucun démontage",
-              "text": "L'essieu monté reste sous le véhicule : les trains reprennent le service dans le même poste."
+              "icon": "bricks",
+              "title": "Construction robuste à double montant",
+              "text": "Réalisée en fonte à grain fin pour une rigidité et une précision d'usinage maximales."
             },
             {
               "icon": "arrows-collapse",
-              "title": "Les deux roues ensemble",
-              "text": "Roues gauche et droite usinées simultanément pour des diamètres appariés."
+              "title": "Levage synchronisé de l'essieu monté",
+              "text": "Quatre galets d'entraînement soulèvent et centrent automatiquement l'essieu monté avec une régulation de précision."
             },
             {
-              "icon": "train-lightrail-front",
-              "title": "Pensé pour les parcs très sollicités",
-              "text": "Adapté aux dépôts de métro et d'automotrices où les reprofilages sont fréquents et les créneaux de maintenance courts."
+              "icon": "rulers",
+              "title": "Mesure intelligente de l'usure par CNC",
+              "text": "Optimise la profondeur de passe pour un reprofilage homogène des roues et une durée de vie prolongée des outils."
+            },
+            {
+              "icon": "display",
+              "title": "Commande centralisée de la machine",
+              "text": "Un poste opérateur unique gère la mesure, l'usinage et la surveillance du processus."
+            },
+            {
+              "icon": "tools",
+              "title": "Système d'outillage à changement rapide",
+              "text": "Réduit le temps de réglage et augmente la productivité globale de la machine."
             }
           ]
         },
         {
           "type": "specs",
           "id": "specifications",
-          "heading": "Caractéristiques techniques",
-          "intro": "Le YUGL est configuré pour chaque projet. Les données sont confirmées dans l'offre technique.",
+          "heading": "Données techniques",
+          "intro": "Données techniques fournies par HYT. Chaque machine est configurée selon votre écartement de voie, vos profils de roue et vos véhicules.",
           "columns": [
             "Paramètre",
-            "YUGL"
+            "YUGL 30",
+            "YUGL 15"
           ],
           "rows": [
             [
-              "Type de machine",
-              "Tour à roues en fosse CNC, à un essieu"
+              "Configuration de la machine",
+              "Tour en fosse unique ; essieu monté reprofilé in situ, sans démontage",
+              "Tour en fosse unique pour véhicules urbains ; essieu monté reprofilé in situ"
             ],
             [
-              "Roues usinées simultanément",
-              "2 (un essieu monté)"
+              "Puissance d'entraînement principal",
+              "4 × 13,5 kW sur galets de friction",
+              "4 × 9 kW sur galets de friction"
             ],
             [
-              "Entraînement principal",
-              "Sur demande"
+              "Vitesse de coupe en reprofilage",
+              "20–120 m/min (en option 20–300 m/min)",
+              "20–120 m/min (en option 20–300 m/min)"
             ],
             [
-              "Plage de diamètres de roulement",
-              "Sur demande*"
+              "Avance du porte-outil en reprofilage",
+              "0,1–2,5 mm/tr",
+              "0,1–2,5 mm/tr"
+            ],
+            [
+              "Vitesse rapide du porte-outil, deux axes",
+              "Chariot longitudinal 5 000 mm/min ; coulisseau vertical 3 000 mm/min",
+              "Chariot longitudinal 5 000 mm/min ; coulisseau vertical 3 000 mm/min"
+            ],
+            [
+              "Section de copeau / enlèvement de matière max. en reprofilage",
+              "10 mm²",
+              "6 mm²"
+            ],
+            [
+              "Temps de cycle par essieu monté",
+              "30 minutes",
+              "30 minutes"
             ],
             [
               "Écartement de voie",
-              "Selon spécification du client*"
+              "1 000–1 676 mm",
+              "1 000–1 676 mm"
             ],
             [
-              "Charge à l'essieu maximale",
-              "Sur demande"
+              "Diamètre de roulement, max. / min.",
+              "1 600 mm / 580 mm",
+              "1 250 mm / 375 mm"
             ],
             [
-              "Système de mesure",
-              "Sur demande"
+              "Largeur de roue",
+              "75–155 mm",
+              "75–155 mm"
             ],
             [
-              "Degré d'automatisation",
-              "Configuré selon les exigences du client"
+              "Écartement des essieux montés, min. – max.",
+              "1 700–3 200 mm",
+              "1 700–3 200 mm"
             ],
             [
-              "Interface de données avec les systèmes du dépôt",
-              "Sur demande"
+              "Charge à l'essieu max. / poids de l'essieu monté",
+              "30 t (40 t sur demande)",
+              "18 t"
+            ],
+            [
+              "Écart de diamètre entre les deux roues",
+              "< 0,10 mm",
+              "< 0,10 mm"
+            ],
+            [
+              "Écart de diamètre entre les quatre roues d'un bogie",
+              "< 0,3 mm",
+              "< 0,3 mm"
+            ],
+            [
+              "Précision du profil de roue par rapport au gabarit de référence",
+              "< 0,2 mm",
+              "< 0,2 mm"
+            ],
+            [
+              "Faux-rond radial de la roue",
+              "< 0,10 mm",
+              "< 0,10 mm"
+            ],
+            [
+              "Voile axial de la roue",
+              "< 0,15 mm",
+              "< 0,15 mm"
+            ],
+            [
+              "État de surface du profil",
+              "< 12,5 μm Ra",
+              "< 12,5 μm Ra"
             ]
           ],
-          "note": "Les valeurs marquées * dépendent de l'écartement de voie et de la configuration du client. Les valeurs définitives sont confirmées dans l'offre technique."
+          "note": "Les valeurs définitives sont confirmées dans l'offre technique."
         },
         {
           "type": "steps",
@@ -858,7 +975,7 @@
               "text": "Le véhicule est amené au-dessus de la fosse et l'essieu monté sélectionné est arrêté au-dessus de la machine."
             },
             {
-              "title": "Levage et bridage",
+              "title": "Levage et serrage",
               "text": "Les galets d'entraînement reprennent la charge de la roue et la boîte d'essieu est bridée."
             },
             {
@@ -939,7 +1056,7 @@
           "items": [
             {
               "image": "products/underfloor-wheel-lathe-yugl",
-              "caption": "Illustration d'exemple du tour en fosse YUGL"
+              "caption": "Tour en fosse CNC HYT YUGL avec galets d'entraînement et deux porte-outils CNC"
             },
             {
               "image": "projects/metro-depot",
@@ -962,7 +1079,7 @@
           "items": [
             {
               "q": "En quoi le YUGL diffère-t-il du YUL-08 ?",
-              "a": "Tous deux sont des tours en fosse à un essieu qui reprofilent les essieux montés sous le véhicule. Le [YUL-08](page:underfloor-wheel-lathe) est le modèle éprouvé ; le YUGL se positionne comme la plateforme de nouvelle génération, avec un degré d'automatisation plus élevé. Les différences détaillées dépendent de la configuration – demandez-nous une comparaison point par point pour votre parc."
+              "a": "Tous deux sont des tours en fosse à un essieu qui reprofilent les essieux montés sous le véhicule. Le YUGL est proposé en version YUGL 30 (4 × 13,5 kW, diamètres de roulement de 580 à 1 600 mm, charge à l'essieu de 30 t) et YUGL 15 pour véhicules urbains. Le [YUL-08](page:underfloor-wheel-lathe) dispose d'un entraînement de 4 × 15 kW sur galets flottants indépendants, de diamètres de roulement de 540 à 1 500 mm et de charges à l'essieu de 300 / 400 kN, et peut également usiner les disques de frein. Nos ingénieurs vous recommanderont le modèle adapté à votre parc."
             },
             {
               "q": "Faut-il sortir l'essieu monté du véhicule ?",
@@ -987,10 +1104,10 @@
     "tandem-underfloor-wheel-lathe": {
       "nav": "Tour en fosse tandem CNC (YUL-12T)",
       "title": "Tour en fosse tandem CNC YUL-12T",
-      "description": "Tour en fosse tandem HYT YUL-12T : deux machines synchronisées reprofilent les deux essieux d'un bogie sous le véhicule. Diamètre de roulement 540–1 500 mm.",
+      "description": "Deux tours en fosse en tandem qui reprofilent simultanément et in situ les deux essieux montés d'un bogie. Entraxe réglable de 1 800 à 3 100 mm.",
       "eyebrow": "Tours à roues",
       "h1": "Tour en fosse tandem CNC YUL-12T – les deux essieux montés d'un bogie en un seul serrage",
-      "lede": "Deux tours en fosse synchronisés travaillent côte à côte pour reprofiler un bogie complet sans le sortir de sous le véhicule. Une machine est fixe ; l'autre se déplace pour s'adapter à l'empattement.",
+      "lede": "Deux tours en fosse qui fonctionnent comme un seul – reprofilage simultané et in situ de deux essieux montés sous le véhicule, avec un temps de reprofilage réduit jusqu'à moitié.",
       "summary": "Deux tours en fosse synchronisés qui reprofilent les deux essieux montés d'un bogie en un seul serrage et réduisent le temps de reprofilage par véhicule.",
       "related": [
         "underfloor-wheel-lathe",
@@ -1002,108 +1119,145 @@
         {
           "type": "text",
           "id": "overview",
-          "eyebrow": "La machine",
-          "heading": "Deux essieux montés, un seul serrage",
+          "eyebrow": "Présentation du produit",
+          "heading": "Qu'est-ce que le tour en fosse tandem CNC ?",
           "paragraphs": [
-            "Sur un tour en fosse simple, les essieux montés d'un bogie sont usinés l'un après l'autre : le véhicule est déplacé, l'essieu suivant est positionné et le cycle recommence. Le YUL-12T supprime cette étape. Deux machines installées dans une même fosse travaillent en tandem synchronisé, de sorte que les deux essieux montés d'un bogie sont reprofilés ensemble.",
-            "Une unité est fixe ; la seconde se déplace le long de la fosse pour s'adapter à l'empattement du bogie. Une même installation peut ainsi servir des véhicules aux conceptions de bogie différentes – des locomotives aux voitures et aux automotrices – sans modification des fondations.",
-            "Selon les données HYT, le fonctionnement en tandem réduit le temps de reprofilage de 50 % pour les voitures et de 33 % pour les locomotives par rapport à une machine simple. Pour une plateforme orientée vers une automatisation plus poussée, comparez avec le [YUGLX](page:tandem-underfloor-wheel-lathe-yuglx)."
+            "Le tour en fosse tandem CNC (modèle YUL-12T) est un ensemble de deux tours en fosse installés sur une fondation commune et partageant les mêmes infrastructures. Deux essieux montés sous le véhicule sont reprofilés simultanément in situ, sans déposer les essieux montés, la timonerie de frein du bogie, les couvercles de boîtes d'essieu ni aucun autre composant du véhicule ferroviaire.",
+            "Une machine est fixe et la seconde est fixe ou mobile, de sorte que l'ensemble s'adapte aux différents empattements des bogies. L'entraxe standard entre les deux machines va de 1 800 à 3 100 mm et peut être modifié selon un besoin spécifique.",
+            "Les deux systèmes CNC communiquent entre eux et échangent des données, ce qui maintient l'écart de diamètre entre les quatre roues d'un même bogie en dessous de 0,3 mm. Les machines peuvent également fonctionner en commande indépendante : un seul essieu monté peut ainsi être usiné lorsque cela suffit, et les disques de frein des deux essieux montés peuvent être usinés simultanément."
           ],
           "image": "products/tandem-underfloor-wheel-lathe-yul-12t",
-          "image_alt": "Illustration d'exemple de deux tours en fosse synchronisés sous un bogie",
+          "image_alt": "Tour en fosse tandem CNC HYT YUL-12T – deux tours en fosse sur une fondation commune",
           "layout": "image-right"
         },
         {
           "type": "features",
           "id": "advantages",
           "eyebrow": "Principaux avantages",
-          "heading": "Ce que le fonctionnement en tandem change au dépôt",
+          "heading": "Pourquoi choisir le YUL-12T ?",
           "cols": 3,
           "items": [
             {
-              "icon": "stopwatch",
-              "title": "Temps de reprofilage réduit",
-              "text": "50 % de temps en moins pour les voitures et 33 % en moins pour les locomotives par rapport à une machine simple (données HYT)."
+              "icon": "clock-history",
+              "title": "Deux essieux montés en un cycle",
+              "text": "Le temps de reprofilage est réduit jusqu'à 50 %, et le matériel roulant reprend plus vite le service commercial."
             },
             {
-              "icon": "arrows-move",
-              "title": "Empattement réglable",
-              "text": "L'unité mobile se positionne en fonction du bogie : une seule fosse sert plusieurs types de véhicules."
+              "icon": "arrows-expand",
+              "title": "Entraxe réglable",
+              "text": "De 1 800 à 3 100 mm en standard, pour couvrir les différents empattements des bogies."
             },
             {
-              "icon": "train-front",
-              "title": "Moins de mouvements du véhicule",
-              "text": "Pas de manœuvre entre les deux essieux d'un bogie – moins de temps, moins de manutention et moins de risques."
+              "icon": "diagram-3",
+              "title": "Commande synchronisée ou indépendante",
+              "text": "Les deux systèmes CNC communiquent et échangent des données, et chaque machine peut aussi travailler seule."
             },
             {
-              "icon": "aspect-ratio",
-              "title": "Large plage de diamètres",
-              "text": "Des diamètres de roulement de 540 à 1 500 mm couvrent une grande variété de véhicules."
+              "icon": "bullseye",
+              "title": "Précision à l'échelle du bogie",
+              "text": "L'écart de diamètre entre les quatre roues d'un même bogie est maintenu en dessous de 0,3 mm."
             },
             {
-              "icon": "speedometer",
-              "title": "Vitesse de coupe flexible",
-              "text": "20–120 m/min selon le matériau de la roue et son état d'usure."
+              "icon": "building",
+              "title": "Infrastructure commune",
+              "text": "Les deux machines partagent une fondation et des raccordements uniques, ce qui simplifie l'installation."
             },
             {
-              "icon": "arrows-collapse",
-              "title": "Des roues appariées sur tout le bogie",
-              "text": "Les deux essieux montés sont mesurés et usinés dans le même serrage, ce qui facilite la maîtrise de l'appariement des diamètres sur le bogie."
+              "icon": "disc",
+              "title": "Usinage simultané des disques de frein",
+              "text": "Les disques des deux essieux montés peuvent être usinés dans le même cycle grâce à un outillage à changement rapide."
+            },
+            {
+              "icon": "rulers",
+              "title": "Mesure par palpeur ou par laser",
+              "text": "Mesure automatique du profil et du diamètre avant et après tournage, avec enregistrement des données dans le système CNC."
             }
           ]
         },
         {
           "type": "specs",
           "id": "specifications",
-          "heading": "Caractéristiques techniques",
-          "intro": "Données principales de la configuration standard. La machine est adaptée à l'écartement de voie, aux empattements de bogie et aux profils de roue du client.",
+          "heading": "Données techniques",
+          "intro": "Données techniques fournies par HYT. Chaque machine est configurée selon votre écartement de voie, vos profils de roue et vos véhicules.",
           "columns": [
             "Paramètre",
             "YUL-12T"
           ],
           "rows": [
             [
-              "Type de machine",
-              "Tour à roues en fosse tandem CNC – deux machines synchronisées"
+              "Configuration de la machine",
+              "Deux tours en fosse sur une fondation commune ; entraxe de 1 800 à 3 100 mm en standard"
             ],
             [
-              "Configuration",
-              "Une machine fixe, une machine mobile s'adaptant à l'empattement du bogie"
+              "Puissance d'entraînement principal",
+              "4 × 15 kW sur galets de friction, par machine"
             ],
             [
-              "Essieux montés usinés par serrage",
-              "2 (un bogie)"
+              "Vitesse de coupe en reprofilage",
+              "20–120 m/min (en option 20–300 m/min)"
             ],
             [
-              "Puissance des moteurs d'entraînement principal",
-              "4 × 15 kW"
+              "Avance du porte-outil en reprofilage",
+              "0,1–2,5 mm/tr"
             ],
             [
-              "Plage de diamètres de roulement",
-              "540–1 500 mm"
+              "Vitesse rapide du porte-outil, deux axes",
+              "3 000 mm/min"
             ],
             [
-              "Vitesse de coupe",
-              "20–120 m/min"
+              "Section de copeau / enlèvement de matière max. en reprofilage",
+              "10 mm²"
             ],
             [
-              "Plage d'empattements de bogie",
-              "Sur demande*"
+              "Temps de cycle par essieu monté",
+              "35 minutes"
             ],
             [
               "Écartement de voie",
-              "Selon spécification du client*"
+              "Selon besoin"
             ],
             [
-              "Charge à l'essieu maximale",
-              "Sur demande"
+              "Diamètre de roulement, max. / min.",
+              "1 500 mm / 540 mm (selon l'écartement de voie)"
             ],
             [
-              "Temps de reprofilage par rapport à une machine simple",
-              "50 % plus court pour les voitures, 33 % plus court pour les locomotives (données HYT)"
+              "Largeur de roue",
+              "75–155 mm"
+            ],
+            [
+              "Écartement des essieux montés, min. – max.",
+              "1 800–3 200 mm"
+            ],
+            [
+              "Charge à l'essieu max. / poids de l'essieu monté",
+              "Charge à l'essieu de 300 / 400 kN"
+            ],
+            [
+              "Écart de diamètre entre les deux roues",
+              "< 0,10 mm"
+            ],
+            [
+              "Écart de diamètre entre les quatre roues d'un bogie",
+              "< 0,3 mm"
+            ],
+            [
+              "Précision du profil de roue par rapport au gabarit de référence",
+              "< 0,2 mm"
+            ],
+            [
+              "Faux-rond radial de la roue",
+              "< 0,10 mm"
+            ],
+            [
+              "Voile axial de la roue",
+              "< 0,15 mm"
+            ],
+            [
+              "État de surface du profil",
+              "< 12,5 μm Ra"
             ]
           ],
-          "note": "Les valeurs marquées * dépendent de l'écartement de voie et de la configuration du client. Les valeurs définitives sont confirmées dans l'offre technique."
+          "note": "Les valeurs qui dépendent de l'écartement de voie sont signalées dans le tableau. Les valeurs définitives sont confirmées dans l'offre technique."
         },
         {
           "type": "steps",
@@ -1120,7 +1274,7 @@
               "text": "La machine mobile se déplace le long de la fosse pour s'aligner sur le second essieu monté."
             },
             {
-              "title": "Levage et bridage",
+              "title": "Levage et serrage",
               "text": "Les galets d'entraînement reprennent la charge des deux essieux montés et les boîtes d'essieu sont bridées."
             },
             {
@@ -1203,7 +1357,7 @@
           "items": [
             {
               "image": "products/tandem-underfloor-wheel-lathe-yul-12t",
-              "caption": "Illustration d'exemple du tour en fosse tandem YUL-12T"
+              "caption": "Tour en fosse tandem CNC HYT YUL-12T – deux tours en fosse sur une fondation commune"
             },
             {
               "image": "projects/pit-foundation-civil-works",
@@ -1226,7 +1380,7 @@
           "items": [
             {
               "q": "Combien de temps un tour tandem fait-il gagner ?",
-              "a": "Selon les données HYT, le temps de reprofilage est réduit de 50 % pour les voitures et de 33 % pour les locomotives par rapport à un tour en fosse simple. Les gains réels dépendent de vos véhicules et de l'organisation de votre dépôt."
+              "a": "L'usinage des deux essieux montés d'un bogie en un seul cycle réduit le temps de reprofilage jusqu'à 50 % par rapport à une machine en fosse simple. Les gains réels dépendent de vos véhicules et de l'organisation de votre dépôt."
             },
             {
               "q": "Comment la machine s'adapte-t-elle aux différents empattements de bogie ?",
@@ -1238,7 +1392,7 @@
             },
             {
               "q": "Quelle est la différence entre le YUL-12T et le YUGLX ?",
-              "a": "Tous deux sont des tours en fosse tandem. Le YUL-12T est le modèle éprouvé, avec les données présentées sur cette page. Le [YUGLX](page:tandem-underfloor-wheel-lathe-yuglx) se positionne comme la plateforme tandem de nouvelle génération, avec un degré d'automatisation plus élevé. Nous comparerons les deux pour votre parc."
+              "a": "Tous deux sont des tours en fosse tandem. Le YUL-12T dispose d'un entraînement de 4 × 15 kW par machine, d'un entraxe standard de 1 800 à 3 100 mm et de diamètres de roulement de 540 à 1 500 mm. Sur le [YUGLX](page:tandem-underfloor-wheel-lathe-yuglx), la machine mobile se déplace sur des guidages linéaires à commande CNC ; il couvre une plage d'empattement de 1 700 à 3 200 mm et, en version YUGLX 30, des diamètres de roulement jusqu'à 1 600 mm. Nos ingénieurs vous recommanderont le modèle adapté à votre parc."
             },
             {
               "q": "Une machine simple suffit-elle pour mon dépôt ?",
@@ -1250,12 +1404,12 @@
     },
     "tandem-underfloor-wheel-lathe-yuglx": {
       "nav": "Tour en fosse tandem CNC (YUGLX)",
-      "title": "Tour en fosse tandem CNC YUGLX – plateforme automatisée",
-      "description": "Tour en fosse tandem HYT YUGLX : des machines synchronisées reprofilent un bogie complet sous le véhicule, sur une plateforme conçue pour plus d'automatisation.",
+      "title": "Tour en fosse tandem CNC YUGLX",
+      "description": "Deux tours en fosse CNC synchronisés qui reprofilent simultanément tous les essieux montés d'une voiture ou d'une locomotive, sans dételer la rame.",
       "eyebrow": "Tours à roues",
-      "h1": "Tour en fosse tandem CNC YUGLX – la plateforme tandem de nouvelle génération pour le reprofilage automatisé des bogies",
-      "lede": "Le YUGLX applique le principe tandem – les deux essieux montés d'un bogie en un seul serrage – sur une plateforme destinée aux dépôts qui veulent réduire les interventions manuelles pour le positionnement, la mesure et la gestion des données.",
-      "summary": "Tour en fosse tandem de nouvelle génération qui reprofile un bogie complet sous le véhicule, conçu pour un degré d'automatisation plus élevé.",
+      "h1": "Tour en fosse tandem CNC YUGLX – deux tours synchronisés pour voitures et locomotives complètes",
+      "lede": "Deux tours en fosse synchronisés travaillant en tandem – reprofilage de deux essieux montés d'une voiture ou d'une locomotive complète sans la dételer de la rame.",
+      "summary": "Deux tours en fosse CNC synchronisés qui reprofilent les essieux montés d'une voiture ou d'une locomotive complète sans dételer la rame.",
       "related": [
         "tandem-underfloor-wheel-lathe",
         "underfloor-wheel-lathe-yugl",
@@ -1266,109 +1420,154 @@
         {
           "type": "text",
           "id": "overview",
-          "eyebrow": "La machine",
-          "heading": "Un bogie complet par cycle, avec plus d'automatisation",
+          "eyebrow": "Présentation du produit",
+          "heading": "Qu'est-ce que le tour en fosse tandem CNC ?",
           "paragraphs": [
-            "Dans un dépôt très actif, le tour à roues est souvent le goulot d'étranglement. Un tour en fosse tandem y remédie en usinant ensemble les deux essieux montés d'un bogie, le véhicule restant assemblé au-dessus de la fosse.",
-            "Le YUGLX se positionne comme la plateforme tandem de nouvelle génération, aux côtés du modèle éprouvé [YUL-12T](page:tandem-underfloor-wheel-lathe). Il est destiné aux parcs pour lesquels la machine fonctionne de manière quasi continue, et où la constance des cycles et l'exhaustivité de l'historique d'usinage comptent autant que le temps de coupe. Le périmètre d'automatisation, les équipements de mesure et les interfaces de données sont définis avec chaque client.",
-            "Son équivalent à un essieu est le [YUGL](page:underfloor-wheel-lathe-yugl)."
+            "Le tour en fosse tandem CNC (modèle YUGLX) est la solution de reprofilage de roues la plus avancée de HYT – l'association de deux tours en fosse entièrement CNC fonctionnant en mode tandem parfaitement synchronisé pour reprofiler simultanément plusieurs essieux montés d'une voiture ou d'une locomotive entière.",
+            "Une machine est fixe tandis que l'autre est mobile, entraînée sur des guidages linéaires à commande CNC, afin de s'adapter aux différents empattements des configurations de bogies des voitures, locomotives, rames de métro et automotrices.",
+            "La configuration tandem est particulièrement précieuse pour les rames dont les voitures ne peuvent pas être séparées. Le train entier peut être amené sur la machine et le reprofilage des roues d'une voiture complète réalisé en moins de deux heures, ce qui réduit considérablement le temps d'immobilisation hors service commercial."
           ],
           "image": "products/tandem-underfloor-wheel-lathe-yuglx",
-          "image_alt": "Illustration d'exemple d'un tour en fosse tandem YUGLX sous un bogie d'automotrice",
+          "image_alt": "Tour en fosse tandem CNC HYT YUGLX – deux tours en fosse synchronisés dans la fosse d'un dépôt",
           "layout": "image-right"
-        },
-        {
-          "type": "notice",
-          "variant": "review",
-          "text": "En attente de confirmation de HYT : différences techniques entre le YUGLX et le YUL-12T (niveau d'automatisation, entraînements, capacités, plage d'empattements) et maintien ou non des deux modèles au catalogue. Le positionnement présenté sur cette page est provisoire."
         },
         {
           "type": "features",
           "id": "advantages",
           "eyebrow": "Principaux avantages",
-          "heading": "Ce que le YUGLX est conçu pour apporter",
+          "heading": "Pourquoi choisir le YUGLX ?",
           "cols": 3,
           "items": [
             {
-              "icon": "stopwatch",
-              "title": "Un bogie entier par serrage",
-              "text": "Deux essieux montés usinés ensemble, sans déplacement du véhicule entre les essieux."
-            },
-            {
               "icon": "cpu",
-              "title": "Automatisation configurable",
-              "text": "Les étapes, du positionnement à la mesure finale, peuvent être automatisées selon les besoins du dépôt."
+              "title": "Commandes CNC indépendantes",
+              "text": "Des systèmes CNC individuels se synchronisent sans à-coups pour un usinage en tandem efficace."
             },
             {
-              "icon": "clipboard-data",
-              "title": "Historique complet",
-              "text": "Mesures des quatre roues enregistrées par bogie pour l'analyse des tendances et la planification de la maintenance."
+              "icon": "bricks",
+              "title": "Construction robuste de type caisson",
+              "text": "Une structure en fonte rigide garantit stabilité, amortissement des vibrations et précision d'usinage."
             },
             {
-              "icon": "arrows-move",
-              "title": "Flexibilité d'empattement",
-              "text": "Écartement des machines configuré selon les empattements de bogie de votre parc."
+              "icon": "clock-history",
+              "title": "Immobilisation des trains réduite",
+              "text": "L'usinage simultané réduit le temps de maintenance jusqu'à 50 %, même lorsque les voitures ne peuvent pas être séparées."
             },
             {
-              "icon": "people",
-              "title": "Moins dépendant de l'opérateur",
-              "text": "Des cycles guidés et reproductibles garantissent des résultats constants d'un poste à l'autre."
+              "icon": "display",
+              "title": "Commande centralisée de la machine",
+              "text": "Un poste opérateur unique gère la mesure, l'usinage et la surveillance du processus."
             },
             {
-              "icon": "shield-check",
-              "title": "Travail en fosse sécurisé",
-              "text": "Zones de travail protégées et verrouillages de sécurité autour des deux machines."
+              "icon": "diagram-3",
+              "title": "Prêt pour l'Industrie 4.0",
+              "text": "Diagnostic intelligent intégré, surveillance en temps réel et connectivité numérique pour une productivité accrue."
             }
           ]
         },
         {
           "type": "specs",
           "id": "specifications",
-          "heading": "Caractéristiques techniques",
-          "intro": "Le YUGLX est configuré pour chaque projet. Les données sont confirmées dans l'offre technique.",
+          "heading": "Données techniques",
+          "intro": "Données techniques fournies par HYT. Chaque machine est configurée selon votre écartement de voie, vos profils de roue et vos véhicules.",
           "columns": [
             "Paramètre",
-            "YUGLX"
+            "YUGLX 30",
+            "YUGLX 15"
           ],
           "rows": [
             [
-              "Type de machine",
-              "Tour à roues en fosse tandem CNC"
+              "Configuration de la machine",
+              "Deux tours en fosse synchronisés sur un bâti support commun ; l'un fixe, l'autre à déplacement longitudinal pour s'adapter au bogie",
+              "Deux tours en fosse synchronisés sur un bâti support commun, pour véhicules urbains ; l'un fixe, l'autre à déplacement longitudinal"
             ],
             [
-              "Essieux montés usinés par serrage",
-              "2 (un bogie)"
+              "Puissance d'entraînement principal",
+              "4 × 13,5 kW sur galets de friction, par machine",
+              "4 × 9 kW sur galets de friction, par machine"
             ],
             [
-              "Entraînement principal",
-              "Sur demande"
+              "Vitesse de coupe en reprofilage",
+              "20–120 m/min (en option 20–300 m/min)",
+              "20–120 m/min (en option 20–300 m/min)"
             ],
             [
-              "Plage de diamètres de roulement",
-              "Sur demande*"
+              "Avance du porte-outil en reprofilage",
+              "0,1–2,5 mm/tr",
+              "0,1–2,5 mm/tr"
             ],
             [
-              "Plage d'empattements de bogie",
-              "Sur demande*"
+              "Vitesse rapide du porte-outil, deux axes",
+              "Chariot longitudinal 5 000 mm/min ; coulisseau vertical 3 000 mm/min",
+              "Chariot longitudinal 5 000 mm/min ; coulisseau vertical 3 000 mm/min"
+            ],
+            [
+              "Section de copeau / enlèvement de matière max. en reprofilage",
+              "10 mm²",
+              "6 mm²"
+            ],
+            [
+              "Temps de cycle par essieu monté",
+              "30 minutes",
+              "30 minutes"
             ],
             [
               "Écartement de voie",
-              "Selon spécification du client*"
+              "1 000–1 676 mm",
+              "1 000–1 676 mm"
             ],
             [
-              "Charge à l'essieu maximale",
-              "Sur demande"
+              "Diamètre de roulement, max. / min.",
+              "1 600 mm / 580 mm",
+              "1 250 mm / 375 mm"
             ],
             [
-              "Degré d'automatisation",
-              "Configuré selon les exigences du client"
+              "Largeur de roue",
+              "75–155 mm",
+              "75–155 mm"
             ],
             [
-              "Interface de données avec les systèmes du dépôt",
-              "Sur demande"
+              "Empattement, min. – max.",
+              "1 700–3 200 mm",
+              "1 700–3 200 mm"
+            ],
+            [
+              "Charge à l'essieu max. / poids de l'essieu monté",
+              "30 t (40 t sur demande)",
+              "18 t"
+            ],
+            [
+              "Écart de diamètre entre les deux roues",
+              "< 0,10 mm",
+              "< 0,10 mm"
+            ],
+            [
+              "Écart de diamètre entre les quatre roues d'un bogie",
+              "< 0,3 mm",
+              "< 0,3 mm"
+            ],
+            [
+              "Précision du profil de roue par rapport au gabarit de référence",
+              "< 0,2 mm",
+              "< 0,2 mm"
+            ],
+            [
+              "Faux-rond radial de la roue",
+              "< 0,10 mm",
+              "< 0,10 mm"
+            ],
+            [
+              "Voile axial de la roue",
+              "< 0,15 mm",
+              "< 0,15 mm"
+            ],
+            [
+              "État de surface du profil",
+              "< 12,5 μm Ra",
+              "< 12,5 μm Ra"
             ]
           ],
-          "note": "Les valeurs marquées * dépendent de l'écartement de voie et de la configuration du client. Les valeurs définitives sont confirmées dans l'offre technique."
+          "note": "Les valeurs définitives sont confirmées dans l'offre technique."
         },
         {
           "type": "steps",
@@ -1382,10 +1581,10 @@
             },
             {
               "title": "Alignement",
-              "text": "Les machines sont alignées sur les deux essieux montés du bogie."
+              "text": "La machine mobile se déplace sur des guidages linéaires à commande CNC pour s'adapter à l'empattement du bogie."
             },
             {
-              "title": "Levage et bridage",
+              "title": "Levage et serrage",
               "text": "Les galets d'entraînement reprennent la charge des roues et les boîtes d'essieu sont bridées."
             },
             {
@@ -1462,7 +1661,7 @@
           "items": [
             {
               "image": "products/tandem-underfloor-wheel-lathe-yuglx",
-              "caption": "Illustration d'exemple du tour en fosse tandem YUGLX"
+              "caption": "Tour en fosse tandem CNC HYT YUGLX – deux tours en fosse synchronisés dans la fosse d'un dépôt"
             },
             {
               "image": "projects/metro-depot",
@@ -1485,7 +1684,7 @@
           "items": [
             {
               "q": "En quoi le YUGLX diffère-t-il du YUL-12T ?",
-              "a": "Tous deux sont des tours en fosse tandem qui usinent les deux essieux montés d'un bogie en un seul serrage. Le [YUL-12T](page:tandem-underfloor-wheel-lathe) est le modèle éprouvé ; le YUGLX se positionne comme la plateforme de nouvelle génération, avec un degré d'automatisation plus élevé. Demandez-nous une comparaison basée sur votre parc."
+              "a": "Tous deux sont des tours en fosse tandem. Sur le YUGLX, une machine est fixe et l'autre se déplace sur des guidages linéaires à commande CNC ; il est proposé en version YUGLX 30 (diamètres de roulement de 580 à 1 600 mm, charge à l'essieu de 30 t) et YUGLX 15 pour véhicules urbains, avec une plage d'empattement de 1 700 à 3 200 mm. Le [YUL-12T](page:tandem-underfloor-wheel-lathe) dispose d'un entraînement de 4 × 15 kW par machine, d'un entraxe standard de 1 800 à 3 100 mm et de diamètres de roulement de 540 à 1 500 mm. Nos ingénieurs vous recommanderont le modèle adapté à votre parc."
             },
             {
               "q": "Pourquoi choisir un tour tandem plutôt qu'une machine à un essieu ?",
@@ -1509,11 +1708,11 @@
     },
     "portal-wheel-lathe": {
       "nav": "Tour à roues à portique CNC",
-      "title": "Tour à portique CNC YPL-02 pour essieux montés déposés",
-      "description": "Tour à roues à portique CNC HYT YPL-02 : reprofilage par passes lourdes d'essieux déposés, roulement 750–1 250 mm, entraînement 2 × 55 kW, jusqu'à 50 kN.",
+      "title": "Tour à roues à portique CNC YPL-02",
+      "description": "Tour à roues CNC de construction à portique avec passage traversant des essieux montés. Reprofilage simultané des deux roues en 8 à 12 minutes par essieu monté.",
       "eyebrow": "Tours à roues",
       "h1": "Tour à roues à portique CNC YPL-02 pour essieux montés déposés du véhicule",
-      "lede": "Une machine à portique rigide pour l'atelier d'essieux. Elle tourne les essieux montés déposés par des passes lourdes et stables, pour une remise en état efficace et précise des tables de roulement fortement usées.",
+      "lede": "Une machine automatique de construction à portique avec passage traversant des essieux montés – conçue pour les environnements de reprofilage de roues ferroviaires les plus exigeants.",
       "summary": "Tour à portique rigide pour le reprofilage des essieux montés déposés en atelier d'essieux, avec un entraînement principal de 2 × 55 kW pour les passes lourdes.",
       "related": [
         "roller-type-portal-wheel-lathe",
@@ -1525,108 +1724,126 @@
         {
           "type": "text",
           "id": "overview",
-          "eyebrow": "La machine",
-          "heading": "Conçu pour l'atelier d'essieux",
+          "eyebrow": "Présentation du produit",
+          "heading": "Qu'est-ce que le tour à roues à portique CNC ?",
           "paragraphs": [
-            "Lorsque des essieux montés sont déposés pour révision, remplacement de roue ou réparation lourde, ils arrivent à l'atelier d'essieux en flux continu – souvent avec des méplats profonds, de l'écaillage ou une usure en creux qui imposent un enlèvement de matière important. Le YPL-02 est conçu pour ce travail.",
-            "Sa structure en portique porte les chariots porte-outils au-dessus de l'essieu monté et transmet les efforts de coupe à un bâti fermé et rigide. Avec un entraînement principal de 2 × 55 kW et une section de copeau de 32 à 50 mm², la machine réalise des passes lourdes sur des tables de roulement dures et usées tout en respectant précisément le profil.",
-            "L'essieu monté est roulé sur rails jusque dans la machine, amené en position d'usinage et bridé ; les deux roues sont ensuite mesurées et tournées. Pour une conception à portique apparentée, découvrez le [tour à roues à portique à galets CNC YPL-04](page:roller-type-portal-wheel-lathe)."
+            "Le tour à roues à portique CNC HYT (YPL-02) est spécialement conçu pour le reprofilage simultané des roues neuves ou usées de toute la gamme des véhicules ferroviaires. Son architecture à portique place les têtes de coupe au-dessus de l'essieu monté, ce qui permet un chargement de l'essieu monté par passage traversant.",
+            "Toutes les structures porteuses sont réalisées en fonte à grain fin à haute résistance, ce qui leur confère une stabilité dimensionnelle, une précision géométrique et un amortissement des vibrations exceptionnels – des qualités essentielles pour tenir les tolérances serrées exigées par l'exploitation ferroviaire moderne."
           ],
           "image": "products/portal-wheel-lathe",
-          "image_alt": "Illustration d'exemple d'un tour à roues à portique CNC usinant un essieu monté déposé dans un atelier d'essieux",
+          "image_alt": "Tour à roues à portique CNC HYT YPL-02 avec un opérateur à la machine",
           "layout": "image-right"
         },
         {
           "type": "features",
           "id": "advantages",
           "eyebrow": "Principaux avantages",
-          "heading": "Pourquoi les ateliers d'essieux choisissent un tour à portique",
+          "heading": "Pourquoi choisir le YPL-02 ?",
           "cols": 3,
           "items": [
             {
-              "icon": "lightning-charge",
-              "title": "Capacité de passes lourdes",
-              "text": "Entraînement principal de 2 × 55 kW et section de copeau de 32 à 50 mm² pour éliminer efficacement les défauts profonds."
+              "icon": "building",
+              "title": "Construction à portique robuste",
+              "text": "Une conception à portique renforcée garantit une rigidité et une stabilité d'usinage supérieures."
+            },
+            {
+              "icon": "arrow-left-right",
+              "title": "Manutention automatique des essieux montés",
+              "text": "Un système intégré de passage traversant augmente la productivité et réduit le temps de manutention."
             },
             {
               "icon": "bricks",
-              "title": "Bâti en portique rigide",
-              "text": "Une structure fermée pour une coupe stable et des profils reproductibles sur les tables de roulement dures."
-            },
-            {
-              "icon": "arrows-expand",
-              "title": "Large plage d'essieux montés",
-              "text": "Diamètres de roulement de 750 à 1 250 mm, largeurs de roue de 75 à 145 mm et longueurs d'essieu de 1 850 à 2 750 mm, selon l'écartement."
+              "title": "Structure en fonte à haute rigidité",
+              "text": "La construction en fonte à grain fin offre une précision et un amortissement des vibrations exceptionnels."
             },
             {
               "icon": "rulers",
-              "title": "Des profils économes en matière",
-              "text": "La mesure avant usinage permet à la CNC de ne prendre que la profondeur nécessaire, préservant ainsi la durée de vie de la roue."
+              "title": "Mesure intelligente de l'usure",
+              "text": "La compensation électronique de l'usure maintient une profondeur de passe optimale et des profils de roue homogènes."
             },
             {
-              "icon": "diagram-3",
-              "title": "S'intègre au flux de l'atelier d'essieux",
-              "text": "Fonctionne avec les voies d'essieux montés, les stations de mesure et les presses dans un processus continu."
-            },
-            {
-              "icon": "geo-alt",
-              "title": "Pas de fosse sous une voie de circulation",
-              "text": "L'essieu monté vient à la machine : aucune fosse sous voie n'est nécessaire dans l'atelier d'essieux."
+              "icon": "shield-check",
+              "title": "Sécurité d'exploitation renforcée",
+              "text": "Le retrait automatique de l'outil protège la machine en cas de coupure de courant et d'arrêt d'urgence."
             }
           ]
         },
         {
           "type": "specs",
           "id": "specifications",
-          "heading": "Caractéristiques techniques",
-          "intro": "Données principales de la configuration standard. La machine est adaptée à l'écartement et aux profils de roue du client.",
+          "heading": "Données techniques",
+          "intro": "Données techniques fournies par HYT. Chaque machine est configurée selon votre écartement de voie, vos profils de roue et vos véhicules.",
           "columns": [
             "Paramètre",
             "YPL-02"
           ],
           "rows": [
             [
-              "Type de machine",
-              "Tour à roues à portique CNC pour essieux montés déposés"
+              "Configuration de la machine",
+              "Construction à portique avec passage traversant des essieux montés"
             ],
             [
-              "Diamètre de roulement maximal",
-              "1 250 mm"
+              "Puissance d'entraînement principal",
+              "2 × 55 kW"
             ],
             [
-              "Diamètre de roulement minimal",
-              "750 mm*"
+              "Vitesse de coupe en reprofilage",
+              "25–80 m/min"
+            ],
+            [
+              "Avance du porte-outil en reprofilage",
+              "0,1–4 mm/tr"
+            ],
+            [
+              "Vitesse rapide du porte-outil, deux axes",
+              "4 500 mm/min"
+            ],
+            [
+              "Section de copeau / enlèvement de matière max. en reprofilage",
+              "32–50 mm²"
+            ],
+            [
+              "Temps de cycle par essieu monté",
+              "8–12 min"
+            ],
+            [
+              "Écartement de voie",
+              "Selon besoin"
+            ],
+            [
+              "Diamètre de roulement, max. / min.",
+              "1 250 mm / 750 mm (selon l'écartement de voie)"
             ],
             [
               "Largeur de roue",
               "75–145 mm"
             ],
             [
-              "Longueur d'essieu",
-              "1 850–2 750 mm*"
+              "Charge à l'essieu max. / poids de l'essieu monté",
+              "Poids de l'essieu monté 50 kN"
             ],
             [
-              "Poids maximal de l'essieu monté",
-              "50 kN"
+              "Écart de diamètre entre les deux roues",
+              "< 0,15 mm"
             ],
             [
-              "Entraînement principal",
-              "2 × 55 kW"
+              "Précision du profil de roue par rapport au gabarit de référence",
+              "< 0,2 mm"
             ],
             [
-              "Section de copeau",
-              "32–50 mm²"
+              "Faux-rond radial de la roue",
+              "< 0,1 mm"
             ],
             [
-              "Vitesse de coupe",
-              "Sur demande"
+              "Voile axial de la roue",
+              "< 0,2 mm"
             ],
             [
-              "Écartement de voie",
-              "Selon spécification du client*"
+              "État de surface du profil",
+              "< 12,5 μm Ra"
             ]
           ],
-          "note": "Les valeurs marquées * dépendent de l'écartement de voie et de la configuration du client. Les valeurs définitives sont confirmées dans l'offre technique."
+          "note": "Les valeurs qui dépendent de l'écartement de voie sont signalées dans le tableau. Les valeurs définitives sont confirmées dans l'offre technique."
         },
         {
           "type": "steps",
@@ -1725,7 +1942,7 @@
           "items": [
             {
               "image": "products/portal-wheel-lathe",
-              "caption": "Illustration d'exemple du tour à roues à portique YPL-02"
+              "caption": "Tour à roues à portique CNC HYT YPL-02 avec un opérateur à la machine"
             },
             {
               "image": "projects/railway-wheel-shop",
@@ -1760,7 +1977,7 @@
             },
             {
               "q": "En quoi le YPL-02 diffère-t-il du YPL-04 ?",
-              "a": "Tous deux sont des tours à portique pour essieux montés déposés. Le [YPL-04](page:roller-type-portal-wheel-lathe) est la version à galets. Nous recommandons l'un ou l'autre après analyse de vos essieux montés et de votre flux de travail."
+              "a": "Tous deux sont des tours à portique à passage traversant pour essieux montés déposés. Le YPL-02 dispose d'un entraînement principal de 2 × 55 kW pour les passes lourdes et traite un essieu monté en 8 à 12 minutes. Le [YPL-04](page:roller-type-portal-wheel-lathe) entraîne l'essieu monté par six galets de friction et convient aux essieux montés équipés d'un réducteur ou de roulements à cartouche extérieurs. Nous recommandons l'un ou l'autre après examen de vos essieux montés et de votre organisation."
             },
             {
               "q": "Le YPL-02 peut-il s'intégrer à un atelier d'essieux automatisé ?",
@@ -1773,11 +1990,11 @@
     "roller-type-portal-wheel-lathe": {
       "nav": "Tour à roues à portique à galets CNC",
       "title": "Tour à roues à portique à galets CNC YPL-04",
-      "description": "Tour à portique à galets HYT YPL-04 : reprofilage CNC d'essieux montés déposés, supportés et entraînés sur galets, pour ateliers d'essieux et de révision.",
+      "description": "Tour à roues à portique avec entraînement par six galets de friction et passage traversant des essieux montés. Les deux roues reprofilées en 12 à 16 minutes par essieu monté.",
       "eyebrow": "Tours à roues",
       "h1": "Tour à roues à portique à galets CNC YPL-04 – essieux montés déposés supportés et entraînés sur galets",
-      "lede": "Le YPL-04 applique le principe du portique aux essieux montés déposés, avec un dispositif à galets qui supporte et fait tourner l'essieu monté pendant l'usinage.",
-      "summary": "Tour à roues à portique à galets pour le reprofilage des essieux montés déposés, en complément du YPL-02 dans les ateliers d'essieux et de révision.",
+      "lede": "Un tour à roues automatique de construction à portique, avec entraînement par galets de friction et passage traversant des essieux montés – pour le reprofilage simultané des essieux montés déposés.",
+      "summary": "Tour à roues à portique avec entraînement par six galets de friction et passage traversant, pour reprofiler les essieux montés déposés en 12 à 16 minutes.",
       "related": [
         "portal-wheel-lathe",
         "surface-wheel-lathe",
@@ -1788,105 +2005,137 @@
         {
           "type": "text",
           "id": "overview",
-          "eyebrow": "La machine",
-          "heading": "L'usinage à portique avec entraînement par galets",
+          "eyebrow": "Présentation du produit",
+          "heading": "Qu'est-ce que le tour à roues à portique à galets CNC ?",
           "paragraphs": [
-            "Les tours à roues à portique usinent des essieux montés déposés du véhicule. Dans la version à galets, l'essieu monté est supporté et mis en rotation par des galets – le principe d'entraînement bien connu des tours en fosse – tandis que les chariots porte-outils travaillent depuis la structure en portique.",
-            "Le YPL-04 s'adresse ainsi aux ateliers qui veulent associer l'accessibilité d'une machine à portique pour essieux déposés à un entraînement par galets. Le choix entre le YPL-04 et le [YPL-02](page:portal-wheel-lathe) dépend de vos essieux montés, des types de défauts et de votre flux de travail ; nous vous conseillons sur ce point lors de la consultation.",
-            "Si vous préférez laisser les essieux montés sous le véhicule, un [tour en fosse](page:underfloor-wheel-lathe) constitue l'alternative."
+            "Le tour à roues à portique à galets CNC (modèle YPL-04) est une machine automatique de construction à portique, dont l'entraînement par galets permet le passage traversant des essieux montés. Il convient au reprofilage simultané des roues neuves ou usées une fois l'essieu monté déposé du véhicule, et accepte également les essieux montés équipés d'un réducteur.",
+            "L'essieu monté est entraîné par six galets de friction, trois par roue, en contact avec les zones supérieure et inférieure de la table de roulement et du boudin. Chaque galet est logé dans une cartouche de broche montée sur des bras oscillants à faible frottement, qui permettent un réglage vertical pour absorber les variations de diamètre des roues et maintenir un contact constant, même sur des surfaces présentant des méplats ou une ovalisation. Une pression hydraulique contrôlée, régulée par une vanne et un accumulateur à azote, stabilise ce contact, et les moteurs des galets sont synchronisés par une commande maître-esclave.",
+            "Le chargement et le déchargement sont entièrement automatiques, et l'entrée et la sortie par le même côté peuvent être prévues lorsque la place est limitée. Les essieux montés à roulements à cartouche (CTRB) extérieurs sont centrés et bridés par un dispositif de bridage à commande hydraulique, et les disques de frein montés sur roue ou sur essieu peuvent être usinés en option."
           ],
           "image": "products/roller-type-portal-wheel-lathe",
-          "image_alt": "Illustration d'exemple d'un tour à roues à portique à galets avec un essieu monté déposé sur les galets d'entraînement",
+          "image_alt": "Tour à roues à portique à galets CNC HYT YPL-04 avec portique caréné et pupitre opérateur",
           "layout": "image-right"
-        },
-        {
-          "type": "notice",
-          "variant": "review",
-          "text": "En attente d'informations de HYT : données techniques du YPL-04, confirmation de son principe d'entraînement et de bridage, et différences par rapport au YPL-02."
         },
         {
           "type": "features",
           "id": "advantages",
           "eyebrow": "Principaux avantages",
-          "heading": "Ce qu'apporte la version à galets",
+          "heading": "Pourquoi choisir le YPL-04 ?",
           "cols": 3,
           "items": [
             {
-              "icon": "arrow-repeat",
-              "title": "Entraînement par galets",
-              "text": "L'essieu monté est supporté et mis en rotation par des galets, un principe familier aux équipes qui exploitent des tours en fosse."
+              "icon": "gear-wide-connected",
+              "title": "Entraînement par six galets de friction",
+              "text": "Trois galets par roue en acier rectifié trempé à cœur à 58–63 HRC, réversibles et réusinables pour une durée de vie prolongée."
             },
             {
-              "icon": "eye",
-              "title": "Accès dégagé",
-              "text": "L'essieu monté déposé est facile à observer, à mesurer et à inspecter pendant tout le cycle."
+              "icon": "arrow-left-right",
+              "title": "Passage traversant automatique",
+              "text": "Chargement et déchargement entièrement automatiques, avec entrée et sortie par le même côté possibles lorsque la place est limitée."
+            },
+            {
+              "icon": "bricks",
+              "title": "Portique en fonte à grain fin",
+              "text": "Toutes les structures porteuses assurent la stabilité dimensionnelle et géométrique, avec un amortissement efficace des vibrations."
+            },
+            {
+              "icon": "lock",
+              "title": "Centrage et bridage CTRB",
+              "text": "Les essieux montés à roulements à cartouche extérieurs sont centrés et bridés par des vérins hydrauliques."
             },
             {
               "icon": "rulers",
-              "title": "Usinage piloté par la mesure",
-              "text": "Les roues sont mesurées avant usinage afin de n'enlever que la matière nécessaire."
+              "title": "Mesure intégrée de l'usure des roues",
+              "text": "Des galets palpeurs à contact mesurent le profil, le diamètre, la hauteur et l'épaisseur du boudin, la cote entre faces internes et la largeur de roue."
             },
             {
-              "icon": "train-front",
-              "title": "Parcs hétérogènes",
-              "text": "Bibliothèque de profils et réglages adaptables pour différents types d'essieux montés."
+              "icon": "graph-up",
+              "title": "Logiciel d'optimisation de la passe",
+              "text": "La CNC traite les données d'usure et propose la profondeur de passe la plus économique ; toutes les données sont enregistrées et consultables."
             },
             {
-              "icon": "diagram-3",
-              "title": "Intégration en atelier d'essieux",
-              "text": "Peut être implanté en ligne avec des stations de mesure, des presses et des voies d'essieux montés."
-            },
-            {
-              "icon": "tools",
-              "title": "L'assistance du constructeur",
-              "text": "Pièces de rechange, contrats de service et modernisations directement auprès de HYT."
+              "icon": "disc",
+              "title": "Tournage des disques de frein en option",
+              "text": "Un coulisseau rétractable cémenté monté sur le chariot usine les disques de frein montés sur roue ou sur essieu jusqu'à un état de surface inférieur à 2,5 μm Ra."
             }
           ]
         },
         {
           "type": "specs",
           "id": "specifications",
-          "heading": "Caractéristiques techniques",
-          "intro": "Les données techniques du YPL-04 sont fournies avec l'offre technique.",
+          "heading": "Données techniques",
+          "intro": "Données techniques fournies par HYT. Chaque machine est configurée selon votre écartement de voie, vos profils de roue et vos véhicules.",
           "columns": [
             "Paramètre",
             "YPL-04"
           ],
           "rows": [
             [
-              "Type de machine",
-              "Tour à roues à portique à galets CNC pour essieux montés déposés"
+              "Configuration de la machine",
+              "Construction à portique, six galets de friction, passage traversant des essieux montés"
             ],
             [
-              "Plage de diamètres de roulement",
-              "Sur demande*"
+              "Puissance d'entraînement principal",
+              "Galets supérieurs 2 × 37 kW ; galets inférieurs 2 × 18,5 kW"
             ],
             [
-              "Largeur de roue",
-              "Sur demande"
+              "Vitesse de coupe en reprofilage",
+              "25–80 m/min"
             ],
             [
-              "Longueur d'essieu",
-              "Sur demande*"
+              "Avance du porte-outil en reprofilage",
+              "0,1–4 mm/tr"
             ],
             [
-              "Poids maximal de l'essieu monté",
-              "Sur demande"
+              "Vitesse rapide du porte-outil, deux axes",
+              "4 500 mm/min"
             ],
             [
-              "Entraînement principal",
-              "Sur demande"
+              "Section de copeau / enlèvement de matière max. en reprofilage",
+              "10–18 mm²"
             ],
             [
-              "Vitesse de coupe",
-              "Sur demande"
+              "Temps de cycle par essieu monté",
+              "12–16 min"
             ],
             [
               "Écartement de voie",
-              "Selon spécification du client*"
+              "Selon besoin"
+            ],
+            [
+              "Diamètre de roulement, max. / min.",
+              "1 250 mm / 650 mm (selon l'écartement de voie)"
+            ],
+            [
+              "Largeur de roue",
+              "100–145 mm"
+            ],
+            [
+              "Charge à l'essieu max. / poids de l'essieu monté",
+              "Poids de l'essieu monté 50 kN"
+            ],
+            [
+              "Écart de diamètre entre les deux roues",
+              "< 0,1 mm"
+            ],
+            [
+              "Précision du profil de roue par rapport au gabarit de référence",
+              "< 0,2 mm"
+            ],
+            [
+              "Faux-rond radial de la roue",
+              "< 0,1 mm"
+            ],
+            [
+              "Voile axial de la roue",
+              "< 0,2 mm"
+            ],
+            [
+              "État de surface du profil",
+              "< 12,5 μm Ra"
             ]
           ],
-          "note": "Les valeurs marquées * dépendent de l'écartement de voie et de la configuration du client. Les valeurs définitives sont confirmées dans l'offre technique."
+          "note": "Les valeurs qui dépendent de l'écartement de voie sont signalées dans le tableau. Les valeurs définitives sont confirmées dans l'offre technique."
         },
         {
           "type": "steps",
@@ -1980,7 +2229,7 @@
           "items": [
             {
               "image": "products/roller-type-portal-wheel-lathe",
-              "caption": "Illustration d'exemple du tour à roues à portique à galets YPL-04"
+              "caption": "Tour à roues à portique à galets CNC HYT YPL-04 avec portique caréné et pupitre opérateur"
             },
             {
               "image": "products/wheelset-profile-closeup",
@@ -1999,15 +2248,15 @@
           "items": [
             {
               "q": "Que signifie « à galets » ?",
-              "a": "Cela décrit la façon dont l'essieu monté est supporté et mis en rotation pendant l'usinage : sur des galets, selon un principe d'entraînement semblable à celui d'un tour en fosse. La disposition exacte est présentée dans l'offre technique."
+              "a": "Il décrit le mode d'entraînement de l'essieu monté : par six galets de friction, trois par roue, en contact avec les zones supérieure et inférieure de la table de roulement et du boudin. Les galets sont montés sur des bras oscillants à réglage vertical, de sorte que le contact reste constant même sur des roues présentant des méplats ou une ovalisation."
             },
             {
               "q": "En quoi le YPL-04 diffère-t-il du YPL-02 ?",
-              "a": "Tous deux sont des tours à portique pour essieux montés déposés. Le YPL-04 utilise un dispositif à galets ; le [YPL-02](page:portal-wheel-lathe) est le modèle à portique dont les données publiées sont orientées passes lourdes. Nous vous aidons à choisir en fonction de vos essieux montés et de votre flux de travail."
+              "a": "Tous deux sont des tours à portique à passage traversant pour essieux montés déposés. Le YPL-04 entraîne l'essieu monté par six galets de friction (supérieurs 2 × 37 kW, inférieurs 2 × 18,5 kW), accepte des diamètres de roulement à partir de 650 mm et traite un essieu monté en 12 à 16 minutes. Le [YPL-02](page:portal-wheel-lathe) dispose d'un entraînement principal de 2 × 55 kW et d'une section de copeau de 32 à 50 mm² pour les passes lourdes, avec un temps de cycle de 8 à 12 minutes. Nous vous aidons à choisir en fonction de vos essieux montés et de votre organisation."
             },
             {
               "q": "Des données techniques sont-elles disponibles ?",
-              "a": "Oui – sur demande. Envoyez-nous vos diamètres de roue, longueurs d'essieu, poids d'essieux montés et écartements, et nous vous répondrons avec des données adaptées à votre parc."
+              "a": "Oui – les données principales figurent dans le tableau ci-dessus. Les valeurs qui dépendent de l'écartement de voie, ainsi que la configuration adaptée à vos essieux montés, sont confirmées dans l'offre technique."
             },
             {
               "q": "Faut-il une fosse ?",
@@ -2020,10 +2269,10 @@
     "vertical-turning-boring-machine": {
       "nav": "Tour vertical CNC de tournage et d'alésage",
       "title": "Tour vertical CNC de tournage et d'alésage YVM-04",
-      "description": "Tour vertical CNC HYT YVM-04 pour roues et bandages ferroviaires : profil, faces de jante et alésage de moyeu usinés, roue posée à plat sur un plateau rotatif.",
+      "description": "Tour vertical de tournage et d'alésage pour roues ferroviaires. Usinage complet de la roue en un seul serrage, avec entraînement du plateau de 45 kW et changeur d'outils à 12 postes.",
       "eyebrow": "Machines pour ateliers d'essieux",
       "h1": "Tour vertical CNC de tournage et d'alésage YVM-04 pour roues, bandages et alésages de moyeu ferroviaires",
-      "lede": "Les roues et bandages non montés sont usinés à plat sur un plateau rotatif : ils restent stables sous l'effort de coupe, et le profil comme l'alésage de moyeu peuvent être tenus dans des tolérances serrées.",
+      "lede": "La solution de tournage et d'alésage vertical pour les ateliers ferroviaires – usinage complet de la roue en un seul serrage, de l'alésage du moyeu au profil de roulement.",
       "summary": "Tour vertical de tournage et d'alésage pour roues et bandages ferroviaires non montés – profil, faces de jante et alésage de moyeu – en fabrication neuve comme en révision.",
       "related": [
         "wheel-presses",
@@ -2035,100 +2284,127 @@
         {
           "type": "text",
           "id": "overview",
-          "eyebrow": "La machine",
-          "heading": "La première étape de précision d'un essieu monté neuf",
+          "eyebrow": "Présentation du produit",
+          "heading": "Qu'est-ce que le tour vertical CNC de tournage et d'alésage ?",
           "paragraphs": [
-            "Avant qu'une roue puisse être calée sur un essieu, son alésage de moyeu doit être usiné à un diamètre exact pour l'ajustement serré, et sa table de roulement comme son boudin doivent correspondre au profil prescrit. Un tour vertical de tournage et d'alésage est l'outil tout désigné pour ce travail : la roue repose sur un plateau rotatif horizontal, est bridée puis usinée par le dessus.",
-            "La disposition verticale facilite le chargement au pont roulant des roues lourdes, assure la stabilité de la pièce sous l'effort de coupe et offre à l'opérateur une vue dégagée sur la zone de coupe. La même machine traite les bandages des roues bandagées ainsi que d'autres pièces de révolution de l'essieu monté.",
-            "HYT a fourni un tour vertical CNC à l'atelier d'automotrices de Sanpada, à Mumbai, et un tour vertical à tourelle CNC à la State Railway of Thailand, à Bangkok. Découvrez nos [projets réalisés](page:executed-projects)."
+            "Le tour vertical CNC de tournage et d'alésage HYT (YVM-04) est spécialement conçu pour l'ensemble des opérations d'usinage des roues ferroviaires. Son orientation de broche verticale permet de fixer et d'usiner des roues ferroviaires lourdes et de grand diamètre avec une stabilité et une précision remarquables, en éliminant la déformation qu'entraîne le bridage horizontal de pièces lourdes.",
+            "L'association d'un entraînement du plateau de 45 kW, d'un palier de butée de grand diamètre, de glissières prismatiques trempées et d'un changeur d'outils automatique à 12 postes fait du YVM-04 un véritable centre d'usinage en un seul serrage pour tous les profils de la roue ferroviaire."
           ],
           "image": "products/vertical-turning-boring-machine",
-          "image_alt": "Illustration d'exemple d'un tour vertical CNC de tournage et d'alésage avec une roue ferroviaire sur le plateau rotatif",
+          "image_alt": "Tour vertical CNC de tournage et d'alésage HYT YVM-04",
           "layout": "image-right"
         },
         {
           "type": "features",
           "id": "advantages",
           "eyebrow": "Principaux avantages",
-          "heading": "Pourquoi usiner les roues en vertical",
+          "heading": "Pourquoi choisir le YVM-04 ?",
           "cols": 3,
           "items": [
             {
+              "icon": "bricks",
+              "title": "Structure robuste en fonte",
+              "text": "Rigidité supérieure et usinage sans vibrations."
+            },
+            {
               "icon": "bullseye",
-              "title": "Des alésages de moyeu précis",
-              "text": "Diamètre et état de surface de l'alésage maîtrisés pour un ajustement serré fiable sur l'essieu."
+              "title": "Ensemble plateau de haute précision",
+              "text": "Roulements de butée et roulements à rouleaux coniques pour une précision maximale."
             },
             {
-              "icon": "layers",
-              "title": "Un bridage stable",
-              "text": "La roue repose à plat sur le plateau : son propre poids contribue à une assise ferme."
+              "icon": "nut",
+              "title": "Options de mandrin flexibles",
+              "text": "Mandrin hydraulique à 3 mors ou mandrin à 4 mors indépendants."
             },
             {
-              "icon": "arrows-collapse",
-              "title": "Moins de reprises",
-              "text": "Plusieurs éléments usinés en une seule prise de pièce réduisent les manipulations et le cumul d'erreurs."
+              "icon": "shield-check",
+              "title": "Zone d'usinage entièrement carénée",
+              "text": "Sécurité accrue pour l'opérateur."
             },
             {
-              "icon": "box-seam",
-              "title": "Chargement facile au pont roulant",
-              "text": "Les roues et bandages lourds sont déposés directement sur le plateau."
+              "icon": "arrows-move",
+              "title": "Système de glissières de précision",
+              "text": "Mouvements fluides, rigidité et précision constante."
             },
             {
-              "icon": "cpu",
-              "title": "Un programme par plan de roue",
-              "text": "Les programmes CNC enregistrés garantissent des roues identiques pour un même type."
-            },
-            {
-              "icon": "arrow-repeat",
-              "title": "Fabrication neuve et révision",
-              "text": "Adapté aux roues neuves, aux bandages et aux travaux de révision dans un même atelier."
+              "icon": "tools",
+              "title": "Changeur d'outils automatique à 12 postes",
+              "text": "Réglage plus rapide et productivité accrue."
             }
           ]
         },
         {
           "type": "specs",
           "id": "specifications",
-          "heading": "Caractéristiques techniques",
-          "intro": "Le YVM-04 est configuré selon les dimensions des roues et des bandages de votre atelier.",
+          "heading": "Données techniques",
+          "intro": "Données techniques fournies par HYT. Chaque machine est configurée selon votre écartement de voie, vos profils de roue et vos véhicules.",
           "columns": [
             "Paramètre",
             "YVM-04"
           ],
           "rows": [
             [
-              "Type de machine",
-              "Tour vertical CNC de tournage et d'alésage"
+              "Configuration de la machine",
+              "Tour vertical de tournage et d'alésage ; usinage complet de la roue en un seul serrage – toile, profil, jante et moyeu"
             ],
             [
-              "Pièces types",
-              "Roues ferroviaires, bandages et pièces de révolution similaires"
+              "Puissance d'entraînement principal",
+              "Moteur d'entraînement du plateau 45 kW"
+            ],
+            [
+              "Vitesse du plateau",
+              "3–300 tr/min"
+            ],
+            [
+              "Vitesse d'avance rapide",
+              "Jusqu'à 8 000 mm/min"
+            ],
+            [
+              "Diamètre de tournage / diamètre admissible",
+              "1 600 mm"
             ],
             [
               "Diamètre du plateau",
-              "Sur demande"
+              "1 400 mm"
             ],
             [
-              "Diamètre de tournage maximal",
-              "Sur demande"
+              "Hauteur de tournage",
+              "600 mm"
             ],
             [
-              "Hauteur de pièce maximale",
-              "Sur demande"
+              "Course verticale du coulisseau",
+              "700 mm"
             ],
             [
-              "Poids de pièce maximal",
-              "Sur demande"
+              "Course horizontale du coulisseau",
+              "+900 / −50 mm"
             ],
             [
-              "Entraînement principal",
-              "Sur demande"
+              "Section du coulisseau",
+              "200 × 200 mm ou 250 × 250 mm"
             ],
             [
-              "Commande numérique (CNC)",
-              "Sur demande"
+              "Bridage de la pièce",
+              "Mandrin hydraulique autocentrant à trois mors"
+            ],
+            [
+              "Changeur d'outils",
+              "12 postes en standard ; 20 postes en option sur mesure"
+            ],
+            [
+              "État de surface en alésage",
+              "Ra 0,8 μm"
+            ],
+            [
+              "État de surface en tournage",
+              "Ra 1,6 μm"
+            ],
+            [
+              "État de surface en dressage",
+              "Ra 1,6 μm"
             ]
           ],
-          "note": "Les valeurs définitives sont confirmées dans l'offre technique pour votre application."
+          "note": "Les valeurs définitives sont confirmées dans l'offre technique."
         },
         {
           "type": "steps",
@@ -2227,7 +2503,7 @@
           "items": [
             {
               "image": "products/vertical-turning-boring-machine",
-              "caption": "Illustration d'exemple du tour vertical de tournage et d'alésage YVM-04"
+              "caption": "Tour vertical CNC de tournage et d'alésage HYT YVM-04"
             },
             {
               "image": "projects/emu-car-shed",
@@ -2250,7 +2526,7 @@
           "items": [
             {
               "q": "Que peut-on usiner sur le YVM-04 ?",
-              "a": "Des roues et bandages ferroviaires – table de roulement, boudin, faces de jante et alésage de moyeu – ainsi que des pièces de révolution similaires. Les limites dimensionnelles sont confirmées pour vos pièces dans l'offre technique."
+              "a": "Roues et bandages ferroviaires – toile, profil de roulement, jante et alésage du moyeu – en un seul serrage, ainsi que des pièces de révolution similaires. La machine offre un diamètre de tournage de 1 600 mm, un diamètre de plateau de 1 400 mm et une hauteur de tournage de 600 mm."
             },
             {
               "q": "Pourquoi usiner les roues en vertical plutôt qu'en horizontal ?",
@@ -2274,12 +2550,12 @@
     },
     "axle-journal-turning-burnishing-lathe": {
       "nav": "Tour CNC de tournage et galetage de fusées d'essieu",
-      "title": "Tour CNC de tournage et galetage de fusées d'essieu",
-      "description": "Tour CNC HYT de tournage et galetage de fusées d'essieu : remise en état des portées de roulement en révision, tournage précis puis galetage durable.",
+      "title": "Tour CNC de tournage et galetage de fusées d'essieu YTB 04",
+      "description": "Tour CNC pour le tournage et le galetage des fusées d'essieux ferroviaires. Ovalisation et conicité inférieures à 0,01 mm, état de surface galeté inférieur à 0,2 μm Ra.",
       "eyebrow": "Machines pour ateliers d'essieux",
-      "h1": "Tour CNC de tournage et galetage de fusées d'essieu pour la révision des essieux montés",
-      "lede": "Les fusées d'essieu supportent toute la charge du véhicule. Ce tour leur rend leur diamètre lors de la révision, puis galète la surface pour offrir au roulement une portée lisse et résistante à l'usure.",
-      "summary": "Remise en état et galetage des fusées d'essieu lors de la révision des essieux montés, pour des portées de roulement précises et durables.",
+      "h1": "Tour CNC de tournage et galetage de fusées d'essieu YTB 04 pour la révision des essieux montés",
+      "lede": "Un tour CNC spécialisé qui restaure la géométrie d'origine des fusées d'essieux ferroviaires et donne aux portées de roulement un état de surface galeté inférieur à 0,2 μm Ra.",
+      "summary": "Tour CNC qui tourne et galète les fusées d'essieux ferroviaires, avec une ovalisation et une conicité inférieures à 0,01 mm et un état de surface inférieur à 0,2 μm Ra.",
       "related": [
         "axle-turning-lathe",
         "wheel-presses",
@@ -2290,100 +2566,114 @@
         {
           "type": "text",
           "id": "overview",
-          "eyebrow": "La machine",
-          "heading": "La finition des fusées, pas le tournage complet de l'essieu",
+          "eyebrow": "Présentation du produit",
+          "heading": "Qu'est-ce que le tour CNC de tournage et galetage de fusées d'essieu ?",
           "paragraphs": [
-            "À chaque révision d'essieu monté, les fusées d'essieu font l'objet d'un examen attentif. La corrosion, les traces de fretting et l'usure au niveau des portées de roulement doivent être éliminées, et la fusée ramenée à un diamètre et à un état de surface conformes à la spécification du roulement.",
-            "Le tour CNC de tournage et galetage de fusées d'essieu est conçu précisément pour cette tâche. Il tourne la fusée et les portées adjacentes à la cote, puis galète la surface : des galets trempés écrasent les crêtes laissées par le tournage et produisent une surface lisse et compactée. Le galetage est un procédé de déformation à froid – il ne produit aucun copeau.",
-            "**Il s'agit d'une machine de révision.** Pour le tournage d'essieux complets à partir d'ébauches brutes ou forgées en fabrication neuve, voir le [tour à essieux CNC ATL-01](page:axle-turning-lathe)."
+            "Le tour CNC de tournage et galetage de fusées d'essieu (modèle YTB 04) est une machine spécialisée pour la maintenance et la fabrication des essieux montés ferroviaires. Il remet en état et finit les fusées d'essieu – les portées de roulement de précision situées à chaque extrémité d'un essieu ferroviaire.",
+            "Ces fusées portent l'essieu monté dans les roulements du bogie. Toute usure, ovalisation, conicité ou détérioration de surface peut entraîner une défaillance prématurée des roulements, un échauffement excessif, une hausse des coûts de maintenance et des risques potentiels pour la sécurité.",
+            "L'opération de tournage enlève la matière usée ou endommagée de la fusée d'essieu et restaure sa géométrie et sa précision dimensionnelle d'origine. L'usinage à commande CNC corrige l'ovalisation, la conicité et l'usure de surface pour ramener la fusée dans les tolérances, puis le galetage confère à la surface la qualité requise."
           ],
           "image": "products/axle-journal-turning-burnishing-lathe",
-          "image_alt": "Illustration d'exemple d'une fusée d'essieu en cours de galetage sur un tour CNC",
+          "image_alt": "Tour CNC de tournage et galetage de fusées d'essieu HYT YTB 04 avec un essieu monté dans la machine",
           "layout": "image-right"
         },
         {
           "type": "features",
           "id": "advantages",
           "eyebrow": "Principaux avantages",
-          "heading": "Pourquoi tourner et galeter sur une même machine",
-          "cols": 3,
+          "heading": "Pourquoi choisir le YTB 04 ?",
+          "cols": 2,
           "items": [
             {
               "icon": "bullseye",
-              "title": "Un ajustement de roulement correct",
-              "text": "Fusées remises au diamètre requis pour un montage fiable du roulement."
+              "title": "Usinage de précision des fusées",
+              "text": "Tournage précis des fusées d'essieu intérieures et extérieures."
             },
             {
               "icon": "stars",
-              "title": "Une surface lisse et compactée",
-              "text": "Le galetage laisse une surface fine sans enlever de matière supplémentaire."
+              "title": "Galetage de qualité supérieure",
+              "text": "Un excellent état de surface et une durée de vie prolongée de l'essieu."
             },
             {
-              "icon": "shield-check",
-              "title": "Une surface plus durable",
-              "text": "Une surface galetée résiste mieux à l'usure et au fretting qu'une surface simplement tournée."
+              "icon": "bricks",
+              "title": "Banc rigide et robuste",
+              "text": "Deux contre-poupées fixes pour une stabilité et une précision maximales."
             },
             {
-              "icon": "recycle",
-              "title": "Une durée de vie d'essieu prolongée",
-              "text": "En n'éliminant que la couche endommagée, les essieux restent dans les tolérances pendant davantage de révisions."
-            },
-            {
-              "icon": "arrow-left-right",
-              "title": "Aucun transfert entre machines",
-              "text": "Tourner et galeter sur la même machine fait gagner du temps de manutention et de réglage."
-            },
-            {
-              "icon": "cpu",
-              "title": "Des programmes reproductibles",
-              "text": "Des programmes enregistrés pour chaque type d'essieu garantissent des résultats constants."
+              "icon": "arrows-expand",
+              "title": "Compensation automatique de la longueur d'essieu",
+              "text": "Une contre-poupée à ressort assure un galetage d'une qualité constante."
             }
           ]
         },
         {
           "type": "specs",
           "id": "specifications",
-          "heading": "Caractéristiques techniques",
-          "intro": "La machine est configurée selon les types d'essieux de votre programme de révision.",
+          "heading": "Données techniques",
+          "intro": "Données techniques fournies par HYT. Chaque machine est configurée selon votre écartement de voie, vos profils de roue et vos véhicules.",
           "columns": [
             "Paramètre",
-            "Valeur"
+            "YTB 04"
           ],
           "rows": [
             [
-              "Type de machine",
-              "Tour CNC de tournage et galetage de fusées d'essieu"
+              "Configuration de la machine",
+              "Tour de tournage et galetage de fusées d'essieu ; fusées intérieures et extérieures des essieux montés"
             ],
             [
-              "Travaux types",
-              "Remise en état des portées de roulement et des portées adjacentes lors de la révision"
+              "Puissance d'entraînement principal",
+              "Moteur d'entraînement principal 11 kW"
             ],
             [
-              "Longueur d'essieu maximale",
-              "Sur demande*"
+              "Vitesse de coupe en tournage et galetage d'essieu",
+              "50–400 m/min"
             ],
             [
-              "Plage de diamètres de fusée",
-              "Sur demande"
+              "Avance du porte-outil en tournage et galetage d'essieu",
+              "0,1–2,5 mm/tr"
             ],
             [
-              "Poids de pièce maximal",
-              "Sur demande"
+              "Profondeur de passe max. en tournage d'essieu",
+              "2 mm"
             ],
             [
-              "Outil de galetage",
-              "Sur demande"
+              "Diamètre de roulement, max. / min.",
+              "1 250 mm / 540 mm (selon l'écartement de voie)"
             ],
             [
-              "Entraînement principal",
-              "Sur demande"
+              "Largeur de roue",
+              "75–145 mm"
             ],
             [
-              "Commande numérique (CNC)",
-              "Sur demande"
+              "Longueur d'essieu, max. / min.",
+              "2 750 mm / 1 200 mm (selon l'écartement de voie)"
+            ],
+            [
+              "Diamètre de fusée d'essieu, min. – max.",
+              "70–320 mm"
+            ],
+            [
+              "Longueur de fusée d'essieu, min. – max.",
+              "110–480 mm"
+            ],
+            [
+              "Poids max. de l'essieu monté",
+              "50 kN"
+            ],
+            [
+              "Ovalisation de la fusée",
+              "< 0,01 mm"
+            ],
+            [
+              "Conicité de la fusée",
+              "< 0,01 mm pour 100 mm"
+            ],
+            [
+              "État de surface de la fusée après galetage",
+              "< 0,2 μm Ra"
             ]
           ],
-          "note": "Les valeurs marquées * dépendent de l'écartement de voie et de la configuration du client. Les valeurs définitives sont confirmées dans l'offre technique."
+          "note": "Les valeurs qui dépendent de l'écartement de voie sont signalées dans le tableau. Les valeurs définitives sont confirmées dans l'offre technique."
         },
         {
           "type": "steps",
@@ -2482,7 +2772,7 @@
           "items": [
             {
               "image": "products/axle-journal-turning-burnishing-lathe",
-              "caption": "Illustration d'exemple du tour de tournage et galetage de fusées d'essieu"
+              "caption": "Tour CNC de tournage et galetage de fusées d'essieu HYT YTB 04 avec un essieu monté dans la machine"
             },
             {
               "image": "projects/railway-wheel-shop",
@@ -2501,7 +2791,7 @@
           "items": [
             {
               "q": "En quoi cette machine diffère-t-elle du tour à essieux ATL-01 ?",
-              "a": "Ce tour remet en état et galète les fusées d'essieux déjà en service. L'[ATL-01](page:axle-turning-lathe) tourne des essieux complets à partir d'ébauches brutes ou forgées en fabrication neuve. De nombreux ateliers d'essieux ont besoin des deux."
+              "a": "Le YTB 04 tourne et galète les fusées de roulement intérieures et extérieures des essieux montés. L'[ATL-01](page:axle-turning-lathe) réalise l'ébauche et la finition d'essieux complets entre pointes. De nombreux ateliers d'essieux ont besoin des deux."
             },
             {
               "q": "Pourquoi galeter après le tournage ?",
@@ -2513,7 +2803,7 @@
             },
             {
               "q": "Quelles surfaces peut-on usiner ?",
-              "a": "Les portées de roulement et, selon la conception de l'essieu, les portées adjacentes. Le périmètre exact est confirmé pour vos plans d'essieu dans l'offre technique."
+              "a": "Les fusées intérieures et extérieures des essieux montés, avec des diamètres de fusée de 70 à 320 mm et des longueurs de fusée de 110 à 480 mm, sur des essieux de 1 200 à 2 750 mm (selon l'écartement de voie) et des essieux montés jusqu'à 50 kN."
             },
             {
               "q": "La machine peut-elle traiter différents types d'essieux ?",
@@ -2525,12 +2815,12 @@
     },
     "axle-turning-lathe": {
       "nav": "Tour à essieux CNC",
-      "title": "Tour à essieux CNC ATL-01 pour essieux neufs",
-      "description": "Le tour à essieux CNC HYT ATL-01 usine des essieux ferroviaires complets à partir d'ébauches brutes ou forgées : fusées, portées et corps tournés selon plan.",
+      "title": "Tour à essieux CNC ATL-01",
+      "description": "Tour CNC robuste pour l'ébauche et la finition des essieux ferroviaires : entraînement de 41 kW, 30–2 500 tr/min, 3 000 mm entre pointes, diamètre admissible de 600 mm au-dessus du chariot transversal.",
       "eyebrow": "Machines pour ateliers d'essieux",
-      "h1": "Tour à essieux CNC ATL-01 pour le tournage complet d'essieux bruts et forgés",
-      "lede": "L'ATL-01 tourne un essieu ferroviaire de l'ébauche forgée jusqu'au contour fini – fusées, portées de cache-poussière et de calage, raccordements et corps d'essieu – prêt pour l'étape de production suivante.",
-      "summary": "Tournage complet d'essieux ferroviaires, de l'ébauche brute ou forgée jusqu'au contour fini, pour la fabrication d'essieux montés neufs.",
+      "h1": "Tour à essieux CNC ATL-01 pour l'ébauche et la finition des essieux ferroviaires",
+      "lede": "Un tour CNC robuste et de haute précision pour l'ébauche et la finition des essieux ferroviaires – conçu pour les exigences de forte production des dépôts de maintenance et des ateliers de fabrication.",
+      "summary": "Tour CNC robuste pour l'ébauche et la finition des essieux ferroviaires, avec 3 000 mm entre pointes et un entraînement de 41 kW.",
       "related": [
         "axle-journal-turning-burnishing-lathe",
         "wheel-presses",
@@ -2541,100 +2831,129 @@
         {
           "type": "text",
           "id": "overview",
-          "eyebrow": "La machine",
-          "heading": "De la pièce forgée à l'essieu fini",
+          "eyebrow": "Présentation du produit",
+          "heading": "Qu'est-ce que le tour à essieux CNC ?",
           "paragraphs": [
-            "Un essieu neuf commence sous forme de pièce forgée avec une surépaisseur d'usinage sur chaque diamètre. Le tourner selon le plan est exigeant : l'essieu est long et lourd, plusieurs diamètres doivent être concentriques entre eux, et les rayons de raccordement entre les portées conditionnent la tenue en fatigue.",
-            "L'ATL-01 est un tour CNC dédié à cette opération de tournage complet. Il usine l'essieu sur toute sa longueur – fusées, portées de cache-poussière, portées de calage, raccordements et corps d'essieu – de sorte que l'essieu quitte la machine prêt pour la finition, le contrôle et le calage des roues.",
-            "**Ce qui le distingue du tour à fusées :** le [tour CNC de tournage et galetage de fusées d'essieu](page:axle-journal-turning-burnishing-lathe) est une machine de révision qui remet en état et galète les fusées d'essieux déjà en service. L'ATL-01 est une machine de production qui tourne l'essieu complet à partir d'une ébauche brute ou forgée."
+            "Le tour à essieux CNC (modèle ATL-01) est une machine CNC robuste et de haute précision, spécialement conçue pour l'ébauche et la finition des essieux ferroviaires. Adapté aux exigences de forte production, il est utilisé aussi bien dans les dépôts de maintenance que dans les ateliers de fabrication.",
+            "L'architecture de la machine assure une rigidité élevée, une stabilité thermique et un amortissement des vibrations qui maintiennent une précision dimensionnelle constante tout au long du cycle d'usinage. Les éléments de structure soumis aux efforts de coupe sont en fonte à grain fin, et un chariot transversal compact et rigide porte la tourelle.",
+            "En cycle automatique, la machine réalise le tournage complet de l'essieu et l'usinage des portées de roulement. Le galetage, le perçage et le taraudage, un mandrin rétractable à 3 mors avec entraîneur frontal ainsi que la finition complète de l'essieu en un seul serrage sont disponibles sur demande.",
+            "Un logiciel de commande dédié, avec des écrans IHM personnalisés, gère les dispositifs de sécurité pour une utilisation simple et sûre, et affiche les messages de défaut. La télémaintenance depuis le siège de HYT est disponible, et l'accès rapide aux organes à entretenir limite la durée des interventions. La machine intègre des fonctionnalités Industrie 4.0 et Industrie 5.0."
           ],
           "image": "products/axle-turning-lathe",
-          "image_alt": "Illustration d'exemple d'un tour à essieux CNC usinant un essieu ferroviaire sur toute sa longueur",
+          "image_alt": "Illustration d'exemple d'un tour à essieux CNC",
           "layout": "image-right"
         },
         {
           "type": "features",
           "id": "advantages",
           "eyebrow": "Principaux avantages",
-          "heading": "Conçu pour le tournage complet des essieux",
+          "heading": "Pourquoi choisir l'ATL-01 ?",
           "cols": 3,
           "items": [
             {
+              "icon": "speedometer2",
+              "title": "Conçu pour l'usinage d'essieux en forte production",
+              "text": "Ébauche et finition des essieux ferroviaires dans les dépôts de maintenance et les ateliers de fabrication."
+            },
+            {
+              "icon": "bricks",
+              "title": "Construction robuste en fonte à grain fin",
+              "text": "Les éléments de structure soumis aux efforts de coupe sont en fonte, pour une rigidité élevée, une stabilité thermique et un amortissement des vibrations."
+            },
+            {
               "icon": "arrows-expand",
-              "title": "Usinage sur toute la longueur",
-              "text": "Tous les diamètres de l'essieu tournés selon le plan sur une seule machine."
+              "title": "Diamètre admissible de 600 mm au-dessus du chariot transversal",
+              "text": "Sur un banc à trois glissières, avec un chariot transversal compact et rigide pour usiner facilement les essieux."
+            },
+            {
+              "icon": "sliders",
+              "title": "Variation continue de la vitesse",
+              "text": "De 30 à 2 500 tr/min avec un couple de broche de 1 200 Nm, pour les passes d'ébauche comme de finition."
+            },
+            {
+              "icon": "gear-wide-connected",
+              "title": "Tourelle à 8 ou 12 positions",
+              "text": "Outils motorisés sur demande, pour réaliser le perçage et le taraudage sans second serrage."
             },
             {
               "icon": "bullseye",
-              "title": "Des portées concentriques",
-              "text": "Fusées, portées et corps usinés sur un axe commun pour un faux-rond constant."
+              "title": "Précision géométrique optimale",
+              "text": "En circularité, ovalisation, rugosité de surface et cylindricité de l'essieu usiné."
             },
             {
-              "icon": "bezier2",
-              "title": "Des rayons de raccordement maîtrisés",
-              "text": "Le contournage CNC réalise les rayons prescrits entre les portées, déterminants pour la tenue en fatigue."
+              "icon": "life-preserver",
+              "title": "Lunette autocentrante robuste",
+              "text": "Un maintien fiable de l'essieu pendant toute la passe."
             },
             {
-              "icon": "lightning-charge",
-              "title": "Un enlèvement de matière efficace",
-              "text": "Passes d'ébauche et de finition planifiées en fonction de la surépaisseur des essieux forgés."
+              "icon": "droplet",
+              "title": "Arrosage direct à travers la tourelle",
+              "text": "Acheminé jusqu'au point de coupe pour un refroidissement efficace."
+            },
+            {
+              "icon": "volume-mute",
+              "title": "Cabine insonorisée entièrement fermée",
+              "text": "Un environnement de travail plus silencieux et plus sûr."
             },
             {
               "icon": "cpu",
-              "title": "Un programme par plan",
-              "text": "Chaque type d'essieu est enregistré une fois et reproduit à l'identique."
-            },
-            {
-              "icon": "diagram-3",
-              "title": "Alimente la presse à caler",
-              "text": "Portées de calage finies, prêtes pour le montage sur la [presse à caler les roues](page:wheel-presses)."
+              "title": "Commande numérique Siemens / Fanuc",
+              "text": "Écrans IHM personnalisés et télémaintenance depuis le siège de HYT."
             }
           ]
         },
         {
           "type": "specs",
           "id": "specifications",
-          "heading": "Caractéristiques techniques",
-          "intro": "L'ATL-01 est dimensionné selon les plans des essieux que vous produisez.",
+          "heading": "Données techniques",
+          "intro": "Données techniques fournies par HYT. Chaque machine est configurée selon votre écartement de voie, vos profils de roue et vos véhicules.",
           "columns": [
             "Paramètre",
             "ATL-01"
           ],
           "rows": [
             [
-              "Type de machine",
-              "Tour à essieux CNC"
+              "Configuration de la machine",
+              "Tour à essieux CNC ; ébauche et finition des essieux ferroviaires entre pointes"
             ],
             [
-              "Pièce",
-              "Essieux ferroviaires bruts ou forgés"
+              "Diamètre admissible au-dessus du chariot transversal",
+              "0–600 mm"
             ],
             [
-              "Longueur d'essieu maximale",
-              "Sur demande"
+              "Charge max. entre pointes",
+              "1,5 t"
             ],
             [
-              "Diamètre de tournage maximal",
-              "Sur demande"
+              "Couple admissible par la broche",
+              "1 200 Nm"
             ],
             [
-              "Poids d'essieu maximal",
-              "Sur demande"
+              "Puissance",
+              "41 kW"
             ],
             [
-              "Entraînement principal",
-              "Sur demande"
+              "Vitesse de rotation",
+              "30–2 500 tr/min"
             ],
             [
-              "Bridage de la pièce",
-              "Sur demande"
+              "Distance entre pointes",
+              "3 000 mm"
+            ],
+            [
+              "Diamètre du fourreau",
+              "160 mm"
+            ],
+            [
+              "Tourelle",
+              "8 ou 12 positions, avec outils motorisés sur demande"
             ],
             [
               "Commande numérique (CNC)",
-              "Sur demande"
+              "Siemens / Fanuc avec logiciel"
             ]
           ],
-          "note": "Les valeurs définitives sont confirmées dans l'offre technique pour votre application."
+          "note": "Les valeurs définitives sont confirmées dans l'offre technique."
         },
         {
           "type": "steps",
@@ -2705,6 +3024,11 @@
               "icon": "hammer",
               "title": "Usines d'essieux et forges",
               "text": "Usinage d'essieux forgés avant livraison aux assembleurs d'essieux montés."
+            },
+            {
+              "icon": "wrench-adjustable",
+              "title": "Dépôts de maintenance",
+              "text": "Ébauche et finition des essieux dans le cadre de la maintenance interne des essieux montés."
             }
           ]
         },
@@ -2751,15 +3075,15 @@
           "items": [
             {
               "q": "En quoi l'ATL-01 diffère-t-il du tour de tournage et galetage de fusées d'essieu ?",
-              "a": "L'ATL-01 tourne des essieux complets à partir d'ébauches brutes ou forgées en fabrication neuve. Le [tour à fusées](page:axle-journal-turning-burnishing-lathe) remet en état et galète, lors de la révision, les portées de roulement d'essieux en service."
+              "a": "L'ATL-01 réalise l'ébauche et la finition d'essieux ferroviaires complets entre pointes. Le [tour à fusées](page:axle-journal-turning-burnishing-lathe) (YTB 04) tourne et galète les fusées de roulement intérieures et extérieures des essieux montés lors de leur révision."
             },
             {
-              "q": "L'ATL-01 peut-il réusiner des essieux usagés ?",
-              "a": "Sa vocation est le tournage complet d'essieux neufs. La remise en état des fusées d'essieux en service s'effectue normalement sur le tour de tournage et galetage de fusées – consultez-nous si votre processus combine les deux."
+              "q": "L'ATL-01 est-il utilisé dans les dépôts de maintenance ou uniquement en production ?",
+              "a": "Les deux. L'ATL-01 est conçu pour les exigences de forte production et il est utilisé aussi bien dans les dépôts de maintenance que dans les ateliers de fabrication. Si votre processus comprend également la remise en état des fusées sur essieux montés assemblés, consultez le [tour de tournage et galetage de fusées](page:axle-journal-turning-burnishing-lathe)."
             },
             {
               "q": "Quels types d'essieux peut-on usiner ?",
-              "a": "Des essieux de locomotives, de voitures, de wagons et d'automotrices, dans la limite des capacités de la machine en longueur, en diamètre et en poids. Celles-ci sont confirmées sur la base de vos plans."
+              "a": "Essieux de locomotives, voitures, wagons et automotrices, dans les limites de capacité de la machine : 3 000 mm entre pointes, charge de 1,5 t entre pointes et diamètre admissible de 600 mm au-dessus du chariot transversal. Nous vérifions la compatibilité sur la base de vos plans d'essieux."
             },
             {
               "q": "Que se passe-t-il après le tournage ?",
@@ -3523,12 +3847,12 @@
     },
     "multi-purpose-armature-machine": {
       "nav": "Machine polyvalente pour induits",
-      "title": "Machine polyvalente pour induits de moteurs de traction",
-      "description": "Machine polyvalente HYT pour la révision des moteurs de traction : tournage du collecteur, fraisage des micas et opérations sur induits, sur une seule machine.",
+      "title": "Machine polyvalente pour induits YMM-04",
+      "description": "Remise en état des induits de moteurs de traction sur une seule plateforme : tournage et rectification du collecteur, fraisage des micas, frettage, reroulage et coupe des bobines.",
       "eyebrow": "Équipements de dépôt et d'atelier",
-      "h1": "Machine polyvalente pour la maintenance des induits de moteurs de traction",
-      "lede": "Les induits de moteurs de traction nécessitent plusieurs opérations de précision lors de la révision. Cette machine les réunit, de sorte que l'induit est déplacé et réglé moins souvent.",
-      "summary": "Réunit sur une seule machine le tournage du collecteur, le fraisage des micas et les opérations associées sur induits pour la révision des moteurs de traction.",
+      "h1": "Machine polyvalente pour induits YMM-04 pour la remise en état des induits de moteurs de traction",
+      "lede": "Une plateforme unique pour la remise en état complète des induits de moteurs de traction – tournage, rectification, fraisage des micas, frettage et coupe des bobines sur une seule machine.",
+      "summary": "Plateforme unique pour la remise en état des induits de moteurs de traction : tournage et rectification du collecteur, fraisage des micas, frettage, reroulage et coupe des bobines.",
       "related": [
         "automated-train-washing-plant",
         "rail-cum-road-vehicle-shunter",
@@ -3538,92 +3862,128 @@
         {
           "type": "text",
           "id": "overview",
-          "eyebrow": "La machine",
-          "heading": "Remettre en état le collecteur, maintenir les moteurs en service",
+          "eyebrow": "Présentation du produit",
+          "heading": "Qu'est-ce que la machine polyvalente pour induits ?",
           "paragraphs": [
-            "Dans un moteur de traction à courant continu, le courant parvient à l'induit par le collecteur et les balais en carbone. Avec le temps, le collecteur s'ovalise, sa surface devient rugueuse et l'isolant en mica entre les lames de cuivre finit par affleurer le cuivre. Il en résulte une usure rapide des balais, des étincelles et, à terme, la défaillance du moteur.",
-            "La remise en état du collecteur comprend plusieurs opérations : rectification de la surface par tournage, fraisage du mica sous le niveau du cuivre et finition des arêtes des lames. La machine polyvalente pour induits réalise ces opérations sur une seule machine, de sorte que l'induit circule moins souvent entre les postes de travail.",
-            "La gamme exacte de fonctions est configurée selon les types d'induits de votre parc."
+            "La machine polyvalente pour induits est un système spécialisé de maintenance et de rénovation conçu pour la remise en état complète des induits de moteurs de traction utilisés dans les locomotives électriques, les automotrices, les voitures de métro et d'autres matériels roulants ferroviaires.",
+            "Au lieu de recourir à plusieurs machines autonomes pour les différentes opérations, la YMM-04 de HYT réunit plusieurs opérations essentielles de maintenance des induits sur une seule plateforme, ce qui améliore la productivité, la précision et l'efficacité de l'atelier.",
+            "La machine restaure les collecteurs et les portées de roulement usés à leurs dimensions et à leur état de surface d'origine. Les opérations de tournage et de rectification de haute précision assurent un meilleur contact électrique, une usure réduite des balais, un fonctionnement plus régulier du moteur et une durée de vie prolongée des composants. La YMM-04 maintient l'ovalisation et la conicité du collecteur en dessous de 0,015 mm."
           ],
           "image": "products/multi-purpose-armature-machine",
-          "image_alt": "Illustration d'exemple d'un induit de moteur de traction monté sur une machine polyvalente pour induits",
+          "image_alt": "Machine polyvalente pour induits HYT YMM-04 avec un induit de moteur de traction dans la machine",
           "layout": "image-right"
         },
         {
           "type": "features",
           "id": "advantages",
           "eyebrow": "Principaux avantages",
-          "heading": "Pourquoi regrouper les opérations sur induits",
+          "heading": "Pourquoi choisir la YMM-04 ?",
           "cols": 3,
           "items": [
             {
-              "icon": "layers",
-              "title": "Plusieurs opérations, une seule machine",
-              "text": "Tournage, fraisage des micas et travaux associés sans transfert de l'induit d'une machine à l'autre."
+              "icon": "scissors",
+              "title": "Fraisage automatique des micas",
+              "text": "Un enlèvement précis de l'isolant."
+            },
+            {
+              "icon": "stars",
+              "title": "Ébavurage et polissage",
+              "text": "Un état de surface supérieur du collecteur."
             },
             {
               "icon": "bullseye",
-              "title": "Un collecteur parfaitement rond",
-              "text": "Une surface de collecteur concentrique favorise un contact uniforme des balais."
+              "title": "Tournage et rectification de précision",
+              "text": "Des collecteurs et des portées de roulement."
             },
             {
-              "icon": "scissors",
-              "title": "Un fraisage net",
-              "text": "Mica dégagé sous le niveau du cuivre pour prévenir l'usure des balais et les amorçages."
+              "icon": "layers",
+              "title": "Traitement intégré des induits",
+              "text": "Frettage, reroulage et coupe des bobines sur la même machine."
             },
             {
-              "icon": "arrows-move",
-              "title": "Moins de manutention",
-              "text": "Les induits lourds sont levés et réglés moins souvent."
+              "icon": "bricks",
+              "title": "Poupée robuste en fonte",
+              "text": "Une rigidité et une précision d'usinage exceptionnelles."
             },
             {
-              "icon": "sliders",
-              "title": "Adaptable",
-              "text": "Configurée selon les tailles d'induits de votre parc."
-            },
-            {
-              "icon": "house-gear",
-              "title": "Adaptée aux dépôts",
-              "text": "Une machine au lieu de plusieurs : un gain de surface au sol dans l'atelier."
+              "icon": "wifi",
+              "title": "Télédiagnostic",
+              "text": "Un dépannage plus rapide et l'assistance experte de HYT."
             }
           ]
         },
         {
           "type": "specs",
           "id": "specifications",
-          "heading": "Caractéristiques techniques",
-          "intro": "La machine est configurée selon les types d'induits dont vous assurez la maintenance.",
+          "heading": "Données techniques",
+          "intro": "Données techniques fournies par HYT. Chaque machine est configurée selon votre écartement de voie, vos profils de roue et vos véhicules.",
           "columns": [
             "Paramètre",
-            "Valeur"
+            "YMM-04"
           ],
           "rows": [
             [
-              "Pièce",
-              "Induits de moteurs de traction"
+              "Configuration de la machine",
+              "Machine universelle polyvalente pour induits ; fraisage des micas, tournage, rectification, frettage, reroulage et coupe des bobines"
             ],
             [
-              "Opérations",
-              "Tournage du collecteur, fraisage des micas et opérations associées – périmètre sur demande"
+              "Puissance d'entraînement principal",
+              "Moteur d'entraînement principal 15 kW"
             ],
             [
-              "Poids d'induit maximal",
-              "Sur demande"
+              "Vitesse de broche de la poupée, à variation continue",
+              "1,5–300 tr/min"
             ],
             [
-              "Longueur d'induit maximale",
-              "Sur demande"
+              "Avance longitudinale du chariot",
+              "0–100 mm/min"
             ],
             [
-              "Plage de diamètres de collecteur",
-              "Sur demande"
+              "Avance rapide longitudinale du chariot",
+              "600 mm/min"
             ],
             [
-              "Entraînement",
-              "Sur demande"
+              "Profondeur de passe max. en tournage du collecteur",
+              "2,5 mm"
+            ],
+            [
+              "Tension de frettage max. (fil / ruban)",
+              "300 kg"
+            ],
+            [
+              "Poids de l'induit, max.",
+              "30 kN"
+            ],
+            [
+              "Longueur de l'induit, min. – max.",
+              "500–1 600 mm"
+            ],
+            [
+              "Diamètre de l'induit, min. – max.",
+              "130–1 500 mm"
+            ],
+            [
+              "Diamètre de collecteur usinable, min. – max.",
+              "120–900 mm"
+            ],
+            [
+              "Longueur de collecteur usinable, min. – max.",
+              "75–450 mm"
+            ],
+            [
+              "Ovalisation en tournage du collecteur",
+              "< 0,015 mm"
+            ],
+            [
+              "Conicité en tournage du collecteur",
+              "< 0,015 mm"
+            ],
+            [
+              "Régularité de la tension de frettage",
+              "< ± 10 kg"
             ]
           ],
-          "note": "Les valeurs définitives sont confirmées dans l'offre technique pour votre application."
+          "note": "Les valeurs définitives sont confirmées dans l'offre technique."
         },
         {
           "type": "steps",
@@ -3640,16 +4000,16 @@
               "text": "Le collecteur est contrôlé quant à son excentricité et à son état de surface."
             },
             {
-              "title": "Tournage",
-              "text": "La surface du collecteur est rectifiée par tournage."
+              "title": "Tournage et rectification",
+              "text": "Le collecteur et les portées de roulement sont tournés et rectifiés pour retrouver leur concentricité."
             },
             {
               "title": "Fraisage des micas",
               "text": "Le mica entre les lames est dégagé sous le niveau du cuivre."
             },
             {
-              "title": "Finition",
-              "text": "Les arêtes des lames sont chanfreinées et la surface nettoyée."
+              "title": "Ébavurage et polissage",
+              "text": "Les arêtes des lames sont ébavurées et la surface du collecteur polie."
             },
             {
               "title": "Contrôle",
@@ -3663,14 +4023,14 @@
           "heading": "Caractéristiques principales",
           "cols": 2,
           "items": [
-            "Tournage du collecteur",
-            "Fraisage des micas",
-            "Finition des arêtes des lames",
-            "Support d'induit adapté à votre gamme d'induits",
-            "Plusieurs opérations en une seule prise de pièce",
-            "Zone de travail protégée",
-            "Conçue pour les ateliers de dépôt",
-            "Configurée selon les moteurs de votre parc"
+            "Tournage et rectification du collecteur",
+            "Fraisage automatique des micas",
+            "Ébavurage et polissage",
+            "Tournage et rectification des portées de roulement",
+            "Frettage au fil et au ruban jusqu'à 300 kg de tension",
+            "Reroulage et coupe des bobines",
+            "Vitesse de poupée à variation continue, 1,5–300 tr/min",
+            "Poupée robuste en fonte"
           ]
         },
         {
@@ -3722,7 +4082,7 @@
           "items": [
             {
               "image": "products/multi-purpose-armature-machine",
-              "caption": "Illustration d'exemple de la machine polyvalente pour induits"
+              "caption": "Machine polyvalente pour induits HYT YMM-04 avec un induit de moteur de traction dans la machine"
             },
             {
               "image": "projects/emu-car-shed",
@@ -3741,7 +4101,7 @@
           "items": [
             {
               "q": "Quelles opérations la machine réalise-t-elle ?",
-              "a": "Le tournage du collecteur et le fraisage des micas, ainsi que les opérations de finition associées. Le périmètre exact est configuré selon vos types d'induits."
+              "a": "Tournage et rectification du collecteur, fraisage des micas, ébavurage et polissage, tournage et rectification des portées de roulement, frettage au fil et au ruban, reroulage et coupe des bobines – le tout sur une seule machine."
             },
             {
               "q": "Pourquoi fraiser les micas ?",
@@ -3753,7 +4113,7 @@
             },
             {
               "q": "Quelles tailles d'induits peut-elle traiter ?",
-              "a": "Les limites de poids et de longueur d'induit ainsi que de diamètre de collecteur sont définies en fonction de votre parc et confirmées dans l'offre technique."
+              "a": "Induits jusqu'à 30 kN, d'une longueur de 500 à 1 600 mm et d'un diamètre de 130 à 1 500 mm, avec des diamètres de collecteur de 120 à 900 mm et des longueurs de collecteur de 75 à 450 mm."
             },
             {
               "q": "La machine peut-elle être installée dans un atelier de dépôt existant ?",
@@ -3766,11 +4126,11 @@
     "automated-train-washing-plant": {
       "nav": "Installation automatique de lavage des trains",
       "title": "Installation automatique de lavage des trains",
-      "description": "L'installation de lavage automatique HYT nettoie l'extérieur des trains à faible vitesse au passage : résultat constant, moins de main-d'œuvre, eau maîtrisée.",
+      "description": "Installation automatique de lavage des voitures au défilé pour Indian Railways. Une rame de 24 voitures en moins de 15 minutes, avec au maximum 60 litres d'eau propre par voiture.",
       "eyebrow": "Équipements de dépôt et d'atelier",
       "h1": "Installation automatique de lavage des trains pour le nettoyage extérieur au défilé",
-      "lede": "Les trains traversent lentement l'installation et en ressortent propres. Le lavage automatisé garantit des résultats constants, libère le personnel des tâches manuelles et permet de maîtriser la consommation d'eau et de détergent.",
-      "summary": "Installation de lavage au défilé qui nettoie automatiquement l'extérieur des trains, pour un résultat constant avec moins de main-d'œuvre et une consommation d'eau maîtrisée.",
+      "lede": "Un système entièrement automatisé de lavage extérieur des voitures au défilé, conçu pour Indian Railways – il nettoie une rame complète de 24 voitures en moins de 15 minutes, avec une consommation d'eau minimale et sans intervention manuelle.",
+      "summary": "Installation automatique de lavage au défilé qui nettoie une rame de 24 voitures en moins de 15 minutes, avec au maximum 60 litres d'eau propre par voiture.",
       "related": [
         "rail-cum-road-vehicle-shunter",
         "multi-purpose-armature-machine",
@@ -3780,100 +4140,95 @@
         {
           "type": "text",
           "id": "overview",
-          "eyebrow": "L'installation",
-          "heading": "Des trains propres, sans effort manuel",
+          "eyebrow": "Présentation du produit",
+          "heading": "Qu'est-ce que l'installation automatique de lavage des trains ?",
           "paragraphs": [
-            "Un train propre compte pour les voyageurs, pour la visibilité du conducteur et pour l'état de la peinture, des vitres et des joints. Le lavage à la main est lent, physiquement éprouvant et difficile à réaliser de manière homogène sur un parc important.",
-            "Une installation de lavage automatique est implantée sur une voie du dépôt. Le train la traverse à faible vitesse pendant que l'installation mouille la caisse, applique le détergent, frotte à l'aide de brosses rotatives et rince. Des capteurs détectent le véhicule et pilotent chaque étape, de sorte que l'eau et le détergent ne sont utilisés qu'en présence d'un train.",
-            "L'implantation, la disposition des brosses, les produits chimiques et la gestion de l'eau sont conçus en fonction des gabarits de vos véhicules, de la voie de votre dépôt et des conditions locales d'approvisionnement en eau."
+            "L'installation automatique de lavage des trains HYT supprime la dépendance au travail manuel pour le nettoyage des voitures – une exigence essentielle d'hygiène et de présentation dans les dépôts et sur les voies de lavage d'Indian Railways.",
+            "Le système est conçu comme une installation fixe que les rames traversent à faible vitesse. À mesure que chaque voiture traverse l'installation, elle est successivement prémouillée, traitée chimiquement, brossée mécaniquement, rincée à haute pression et essuyée, le tout sans arrêt. Le recyclage de l'eau par une station de traitement des effluents (ETP) intégrée réduit encore les coûts d'exploitation."
           ],
           "image": "products/automated-train-washing-plant",
-          "image_alt": "Illustration d'exemple d'un train traversant une installation de lavage automatique à brosses rotatives",
+          "image_alt": "Installation automatique de lavage des trains HYT avec des unités de brossage de part et d'autre de la voie",
           "layout": "image-right"
         },
         {
           "type": "features",
           "id": "advantages",
           "eyebrow": "Principaux avantages",
-          "heading": "Pourquoi automatiser le lavage des trains",
+          "heading": "Pourquoi choisir l'installation automatique de lavage des trains ?",
           "cols": 3,
           "items": [
             {
-              "icon": "check2-circle",
-              "title": "Des résultats constants",
-              "text": "Chaque véhicule est lavé selon la même séquence et avec la même couverture."
-            },
-            {
-              "icon": "people",
-              "title": "Moins de travail manuel",
-              "text": "Le personnel est libéré de tâches de nettoyage pénibles et répétitives."
-            },
-            {
-              "icon": "droplet",
-              "title": "Une consommation d'eau maîtrisée",
-              "text": "Eau et détergent appliqués uniquement là et quand c'est nécessaire."
+              "icon": "magic",
+              "title": "Cycle de lavage entièrement automatisé",
+              "text": "Un nettoyage des voitures homogène et sans intervention manuelle."
             },
             {
               "icon": "recycle",
-              "title": "Option de recyclage de l'eau",
-              "text": "La récupération et le traitement de l'eau peuvent être intégrés pour réduire les besoins en eau neuve."
+              "title": "Système de recyclage de l'eau",
+              "text": "Une ETP intégrée limite la consommation d'eau propre à 60 litres seulement par voiture."
             },
             {
-              "icon": "clock-history",
-              "title": "Un passage rapide",
-              "text": "Les trains sont lavés au passage, en s'intégrant aux mouvements habituels du dépôt."
+              "icon": "speedometer",
+              "title": "Détection de vitesse par laser",
+              "text": "Synchronise automatiquement le cycle de lavage avec le mouvement du train."
             },
             {
-              "icon": "brush",
-              "title": "Des brosses adaptées au gabarit",
-              "text": "Disposition des brosses conçue en fonction des gabarits de vos véhicules."
+              "icon": "boxes",
+              "title": "Conception modulaire robuste",
+              "text": "Installation et déplacement simples, maintenance réduite."
+            },
+            {
+              "icon": "display",
+              "title": "Système de commande centralisé",
+              "text": "Surveillance en temps réel et diagnostic des défauts."
+            },
+            {
+              "icon": "wifi",
+              "title": "Télédiagnostic",
+              "text": "Une assistance technique plus rapide et des temps d'arrêt réduits."
             }
           ]
         },
         {
           "type": "specs",
           "id": "specifications",
-          "heading": "Caractéristiques techniques",
-          "intro": "L'installation est conçue pour votre parc, l'implantation de votre dépôt et votre alimentation en eau.",
+          "heading": "Données techniques",
+          "intro": "Données techniques fournies par HYT. Chaque machine est configurée selon votre écartement de voie, vos profils de roue et vos véhicules.",
           "columns": [
             "Paramètre",
-            "Valeur"
+            "Installation de lavage"
           ],
           "rows": [
             [
-              "Type de lavage",
-              "Lavage extérieur au défilé"
+              "Configuration de la machine",
+              "Installation automatique de lavage extérieur des voitures au défilé"
             ],
             [
-              "Types de véhicules",
-              "Selon spécification du client"
+              "Temps de cycle, rame de 24 voitures",
+              "≤ 15 min"
             ],
             [
-              "Vitesse de passage du train",
-              "Sur demande"
+              "Vitesse de lavage du train",
+              "3–5 km/h"
             ],
             [
-              "Disposition des brosses",
-              "Sur demande"
+              "Pression du rinçage final",
+              "Env. 10 kg/cm² (≈ 10 bar)"
             ],
             [
-              "Consommation d'eau par train",
-              "Sur demande"
+              "Eau propre par voiture",
+              "Max. 60 L"
             ],
             [
-              "Récupération et traitement de l'eau",
-              "Sur demande"
+              "Récupération de l'eau",
+              "Recyclage par ETP intégrée"
             ],
             [
-              "Dosage du détergent",
-              "Sur demande"
-            ],
-            [
-              "Écartement de voie",
-              "Selon spécification du client*"
+              "Détection de vitesse",
+              "Par laser, synchronisée avec le mouvement du train"
             ]
           ],
-          "note": "Les valeurs marquées * dépendent de l'écartement de voie et de la configuration du client. Les valeurs définitives sont confirmées dans l'offre technique."
+          "note": "Les valeurs définitives sont confirmées dans l'offre technique."
         },
         {
           "type": "steps",
@@ -3883,27 +4238,27 @@
           "items": [
             {
               "title": "Détection",
-              "text": "Des capteurs repèrent l'arrivée du train et lancent la séquence."
+              "text": "La détection de vitesse par laser repère le train et synchronise le cycle de lavage avec son mouvement."
             },
             {
               "title": "Prémouillage",
-              "text": "La caisse est mouillée pour décoller la saleté."
+              "text": "Chaque voiture est mouillée pour décoller la saleté à son entrée dans l'installation, à 3–5 km/h."
             },
             {
-              "title": "Application du détergent",
-              "text": "Le produit de nettoyage est appliqué à la concentration définie."
+              "title": "Traitement chimique",
+              "text": "Un produit de nettoyage est appliqué sur la caisse de la voiture."
             },
             {
               "title": "Brossage",
-              "text": "Des brosses rotatives frottent les flancs et les autres surfaces spécifiées."
+              "text": "Des brosses rotatives frottent mécaniquement la voiture."
             },
             {
-              "title": "Rinçage",
-              "text": "De l'eau propre élimine le détergent et la saleté décollée."
+              "title": "Rinçage haute pression",
+              "text": "Un rinçage final à env. 10 bar élimine le détergent et la saleté décollée."
             },
             {
-              "title": "Collecte",
-              "text": "Les eaux de lavage sont évacuées vers la collecte ou le recyclage, selon la conception retenue."
+              "title": "Essuyage et recyclage",
+              "text": "La voiture est essuyée, et l'eau de lavage est recyclée par l'ETP intégrée."
             }
           ]
         },
@@ -3913,14 +4268,14 @@
           "heading": "Caractéristiques principales",
           "cols": 2,
           "items": [
-            "Fonctionnement au défilé sur une voie du dépôt",
-            "Détection automatique des véhicules",
-            "Étapes de prémouillage, de détergent et de rinçage",
-            "Brosses rotatives adaptées aux gabarits des véhicules",
-            "Dosage maîtrisé du détergent",
-            "Récupération et traitement de l'eau en option",
-            "Pupitre de commande centralisé",
-            "Conçue pour les conditions locales d'eau et de climat"
+            "Fonctionnement au défilé – le train ne s'arrête pas",
+            "Détection de vitesse par laser",
+            "Prémouillage, traitement chimique, brossage, rinçage haute pression et essuyage",
+            "Rame de 24 voitures en 15 minutes ou moins",
+            "Max. 60 litres d'eau propre par voiture",
+            "Recyclage de l'eau par une ETP intégrée",
+            "Commande centralisée avec surveillance en temps réel",
+            "Conception modulaire robuste"
           ]
         },
         {
@@ -3967,7 +4322,7 @@
           "items": [
             {
               "image": "products/automated-train-washing-plant",
-              "caption": "Illustration d'exemple de l'installation automatique de lavage des trains"
+              "caption": "Installation automatique de lavage des trains HYT avec des unités de brossage de part et d'autre de la voie"
             },
             {
               "image": "projects/metro-depot",
@@ -3990,11 +4345,11 @@
           "items": [
             {
               "q": "Le train doit-il s'arrêter ?",
-              "a": "Non. Dans une installation au défilé, le train passe à faible vitesse pendant que les étapes de lavage s'enchaînent."
+              "a": "Non. Le train traverse l'installation à 3–5 km/h pendant que les étapes de lavage s'enchaînent ; une rame de 24 voitures est lavée en 15 minutes ou moins."
             },
             {
               "q": "Les eaux de lavage peuvent-elles être recyclées ?",
-              "a": "La récupération et le traitement de l'eau peuvent être intégrés. La conception dépend de la qualité de l'eau locale, des règles de rejet et du volume de lavage."
+              "a": "Oui. L'eau de lavage est recyclée par une station de traitement des effluents (ETP) intégrée, ce qui limite la consommation d'eau propre à 60 litres maximum par voiture."
             },
             {
               "q": "Quels véhicules peut-on laver ?",
@@ -4014,12 +4369,12 @@
     },
     "rail-cum-road-vehicle-shunter": {
       "nav": "Véhicule rail-route (locotracteur)",
-      "title": "Véhicule rail-route de manœuvre pour dépôts",
-      "description": "Le véhicule rail-route HYT manœuvre voitures, wagons et locomotives en dépôt et sur faisceaux, puis quitte la voie sur pneus pour rejoindre sa mission suivante.",
+      "title": "Véhicule rail-route de manœuvre KRE 15 RCRV",
+      "description": "Locotracteur bimode à batteries pour dépôts et ateliers. Effort de traction de 15 kN, capacité de remorquage de 135 t et passage de la route au rail en deux minutes.",
       "eyebrow": "Équipements de dépôt et d'atelier",
-      "h1": "Véhicule rail-route (locotracteur) pour des manœuvres flexibles en dépôt et sur faisceaux de voies",
-      "lede": "Un seul véhicule qui circule sur rails pour déplacer le matériel roulant et sur route pour rejoindre la voie suivante – une alternative à la locomotive pour de nombreux mouvements en dépôt.",
-      "summary": "Locotracteur bimode qui déplace le matériel roulant sur rails et circule sur route entre les voies – une alternative aux manœuvres par locomotive dans les dépôts.",
+      "h1": "Véhicule rail-route de manœuvre KRE 15 RCRV – manœuvres à batteries sur rail et sur route",
+      "lede": "Un locotracteur bimode à batteries qui déplace locomotives, voitures, wagons et rames complètes sur rail comme sur route – sans locomotive de manœuvre dédiée.",
+      "summary": "Locotracteur rail-route à batteries, avec un effort de traction de 15 kN et une capacité de remorquage de 135 t, pour déplacer le matériel roulant dans les dépôts et les ateliers.",
       "related": [
         "automated-train-washing-plant",
         "underfloor-wheel-lathe",
@@ -4029,100 +4384,101 @@
         {
           "type": "text",
           "id": "overview",
-          "eyebrow": "Le véhicule",
-          "heading": "Manœuvrer sans immobiliser une locomotive",
+          "eyebrow": "Présentation du produit",
+          "heading": "Qu'est-ce que le véhicule rail-route de manœuvre ?",
           "paragraphs": [
-            "Les dépôts et ateliers déplacent des véhicules toute la journée : vers la voie du tour à roues, à travers l'installation de lavage, au-dessus des fosses de visite et jusqu'aux voies de remisage. Utiliser une locomotive pour chaque mouvement mobilise de la traction et du personnel de conduite, et une locomotive ne peut pas quitter les rails pour rejoindre une autre voie.",
-            "Un véhicule rail-route (locotracteur), si. Il circule sur route sur ses pneus, abaisse ses roues de guidage ferroviaire à un point d'accès à la voie, puis roule sur les rails pour atteler et déplacer le matériel roulant. Une fois la tâche terminée, il relève ses roues ferroviaires et rejoint la voie suivante par la route.",
-            "Le système d'attelage, le freinage, la capacité de traction et l'écartement sont adaptés aux véhicules que vous devez déplacer et à la configuration de votre dépôt."
+            "Le véhicule rail-route de manœuvre HYT est une solution polyvalente de manutention ferroviaire conçue pour déplacer en toute sécurité et efficacement locomotives, voitures, wagons, voitures de métro et rames complètes dans les dépôts, ateliers, installations de maintenance et usines de production.",
+            "Contrairement aux locomotives de manœuvre classiques, le véhicule rail-route de manœuvre HYT associe la mobilité routière à une capacité de traction ferroviaire : les opérateurs transfèrent ainsi le matériel roulant sans rupture entre les travées d'atelier, les voies d'inspection, les installations de lavage et les voies de garage, sans avoir besoin d'une locomotive dédiée.",
+            "Le locotracteur est équipé de systèmes hydrauliques et de traction évolués qui assurent une accélération progressive, un freinage maîtrisé et un positionnement précis du matériel roulant lors des opérations de maintenance et d'assemblage. La sécurité d'exploitation s'en trouve améliorée, les temps de rotation réduits et la productivité globale de l'atelier accrue.",
+            "Conçu pour les installations de maintenance ferroviaire modernes, le véhicule rail-route de manœuvre HYT constitue une alternative économique et flexible aux méthodes de manœuvre traditionnelles : il aide les exploitants à optimiser l'utilisation de leurs actifs tout en réduisant les coûts d'exploitation et les besoins en infrastructure."
           ],
           "image": "products/rail-cum-road-vehicle-shunter",
-          "image_alt": "Illustration d'exemple d'un véhicule rail-route de manœuvre attelé à une voiture voyageurs dans un dépôt",
+          "image_alt": "Véhicule rail-route de manœuvre HYT KRE 15 RCRV",
           "layout": "image-right"
         },
         {
           "type": "features",
           "id": "advantages",
           "eyebrow": "Principaux avantages",
-          "heading": "Ce que change un locotracteur rail-route",
+          "heading": "Pourquoi choisir le KRE 15 RCRV ?",
           "cols": 3,
           "items": [
             {
               "icon": "signpost-split",
-              "title": "Accès à toutes les voies",
-              "text": "Rejoint les voies par la route au lieu d'attendre aiguillages et itinéraires."
+              "title": "Fonctionnement bimode",
+              "text": "Déplacement fluide sur rail comme sur route, avec un temps de changement de mode de seulement deux minutes."
             },
             {
-              "icon": "train-freight-front",
-              "title": "Des locomotives libérées",
-              "text": "Les locomotives restent en service commercial ou sur grandes lignes au lieu d'effectuer des manœuvres en dépôt."
-            },
-            {
-              "icon": "clock-history",
-              "title": "Disponible immédiatement",
-              "text": "Rapide à mettre en œuvre pour des mouvements courts et fréquents."
-            },
-            {
-              "icon": "box-seam",
-              "title": "Dimensionné pour le dépôt",
-              "text": "Un véhicule compact adapté aux mouvements en dépôt, et non à la traction en ligne."
+              "icon": "lightning-charge",
+              "title": "Performances de manœuvre élevées",
+              "text": "Jusqu'à 15 kN d'effort de traction et 135 t de capacité de remorquage."
             },
             {
               "icon": "link-45deg",
-              "title": "Adapté à votre matériel",
-              "text": "Attelages et raccordements de frein adaptés à votre parc."
+              "title": "Treuil intégré en option",
+              "text": "Opérations de traction et de poussée efficaces."
             },
             {
-              "icon": "shield-check",
-              "title": "Des mouvements maîtrisés",
-              "text": "Conduite à faible vitesse pour des déplacements sûrs à proximité du personnel et des équipements."
+              "icon": "arrow-repeat",
+              "title": "Rotation à 360°",
+              "text": "Une maniabilité exceptionnelle dans les zones exiguës des dépôts."
+            },
+            {
+              "icon": "controller",
+              "title": "Commande à distance",
+              "text": "Sécurité, précision et confort d'utilisation accrus pour l'opérateur."
+            },
+            {
+              "icon": "battery-charging",
+              "title": "Entraînement électrique à batteries",
+              "text": "Un fonctionnement propre, silencieux et sans émissions."
             }
           ]
         },
         {
           "type": "specs",
           "id": "specifications",
-          "heading": "Caractéristiques techniques",
-          "intro": "Les capacités sont adaptées à la rame la plus lourde et à la déclivité la plus forte de votre dépôt.",
+          "heading": "Données techniques",
+          "intro": "Données techniques fournies par HYT. Chaque machine est configurée selon votre écartement de voie, vos profils de roue et vos véhicules.",
           "columns": [
             "Paramètre",
-            "Valeur"
+            "KRE 15 RCRV"
           ],
           "rows": [
             [
-              "Modes de fonctionnement",
-              "Rail et route"
+              "Configuration de la machine",
+              "Locotracteur bimode rail et route ; entraînement électrique à batteries"
             ],
             [
-              "Écartement de voie",
-              "Selon spécification du client*"
+              "Poids en service",
+              "6 t ± 10 %"
             ],
             [
-              "Capacité de traction",
-              "Sur demande"
+              "Charge max. par roue",
+              "Env. 1,5 t"
             ],
             [
-              "Effort de traction",
-              "Sur demande"
+              "Écartement",
+              "1 676 mm / 1 435 mm"
             ],
             [
-              "Groupe motopropulseur",
-              "Sur demande"
+              "Vitesse max.",
+              "V1 (en charge) : 0–2 km/h ; V2 (à vide) : 0–4 km/h"
             ],
             [
-              "Système d'attelage",
-              "Selon spécification du client"
+              "Effort de traction max.",
+              "15 kN à la jante, pour une adhérence μ = 0,5 sur rail sec (0,3 sur rail mouillé)"
             ],
             [
-              "Raccordement de frein au matériel remorqué",
-              "Sur demande"
+              "Capacité de remorquage",
+              "135 t de locomotive ou autre matériel roulant, sur des déclivités jusqu'à 2,5 ‰ (2,5 pour 1 000)"
             ],
             [
-              "Passage rail–route",
-              "Sur demande"
+              "Temps de passage de la route au rail",
+              "Env. 2 min"
             ]
           ],
-          "note": "Les valeurs marquées * dépendent de l'écartement de voie et de la configuration du client. Les valeurs définitives sont confirmées dans l'offre technique."
+          "note": "Les valeurs définitives sont confirmées dans l'offre technique."
         },
         {
           "type": "steps",
@@ -4136,15 +4492,15 @@
             },
             {
               "title": "Mise sur rails",
-              "text": "Les roues de guidage ferroviaire sont abaissées et le véhicule est aligné sur la voie."
+              "text": "Le locotracteur passe du mode route au mode rail en deux minutes environ et s'aligne sur la voie."
             },
             {
               "title": "Attelage",
-              "text": "Il s'attelle au matériel roulant et le raccordement de frein est effectué."
+              "text": "Il s'attelle au matériel roulant à déplacer."
             },
             {
               "title": "Manœuvre",
-              "text": "La rame est déplacée vers la voie d'atelier, l'installation de lavage ou la voie de garage."
+              "text": "À l'aide de la télécommande, l'opérateur déplace la rame vers la voie d'atelier, l'installation de lavage ou la voie de garage."
             },
             {
               "title": "Dételage",
@@ -4162,14 +4518,14 @@
           "heading": "Caractéristiques principales",
           "cols": 2,
           "items": [
-            "Fonctionnement rail et route dans un seul véhicule",
-            "Roues de guidage ferroviaire escamotables",
-            "Attelage adapté à votre matériel roulant",
-            "Raccordement de frein aux véhicules remorqués sur demande",
-            "Cabine de conduite avec vue le long de la voie",
-            "Configuré selon votre écartement de voie",
-            "Conçu pour les mouvements à faible vitesse en dépôt",
-            "Formation des conducteurs incluse dans la mise en service"
+            "Circulation sur rail et sur route avec un seul véhicule",
+            "Passage de la route au rail en 2 minutes environ",
+            "Jusqu'à 15 kN d'effort de traction à la jante",
+            "Capacité de remorquage de 135 t sur des déclivités jusqu'à 2,5 ‰",
+            "Commande à distance",
+            "Rotation à 360° pour les zones exiguës des dépôts",
+            "Treuil intégré en option",
+            "Entraînement électrique à batteries, sans émissions"
           ]
         },
         {
@@ -4221,7 +4577,7 @@
           "items": [
             {
               "image": "products/rail-cum-road-vehicle-shunter",
-              "caption": "Illustration d'exemple du véhicule rail-route (locotracteur)"
+              "caption": "Véhicule rail-route de manœuvre HYT KRE 15 RCRV"
             },
             {
               "image": "projects/metro-depot",
@@ -4240,11 +4596,11 @@
           "items": [
             {
               "q": "Qu'est-ce qu'un véhicule rail-route ?",
-              "a": "Un véhicule capable de circuler sur route sur ses pneus et sur rails grâce à des roues de guidage escamotables. En mode manœuvre, il s'attelle au matériel roulant et le déplace sur la voie."
+              "a": "Un locotracteur qui roule sur route et circule sur rails, et passe d'un mode à l'autre en deux minutes environ. En mode manœuvre, il s'attelle au matériel roulant et le déplace le long de la voie."
             },
             {
               "q": "Combien de véhicules peut-il déplacer ?",
-              "a": "Cela dépend de la capacité de traction configurée, du poids de votre matériel roulant et des déclivités du dépôt. Nous dimensionnons le véhicule pour votre mouvement régulier le plus lourd."
+              "a": "Le KRE 15 RCRV déplace jusqu'à 135 t de locomotives ou d'autre matériel roulant sur des déclivités jusqu'à 2,5 ‰, avec un effort de traction allant jusqu'à 15 kN. Nous vérifions ces valeurs au regard de votre mouvement régulier le plus lourd et des déclivités de votre dépôt."
             },
             {
               "q": "Quelle infrastructure nécessite-t-il ?",
