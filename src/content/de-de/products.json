@@ -25,7 +25,7 @@
             "Partnertechnologie aus Deutschland, exklusiv in Indien vertrieben"
           ],
           "image": "products/wheelset-profile-closeup",
-          "image_alt": "Beispielabbildung eines Eisenbahnrad-Laufflächen- und Spurkranzprofils nach der CNC-Bearbeitung",
+          "image_alt": "Nahaufnahme der Reprofilierung einer Eisenbahnrad-Lauffläche",
           "layout": "image-right"
         },
         {
@@ -756,7 +756,7 @@
             },
             {
               "image": "products/wheelset-profile-closeup",
-              "caption": "Beispielabbildung der Profilbearbeitung von Lauffläche und Spurkranz"
+              "caption": "Nahaufnahme der Reprofilierung einer Eisenbahnrad-Lauffläche"
             },
             {
               "image": "projects/pit-foundation-civil-works",
@@ -1369,7 +1369,7 @@
             },
             {
               "image": "products/wheelset-profile-closeup",
-              "caption": "Beispielabbildung einer reprofilierten Lauffläche mit Spurkranz"
+              "caption": "Nahaufnahme der Reprofilierung einer Eisenbahnrad-Lauffläche"
             }
           ]
         },
@@ -1950,7 +1950,7 @@
             },
             {
               "image": "products/wheelset-profile-closeup",
-              "caption": "Beispielabbildung eines wiederhergestellten Lauf- und Spurkranzprofils"
+              "caption": "Nahaufnahme der Reprofilierung einer Eisenbahnrad-Lauffläche"
             },
             {
               "image": "company/quality-inspection",
@@ -2013,7 +2013,7 @@
             "Be- und Entladen erfolgen vollautomatisch; wo der Platz begrenzt ist, kann das Ein- und Ausrollen aus derselben Richtung vorgesehen werden. Radsätze mit außenliegendem Kegelrollen-Kassettenlager (CTRB) werden von einer hydraulisch betätigten Spannvorrichtung zentriert und gespannt; rad- und achsmontierte Bremsscheiben lassen sich optional bearbeiten."
           ],
           "image": "products/roller-type-portal-wheel-lathe",
-          "image_alt": "HYT CNC-Portal-Radsatzdrehmaschine mit Rollenantrieb YPL-04 mit geschlossenem Portal und Bedienpult",
+          "image_alt": "HYT CNC-Portal-Radsatzdrehmaschine mit Rollenantrieb (YPL-04)",
           "layout": "image-right"
         },
         {
@@ -2229,11 +2229,11 @@
           "items": [
             {
               "image": "products/roller-type-portal-wheel-lathe",
-              "caption": "HYT CNC-Portal-Radsatzdrehmaschine mit Rollenantrieb YPL-04 mit geschlossenem Portal und Bedienpult"
+              "caption": "HYT CNC-Portal-Radsatzdrehmaschine mit Rollenantrieb (YPL-04)"
             },
             {
               "image": "products/wheelset-profile-closeup",
-              "caption": "Beispielabbildung eines Radprofils nach der Reprofilierung"
+              "caption": "Nahaufnahme der Reprofilierung einer Eisenbahnrad-Lauffläche"
             },
             {
               "image": "projects/railway-wheel-shop",
@@ -2840,7 +2840,7 @@
             "Eine eigene Steuerungssoftware mit kundenspezifischen HMI-Bildschirmen übernimmt die Sicherheitsfunktionen für einen einfachen und sicheren Betrieb und zeigt Störmeldungen an. Fernwartung durch die HYT-Zentrale ist verfügbar, und der schnelle Zugang zu wartungsrelevanten Bauteilen hält die Servicezeiten kurz. Die Maschine vereint Funktionen von Industrie 4.0 und Industrie 5.0."
           ],
           "image": "products/axle-turning-lathe",
-          "image_alt": "Beispielabbildung einer CNC-Achswellendrehmaschine",
+          "image_alt": "HYT CNC-Achswellendrehmaschine (ATL-01)",
           "layout": "image-right"
         },
         {
@@ -3052,7 +3052,7 @@
           "items": [
             {
               "image": "products/axle-turning-lathe",
-              "caption": "Beispielabbildung der Achswellendrehmaschine ATL-01"
+              "caption": "HYT CNC-Achswellendrehmaschine (ATL-01)"
             },
             {
               "image": "projects/railway-wheel-shop",
@@ -3374,7 +3374,7 @@
             "Vor einer Radsatzdrehmaschine hilft die Station bei der Planung des Schnitts; nach der Bearbeitung oder dem Aufpressen bestätigt sie das Ergebnis. In einer [automatisierten Radsatzwerkstatt](page:ts-wheel-shops#automation) wird sie zum Datenpunkt, der jedem Radsatz seinen nächsten Weg vorgibt."
           ],
           "image": "products/wheel-measuring-station",
-          "image_alt": "Beispielabbildung eines Radsatzes auf einer automatischen Radsatzmessstation",
+          "image_alt": "HYT Radsatzmessstation",
           "layout": "image-right"
         },
         {
@@ -3554,11 +3554,11 @@
           "items": [
             {
               "image": "products/wheel-measuring-station",
-              "caption": "Beispielabbildung der Radsatzmessstation"
+              "caption": "HYT Radsatzmessstation"
             },
             {
               "image": "products/wheelset-profile-closeup",
-              "caption": "Beispielabbildung eines vermessenen Radprofils"
+              "caption": "Nahaufnahme der Reprofilierung einer Eisenbahnrad-Lauffläche"
             },
             {
               "image": "projects/wheel-shop-automation-line",
@@ -3625,7 +3625,7 @@
             "Betreiber von Reisezügen, Metros und Triebzügen legen für ihre Räder in der Regel Unwuchtgrenzwerte fest, denn Fahrkomfort, Geräuschentwicklung und Bauteillebensdauer hängen davon ab."
           ],
           "image": "products/dynamic-wheel-balancing-machine",
-          "image_alt": "Beispielabbildung eines Eisenbahnrads auf einer dynamischen Auswuchtmaschine",
+          "image_alt": "HYT Dynamische Radauswuchtmaschine",
           "layout": "image-right"
         },
         {
@@ -3800,7 +3800,7 @@
           "items": [
             {
               "image": "products/dynamic-wheel-balancing-machine",
-              "caption": "Beispielabbildung der dynamischen Radauswuchtmaschine"
+              "caption": "HYT Dynamische Radauswuchtmaschine"
             },
             {
               "image": "company/quality-inspection",
@@ -3808,7 +3808,7 @@
             },
             {
               "image": "products/wheelset-profile-closeup",
-              "caption": "Beispielabbildung eines fertigen Eisenbahnrads"
+              "caption": "Nahaufnahme der Reprofilierung einer Eisenbahnrad-Lauffläche"
             },
             {
               "image": "homepage/engineering-technology",

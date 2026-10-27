@@ -102,7 +102,7 @@
               "icon": "rulers",
               "title": "Mesure et contrôle",
               "image": "products/wheel-measuring-station",
-              "image_alt": "Illustration d’exemple d’une station de mesure des roues relevant la géométrie d’un essieu monté",
+              "image_alt": "HYT Station de mesure des roues",
               "text": "Chaque essieu monté est mesuré à son arrivée, puis de nouveau avant sa remise en service. La [station de mesure des roues](page:wheel-measuring-station) relève le profil, les diamètres et la cote entre faces internes – les données qui déterminent s’il faut reprofiler ou remplacer les roues.",
               "bullets": [
                 "Point de décision pour le parcours de chaque essieu monté",
@@ -162,7 +162,7 @@
               "icon": "speedometer2",
               "title": "Équilibrage et remise en service",
               "image": "products/dynamic-wheel-balancing-machine",
-              "image_alt": "Illustration d’exemple d’une équilibreuse dynamique de roues",
+              "image_alt": "HYT Équilibreuse dynamique de roues",
               "text": "Si le cahier des charges l’exige, une [équilibreuse dynamique de roues](page:dynamic-wheel-balancing-machine) contrôle et corrige le balourd avant le remontage des roulements et des boîtes d’essieu et la remise en service de l’essieu monté.",
               "bullets": [
                 "Balourd mesuré et corrigé",
@@ -682,7 +682,7 @@
             "Le rôle de HYT est clairement défini. Nous ne construisons ni caisses ni châssis de bogie. Nous concevons, équipons et mettons en service l’atelier roues et essieux – usinage, calage, mesure et équilibrage – et le raccordons au flux de matières et au système qualité de l’usine, sous la forme d’une offre clés en main unique."
           ],
           "image": "products/wheel-measuring-station",
-          "image_alt": "Illustration d’exemple d’une station de mesure des roues contrôlant un essieu monté fini avant le montage du bogie",
+          "image_alt": "HYT Station de mesure des roues",
           "layout": "image-right"
         },
         {
@@ -1105,7 +1105,7 @@
             "HYT conçoit la ligne comme un tout : la répartition des opérations entre les postes, la manutention et le retournement entre eux, ainsi que les points de mesure. Les postes d’usinage eux-mêmes sont des [tours verticaux CNC de tournage et d’alésage](page:vertical-turning-boring-machine) HYT."
           ],
           "image": "products/wheelset-profile-closeup",
-          "image_alt": "Illustration d’exemple du profil de la table de roulement et du boudin d’une roue ferroviaire après usinage",
+          "image_alt": "Gros plan sur le reprofilage de la table de roulement d’une roue ferroviaire",
           "layout": "image-right"
         },
         {

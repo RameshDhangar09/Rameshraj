@@ -146,7 +146,7 @@
           "items": [
             {"image": "company/exhibition-stand", "caption": "Sample illustration of the HYT exhibition stand"},
             {"image": "products/underfloor-wheel-lathe-yul-08", "caption": "HYT CNC Underfloor Wheel Lathe (YUL-08)"},
-            {"image": "products/wheelset-profile-closeup", "caption": "Sample illustration of a re-profiled wheel tread and flange"},
+            {"image": "products/wheelset-profile-closeup", "caption": "Close-up of a railway wheel tread being re-profiled"},
             {"image": "company/engineering-design", "caption": "Sample illustration of HYT engineers reviewing a machine design"}
           ]
         },
@@ -252,7 +252,7 @@
             "If you are looking for company announcements such as orders and exhibitions, see [Latest News](page:news)."
           ],
           "image": "products/wheelset-profile-closeup",
-          "image_alt": "Sample illustration of a railway wheel tread and flange after re-profiling",
+          "image_alt": "Close-up of a railway wheel tread being re-profiled",
           "layout": "image-right"
         },
         {
@@ -326,7 +326,7 @@
             "**Out-of-roundness and diameter differences** – polygonal wear and mismatched diameters on one axle or within one bogie cause vibration and poor steering."
           ],
           "image": "products/wheelset-profile-closeup",
-          "image_alt": "Sample illustration of a railway wheel profile showing tread and flange",
+          "image_alt": "Close-up of a railway wheel tread being re-profiled",
           "layout": "image-right",
           "link": {"label": "Measure wheels accurately: wheel measuring station", "page": "wheel-measuring-station"}
         },

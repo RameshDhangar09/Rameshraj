@@ -146,7 +146,7 @@
           "items": [
             {"image": "company/exhibition-stand", "caption": "Beispielillustration des HYT-Messestands"},
             {"image": "products/underfloor-wheel-lathe-yul-08", "caption": "HYT CNC-Unterflur-Radsatzdrehmaschine (YUL-08)"},
-            {"image": "products/wheelset-profile-closeup", "caption": "Beispielillustration einer reprofilierten Lauffläche mit Spurkranz"},
+            {"image": "products/wheelset-profile-closeup", "caption": "Nahaufnahme der Reprofilierung einer Eisenbahnrad-Lauffläche"},
             {"image": "company/engineering-design", "caption": "Beispielillustration von HYT-Ingenieuren bei der Prüfung einer Maschinenkonstruktion"}
           ]
         },
@@ -252,7 +252,7 @@
             "Unternehmensmeldungen wie Aufträge und Messen finden Sie unter [Aktuelles](page:news)."
           ],
           "image": "products/wheelset-profile-closeup",
-          "image_alt": "Beispielillustration einer Radlauffläche mit Spurkranz nach der Reprofilierung",
+          "image_alt": "Nahaufnahme der Reprofilierung einer Eisenbahnrad-Lauffläche",
           "layout": "image-right"
         },
         {
@@ -326,7 +326,7 @@
             "**Unrundheit und Durchmesserunterschiede** – polygonaler Verschleiß und abweichende Laufkreisdurchmesser an einer Achse oder innerhalb eines Drehgestells verursachen Schwingungen und schlechte Lenkeigenschaften."
           ],
           "image": "products/wheelset-profile-closeup",
-          "image_alt": "Beispielillustration eines Radprofils mit Lauffläche und Spurkranz",
+          "image_alt": "Nahaufnahme der Reprofilierung einer Eisenbahnrad-Lauffläche",
           "layout": "image-right",
           "link": {"label": "Räder präzise messen: Radmessstation", "page": "wheel-measuring-station"}
         },

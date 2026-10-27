@@ -204,7 +204,7 @@
             },
             {
               "image": "products/wheelset-profile-closeup",
-              "caption": "Illustration d’exemple d’une table de roulement et d’un boudin reprofilés"
+              "caption": "Gros plan sur le reprofilage de la table de roulement d’une roue ferroviaire"
             },
             {
               "image": "company/engineering-design",
@@ -352,7 +352,7 @@
             "Pour les annonces de l’entreprise, comme les commandes et les salons, consultez les [actualités](page:news)."
           ],
           "image": "products/wheelset-profile-closeup",
-          "image_alt": "Illustration d’exemple d’une table de roulement et d’un boudin de roue ferroviaire après reprofilage",
+          "image_alt": "Gros plan sur le reprofilage de la table de roulement d’une roue ferroviaire",
           "layout": "image-right"
         },
         {
@@ -471,7 +471,7 @@
             "**Faux-rond et écarts de diamètre** – l’usure polygonale et des diamètres non appariés sur un même essieu ou dans un même bogie provoquent des vibrations et un mauvais guidage."
           ],
           "image": "products/wheelset-profile-closeup",
-          "image_alt": "Illustration d’exemple d’un profil de roue ferroviaire montrant la table de roulement et le boudin",
+          "image_alt": "Gros plan sur le reprofilage de la table de roulement d’une roue ferroviaire",
           "layout": "image-right",
           "link": {
             "label": "Mesurer les roues avec précision : station de mesure de roues",

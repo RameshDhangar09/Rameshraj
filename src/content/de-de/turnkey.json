@@ -102,7 +102,7 @@
               "icon": "rulers",
               "title": "Messen & Prüfen",
               "image": "products/wheel-measuring-station",
-              "image_alt": "Beispielabbildung einer Radsatzmessstation bei der Erfassung der Radsatzgeometrie",
+              "image_alt": "HYT Radsatzmessstation",
               "text": "Jeder Radsatz wird beim Eingang und erneut vor der Freigabe gemessen. Die [Radsatzmessstation](page:wheel-measuring-station) erfasst Profil, Durchmesser und Radinnenabstand – die Daten, die zwischen Reprofilierung und Radwechsel entscheiden.",
               "bullets": [
                 "Entscheidungspunkt für den Weg jedes Radsatzes",
@@ -162,7 +162,7 @@
               "icon": "speedometer2",
               "title": "Auswuchten & Freigabe",
               "image": "products/dynamic-wheel-balancing-machine",
-              "image_alt": "Beispielabbildung einer dynamischen Radauswuchtmaschine",
+              "image_alt": "HYT Dynamische Radauswuchtmaschine",
               "text": "Sofern vorgegeben, prüft und korrigiert eine [dynamische Radauswuchtmaschine](page:dynamic-wheel-balancing-machine) die Unwucht, bevor Lager und Radsatzlagergehäuse wieder montiert werden und der Radsatz freigegeben wird.",
               "bullets": [
                 "Unwucht gemessen und korrigiert",
@@ -682,7 +682,7 @@
             "Die Rolle von HYT ist klar abgegrenzt. Wir bauen weder Wagenkästen noch Drehgestellrahmen. Wir planen, rüsten und nehmen die Rad- und Achswerkstatt in Betrieb – Bearbeiten, Aufpressen, Messen und Auswuchten – und binden sie als ein schlüsselfertiges Paket an den Materialfluss und das Qualitätssystem des Werks an."
           ],
           "image": "products/wheel-measuring-station",
-          "image_alt": "Beispielabbildung einer Radsatzmessstation bei der Prüfung eines fertigen Radsatzes vor der Drehgestellmontage",
+          "image_alt": "HYT Radsatzmessstation",
           "layout": "image-right"
         },
         {
@@ -1105,7 +1105,7 @@
             "HYT plant die Linie als Ganzes: die Aufteilung der Arbeitsgänge auf die Stationen, das Handling und Wenden dazwischen sowie die Punkte, an denen gemessen wird. Die Bearbeitungsstationen selbst sind [CNC-Vertikal-Dreh- und Bohrmaschinen](page:vertical-turning-boring-machine) von HYT."
           ],
           "image": "products/wheelset-profile-closeup",
-          "image_alt": "Beispielabbildung des Laufflächen- und Spurkranzprofils eines Eisenbahnrads nach der Bearbeitung",
+          "image_alt": "Nahaufnahme der Reprofilierung einer Eisenbahnrad-Lauffläche",
           "layout": "image-right"
         },
         {

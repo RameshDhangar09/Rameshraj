@@ -204,7 +204,7 @@
             },
             {
               "image": "products/wheelset-profile-closeup",
-              "caption": "Voorbeeldillustratie van een geherprofileerd loopvlak en een geherprofileerde flens"
+              "caption": "Close-up van het herprofileren van het loopvlak van een spoorwiel"
             },
             {
               "image": "company/engineering-design",
@@ -352,7 +352,7 @@
             "Zoekt u bedrijfsmededelingen zoals orders en beurzen? Kijk dan bij [Laatste nieuws](page:news)."
           ],
           "image": "products/wheelset-profile-closeup",
-          "image_alt": "Voorbeeldillustratie van het loopvlak en de flens van een spoorwiel na het herprofileren",
+          "image_alt": "Close-up van het herprofileren van het loopvlak van een spoorwiel",
           "layout": "image-right"
         },
         {
@@ -471,7 +471,7 @@
             "**Onrondheid en diameterverschillen** – polygonisatie en ongelijke diameters op één as of binnen één draaistel veroorzaken trillingen en slecht stuurgedrag."
           ],
           "image": "products/wheelset-profile-closeup",
-          "image_alt": "Voorbeeldillustratie van een spoorwielprofiel met loopvlak en flens",
+          "image_alt": "Close-up van het herprofileren van het loopvlak van een spoorwiel",
           "layout": "image-right",
           "link": {
             "label": "Wielen nauwkeurig meten: wielmeetstation",

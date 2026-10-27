@@ -102,7 +102,7 @@
               "icon": "rulers",
               "title": "Misura e ispezione",
               "image": "products/wheel-measuring-station",
-              "image_alt": "Illustrazione esemplificativa di una stazione di misura ruote che rileva la geometria di una sala montata",
+              "image_alt": "HYT Stazione di misura ruote",
               "text": "Ogni sala montata viene misurata all'arrivo e di nuovo prima del rilascio. La [stazione di misura ruote](page:wheel-measuring-station) rileva profilo, diametri e scartamento interno – i dati che decidono tra riprofilatura e sostituzione delle ruote.",
               "bullets": [
                 "Punto decisionale per il percorso di ogni sala montata",
@@ -162,7 +162,7 @@
               "icon": "speedometer2",
               "title": "Equilibratura e rilascio",
               "image": "products/dynamic-wheel-balancing-machine",
-              "image_alt": "Illustrazione esemplificativa di un'equilibratrice dinamica per ruote",
+              "image_alt": "HYT Equilibratrice dinamica per ruote",
               "text": "Ove previsto, un'[equilibratrice dinamica per ruote](page:dynamic-wheel-balancing-machine) verifica e corregge lo squilibrio prima che cuscinetti e boccole vengano rimontati e la sala montata venga rilasciata.",
               "bullets": [
                 "Squilibrio misurato e corretto",
@@ -682,7 +682,7 @@
             "Il ruolo di HYT è chiaramente definito. Non costruiamo casse né telai dei carrelli. Progettiamo, allestiamo e mettiamo in servizio l'officina ruote e assi – lavorazione, calettamento, misura ed equilibratura – e la colleghiamo al flusso dei materiali e al sistema qualità dello stabilimento come un unico pacchetto chiavi in mano."
           ],
           "image": "products/wheel-measuring-station",
-          "image_alt": "Illustrazione esemplificativa di una stazione di misura ruote che controlla una sala montata finita prima del montaggio del carrello",
+          "image_alt": "HYT Stazione di misura ruote",
           "layout": "image-right"
         },
         {
@@ -1105,7 +1105,7 @@
             "HYT progetta la linea nel suo insieme: la ripartizione delle operazioni tra le postazioni, la movimentazione e il ribaltamento tra di esse e i punti in cui avviene la misura. Le postazioni di lavorazione sono [torni verticali CNC per tornitura e alesatura](page:vertical-turning-boring-machine) HYT."
           ],
           "image": "products/wheelset-profile-closeup",
-          "image_alt": "Illustrazione esemplificativa del profilo di rotolamento e del bordino di una ruota ferroviaria dopo la lavorazione",
+          "image_alt": "Primo piano della riprofilatura del battistrada di una ruota ferroviaria",
           "layout": "image-right"
         },
         {

@@ -25,7 +25,7 @@
             "Technologie partenaire allemande, distribuée en exclusivité en Inde"
           ],
           "image": "products/wheelset-profile-closeup",
-          "image_alt": "Illustration d'exemple d'un profil de table de roulement et de boudin de roue ferroviaire après usinage CNC",
+          "image_alt": "Gros plan sur le reprofilage de la table de roulement d’une roue ferroviaire",
           "layout": "image-right"
         },
         {
@@ -756,7 +756,7 @@
             },
             {
               "image": "products/wheelset-profile-closeup",
-              "caption": "Illustration d'exemple du profilage de la table de roulement et du boudin"
+              "caption": "Gros plan sur le reprofilage de la table de roulement d’une roue ferroviaire"
             },
             {
               "image": "projects/pit-foundation-civil-works",
@@ -1369,7 +1369,7 @@
             },
             {
               "image": "products/wheelset-profile-closeup",
-              "caption": "Illustration d'exemple d'une table de roulement et d'un boudin reprofilés"
+              "caption": "Gros plan sur le reprofilage de la table de roulement d’une roue ferroviaire"
             }
           ]
         },
@@ -1950,7 +1950,7 @@
             },
             {
               "image": "products/wheelset-profile-closeup",
-              "caption": "Illustration d'exemple d'un profil de table de roulement et de boudin restauré"
+              "caption": "Gros plan sur le reprofilage de la table de roulement d’une roue ferroviaire"
             },
             {
               "image": "company/quality-inspection",
@@ -2013,7 +2013,7 @@
             "Le chargement et le déchargement sont entièrement automatiques, et l'entrée et la sortie par le même côté peuvent être prévues lorsque la place est limitée. Les essieux montés à roulements à cartouche (CTRB) extérieurs sont centrés et bridés par un dispositif de bridage à commande hydraulique, et les disques de frein montés sur roue ou sur essieu peuvent être usinés en option."
           ],
           "image": "products/roller-type-portal-wheel-lathe",
-          "image_alt": "Tour à roues à portique à galets CNC HYT YPL-04 avec portique caréné et pupitre opérateur",
+          "image_alt": "HYT Tour à roues à portique à galets CNC (YPL-04)",
           "layout": "image-right"
         },
         {
@@ -2229,11 +2229,11 @@
           "items": [
             {
               "image": "products/roller-type-portal-wheel-lathe",
-              "caption": "Tour à roues à portique à galets CNC HYT YPL-04 avec portique caréné et pupitre opérateur"
+              "caption": "HYT Tour à roues à portique à galets CNC (YPL-04)"
             },
             {
               "image": "products/wheelset-profile-closeup",
-              "caption": "Illustration d'exemple d'un profil de roue après reprofilage"
+              "caption": "Gros plan sur le reprofilage de la table de roulement d’une roue ferroviaire"
             },
             {
               "image": "projects/railway-wheel-shop",
@@ -2840,7 +2840,7 @@
             "Un logiciel de commande dédié, avec des écrans IHM personnalisés, gère les dispositifs de sécurité pour une utilisation simple et sûre, et affiche les messages de défaut. La télémaintenance depuis le siège de HYT est disponible, et l'accès rapide aux organes à entretenir limite la durée des interventions. La machine intègre des fonctionnalités Industrie 4.0 et Industrie 5.0."
           ],
           "image": "products/axle-turning-lathe",
-          "image_alt": "Illustration d'exemple d'un tour à essieux CNC",
+          "image_alt": "HYT Tour à essieux CNC (ATL-01)",
           "layout": "image-right"
         },
         {
@@ -3052,7 +3052,7 @@
           "items": [
             {
               "image": "products/axle-turning-lathe",
-              "caption": "Illustration d'exemple du tour à essieux ATL-01"
+              "caption": "HYT Tour à essieux CNC (ATL-01)"
             },
             {
               "image": "projects/railway-wheel-shop",
@@ -3374,7 +3374,7 @@
             "Placée en amont d'un tour à roues, la station aide à planifier la passe ; placée après l'usinage ou le calage, elle confirme le résultat. Dans un [atelier d'essieux automatisé](page:ts-wheel-shops#automation), elle devient le point de données qui indique à chaque essieu monté sa prochaine destination."
           ],
           "image": "products/wheel-measuring-station",
-          "image_alt": "Illustration d'exemple d'un essieu monté sur une station de mesure automatique des roues",
+          "image_alt": "HYT Station de mesure des roues",
           "layout": "image-right"
         },
         {
@@ -3554,11 +3554,11 @@
           "items": [
             {
               "image": "products/wheel-measuring-station",
-              "caption": "Illustration d'exemple de la station de mesure des roues"
+              "caption": "HYT Station de mesure des roues"
             },
             {
               "image": "products/wheelset-profile-closeup",
-              "caption": "Illustration d'exemple d'un profil de roue mesuré"
+              "caption": "Gros plan sur le reprofilage de la table de roulement d’une roue ferroviaire"
             },
             {
               "image": "projects/wheel-shop-automation-line",
@@ -3625,7 +3625,7 @@
             "Les exploitants de trains de voyageurs, de métros et d'automotrices spécifient couramment des limites d'équilibrage pour leurs roues, car le confort, le bruit et la durée de vie des composants en dépendent."
           ],
           "image": "products/dynamic-wheel-balancing-machine",
-          "image_alt": "Illustration d'exemple d'une roue ferroviaire sur une équilibreuse dynamique",
+          "image_alt": "HYT Équilibreuse dynamique de roues",
           "layout": "image-right"
         },
         {
@@ -3800,7 +3800,7 @@
           "items": [
             {
               "image": "products/dynamic-wheel-balancing-machine",
-              "caption": "Illustration d'exemple de l'équilibreuse dynamique de roues"
+              "caption": "HYT Équilibreuse dynamique de roues"
             },
             {
               "image": "company/quality-inspection",
@@ -3808,7 +3808,7 @@
             },
             {
               "image": "products/wheelset-profile-closeup",
-              "caption": "Illustration d'exemple d'une roue ferroviaire finie"
+              "caption": "Gros plan sur le reprofilage de la table de roulement d’une roue ferroviaire"
             },
             {
               "image": "homepage/engineering-technology",

@@ -102,7 +102,7 @@
               "icon": "rulers",
               "title": "Meten en inspectie",
               "image": "products/wheel-measuring-station",
-              "image_alt": "Voorbeeldillustratie van een wielmeetstation dat de geometrie van een wielstel vastlegt",
+              "image_alt": "HYT Wielmeetstation",
               "text": "Elk wielstel wordt bij aankomst gemeten en opnieuw vóór de vrijgave. Het [wielmeetstation](page:wheel-measuring-station) legt profiel, diameters en binnenwerkse afstand vast – de gegevens die bepalen of een wielstel wordt geherprofileerd of nieuwe wielen krijgt.",
               "bullets": [
                 "Beslispunt voor de route van elk wielstel",
@@ -162,7 +162,7 @@
               "icon": "speedometer2",
               "title": "Balanceren en vrijgave",
               "image": "products/dynamic-wheel-balancing-machine",
-              "image_alt": "Voorbeeldillustratie van een dynamische wielbalanceermachine",
+              "image_alt": "HYT Dynamische wielbalanceermachine",
               "text": "Waar voorgeschreven controleert en corrigeert een [dynamische wielbalanceermachine](page:dynamic-wheel-balancing-machine) de onbalans, voordat lagers en asbussen worden teruggeplaatst en het wielstel wordt vrijgegeven.",
               "bullets": [
                 "Onbalans gemeten en gecorrigeerd",
@@ -682,7 +682,7 @@
             "De rol van HYT is duidelijk afgebakend. Wij bouwen geen wagenbakken of draaistelframes. Wij plannen de wiel- en aswerkplaats (bewerken, persen, meten en balanceren), rusten haar uit, stellen haar in bedrijf en koppelen haar als één turnkey-pakket aan de materiaalstroom en het kwaliteitssysteem van de fabriek."
           ],
           "image": "products/wheel-measuring-station",
-          "image_alt": "Voorbeeldillustratie van een wielmeetstation dat een afgewerkt wielstel controleert vóór de draaistelassemblage",
+          "image_alt": "HYT Wielmeetstation",
           "layout": "image-right"
         },
         {
@@ -1105,7 +1105,7 @@
             "HYT plant de lijn als geheel: de verdeling van de bewerkingen over de werkplekken, het transport en het keren daartussen en de punten waar wordt gemeten. De bewerkingsstations zelf zijn [CNC-verticale draai- en boormachines](page:vertical-turning-boring-machine) van HYT."
           ],
           "image": "products/wheelset-profile-closeup",
-          "image_alt": "Voorbeeldillustratie van het loopvlak- en flensprofiel van een spoorwiel na bewerking",
+          "image_alt": "Close-up van het herprofileren van het loopvlak van een spoorwiel",
           "layout": "image-right"
         },
         {

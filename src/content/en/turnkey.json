@@ -102,7 +102,7 @@
               "icon": "rulers",
               "title": "Measuring & inspection",
               "image": "products/wheel-measuring-station",
-              "image_alt": "Sample illustration of a wheel measuring station recording wheelset geometry",
+              "image_alt": "HYT Wheel Measuring Station",
               "text": "Every wheelset is measured on arrival and again before release. The [wheel measuring station](page:wheel-measuring-station) records profile, diameters and back-to-back distance – the data that decides between re-profiling and re-wheeling.",
               "bullets": [
                 "Decision point for each wheelset's route",
@@ -162,7 +162,7 @@
               "icon": "speedometer2",
               "title": "Balancing & release",
               "image": "products/dynamic-wheel-balancing-machine",
-              "image_alt": "Sample illustration of a dynamic wheel balancing machine",
+              "image_alt": "HYT Dynamic Wheel Balancing Machine",
               "text": "Where specified, a [dynamic wheel balancing machine](page:dynamic-wheel-balancing-machine) checks and corrects imbalance before bearings and axleboxes are refitted and the wheelset is released.",
               "bullets": [
                 "Imbalance measured and corrected",
@@ -682,7 +682,7 @@
             "HYT's role is clearly defined. We do not build car bodies or bogie frames. We plan, equip and commission the wheel and axle shop – machining, pressing, measuring and balancing – and connect it to the factory's material flow and quality system as one turnkey package."
           ],
           "image": "products/wheel-measuring-station",
-          "image_alt": "Sample illustration of a wheel measuring station checking a finished wheelset before bogie assembly",
+          "image_alt": "HYT Wheel Measuring Station",
           "layout": "image-right"
         },
         {
@@ -1105,7 +1105,7 @@
             "HYT plans the line as a whole: the split of operations between stations, the handling and turnover between them, and the points where measurement takes place. The machining stations themselves are HYT [CNC vertical turning and boring machines](page:vertical-turning-boring-machine)."
           ],
           "image": "products/wheelset-profile-closeup",
-          "image_alt": "Sample illustration of a railway wheel tread and flange profile after machining",
+          "image_alt": "Close-up of a railway wheel tread being re-profiled",
           "layout": "image-right"
         },
         {
