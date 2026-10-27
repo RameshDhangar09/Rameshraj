@@ -13,16 +13,16 @@
           "type": "stats",
           "items": [
             {
-              "value": "1977",
-              "label": "Werkzeugmaschinenbau seit"
+              "value": "49+",
+              "label": "Jahre Exzellenz in der Bahnindustrie"
             },
             {
               "value": "1.100+",
-              "label": "Maschinen weltweit ausgeliefert"
+              "label": "Weltweit gelieferte Maschinen"
             },
             {
-              "value": "3",
-              "label": "ISO-zertifizierte Managementsysteme"
+              "value": "16.000+",
+              "label": "Quadratmeter Fertigungsfläche"
             },
             {
               "value": "360°",
@@ -48,7 +48,10 @@
           "layout": "image-right",
           "video": {
             "embed": "https://www.canva.com/design/DAHYJ-LJa_w/Rb5Ihk5HNeqx7aHRnmLx_A/watch?embed",
-            "title": "HYT Engineering – Unternehmensfilm"
+            "title": "HYT Engineering – Unternehmensfilm",
+            "poster_src": "/assets/images/homepage/corporate-video-poster.jpg",
+            "poster_w": 620,
+            "poster_h": 350
           }
         },
         {

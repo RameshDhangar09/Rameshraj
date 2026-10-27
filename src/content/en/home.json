@@ -13,16 +13,16 @@
           "type": "stats",
           "items": [
             {
-              "value": "1977",
-              "label": "Building machine tools since"
+              "value": "49+",
+              "label": "Years of excellence in the railway industry"
             },
             {
               "value": "1,100+",
-              "label": "Machines delivered worldwide"
+              "label": "Machines supplied across the globe"
             },
             {
-              "value": "3",
-              "label": "ISO-certified management systems"
+              "value": "16,000+",
+              "label": "Square metres of manufacturing facility"
             },
             {
               "value": "360°",
@@ -48,7 +48,10 @@
           "layout": "image-right",
           "video": {
             "embed": "https://www.canva.com/design/DAHYJ-LJa_w/Rb5Ihk5HNeqx7aHRnmLx_A/watch?embed",
-            "title": "HYT Engineering – corporate video"
+            "title": "HYT Engineering – corporate video",
+            "poster_src": "/assets/images/homepage/corporate-video-poster.jpg",
+            "poster_w": 620,
+            "poster_h": 350
           }
         },
         {

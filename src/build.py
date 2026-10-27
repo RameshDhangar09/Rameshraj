@@ -266,7 +266,9 @@ def b_text(ctx, b):
         v = b["video"]
         img = (f'<figure class="media-frame media-frame--video reveal"><div class="video-frame" data-video>'
                f'<button type="button" class="video-facade" data-embed="{esc(v["embed"])}" aria-label="{esc(ctx.t("product.play_video"))}: {esc(v.get("title", ""))}">'
-               f'{picture(v.get("poster") or b["image"], "")}<span class="video-facade__play">{icon("play-fill")}</span>'
+               + (f'<img src="{esc(v["poster_src"])}" alt="" width="{v.get("poster_w", 1600)}" height="{v.get("poster_h", 900)}" loading="lazy" decoding="async">'
+                  if v.get("poster_src") else picture(v.get("poster") or b["image"], ""))
+               + f'<span class="video-facade__play">{icon("play-fill")}</span>'
                f'<span class="video-facade__label">{esc(v.get("title", ""))}</span></button></div></figure>')
     left = b.get("layout") == "image-left"
     cols = (f'<div class="col-lg-6 {"order-lg-1" if left else "order-lg-2"}">{img}</div>'

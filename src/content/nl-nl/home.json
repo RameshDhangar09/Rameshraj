@@ -13,16 +13,16 @@
           "type": "stats",
           "items": [
             {
-              "value": "1977",
-              "label": "Bouwt werktuigmachines sinds"
+              "value": "49+",
+              "label": "Jaar uitmuntendheid in de spoorwegindustrie"
             },
             {
               "value": "1.100+",
-              "label": "Machines wereldwijd geleverd"
+              "label": "Machines geleverd over de hele wereld"
             },
             {
-              "value": "3",
-              "label": "ISO-gecertificeerde managementsystemen"
+              "value": "16.000+",
+              "label": "Vierkante meter productieoppervlak"
             },
             {
               "value": "360°",
@@ -48,7 +48,10 @@
           "layout": "image-right",
           "video": {
             "embed": "https://www.canva.com/design/DAHYJ-LJa_w/Rb5Ihk5HNeqx7aHRnmLx_A/watch?embed",
-            "title": "HYT Engineering – bedrijfsfilm"
+            "title": "HYT Engineering – bedrijfsfilm",
+            "poster_src": "/assets/images/homepage/corporate-video-poster.jpg",
+            "poster_w": 620,
+            "poster_h": 350
           }
         },
         {

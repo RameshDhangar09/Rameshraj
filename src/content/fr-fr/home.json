@@ -13,16 +13,16 @@
           "type": "stats",
           "items": [
             {
-              "value": "1977",
-              "label": "Constructeur de machines-outils depuis"
+              "value": "49+",
+              "label": "Années d’excellence dans l’industrie ferroviaire"
             },
             {
               "value": "1 100+",
-              "label": "Machines livrées dans le monde"
+              "label": "Machines livrées dans le monde entier"
             },
             {
-              "value": "3",
-              "label": "Systèmes de management certifiés ISO"
+              "value": "16 000+",
+              "label": "Mètres carrés de surface de production"
             },
             {
               "value": "360°",
@@ -48,7 +48,10 @@
           "layout": "image-right",
           "video": {
             "embed": "https://www.canva.com/design/DAHYJ-LJa_w/Rb5Ihk5HNeqx7aHRnmLx_A/watch?embed",
-            "title": "HYT Engineering – film d’entreprise"
+            "title": "HYT Engineering – film d’entreprise",
+            "poster_src": "/assets/images/homepage/corporate-video-poster.jpg",
+            "poster_w": 620,
+            "poster_h": 350
           }
         },
         {

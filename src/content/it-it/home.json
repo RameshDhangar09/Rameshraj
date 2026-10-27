@@ -13,16 +13,16 @@
           "type": "stats",
           "items": [
             {
-              "value": "1977",
-              "label": "Costruiamo macchine utensili dal"
+              "value": "49+",
+              "label": "Anni di eccellenza nell'industria ferroviaria"
             },
             {
               "value": "1.100+",
-              "label": "Macchine consegnate in tutto il mondo"
+              "label": "Macchine fornite in tutto il mondo"
             },
             {
-              "value": "3",
-              "label": "Sistemi di gestione certificati ISO"
+              "value": "16.000+",
+              "label": "Metri quadrati di superficie produttiva"
             },
             {
               "value": "360°",
@@ -48,7 +48,10 @@
           "layout": "image-right",
           "video": {
             "embed": "https://www.canva.com/design/DAHYJ-LJa_w/Rb5Ihk5HNeqx7aHRnmLx_A/watch?embed",
-            "title": "HYT Engineering – video aziendale"
+            "title": "HYT Engineering – video aziendale",
+            "poster_src": "/assets/images/homepage/corporate-video-poster.jpg",
+            "poster_w": 620,
+            "poster_h": 350
           }
         },
         {
