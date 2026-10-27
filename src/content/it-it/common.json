@@ -325,10 +325,16 @@
   },
   "clients": {
     "eyebrow": "I nostri clienti",
-    "heading": "Scelti da operatori ferroviari e metropolitani",
+    "heading": "Scelti da ferrovie, metropolitane e industria in tutto il mondo",
     "link": "Vedi i nostri clienti",
     "pause": "Metti in pausa l’animazione dei loghi",
-    "play": "Avvia l’animazione dei loghi"
+    "play": "Avvia l’animazione dei loghi",
+    "intro": "Operatori ferroviari, società metropolitane, costruttori di materiale rotabile e aziende industriali in India e all'estero si affidano alle macchine HYT.",
+    "groups": {
+      "railways": "Ferrovie e infrastrutture ferroviarie",
+      "metros": "Metropolitane e trasporto rapido",
+      "industry": "Materiale rotabile, ingegneria e industria"
+    }
   },
   "search": {
     "label": "Cerca nel sito",

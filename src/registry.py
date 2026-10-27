@@ -217,10 +217,43 @@ EXTRA_REDIRECTS = [("/installation-and-commissioning/", "/installation-commissio
                    ("/wheel-shop-automation/", "/turnkey-project/wheel-shops/")]
 
 # Customer marks for the home-page logo carousel (verified customers only, see docs/verified-facts.md).
-# Files in hyt-website/assets/images/clients/ are neutral PLACEHOLDERS – replace with approved logos.
+# Customer logos supplied by HYT (27 Oct 2026): hyt-website/assets/images/clients/<slug>.webp + .png
+# (slug, name, group) – groups: railways, metros, industry (labels in common.json → clients.groups)
 CLIENTS = [
-    ("indian-railways", "Indian Railways"),
-    ("dmrc", "Delhi Metro Rail Corporation (DMRC)"),
-    ("ncrtc", "National Capital Region Transport Corporation (NCRTC)"),
-    ("state-railway-of-thailand", "State Railway of Thailand"),
+    ("indian-railways", "Indian Railways", "railways"),
+    ("delhi-metro", "Delhi Metro Rail Corporation (DMRC)", "metros"),
+    ("ncrtc", "National Capital Region Transport Corporation (NCRTC)", "metros"),
+    ("alstom", "Alstom", "industry"),
+    ("sncf", "SNCF", "railways"),
+    ("chennai-metro", "Chennai Metro Rail", "metros"),
+    ("larsen-toubro", "Larsen & Toubro", "industry"),
+    ("trenitalia", "Trenitalia", "railways"),
+    ("namma-metro", "Namma Metro (Bangalore Metro Rail Corporation)", "metros"),
+    ("general-electric", "General Electric", "industry"),
+    ("state-railway-of-thailand", "State Railway of Thailand", "railways"),
+    ("kochi-metro", "Kochi Metro Rail Limited", "metros"),
+    ("wabtec", "Wabtec Corporation", "industry"),
+    ("tcdd", "TCDD – Turkish State Railways", "railways"),
+    ("lucknow-metro", "Lucknow Metro Rail Corporation", "metros"),
+    ("bhel", "BHEL", "industry"),
+    ("transnet", "Transnet", "railways"),
+    ("ahmedabad-metro", "Ahmedabad Metro", "metros"),
+    ("beml", "BEML", "industry"),
+    ("sri-lanka-railways", "Sri Lanka Railways", "railways"),
+    ("jaipur-metro", "Jaipur Metro", "metros"),
+    ("mazagon-dock", "Mazagon Dock", "industry"),
+    ("rvnl", "Rail Vikas Nigam Limited (RVNL)", "railways"),
+    ("mp-metro", "MP Metro", "metros"),
+    ("afcons", "Afcons", "industry"),
+    ("rites", "RITES", "railways"),
+    ("noida-metro", "Noida Metro Rail Corporation", "metros"),
+    ("isgec", "ISGEC", "industry"),
+    ("ircon", "IRCON International", "railways"),
+    ("bbm-group", "BBM Group", "industry"),
+    ("smh-rail", "SMH Rail", "railways"),
+    ("nalco", "NALCO", "industry"),
+    ("naledi-rail", "Naledi Rail", "railways"),
+    ("indorama", "Indorama", "industry"),
+    ("gsez", "GSEZ – Gabon Special Economic Zone", "industry"),
 ]
+CLIENT_GROUPS = ["railways", "metros", "industry"]

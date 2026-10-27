@@ -620,21 +620,35 @@ html.js-ready .lang-switch:not(.is-open) .lang-switch__menu { opacity: 0; visibi
 .section--clients { padding-top: clamp(3rem, 2rem + 3vw, 5rem); padding-bottom: clamp(3rem, 2rem + 3vw, 5rem); background: var(--hyt-grey-light); }
 .section--clients .section-head { margin-bottom: 2.25rem; }
 .marquee { position: relative; overflow: hidden; mask-image: linear-gradient(90deg, transparent, #000 8%, #000 92%, transparent); padding: 0.5rem 0; }
-.marquee__track { display: flex; gap: 1.25rem; width: max-content; list-style: none; margin: 0; padding: 0; animation: marquee 32s linear infinite; }
+.marquee__track { display: flex; gap: 1.25rem; width: max-content; list-style: none; margin: 0; padding: 0.35rem 0; animation: marquee calc(var(--marquee-count, 10) * 3.4s) linear infinite; }
+.marquee__track + .marquee__track { margin-top: 0.75rem; }
+.marquee__track--reverse { animation-direction: reverse; }
 .marquee:hover .marquee__track, .marquee.is-paused .marquee__track, .marquee:focus-within .marquee__track { animation-play-state: paused; }
-.marquee__item { flex: 0 0 auto; display: grid; place-items: center; width: 300px; height: 110px; padding: 1rem 1.5rem; background: #fff; border: 1px solid var(--hyt-border); border-radius: var(--radius-lg); filter: grayscale(1); opacity: 0.85; transition: filter var(--t), opacity var(--t), box-shadow var(--t), border-color var(--t); }
-.marquee__item:hover { filter: none; opacity: 1; border-color: var(--hyt-border-strong); box-shadow: var(--shadow); }
-.marquee__item img { max-width: 100%; max-height: 72px; width: auto; height: auto; }
-.marquee__toggle { position: absolute; right: 0.5rem; bottom: 0.5rem; width: 34px; height: 34px; display: grid; place-items: center; border-radius: 50%; border: 1px solid var(--hyt-border-strong); background: #fff; color: var(--hyt-graphite); cursor: pointer; opacity: 0; transition: opacity var(--t); }
+.marquee__item { flex: 0 0 auto; display: grid; place-items: center; width: 220px; height: 112px; padding: 1rem 1.4rem; background: #fff; border: 1px solid var(--hyt-border); border-radius: var(--radius-lg); transition: box-shadow var(--t), border-color var(--t), transform var(--t); }
+.marquee__item:hover { border-color: var(--hyt-border-strong); box-shadow: var(--shadow); transform: translateY(-2px); }
+.marquee__item picture { display: contents; }
+.marquee__item img { max-width: 100%; max-height: 72px; width: auto; height: auto; object-fit: contain; }
+.marquee__toggle { position: absolute; right: 0.5rem; bottom: 0.5rem; width: 34px; height: 34px; display: grid; place-items: center; border-radius: 50%; border: 1px solid var(--hyt-border-strong); background: #fff; color: var(--hyt-graphite); cursor: pointer; opacity: 0; transition: opacity var(--t); z-index: 1; }
 .marquee:hover .marquee__toggle, .marquee__toggle:focus-visible, .marquee.is-paused .marquee__toggle { opacity: 1; }
-/* The track holds the set four times; moving by one set width loops seamlessly */
-@keyframes marquee { from { transform: translateX(0); } to { transform: translateX(calc(-25% - 0.3125rem)); } }
+/* Each track holds its logo set twice; moving by one set width (half the track plus half a gap) loops seamlessly */
+@keyframes marquee { from { transform: translateX(0); } to { transform: translateX(calc(-50% - 0.625rem)); } }
+@media (max-width: 575.98px) { .marquee__item { width: 168px; height: 92px; padding: 0.8rem 1rem; } .marquee__item img { max-height: 58px; } }
 @media (prefers-reduced-motion: reduce) {
   .marquee { mask-image: none; }
   .marquee__track { animation: none; flex-wrap: wrap; justify-content: center; width: auto; }
   .marquee__item[aria-hidden="true"] { display: none; }
   .marquee__toggle { display: none; }
 }
+
+/* Clientele logo wall */
+.logo-group + .logo-group { margin-top: 2.75rem; }
+.logo-group__title { font-size: 1.15rem; margin-bottom: 1.1rem; padding-left: 0.85rem; border-left: 3px solid var(--hyt-orange); }
+.logo-grid--img { grid-template-columns: repeat(auto-fill, minmax(190px, 1fr)); }
+.logo-tile--img { align-items: center; gap: 0.85rem; min-height: 168px; padding: 1.25rem 1rem; }
+.logo-tile--img picture { display: grid; place-items: center; height: 80px; width: 100%; }
+.logo-tile--img img { max-width: 100%; max-height: 80px; width: auto; height: auto; object-fit: contain; transition: transform var(--t); }
+.logo-tile--img:hover img { transform: scale(1.04); }
+.logo-tile--img .logo-tile__name { font-size: 0.86rem; font-weight: 500; color: var(--hyt-grey-text); }
 
 /* ---------- Product video ---------- */
 .section--video { background: var(--hyt-dark); color: var(--hyt-on-dark); }

@@ -789,7 +789,7 @@
     "clientele": {
       "nav": "Kunden",
       "title": "Unsere Kunden – Bahnen und Metrobetreiber",
-      "description": "HYT Engineering liefert Radsatzdrehmaschinen und Werkstattmaschinen an Indian Railways, Delhi Metro, NCRTC und die State Railway of Thailand. Unsere Kunden.",
+      "description": "Indian Railways, SNCF, Trenitalia, Alstom, L&T und Metrobetreiber in ganz Indien setzen auf Radsatzdrehmaschinen und Turnkey-Projekte von HYT Engineering.",
       "eyebrow": "Referenzen & Zertifikate",
       "h1": "Unsere Kunden",
       "lede": "Staatsbahnen und Metrobetreiber verlassen sich auf HYT-Maschinen, um ihre Radsätze innerhalb der Sicherheitsgrenzwerte und ihre Flotten im Einsatz zu halten.",
@@ -797,26 +797,9 @@
       "blocks": [
         {
           "type": "logos",
-          "heading": "Ausgewählte Kunden",
-          "intro": "Eine Auswahl von Betreibern, an die HYT Maschinen geliefert hat oder von denen HYT Aufträge erhalten hat.",
-          "items": [
-            {
-              "name": "Indian Railways",
-              "note": "Auftrag über neun CNC-Unterflur-Radsatzdrehmaschinen"
-            },
-            {
-              "name": "Delhi Metro Rail Corporation (DMRC)",
-              "note": "CNC-Tandem-Unterflur-Radsatzdrehmaschine"
-            },
-            {
-              "name": "National Capital Region Transport Corporation (NCRTC)",
-              "note": "Vollautomatische CNC-Unterflur-Radsatzdrehmaschinen"
-            },
-            {
-              "name": "State Railway of Thailand",
-              "note": "CNC-Vertikal-Revolverdrehmaschine, geliefert und installiert in Bangkok"
-            }
-          ]
+          "source": "clients",
+          "heading": "Unsere Kunden",
+          "intro": "Bahnbetreiber, Metrogesellschaften, Schienenfahrzeughersteller und Industrieunternehmen, die auf Maschinen und Projekte von HYT setzen."
         },
         {
           "type": "text",
@@ -848,11 +831,6 @@
               "image": "industries/rolling-stock-manufacturers"
             }
           ]
-        },
-        {
-          "type": "notice",
-          "variant": "review",
-          "text": "Zur Prüfung durch HYT: Bitte liefern Sie die zur Veröffentlichung freigegebene Kundenliste und bestätigen Sie für jeden Kunden, ob der Name genannt werden darf und ob eine Erlaubnis zur Darstellung seines Logos vorliegt."
         }
       ]
     },

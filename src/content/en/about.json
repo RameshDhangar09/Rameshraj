@@ -618,7 +618,7 @@
     "clientele": {
       "nav": "Clientele",
       "title": "Our Clientele – Railways and Metro Operators",
-      "description": "HYT Engineering supplies wheel lathes and workshop machines to Indian Railways, Delhi Metro, NCRTC and the State Railway of Thailand. See who we work with.",
+      "description": "Indian Railways, SNCF, Trenitalia, Alstom, L&T and metro operators across India rely on HYT Engineering's wheel lathes, workshop machines and turnkey projects.",
       "eyebrow": "Credentials",
       "h1": "Our Clientele",
       "lede": "National railways and metro operators rely on HYT machines to keep their wheelsets within safety limits and their fleets in service.",
@@ -626,14 +626,9 @@
       "blocks": [
         {
           "type": "logos",
-          "heading": "Selected customers",
-          "intro": "A selection of operators for whom HYT has supplied machines or holds orders.",
-          "items": [
-            {"name": "Indian Railways", "note": "Contract for nine CNC underfloor wheel lathes"},
-            {"name": "Delhi Metro Rail Corporation (DMRC)", "note": "CNC tandem underfloor wheel lathe"},
-            {"name": "National Capital Region Transport Corporation (NCRTC)", "note": "Fully automatic CNC underfloor wheel lathes"},
-            {"name": "State Railway of Thailand", "note": "CNC vertical turret lathe, supplied and installed in Bangkok"}
-          ]
+          "source": "clients",
+          "heading": "Our customers",
+          "intro": "Railway operators, metro corporations, rolling stock manufacturers and industrial companies that rely on HYT machines and projects."
         },
         {
           "type": "text",
@@ -652,15 +647,19 @@
           "heading": "Industries we serve",
           "cols": 3,
           "items": [
-            {"page": "ind-railways", "image": "industries/railways"},
-            {"page": "ind-metros", "image": "industries/metros"},
-            {"page": "ind-rolling-stock", "image": "industries/rolling-stock-manufacturers"}
+            {
+              "page": "ind-railways",
+              "image": "industries/railways"
+            },
+            {
+              "page": "ind-metros",
+              "image": "industries/metros"
+            },
+            {
+              "page": "ind-rolling-stock",
+              "image": "industries/rolling-stock-manufacturers"
+            }
           ]
-        },
-        {
-          "type": "notice",
-          "variant": "review",
-          "text": "For HYT review: please supply the approved client list for publication and confirm, for each client, whether the name may be shown and whether permission exists to display its logo."
         }
       ]
     },

@@ -789,7 +789,7 @@
     "clientele": {
       "nav": "Klanten",
       "title": "Onze klanten – spoorwegen en metrobedrijven",
-      "description": "HYT Engineering levert wielenbanken en werkplaatsmachines aan Indian Railways, Delhi Metro, NCRTC en de State Railway of Thailand. Ontdek onze klanten.",
+      "description": "Indian Railways, SNCF, Trenitalia, Alstom, L&T en metrobedrijven in heel India vertrouwen op de wielenbanken en turnkeyprojecten van HYT Engineering.",
       "eyebrow": "Certificeringen & referenties",
       "h1": "Onze klanten",
       "lede": "Nationale spoorwegen en metrobedrijven vertrouwen op HYT-machines om hun wielstellen binnen de veiligheidsgrenzen en hun vloot in bedrijf te houden.",
@@ -797,26 +797,9 @@
       "blocks": [
         {
           "type": "logos",
-          "heading": "Een selectie van onze klanten",
-          "intro": "Een selectie van vervoerders aan wie HYT machines heeft geleverd of van wie HYT orders heeft ontvangen.",
-          "items": [
-            {
-              "name": "Indian Railways",
-              "note": "Contract voor negen CNC-onderloopdraaibanken"
-            },
-            {
-              "name": "Delhi Metro Rail Corporation (DMRC)",
-              "note": "CNC-tandemonderloopdraaibank"
-            },
-            {
-              "name": "National Capital Region Transport Corporation (NCRTC)",
-              "note": "Volautomatische CNC-onderloopdraaibanken"
-            },
-            {
-              "name": "State Railway of Thailand",
-              "note": "CNC-verticale revolverdraaibank, geleverd en geïnstalleerd in Bangkok"
-            }
-          ]
+          "source": "clients",
+          "heading": "Onze klanten",
+          "intro": "Spoorwegbeheerders, metrobedrijven, bouwers van rollend materieel en industriële bedrijven die vertrouwen op machines en projecten van HYT."
         },
         {
           "type": "text",
@@ -848,11 +831,6 @@
               "image": "industries/rolling-stock-manufacturers"
             }
           ]
-        },
-        {
-          "type": "notice",
-          "variant": "review",
-          "text": "Ter beoordeling door HYT: graag de goedgekeurde klantenlijst voor publicatie aanleveren en per klant bevestigen of de naam mag worden getoond en of er toestemming is om het logo weer te geven."
         }
       ]
     },

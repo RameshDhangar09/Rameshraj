@@ -28,7 +28,7 @@ site replaces hytengineering.com. Owner suggestions in brackets.
 | B3 | ~~Technical data~~ **Done 19 Oct 2026** for 13 products from HYT's product content document. Still "On request": wheel presses, wheel measuring station, dynamic wheel balancing machine, SKC partner products. Open queries from the document: YUL-12T/YUGLX and YUL-08/YUGL cycle time and wheelset-distance values were highlighted for checking (35 min / 1800–3200 mm; 30 min) | Product pages | Engineering |
 | B4 | Confirm company figures: 1,100+ machines delivered (other sources say 500+ / 928), founding story 1977 | Home, About, History | Management |
 | B5 | Full approved project list with client permissions, dates, photos; status of the Indian Railways nine-lathe contract | Executed / Under Execution, Industries | Projects |
-| B6 | Approved client list and logo-usage permissions | Clientele | Sales |
+| B6 | ~~Approved client list~~ **Done 27 Oct 2026** – 35 customer logos supplied by HYT, shown on Clientele (grouped) and in the Home carousel. HYT confirms it may display these names and logos; per-client project notes can be added later | Clientele | Sales |
 | B7 | Group company names, activities, links | Group Companies | Management |
 | B8 | ~~Dated history milestones~~ **Done 19 Oct 2026** (HYT history document, 1977–2026). Still open: archive photographs for the timeline | History | Management |
 | B9 | ISO certificates (PDF, certifying body, validity) – fix the swapped links on the old Quality page | Certifications | QA |
@@ -46,7 +46,7 @@ site replaces hytengineering.com. Owner suggestions in brackets.
 | B21 | Decide whether catalogues stay behind a form (template ready) or remain direct downloads | Downloads | Marketing |
 | B22 | Confirm defence and heavy-engineering focus (machines/customers to feature) | Industries | Sales |
 | B23 | Native-speaker review of the German, French, Italian and Dutch versions (see `docs/translation-checklist.md`) | 5 language versions | Marketing + reviewers |
-| B25 | Approved customer logos (SVG/PNG) and written permission to display them – current files in `assets/images/clients/` are neutral placeholders | Home logo carousel, Clientele | Sales / Marketing |
+| B25 | ~~Customer logos~~ **Done 27 Oct 2026** – HYT's logo files (`assets/images/clients/<slug>.webp/.png`, list and order in `src/registry.py` → `CLIENTS`) | Home logo carousel, Clientele | Sales / Marketing |
 | B26 | Product videos: YouTube videos added for YUGL (H5TlP5VMCgw – HYT to confirm whether it shows the YUGL or the YUGLX), YVM-04, YTB 04, KRE 15 RCRV and the washing plant. **Still needed:** YUGLX, YUL-12T, YUL-08, YPL-04, YPL-02 (the supplied link b8IqjmsJbxs shows a tandem lathe, not used), YSL series, ATL-01, YMM-04 and the non-HYT-document products – these pages still show the labelled sample clip, to be removed before launch if no video arrives | Product pages (`src/videos.json`) | Marketing |
 | B27 | Catalogue gating: implemented as a short form before download (per HYT request). Confirm fields and whether a separate datasheet per product will be offered | Product pages, Downloads | Marketing |
 | B28 | Name, dates and page/news item of the next event for the highlighted "Next Event" link (currently points to International Exhibitions) | Top bar (`src/config.json` → `next_event`) | Marketing |

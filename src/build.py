@@ -474,6 +474,14 @@ def b_news(ctx, b):
 
 
 def b_logos(ctx, b):
+    if b.get("source") == "clients":
+        groups = ctx.c.get("clients", {}).get("groups", {})
+        out = []
+        for g in R.CLIENT_GROUPS:
+            tiles = "".join(f'<li class="logo-tile logo-tile--img reveal">{client_logo(slug, "")}<span class="logo-tile__name">{esc(name)}</span></li>'
+                            for slug, name, grp in R.CLIENTS if grp == g)
+            out.append(f'<div class="logo-group"><h3 class="logo-group__title reveal">{esc(groups.get(g, g))}</h3><ul class="logo-grid logo-grid--img">{tiles}</ul></div>')
+        return section(heading_block(ctx, b) + "".join(out), b)
     items = "".join(f'<li class="logo-tile reveal"><span class="logo-tile__name">{esc(it["name"])}</span>'
                     f'{"<span class=logo-tile__note>" + esc(it["note"]) + "</span>" if it.get("note") else ""}</li>' for it in b.get("items", []))
     return section(heading_block(ctx, b) + f'<ul class="logo-grid">{items}</ul>', b)
@@ -702,17 +710,34 @@ def b_form(ctx, b):
     return f'<section class="section section--form" id="{esc(sid)}"><div class="container"><div class="row g-4 g-lg-5"><div class="col-lg-4">{head}</div><div class="col-lg-8">{form}</div></div></div></section>'
 
 
+def png_size(path):
+    with open(path, "rb") as fh:
+        head = fh.read(24)
+    return int.from_bytes(head[16:20], "big"), int.from_bytes(head[20:24], "big")
+
+
+def client_logo(slug, name, eager=False):  # eager: carousel logos slide into view, so they must not wait for lazy loading
+    """Customer logo as <picture>: WebP with PNG fallback, intrinsic size from the PNG."""
+    png = OUT / "assets/images/clients" / f"{slug}.png"
+    if not png.exists():
+        warn(f"missing client logo {slug}.png")
+        return f'<span class="client-logo__text">{esc(name)}</span>'
+    w, h = png_size(png)
+    base = f"/assets/images/clients/{slug}"
+    return (f'<picture><source srcset="{base}.webp" type="image/webp">'
+            f'<img src="{base}.png" alt="{esc(name)}" width="{w}" height="{h}" {'fetchpriority="low"' if eager else 'loading="lazy"'} decoding="async"></picture>')
+
+
 def b_logo_carousel(ctx, b):
     cl = ctx.c.get("clients", {})
-    one = "".join(
-        f'<li class="marquee__item"><img src="/assets/images/clients/{slug}.svg" alt="{esc(name)}" width="320" height="96" loading="lazy"></li>'
-        for slug, name in R.CLIENTS)
-    dup = "".join(
-        f'<li class="marquee__item" aria-hidden="true"><img src="/assets/images/clients/{slug}.svg" alt="" width="320" height="96" loading="lazy"></li>'
-        for slug, _ in R.CLIENTS)
-    head = heading_block(ctx, {"eyebrow": cl.get("eyebrow"), "heading": cl.get("heading")}, center=True)
-    inner = (f'{head}<div class="marquee reveal" data-marquee style="--marquee-count:{len(R.CLIENTS)}">'
-             f'<ul class="marquee__track" aria-label="{esc(cl.get("heading", ""))}">{one}{dup}{dup}{dup}</ul>'
+    rows = [R.CLIENTS[0::2], R.CLIENTS[1::2]]
+    tracks = []
+    for n, row in enumerate(rows):
+        one = "".join(f'<li class="marquee__item">{client_logo(slug, name, eager=True)}</li>' for slug, name, _ in row)
+        dup = "".join(f'<li class="marquee__item" aria-hidden="true">{client_logo(slug, "", eager=True)}</li>' for slug, _, _ in row)
+        tracks.append(f'<ul class="marquee__track{" marquee__track--reverse" if n else ""}" aria-label="{esc(cl.get("heading", ""))}" style="--marquee-count:{len(row)}">{one}{dup}</ul>')
+    head = heading_block(ctx, {"eyebrow": cl.get("eyebrow"), "heading": cl.get("heading"), "intro": cl.get("intro")}, center=True)
+    inner = (f'{head}<div class="marquee reveal" data-marquee>{"".join(tracks)}'
              f'<button type="button" class="marquee__toggle" data-marquee-toggle aria-pressed="false" '
              f'data-label-pause="{esc(cl.get("pause", "Pause"))}" data-label-play="{esc(cl.get("play", "Play"))}">'
              f'{icon("pause-fill")}<span class="visually-hidden">{esc(cl.get("pause", "Pause"))}</span></button></div>'

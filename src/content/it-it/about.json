@@ -789,7 +789,7 @@
     "clientele": {
       "nav": "Clienti",
       "title": "I nostri clienti – Ferrovie e operatori metropolitani",
-      "description": "Torni per sale montate e macchine per officine HYT per Indian Railways, Delhi Metro, NCRTC e State Railway of Thailand: scopra con chi lavoriamo.",
+      "description": "Indian Railways, SNCF, Trenitalia, Alstom, L&T e metropolitane in tutta l'India si affidano ai torni e ai progetti chiavi in mano di HYT Engineering.",
       "eyebrow": "Credenziali",
       "h1": "I nostri clienti",
       "lede": "Ferrovie nazionali e operatori metropolitani si affidano alle macchine HYT per mantenere le sale montate entro i limiti di sicurezza e le flotte in servizio.",
@@ -797,26 +797,9 @@
       "blocks": [
         {
           "type": "logos",
-          "heading": "Clienti selezionati",
-          "intro": "Una selezione di operatori a cui HYT ha fornito macchine o da cui ha ricevuto ordini.",
-          "items": [
-            {
-              "name": "Indian Railways",
-              "note": "Contratto per nove torni CNC in fossa"
-            },
-            {
-              "name": "Delhi Metro Rail Corporation (DMRC)",
-              "note": "Tornio CNC tandem in fossa"
-            },
-            {
-              "name": "National Capital Region Transport Corporation (NCRTC)",
-              "note": "Torni CNC in fossa completamente automatici"
-            },
-            {
-              "name": "State Railway of Thailand",
-              "note": "Tornio verticale a torretta CNC, fornito e installato a Bangkok"
-            }
-          ]
+          "source": "clients",
+          "heading": "I nostri clienti",
+          "intro": "Operatori ferroviari, società metropolitane, costruttori di materiale rotabile e aziende industriali che si affidano alle macchine e ai progetti HYT."
         },
         {
           "type": "text",
@@ -848,11 +831,6 @@
               "image": "industries/rolling-stock-manufacturers"
             }
           ]
-        },
-        {
-          "type": "notice",
-          "variant": "review",
-          "text": "Da verificare da parte di HYT: si prega di fornire l'elenco clienti approvato per la pubblicazione e di confermare, per ciascun cliente, se il nome può essere mostrato e se esiste l'autorizzazione a visualizzarne il logo."
         }
       ]
     },

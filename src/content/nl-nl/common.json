@@ -325,10 +325,16 @@
   },
   "clients": {
     "eyebrow": "Onze klanten",
-    "heading": "Spoor- en metro-exploitanten vertrouwen op HYT",
+    "heading": "Vertrouwd door spoorwegen, metro’s en industrie wereldwijd",
     "link": "Bekijk onze klanten",
     "pause": "Logo-animatie pauzeren",
-    "play": "Logo-animatie afspelen"
+    "play": "Logo-animatie afspelen",
+    "intro": "Spoorwegbeheerders, metrobedrijven, bouwers van rollend materieel en industriële bedrijven in India en daarbuiten vertrouwen op HYT-machines.",
+    "groups": {
+      "railways": "Spoorwegen en spoorinfrastructuur",
+      "metros": "Metro en snel openbaar vervoer",
+      "industry": "Rollend materieel, engineering en industrie"
+    }
   },
   "search": {
     "label": "Zoeken op de website",

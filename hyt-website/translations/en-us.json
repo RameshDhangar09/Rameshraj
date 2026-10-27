@@ -325,10 +325,16 @@
   },
   "clients": {
     "eyebrow": "Our customers",
-    "heading": "Trusted by railway and metro operators",
+    "heading": "Trusted by railways, metros and industry worldwide",
     "link": "View our clientele",
     "pause": "Pause logo animation",
-    "play": "Play logo animation"
+    "play": "Play logo animation",
+    "intro": "Railway operators, metro corporations, rolling stock manufacturers and industrial companies in India and abroad rely on HYT machines.",
+    "groups": {
+      "railways": "Railways and railway infrastructure",
+      "metros": "Metro and rapid transit",
+      "industry": "Rolling stock, engineering and industry"
+    }
   },
   "search": {
     "label": "Search the website",

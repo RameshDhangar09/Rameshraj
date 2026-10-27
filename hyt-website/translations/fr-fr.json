@@ -325,10 +325,16 @@
   },
   "clients": {
     "eyebrow": "Nos clients",
-    "heading": "La confiance des exploitants ferroviaires et de métro",
+    "heading": "La confiance des chemins de fer, des métros et de l’industrie",
     "link": "Voir nos références",
     "pause": "Mettre en pause l’animation des logos",
-    "play": "Lancer l’animation des logos"
+    "play": "Lancer l’animation des logos",
+    "intro": "Exploitants ferroviaires, sociétés de métro, constructeurs de matériel roulant et industriels, en Inde et à l’international, s’appuient sur les machines HYT.",
+    "groups": {
+      "railways": "Chemins de fer et infrastructures ferroviaires",
+      "metros": "Métros et transport rapide",
+      "industry": "Matériel roulant, ingénierie et industrie"
+    }
   },
   "search": {
     "label": "Rechercher sur le site",

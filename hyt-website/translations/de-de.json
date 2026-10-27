@@ -325,10 +325,16 @@
   },
   "clients": {
     "eyebrow": "Unsere Kunden",
-    "heading": "Bahn- und Metrobetreiber vertrauen HYT",
+    "heading": "Vertrauen von Bahnen, Metros und Industrie weltweit",
     "link": "Zu unseren Kunden",
     "pause": "Logo-Animation anhalten",
-    "play": "Logo-Animation abspielen"
+    "play": "Logo-Animation abspielen",
+    "intro": "Bahnbetreiber, Metrogesellschaften, Schienenfahrzeughersteller und Industrieunternehmen in Indien und weltweit setzen auf HYT-Maschinen.",
+    "groups": {
+      "railways": "Bahnen und Bahninfrastruktur",
+      "metros": "Metro und Schnellverkehr",
+      "industry": "Schienenfahrzeugbau, Engineering und Industrie"
+    }
   },
   "search": {
     "label": "Website durchsuchen",

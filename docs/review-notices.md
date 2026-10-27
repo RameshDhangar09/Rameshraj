@@ -1,7 +1,7 @@
 # Content pending HYT approval (generated)
 
 Every yellow review note on the preview site, by page. Generated from the English master by `tools/gen_docs.py`.
-**32 notes on 32 pages.**
+**31 notes on 31 pages.**
 
 These notes are hidden by `python3 src/build.py --production`; resolve them before launch.
 
@@ -11,7 +11,6 @@ These notes are hidden by `python3 src/build.py --production`; resolve them befo
 | Quality | `/quality/` | For HYT review: please confirm that the six process steps reflect HYT's actual quality procedures, and whether specific inspection equipment or customer inspection (e.g. by third-party or railway inspectors) should be mentioned. |
 | Certifications | `/certifications/` | For HYT review: certificate PDFs are not yet available. Please supply the current ISO 9001:2015, ISO 14001:2015 and ISO 45001:2018 certificates, including certified scope, certification body and validity dates, so they can be added as downloads here. |
 | Awards | `/awards/` | For HYT review: the Dun & Bradstreet listing is taken from a publication index and must be confirmed. Please supply the full list of awards and recognitions (name, awarding body, year, certificate or photograph) to complete this page. |
-| Clientele | `/clientele/` | For HYT review: please supply the approved client list for publication and confirm, for each client, whether the name may be shown and whether permission exists to display its logo. |
 | CSR | `/csr/` | For HYT review: CSR activities are not yet verified. Please supply the approved CSR policy, the focus areas HYT wishes to publish, and details of completed or ongoing projects (partner, location, year, photographs). |
 | Compliance | `/compliance/` | For HYT review: a Supplier Code of Conduct and an Information Security statement are planned for this section. Please confirm whether these documents exist and supply them, or approve drafts. |
 | Code of Conduct | `/compliance/code-of-conduct/` | For HYT review: this Code of Conduct is a draft and requires approval by HYT management and legal counsel before publication. Please also confirm the reporting channel for concerns (named contact or dedicated email address). |

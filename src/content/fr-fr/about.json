@@ -789,7 +789,7 @@
     "clientele": {
       "nav": "Clients",
       "title": "Nos clients – réseaux ferroviaires et métros",
-      "description": "HYT Engineering fournit tours à roues et machines d’atelier à Indian Railways, Delhi Metro, NCRTC et State Railway of Thailand. Découvrez nos clients.",
+      "description": "Indian Railways, SNCF, Trenitalia, Alstom, L&T et les métros de toute l’Inde font confiance aux tours à roues et projets clés en main de HYT Engineering.",
       "eyebrow": "Références",
       "h1": "Nos clients",
       "lede": "Des réseaux ferroviaires nationaux et des exploitants de métro comptent sur les machines HYT pour maintenir leurs essieux montés dans les limites de sécurité et leurs flottes en service.",
@@ -797,26 +797,9 @@
       "blocks": [
         {
           "type": "logos",
-          "heading": "Clients sélectionnés",
-          "intro": "Une sélection d’exploitants auxquels HYT a fourni des machines ou pour lesquels elle a des commandes en cours.",
-          "items": [
-            {
-              "name": "Indian Railways",
-              "note": "Contrat portant sur neuf tours en fosse CNC"
-            },
-            {
-              "name": "Delhi Metro Rail Corporation (DMRC)",
-              "note": "Tour en fosse tandem CNC"
-            },
-            {
-              "name": "National Capital Region Transport Corporation (NCRTC)",
-              "note": "Tours en fosse CNC entièrement automatiques"
-            },
-            {
-              "name": "State Railway of Thailand",
-              "note": "Tour vertical à tourelle CNC, fourni et installé à Bangkok"
-            }
-          ]
+          "source": "clients",
+          "heading": "Nos clients",
+          "intro": "Exploitants ferroviaires, sociétés de métro, constructeurs de matériel roulant et industriels qui font confiance aux machines et aux projets HYT."
         },
         {
           "type": "text",
@@ -848,11 +831,6 @@
               "image": "industries/rolling-stock-manufacturers"
             }
           ]
-        },
-        {
-          "type": "notice",
-          "variant": "review",
-          "text": "Pour validation par HYT : merci de fournir la liste des clients approuvée pour publication et de confirmer, pour chaque client, si son nom peut être affiché et si l’autorisation d’afficher son logo a été obtenue."
         }
       ]
     },
