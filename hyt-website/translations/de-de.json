@@ -505,5 +505,53 @@
       "radsatzdrehmaschine",
       "drehmaschine für"
     ]
+  },
+  "certs": {
+    "body": "Zertifizierungsstelle",
+    "reg": "Registriernummer",
+    "initial": "Erstzertifizierung",
+    "issued": "Ausstellungsdatum",
+    "valid": "Gültig bis",
+    "view": "Zertifikat ansehen",
+    "certificate": "Zertifikat",
+    "note": "Die Zertifikate werden von Intercert (IAF-Mitglied, SCC-akkreditiert) ausgestellt und bleiben vorbehaltlich jährlicher Überwachungsaudits gültig. Prüfen Sie sie mit der Registriernummer unter www.intercert.com.",
+    "systems": {
+      "9001": "Qualitätsmanagementsystem",
+      "14001": "Umweltmanagementsystem",
+      "45001": "Managementsystem für Sicherheit und Gesundheit bei der Arbeit"
+    },
+    "months": [
+      "Januar",
+      "Februar",
+      "März",
+      "April",
+      "Mai",
+      "Juni",
+      "Juli",
+      "August",
+      "September",
+      "Oktober",
+      "November",
+      "Dezember"
+    ],
+    "date_format": "{d}. {month} {y}",
+    "marks": {
+      "ce": {
+        "t": "CE-Kennzeichnung",
+        "d": "Konformitätskennzeichnung für Maschinen, die in den Europäischen Wirtschaftsraum geliefert werden."
+      },
+      "dekra": {
+        "t": "DEKRA",
+        "d": "Unabhängige Prüfung, Inspektion und Zertifizierung."
+      },
+      "dnv": {
+        "t": "DNV",
+        "d": "Unabhängige Bewertung und Zertifizierung."
+      },
+      "ecovadis": {
+        "t": "EcoVadis-Bronzemedaille",
+        "d": "Nachhaltigkeitsrating unter den besten 35 % der von EcoVadis bewerteten Unternehmen (April 2025)."
+      }
+    }
   }
 }

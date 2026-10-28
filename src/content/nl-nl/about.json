@@ -608,6 +608,18 @@
           "layout": "image-right"
         },
         {
+          "type": "certificates",
+          "variant": "compact",
+          "id": "quality-certificates",
+          "eyebrow": "Kwaliteitssysteem & certificeringen",
+          "heading": "Gecertificeerd volgens internationale normen",
+          "intro": "Onze managementsystemen voor kwaliteit, milieu en gezond en veilig werken zijn onafhankelijk gecertificeerd door Intercert.",
+          "link": {
+            "label": "Alle certificaten en ratings",
+            "page": "certifications"
+          }
+        },
+        {
           "type": "steps",
           "eyebrow": "Ons kwaliteitsproces",
           "heading": "Zes controlepunten tussen order en overdracht",
@@ -697,8 +709,14 @@
       "summary": "ISO 9001:2015, ISO 14001:2015 en ISO 45001:2018 – wat elk certificaat omvat.",
       "blocks": [
         {
-          "type": "features",
+          "type": "certificates",
+          "id": "iso-certificates",
           "eyebrow": "Gecertificeerde managementsystemen",
+          "heading": "Onze ISO-certificaten",
+          "intro": "HYT Engineering Company Pvt. Ltd. is door Intercert gecertificeerd volgens drie internationale normen voor managementsystemen. Selecteer een certificaat om het volledig te bekijken."
+        },
+        {
+          "type": "features",
           "heading": "Drie normen, één manier van werken",
           "intro": "Elke norm wordt geaudit door een certificatie-instelling. Samen bestrijken ze hoe we machines bouwen, hoe we met het milieu omgaan en hoe we mensen beschermen.",
           "cols": 3,
@@ -721,11 +739,17 @@
           ]
         },
         {
+          "type": "marks",
+          "id": "marks",
+          "eyebrow": "Normen & duurzaamheid",
+          "heading": "Overige certificeringen en ratings"
+        },
+        {
           "type": "text",
           "eyebrow": "Voor inkopers en auditors",
           "heading": "Onze certificaten gebruiken bij uw leveranciersbeoordeling",
           "paragraphs": [
-            "Aanbestedingen van spoorweg- en metrobedrijven vragen vaak om bewijs van gecertificeerde managementsystemen. Kopieën van onze actuele certificaten, inclusief toepassingsgebied, certificatie-instelling en geldigheidsdata, worden op deze pagina beschikbaar gesteld als download.",
+            "Aanbestedingen van spoorwegen en metro’s vragen vaak om bewijs van gecertificeerde managementsystemen. Onze actuele certificaten – met reikwijdte, certificatie-instelling en geldigheid – staan hierboven; selecteer er een om het volledig te bekijken of controleer het bij Intercert met het registratienummer.",
             "Heeft u de certificaten eerder nodig voor een aanbesteding of leveranciersaudit, [neem dan contact met ons op](page:contact-us) en we sturen ze u rechtstreeks toe. Hoe ISO 9001 in de praktijk op de werkvloer werkt, leest u bij ons [kwaliteitsproces](page:quality); onze verplichtingen per gebied staan in de [beleidsverklaring](page:policy-statement)."
           ],
           "image": "company/quality-inspection",
@@ -735,7 +759,7 @@
         {
           "type": "notice",
           "variant": "review",
-          "text": "Ter beoordeling door HYT: de certificaten zijn nog niet als pdf beschikbaar. Graag de actuele certificaten ISO 9001:2015, ISO 14001:2015 en ISO 45001:2018 aanleveren, inclusief gecertificeerd toepassingsgebied, certificatie-instelling en geldigheidsdata, zodat ze hier als download kunnen worden toegevoegd."
+          "text": "Ter controle door HYT: bevestig waarop de keurmerken van DEKRA en DNV betrekking hebben (productcertificering, inspectie of goedkeuring, met nummer en geldigheid), zodat de beschrijvingen specifiek kunnen worden gemaakt."
         }
       ]
     },

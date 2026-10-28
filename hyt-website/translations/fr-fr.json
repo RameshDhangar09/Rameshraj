@@ -505,5 +505,53 @@
       "tour à roues",
       "tour en fosse"
     ]
+  },
+  "certs": {
+    "body": "Organisme de certification",
+    "reg": "N° d’enregistrement",
+    "initial": "Première certification",
+    "issued": "Date d’émission",
+    "valid": "Valable jusqu’au",
+    "view": "Voir le certificat",
+    "certificate": "certificat",
+    "note": "Les certificats sont délivrés par Intercert (membre de l’IAF, accrédité SCC) et restent valables sous réserve des audits de surveillance annuels. Vérifiez-les sur www.intercert.com avec le numéro d’enregistrement.",
+    "systems": {
+      "9001": "Système de management de la qualité",
+      "14001": "Système de management environnemental",
+      "45001": "Système de management de la santé et de la sécurité au travail"
+    },
+    "months": [
+      "janvier",
+      "février",
+      "mars",
+      "avril",
+      "mai",
+      "juin",
+      "juillet",
+      "août",
+      "septembre",
+      "octobre",
+      "novembre",
+      "décembre"
+    ],
+    "date_format": "{d} {month} {y}",
+    "marks": {
+      "ce": {
+        "t": "Marquage CE",
+        "d": "Marquage de conformité des machines livrées dans l’Espace économique européen."
+      },
+      "dekra": {
+        "t": "DEKRA",
+        "d": "Essais, inspection et certification indépendants."
+      },
+      "dnv": {
+        "t": "DNV",
+        "d": "Évaluation et certification indépendantes."
+      },
+      "ecovadis": {
+        "t": "Médaille de bronze EcoVadis",
+        "d": "Notation RSE parmi les 35 % des entreprises les mieux évaluées par EcoVadis (avril 2025)."
+      }
+    }
   }
 }

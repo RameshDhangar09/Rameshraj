@@ -505,5 +505,53 @@
       "tornio per sale",
       "tornio in fossa"
     ]
+  },
+  "certs": {
+    "body": "Ente di certificazione",
+    "reg": "N. di registrazione",
+    "initial": "Prima certificazione",
+    "issued": "Data di emissione",
+    "valid": "Valido fino al",
+    "view": "Visualizza il certificato",
+    "certificate": "certificato",
+    "note": "I certificati sono rilasciati da Intercert (membro IAF, accreditato SCC) e restano validi subordinatamente agli audit annuali di sorveglianza. Può verificarli su www.intercert.com con il numero di registrazione.",
+    "systems": {
+      "9001": "Sistema di gestione per la qualità",
+      "14001": "Sistema di gestione ambientale",
+      "45001": "Sistema di gestione per la salute e sicurezza sul lavoro"
+    },
+    "months": [
+      "gennaio",
+      "febbraio",
+      "marzo",
+      "aprile",
+      "maggio",
+      "giugno",
+      "luglio",
+      "agosto",
+      "settembre",
+      "ottobre",
+      "novembre",
+      "dicembre"
+    ],
+    "date_format": "{d} {month} {y}",
+    "marks": {
+      "ce": {
+        "t": "Marcatura CE",
+        "d": "Marcatura di conformità per le macchine fornite nello Spazio economico europeo."
+      },
+      "dekra": {
+        "t": "DEKRA",
+        "d": "Prove, ispezioni e certificazioni indipendenti."
+      },
+      "dnv": {
+        "t": "DNV",
+        "d": "Valutazione e certificazione indipendenti."
+      },
+      "ecovadis": {
+        "t": "Medaglia di bronzo EcoVadis",
+        "d": "Rating di sostenibilità nel 35% migliore delle aziende valutate da EcoVadis (aprile 2025)."
+      }
+    }
   }
 }

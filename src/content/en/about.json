@@ -493,16 +493,46 @@
           "layout": "image-right"
         },
         {
+          "type": "certificates",
+          "variant": "compact",
+          "id": "quality-certificates",
+          "eyebrow": "Quality system & certifications",
+          "heading": "Certified to international standards",
+          "intro": "Our quality, environmental and occupational health & safety management systems are independently certified by Intercert.",
+          "link": {
+            "label": "All certificates and ratings",
+            "page": "certifications"
+          }
+        },
+        {
           "type": "steps",
           "eyebrow": "Our quality process",
           "heading": "Six checkpoints between order and handover",
           "items": [
-            {"title": "Contract & design review", "text": "Customer specifications, wheel profiles, gauge and site conditions are reviewed by engineering before design begins, and each design is checked against them before release."},
-            {"title": "Supplier control & incoming inspection", "text": "Castings, structures, bought-out components and CNC systems are sourced from evaluated suppliers and inspected on arrival against drawings and specifications."},
-            {"title": "In-process inspection", "text": "Critical machined features, geometry and alignments are checked at defined stages of manufacture and assembly, with results recorded."},
-            {"title": "Factory testing", "text": "Each machine is run, its functions and safety interlocks are tested and its geometric accuracy is verified in our works before dispatch."},
-            {"title": "Site run-off & acceptance", "text": "After installation, the machine is proved on the customer's own wheelsets. Profiles and dimensions are measured and the results are signed off with the customer."},
-            {"title": "Documentation & handover", "text": "Inspection records, test reports, manuals, drawings and spare-parts lists are handed over with the machine, supporting audits and future maintenance."}
+            {
+              "title": "Contract & design review",
+              "text": "Customer specifications, wheel profiles, gauge and site conditions are reviewed by engineering before design begins, and each design is checked against them before release."
+            },
+            {
+              "title": "Supplier control & incoming inspection",
+              "text": "Castings, structures, bought-out components and CNC systems are sourced from evaluated suppliers and inspected on arrival against drawings and specifications."
+            },
+            {
+              "title": "In-process inspection",
+              "text": "Critical machined features, geometry and alignments are checked at defined stages of manufacture and assembly, with results recorded."
+            },
+            {
+              "title": "Factory testing",
+              "text": "Each machine is run, its functions and safety interlocks are tested and its geometric accuracy is verified in our works before dispatch."
+            },
+            {
+              "title": "Site run-off & acceptance",
+              "text": "After installation, the machine is proved on the customer's own wheelsets. Profiles and dimensions are measured and the results are signed off with the customer."
+            },
+            {
+              "title": "Documentation & handover",
+              "text": "Inspection records, test reports, manuals, drawings and spare-parts lists are handed over with the machine, supporting audits and future maintenance."
+            }
           ]
         },
         {
@@ -511,9 +541,21 @@
           "heading": "How we keep improving",
           "cols": 3,
           "items": [
-            {"icon": "arrow-repeat", "title": "Feedback from the field", "text": "Service reports and customer feedback are reviewed and fed back into design and manufacturing."},
-            {"icon": "search", "title": "Root-cause analysis", "text": "Non-conformities are investigated to their cause and corrected so they do not recur."},
-            {"icon": "mortarboard", "title": "Skilled people", "text": "Inspectors, assemblers and service engineers are trained in the methods and standards that apply to their work."}
+            {
+              "icon": "arrow-repeat",
+              "title": "Feedback from the field",
+              "text": "Service reports and customer feedback are reviewed and fed back into design and manufacturing."
+            },
+            {
+              "icon": "search",
+              "title": "Root-cause analysis",
+              "text": "Non-conformities are investigated to their cause and corrected so they do not recur."
+            },
+            {
+              "icon": "mortarboard",
+              "title": "Skilled people",
+              "text": "Inspectors, assemblers and service engineers are trained in the methods and standards that apply to their work."
+            }
           ]
         },
         {
@@ -521,9 +563,18 @@
           "heading": "Related pages",
           "cols": 3,
           "items": [
-            {"page": "certifications", "icon": "patch-check"},
-            {"page": "installation-commissioning", "icon": "tools"},
-            {"page": "policy-statement", "icon": "journal-check"}
+            {
+              "page": "certifications",
+              "icon": "patch-check"
+            },
+            {
+              "page": "installation-commissioning",
+              "icon": "tools"
+            },
+            {
+              "page": "policy-statement",
+              "icon": "journal-check"
+            }
           ]
         },
         {
@@ -544,23 +595,47 @@
       "summary": "ISO 9001:2015, ISO 14001:2015 and ISO 45001:2018 – what each certificate covers.",
       "blocks": [
         {
-          "type": "features",
+          "type": "certificates",
+          "id": "iso-certificates",
           "eyebrow": "Certified management systems",
+          "heading": "Our ISO certificates",
+          "intro": "HYT Engineering Company Pvt. Ltd. is certified by Intercert to three international management-system standards. Select a certificate to view it in full."
+        },
+        {
+          "type": "features",
           "heading": "Three standards, one way of working",
           "intro": "Each standard is audited by an independent certification body. Together they cover how we build machines, how we treat the environment and how we protect people.",
           "cols": 3,
           "items": [
-            {"icon": "clipboard-check", "title": "ISO 9001:2015 – Quality management", "text": "Requires a documented, audited process for understanding customer requirements, controlling design, purchasing and production, and correcting problems. For you, it means consistent machines and traceable records."},
-            {"icon": "tree", "title": "ISO 14001:2015 – Environmental management", "text": "Requires us to identify the environmental impact of our operations – energy, waste, emissions, coolants and oils – and to control and reduce it. For you, it means a supplier that manages its footprint."},
-            {"icon": "shield-check", "title": "ISO 45001:2018 – Occupational health & safety", "text": "Requires us to identify hazards and prevent injury and ill health in our works and on customer sites. For you, it means safer installation and service work in your depot."}
+            {
+              "icon": "clipboard-check",
+              "title": "ISO 9001:2015 – Quality management",
+              "text": "Requires a documented, audited process for understanding customer requirements, controlling design, purchasing and production, and correcting problems. For you, it means consistent machines and traceable records."
+            },
+            {
+              "icon": "tree",
+              "title": "ISO 14001:2015 – Environmental management",
+              "text": "Requires us to identify the environmental impact of our operations – energy, waste, emissions, coolants and oils – and to control and reduce it. For you, it means a supplier that manages its footprint."
+            },
+            {
+              "icon": "shield-check",
+              "title": "ISO 45001:2018 – Occupational health & safety",
+              "text": "Requires us to identify hazards and prevent injury and ill health in our works and on customer sites. For you, it means safer installation and service work in your depot."
+            }
           ]
+        },
+        {
+          "type": "marks",
+          "id": "marks",
+          "eyebrow": "Standards & sustainability",
+          "heading": "Further certifications and ratings"
         },
         {
           "type": "text",
           "eyebrow": "For buyers and auditors",
           "heading": "Using our certificates in your supplier approval",
           "paragraphs": [
-            "Railway and metro tenders often require proof of certified management systems. Copies of our current certificates, including scope, certification body and validity dates, will be available for download on this page.",
+            "Railway and metro tenders often require proof of certified management systems. Our current certificates – with certified scope, certification body and validity dates – are shown above; select one to view it in full, or verify it with Intercert using the registration number.",
             "If you need certificates for a tender or a supplier audit sooner, [contact us](page:contact-us) and we will send them directly. To see how ISO 9001 works in practice on the shop floor, read about our [quality process](page:quality), and for our commitments in each area see the [Policy Statement](page:policy-statement)."
           ],
           "image": "company/quality-inspection",
@@ -570,7 +645,7 @@
         {
           "type": "notice",
           "variant": "review",
-          "text": "For HYT review: certificate PDFs are not yet available. Please supply the current ISO 9001:2015, ISO 14001:2015 and ISO 45001:2018 certificates, including certified scope, certification body and validity dates, so they can be added as downloads here."
+          "text": "For HYT review: please confirm what the DEKRA and DNV marks relate to (e.g. product certification, inspection or approval, with certificate number and validity) so the descriptions can be made specific."
         }
       ]
     },

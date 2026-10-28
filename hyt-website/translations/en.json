@@ -505,5 +505,53 @@
       "wheel lathe",
       "lathe for"
     ]
+  },
+  "certs": {
+    "body": "Certification body",
+    "reg": "Registration no.",
+    "initial": "Initially certified",
+    "issued": "Certificate issued",
+    "valid": "Valid until",
+    "view": "View certificate",
+    "certificate": "certificate",
+    "note": "Certificates are issued by Intercert (IAF member, SCC-accredited) and remain valid subject to annual surveillance audits. Verify them at www.intercert.com with the registration number.",
+    "systems": {
+      "9001": "Quality management system",
+      "14001": "Environmental management system",
+      "45001": "Occupational health & safety management system"
+    },
+    "months": [
+      "January",
+      "February",
+      "March",
+      "April",
+      "May",
+      "June",
+      "July",
+      "August",
+      "September",
+      "October",
+      "November",
+      "December"
+    ],
+    "date_format": "{d} {month} {y}",
+    "marks": {
+      "ce": {
+        "t": "CE marking",
+        "d": "Conformity marking for machines supplied to the European Economic Area."
+      },
+      "dekra": {
+        "t": "DEKRA",
+        "d": "Independent testing, inspection and certification."
+      },
+      "dnv": {
+        "t": "DNV",
+        "d": "Independent assurance and certification."
+      },
+      "ecovadis": {
+        "t": "EcoVadis Bronze medal",
+        "d": "Sustainability rating in the top 35% of companies assessed by EcoVadis (April 2025)."
+      }
+    }
   }
 }

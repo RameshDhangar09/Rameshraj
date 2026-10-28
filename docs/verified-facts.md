@@ -44,6 +44,12 @@ Source files: *History_Corrected.docx*, *Contact_Us_Organized.docx*, *HYT_Produc
 ## HYT input 28 Oct 2026
 * Pune Best Employer Brand Awards 2026 (21st Employer Branding Awards, 18th Pune edition), presented to HYT Engineering Co. Pvt. Ltd. in Pune, October 2026 (certificate and ceremony photos supplied by HYT; the certificate shows 22 Oct, the trophy 23 Oct – the site states only "October 2026").
 
+## Certificates (images supplied by HYT, 28 Oct 2026)
+* ISO 9001:2015 – Intercert, reg. ICI-QM-1706032, initial 29 Jun 2017, issued 9 Jun 2026 (Rev.2), surveillance validity 28 Jun 2027, recertification 28 Jun 2029.
+* ISO 14001:2015 – Intercert, reg. ICI-EM-2107055, initial 8 Jul 2021, issued 8 Jul 2025 (Rev.2), surveillance validity 7 Jul 2026, recertification 7 Jul 2027.
+* ISO 45001:2018 – Intercert, reg. ICI-OS-2205120, initial 25 May 2022, issued 25 May 2025, surveillance validity 25 May 2027, recertification 24 May 2028.
+* Further marks supplied: CE, DEKRA, DNV, EcoVadis Bronze (Top 35%, April 2025).
+
 ## Sources
 * https://railwaygazette.com/technology/indian-railways-awards-wheel-lathe-contract/43759.article
 * https://news.railanalysis.com/tag/wheel-lathe-machine/

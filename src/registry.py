@@ -257,3 +257,18 @@ CLIENTS = [
     ("gsez", "GSEZ – Gabon Special Economic Zone", "industry"),
 ]
 CLIENT_GROUPS = ["railways", "metros", "industry"]
+
+
+# Management-system certificates (Intercert; certificate images supplied by HYT 28 Oct 2026)
+# Dates are ISO yyyy-mm-dd; labels and system names are translated in common.json → certs.
+CERTS = [
+    {"id": "9001", "standard": "ISO 9001:2015", "reg": "ICI-QM-1706032", "initial": "2017-06-29", "issued": "2026-06-09", "valid": "2029-06-28",
+     "image": "certifications/iso-9001-2015-certificate.jpg", "icon": "clipboard-check"},
+    {"id": "14001", "standard": "ISO 14001:2015", "reg": "ICI-EM-2107055", "initial": "2021-07-08", "issued": "2025-07-08", "valid": "2027-07-07",
+     "image": "certifications/iso-14001-2015-certificate.jpg", "icon": "tree"},
+    {"id": "45001", "standard": "ISO 45001:2018", "reg": "ICI-OS-2205120", "initial": "2022-05-25", "issued": "2025-05-25", "valid": "2028-05-24",
+     "image": "certifications/iso-45001-2018-certificate.jpg", "icon": "shield-check"},
+]
+CERT_BODY = "Intercert"
+# Further marks and ratings (logos in assets/images/certifications/mark-<id>.webp/.png)
+MARKS = ["ce", "dekra", "dnv", "ecovadis"]

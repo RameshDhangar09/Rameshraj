@@ -608,6 +608,18 @@
           "layout": "image-right"
         },
         {
+          "type": "certificates",
+          "variant": "compact",
+          "id": "quality-certificates",
+          "eyebrow": "Qualitätssystem & Zertifizierungen",
+          "heading": "Zertifiziert nach internationalen Normen",
+          "intro": "Unsere Managementsysteme für Qualität, Umwelt sowie Sicherheit und Gesundheit bei der Arbeit sind unabhängig von Intercert zertifiziert.",
+          "link": {
+            "label": "Alle Zertifikate und Ratings",
+            "page": "certifications"
+          }
+        },
+        {
           "type": "steps",
           "eyebrow": "Unser Qualitätsprozess",
           "heading": "Sechs Prüfpunkte zwischen Auftrag und Übergabe",
@@ -697,8 +709,14 @@
       "summary": "ISO 9001:2015, ISO 14001:2015 und ISO 45001:2018 – was jedes Zertifikat abdeckt.",
       "blocks": [
         {
-          "type": "features",
+          "type": "certificates",
+          "id": "iso-certificates",
           "eyebrow": "Zertifizierte Managementsysteme",
+          "heading": "Unsere ISO-Zertifikate",
+          "intro": "HYT Engineering Company Pvt. Ltd. ist von Intercert nach drei internationalen Managementsystem-Normen zertifiziert. Wählen Sie ein Zertifikat, um es vollständig anzuzeigen."
+        },
+        {
+          "type": "features",
           "heading": "Drei Normen, eine Arbeitsweise",
           "intro": "Jede Norm wird von einer unabhängigen Zertifizierungsstelle auditiert. Zusammen regeln sie, wie wir Maschinen bauen, wie wir mit der Umwelt umgehen und wie wir Menschen schützen.",
           "cols": 3,
@@ -721,11 +739,17 @@
           ]
         },
         {
+          "type": "marks",
+          "id": "marks",
+          "eyebrow": "Normen & Nachhaltigkeit",
+          "heading": "Weitere Zertifizierungen und Ratings"
+        },
+        {
           "type": "text",
           "eyebrow": "Für Einkäufer und Auditoren",
           "heading": "Unsere Zertifikate für Ihre Lieferantenfreigabe",
           "paragraphs": [
-            "Ausschreibungen von Bahnen und Metros verlangen häufig den Nachweis zertifizierter Managementsysteme. Kopien unserer aktuellen Zertifikate mit Geltungsbereich, Zertifizierungsstelle und Gültigkeitsdauer werden auf dieser Seite zum Download bereitgestellt.",
+            "Ausschreibungen von Bahnen und Metros verlangen häufig den Nachweis zertifizierter Managementsysteme. Unsere aktuellen Zertifikate – mit Geltungsbereich, Zertifizierungsstelle und Gültigkeit – finden Sie oben; wählen Sie eines, um es vollständig anzuzeigen, oder prüfen Sie es mit der Registriernummer bei Intercert.",
             "Benötigen Sie die Zertifikate schon früher für eine Ausschreibung oder ein Lieferantenaudit, [kontaktieren Sie uns](page:contact-us) – wir senden sie Ihnen direkt zu. Wie ISO 9001 in der Werkhalle gelebt wird, lesen Sie bei unserem [Qualitätsprozess](page:quality); unsere Verpflichtungen in den einzelnen Bereichen finden Sie in der [Grundsatzerklärung](page:policy-statement)."
           ],
           "image": "company/quality-inspection",
@@ -735,7 +759,7 @@
         {
           "type": "notice",
           "variant": "review",
-          "text": "Zur Prüfung durch HYT: Die Zertifikate liegen noch nicht als PDF vor. Bitte liefern Sie die aktuellen Zertifikate nach ISO 9001:2015, ISO 14001:2015 und ISO 45001:2018 mit zertifiziertem Geltungsbereich, Zertifizierungsstelle und Gültigkeitsdauer, damit sie hier als Download eingebunden werden können."
+          "text": "Zur Prüfung durch HYT: Bitte bestätigen Sie, worauf sich die Zeichen von DEKRA und DNV beziehen (z. B. Produktzertifizierung, Prüfung oder Zulassung, mit Zertifikatsnummer und Gültigkeit), damit die Beschreibungen konkretisiert werden können."
         }
       ]
     },

@@ -452,6 +452,50 @@ def b_gallery(ctx, b):
     return section(heading_block(ctx, b) + f'<ul class="gallery" id="{gid}" data-gallery aria-label="{esc(ctx.t("a11y.image_gallery"))}">{items}</ul>', b)
 
 
+def fmt_date(ctx, iso):
+    """yyyy-mm-dd → localised long date using common.json → certs.months / certs.date_format."""
+    cl = ctx.c.get("certs", {})
+    y, m, d = (int(x) for x in iso.split("-"))
+    return cl.get("date_format", "{d} {month} {y}").format(d=d, month=cl.get("months", [""] * 12)[m - 1], y=y)
+
+
+def b_certificates(ctx, b):
+    """ISO certificate cards; the certificate image opens in the lightbox. variant 'compact' = short cards for the Quality page."""
+    cl = ctx.c.get("certs", {})
+    compact = b.get("variant") == "compact"
+    cards = []
+    for c in R.CERTS:
+        system = cl.get("systems", {}).get(c["id"], "")
+        src = f'/assets/images/{c["image"]}'
+        thumb = (f'<a class="cert-card__thumb" href="{src}" data-gallery-item data-caption="{esc(c["standard"])} – {esc(system)}" '
+                 f'aria-label="{esc(cl.get("view", "View certificate"))}: {esc(c["standard"])}">'
+                 f'<img src="{src}" alt="{esc(c["standard"])} {esc(cl.get("certificate", "certificate"))} – HYT Engineering Company Pvt. Ltd." width="990" height="1400" loading="lazy" decoding="async">'
+                 f'<span class="cert-card__zoom" aria-hidden="true">{icon("zoom-in")}<span>{esc(cl.get("view", "View certificate"))}</span></span></a>')
+        rows = [(cl.get("body", "Certification body"), R.CERT_BODY), (cl.get("reg", "Registration no."), c["reg"])]
+        if not compact:
+            rows += [(cl.get("initial", "Initially certified"), fmt_date(ctx, c["initial"])), (cl.get("issued", "Certificate issued"), fmt_date(ctx, c["issued"]))]
+        rows.append((cl.get("valid", "Valid until"), fmt_date(ctx, c["valid"])))
+        dl = "".join(f"<div><dt>{esc(k)}</dt><dd>{esc(v)}</dd></div>" for k, v in rows)
+        cards.append(f'<li class="cert-card reveal">{thumb}<div class="cert-card__body"><p class="cert-card__std">{icon(c["icon"])} {esc(c["standard"])}</p>'
+                     f'<h3 class="cert-card__title">{esc(system)}</h3><dl class="cert-card__facts">{dl}</dl></div></li>')
+    note = f'<p class="cert-note">{icon("info-circle")} {inline(ctx, cl.get("note", ""))}</p>' if cl.get("note") and not compact else ""
+    inner = heading_block(ctx, b) + f'<ul class="cert-grid{" cert-grid--compact" if compact else ""}" data-gallery aria-label="{esc(b.get("heading", ""))}">{"".join(cards)}</ul>' + note + block_link(ctx, b)
+    return section(inner, b, "section--muted" if b.get("variant") in ("muted", "compact") else "")
+
+
+def b_marks(ctx, b):
+    cl = ctx.c.get("certs", {}).get("marks", {})
+    items = []
+    for m in R.MARKS:
+        lab = cl.get(m, {})
+        png = OUT / "assets/images/certifications" / f"mark-{m}.png"
+        w, h = png_size(png) if png.exists() else (240, 120)
+        items.append(f'<li class="mark-card reveal"><span class="mark-card__logo"><picture><source srcset="/assets/images/certifications/mark-{m}.webp" type="image/webp">'
+                     f'<img src="/assets/images/certifications/mark-{m}.png" alt="{esc(lab.get("t", m))}" width="{w}" height="{h}" loading="lazy" decoding="async"></picture></span>'
+                     f'<h3 class="mark-card__title">{esc(lab.get("t", m))}</h3><p>{inline(ctx, lab.get("d", ""))}</p></li>')
+    return section(heading_block(ctx, b) + f'<ul class="mark-grid">{"".join(items)}</ul>' + block_link(ctx, b), b)
+
+
 def b_awards(ctx, b):
     """Featured awards: photographs (as supplied, any aspect ratio) beside the award text."""
     out = []
@@ -1001,7 +1045,7 @@ def b_chips(ctx, b):
 BLOCKS = {
     "text": b_text, "features": b_features, "specs": b_specs, "table": b_table, "steps": b_steps, "list": b_list,
     "cards": b_cards, "related": b_related, "faq": b_faq, "stats": b_stats, "cta": b_cta, "gallery": b_gallery,
-    "timeline": b_timeline, "awards": b_awards, "projects": b_projects, "news": b_news, "logos": b_logos, "notice": b_notice,
+    "timeline": b_timeline, "awards": b_awards, "certificates": b_certificates, "marks": b_marks, "projects": b_projects, "news": b_news, "logos": b_logos, "notice": b_notice,
     "prose": b_prose, "downloads": b_downloads, "form": b_form, "contact": b_contact, "split_cta": b_split_cta,
     "product_catalog": b_product_catalog, "sitemap": b_sitemap, "logo_carousel": b_logo_carousel,
     "quote_band": b_quote_band, "pillars": b_pillars, "benefits": b_benefits, "facilities": b_facilities, "chips": b_chips,

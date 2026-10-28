@@ -505,5 +505,53 @@
       "wielenbank",
       "draaibank voor"
     ]
+  },
+  "certs": {
+    "body": "Certificatie-instelling",
+    "reg": "Registratienummer",
+    "initial": "Eerste certificering",
+    "issued": "Datum van uitgifte",
+    "valid": "Geldig tot",
+    "view": "Certificaat bekijken",
+    "certificate": "certificaat",
+    "note": "De certificaten zijn uitgegeven door Intercert (IAF-lid, SCC-geaccrediteerd) en blijven geldig onder voorbehoud van jaarlijkse surveillance-audits. Controleer ze op www.intercert.com met het registratienummer.",
+    "systems": {
+      "9001": "Kwaliteitsmanagementsysteem",
+      "14001": "Milieumanagementsysteem",
+      "45001": "Managementsysteem voor gezond en veilig werken"
+    },
+    "months": [
+      "januari",
+      "februari",
+      "maart",
+      "april",
+      "mei",
+      "juni",
+      "juli",
+      "augustus",
+      "september",
+      "oktober",
+      "november",
+      "december"
+    ],
+    "date_format": "{d} {month} {y}",
+    "marks": {
+      "ce": {
+        "t": "CE-markering",
+        "d": "Conformiteitsmarkering voor machines die in de Europese Economische Ruimte worden geleverd."
+      },
+      "dekra": {
+        "t": "DEKRA",
+        "d": "Onafhankelijk testen, inspecteren en certificeren."
+      },
+      "dnv": {
+        "t": "DNV",
+        "d": "Onafhankelijke borging en certificering."
+      },
+      "ecovadis": {
+        "t": "EcoVadis-bronzen medaille",
+        "d": "Duurzaamheidsrating bij de beste 35% van de door EcoVadis beoordeelde bedrijven (april 2025)."
+      }
+    }
   }
 }

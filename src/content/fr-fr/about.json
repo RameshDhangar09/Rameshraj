@@ -608,6 +608,18 @@
           "layout": "image-right"
         },
         {
+          "type": "certificates",
+          "variant": "compact",
+          "id": "quality-certificates",
+          "eyebrow": "Système qualité et certifications",
+          "heading": "Certifiés selon les normes internationales",
+          "intro": "Nos systèmes de management de la qualité, de l’environnement et de la santé-sécurité au travail sont certifiés de manière indépendante par Intercert.",
+          "link": {
+            "label": "Tous les certificats et notations",
+            "page": "certifications"
+          }
+        },
+        {
           "type": "steps",
           "eyebrow": "Notre processus qualité",
           "heading": "Six points de contrôle entre la commande et la réception",
@@ -697,8 +709,14 @@
       "summary": "ISO 9001:2015, ISO 14001:2015 et ISO 45001:2018 – ce que couvre chaque certificat.",
       "blocks": [
         {
-          "type": "features",
+          "type": "certificates",
+          "id": "iso-certificates",
           "eyebrow": "Systèmes de management certifiés",
+          "heading": "Nos certificats ISO",
+          "intro": "HYT Engineering Company Pvt. Ltd. est certifiée par Intercert selon trois normes internationales de systèmes de management. Sélectionnez un certificat pour l’afficher en entier."
+        },
+        {
+          "type": "features",
           "heading": "Trois normes, une même façon de travailler",
           "intro": "Chaque norme fait l’objet d’audits par un organisme de certification indépendant. Ensemble, elles couvrent notre façon de construire les machines, de respecter l’environnement et de protéger les personnes.",
           "cols": 3,
@@ -721,11 +739,17 @@
           ]
         },
         {
+          "type": "marks",
+          "id": "marks",
+          "eyebrow": "Normes et durabilité",
+          "heading": "Autres certifications et notations"
+        },
+        {
           "type": "text",
           "eyebrow": "Pour les acheteurs et les auditeurs",
           "heading": "Utiliser nos certificats pour votre homologation fournisseur",
           "paragraphs": [
-            "Les appels d’offres ferroviaires et de métro exigent souvent la preuve de systèmes de management certifiés. Des copies de nos certificats en vigueur, précisant le périmètre, l’organisme de certification et les dates de validité, seront disponibles en téléchargement sur cette page.",
+            "Les appels d’offres ferroviaires et métro exigent souvent la preuve de systèmes de management certifiés. Nos certificats en vigueur – avec périmètre, organisme de certification et dates de validité – figurent ci-dessus ; sélectionnez-en un pour l’afficher en entier, ou vérifiez-le auprès d’Intercert grâce au numéro d’enregistrement.",
             "Si vous avez besoin de nos certificats plus tôt pour un appel d’offres ou un audit fournisseur, [contactez-nous](page:contact-us) et nous vous les enverrons directement. Pour voir comment l’ISO 9001 s’applique concrètement dans l’atelier, découvrez notre [processus qualité](page:quality) ; nos engagements dans chaque domaine sont présentés dans notre [Déclaration de politique](page:policy-statement)."
           ],
           "image": "company/quality-inspection",
@@ -735,7 +759,7 @@
         {
           "type": "notice",
           "variant": "review",
-          "text": "Pour validation par HYT : les certificats au format PDF ne sont pas encore disponibles. Merci de fournir les certificats ISO 9001:2015, ISO 14001:2015 et ISO 45001:2018 en vigueur, avec le périmètre certifié, l’organisme de certification et les dates de validité, afin de les proposer ici en téléchargement."
+          "text": "Pour validation par HYT : merci de préciser à quoi se rapportent les marques DEKRA et DNV (certification de produit, inspection ou agrément, avec numéro et validité) afin de compléter les descriptions."
         }
       ]
     },
