@@ -166,7 +166,7 @@
             "Smontare le sale montate per la riprofilatura immobilizza veicoli, gru e personale. I torni più vecchi, spesso in servizio da decenni, faticano a mantenere la precisione e sono difficili da tenere in funzione. Le officine hanno bisogno di macchine che ripristinino rapidamente i profili, asportino il minimo materiale possibile e continuino a lavorare per molti anni."
           ],
           "image": "industries/railways",
-          "image_alt": "Illustrazione di esempio di un deposito di manutenzione ferroviaria con locomotive e carrozze su binari paralleli",
+          "image_alt": "Sale montate di un carro merci sul binario",
           "layout": "image-right"
         },
         {
@@ -356,7 +356,7 @@
             "La manutenzione avviene di solito di notte, in un deposito dove lo spazio è limitato e ogni fossa è pianificata con anni di anticipo. Un tornio per sale montate deve riprofilare un intero treno entro quella finestra, garantire risultati ripetibili su tutta la flotta ed essere di nuovo pronto la notte successiva. Quando è fuori servizio, i treni si accodano e gli obiettivi di disponibilità non vengono rispettati."
           ],
           "image": "industries/metros",
-          "image_alt": "Illustrazione di esempio di treni della metropolitana in sosta in un deposito di notte",
+          "image_alt": "Treno della metropolitana su un viadotto",
           "layout": "image-right"
         },
         {
@@ -539,7 +539,7 @@
             "I programmi di produzione cambiano: un nuovo ordine per una metropolitana, uno scartamento diverso, un aumento dei volumi per un contratto di esportazione. Le macchine dell'officina ruote devono adattarsi senza lunghi tempi di riattrezzaggio, e i dati che producono devono reggere al collaudo del cliente e a eventuali questioni di garanzia successive."
           ],
           "image": "industries/rolling-stock-manufacturers",
-          "image_alt": "Illustrazione di esempio di un reparto di assemblaggio di materiale rotabile con carrelli e sale montate",
+          "image_alt": "Carrozze in costruzione in un'officina di materiale rotabile",
           "layout": "image-right"
         },
         {
@@ -716,7 +716,7 @@
             "Le officine militari riparano anche grandi componenti rotanti come anelli, mozzi e ruote pesanti. Apprezzano attrezzature robuste, semplici da mantenere, assistite localmente per decenni e fornite con documentazione completa. La riservatezza dei disegni e delle informazioni sui siti è essenziale."
           ],
           "image": "industries/defence",
-          "image_alt": "Illustrazione di esempio di un'officina logistica della difesa servita da binari, con carri pesanti",
+          "image_alt": "Nave militare in porto",
           "layout": "image-right"
         },
         {
@@ -858,7 +858,7 @@
             "Molti siti industriali, come acciaierie, porti, miniere e centrali elettriche, gestiscono anche flotte ferroviarie proprie. I loro carri e locomotive trasportano carichi pesanti su percorsi brevi e impegnativi, e le ruote si usurano rapidamente. Inviare le sale montate all'esterno per la riprofilatura può bloccare la logistica di produzione per giorni."
           ],
           "image": "industries/heavy-engineering",
-          "image_alt": "Illustrazione di esempio di un'officina dell'industria pesante con grandi componenti torniti",
+          "image_alt": "Ingegnere accanto a un grande albero rotore tornito",
           "layout": "image-right"
         },
         {

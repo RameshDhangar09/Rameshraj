@@ -111,7 +111,13 @@
           "link": {
             "label": "Découvrir les tours en fosse",
             "page": "underfloor-wheel-lathe"
-          }
+          },
+          "slides": [
+            "underfloor-wheel-lathe",
+            "underfloor-wheel-lathe-yugl",
+            "tandem-underfloor-wheel-lathe",
+            "tandem-underfloor-wheel-lathe-yuglx"
+          ]
         },
         {
           "type": "text",
@@ -129,7 +135,13 @@
             "label": "Voir les machines pour ateliers d’essieux",
             "page": "products",
             "anchor": "wheel-axle-shop-machines"
-          }
+          },
+          "slides": [
+            "vertical-turning-boring-machine",
+            "axle-journal-turning-burnishing-lathe",
+            "axle-turning-lathe",
+            "wheel-measuring-station"
+          ]
         },
         {
           "type": "steps",

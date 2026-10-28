@@ -261,6 +261,8 @@ def b_text(ctx, b):
     if not b.get("image"):
         return section(f'<div class="row"><div class="col-lg-9 reveal">{text}</div></div>', b)
     img = f'<figure class="media-frame reveal">{picture(b["image"], b.get("image_alt", ""))}</figure>'
+    if b.get("slides"):
+        img = media_carousel(ctx, b)
     if b.get("video") and b["video"].get("embed"):
         # Click-to-load video: nothing is requested from the video host until the visitor presses play
         v = b["video"]
@@ -274,6 +276,36 @@ def b_text(ctx, b):
     cols = (f'<div class="col-lg-6 {"order-lg-1" if left else "order-lg-2"}">{img}</div>'
             f'<div class="col-lg-6 {"order-lg-2" if left else "order-lg-1"} reveal">{text}</div>')
     return section(f'<div class="row align-items-center g-4 g-lg-5">{cols}</div>', b, "section--split")
+
+
+def media_carousel(ctx, b):
+    """Image carousel of product pages for a text block: fade slides, arrows, numbered model tabs with autoplay progress."""
+    pids = [p for p in b["slides"] if p in R.PAGES]
+    total = len(pids)
+    slide_lbl = ctx.t("hero.slide")
+    slides, tabs = [], []
+    for i, pid in enumerate(pids):
+        pg = R.PAGES[pid]
+        name = ctx.nav(pid)
+        model = pg.get("model") or ""
+        title = name if (not model or model in name) else f"{name} ({model})"
+        slides.append(
+            f'<div class="media-carousel__slide{" is-active" if i == 0 else ""}" role="group" aria-roledescription="slide" '
+            f'aria-label="{esc(slide_lbl.replace("{n}", str(i + 1)).replace("{total}", str(total)))}"{"" if i == 0 else " aria-hidden=\"true\""}>'
+            f'{picture(pg["image"], "HYT " + title, sizes="(min-width: 992px) 50vw, 100vw")}'
+            f'<a class="media-carousel__caption" href="{esc(ctx.url(pid))}"{"" if i == 0 else " tabindex=\"-1\""}>'
+            f'<span class="media-carousel__model">{esc(model or name)}</span><span class="media-carousel__name">{esc(name)}</span>{icon("arrow-right")}</a></div>')
+        tabs.append(f'<button type="button" class="media-carousel__tab{" is-active" if i == 0 else ""}" data-mc-go="{i}" aria-label="{esc(title)}"'
+                    f'{" aria-current=\"true\"" if i == 0 else ""}><span class="media-carousel__tab-label">{esc(model or name)}</span><span class="media-carousel__bar"><i></i></span></button>')
+    hero = ctx.c.get("hero", {})
+    return (f'<figure class="media-carousel reveal" data-media-carousel aria-roledescription="carousel" aria-label="{esc(b.get("heading", ""))}">'
+            f'<div class="media-carousel__viewport">{"".join(slides)}'
+            f'<div class="media-carousel__nav"><button type="button" class="media-carousel__btn" data-mc-prev aria-label="{esc(ctx.t("carousel.prev"))}">{icon("chevron-left")}</button>'
+            f'<span class="media-carousel__count" aria-hidden="true"><b data-mc-num>01</b> / {total:02d}</span>'
+            f'<button type="button" class="media-carousel__btn" data-mc-next aria-label="{esc(ctx.t("carousel.next"))}">{icon("chevron-right")}</button>'
+            f'<button type="button" class="media-carousel__btn media-carousel__btn--play" data-mc-toggle aria-pressed="false" '
+            f'data-label-pause="{esc(hero.get("pause", "Pause"))}" data-label-play="{esc(hero.get("play", "Play"))}" aria-label="{esc(hero.get("pause", "Pause"))}">{icon("pause-fill")}</button></div></div>'
+            f'<div class="media-carousel__tabs">{"".join(tabs)}</div></figure>')
 
 
 def b_features(ctx, b):
@@ -418,6 +450,25 @@ def b_gallery(ctx, b):
         f'{picture(it["image"], it.get("caption", ""), "(min-width: 992px) 25vw, 50vw")}<span class="gallery__zoom">{icon("arrows-fullscreen")}</span></a>'
         f'<p class="gallery__caption">{esc(it.get("caption", ""))}</p></li>' for it in b.get("items", []))
     return section(heading_block(ctx, b) + f'<ul class="gallery" id="{gid}" data-gallery aria-label="{esc(ctx.t("a11y.image_gallery"))}">{items}</ul>', b)
+
+
+def b_awards(ctx, b):
+    """Featured awards: photographs (as supplied, any aspect ratio) beside the award text."""
+    out = []
+    for i, it in enumerate(b.get("items", [])):
+        photos = []
+        for ph in it.get("photos", []):
+            f = OUT / ph["src"].lstrip("/")
+            if not f.exists():
+                warn(f"missing award photo {ph['src']}")
+            photos.append(f'<figure class="award__photo award__photo--{esc(ph.get("shape", "landscape"))}">'
+                          f'<img src="{esc(ph["src"])}" alt="{esc(ph.get("alt", ""))}" width="{ph["w"]}" height="{ph["h"]}" loading="lazy" decoding="async"></figure>')
+        meta = f'<p class="award__meta">{icon("award")} {esc(it["meta"])}</p>' if it.get("meta") else ""
+        paras = "".join(f"<p>{inline(ctx, x)}</p>" for x in it.get("paragraphs", []))
+        out.append(f'<article class="award reveal{" award--flip" if i % 2 else ""}"><div class="award__photos">{"".join(photos)}</div>'
+                   f'<div class="award__body"><span class="award__year">{esc(it["year"])}</span><h3 class="award__title">{inline(ctx, it["title"])}</h3>'
+                   f'{meta}{paras}{block_link(ctx, it)}</div></article>')
+    return section(heading_block(ctx, b) + "".join(out), b, "section--muted" if b.get("variant") == "muted" else "")
 
 
 def b_timeline(ctx, b):
@@ -950,7 +1001,7 @@ def b_chips(ctx, b):
 BLOCKS = {
     "text": b_text, "features": b_features, "specs": b_specs, "table": b_table, "steps": b_steps, "list": b_list,
     "cards": b_cards, "related": b_related, "faq": b_faq, "stats": b_stats, "cta": b_cta, "gallery": b_gallery,
-    "timeline": b_timeline, "projects": b_projects, "news": b_news, "logos": b_logos, "notice": b_notice,
+    "timeline": b_timeline, "awards": b_awards, "projects": b_projects, "news": b_news, "logos": b_logos, "notice": b_notice,
     "prose": b_prose, "downloads": b_downloads, "form": b_form, "contact": b_contact, "split_cta": b_split_cta,
     "product_catalog": b_product_catalog, "sitemap": b_sitemap, "logo_carousel": b_logo_carousel,
     "quote_band": b_quote_band, "pillars": b_pillars, "benefits": b_benefits, "facilities": b_facilities, "chips": b_chips,

@@ -166,7 +166,7 @@
             "Déposer les essieux montés pour les reprofiler immobilise véhicules, ponts roulants et personnel. Les tours à roues plus anciens, souvent en service depuis des décennies, peinent à conserver leur précision et sont difficiles à maintenir en état de marche. Les ateliers ont besoin de machines qui rétablissent rapidement les profils, enlèvent le moins de matière possible et fonctionnent pendant de nombreuses années."
           ],
           "image": "industries/railways",
-          "image_alt": "Illustration d’exemple d’un dépôt de maintenance ferroviaire avec locomotives et voitures sur des voies parallèles",
+          "image_alt": "Essieux montés d’un wagon de fret sur la voie",
           "layout": "image-right"
         },
         {
@@ -356,7 +356,7 @@
             "La maintenance a généralement lieu la nuit, dans un dépôt où l’espace est limité et où chaque fosse est planifiée des années à l’avance. Un tour à roues doit reprofiler une rame entière dans ce créneau, produire des résultats reproductibles sur toute la flotte et être de nouveau prêt la nuit suivante. Lorsqu’il est hors service, les rames s’accumulent et les objectifs de disponibilité ne sont plus tenus."
           ],
           "image": "industries/metros",
-          "image_alt": "Illustration d’exemple de rames de métro garées de nuit dans un dépôt",
+          "image_alt": "Rame de métro sur un viaduc",
           "layout": "image-right"
         },
         {
@@ -539,7 +539,7 @@
             "Les programmes de production évoluent : une nouvelle commande de métro, un autre écartement, une montée en cadence pour un contrat à l’export. Les machines de l’atelier d’essieux doivent s’adapter sans longs changements de série, et les données qu’elles produisent doivent résister aux contrôles du client et aux questions ultérieures de garantie."
           ],
           "image": "industries/rolling-stock-manufacturers",
-          "image_alt": "Illustration d’exemple d’un hall d’assemblage de matériel roulant avec bogies et essieux montés",
+          "image_alt": "Voitures en construction dans un atelier de matériel roulant",
           "layout": "image-right"
         },
         {
@@ -716,7 +716,7 @@
             "Les ateliers militaires réparent également de grandes pièces en rotation, telles que des couronnes, des moyeux et des roues lourdes. Ils recherchent des équipements robustes, simples à entretenir, suivis localement pendant des décennies et livrés avec une documentation complète. La confidentialité des plans et des informations sur les sites est essentielle."
           ],
           "image": "industries/defence",
-          "image_alt": "Illustration d’exemple d’un atelier logistique de défense desservi par le rail, avec des wagons lourds",
+          "image_alt": "Navire de guerre au port",
           "layout": "image-right"
         },
         {
@@ -858,7 +858,7 @@
             "De nombreux sites industriels, comme les aciéries, les ports, les mines et les centrales électriques, exploitent également leur propre flotte ferroviaire. Leurs wagons et locomotives transportent de lourdes charges sur des parcours courts et exigeants, et leurs roues s’usent rapidement. Envoyer les essieux montés à l’extérieur pour reprofilage peut paralyser la logistique de production pendant plusieurs jours."
           ],
           "image": "industries/heavy-engineering",
-          "image_alt": "Illustration d’exemple d’un atelier d’industrie lourde avec de grandes pièces tournées",
+          "image_alt": "Ingénieur à côté d’un grand arbre de rotor usiné",
           "layout": "image-right"
         },
         {

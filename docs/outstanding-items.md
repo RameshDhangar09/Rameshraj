@@ -32,7 +32,7 @@ site replaces hytengineering.com. Owner suggestions in brackets.
 | B7 | Group company names, activities, links | Group Companies | Management |
 | B8 | ~~Dated history milestones~~ **Done 19 Oct 2026** (HYT history document, 1977–2026). Still open: archive photographs for the timeline | History | Management |
 | B9 | ISO certificates (PDF, certifying body, validity) – fix the swapped links on the old Quality page | Certifications | QA |
-| B10 | Award list | Awards | Marketing |
+| B10 | Awards: **Pune Best Employer Brand Awards 2026** added (27/28 Oct 2026, HYT photos). Still open: the other awards on the current site https://hytengineering.com/awards/ – the domain is blocked in the build environment, so please send the list (name, body, year, photo) or allow the domain | Awards | Marketing |
 | B11 | CSR policy and projects | CSR | HR / CSR committee |
 | B12 | Approval of Code of Conduct, Business Conduct Guidelines, Policy Statement (signatory, date); Supplier Code of Conduct and Information Security documents | Compliance pages | Management / Legal |
 | B13 | Legal review of Privacy Policy, Cookie Policy, Disclaimer (incl. retention periods, form processor name, EU/UK representative question) | Legal pages | Legal |
@@ -54,6 +54,7 @@ site replaces hytengineering.com. Owner suggestions in brackets.
 | B30 | Home page videos: the three hero slides use HYT's own clips (done). The corporate video in *Who we are* is embedded from Canva – keep the Canva design shared publicly, check it plays in a normal browser, and supply a poster image (a still from the film) to replace the sample illustration; alternatively export it as MP4 for self-hosting or publish it on YouTube | Home | Marketing |
 | B32 | High-resolution product photographs: the 14 photos now on the product pages were taken from HYT's Word document (about 600 px wide, upscaled). Please send the original image files (≥ 1600 px) so they can be replaced at the same filenames. 27 Oct 2026: HYT supplied photos for ATL-01, YPL-04, wheel measuring station, dynamic wheel balancing machine and the wheel-profile close-up (used unchanged, not re-compressed) | Product pages | Marketing |
 | B33 | Per-product catalogue PDFs named in the product document (e.g. `hyt-yugl-yuglx-catalogue.pdf`, `hyt-ypl-02-catalogue.pdf`) were not supplied – the sample catalogue is still used | Product pages, Downloads | Marketing |
+| B34 | Industry images (railways, metros, rolling stock, defence, heavy engineering) were supplied at only 235×150 px and enlarged to the site size (1600×1000); please send larger originals | Industries pages | Marketing |
 | B31 | **Axiom chat assistant** is live in local mode (answers only from website content). To switch on AI answers: choose hosting for `integrations/cloudflare-worker/axiom-chat.js`, create an Anthropic API key (stored only as a Worker secret), set daily/per-IP caps, sign the provider's data processing terms, add the AI provider to the Privacy Policy, then set `chat_endpoint` in `src/config.json` and rebuild. Review Axiom's texts (`common.json` → `chat`) and test with typical customer questions in every language | All pages | Marketing / IT / Legal |
 | B24 | ~~New Delhi office~~ **Done 19 Oct 2026** – New Delhi Sales & Marketing Office and SAFOP S.p.A. (Pordenone) published on Contact Us with the Pune HQ | Contact | Sales |
 

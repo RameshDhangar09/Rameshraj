@@ -742,12 +742,49 @@
     "awards": {
       "nav": "Riconoscimenti",
       "title": "Premi e riconoscimenti",
-      "description": "I riconoscimenti di HYT Engineering, tra cui la presenza in Leading Mid-Corporates of India 2023 di Dun & Bradstreet, e come misuriamo il successo.",
+      "description": "Riconoscimenti di HYT Engineering, tra cui il Pune Best Employer Brand Award 2026 e l'inserimento tra le Leading Mid-Corporates of India 2023.",
       "eyebrow": "Credenziali",
       "h1": "Premi e riconoscimenti",
       "lede": "Il miglior riconoscimento è una macchina ancora in uso quotidiano anni dopo la consegna. Siamo inoltre orgogliosi quando organizzazioni indipendenti notano il nostro lavoro.",
       "summary": "Riconoscimenti indipendenti del lavoro e della crescita di HYT Engineering.",
       "blocks": [
+        {
+          "type": "awards",
+          "id": "awards-2026",
+          "eyebrow": "Ultimo riconoscimento",
+          "heading": "Riconoscimenti 2026",
+          "items": [
+            {
+              "year": "2026",
+              "title": "Pune Best Employer Brand Awards 2026",
+              "meta": "21ª edizione Employer Branding Awards · Pune, 18ª edizione",
+              "paragraphs": [
+                "HYT Engineering Co. Pvt. Ltd. è stata riconosciuta tra i migliori employer brand di Pune ai Pune Best Employer Brand Awards 2026, nell'ambito della 21ª edizione degli Employer Branding Awards, consegnati a Pune nell'ottobre 2026.",
+                "Il riconoscimento appartiene alle persone che ogni giorno progettano, costruiscono, installano e assistono le macchine HYT. Se desidera unirsi a loro, visiti la pagina [Lavora con noi](page:career)."
+              ],
+              "photos": [
+                {
+                  "src": "/assets/images/awards/pune-best-employer-brand-award-2026.jpg",
+                  "w": 1080,
+                  "h": 1350,
+                  "shape": "portrait",
+                  "alt": "Attestato e trofeo dei Pune Best Employer Brand Awards 2026 consegnati a HYT Engineering Co. Pvt. Ltd."
+                },
+                {
+                  "src": "/assets/images/awards/pune-best-employer-brand-award-2026-ceremony.jpg",
+                  "w": 1200,
+                  "h": 800,
+                  "shape": "landscape",
+                  "alt": "Rappresentanti di HYT ricevono sul palco il Pune Best Employer Brand Award 2026"
+                }
+              ],
+              "link": {
+                "label": "Lavorare in HYT",
+                "page": "career"
+              }
+            }
+          ]
+        },
         {
           "type": "features",
           "eyebrow": "Riconoscimenti",
@@ -782,7 +819,7 @@
         {
           "type": "notice",
           "variant": "review",
-          "text": "Da verificare da parte di HYT: l'inserimento nella pubblicazione di Dun & Bradstreet è tratto da un indice di pubblicazioni e deve essere confermato. Si prega di fornire l'elenco completo di premi e riconoscimenti (nome, ente che lo ha conferito, anno, certificato o fotografia) per completare questa pagina."
+          "text": "Da verificare da parte di HYT: inviare l'elenco completo dei riconoscimenti presenti sul sito attuale (nome, ente, anno e foto). Va inoltre confermata la menzione Dun & Bradstreet."
         }
       ]
     },
@@ -810,7 +847,7 @@
             "Per questo cercano più di una macchina. Hanno bisogno di fondazioni progettate correttamente fin dal primo momento, di operatori formati sui propri veicoli e di un partner di assistenza che risponda quando serve. I dettagli sono disponibili nei nostri [progetti realizzati](page:executed-projects) e nei [progetti in corso di realizzazione](page:under-execution)."
           ],
           "image": "industries/railways",
-          "image_alt": "Illustrazione di esempio di un deposito di manutenzione ferroviaria con locomotive e carrozze",
+          "image_alt": "Sale montate di un carro merci sul binario",
           "layout": "image-right"
         },
         {

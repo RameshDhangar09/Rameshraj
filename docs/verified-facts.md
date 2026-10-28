@@ -41,6 +41,9 @@ Source files: *History_Corrected.docx*, *Contact_Us_Organized.docx*, *HYT_Produc
 
 **Product data** – technical data, overview text and "Why choose" points for YUGLX 30/15, YUGL 30/15, YUL-12T, YUL-08, YPL-04, YPL-02, YSL-08/12/21, YVM-04, ATL-01, YTB 04, KRE 15 RCRV, Automated Train Washing Plant and YMM-04 are published exactly as supplied (see `src/content/en/products.json`). Product photographs taken from the same document (low resolution – originals requested). The figures above under "Product data (HYT catalogue pages)" are superseded where they differ (e.g. YSL-08 minimum tread diameter: 750 mm).
 
+## HYT input 28 Oct 2026
+* Pune Best Employer Brand Awards 2026 (21st Employer Branding Awards, 18th Pune edition), presented to HYT Engineering Co. Pvt. Ltd. in Pune, October 2026 (certificate and ceremony photos supplied by HYT; the certificate shows 22 Oct, the trophy 23 Oct – the site states only "October 2026").
+
 ## Sources
 * https://railwaygazette.com/technology/indian-railways-awards-wheel-lathe-contract/43759.article
 * https://news.railanalysis.com/tag/wheel-lathe-machine/

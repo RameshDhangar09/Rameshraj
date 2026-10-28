@@ -9,6 +9,7 @@ import { initAnimations } from './animations.js';
 import { initAccordions } from './accordion.js';
 import { initGallery } from './gallery.js';
 import { initCarousels } from './carousel.js';
+import { initMediaCarousels } from './media-carousel.js';
 import { initProductFilter } from './products.js';
 import { initForms } from './forms.js';
 import { initSitemapSearch, initSiteSearch } from './search.js';
@@ -40,6 +41,7 @@ async function boot() {
   safe('accordions', () => initAccordions());
   safe('gallery', () => initGallery(strings));
   safe('carousels', () => initCarousels());
+  safe('media carousels', () => initMediaCarousels());
   safe('product filter', () => initProductFilter(strings));
   safe('forms', () => initForms(strings));
   safe('sitemap search', () => initSitemapSearch());

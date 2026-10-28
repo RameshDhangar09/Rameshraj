@@ -742,12 +742,49 @@
     "awards": {
       "nav": "Distinctions",
       "title": "Distinctions et reconnaissance – HYT Engineering",
-      "description": "Les distinctions de HYT Engineering, dont la mention dans « Leading Mid-Corporates of India 2023 » de Dun & Bradstreet, et notre mesure du succès client.",
+      "description": "Distinctions de HYT Engineering, dont le Pune Best Employer Brand Award 2026 et le classement parmi les Leading Mid-Corporates of India 2023.",
       "eyebrow": "Références",
       "h1": "Distinctions et reconnaissance",
       "lede": "La plus belle reconnaissance est une machine encore utilisée chaque jour des années après sa réception. Nous sommes également fiers lorsque des organismes indépendants remarquent notre travail.",
       "summary": "La reconnaissance indépendante du travail et de la croissance de HYT Engineering.",
       "blocks": [
+        {
+          "type": "awards",
+          "id": "awards-2026",
+          "eyebrow": "Dernière distinction",
+          "heading": "Distinctions 2026",
+          "items": [
+            {
+              "year": "2026",
+              "title": "Pune Best Employer Brand Awards 2026",
+              "meta": "21ᵉ Employer Branding Awards · Pune, 18ᵉ édition",
+              "paragraphs": [
+                "HYT Engineering Co. Pvt. Ltd. a été distinguée parmi les meilleures marques employeur de Pune lors des Pune Best Employer Brand Awards 2026, dans le cadre des 21ᵉ Employer Branding Awards, remis à Pune en octobre 2026.",
+                "Cette distinction revient aux femmes et aux hommes qui conçoivent, fabriquent, installent et entretiennent chaque jour les machines HYT. Pour les rejoindre, consultez nos [offres de carrière](page:career)."
+              ],
+              "photos": [
+                {
+                  "src": "/assets/images/awards/pune-best-employer-brand-award-2026.jpg",
+                  "w": 1080,
+                  "h": 1350,
+                  "shape": "portrait",
+                  "alt": "Certificat et trophée des Pune Best Employer Brand Awards 2026 remis à HYT Engineering Co. Pvt. Ltd."
+                },
+                {
+                  "src": "/assets/images/awards/pune-best-employer-brand-award-2026-ceremony.jpg",
+                  "w": 1200,
+                  "h": 800,
+                  "shape": "landscape",
+                  "alt": "Des représentants de HYT reçoivent le Pune Best Employer Brand Award 2026 sur scène"
+                }
+              ],
+              "link": {
+                "label": "Carrières chez HYT",
+                "page": "career"
+              }
+            }
+          ]
+        },
         {
           "type": "features",
           "eyebrow": "Reconnaissance",
@@ -782,7 +819,7 @@
         {
           "type": "notice",
           "variant": "review",
-          "text": "Pour validation par HYT : la mention Dun & Bradstreet provient d’un index de publications et doit être confirmée. Merci de fournir la liste complète des distinctions et reconnaissances (intitulé, organisme décernant, année, certificat ou photographie) pour compléter cette page."
+          "text": "Pour validation par HYT : merci de fournir la liste complète des distinctions présentées sur le site actuel (nom, organisme, année et photo). La mention Dun & Bradstreet doit également être confirmée."
         }
       ]
     },
@@ -810,7 +847,7 @@
             "C’est pourquoi ils attendent davantage qu’une machine. Il leur faut des fondations correctement conçues dès le départ, des opérateurs formés sur leurs propres véhicules et un partenaire de service réactif quand cela compte. Retrouvez le détail dans nos [projets réalisés](page:executed-projects) et nos [projets en cours de réalisation](page:under-execution)."
           ],
           "image": "industries/railways",
-          "image_alt": "Illustration d’exemple d’un atelier de maintenance ferroviaire avec locomotives et voitures",
+          "image_alt": "Essieux montés d’un wagon de fret sur la voie",
           "layout": "image-right"
         },
         {

@@ -166,7 +166,7 @@
             "Taking wheelsets out for re-profiling ties up vehicles, cranes and staff. Older wheel lathes, often decades in service, struggle to hold accuracy and are hard to keep running. Workshops need machines that restore profiles quickly, remove as little material as possible and keep working for many years."
           ],
           "image": "industries/railways",
-          "image_alt": "Sample illustration of a railway maintenance shed with locomotives and coaches on parallel tracks",
+          "image_alt": "Freight wagon wheelsets on railway track",
           "layout": "image-right"
         },
         {
@@ -356,7 +356,7 @@
             "Maintenance usually happens overnight in a depot where space is limited and every pit is planned years in advance. A wheel lathe must re-profile a whole train within that window, produce repeatable results across the fleet and be ready again the next night. When it is out of service, trains queue up and availability targets slip."
           ],
           "image": "industries/metros",
-          "image_alt": "Sample illustration of metro trains stabled in a depot at night",
+          "image_alt": "Metro train on an elevated viaduct",
           "layout": "image-right"
         },
         {
@@ -539,7 +539,7 @@
             "Production programmes change: a new metro order, a different gauge, a ramp-up for an export contract. The machines in the wheel shop must adapt without long changeovers, and the data they produce must stand up to customer inspection and later warranty questions."
           ],
           "image": "industries/rolling-stock-manufacturers",
-          "image_alt": "Sample illustration of a rolling stock assembly hall with bogies and wheelsets",
+          "image_alt": "Coaches under construction in a rolling stock workshop",
           "layout": "image-right"
         },
         {
@@ -716,7 +716,7 @@
             "Military workshops also repair large rotating components such as rings, hubs and heavy wheels. They value equipment that is robust, simple to maintain, supported locally for decades and supplied with complete documentation. Confidentiality of drawings and site information is essential."
           ],
           "image": "industries/defence",
-          "image_alt": "Sample illustration of a rail-served defence logistics workshop with heavy wagons",
+          "image_alt": "Naval warship at port",
           "layout": "image-right"
         },
         {
@@ -858,7 +858,7 @@
             "Many industrial sites, such as steel plants, ports, mines and power stations, also run their own railway fleets. Their wagons and locomotives carry heavy loads on short, demanding routes, and their wheels wear quickly. Sending wheelsets away for re-profiling can stop production logistics for days."
           ],
           "image": "industries/heavy-engineering",
-          "image_alt": "Sample illustration of a heavy engineering workshop with large turned components",
+          "image_alt": "Engineer beside a large turned rotor shaft",
           "layout": "image-right"
         },
         {

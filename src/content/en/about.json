@@ -578,20 +578,65 @@
     "awards": {
       "nav": "Awards",
       "title": "Awards and Recognition",
-      "description": "Recognition for HYT Engineering, including listing in Dun & Bradstreet's Leading Mid-Corporates of India 2023, and how we measure success with customers.",
+      "description": "Awards and recognition for HYT Engineering, including the Pune Best Employer Brand Award 2026 and listing among India's Leading Mid-Corporates 2023.",
       "eyebrow": "Credentials",
       "h1": "Awards and Recognition",
       "lede": "The best recognition is a machine that is still in daily use years after handover. We are also proud when independent organisations take note of our work.",
       "summary": "Independent recognition of HYT Engineering's work and growth.",
       "blocks": [
         {
+          "type": "awards",
+          "id": "awards-2026",
+          "eyebrow": "Latest recognition",
+          "heading": "Awards 2026",
+          "items": [
+            {
+              "year": "2026",
+              "title": "Pune Best Employer Brand Awards 2026",
+              "meta": "21st Employer Branding Awards · Pune, 18th edition",
+              "paragraphs": [
+                "HYT Engineering Co. Pvt. Ltd. has been named one of Pune's best employer brands at the Pune Best Employer Brand Awards 2026, part of the 21st Employer Branding Awards, presented in Pune in October 2026.",
+                "The recognition belongs to the people who design, build, install and service HYT machines every day. If you would like to join them, see [careers at HYT](page:career)."
+              ],
+              "photos": [
+                {
+                  "src": "/assets/images/awards/pune-best-employer-brand-award-2026.jpg",
+                  "w": 1080,
+                  "h": 1350,
+                  "shape": "portrait",
+                  "alt": "Pune Best Employer Brand Awards 2026 certificate and trophy presented to HYT Engineering Co. Pvt. Ltd."
+                },
+                {
+                  "src": "/assets/images/awards/pune-best-employer-brand-award-2026-ceremony.jpg",
+                  "w": 1200,
+                  "h": 800,
+                  "shape": "landscape",
+                  "alt": "HYT representatives receiving the Pune Best Employer Brand Award 2026 on stage"
+                }
+              ],
+              "link": {
+                "label": "Careers at HYT",
+                "page": "career"
+              }
+            }
+          ]
+        },
+        {
           "type": "features",
           "eyebrow": "Recognition",
           "heading": "Independent recognition",
           "cols": 2,
           "items": [
-            {"icon": "award", "title": "Leading Mid-Corporates of India 2023", "text": "HYT Engineering is listed in the Dun & Bradstreet publication \"Leading Mid-Corporates of India 2023\", which profiles established mid-sized Indian companies."},
-            {"icon": "people", "title": "Orders from public operators", "text": "Orders from Indian Railways, Delhi Metro Rail Corporation and National Capital Region Transport Corporation reflect the confidence of demanding public customers. See our [clientele](page:clientele)."}
+            {
+              "icon": "award",
+              "title": "Leading Mid-Corporates of India 2023",
+              "text": "HYT Engineering is listed in the Dun & Bradstreet publication \"Leading Mid-Corporates of India 2023\", which profiles established mid-sized Indian companies."
+            },
+            {
+              "icon": "people",
+              "title": "Orders from public operators",
+              "text": "Orders from Indian Railways, Delhi Metro Rail Corporation and National Capital Region Transport Corporation reflect the confidence of demanding public customers. See our [clientele](page:clientele)."
+            }
           ]
         },
         {
@@ -610,7 +655,7 @@
         {
           "type": "notice",
           "variant": "review",
-          "text": "For HYT review: the Dun & Bradstreet listing is taken from a publication index and must be confirmed. Please supply the full list of awards and recognitions (name, awarding body, year, certificate or photograph) to complete this page."
+          "text": "For HYT review: please supply the full list of awards shown on the current website (name, awarding body, year and photograph) – the current site could not be accessed from the build environment. The Dun & Bradstreet listing must also be confirmed."
         }
       ]
     },
@@ -639,7 +684,7 @@
             "That is why they look for more than a machine. They need foundations designed correctly the first time, operators trained on their own vehicles and a service partner who responds when it matters. See the details in our [executed projects](page:executed-projects) and [projects under execution](page:under-execution)."
           ],
           "image": "industries/railways",
-          "image_alt": "Sample illustration of a railway maintenance depot with locomotives and coaches",
+          "image_alt": "Freight wagon wheelsets on railway track",
           "layout": "image-right"
         },
         {

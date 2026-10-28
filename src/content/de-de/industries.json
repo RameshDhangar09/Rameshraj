@@ -166,7 +166,7 @@
             "Radsätze zur Reprofilierung auszubauen bindet Fahrzeuge, Krane und Personal. Ältere Radsatzdrehmaschinen, oft seit Jahrzehnten im Einsatz, halten ihre Genauigkeit nur mit Mühe und sind schwer am Laufen zu halten. Werkstätten brauchen Maschinen, die Profile schnell wiederherstellen, so wenig Material wie möglich abtragen und viele Jahre zuverlässig arbeiten."
           ],
           "image": "industries/railways",
-          "image_alt": "Beispielillustration eines Bahnbetriebswerks mit Lokomotiven und Reisezugwagen auf parallelen Gleisen",
+          "image_alt": "Radsätze eines Güterwagens auf dem Gleis",
           "layout": "image-right"
         },
         {
@@ -356,7 +356,7 @@
             "Die Instandhaltung findet meist nachts in einem Betriebshof statt, in dem der Platz begrenzt und jede Grube Jahre im Voraus verplant ist. Eine Radsatzdrehmaschine muss innerhalb dieses Zeitfensters einen ganzen Zug reprofilieren, über die gesamte Flotte reproduzierbare Ergebnisse liefern und in der nächsten Nacht wieder bereitstehen. Fällt sie aus, stauen sich die Züge und die Verfügbarkeitsziele geraten in Gefahr."
           ],
           "image": "industries/metros",
-          "image_alt": "Beispielillustration von Metrozügen, die nachts in einem Betriebshof abgestellt sind",
+          "image_alt": "Metrozug auf einer Hochbahntrasse",
           "layout": "image-right"
         },
         {
@@ -539,7 +539,7 @@
             "Fertigungsprogramme ändern sich: ein neuer Metro-Auftrag, eine andere Spurweite, ein Hochlauf für einen Exportauftrag. Die Maschinen in der Radsatzwerkstatt müssen sich ohne lange Umrüstzeiten anpassen, und die erzeugten Daten müssen der Abnahme durch den Kunden und späteren Gewährleistungsfragen standhalten."
           ],
           "image": "industries/rolling-stock-manufacturers",
-          "image_alt": "Beispielillustration einer Montagehalle für Schienenfahrzeuge mit Drehgestellen und Radsätzen",
+          "image_alt": "Reisezugwagen im Bau in einer Schienenfahrzeugwerkstatt",
           "layout": "image-right"
         },
         {
@@ -716,7 +716,7 @@
             "Militärische Werkstätten instandsetzen zudem große rotierende Bauteile wie Ringe, Naben und schwere Räder. Sie legen Wert auf Ausrüstung, die robust und einfach zu warten ist, über Jahrzehnte vor Ort betreut wird und mit vollständiger Dokumentation geliefert wird. Die Vertraulichkeit von Zeichnungen und Standortinformationen ist unerlässlich."
           ],
           "image": "industries/defence",
-          "image_alt": "Beispielillustration einer bahnangebundenen militärischen Logistikwerkstatt mit schweren Güterwagen",
+          "image_alt": "Marinekriegsschiff im Hafen",
           "layout": "image-right"
         },
         {
@@ -858,7 +858,7 @@
             "Viele Industriestandorte wie Stahlwerke, Häfen, Bergwerke und Kraftwerke betreiben zudem eigene Werksbahnen. Ihre Güterwagen und Lokomotiven befördern schwere Lasten auf kurzen, anspruchsvollen Strecken, und ihre Räder verschleißen schnell. Radsätze zur Reprofilierung nach außen zu geben, kann die Produktionslogistik tagelang lahmlegen."
           ],
           "image": "industries/heavy-engineering",
-          "image_alt": "Beispielillustration einer Werkstatt des Schwermaschinenbaus mit großen Drehteilen",
+          "image_alt": "Ingenieur neben einer großen gedrehten Rotorwelle",
           "layout": "image-right"
         },
         {
