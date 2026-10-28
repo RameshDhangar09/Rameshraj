@@ -1,0 +1,666 @@
+{
+  "pages": {
+    "work-with-us": {
+      "nav": "Travailler avec nous",
+      "title": "Travailler avec nous – carrières et fournisseurs",
+      "description": "Faites carrière chez HYT Engineering ou fournissez les composants de nos tours à roues CNC : emplois, référencement fournisseur et vie chez HYT à Pune.",
+      "eyebrow": "Travailler avec nous",
+      "h1": "Travailler avec HYT Engineering",
+      "lede": "Les machines que nous construisons permettent aux trains de circuler en toute sécurité pendant des décennies. Que vous rejoigniez notre équipe ou que vous fournissiez les pièces de nos machines, vous partagez cette responsabilité.",
+      "summary": "Carrières, référencement fournisseur et vie chez HYT – construisez avec nous des machines ferroviaires.",
+      "blocks": [
+        {
+          "type": "cards",
+          "eyebrow": "S’engager",
+          "heading": "Trois façons de travailler avec nous",
+          "cols": 3,
+          "items": [
+            {
+              "page": "career",
+              "icon": "briefcase",
+              "image": "company/engineering-design",
+              "title": "Carrières",
+              "text": "Postes en ingénierie, fabrication, service et fonctions commerciales – et comment postuler."
+            },
+            {
+              "page": "supplier-registration",
+              "icon": "truck",
+              "image": "company/manufacturing-facility",
+              "title": "Référencement fournisseur",
+              "text": "Référencez votre entreprise pour fournir des composants, systèmes ou prestations à HYT."
+            },
+            {
+              "page": "memorialization",
+              "icon": "people",
+              "image": "company/life-at-hyt",
+              "title": "Vie chez HYT",
+              "text": "Rencontre annuelle, semaines de la sécurité, actions solidaires et Journée du yoga – nos équipes au-delà de l’atelier."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "eyebrow": "Pour les collaborateurs",
+          "heading": "Un travail que l’on voit rouler sur les voies",
+          "paragraphs": [
+            "Chez HYT, un ingénieur peut suivre une machine depuis la première esquisse d’implantation jusqu’au jour où elle reprofile son premier essieu monté dans un atelier de maintenance. Nous concevons, construisons, installons et entretenons nos propres machines : nos collaborateurs voient ainsi toute la vie du produit – et l’effet de leur travail sur les réseaux ferroviaires qui l’utilisent.",
+            "Nous construisons des machines-outils à Pune depuis 1977. Cette histoire, ce sont des collègues expérimentés auprès de qui apprendre, aux côtés des technologies modernes de commande CNC, de mesure et d’entraînement qu’attendent les réseaux ferroviaires d’aujourd’hui."
+          ],
+          "bullets": [
+            "De véritables responsabilités sur des machines destinées aux réseaux ferroviaires et aux métros, en Inde et à l’international",
+            "Apprendre auprès de collègues forts de plusieurs décennies d’expérience des tours à roues",
+            "Des missions en conception, en fabrication, en mise en service sur site et en service après-vente",
+            "Des systèmes de management certifiés ISO 9001, ISO 14001 et ISO 45001"
+          ],
+          "image": "company/engineering-design",
+          "image_alt": "Ingénieur d’études HYT travaillant sur une maquette 3D de machine",
+          "layout": "image-right",
+          "link": {
+            "label": "Voir les carrières chez HYT",
+            "page": "career"
+          }
+        },
+        {
+          "type": "features",
+          "eyebrow": "Pour les fournisseurs",
+          "heading": "Pourquoi nos fournisseurs grandissent avec HYT",
+          "intro": "Nos machines reposent sur des pièces moulées, des structures mécano-soudées, des équipements électriques et des prestations fiables. Nous recherchons des partenaires qui visent une relation durable, pas une commande ponctuelle.",
+          "cols": 3,
+          "items": [
+            {
+              "icon": "arrow-repeat",
+              "title": "Des programmes sur le long terme",
+              "text": "Machines et pièces de rechange sont fournies sur de nombreuses années : les bons fournisseurs s’inscrivent ainsi dans un programme continu."
+            },
+            {
+              "icon": "clipboard-check",
+              "title": "Des exigences claires",
+              "text": "Plans, spécifications et critères de contrôle convenus avant le lancement de la production."
+            },
+            {
+              "icon": "shield-check",
+              "title": "Des relations loyales et responsables",
+              "text": "Des processus transparents, guidés par notre [Code de conduite](page:code-of-conduct)."
+            }
+          ],
+          "link": {
+            "label": "Se référencer comme fournisseur",
+            "page": "supplier-registration"
+          }
+        },
+        {
+          "type": "cta",
+          "heading": "Prêt à passer à l’étape suivante ?",
+          "text": "Envoyez-nous votre candidature ou référencez votre entreprise. Nous lisons chaque envoi et revenons vers vous dès qu’une opportunité adaptée se présente.",
+          "primary": {
+            "label": "Voir les offres",
+            "page": "career"
+          },
+          "secondary": {
+            "label": "Référencement fournisseur",
+            "page": "supplier-registration"
+          }
+        }
+      ]
+    },
+    "career": {
+      "nav": "Carrières",
+      "title": "Carrières chez HYT Engineering – Emplois ferroviaires",
+      "description": "Faites carrière dans l'ingénierie ferroviaire chez HYT à Pune : 45 ans de fabrication de précision, des projets mondiaux, des responsabilités et des avantages.",
+      "eyebrow": "Carrières chez HYT",
+      "h1": "Construisez votre carrière dans l'ingénierie ferroviaire",
+      "lede": "Nous ne proposons pas seulement des emplois : nous construisons des carrières. Rejoignez 45 ans d'excellence en fabrication de précision et de projets ferroviaires internationaux, dans une culture où les ambitions deviennent réalité.",
+      "summary": "Culture, avantages, installations et équipes à rejoindre – et comment nous adresser votre candidature.",
+      "hero_actions": [
+        {
+          "label": "Envoyer votre candidature",
+          "page": "career",
+          "anchor": "apply",
+          "icon": "send"
+        },
+        {
+          "label": "La vie chez HYT",
+          "page": "memorialization"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "stats",
+          "items": [
+            {
+              "value": "45+",
+              "label": "Années d'expertise en ingénierie de précision"
+            },
+            {
+              "value": "Toute l'Inde",
+              "label": "Présence sur des projets ferroviaires et de métro dans tout le pays"
+            },
+            {
+              "value": "1 100+",
+              "label": "Machines livrées dans le monde"
+            },
+            {
+              "value": "International",
+              "label": "Projets en Inde et sur les marchés internationaux"
+            }
+          ]
+        },
+        {
+          "type": "quote_band",
+          "quote": "Nous ne proposons pas seulement des emplois : nous construisons des carrières.",
+          "cite": "HYT Engineering Company Pvt. Ltd."
+        },
+        {
+          "type": "pillars",
+          "id": "culture",
+          "eyebrow": "Notre culture",
+          "heading": "Là où les ambitions deviennent réalité",
+          "paragraphs": [
+            "HYT est bien plus qu'un lieu de travail : c'est une plateforme où ingénieurs, managers et spécialistes deviennent des leaders. Présente dans toute l'Inde et de plus en plus à l'international, HYT offre des postes tous reliés à de véritables infrastructures ferroviaires qui transportent chaque jour des millions de personnes."
+          ],
+          "image": "careers/hyt-campus",
+          "image_alt": "Bâtiment du campus HYT Engineering à Pune, entouré de jardins paysagers",
+          "badge_value": "45+",
+          "badge_label": "ans d'expertise en ingénierie",
+          "items": [
+            {
+              "icon": "lightbulb",
+              "title": "Portés par l'innovation",
+              "text": "Des défis réguliers qui vous font sortir de votre zone de confort, dans un environnement où votre meilleur travail est remarqué et mis à profit."
+            },
+            {
+              "icon": "person-check",
+              "title": "Responsabilité et évolution",
+              "text": "Une vraie responsabilité sur les projets – de l'atelier à l'installation chez le client – pour développer très tôt dans votre carrière autonomie et expertise."
+            },
+            {
+              "icon": "globe-americas",
+              "title": "Ouverture internationale",
+              "text": "Travaillez sur des projets ferroviaires dans toute l'Inde et sur les marchés internationaux, et acquérez une expertise rare dans les machines ferroviaires de précision."
+            }
+          ]
+        },
+        {
+          "type": "benefits",
+          "id": "benefits",
+          "eyebrow": "Avantages salariés",
+          "heading": "Des avantages pour vous et votre famille",
+          "intro": "Nous prenons soin de celles et ceux qui fabriquent nos machines – au travail, à la maison et sur le trajet entre les deux.",
+          "items": [
+            {
+              "icon": "heart-pulse",
+              "title": "Couverture médicale",
+              "text": "Une couverture santé complète pour les salariés et leur famille, avec prise en charge des urgences et programmes de bien-être."
+            },
+            {
+              "icon": "people",
+              "title": "Environnement bienveillant",
+              "text": "Une culture ouverte et collaborative, fondée sur le respect, la diversité et l'esprit d'équipe, dans tous les services et à tous les niveaux."
+            },
+            {
+              "icon": "bank",
+              "title": "Prêts aux salariés",
+              "text": "Des prêts à taux avantageux pour vos besoins personnels, médicaux ou de formation – parce que nous investissons dans votre stabilité."
+            },
+            {
+              "icon": "mortarboard",
+              "title": "Formation et développement",
+              "text": "Formations techniques et professionnelles structurées, mentorat et apprentissage sur le terrain aux côtés de spécialistes expérimentés."
+            },
+            {
+              "icon": "cup-hot",
+              "title": "Restaurant d'entreprise",
+              "text": "Une cantine interne subventionnée qui sert des repas équilibrés, pour garder de l'énergie du matin au soir."
+            },
+            {
+              "icon": "bus-front",
+              "title": "Navettes",
+              "text": "Un service de transport organisé par l'entreprise pour les salariés éligibles, pour des trajets quotidiens plus sûrs et plus simples."
+            }
+          ]
+        },
+        {
+          "type": "facilities",
+          "id": "facilities",
+          "eyebrow": "Installations et lieux de travail",
+          "heading": "Où vous travaillerez",
+          "intro": "Des bureaux d'études aux halls d'assemblage et aux sites clients : voici les lieux où se construisent les carrières chez HYT.",
+          "items": [
+            {
+              "icon": "building",
+              "title": "Campus et bureaux de Pune",
+              "image": "careers/hyt-campus",
+              "image_alt": "Bâtiment du campus HYT Engineering à Pune",
+              "text": "Notre campus de Pune réunit la direction, les équipes de conception, d'achats, de vente et de support dans un cadre verdoyant et paysager, à proximité de l'usine.",
+              "bullets": [
+                "Bureaux et salles de réunion modernes",
+                "Accès direct à l'atelier et aux zones d'essai",
+                "Un environnement paysager et soigné"
+              ]
+            },
+            {
+              "icon": "gear-wide-connected",
+              "title": "Fabrication et assemblage",
+              "image": "company/manufacturing-facility",
+              "image_alt": "Illustration d'exemple d'un hall d'assemblage de machines équipé de ponts roulants",
+              "text": "Les machines sont construites, câblées et testées dans nos propres halls. Les équipes d'assemblage travaillent aux côtés des concepteurs : les idées passent rapidement du plan à la machine.",
+              "bullets": [
+                "Grands halls d'assemblage équipés de ponts roulants",
+                "Usinage, ajustage et montage électrique",
+                "Essais en usine avant expédition"
+              ]
+            },
+            {
+              "icon": "pc-display",
+              "title": "Ingénierie et conception",
+              "image": "company/engineering-design",
+              "image_alt": "Ingénieur d’études HYT travaillant sur une maquette 3D de machine",
+              "text": "Ingénieurs mécaniciens, électriciens et CNC conçoivent chaque machine HYT en interne – du concept et des calculs jusqu'aux plans, programmes et documentation.",
+              "bullets": [
+                "Conception et simulation 3D",
+                "Ingénierie électrique, hydraulique et CNC",
+                "Contact direct avec les ingénieurs des clients"
+              ]
+            },
+            {
+              "icon": "rulers",
+              "title": "Qualité et contrôle",
+              "image": "company/quality-inspection",
+              "image_alt": "Contrôle qualité d’une pièce usinée chez HYT",
+              "text": "Notre équipe qualité contrôle les composants et les machines complètes par rapport aux plans, aux normes et aux spécifications des clients, conformément à l'ISO 9001:2015.",
+              "bullets": [
+                "Contrôle à réception et en cours de fabrication",
+                "Essais de réception sur de vrais essieux montés",
+                "Systèmes ISO 9001, 14001 et 45001"
+              ]
+            },
+            {
+              "icon": "easel",
+              "title": "Formation et apprentissage",
+              "image": "company/training-session",
+              "image_alt": "Session de formation pour le personnel HYT",
+              "text": "Les nouveaux collaborateurs découvrent les machines, les règles de sécurité et les exigences des clients grâce à une formation structurée, au mentorat et à des projets réels.",
+              "bullets": [
+                "Formation d'intégration et sécurité",
+                "Programmes techniques et compétences comportementales",
+                "Mentorat par des spécialistes expérimentés"
+              ]
+            },
+            {
+              "icon": "cup-hot",
+              "title": "Restauration et transport",
+              "image": "company/life-at-hyt",
+              "image_alt": "Collègues travaillant ensemble chez HYT",
+              "text": "Une cantine subventionnée et des navettes d'entreprise pour les salariés éligibles s'occupent du quotidien – pour que vous puissiez vous concentrer sur votre travail.",
+              "bullets": [
+                "Repas équilibrés et subventionnés",
+                "Navettes d'entreprise pour les salariés éligibles",
+                "Célébrations, semaines de la sécurité et événements bien-être"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "chips",
+          "id": "teams",
+          "eyebrow": "Équipes et métiers",
+          "heading": "Où vous pourriez travailler",
+          "intro": "Ingénieurs, techniciens et spécialistes commerciaux contribuent tous à livrer une machine – et à la faire fonctionner pendant des décennies.",
+          "items": [
+            {
+              "icon": "bezier2",
+              "title": "Conception mécanique"
+            },
+            {
+              "icon": "cpu",
+              "title": "Ingénierie électrique et CNC"
+            },
+            {
+              "icon": "tools",
+              "title": "Service et mise en service"
+            },
+            {
+              "icon": "gear",
+              "title": "Production et assemblage"
+            },
+            {
+              "icon": "clipboard-check",
+              "title": "Qualité et contrôle"
+            },
+            {
+              "icon": "diagram-3",
+              "title": "Projets et exécution sur site"
+            },
+            {
+              "icon": "graph-up-arrow",
+              "title": "Ventes et marketing"
+            },
+            {
+              "icon": "briefcase",
+              "title": "Finance, RH et administration"
+            },
+            {
+              "icon": "mortarboard",
+              "title": "Stages et jeunes diplômés"
+            }
+          ]
+        },
+        {
+          "type": "steps",
+          "id": "journey",
+          "eyebrow": "Votre parcours",
+          "heading": "De la candidature à votre premier projet",
+          "items": [
+            {
+              "title": "Postuler",
+              "text": "Envoyez le formulaire ci-dessous ou votre CV par e-mail à careers@hytengineering.com."
+            },
+            {
+              "title": "Étude du profil",
+              "text": "Notre équipe RH et le service concerné étudient votre profil au regard des besoins actuels et à venir."
+            },
+            {
+              "title": "Entretiens",
+              "text": "Un échange technique avec l'équipe que vous rejoindriez, suivi d'un entretien RH."
+            },
+            {
+              "title": "Offre et intégration",
+              "text": "Une offre claire, puis un parcours d'intégration, une formation à la sécurité et une présentation de nos machines."
+            },
+            {
+              "title": "Évoluer",
+              "text": "Mentorat, formation et responsabilités croissantes – de l'atelier jusqu'aux sites clients."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "id": "openings",
+          "eyebrow": "Candidatures spontanées",
+          "heading": "Pas d'offre publiée ? Postulez quand même",
+          "paragraphs": [
+            "Nous ne publions pas d'offres d'emploi individuelles sur ce site. Nous accueillons en revanche les candidatures spontanées tout au long de l'année et les rapprochons des postes qui s'ouvrent dans nos équipes.",
+            "Dites-nous dans quoi vous excellez et dans quelle direction vous souhaitez évoluer. Votre candidature parvient directement à notre équipe RH à l'adresse [careers@hytengineering.com](mailto:careers@hytengineering.com)."
+          ],
+          "image": "careers/career-hero",
+          "image_alt": "Ingénieur HYT dans l'atelier, avec des collègues en arrière-plan",
+          "layout": "image-right"
+        },
+        {
+          "type": "form",
+          "form": "career",
+          "id": "apply",
+          "eyebrow": "Postuler en ligne",
+          "heading": "Envoyer votre candidature",
+          "intro": "Remplissez le formulaire et joignez votre CV au format PDF, ou envoyez-le par e-mail à careers@hytengineering.com. Chaque candidature est lue par notre équipe RH."
+        },
+        {
+          "type": "cards",
+          "eyebrow": "Découvrir HYT",
+          "heading": "Découvrez ce que signifie travailler chez nous",
+          "cols": 3,
+          "items": [
+            {
+              "page": "memorialization",
+              "image": "company/life-at-hyt"
+            },
+            {
+              "page": "about",
+              "image": "company/manufacturing-facility"
+            },
+            {
+              "page": "csr",
+              "image": "company/csr-community"
+            }
+          ]
+        },
+        {
+          "type": "faq",
+          "id": "faq",
+          "heading": "Questions des candidats",
+          "items": [
+            {
+              "q": "Publiez-vous des offres d'emploi ?",
+              "a": "Non. Nous acceptons les candidatures spontanées toute l'année et contactons les candidats dont le profil correspond aux postes à pourvoir."
+            },
+            {
+              "q": "Les jeunes diplômés et les stagiaires peuvent-ils postuler ?",
+              "a": "Oui. Choisissez « Stage / jeune diplômé » dans le formulaire et parlez-nous de vos études, de vos projets et de vos centres d'intérêt."
+            },
+            {
+              "q": "Où se situent les postes ?",
+              "a": "La plupart des postes sont basés sur notre campus et dans notre usine de Pune. Les postes de service et de projets impliquent des déplacements chez les clients, en Inde et à l'étranger."
+            },
+            {
+              "q": "Que dois-je joindre à ma candidature ?",
+              "a": "Un CV à jour au format PDF, le domaine qui vous intéresse, votre expérience totale et, si vous le souhaitez, quelques mots sur ce que vous voulez accomplir."
+            },
+            {
+              "q": "Comment serai-je recontacté ?",
+              "a": "Notre équipe RH contacte les candidats présélectionnés par téléphone ou par e-mail. Si aucun poste ne correspond pour le moment, nous pouvons conserver votre profil pour de futures opportunités."
+            }
+          ]
+        },
+        {
+          "type": "cta",
+          "heading": "Prêt à construire ce qui fait avancer l'Inde ?",
+          "text": "Rejoignez une équipe d'ingénieurs et de professionnels qui façonnent l'avenir des infrastructures ferroviaires – de Pune à des projets dans le monde entier.",
+          "primary": {
+            "label": "Envoyer une candidature spontanée",
+            "href": "mailto:careers@hytengineering.com?subject=Open%20application",
+            "icon": "envelope"
+          },
+          "secondary": {
+            "label": "Postuler en ligne",
+            "page": "career",
+            "anchor": "apply"
+          }
+        }
+      ]
+    },
+    "supplier-registration": {
+      "nav": "Référencement fournisseur",
+      "title": "Référencement fournisseur – HYT Engineering",
+      "description": "Devenez fournisseur de HYT Engineering : pièces moulées, pièces usinées, mécano-soudure, systèmes électriques et CNC, hydraulique ou prestations de service.",
+      "eyebrow": "Travailler avec nous",
+      "h1": "Référencement fournisseur",
+      "lede": "Une machine HYT n’est jamais plus fiable que ses composants. Nous accueillons volontiers les fournisseurs compétents qui partagent nos exigences de qualité, de respect des délais et d’éthique des affaires.",
+      "summary": "Référencez votre entreprise pour fournir des composants, systèmes ou prestations à HYT Engineering.",
+      "blocks": [
+        {
+          "type": "list",
+          "eyebrow": "Nos achats",
+          "heading": "Catégories de fourniture",
+          "intro": "Nous achetons une large gamme de matières, de composants et de prestations pour nos tours à roues, nos machines pour ateliers d’essieux, nos équipements de dépôt et nos projets clés en main.",
+          "cols": 2,
+          "items": [
+            "Pièces moulées et forgées",
+            "Composants usinés",
+            "Structures mécano-soudées",
+            "Armoires électriques et de commande",
+            "Commandes numériques CNC, variateurs et moteurs",
+            "Systèmes hydrauliques et pneumatiques",
+            "Roulements et éléments de transmission",
+            "Équipements de mesure et capteurs",
+            "Génie civil, montage et installation",
+            "Logistique, emballage et transport"
+          ]
+        },
+        {
+          "type": "features",
+          "eyebrow": "Nos attentes",
+          "heading": "Ce que nous attendons d’un fournisseur",
+          "cols": 3,
+          "items": [
+            {
+              "icon": "patch-check",
+              "title": "Qualité",
+              "text": "Des pièces systématiquement conformes au plan et à la spécification, avec procès-verbaux de contrôle et traçabilité lorsque c’est requis."
+            },
+            {
+              "icon": "calendar-check",
+              "title": "Délais",
+              "text": "Des engagements réalistes et une alerte précoce si une date est menacée. Nos plannings de projet dépendent des vôtres."
+            },
+            {
+              "icon": "file-earmark-text",
+              "title": "Documentation",
+              "text": "Certificats d’essai, certificats matière et manuels livrés avec la marchandise, complets et exacts."
+            },
+            {
+              "icon": "shield-check",
+              "title": "Sécurité et environnement",
+              "text": "Des pratiques de travail sûres et une gestion environnementale responsable, en cohérence avec nos systèmes ISO 45001 et ISO 14001."
+            },
+            {
+              "icon": "clipboard-check",
+              "title": "Conformité",
+              "text": "Des pratiques commerciales éthiques et légales, conformes à notre [Code de conduite](page:code-of-conduct) et aux exigences réglementaires."
+            },
+            {
+              "icon": "chat-dots",
+              "title": "Communication",
+              "text": "Un interlocuteur désigné, des réponses rapides et un dialogue ouvert en cas de problème."
+            }
+          ]
+        },
+        {
+          "type": "steps",
+          "eyebrow": "Processus",
+          "heading": "Comment se déroule le référencement",
+          "items": [
+            {
+              "title": "Inscription",
+              "text": "Remplissez le formulaire ci-dessous avec les informations sur votre entreprise, vos catégories de fourniture et vos certifications."
+            },
+            {
+              "title": "Examen",
+              "text": "Notre service achats compare votre profil à nos besoins actuels et prévus."
+            },
+            {
+              "title": "Évaluation",
+              "text": "En cas d’adéquation, nous pouvons vous demander des documents, des échantillons ou une visite de votre site."
+            },
+            {
+              "title": "Homologation",
+              "text": "Les fournisseurs homologués sont ajoutés à notre liste de fournisseurs pour les catégories concernées."
+            },
+            {
+              "title": "Consultations et commandes",
+              "text": "Vous recevez des consultations lorsqu’un besoin correspond à vos capacités. Vos performances sont évaluées régulièrement."
+            }
+          ]
+        },
+        {
+          "type": "form",
+          "id": "register",
+          "form": "supplier",
+          "heading": "Référencer votre entreprise",
+          "intro": "Le référencement ne garantit ni consultation ni commande, mais il permet à notre service achats de connaître vos capacités lorsqu’un besoin se présente."
+        }
+      ]
+    },
+    "memorialization": {
+      "nav": "Vie chez HYT",
+      "title": "Vie chez HYT – l’équipe de HYT Engineering",
+      "description": "La vie chez HYT Engineering au-delà de l’atelier : rencontre annuelle, semaines de la sécurité, collectes de sang, Journée du yoga et moments partagés à Pune.",
+      "eyebrow": "Travailler avec nous",
+      "h1": "Vie chez HYT",
+      "lede": "Nos machines sont construites par des femmes et des hommes. Voici quelques-uns des moments que nous partageons en équipe – au travail, pour notre santé et notre sécurité, et avec notre communauté.",
+      "summary": "Rencontre annuelle, semaines de la sécurité, collectes de sang et Journée du yoga – les équipes derrière les machines HYT.",
+      "blocks": [
+        {
+          "type": "text",
+          "eyebrow": "Nos équipes",
+          "heading": "Bien plus qu’un lieu de travail",
+          "paragraphs": [
+            "Les machines de précision exigent des personnes attentives aux détails – et l’on s’implique davantage lorsqu’on se sent membre d’une équipe. Tout au long de l’année, des collègues des bureaux d’études, de l’atelier, du service et de l’administration se retrouvent lors d’événements qui n’ont rien à voir avec les délais.",
+            "Notre rencontre annuelle réunit tout le monde pour célébrer le travail de l’année. La semaine de la sécurité nous rappelle que chaque machine que nous construisons doit l’être en toute sécurité. Les collectes de sang et nos [actions solidaires](page:csr) nous permettent de rendre à la société une partie de ce qu’elle nous donne, et la Journée internationale du yoga est l’occasion de prendre soin de nous."
+          ],
+          "image": "company/life-at-hyt",
+          "image_alt": "Collègues travaillant ensemble chez HYT",
+          "layout": "image-right"
+        },
+        {
+          "type": "features",
+          "eyebrow": "Au fil de l’année",
+          "heading": "Ce que nous faisons ensemble",
+          "cols": 4,
+          "items": [
+            {
+              "icon": "people",
+              "title": "Rencontre annuelle",
+              "text": "Toute l’équipe réunie pour revenir sur l’année écoulée et saluer le travail des collègues."
+            },
+            {
+              "icon": "shield-check",
+              "title": "Semaine de la sécurité",
+              "text": "Conférences, exercices et animations en atelier pour entretenir les bons réflexes de sécurité chez chacun."
+            },
+            {
+              "icon": "heart-pulse",
+              "title": "Collecte de sang",
+              "text": "Des collègues se portent volontaires pour donner leur sang aux patients qui en ont besoin."
+            },
+            {
+              "icon": "sun",
+              "title": "Journée internationale du yoga",
+              "text": "Une séance commune le 21 juin, placée sous le signe de la santé et du bien-être."
+            }
+          ]
+        },
+        {
+          "type": "gallery",
+          "heading": "Moments de notre année",
+          "items": [
+            {
+              "image": "company/life-at-hyt",
+              "caption": "Collègues travaillant ensemble chez HYT"
+            },
+            {
+              "image": "company/training-session",
+              "caption": "Session de formation pour le personnel HYT"
+            },
+            {
+              "image": "company/csr-community",
+              "caption": "Membres de l’équipe tenant une jeune plante"
+            },
+            {
+              "image": "company/manufacturing-facility",
+              "caption": "Illustration d’exemple de l’équipe HYT à l’usine de Pune"
+            },
+            {
+              "image": "company/corporate-office",
+              "caption": "Siège de HYT Engineering à Pune"
+            },
+            {
+              "image": "company/quality-inspection",
+              "caption": "Contrôle qualité d’une pièce usinée chez HYT"
+            }
+          ]
+        },
+        {
+          "type": "cards",
+          "eyebrow": "Rejoignez-nous",
+          "heading": "Faites partie de l’équipe",
+          "cols": 2,
+          "items": [
+            {
+              "page": "career",
+              "icon": "briefcase"
+            },
+            {
+              "page": "csr",
+              "icon": "heart-pulse"
+            }
+          ]
+        },
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "HYT doit confirmer le nouvel intitulé « Vie chez HYT » (« Life at HYT » en anglais, en remplacement de « Memorialization ») et le déplacement de cette page dans la rubrique Travailler avec nous ; l’URL /memorialization/ est conservée. HYT doit fournir des photos des événements avec légendes (nom de l’événement et année)."
+        }
+      ]
+    }
+  }
+}

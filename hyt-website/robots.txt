@@ -1,0 +1,11 @@
+# robots.txt – HYT Engineering
+User-agent: *
+Allow: /
+Disallow: /thank-you/
+Disallow: /de-de/thank-you/
+Disallow: /fr-fr/thank-you/
+Disallow: /it-it/thank-you/
+Disallow: /nl-nl/thank-you/
+Disallow: /en-us/thank-you/
+
+Sitemap: https://hytengineering.com/sitemap.xml

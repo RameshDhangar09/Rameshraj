@@ -1,0 +1,1465 @@
+{
+  "pages": {
+    "ts-wheel-shops": {
+      "nav": "Ateliers d’essieux",
+      "title": "Ateliers d’essieux clés en main et leur automatisation",
+      "description": "Ateliers d’essieux clés en main par HYT : mesure, reprofilage, alésage, usinage des essieux, calage et équilibrage reliés en un flux automatisé et traçable.",
+      "eyebrow": "Solutions clés en main",
+      "h1": "Ateliers d’essieux clés en main – de l’essieu monté usé à la remise en service certifiée",
+      "lede": "C’est l’atelier d’essieux qui décide de la vitesse à laquelle les essieux montés usés reprennent du service. HYT conçoit, équipe et interconnecte l’ensemble du flux de révision – mesure, usinage, calage et équilibrage – en un seul processus coordonné et traçable.",
+      "summary": "Ateliers de révision complets pour essieux montés – décalage, contrôle, usinage, calage, mesure et équilibrage – avec manutention automatisée et flux de données là où ils sont rentables.",
+      "hero_actions": [
+        {
+          "label": "Parlons de votre atelier d’essieux",
+          "page": "contact-us",
+          "icon": "chat-dots"
+        },
+        {
+          "label": "Voir le déroulement",
+          "page": "ts-wheel-shops",
+          "anchor": "process"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "pillars",
+          "id": "overview",
+          "eyebrow": "L’installation",
+          "heading": "Là où les essieux montés usés redeviennent aptes au service",
+          "paragraphs": [
+            "Dans un atelier ferroviaire ou un atelier de révision périodique (POH), l’atelier d’essieux reçoit les essieux montés qui ont atteint leurs limites d’usure, qui ont subi un dommage ou dont la révision programmée arrive à échéance. Certains n’ont besoin que d’un nouveau profil ; d’autres exigent des roues neuves, des fusées remises en état ou un nouveau calage.",
+            "Les exploitants butent rarement sur une machine isolée. La difficulté réside dans le flux : des essieux montés qui attendent devant la presse pendant que le tour reste à l’arrêt, des mesures saisies deux fois, des ponts roulants partagés entre trop de postes. HYT conçoit l’atelier en fonction de vos types d’essieux montés et de votre cycle de révision, et construit elle-même les machines principales – procédé et équipements sont ainsi étudiés ensemble, et un seul interlocuteur répond du résultat."
+          ],
+          "image": "products/portal-wheel-lathe",
+          "image_alt": "HYT Tour à roues à portique CNC (YPL-02)",
+          "badge_value": "1977",
+          "badge_label": "nous construisons des machines-outils ferroviaires depuis",
+          "items": [
+            {
+              "icon": "arrow-repeat",
+              "title": "Reprofilage",
+              "text": "Les essieux montés dont les roues sont encore aptes reçoivent un nouveau profil avec un enlèvement de matière minimal : les roues tiennent ainsi davantage de cycles."
+            },
+            {
+              "icon": "arrow-left-right",
+              "title": "Remplacement des roues",
+              "text": "Les roues réformées sont décalées, les roues de remplacement alésées en fonction de la portée de calage puis calées avec enregistrement de la courbe d’effort."
+            },
+            {
+              "icon": "patch-check",
+              "title": "Remise en état et remise en service",
+              "text": "Les fusées sont remises en état, les essieux montés équilibrés si le cahier des charges l’exige, et chacun repart avec l’historique complet des opérations réalisées."
+            }
+          ]
+        },
+        {
+          "type": "features",
+          "id": "scope",
+          "eyebrow": "Ce que HYT fournit",
+          "heading": "Périmètre d’un atelier d’essieux clés en main",
+          "cols": 3,
+          "items": [
+            {
+              "icon": "diagram-3",
+              "title": "Flux de révision et implantation",
+              "text": "Enchaînement des postes, voies tampons et couverture des ponts roulants définis selon vos types d’essieux montés et vos volumes de révision."
+            },
+            {
+              "icon": "bricks",
+              "title": "Fondations et interface génie civil",
+              "text": "Fondations des machines, rails noyés et caniveaux de câbles définis pour votre entreprise de génie civil ou réalisés dans notre périmètre."
+            },
+            {
+              "icon": "gear-wide-connected",
+              "title": "Machines pour roues et essieux",
+              "text": "Tours à roues, tours verticaux, tours à fusées, presses, stations de mesure et équilibreuses signés HYT."
+            },
+            {
+              "icon": "arrows-move",
+              "title": "Manutention des essieux montés",
+              "text": "Voies de transfert et dispositifs de manutention qui déplacent les essieux montés lourds d’un poste à l’autre avec moins de levages au pont roulant."
+            },
+            {
+              "icon": "database",
+              "title": "Historique des essieux montés",
+              "text": "Mesures, résultats d’usinage et données de calage enregistrés pour chaque essieu monté qui passe par l’atelier."
+            },
+            {
+              "icon": "person-gear",
+              "title": "Formation et assistance à vie",
+              "text": "Formation des opérateurs et des mainteneurs, pièces de rechange et contrats de service assurés par le constructeur des machines."
+            }
+          ]
+        },
+        {
+          "type": "facilities",
+          "id": "stations",
+          "eyebrow": "Au cœur de l’atelier d’essieux",
+          "heading": "Les postes d’un atelier d’essieux HYT",
+          "intro": "Chaque poste est une machine HYT conçue pour fonctionner avec la suivante. Sélectionnez un poste pour découvrir son rôle dans le flux.",
+          "items": [
+            {
+              "icon": "rulers",
+              "title": "Mesure et contrôle",
+              "image": "products/wheel-measuring-station",
+              "image_alt": "HYT Station de mesure des roues",
+              "text": "Chaque essieu monté est mesuré à son arrivée, puis de nouveau avant sa remise en service. La [station de mesure des roues](page:wheel-measuring-station) relève le profil, les diamètres et la cote entre faces internes – les données qui déterminent s’il faut reprofiler ou remplacer les roues.",
+              "bullets": [
+                "Point de décision pour le parcours de chaque essieu monté",
+                "Résultats enregistrés sous l’identifiant de l’essieu monté",
+                "Contrôle final avant la remise en service"
+              ]
+            },
+            {
+              "icon": "bullseye",
+              "title": "Reprofilage des roues",
+              "image": "products/surface-wheel-lathe",
+              "image_alt": "HYT Tour à roues sur sol CNC (YSL-08)",
+              "text": "Les essieux montés conservés reçoivent un nouveau profil de table de roulement et de boudin sur un [tour à roues sur sol CNC](page:surface-wheel-lathe) ou un [tour à roues à portique](page:portal-wheel-lathe), choisi en fonction de vos types d’essieux montés et des défauts habituels.",
+              "bullets": [
+                "Programmes de profils adaptés à votre flotte",
+                "Mesure avant la passe pour limiter l’enlèvement de matière",
+                "Versions sur sol ou à portique"
+              ]
+            },
+            {
+              "icon": "circle",
+              "title": "Alésage des roues",
+              "image": "products/vertical-turning-boring-machine",
+              "image_alt": "HYT Tour vertical CNC de tournage et d'alésage (YVM-04)",
+              "text": "Les roues de remplacement sont tournées et leur alésage est usiné en fonction de la portée de calage de l’essieu sur un [tour vertical CNC de tournage et d’alésage](page:vertical-turning-boring-machine).",
+              "bullets": [
+                "Alésage dimensionné d’après la portée de calage mesurée",
+                "Usinage de la toile, du bandage et du moyeu",
+                "Adapté à la construction neuve comme à la révision"
+              ]
+            },
+            {
+              "icon": "distribute-horizontal",
+              "title": "Usinage des essieux et des fusées",
+              "image": "products/axle-journal-turning-burnishing-lathe",
+              "image_alt": "HYT Tour CNC de tournage et galetage de fusées d'essieu (YTB 04)",
+              "text": "Les essieux sont remis en état sur un [tour de tournage et galetage de fusées d’essieu](page:axle-journal-turning-burnishing-lathe) ; les essieux neufs sont usinés sur un [tour à essieux](page:axle-turning-lathe).",
+              "bullets": [
+                "Fusées tournées et galetées pour des portées de roulement durables",
+                "Portées de calage préparées pour le calage",
+                "Essieux traçables tout au long de l’atelier"
+              ]
+            },
+            {
+              "icon": "arrows-collapse",
+              "title": "Calage",
+              "image": "products/wheel-press",
+              "image_alt": "Illustration d’exemple d’une presse hydraulique à caler les roues montant une roue sur un essieu",
+              "text": "Une [presse à caler les roues](page:wheel-presses) retire les roues réformées et monte les roues neuves, avec enregistrement de la courbe d’effort de calage pour chaque roue.",
+              "bullets": [
+                "Décalage et calage sur une seule machine",
+                "Courbe d’effort enregistrée pour chaque calage",
+                "Données associées à l’historique de l’essieu monté"
+              ]
+            },
+            {
+              "icon": "speedometer2",
+              "title": "Équilibrage et remise en service",
+              "image": "products/dynamic-wheel-balancing-machine",
+              "image_alt": "HYT Équilibreuse dynamique de roues",
+              "text": "Si le cahier des charges l’exige, une [équilibreuse dynamique de roues](page:dynamic-wheel-balancing-machine) contrôle et corrige le balourd avant le remontage des roulements et des boîtes d’essieu et la remise en service de l’essieu monté.",
+              "bullets": [
+                "Balourd mesuré et corrigé",
+                "Contrôle final enregistré",
+                "L’historique complet accompagne l’essieu monté"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "steps",
+          "id": "process",
+          "eyebrow": "Déroulement",
+          "heading": "Le parcours d’un essieu monté dans l’atelier de révision",
+          "intro": "L’enchaînement ci-dessous est typique. Le parcours réel de chaque essieu monté dépend de l’état constaté au contrôle.",
+          "items": [
+            {
+              "title": "Réception et nettoyage",
+              "text": "Les essieux montés sont identifiés et nettoyés afin que l’usure et les défauts puissent être observés et mesurés."
+            },
+            {
+              "title": "Contrôle et mesure",
+              "text": "Profil, diamètres et cote entre faces internes sont relevés sur une [station de mesure des roues](page:wheel-measuring-station) ; le résultat détermine s’il faut reprofiler ou remplacer les roues."
+            },
+            {
+              "title": "Décalage",
+              "text": "Lorsque les roues sont réformées, une [presse à caler les roues](page:wheel-presses) les retire des essieux qui seront réutilisés."
+            },
+            {
+              "title": "Usinage des essieux et des roues",
+              "text": "Les fusées sont remises en état sur un [tour de tournage et galetage de fusées d’essieu](page:axle-journal-turning-burnishing-lathe) ; les roues de remplacement sont alésées en fonction de la portée de calage sur un [tour vertical de tournage et d’alésage](page:vertical-turning-boring-machine)."
+            },
+            {
+              "title": "Calage et reprofilage",
+              "text": "Les roues neuves sont calées avec enregistrement de la courbe d’effort ; les essieux montés conservés sont reprofilés sur un [tour à roues sur sol](page:surface-wheel-lathe) ou un [tour à roues à portique](page:portal-wheel-lathe)."
+            },
+            {
+              "title": "Équilibrage, remontage et remise en service",
+              "text": "Si le cahier des charges l’exige, les essieux montés sont équilibrés. Roulements et boîtes d’essieu sont remontés, un contrôle final est enregistré et l’essieu monté reprend du service."
+            }
+          ]
+        },
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "À confirmer par HYT : le périmètre d’automatisation proposé (équipements de manutention, logiciels et intégration des données) et les éventuelles installations de référence pouvant être citées sur cette page."
+        },
+        {
+          "type": "text",
+          "id": "automation",
+          "eyebrow": "Automatisation de l’atelier d’essieux",
+          "heading": "De machines isolées à un processus connecté",
+          "paragraphs": [
+            "Dans de nombreux ateliers d’essieux, chaque machine fonctionne bien seule, mais pas le processus qui les relie. Les essieux montés lourds sont déplacés au pont roulant et à la main, les mesures sont notées puis ressaisies, et l’appairage de l’alésage d’une roue avec la portée de calage d’un essieu repose sur une gestion documentaire rigoureuse. Chaque étape manuelle coûte du temps et ajoute un risque d’erreur sur un composant critique pour la sécurité.",
+            "L’automatisation relie mesure, usinage, calage et équilibrage afin que les essieux montés circulent en toute sécurité entre les postes, que les données passent directement d’une machine à la suivante et que chaque roue et chaque essieu soient traçables de la réception à la remise en service. Elle peut être introduite par étapes – connecter d’abord les machines et leurs données, puis ajouter la manutention à mesure que le débit augmente – sans interrompre la production de l’atelier."
+          ],
+          "image": "projects/wheel-shop-automation-line",
+          "image_alt": "Illustration d’exemple d’une ligne automatisée d’atelier d’essieux avec des essieux montés circulant entre les machines",
+          "layout": "image-left"
+        },
+        {
+          "type": "features",
+          "id": "building-blocks",
+          "eyebrow": "Briques fonctionnelles",
+          "heading": "Quatre éléments d’un atelier d’essieux automatisé",
+          "cols": 4,
+          "items": [
+            {
+              "icon": "arrows-move",
+              "title": "Manutention automatisée",
+              "text": "Transfert des essieux montés et des composants entre les postes avec moins d’opérations au pont roulant et de levages manuels."
+            },
+            {
+              "icon": "rulers",
+              "title": "Mesure intégrée",
+              "text": "Roues, essieux et essieux montés mesurés à des points définis, avec enregistrement automatique des résultats."
+            },
+            {
+              "icon": "diagram-3",
+              "title": "Flux de données entre machines",
+              "text": "Valeurs mesurées transmises directement à la machine suivante – par exemple les cotes d’alésage et de portée utilisées pour le calage."
+            },
+            {
+              "icon": "upc-scan",
+              "title": "Traçabilité",
+              "text": "Chaque composant est identifié, et ses relevés de mesure, d’usinage et de calage sont conservés ensemble."
+            }
+          ]
+        },
+        {
+          "type": "projects",
+          "id": "solution",
+          "heading": "La solution en un coup d’œil",
+          "items": [
+            {
+              "id": "turnkey-wheel-shop",
+              "title": "Atelier de roues et d’essieux clés en main",
+              "client": "Exploitants ferroviaires et de métro, ateliers de révision, constructeurs de matériel roulant",
+              "location": "Configuré pour chaque site",
+              "status_key": "solution",
+              "image": "projects/wheel-shop-automation-line",
+              "image_alt": "Illustration d’exemple d’un atelier de roues et d’essieux connecté avec manutention automatisée",
+              "scope": [
+                "Ingénierie des processus et de l’implantation pour le débit requis",
+                "Fondations et interface génie civil",
+                "Machines de mesure, d’usinage, de calage et d’équilibrage",
+                "Manutention des essieux montés et des composants entre les postes",
+                "Échange de données entre machines et traçabilité des composants",
+                "Installation, mise en service et formation du personnel"
+              ],
+              "text": "Chaque atelier d’essieux est configuré en fonction de sa flotte, de ses volumes et de son bâtiment. Les projets peuvent être réalisés en une fois ou par phases, y compris la modernisation d’un atelier qui doit continuer à produire.",
+              "products": [
+                "wheel-measuring-station",
+                "surface-wheel-lathe",
+                "portal-wheel-lathe",
+                "vertical-turning-boring-machine",
+                "axle-journal-turning-burnishing-lathe",
+                "axle-turning-lathe",
+                "wheel-presses",
+                "dynamic-wheel-balancing-machine"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "chips",
+          "id": "fleets",
+          "eyebrow": "Les essieux montés que nous prenons en compte",
+          "heading": "Conçu autour de votre flotte",
+          "intro": "Dimensions des postes, programmes de profils et manutention sont adaptés aux essieux montés que votre atelier révise.",
+          "items": [
+            {
+              "icon": "train-front",
+              "title": "Locomotives"
+            },
+            {
+              "icon": "train-front-fill",
+              "title": "Voitures voyageurs"
+            },
+            {
+              "icon": "train-lightrail-front",
+              "title": "Automotrices électriques et autorails"
+            },
+            {
+              "icon": "buildings",
+              "title": "Voitures de métro et de transport rapide"
+            },
+            {
+              "icon": "box-seam",
+              "title": "Wagons de fret"
+            },
+            {
+              "icon": "gear-wide-connected",
+              "title": "Essieux montés neufs"
+            }
+          ]
+        },
+        {
+          "type": "cards",
+          "id": "equipment",
+          "eyebrow": "Machines HYT",
+          "heading": "Les équipements clés de l’atelier d’essieux",
+          "cols": 4,
+          "items": [
+            {
+              "page": "surface-wheel-lathe",
+              "image": "products/surface-wheel-lathe"
+            },
+            {
+              "page": "portal-wheel-lathe",
+              "image": "products/portal-wheel-lathe"
+            },
+            {
+              "page": "vertical-turning-boring-machine",
+              "image": "products/vertical-turning-boring-machine"
+            },
+            {
+              "page": "axle-journal-turning-burnishing-lathe",
+              "image": "products/axle-journal-turning-burnishing-lathe"
+            },
+            {
+              "page": "wheel-presses",
+              "image": "products/wheel-press"
+            },
+            {
+              "page": "wheel-measuring-station",
+              "image": "products/wheel-measuring-station"
+            },
+            {
+              "page": "axle-turning-lathe",
+              "image": "products/axle-turning-lathe"
+            },
+            {
+              "page": "dynamic-wheel-balancing-machine",
+              "image": "products/dynamic-wheel-balancing-machine"
+            }
+          ]
+        },
+        {
+          "type": "steps",
+          "id": "delivery",
+          "eyebrow": "Réalisation du projet",
+          "heading": "Comment nous réalisons un atelier d’essieux",
+          "intro": "Un atelier d’essieux est souvent reconstruit au sein d’un atelier en activité. Notre démarche de [projets clés en main (EPC)](page:turnkey-project) planifie chaque phase autour du programme de révision, qui doit se poursuivre.",
+          "items": [
+            {
+              "title": "Étude et implantation",
+              "text": "Les volumes de révision, les types d’essieux montés et le bâtiment existant sont analysés, puis une implantation est validée."
+            },
+            {
+              "title": "Interface génie civil",
+              "text": "Les données de fondations et de fluides sont transmises tôt, pour que le génie civil soit prêt à l’arrivée des machines."
+            },
+            {
+              "title": "Installation par phases",
+              "text": "Les postes sont remplacés ou ajoutés par étapes pendant que l’atelier continue de tourner. Voir [Installation et mise en service](page:installation-commissioning)."
+            },
+            {
+              "title": "Mise en service sur vos essieux montés",
+              "text": "Chaque poste, puis le flux complet, est validé sur vos propres essieux montés selon des critères convenus."
+            },
+            {
+              "title": "Formation et assistance",
+              "text": "Les équipes sont formées aux machines et au procédé dans le cadre de notre programme de [formation](page:training) ; un [contrat de maintenance annuel](page:annual-maintenance-contract) peut prendre le relais après la réception."
+            }
+          ],
+          "variant": "navy"
+        },
+        {
+          "type": "text",
+          "id": "benefits",
+          "eyebrow": "Résultats",
+          "heading": "Ce que vous apporte un atelier d’essieux bien conçu",
+          "paragraphs": [
+            "La valeur d’un atelier d’essieux se mesure à l’extérieur de ses murs : à des véhicules qui reprennent du service à l’heure et à des roues qui parcourent davantage de kilomètres entre deux interventions."
+          ],
+          "bullets": [
+            "Un délai plus court entre l’arrivée d’un essieu monté et sa remise en service",
+            "Un enlèvement de matière minimal : les roues supportent davantage de reprofilages avant d’être remplacées",
+            "Des calages et des mesures documentés pour chaque essieu monté révisé",
+            "Un historique complet et traçable pour chaque roue et chaque essieu",
+            "Moins de levages au pont roulant et de manutention manuelle de composants lourds",
+            "Un seul partenaire responsable des machines, de l’implantation et des performances"
+          ]
+        },
+        {
+          "type": "faq",
+          "id": "faq",
+          "heading": "Questions sur les ateliers d’essieux",
+          "items": [
+            {
+              "q": "Peut-on moderniser un atelier d’essieux sans l’arrêter ?",
+              "a": "Dans la plupart des cas, oui. Nous organisons les travaux par phases : les machines existantes continuent de produire pendant que les nouveaux postes sont installés à côté d’elles ou à leur place."
+            },
+            {
+              "q": "Faut-il reprofiler sur un tour à roues sur sol ou sur un tour à portique ?",
+              "a": "Les deux usinent des essieux montés déposés. Le choix dépend de vos types d’essieux montés, de la profondeur habituelle des défauts et du flux ; voir les pages consacrées au [tour à roues sur sol](page:surface-wheel-lathe) et au [tour à roues à portique](page:portal-wheel-lathe)."
+            },
+            {
+              "q": "L’atelier d’essieux a-t-il aussi besoin d’un tour en fosse ?",
+              "a": "Un [tour en fosse](page:underfloor-wheel-lathe) reprofile les roues sans déposer l’essieu monté : sa place est donc au dépôt plutôt qu’à l’atelier de révision. Beaucoup d’exploitants utilisent les deux : le tour en fosse pour le reprofilage courant, l’atelier d’essieux pour les essieux montés qui sont de toute façon déposés du véhicule. Voir [Dépôts de maintenance ferroviaire](page:ts-maintenance-depots)."
+            },
+            {
+              "q": "Peut-on conserver des machines existantes d’autres constructeurs ?",
+              "a": "Oui, si elles sont en bon état. Nous les intégrons à l’implantation et définissons leurs interfaces, pour que l’atelier fonctionne comme un seul processus."
+            },
+            {
+              "q": "Peut-on automatiser un atelier d’essieux existant ?",
+              "a": "Oui. L’automatisation est généralement introduite par étapes : on connecte d’abord les machines et leurs données, puis on ajoute la manutention à mesure que le débit augmente. Chaque étape est planifiée pour que l’atelier continue de produire."
+            },
+            {
+              "q": "Comment l’historique des essieux montés est-il conservé ?",
+              "a": "Les résultats de mesure, d’usinage, de calage et d’équilibrage sont enregistrés sous l’identifiant de chaque essieu monté. Le format des données et leur transfert vers vos propres systèmes sont définis avec vos équipes qualité et informatique pendant les études."
+            }
+          ]
+        },
+        {
+          "type": "cta",
+          "heading": "Vous préparez un atelier d’essieux neuf ou modernisé ?",
+          "text": "Envoyez-nous vos volumes de révision, vos types d’essieux montés et les plans de votre bâtiment. Nos ingénieurs projets vous proposeront une implantation et une stratégie de réalisation.",
+          "primary": {
+            "label": "Parlons de votre projet",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Projets clés en main (EPC)",
+            "page": "turnkey-project"
+          }
+        }
+      ]
+    },
+    "ts-maintenance-depots": {
+      "nav": "Dépôts de maintenance ferroviaire",
+      "title": "Dépôts de maintenance clés en main – train et métro",
+      "description": "Équipements de dépôt clés en main pour locomotives, voitures, automotrices et métros : tours en fosse, lavage des trains, manœuvres et usinage des induits.",
+      "eyebrow": "Solutions clés en main",
+      "h1": "Équipements clés en main pour dépôts de maintenance ferroviaire",
+      "lede": "Un dépôt se juge à la disponibilité des trains. HYT équipe la voie du tour en fosse, la station de lavage, les manœuvres et les travaux sur composants dans un seul projet : les trains attendent moins et circulent davantage.",
+      "summary": "Équipements de dépôt pour locomotives, voitures, automotrices et métros – tours en fosse, lavage des trains, manœuvres et travaux sur induits.",
+      "blocks": [
+        {
+          "type": "text",
+          "id": "overview",
+          "eyebrow": "L’installation",
+          "heading": "Conçu autour des heures où un train est hors service",
+          "paragraphs": [
+            "Dépôts de locomotives, ateliers de maintenance des voitures et ateliers d’automotrices ou de métros maintiennent les flottes aptes au service quotidien. Les trains y viennent pour les visites programmées, le reprofilage des roues, le nettoyage et les réparations – et chaque heure passée au dépôt est une heure où ils ne peuvent pas circuler. La conception du dépôt détermine combien de ces heures sont réellement nécessaires.",
+            "Les responsables de dépôt connaissent les contraintes habituelles : une seule voie de tour qui se transforme en file d’attente, des manœuvres qui attendent une locomotive et son équipe, un nettoyage extérieur réalisé à la main, des réparations de moteurs de traction sous-traitées faute de machine adaptée sur place. Et chaque problème relève parfois d’un fournisseur différent.",
+            "HYT réunit les principaux systèmes du dépôt dans un seul contrat et les dimensionne en fonction de votre programme de maintenance, de votre plan de voies et de la composition de votre flotte. L’objectif est simple : des passages plus courts et plus prévisibles pour chaque train."
+          ],
+          "image": "projects/emu-car-shed",
+          "image_alt": "Illustration d’exemple d’un atelier d’automotrices avec des trains de banlieue stationnés au-dessus de fosses de visite",
+          "layout": "image-right"
+        },
+        {
+          "type": "features",
+          "id": "scope",
+          "eyebrow": "Ce que HYT fournit",
+          "heading": "Les systèmes du dépôt sous un seul contrat",
+          "cols": 3,
+          "items": [
+            {
+              "icon": "train-front",
+              "title": "Voie de reprofilage des roues",
+              "text": "Tours en fosse simples ou tandem, dimensionnés selon votre flotte et le nombre d’essieux traités par passage."
+            },
+            {
+              "icon": "bricks",
+              "title": "Fosses et interface voie",
+              "text": "Fosses de tour, voies sur fosse de visite et appuis de rail coordonnés avec le génie civil et le plan de voies du dépôt."
+            },
+            {
+              "icon": "droplet",
+              "title": "Lavage des trains",
+              "text": "Installation de lavage au défilé placée sur l’itinéraire d’entrée : les trains sont lavés sans manœuvre supplémentaire."
+            },
+            {
+              "icon": "truck",
+              "title": "Manœuvres",
+              "text": "Véhicule rail-route (locotracteur) pour les mouvements entre la voie du tour, la station de lavage, les voies sur fosse et les voies de remisage."
+            },
+            {
+              "icon": "lightning-charge",
+              "title": "Travaux sur moteurs de traction",
+              "text": "Usinage des induits de moteurs de traction à courant continu, réalisé au dépôt plutôt que dans un atelier éloigné."
+            },
+            {
+              "icon": "calendar-check",
+              "title": "Assistance axée sur la disponibilité",
+              "text": "Des contrats de maintenance qui maintiennent les machines du dépôt opérationnelles chaque fois que des trains doivent y passer."
+            }
+          ]
+        },
+        {
+          "type": "steps",
+          "id": "process",
+          "eyebrow": "Flux du dépôt",
+          "heading": "Le passage d’un train au dépôt",
+          "items": [
+            {
+              "title": "Arrivée et lavage",
+              "text": "Les trains entrants traversent l’[installation automatique de lavage des trains](page:automated-train-washing-plant) en se rendant aux voies de visite."
+            },
+            {
+              "title": "Visite sur fosse",
+              "text": "Organes de roulement, freins et équipements sous caisse sont examinés depuis les fosses ; les défauts de roue constatés sont programmés pour le tour."
+            },
+            {
+              "title": "Reprofilage des roues",
+              "text": "Le train est amené sur le [tour en fosse](page:underfloor-wheel-lathe) ; les essieux montés usés sont mesurés et reprofilés sans dépose du bogie."
+            },
+            {
+              "title": "Réparation des composants",
+              "text": "Les induits de moteurs de traction échangés sont remis en état sur la [machine polyvalente pour induits](page:multi-purpose-armature-machine), puis retournent au magasin."
+            },
+            {
+              "title": "Manœuvres et remisage",
+              "text": "Le [véhicule rail-route (locotracteur)](page:rail-cum-road-vehicle-shunter) déplace les véhicules d’une voie à l’autre et jusqu’aux voies de remisage."
+            },
+            {
+              "title": "Remise en exploitation",
+              "text": "Les dossiers de travaux sont clôturés et le train reprend sa place dans l’horaire."
+            }
+          ]
+        },
+        {
+          "type": "cards",
+          "id": "equipment",
+          "eyebrow": "Machines HYT",
+          "heading": "Les équipements du dépôt",
+          "cols": 3,
+          "items": [
+            {
+              "page": "underfloor-wheel-lathe",
+              "image": "products/underfloor-wheel-lathe-yul-08"
+            },
+            {
+              "page": "tandem-underfloor-wheel-lathe",
+              "image": "products/tandem-underfloor-wheel-lathe-yul-12t"
+            },
+            {
+              "page": "automated-train-washing-plant",
+              "image": "products/automated-train-washing-plant"
+            },
+            {
+              "page": "rail-cum-road-vehicle-shunter",
+              "image": "products/rail-cum-road-vehicle-shunter"
+            },
+            {
+              "page": "multi-purpose-armature-machine",
+              "image": "products/multi-purpose-armature-machine"
+            },
+            {
+              "page": "vertical-turning-boring-machine",
+              "image": "products/vertical-turning-boring-machine"
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "id": "delivery",
+          "heading": "Réaliser un projet de dépôt",
+          "intro": "Les dépôts sont souvent construits ou agrandis alors que la flotte continue de circuler. Notre démarche de [projets clés en main (EPC)](page:turnkey-project) est adaptée à cette réalité.",
+          "cols": 1,
+          "items": [
+            "**Une planification guidée par la maintenance :** les intervalles de visite, la fréquence de reprofilage et la croissance de la flotte déterminent le nombre de voies de tour, la capacité de lavage et les besoins en manœuvres.",
+            "**Interface fosses et voies :** plans de fosses, détails d’ancrage, drainage et niveaux de rail transmis à l’entreprise de génie civil, avec vérification de l’état d’avancement avant l’installation.",
+            "**Installation et mise en service :** chaque système est validé sur vos propres véhicules – voir [Installation et mise en service](page:installation-commissioning).",
+            "**Formation des équipes :** opérateurs de tour, conducteurs de locotracteur et personnel de maintenance formés sur site dans le cadre de notre programme de [formation](page:training).",
+            "**Suivi sur tout le cycle de vie :** un [contrat de maintenance annuel](page:annual-maintenance-contract), un [contrat de maintenance global (CMC)](page:comprehensive-annual-maintenance-contract) ou l’[exploitation et maintenance](page:operation-and-maintenance) complète des machines du dépôt."
+          ]
+        },
+        {
+          "type": "features",
+          "id": "benefits",
+          "eyebrow": "Résultats",
+          "heading": "Ce que gagne l’exploitant du dépôt",
+          "cols": 3,
+          "items": [
+            {
+              "icon": "clock-history",
+              "title": "Plus de trains en service",
+              "text": "Le reprofilage sans dépose du bogie et la réduction des manœuvres d’attente raccourcissent chaque passage au dépôt."
+            },
+            {
+              "icon": "shield-check",
+              "title": "Des opérations plus sûres",
+              "text": "Moins de nettoyage manuel en hauteur et moins de manœuvres de locomotive à proximité du personnel travaillant sur les voies."
+            },
+            {
+              "icon": "people",
+              "title": "Un seul partenaire responsable",
+              "text": "Tour, lavage, manœuvres et équipements pour induits assistés par l’entreprise qui les a fournis."
+            }
+          ]
+        },
+        {
+          "type": "faq",
+          "id": "faq",
+          "heading": "Questions sur les dépôts",
+          "items": [
+            {
+              "q": "Tour en fosse simple ou tandem ?",
+              "a": "Un [tour en fosse tandem](page:tandem-underfloor-wheel-lathe) reprofile les deux essieux montés d’un bogie en un seul serrage, ce qui raccourcit chaque passage pour les flottes comptant de nombreux essieux. Une machine simple nécessite une fosse plus courte et convient aux volumes plus faibles. Nous arbitrons ce choix en fonction de votre flotte et de votre plan de maintenance."
+            },
+            {
+              "q": "Peut-on ajouter de nouveaux équipements à un dépôt déjà en exploitation ?",
+              "a": "Oui. Les fosses de tour et les installations de lavage sont généralement construites sur des voies qui peuvent être neutralisées pendant un certain temps, tandis que le reste du dépôt continue de fonctionner. Nous ordonnançons les travaux avec votre équipe d’exploitation."
+            },
+            {
+              "q": "Un atelier d’automotrices a-t-il besoin de sa propre capacité d’usinage de roues non montées ?",
+              "a": "Certains, oui. HYT a fourni un tour vertical CNC à l’atelier d’automotrices de Sanpada, à Mumbai, qui dispose ainsi d’une capacité d’usinage des roues en interne – voir [Projets réalisés](page:executed-projects#sanpada-emu-car-shed)."
+            },
+            {
+              "q": "Un véhicule rail-route peut-il remplacer une locomotive de manœuvre ?",
+              "a": "Pour de nombreux mouvements en dépôt, oui. Il s’attelle au matériel roulant sur les rails et circule sur route entre les voies : un seul véhicule peut ainsi desservir plusieurs voies. Capacité de traction, attelage et freinage sont adaptés à vos véhicules."
+            }
+          ]
+        },
+        {
+          "type": "cta",
+          "heading": "Vous construisez ou agrandissez un dépôt ?",
+          "text": "Parlez-nous de votre flotte, de votre programme de maintenance et de votre plan de voies. Nous vous proposerons les systèmes du dépôt et un planning de réalisation qui préserve la circulation des trains.",
+          "primary": {
+            "label": "Parlons de votre projet",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Projets réalisés",
+            "page": "executed-projects"
+          }
+        }
+      ]
+    },
+    "ts-rolling-stock-facilities": {
+      "nav": "Usines de construction de matériel roulant",
+      "title": "Ateliers roues et essieux clés en main – matériel roulant",
+      "description": "Ateliers roues et essieux clés en main pour usines de voitures, locomotives et métros : usinage, calage, mesure et équilibrage intégrés à votre flux.",
+      "eyebrow": "Solutions clés en main",
+      "h1": "Ateliers roues et essieux pour usines de construction de matériel roulant",
+      "lede": "Les usines de voitures, de locomotives et de métros dépendent d’un approvisionnement régulier en essieux montés finis. HYT conçoit et équipe l’atelier roues et essieux au sein de l’usine, au rythme de sa production.",
+      "summary": "Ateliers roues et essieux clés en main au sein des usines de voitures, de locomotives et de métros, intégrés au flux de production du site.",
+      "blocks": [
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "HYT doit confirmer les éventuelles installations de référence chez des constructeurs de matériel roulant pouvant être citées sur cette page, ainsi que l’étendue de l’intégration en usine (manutention, échange de données) qu’elle propose."
+        },
+        {
+          "type": "text",
+          "id": "overview",
+          "eyebrow": "L’installation",
+          "heading": "L’approvisionnement en essieux montés au cœur d’une usine de véhicules",
+          "paragraphs": [
+            "Une usine de matériel roulant construit des caisses, des bogies et des véhicules complets selon un calendrier de livraison fixe. Les essieux montés sont un intrant dont le montage des bogies ne peut se passer, et ce sont des pièces de sécurité : chacun doit être usiné, calé et documenté conformément à la spécification du véhicule et aux exigences d’homologation de l’acheteur.",
+            "Les usines qui créent leur propre atelier roues et essieux font face à des problèmes bien particuliers. La production doit suivre le rythme du montage des bogies, et non simplement tourner à pleine capacité. Plusieurs projets de véhicules peuvent être menés en parallèle, chacun avec ses propres plans de roues et d’essieux. Et les enregistrements qualité de chaque essieu monté doivent être disponibles au moment où le véhicule est présenté à la réception.",
+            "Le rôle de HYT est clairement défini. Nous ne construisons ni caisses ni châssis de bogie. Nous concevons, équipons et mettons en service l’atelier roues et essieux – usinage, calage, mesure et équilibrage – et le raccordons au flux de matières et au système qualité de l’usine, sous la forme d’une offre clés en main unique."
+          ],
+          "image": "products/wheel-measuring-station",
+          "image_alt": "HYT Station de mesure des roues",
+          "layout": "image-right"
+        },
+        {
+          "type": "features",
+          "id": "scope",
+          "eyebrow": "Ce que HYT fournit",
+          "heading": "Notre part de l’usine",
+          "cols": 3,
+          "items": [
+            {
+              "icon": "gear-wide-connected",
+              "title": "Équipements de production roues et essieux",
+              "text": "Machines pour le tournage des essieux, l’alésage et le profilage des roues, le calage, la mesure et l’équilibrage dynamique."
+            },
+            {
+              "icon": "diagram-3",
+              "title": "Intégration à l’usine",
+              "text": "Implantation de l’atelier, stocks tampons et points de transfert alignés sur le montage des bogies et la logistique interne de l’usine."
+            },
+            {
+              "icon": "clipboard-data",
+              "title": "Enregistrements qualité",
+              "text": "Données de mesure, de calage et d’équilibrage organisées par essieu monté, à l’appui de la réception des véhicules."
+            }
+          ]
+        },
+        {
+          "type": "steps",
+          "id": "process",
+          "eyebrow": "Déroulement",
+          "heading": "Des pièces entrantes au montage des bogies",
+          "items": [
+            {
+              "title": "Réception des roues et des essieux",
+              "text": "Les roues et essieux forgés ou pré-usinés sont réceptionnés, identifiés et affectés au projet de véhicule auquel ils sont destinés."
+            },
+            {
+              "title": "Usinage des essieux",
+              "text": "Les essieux sont tournés selon plan sur le [tour à essieux CNC ATL-01](page:axle-turning-lathe)."
+            },
+            {
+              "title": "Usinage des roues",
+              "text": "Alésages de moyeu, faces de jante et profils sont usinés sur le [tour vertical CNC de tournage et d’alésage](page:vertical-turning-boring-machine), les alésages étant dimensionnés d’après les portées de calage mesurées."
+            },
+            {
+              "title": "Calage",
+              "text": "Les roues sont calées sur l’essieu au moyen d’une [presse à caler les roues](page:wheel-presses), et la courbe d’effort de chaque calage est enregistrée."
+            },
+            {
+              "title": "Mesure et équilibrage",
+              "text": "La cote entre faces internes et les diamètres sont vérifiés, et les essieux montés sont équilibrés lorsque la spécification du véhicule l’exige."
+            },
+            {
+              "title": "Livraison au montage des bogies",
+              "text": "Les essieux montés finis rejoignent la ligne de bogies avec leurs enregistrements, à la cadence fixée par le programme de montage."
+            }
+          ]
+        },
+        {
+          "type": "cards",
+          "id": "equipment",
+          "eyebrow": "Machines HYT",
+          "heading": "Les équipements de l’atelier roues et essieux",
+          "cols": 3,
+          "items": [
+            {
+              "page": "axle-turning-lathe",
+              "image": "products/axle-turning-lathe"
+            },
+            {
+              "page": "vertical-turning-boring-machine",
+              "image": "products/vertical-turning-boring-machine"
+            },
+            {
+              "page": "wheel-presses",
+              "image": "products/wheel-press"
+            },
+            {
+              "page": "wheel-measuring-station",
+              "image": "products/wheel-measuring-station"
+            },
+            {
+              "page": "dynamic-wheel-balancing-machine",
+              "image": "products/dynamic-wheel-balancing-machine"
+            },
+            {
+              "page": "rail-cum-road-vehicle-shunter",
+              "image": "products/rail-cum-road-vehicle-shunter"
+            }
+          ]
+        },
+        {
+          "type": "steps",
+          "id": "delivery",
+          "eyebrow": "Réalisation du projet",
+          "heading": "Comment nous le réalisons",
+          "intro": "Notre démarche de [projets clés en main (EPC)](page:turnkey-project), adaptée à une usine souvent construite ou agrandie au même moment.",
+          "items": [
+            {
+              "title": "Étude de production",
+              "text": "Le besoin en essieux montés par projet de véhicule, les variantes de produits et le rythme de montage des bogies déterminent la capacité et l’implantation."
+            },
+            {
+              "title": "Interface bâtiment",
+              "text": "Les exigences en matière de fondations, de ponts roulants et de fluides sont intégrées à la conception de l’usine tant qu’elle est encore sur plan."
+            },
+            {
+              "title": "Fourniture et installation",
+              "text": "Les machines sont construites et essayées à Pune, puis installées et raccordées sur site. Voir [Installation et mise en service](page:installation-commissioning)."
+            },
+            {
+              "title": "Montée en cadence",
+              "text": "Les premiers essieux montés sont produits et contrôlés avec votre équipe qualité avant le lancement de la production en série."
+            },
+            {
+              "title": "Compétences et assistance",
+              "text": "Opérateurs et mainteneurs sont formés dans le cadre de notre programme de [formation](page:training), puis relayés par la fourniture de [pièces de rechange](page:spare-supply) et des contrats de service."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "id": "benefits",
+          "eyebrow": "Résultats",
+          "heading": "Pourquoi les usines confient cet atelier à un seul partenaire",
+          "paragraphs": [
+            "Lorsque l’atelier roues et essieux est conçu comme un système unique, il livre les essieux montés finis à la cadence dont la ligne de bogies a besoin – accompagnés des enregistrements qu’exige la réception des véhicules."
+          ],
+          "bullets": [
+            "Une production d’essieux montés calée sur le programme de montage",
+            "Des serrages et une géométrie constants d’un projet de véhicule à l’autre",
+            "Une documentation complète par essieu monté pour la réception",
+            "Des changements de série entre variantes de produits anticipés dans les machines et les montages",
+            "Un seul contrat pour les équipements de l’atelier, leur intégration et l’assistance"
+          ]
+        },
+        {
+          "type": "faq",
+          "id": "faq",
+          "heading": "Questions des constructeurs",
+          "items": [
+            {
+              "q": "HYT fournit-elle des châssis de bogie ou des équipements pour la fabrication des caisses ?",
+              "a": "Non. Le périmètre de HYT couvre l’atelier roues et essieux : usinage, calage, mesure et équilibrage des essieux montés, ainsi que la manutention et l’intégration au sein de cet atelier. La production des bogies et des caisses reste du ressort du constructeur et de ses autres fournisseurs."
+            },
+            {
+              "q": "L’atelier peut-il servir plusieurs projets de véhicules en même temps ?",
+              "a": "Oui. Les machines sont spécifiées pour la gamme de roues et d’essieux que vous prévoyez, et les programmes pièces et montages sont préparés pour chaque variante : les changements de série deviennent une routine."
+            },
+            {
+              "q": "Peut-on démarrer petit et s’agrandir ensuite ?",
+              "a": "Oui. L’implantation peut réserver l’espace et les fluides nécessaires à des machines supplémentaires : la capacité suit votre carnet de commandes sans reconstruction de l’atelier. Un véhicule rail-route (locotracteur) peut également être ajouté pour déplacer les véhicules finis sur le site de l’usine."
+            },
+            {
+              "q": "Comment l’atelier est-il relié à notre système qualité ?",
+              "a": "Les résultats de mesure, de calage et d’équilibrage sont enregistrés sous l’identifiant de chaque essieu monté. Le format des données et le mode de transfert sont définis avec vos équipes qualité et informatique pendant les études. Pour une manutention et des données connectées, voir l’[automatisation d’atelier d’essieux](page:ts-wheel-shops#automation)."
+            }
+          ]
+        },
+        {
+          "type": "cta",
+          "heading": "Vous créez un atelier roues et essieux dans votre usine ?",
+          "text": "Communiquez-nous votre programme de véhicules et vos besoins en essieux montés. Nous esquisserons un atelier capable de suivre le rythme de votre ligne de bogies.",
+          "primary": {
+            "label": "Parlons de votre projet",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Projets clés en main (EPC)",
+            "page": "turnkey-project"
+          }
+        }
+      ]
+    },
+    "ts-wheelset-plants": {
+      "nav": "Usines de fabrication d’essieux montés",
+      "title": "Usines d’essieux montés ferroviaires clés en main (EPC)",
+      "description": "Usines clés en main (EPC) d’essieux montés neufs : usinage essieux et roues, calage, mesure, équilibrage dynamique, traçabilité et contrôle final par HYT.",
+      "eyebrow": "Solutions clés en main",
+      "h1": "Usines clés en main pour la fabrication d’essieux montés neufs",
+      "lede": "Une usine d’essieux montés transforme des roues et des essieux forgés en essieux montés finis et traçables. HYT conçoit l’ensemble de la séquence de production et fournit les machines qui en constituent le cœur.",
+      "summary": "Usines de production d’essieux montés neufs – usinage des essieux et des roues, calage, mesure, équilibrage, traçabilité et contrôle final.",
+      "blocks": [
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "HYT doit confirmer si des usines d’essieux montés de référence peuvent être citées, ainsi que le logiciel de traçabilité et les équipements de manutention compris dans sa propre fourniture."
+        },
+        {
+          "type": "text",
+          "id": "overview",
+          "eyebrow": "L’installation",
+          "heading": "Produire l’essieu monté comme un produit",
+          "paragraphs": [
+            "Contrairement à un atelier d’essieux, qui remet en état des essieux montés déjà en service, une usine d’essieux montés part de composants neufs : roues forgées ou laminées et essieux forgés. Sa production est destinée aux constructeurs de véhicules, aux réseaux ferroviaires et aux exploitants de métro, souvent selon plusieurs spécifications clients à la fois.",
+            "Les exigences techniques sont strictes. Chaque alésage de roue doit correspondre à la portée de calage sur laquelle la roue sera montée, chaque calage doit être justifié par son enregistrement d’effort, et l’équilibrage comme la géométrie doivent respecter les tolérances du client. Les acheteurs attendent un historique complet pour chaque essieu monté, de l’identification des pièces forgées jusqu’au rapport de contrôle final.",
+            "C’est en concevant l’usine comme un système unique, plutôt qu’en achetant les machines une à une, que l’on garde ces exigences sous contrôle. HYT conçoit ensemble l’enchaînement des postes, les liaisons de données et la manutention, et fournit les équipements d’usinage, de calage, de mesure et d’équilibrage issus de ses propres ateliers."
+          ],
+          "image": "projects/wheel-shop-automation-line",
+          "image_alt": "Illustration d’exemple d’une ligne de production d’essieux montés, avec des roues et des essieux circulant entre les machines",
+          "layout": "image-right"
+        },
+        {
+          "type": "features",
+          "id": "scope",
+          "eyebrow": "Ce que HYT fournit",
+          "heading": "Le contenu d’un projet d’usine d’essieux montés",
+          "cols": 3,
+          "items": [
+            {
+              "icon": "compass",
+              "title": "Concept d’usine",
+              "text": "Gamme de produits, objectif de production et organisation des postes traduits en un enchaînement de postes et une implantation du bâtiment."
+            },
+            {
+              "icon": "disc",
+              "title": "Usinage des essieux et des roues",
+              "text": "Postes de tournage des essieux, d’alésage et de profilage des roues dimensionnés pour le volume de l’usine."
+            },
+            {
+              "icon": "arrow-left-right",
+              "title": "Calage apparié",
+              "text": "Mesures d’alésage et de portée appariées, pour que chaque roue obtienne le serrage spécifié sur l’essieu."
+            },
+            {
+              "icon": "speedometer",
+              "title": "Équilibrage et géométrie",
+              "text": "Équilibrage dynamique et mesure des essieux montés selon les tolérances de chaque client."
+            },
+            {
+              "icon": "upc-scan",
+              "title": "Traçabilité",
+              "text": "Identifiants des composants reliés aux mesures, aux courbes de calage et aux résultats de contrôle."
+            },
+            {
+              "icon": "tools",
+              "title": "Montée en cadence et assistance",
+              "text": "De la production d’essai à la production en série, formation du personnel et service à long terme pour chaque machine HYT."
+            }
+          ]
+        },
+        {
+          "type": "steps",
+          "id": "process",
+          "eyebrow": "Déroulement",
+          "heading": "Poste par poste dans une usine d’essieux montés",
+          "items": [
+            {
+              "title": "Réception des composants",
+              "text": "Les roues et essieux forgés sont identifiés, contrôlés par rapport à leurs documents et enregistrés dans le système de traçabilité."
+            },
+            {
+              "title": "Usinage des essieux",
+              "text": "Le [tour à essieux CNC ATL-01](page:axle-turning-lathe) tourne les fusées, les portées, les raccordements et le corps d’essieu ; les diamètres des portées sont mesurés en vue de l’appariement."
+            },
+            {
+              "title": "Usinage des roues",
+              "text": "Chaque roue est alésée et profilée sur le [tour vertical de tournage et d’alésage](page:vertical-turning-boring-machine), l’alésage étant dimensionné d’après la portée de calage de l’essieu apparié."
+            },
+            {
+              "title": "Calage",
+              "text": "Une [presse à caler les roues](page:wheel-presses) monte les deux roues à la cote prescrite entre faces internes et enregistre la courbe effort–déplacement."
+            },
+            {
+              "title": "Mesure et équilibrage",
+              "text": "La [station de mesure des roues](page:wheel-measuring-station) contrôle la géométrie ; l’[équilibreuse dynamique](page:dynamic-wheel-balancing-machine) mesure le balourd et guide sa correction."
+            },
+            {
+              "title": "Contrôle final et expédition",
+              "text": "Le dossier complet est vérifié, puis l’essieu monté est marqué, protégé et libéré pour le client."
+            }
+          ]
+        },
+        {
+          "type": "cards",
+          "id": "equipment",
+          "eyebrow": "Machines HYT",
+          "heading": "Les équipements de l’usine",
+          "cols": 3,
+          "items": [
+            {
+              "page": "axle-turning-lathe",
+              "image": "products/axle-turning-lathe"
+            },
+            {
+              "page": "vertical-turning-boring-machine",
+              "image": "products/vertical-turning-boring-machine"
+            },
+            {
+              "page": "wheel-presses",
+              "image": "products/wheel-press"
+            },
+            {
+              "page": "wheel-measuring-station",
+              "image": "products/wheel-measuring-station"
+            },
+            {
+              "page": "dynamic-wheel-balancing-machine",
+              "image": "products/dynamic-wheel-balancing-machine"
+            },
+            {
+              "page": "surface-wheel-lathe",
+              "image": "products/surface-wheel-lathe"
+            }
+          ]
+        },
+        {
+          "type": "steps",
+          "id": "delivery",
+          "eyebrow": "Réalisation du projet",
+          "heading": "Réaliser l’usine",
+          "intro": "Notre démarche de [projets clés en main (EPC)](page:turnkey-project), appliquée à la production en série d’une pièce de sécurité.",
+          "items": [
+            {
+              "title": "Définition des produits et de la capacité",
+              "text": "Types de roues et d’essieux, normes clients et objectifs de production sont arrêtés avec votre équipe."
+            },
+            {
+              "title": "Ingénierie de l’usine",
+              "text": "Implantation, fondations, ponts roulants, manutention et modèle de données de traçabilité sont conçus ensemble."
+            },
+            {
+              "title": "Fabrication et essais en usine",
+              "text": "Les machines HYT sont construites et essayées dans nos ateliers de Pune avant expédition."
+            },
+            {
+              "title": "Installation et montée en cadence",
+              "text": "[Installation et mise en service](page:installation-commissioning) sur site, puis production d’essai jusqu’à l’atteinte de la cadence et de la qualité convenues."
+            },
+            {
+              "title": "Accompagnement de la production",
+              "text": "La [formation](page:training), les [pièces de rechange](page:spare-supply) et un [contrat de maintenance global (CMC)](page:comprehensive-annual-maintenance-contract) assurent une production régulière."
+            }
+          ]
+        },
+        {
+          "type": "features",
+          "id": "benefits",
+          "eyebrow": "Résultats",
+          "heading": "Ce que gagne l’exploitant de l’usine",
+          "cols": 3,
+          "items": [
+            {
+              "icon": "graph-up",
+              "title": "Une production prévisible",
+              "text": "Un enchaînement de postes équilibré : aucune machine n’impose à elle seule son rythme à toute l’usine."
+            },
+            {
+              "icon": "check2-circle",
+              "title": "Une qualité démontrable",
+              "text": "Chaque essieu monté quitte l’usine avec sa courbe de calage, sa géométrie et ses résultats d’équilibrage enregistrés."
+            },
+            {
+              "icon": "link-45deg",
+              "title": "Un interlocuteur unique",
+              "text": "Un seul partenaire responsable des machines, des liaisons de données et des performances de l’usine."
+            }
+          ]
+        },
+        {
+          "type": "faq",
+          "id": "faq",
+          "heading": "Questions sur les usines d’essieux montés",
+          "items": [
+            {
+              "q": "En quoi une usine d’essieux montés diffère-t-elle d’un atelier d’essieux ?",
+              "a": "Une usine d’essieux montés produit des essieux montés neufs à partir de roues et d’essieux neufs. Un atelier d’essieux révise des essieux montés déjà en service – voir [Ateliers d’essieux](page:ts-wheel-shops)."
+            },
+            {
+              "q": "Comment la traçabilité est-elle assurée ?",
+              "a": "Chaque roue et chaque essieu sont identifiés dès leur arrivée. Leurs mesures, l’appariement retenu au calage, l’enregistrement effort–déplacement ainsi que les résultats d’équilibrage et de contrôle final sont rattachés à cet identifiant : l’historique d’un essieu monté peut ainsi être consulté à tout moment."
+            },
+            {
+              "q": "Peut-on réaliser la finition du profil des essieux montés dans l’usine ?",
+              "a": "Certaines spécifications imposent de finir le profil de roulement après calage, afin que les deux roues tournent rond par rapport à l’essieu. Un [tour à roues sur sol CNC](page:surface-wheel-lathe) peut être intégré à la ligne à cet effet."
+            },
+            {
+              "q": "Une même usine peut-elle produire selon différentes normes clients ?",
+              "a": "Oui. Capacités des machines, outillages, programmes de presse et tolérances de contrôle sont spécifiés pour toute la gamme de produits pendant les études, et chaque essieu monté est traité selon les exigences de sa commande."
+            }
+          ]
+        },
+        {
+          "type": "cta",
+          "heading": "Vous préparez une usine d’essieux montés ?",
+          "text": "Envoyez-nous votre gamme de produits et vos objectifs de production. Nous esquisserons l’usine, ses machines clés et le chemin vers la production en série.",
+          "primary": {
+            "label": "Parlons de votre projet",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Projets clés en main (EPC)",
+            "page": "turnkey-project"
+          }
+        }
+      ]
+    },
+    "ts-wheel-machining-lines": {
+      "nav": "Lignes d’usinage de roues",
+      "title": "Lignes d’usinage de roues ferroviaires clés en main",
+      "description": "Lignes CNC clés en main pour roues ferroviaires : ébauche et finition table et boudin, alésage de moyeu sur tour vertical, mesure en ligne et manutention.",
+      "eyebrow": "Solutions clés en main",
+      "h1": "Lignes d’usinage de roues clés en main",
+      "lede": "Une roue ferroviaire doit sortir d’usinage avec un alésage exact et un profil juste. HYT conçoit des lignes dédiées autour de ses tours verticaux CNC de tournage et d’alésage, avec mesure et manutention entre les postes.",
+      "summary": "Lignes dédiées à l’usinage des roues ferroviaires – tournage d’ébauche et de finition, alésage de moyeu, mesure et manutention entre les postes.",
+      "blocks": [
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "HYT doit confirmer les éventuelles références de lignes d’usinage de roues pouvant être citées, ainsi que les équipements de manutention (chargeurs, convoyeurs, retourneurs) compris dans sa propre fourniture."
+        },
+        {
+          "type": "text",
+          "id": "overview",
+          "eyebrow": "L’installation",
+          "heading": "Une ligne, pas une rangée de machines",
+          "paragraphs": [
+            "Une ligne d’usinage de roues reçoit des roues ferroviaires non montées – pièces forgées neuves ou roues de remplacement pour la révision – et usine selon plan la table de roulement, le boudin, les faces de jante, les faces de moyeu et l’alésage de moyeu. Elle peut fonctionner de manière autonome, en alimentant un atelier de calage, ou constituer une section d’une usine d’essieux montés plus vaste.",
+            "L’essentiel de la difficulté se situe entre les passes. Une roue est normalement usinée en deux serrages : il faut donc la retourner. Elle est lourde, et un opérateur qui attend le pont roulant impose vite son rythme à toute la ligne. Les passes d’ébauche dans la croûte de forge sont rudes pour les outils, tandis que la finition doit tenir le diamètre d’alésage et le faux-rond dans des tolérances serrées. La répartition de ces opérations entre les machines détermine la production de la ligne.",
+            "HYT conçoit la ligne comme un tout : la répartition des opérations entre les postes, la manutention et le retournement entre eux, ainsi que les points de mesure. Les postes d’usinage eux-mêmes sont des [tours verticaux CNC de tournage et d’alésage](page:vertical-turning-boring-machine) HYT."
+          ],
+          "image": "products/wheelset-profile-closeup",
+          "image_alt": "Gros plan sur le reprofilage de la table de roulement d’une roue ferroviaire",
+          "layout": "image-right"
+        },
+        {
+          "type": "features",
+          "id": "scope",
+          "eyebrow": "Ce que HYT fournit",
+          "heading": "Trois clés d’une ligne de roues performante",
+          "cols": 3,
+          "items": [
+            {
+              "icon": "layers",
+              "title": "Répartition des opérations et équilibrage des cycles",
+              "text": "Ébauche et finition réparties entre les postes, pour qu’aucune machine ne retienne les autres."
+            },
+            {
+              "icon": "arrow-down-up",
+              "title": "Manutention et retournement",
+              "text": "Chargement, transfert entre les postes et retournement de la roue entre ses deux serrages."
+            },
+            {
+              "icon": "rulers",
+              "title": "Mesure en ligne",
+              "text": "Alésage, jante et profil contrôlés à des points définis, avec résultats enregistrés pour chaque roue."
+            }
+          ]
+        },
+        {
+          "type": "steps",
+          "id": "process",
+          "eyebrow": "Déroulement",
+          "heading": "Les opérations le long de la ligne",
+          "items": [
+            {
+              "title": "Chargement et identification",
+              "text": "Chaque roue est identifiée puis placée sur le premier poste, en appui sur ses faces de référence."
+            },
+            {
+              "title": "Premier serrage",
+              "text": "La première face est usinée : faces de jante et de moyeu, une partie du profil et un pré-alésage qui élimine la surépaisseur de forge."
+            },
+            {
+              "title": "Retournement",
+              "text": "La roue est retournée afin que la seconde face puisse être usinée en prenant appui sur les faces déjà réalisées."
+            },
+            {
+              "title": "Second serrage et finition",
+              "text": "Les faces restantes sont usinées, la table de roulement et le boudin sont finis au profil et l’alésage de moyeu est porté à son diamètre final."
+            },
+            {
+              "title": "Mesure et équilibrage",
+              "text": "Alésage, dimensions de jante et profil sont contrôlés sur la ligne ; si la spécification l’exige, la roue est équilibrée avant libération."
+            },
+            {
+              "title": "Transfert en aval",
+              "text": "Les roues conformes rejoignent l’atelier de calage, le magasin ou l’expédition avec leurs données ; les roues hors tolérance sont orientées vers une reprise."
+            }
+          ]
+        },
+        {
+          "type": "cards",
+          "id": "equipment",
+          "eyebrow": "Machines HYT",
+          "heading": "Les équipements de la ligne",
+          "cols": 3,
+          "items": [
+            {
+              "page": "vertical-turning-boring-machine",
+              "image": "products/vertical-turning-boring-machine"
+            },
+            {
+              "page": "wheel-measuring-station",
+              "image": "products/wheel-measuring-station"
+            },
+            {
+              "page": "dynamic-wheel-balancing-machine",
+              "image": "products/dynamic-wheel-balancing-machine"
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "id": "delivery",
+          "heading": "Réaliser une ligne d’usinage de roues",
+          "intro": "Une application ciblée de notre démarche de [projets clés en main (EPC)](page:turnkey-project).",
+          "cols": 1,
+          "items": [
+            "**Analyse des pièces et des volumes :** plans de roues, surépaisseurs de forge et quantités annuelles déterminent le nombre de postes et leurs tâches.",
+            "**Implantation de la ligne et fondations :** positions des machines, enveloppe de manutention et fondations sont validées et transmises pour le génie civil.",
+            "**Outillage et programmes pièces :** stratégies de coupe et programmes CNC sont préparés et validés sur vos roues lors de l’[installation et de la mise en service](page:installation-commissioning).",
+            "**Formation des opérateurs :** régleurs et opérateurs sont formés aux machines et aux routines de la ligne dans le cadre de notre programme de [formation](page:training).",
+            "**Assistance et évolution :** les [pièces de rechange et l’assistance](page:spare-supply) ainsi qu’un [contrat de maintenance annuel](page:annual-maintenance-contract) maintiennent la ligne en production ; l’[automatisation d’atelier d’essieux](page:ts-wheel-shops#automation) permettra de la connecter davantage par la suite."
+          ]
+        },
+        {
+          "type": "text",
+          "id": "benefits",
+          "eyebrow": "Résultats",
+          "heading": "Les résultats pour l’exploitant de la ligne",
+          "paragraphs": [
+            "Une ligne équilibrée et mesurée comme un processus unique offre une production régulière – et des roues qui se calent correctement du premier coup."
+          ],
+          "bullets": [
+            "Des alésages constants pour des serrages fiables",
+            "Des profils conformes au plan : les roues neuves entrent en service sans passe corrective",
+            "Moins de manutention au pont roulant et moins de retournements manuels",
+            "Des données de mesure qui accompagnent chaque roue jusqu’à la presse",
+            "Un seul fournisseur responsable des machines, de la manutention et des performances de la ligne"
+          ]
+        },
+        {
+          "type": "faq",
+          "id": "faq",
+          "heading": "Questions sur les lignes de roues",
+          "items": [
+            {
+              "q": "Pourquoi utiliser des tours verticaux pour les roues ferroviaires ?",
+              "a": "La roue repose à plat sur un plateau rotatif, ce qui facilite le chargement des roues lourdes et assure leur stabilité sous l’effort de coupe. Table de roulement, boudin, faces et alésage sont tous accessibles par le dessus. Voir le [tour vertical CNC de tournage et d’alésage YVM-04](page:vertical-turning-boring-machine)."
+            },
+            {
+              "q": "Combien de machines faut-il pour une ligne de roues ?",
+              "a": "Cela dépend de la taille des roues, de la surépaisseur de forge, de la production visée et de l’organisation des postes. Nous calculons les temps de cycle pour vos roues et proposons le nombre de postes ainsi que la répartition des opérations entre eux."
+            },
+            {
+              "q": "La ligne peut-elle aussi usiner des bandages ?",
+              "a": "Oui, si votre flotte utilise des roues bandagées. Le tour vertical de tournage et d’alésage traite également les bandages et d’autres pièces de révolution des essieux montés, et l’implantation de la ligne les prend en compte si cela est spécifié."
+            },
+            {
+              "q": "HYT a-t-elle déjà fourni des tours verticaux pour roues ferroviaires ?",
+              "a": "Oui. HYT a fourni un tour vertical CNC à l’atelier d’automotrices de Sanpada, à Mumbai, et un tour vertical à tourelle CNC à la State Railway of Thailand, à Bangkok. Les détails figurent dans nos [Projets réalisés](page:executed-projects)."
+            }
+          ]
+        },
+        {
+          "type": "cta",
+          "heading": "Vous préparez une ligne d’usinage de roues ?",
+          "text": "Envoyez-nous vos plans de roues et vos volumes annuels. Nous vous proposerons un concept de ligne, une implantation des postes et une estimation des temps de cycle.",
+          "primary": {
+            "label": "Parlons de votre projet",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Projets réalisés",
+            "page": "executed-projects"
+          }
+        }
+      ]
+    },
+    "ts-axle-machining-lines": {
+      "nav": "Lignes d’usinage d’essieux",
+      "title": "Lignes d’usinage d’essieux ferroviaires clés en main",
+      "description": "Lignes clés en main pour essieux ferroviaires neufs et révisés : tournage CNC, tournage et galetage des fusées, mesure et manutention entre les postes.",
+      "eyebrow": "Solutions clés en main",
+      "h1": "Lignes d’usinage d’essieux clés en main",
+      "lede": "Les essieux ferroviaires supportent toute la charge du véhicule et doivent résister à la fatigue pendant des décennies. HYT conçoit des lignes d’essieux pour la production neuve, la révision ou les deux, autour de ses tours CNC à essieux et de ses tours de galetage de fusées.",
+      "summary": "Lignes de tournage d’essieux, de tournage et galetage des fusées, de mesure et de manutention – pour la production neuve, la révision ou les deux.",
+      "blocks": [
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "HYT doit confirmer les éventuelles installations de référence pour des lignes d’usinage d’essieux, ainsi que les équipements de manutention et de mesure des essieux compris dans sa propre fourniture."
+        },
+        {
+          "type": "text",
+          "id": "overview",
+          "eyebrow": "L’installation",
+          "heading": "Deux types de travaux sur essieux, un seul concept de ligne",
+          "paragraphs": [
+            "Une ligne d’usinage d’essieux tourne les essieux ferroviaires selon plan et finit les surfaces sur lesquelles viendront se loger roulements et roues. Diamètres, concentricité et rayons de raccordement entre les portées comptent tous, car les fissures de fatigue s’amorcent là où la géométrie ou l’état de surface sont insuffisants.",
+            "Deux tâches très différentes relèvent de cette catégorie. La **production neuve** part d’une ébauche forgée qu’il faut tourner sur toute sa longueur. La **révision** part d’un essieu qui a déjà roulé pendant des années : ses fusées doivent être remises en état et refinies, tandis que le reste de l’essieu reste tel quel. Mêler les deux sur des machines inadaptées, c’est s’exposer à de longs réglages, à une capacité gaspillée et à des surfaces irrégulières.",
+            "HYT construit une machine pour chaque tâche. Pour les essieux neufs, le [tour à essieux CNC ATL-01](page:axle-turning-lathe) tourne les fusées, les portées de cache-poussière, les portées de calage, les raccordements et le corps d’essieu. Pour la révision, le [tour de tournage et galetage de fusées d’essieu](page:axle-journal-turning-burnishing-lathe) ramène les fusées usées dans les tolérances par tournage, puis les galète. Nous concevons la ligne en fonction des travaux réalisés dans votre installation – ou des deux, lorsqu’un atelier produit des essieux neufs et révise des essieux usagés."
+          ],
+          "image": "products/axle-journal-turning-burnishing-lathe",
+          "image_alt": "HYT Tour CNC de tournage et galetage de fusées d'essieu (YTB 04)",
+          "layout": "image-right"
+        },
+        {
+          "type": "features",
+          "id": "scope",
+          "eyebrow": "Ce que HYT fournit",
+          "heading": "Périmètre d’une ligne d’essieux",
+          "cols": 3,
+          "items": [
+            {
+              "icon": "signpost-split",
+              "title": "Production, révision ou mixte",
+              "text": "Un concept de ligne pour essieux neufs, essieux en révision, ou les deux flux partageant manutention et mesure."
+            },
+            {
+              "icon": "gear",
+              "title": "Tournage complet des essieux",
+              "text": "Postes ATL-01 qui tournent les essieux forgés selon plan sur toute leur longueur."
+            },
+            {
+              "icon": "record-circle",
+              "title": "Remise en état des fusées",
+              "text": "Postes de tournage et de galetage des fusées pour les essieux de retour de service."
+            },
+            {
+              "icon": "rulers",
+              "title": "Mesure des essieux",
+              "text": "Diamètres et cotes des portées enregistrés avant et après usinage, prêts pour l’appariement avec les roues."
+            },
+            {
+              "icon": "arrows-move",
+              "title": "Manutention des essieux",
+              "text": "Transfert en toute sécurité d’essieux longs et lourds entre les postes, les racks et les magasins."
+            },
+            {
+              "icon": "person-gear",
+              "title": "Formation et service",
+              "text": "Formation des opérateurs, pièces de rechange et contrats de maintenance pour chaque machine HYT de la ligne."
+            }
+          ]
+        },
+        {
+          "type": "steps",
+          "id": "process",
+          "eyebrow": "Déroulement",
+          "heading": "Séquence type d’une ligne d’essieux",
+          "intro": "Les essieux neufs et les essieux en révision suivent des parcours différents dans la ligne. Les étapes montrent où ils se séparent et où ils se rejoignent.",
+          "items": [
+            {
+              "title": "Réception et identification",
+              "text": "Les ébauches forgées ou les essieux usagés sont identifiés et enregistrés ; les essieux usagés sont nettoyés et libérés par votre personnel de contrôle avant usinage."
+            },
+            {
+              "title": "Centrage et mise en position",
+              "text": "L’essieu est monté entre pointes, de sorte que tous les diamètres soient usinés concentriques à un même axe."
+            },
+            {
+              "title": "Tournage complet (essieux neufs)",
+              "text": "L’ATL-01 tourne selon plan les fusées, les portées de cache-poussière, les portées de calage, les rayons de raccordement et le corps d’essieu."
+            },
+            {
+              "title": "Remise en état des fusées (essieux en révision)",
+              "text": "Les fusées usées ou endommagées sont tournées dans les limites admissibles et galetées jusqu’à l’état de surface spécifié."
+            },
+            {
+              "title": "Mesure",
+              "text": "Diamètres et cotes des portées sont enregistrés ; en vue du calage des roues, les données des portées sont transmises pour l’appariement avec les alésages de roues."
+            },
+            {
+              "title": "Transfert vers le calage ou le magasin",
+              "text": "Les essieux conformes rejoignent la [presse à caler les roues](page:wheel-presses) ou le stockage, accompagnés de leurs enregistrements."
+            }
+          ]
+        },
+        {
+          "type": "cards",
+          "id": "equipment",
+          "eyebrow": "Machines HYT",
+          "heading": "Les équipements de la ligne",
+          "cols": 3,
+          "items": [
+            {
+              "page": "axle-turning-lathe",
+              "image": "products/axle-turning-lathe"
+            },
+            {
+              "page": "axle-journal-turning-burnishing-lathe",
+              "image": "products/axle-journal-turning-burnishing-lathe"
+            },
+            {
+              "page": "wheel-presses",
+              "image": "products/wheel-press"
+            }
+          ]
+        },
+        {
+          "type": "steps",
+          "id": "delivery",
+          "eyebrow": "Réalisation du projet",
+          "heading": "Réaliser une ligne d’essieux",
+          "intro": "Une application ciblée de notre démarche de [projets clés en main (EPC)](page:turnkey-project).",
+          "items": [
+            {
+              "title": "Gamme d’essieux et volumes",
+              "text": "Plans d’essieux, quantités en production neuve et en révision et exigences de contrôle définissent le concept de ligne."
+            },
+            {
+              "title": "Implantation et fondations",
+              "text": "Positions des machines, racks à essieux et circuits de manutention sont planifiés, et les données de fondations sont transmises pour le génie civil."
+            },
+            {
+              "title": "Fourniture et installation",
+              "text": "Les machines sont construites et essayées à Pune, puis installées et validées sur vos essieux – voir [Installation et mise en service](page:installation-commissioning)."
+            },
+            {
+              "title": "Formation et suivi sur tout le cycle de vie",
+              "text": "[Formation](page:training) des opérateurs et des mainteneurs, puis contrats de maintenance et [rétrofit et modernisation](page:retro-fitment-upgradation) pendant toute la durée de vie de la ligne."
+            }
+          ]
+        },
+        {
+          "type": "features",
+          "id": "benefits",
+          "eyebrow": "Résultats",
+          "heading": "Ce que gagne l’exploitant de la ligne",
+          "cols": 3,
+          "items": [
+            {
+              "icon": "shield-check",
+              "title": "Un usinage attentif à la fatigue",
+              "text": "Une géométrie et un état de surface corrects aux portées, aux raccordements et aux fusées – là où se joue la durée de vie d’un essieu."
+            },
+            {
+              "icon": "recycle",
+              "title": "Plus d’essieux remis en service",
+              "text": "La remise en état des fusées permet de réutiliser les essieux encore aptes au service au lieu de les remplacer."
+            },
+            {
+              "icon": "diagram-2",
+              "title": "La bonne machine pour chaque tâche",
+              "text": "Production et révision restent sur des machines conçues pour elles, sans longs réglages ni capacité inutilisée."
+            }
+          ]
+        },
+        {
+          "type": "faq",
+          "id": "faq",
+          "heading": "Questions sur les lignes d’essieux",
+          "items": [
+            {
+              "q": "Quelle est la différence entre l’ATL-01 et le tour de tournage et galetage de fusées ?",
+              "a": "L’[ATL-01](page:axle-turning-lathe) est une machine de production qui tourne un essieu complet à partir d’une ébauche brute ou forgée. Le [tour de tournage et galetage de fusées](page:axle-journal-turning-burnishing-lathe) est une machine de révision qui remet en état et galète les fusées d’essieux déjà en service. Une ligne d’essieux neufs se construit autour de la première ; une ligne de révision, autour de la seconde."
+            },
+            {
+              "q": "Pourquoi galeter les fusées après tournage ?",
+              "a": "Des galets trempés écrasent les crêtes laissées par l’outil de tournage et laissent au roulement une surface lisse et compactée. Le galetage est un procédé de déformation à froid qui ne produit aucun copeau."
+            },
+            {
+              "q": "Une même ligne peut-elle traiter à la fois des essieux neufs et des essieux en révision ?",
+              "a": "Oui, si votre installation a besoin des deux. Les deux flux utilisent des machines différentes mais peuvent partager la réception, la manutention, la mesure et le stockage, ce qui permet de garder un bâtiment compact."
+            },
+            {
+              "q": "Le contrôle non destructif des essieux fait-il partie de la ligne ?",
+              "a": "Le contrôle par ultrasons et la magnétoscopie sont normalement réalisés par le personnel de contrôle de l’exploitant, selon les procédures propres au réseau ferroviaire. Nous prévoyons dans l’implantation l’espace dédié aux contrôles et le flux des essieux à destination et en provenance de celui-ci."
+            }
+          ]
+        },
+        {
+          "type": "cta",
+          "heading": "Vous préparez une ligne d’essieux ?",
+          "text": "Communiquez-nous vos plans d’essieux et la répartition entre production neuve et révision. Nous vous proposerons les machines et une implantation pour la ligne.",
+          "primary": {
+            "label": "Parlons de votre projet",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Projets clés en main (EPC)",
+            "page": "turnkey-project"
+          }
+        }
+      ]
+    }
+  }
+}

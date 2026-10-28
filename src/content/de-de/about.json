@@ -1,0 +1,1472 @@
+{
+  "pages": {
+    "about": {
+      "nav": "Über uns",
+      "title": "Über HYT Engineering – Werkzeugmaschinen für die Bahn",
+      "description": "Seit 1977 konstruiert, baut und betreut HYT Engineering in Pune, Indien, CNC-Radsatzdrehmaschinen und Bahnwerkstattmaschinen. Geschichte, Werte, Arbeitsweise.",
+      "eyebrow": "Über HYT",
+      "h1": "Über HYT Engineering",
+      "lede": "Wir konstruieren, bauen, installieren und betreuen die Maschinen, die Radsätze von Schienenfahrzeugen in Form halten – eine Disziplin, die wir seit 1977 von Pune aus verfolgen.",
+      "summary": "Unsere Geschichte, unsere Arbeitsweise und die Werte hinter jeder HYT-Maschine.",
+      "blocks": [
+        {
+          "type": "stats",
+          "items": [
+            {
+              "value": "1977",
+              "label": "Werkzeugmaschinenbau seit"
+            },
+            {
+              "value": "1.100+",
+              "label": "Ausgelieferte Maschinen (Unternehmensangabe)"
+            },
+            {
+              "value": "3",
+              "label": "ISO-zertifizierte Managementsysteme: 9001, 14001 und 45001"
+            },
+            {
+              "value": "Pune",
+              "label": "Hauptsitz und Werk, Maharashtra, Indien"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "eyebrow": "Unsere Geschichte",
+          "heading": "Von Werkstattdrehmaschinen zur Radsatztechnik für die Bahn",
+          "paragraphs": [
+            "HYT begann 1977 als HYT Engineering Corporation und baute kleine Bohr- und Drehmaschinen für die örtliche Industrie. 1989 wurde das Unternehmen als HYT Engineering Company Pvt. Ltd. eingetragen und setzte sich ein anspruchsvolleres Ziel: die Bearbeitung der Bauteile, von denen die Sicherheit im Bahnbetrieb abhängt.",
+            "Dieses Ziel führte uns zum Radsatz. Ein verschlissenes Radprofil beeinflusst Laufruhe, Schienenverschleiß, Energieverbrauch und Entgleisungsrisiko – und wie schnell es wiederhergestellt wird, entscheidet darüber, wie viele Züge jeden Morgen zur Verfügung stehen. HYT war in Indien Wegbereiter der CNC-Radsatzdrehtechnik und hat die Bearbeitung von Rädern und Radsatzwellen seitdem in den Mittelpunkt seiner Arbeit gestellt.",
+            "Heute liefern wir Unterflur-, Überflur- und Portal-Radsatzdrehmaschinen, Maschinen für die Radsatzwerkstatt, Betriebswerkausrüstung und komplette Werkstätten an Bahnen, Metros und die Industrie – und begleiten jede Maschine über ihr gesamtes Arbeitsleben. Die wichtigsten Meilensteine finden Sie auf unserer Seite [Geschichte](page:history)."
+          ],
+          "image": "company/manufacturing-facility",
+          "image_alt": "Beispielillustration der HYT-Montagehalle in Pune mit einer Radsatzdrehmaschine im Aufbau",
+          "layout": "image-right"
+        },
+        {
+          "type": "features",
+          "eyebrow": "Was wir tun",
+          "heading": "Maschinen und Service für den gesamten Lebenszyklus des Radsatzes",
+          "intro": "Alles, was wir herstellen, beantwortet eine Frage: Wie halten wir Radsätze sicher, rund und länger im Einsatz?",
+          "cols": 4,
+          "items": [
+            {
+              "icon": "gear-wide-connected",
+              "title": "Radsatzdrehmaschinen",
+              "text": "[Unterflur-, Tandem-, Überflur- und Portal-Radsatzdrehmaschinen](page:products#wheel-lathes), die Räder in Stunden statt Tagen reprofilieren."
+            },
+            {
+              "icon": "bullseye",
+              "title": "Maschinen für die Radsatzwerkstatt",
+              "text": "[Vertikaldrehen, Wellendrehen, Pressen, Messen und Wuchten](page:products#wheel-axle-shop-machines) für neue und überholte Radsätze."
+            },
+            {
+              "icon": "building-gear",
+              "title": "Schlüsselfertige Werkstätten",
+              "text": "[Komplette Radsatzwerkstätten und Betriebswerke](page:turnkey-project) – vom Layout über die Schnittstelle zum Bau bis zur Inbetriebnahme."
+            },
+            {
+              "icon": "tools",
+              "title": "Lebenslanger Service",
+              "text": "[Montage, Wartungsverträge, Ersatzteile, Modernisierungen und Schulungen](page:services) für jede Maschine, die wir liefern."
+            }
+          ]
+        },
+        {
+          "type": "steps",
+          "eyebrow": "So arbeiten wir",
+          "heading": "Konstruieren, bauen, installieren, betreuen – alles unter einem Dach",
+          "intro": "Weil wir jede Phase im eigenen Haus abwickeln, ist ein einziges Team von der ersten Zeichnung bis zum letzten Serviceeinsatz verantwortlich. An keiner Schnittstelle zwischen Unternehmen geht etwas verloren.",
+          "items": [
+            {
+              "title": "Verstehen",
+              "text": "Bevor wir eine Maschine vorschlagen, analysieren wir Ihre Flotte, Radprofile, Spurweite, Durchsatzziele und Ihr Werkstattlayout."
+            },
+            {
+              "title": "Konstruieren",
+              "text": "Unsere Ingenieure passen bewährte Maschinenplattformen an Ihre Fahrzeuge, Fundamente und Betriebspraxis an."
+            },
+            {
+              "title": "Bauen",
+              "text": "Die Maschinen werden in unserem eigenen Werk in Pune gefertigt, montiert und geprüft – mit Qualitätssicherung nach ISO 9001."
+            },
+            {
+              "title": "Installieren",
+              "text": "Wir überwachen die Fundamentarbeiten, montieren und richten die Maschine aus und weisen ihre Leistung vor der Übergabe an Ihren eigenen Radsätzen nach."
+            },
+            {
+              "title": "Betreuen",
+              "text": "Schulungen, Wartungsverträge, Original-Ersatzteile und Modernisierungen halten die Maschine über Jahrzehnte produktiv."
+            }
+          ]
+        },
+        {
+          "type": "features",
+          "eyebrow": "Unsere Werte",
+          "heading": "Was unsere Entscheidungen leitet",
+          "cols": 3,
+          "items": [
+            {
+              "icon": "rulers",
+              "title": "Präzision",
+              "text": "Auf einem Radprofil zählt jeder Zehntelmillimeter. Nach diesem Maßstab konstruieren, bauen und prüfen wir."
+            },
+            {
+              "icon": "shield-check",
+              "title": "Sicherheit zuerst",
+              "text": "Für die Menschen, die unsere Maschinen bedienen, die Menschen, die sie bauen, und die Fahrgäste, die auf den damit bearbeiteten Rädern reisen."
+            },
+            {
+              "icon": "person-check",
+              "title": "Verantwortung",
+              "text": "Ein Partner, ein verantwortlicher Ansprechpartner – und wir sind auch lange nach Ablauf der Gewährleistung für Sie erreichbar."
+            },
+            {
+              "icon": "clock-history",
+              "title": "Langfristiges Denken",
+              "text": "Wir beurteilen eine Maschine nach ihrer Leistung über zwanzig Jahre, nicht nach ihrer ersten Woche im Betrieb."
+            },
+            {
+              "icon": "lightbulb",
+              "title": "Praxisnahe Innovation",
+              "text": "Neue Technologie hat ihren Platz, wenn sie Werkstätten schneller, sicherer oder einfacher im Betrieb macht."
+            },
+            {
+              "icon": "patch-check",
+              "title": "Integrität",
+              "text": "Fairer Umgang mit Kunden, Lieferanten und Behörden, wie in unserem [Verhaltenskodex](page:code-of-conduct) festgelegt."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "eyebrow": "Mit wem wir arbeiten",
+          "heading": "Das Vertrauen von Bahnen und Metros",
+          "paragraphs": [
+            "Zu unseren Kunden zählen Indian Railways, die Delhi Metro Rail Corporation, die National Capital Region Transport Corporation und die State Railway of Thailand. Ihre Werkstätten sind auf Radsatzdrehmaschinen und Maschinen für die Radsatzwerkstatt angewiesen, um ihre Flotten im Einsatz und innerhalb der Sicherheitsgrenzwerte zu halten.",
+            "Der internationalen Bahnbranche begegnen wir zudem auf Messen wie Asia Pacific Rail, Middle East Rail, Africa Rail und AusRAIL. Dort teilen wir unsere Erfahrungen in der Radsatzinstandhaltung mit Betreibern aus zahlreichen Netzen."
+          ],
+          "image": "company/exhibition-stand",
+          "image_alt": "HYT-Messestand auf einer Bahnfachmesse",
+          "layout": "image-left",
+          "link": {
+            "label": "Unsere Kunden",
+            "page": "clientele"
+          }
+        },
+        {
+          "type": "cards",
+          "eyebrow": "Das Unternehmen entdecken",
+          "heading": "Mehr über HYT",
+          "cols": 4,
+          "items": [
+            {
+              "page": "history",
+              "icon": "hourglass-split"
+            },
+            {
+              "page": "group-companies",
+              "icon": "buildings"
+            },
+            {
+              "page": "quality",
+              "icon": "clipboard-check"
+            },
+            {
+              "page": "certifications",
+              "icon": "patch-check"
+            },
+            {
+              "page": "awards",
+              "icon": "award"
+            },
+            {
+              "page": "clientele",
+              "icon": "people"
+            },
+            {
+              "page": "csr",
+              "icon": "heart"
+            },
+            {
+              "page": "compliance",
+              "icon": "journal-check"
+            }
+          ]
+        },
+        {
+          "type": "cta",
+          "heading": "Sprechen Sie mit den Menschen, die die Maschinen bauen",
+          "text": "Ob Sie eine einzelne Drehmaschine oder eine komplette Radsatzwerkstatt planen – unsere Anwendungsingenieure helfen Ihnen, die richtige Lösung festzulegen.",
+          "primary": {
+            "label": "Ihre Anforderungen besprechen",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Unsere Produkte entdecken",
+            "page": "products"
+          }
+        }
+      ]
+    },
+    "group-companies": {
+      "nav": "Unternehmensgruppe",
+      "title": "HYT-Unternehmensgruppe – Indien & Italien",
+      "description": "HYT Engineering (Pune, gegr. 1977), SAFOP S.p.A. (Pordenone, Italien, gegr. 1923) und HYT Innovative Projects (Pune, gegr. 2001) – indisch-italienisches Ingenieurerbe.",
+      "eyebrow": "Über HYT",
+      "h1": "Die HYT-Unternehmensgruppe",
+      "lede": "Indisch-italienisches Ingenieurerbe: Bahn-Werkzeugmaschinen aus Pune, große Präzisions-Werkzeugmaschinen aus Pordenone und fließgedrückte Präzisionsrohre – drei Unternehmen, ein Anspruch an Präzision.",
+      "summary": "HYT Engineering, SAFOP S.p.A. (Italien) und HYT Innovative Projects – die Unternehmen der HYT-Gruppe.",
+      "blocks": [
+        {
+          "type": "group_overview",
+          "id": "group",
+          "eyebrow": "Indisch-italienisches Ingenieurerbe",
+          "heading": "Drei Unternehmen, ein Anspruch an Präzision",
+          "intro": "Gemeinsam entwickeln und bauen die Unternehmen der HYT-Gruppe Werkzeugmaschinen und Präzisionskomponenten für Bahnen und Schwerindustrie weltweit.",
+          "items": [
+            {
+              "role": "Muttergesellschaft",
+              "name": "HYT Engineering Company",
+              "location": "Pune, Indien",
+              "est": "Gegr. 1977",
+              "year": "1977",
+              "text": "CNC-Radsatzdrehmaschinen, Maschinen für Radsatzwerkstätten, Betriebswerksausrüstung und schlüsselfertige Bahnwerkstätten.",
+              "link": {
+                "page": "about",
+                "label": "Über HYT"
+              }
+            },
+            {
+              "role": "Tochtergesellschaft der HYT-Gruppe",
+              "name": "SAFOP S.p.A.",
+              "location": "Pordenone, Italien",
+              "est": "Gegr. 1923",
+              "year": "1923",
+              "text": "Radsatzdrehmaschinen, Dreh- und Schleifzentren sowie Rotor-Nutenstoßmaschinen – über 1.400 Maschinen weltweit verkauft.",
+              "link": {
+                "anchor": "safop",
+                "label": "SAFOP entdecken"
+              }
+            },
+            {
+              "role": "Schwesterunternehmen",
+              "name": "HYT Innovative Projects",
+              "location": "Pune, Indien",
+              "est": "Gegr. 2001",
+              "year": "2001",
+              "text": "Präzisionsrohre, hergestellt mit Fließdrücktechnik (Flow Forming).",
+              "link": {
+                "anchor": "hyt-innovative",
+                "label": "HYT Innovative entdecken"
+              }
+            }
+          ]
+        },
+        {
+          "type": "company_profile",
+          "id": "safop",
+          "variant": "muted",
+          "layout": "image-left",
+          "eyebrow": "Tochtergesellschaft der HYT-Gruppe",
+          "heading": "SAFOP S.p.A.",
+          "badge": "Pordenone, Italien",
+          "meta": "Pordenone, Italien",
+          "image": {
+            "src": "/assets/images/group/safop-pordenone.jpg",
+            "w": 775,
+            "h": 519,
+            "alt": "Firmensitz und Werk der SAFOP S.p.A. in Pordenone, Italien"
+          },
+          "facts": [
+            {
+              "value": "1923",
+              "label": "Gegründet"
+            },
+            {
+              "value": "1.400+",
+              "label": "Maschinen weltweit verkauft"
+            },
+            {
+              "value": "2019",
+              "label": "Teil der HYT-Gruppe"
+            }
+          ],
+          "paragraphs": [
+            "Hervorgegangen aus dem Bau kleiner Werkzeugmaschinen seit 1923, hat SAFOP S.p.A. ihren Sitz in Pordenone, Italien. Mit mehr als einem Jahrhundert Branchenerfahrung hat SAFOP weltweit über 1.400 Maschinen verkauft. Nach einem erfolgreichen Gebot am 11. September 2019 und der notariellen Übertragungsurkunde vom 4. Oktober 2019 ist SAFOP eine Tochtergesellschaft von HYT.",
+            "Auf dem eigenen Gelände von SAFOP befindet sich ein voll integriertes, modernes Werk für die Entwicklung und Fertigung von Maschinen mit einem hochqualifizierten Team von 29 Mitarbeitenden.",
+            "SAFOP ist in zahlreichen Marktsegmenten vertreten, darunter Bahn, Energie, Stahl, Öl, Papier, Werften, Luft- und Raumfahrt sowie Schwerindustrie. Die Produktlinie – Radsatzdrehmaschinen, Dreh- und Schleifzentren für Kugelhähne sowie Rotor-Nutenstoßmaschinen – ist hochmodern, wirtschaftlich und entspricht internationalen Standards."
+          ],
+          "link": {
+            "label": "safop.com besuchen",
+            "href": "https://www.safop.com/en"
+          }
+        },
+        {
+          "type": "company_profile",
+          "id": "hyt-innovative",
+          "layout": "image-right",
+          "eyebrow": "Schwesterunternehmen",
+          "heading": "HYT Innovative Projects Private Limited",
+          "badge": "Flow Forming",
+          "meta": "Pune, Indien",
+          "image": {
+            "src": "/assets/images/group/hyt-innovative-projects.jpg",
+            "w": 402,
+            "h": 253,
+            "alt": "BrahMos-Raketen in einer Ausstellung"
+          },
+          "facts": [
+            {
+              "value": "2001",
+              "label": "Betriebsaufnahme"
+            },
+            {
+              "value": "4.500 m²",
+              "label": "Hochmodernes Werk"
+            },
+            {
+              "value": "50",
+              "label": "Mitarbeitende"
+            }
+          ],
+          "paragraphs": [
+            "HYT Innovative nahm 2001 den Betrieb auf und fertigt Präzisionsrohre mit innovativer Fließdrücktechnik (Flow Forming).",
+            "HYT Innovative ist nach ISO 9001:2015 zertifiziert. Das Qualitätsmanagementsystem ist klar definiert und umgesetzt, um geordnete Abläufe, Transparenz und Klarheit in der Arbeit zu gewährleisten und so gleichbleibende Qualität und eine kontinuierliche Verbesserung der Qualitätsleistung zu erreichen.",
+            "Das Unternehmen beschäftigt 50 Mitarbeitende, darunter Fachkräfte und Verwaltungspersonal, und verfügt über ein hochmodernes Werk von 4.500 Quadratmetern für die Fertigung von Präzisionsrohren im Fließdrückverfahren."
+          ]
+        },
+        {
+          "type": "features",
+          "heading": "Worauf sich Kunden verlassen können",
+          "cols": 3,
+          "items": [
+            {
+              "icon": "person-check",
+              "title": "Klare Verantwortlichkeit",
+              "text": "Jedes Angebot nennt das vertragschließende Unternehmen und den zentralen Ansprechpartner für Ihr Projekt."
+            },
+            {
+              "icon": "clipboard-check",
+              "title": "Gemeinsame Qualitätsstandards",
+              "text": "Konstruktionsprüfungen, Inspektion und Dokumentation folgen demselben disziplinierten Prozess."
+            },
+            {
+              "icon": "headset",
+              "title": "Kontinuität im Support",
+              "text": "Service, Ersatzteile und Modernisierungen bleiben über die gesamte Lebensdauer Ihrer Anlagen verfügbar."
+            }
+          ]
+        },
+        {
+          "type": "cta",
+          "heading": "Sie wissen nicht, an welches Unternehmen Sie sich wenden sollen?",
+          "text": "Senden Sie Ihre Anfrage an HYT Engineering – wir leiten sie an das richtige Team weiter.",
+          "primary": {
+            "label": "Unser Team kontaktieren",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Über HYT",
+            "page": "about"
+          }
+        }
+      ]
+    },
+    "history": {
+      "nav": "Geschichte",
+      "title": "Unsere Geschichte – HYT Engineering seit 1977",
+      "description": "Von Bohrmaschinen im Jahr 1977 über Indiens erste eigenentwickelte Radsatzdrehmaschinen bis zu SAFOP in Italien und der InnoTrans 2026 – die Meilensteine, die HYT Engineering geprägt haben.",
+      "eyebrow": "Über HYT",
+      "h1": "Unsere Geschichte",
+      "lede": "Fast fünf Jahrzehnte Präzisionsmaschinenbau in Pune – von den ersten Maschinen für Indian Railways im Jahr 1977 bis zu einer internationalen Gruppe mit SAFOP S.p.A. in Italien.",
+      "summary": "Meilensteine von unserer Gründung 1977 über Indiens erste eigenentwickelte Radsatzdrehmaschinen bis zu SAFOP und internationalen Märkten.",
+      "blocks": [
+        {
+          "type": "text",
+          "eyebrow": "Die Geschichte von HYT",
+          "heading": "Von Bohrmaschinen zur weltweit tätigen Engineering-Gruppe",
+          "paragraphs": [
+            "Die 1977 unter der Leitung von Herrn Bhojraj Hemraj Teli gegründete HYT Engineering Company trat mit dem Ziel an, hochwertige Präzisionsmaschinen zu fertigen. Aus den Anfängen als Hersteller von Bohrmaschinen hat sich HYT zu einer anerkannten Engineering-Gruppe entwickelt, die Kunden in Indien und auf internationalen Märkten mit modernen Maschinen für die Bahninstandhaltung, Präzisionswerkzeugmaschinen und schlüsselfertigen Lösungen beliefert."
+          ],
+          "image": "company/history-archive",
+          "image_alt": "Archivfoto aus den Anfangsjahren von HYT",
+          "layout": "image-right"
+        },
+        {
+          "type": "timeline",
+          "layout": "split",
+          "id": "era-1970s",
+          "eyebrow": "1977–1979",
+          "heading": "Gründung",
+          "items": [
+            {
+              "year": "1977",
+              "tag": "Gründungsmeilenstein",
+              "title": "Gründung der HYT Engineering Corporation",
+              "text": "Herr Bhojraj Hemraj Teli gründete die HYT Engineering Corporation in Pune mit einem klaren Ziel – hochwertige Präzisionsmaschinen für die Bahn zu fertigen. Die ersten Arbeiten konzentrierten sich auf Maschinen für die Instandsetzung von Fahrmotoren und die Aufarbeitung von Ankern und legten damit den Grundstein für ein spezialisiertes Engineering-Unternehmen."
+            }
+          ]
+        },
+        {
+          "type": "timeline",
+          "layout": "split",
+          "id": "era-1980s",
+          "eyebrow": "1980–1989",
+          "heading": "Frühe Innovationen",
+          "items": [
+            {
+              "year": "1981",
+              "tag": "Erste Eigenentwicklung",
+              "title": "Entwicklung und Lieferung der Glimmerausfräsmaschine",
+              "text": "HYT entwickelte und lieferte die Glimmerausfräsmaschine (Mica Under Cutting Machine) – ein frühes Spezialprodukt, das die wachsende Kompetenz des Unternehmens in der Entwicklung von Präzisionswerkzeugmaschinen für den Bahnsektor belegte."
+            },
+            {
+              "year": "1985",
+              "tag": "Produktinnovation",
+              "title": "Entwicklung und Lieferung der Universal-Ankerbearbeitungsmaschine",
+              "text": "Die Universal-Ankerbearbeitungsmaschine wurde entwickelt und ausgeliefert und erweiterte das Portfolio von HYT an Spezialmaschinen für die Instandhaltung und Instandsetzung von Fahrmotoren."
+            },
+            {
+              "year": "1989",
+              "tag": "Gesellschaftsgründung",
+              "title": "Eintragung als HYT Engineering Company Pvt. Ltd.",
+              "text": "Das Unternehmen wurde als HYT Engineering Company Pvt. Ltd. eingetragen und erhielt damit die Struktur für größere Engineering-Aufträge."
+            }
+          ],
+          "variant": "muted"
+        },
+        {
+          "type": "timeline",
+          "layout": "split",
+          "id": "era-1990s",
+          "eyebrow": "1990–1999",
+          "heading": "Wegbereiter der Radsatzdrehmaschinen",
+          "items": [
+            {
+              "year": "1992",
+              "tag": "Erstmals in Indien",
+              "title": "Indiens erste eigenentwickelte Überflur-Radsatzdrehmaschine",
+              "text": "Ein Meilenstein: HYT entwickelte und lieferte Indiens erste eigenentwickelte Überflur-Radsatzdrehmaschine und stieg damit in die Radsatzdrehtechnik ein."
+            },
+            {
+              "year": "1994",
+              "tag": "Erstmals in Indien",
+              "title": "Indiens erste eigenentwickelte Unterflur-Radsatzdrehmaschine und Achsschenkeldrehmaschine",
+              "text": "HYT gelang eine weitere Premiere für Indien: die Entwicklung und Lieferung der ersten im Land entwickelten Unterflur-Radsatzdrehmaschine (Grubenmaschine) sowie der Achsschenkel-Dreh- und Glattwalzmaschine."
+            }
+          ]
+        },
+        {
+          "type": "timeline",
+          "layout": "split",
+          "id": "era-2000s",
+          "eyebrow": "2000–2009",
+          "heading": "Das CNC-Zeitalter und internationale Reichweite",
+          "items": [
+            {
+              "year": "2001",
+              "tag": "Erweiterung der Gruppe",
+              "title": "Gründung der HYT Innovative Projects Pvt. Ltd.",
+              "text": "HYT erweiterte die Gruppe um die Schwestergesellschaft HYT Innovative Projects Pvt. Ltd., die sich auf die Fertigung von Präzisionsrohren im Drückwalzverfahren (Flow Forming) spezialisiert hat – auf einer Fläche von 4.500 m² und mit einem Team von über 50 Mitarbeitenden."
+            },
+            {
+              "year": "2001",
+              "tag": "Technologiesprung",
+              "title": "Von konventionellen Maschinen zu CNC-Maschinen",
+              "text": "HYT vollzog den grundlegenden Wandel von konventionellen zu CNC-gesteuerten Maschinen, entwickelte und lieferte die CNC-Überflur-Radsatzdrehmaschine und die CNC-Vertikaldrehmaschine – und positionierte sich damit als technologieorientiertes Engineering-Unternehmen auf dem Niveau internationaler Fertigungsstandards."
+            },
+            {
+              "year": "2004",
+              "tag": "HYT wird international",
+              "title": "Exportauftrag – SMH Rail Sdn. Bhd., Malaysia",
+              "text": "Ein prägender Meilenstein: HYT erhielt einen internationalen Auftrag von SMH Rail Sdn. Bhd., Malaysia. Damit begann die weltweite Präsenz des Unternehmens und sein Wandel zu einem international anerkannten Werkzeugmaschinenexporteur."
+            },
+            {
+              "year": "2005",
+              "tag": "Strategisches Projekt",
+              "title": "Instandsetzung einer Maschine für den U-Boot-Bau – Mazagon Dock Ltd.",
+              "text": "HYT bewies seine Vielseitigkeit mit der erfolgreichen Instandsetzung einer Maschine für den U-Boot-Bau bei Mazagon Dock Ltd. und erweiterte seine Expertise über die Bahn hinaus auf Verteidigung und Schwermaschinenbau."
+            },
+            {
+              "year": "2007",
+              "tag": "Großauftrag",
+              "title": "Auftrag von Larsen & Toubro",
+              "text": "HYT erhielt einen wegweisenden Auftrag von Larsen & Toubro über die Lieferung von Maschinen für die Radscheibenfertigung – einer der größten Einzelaufträge des Unternehmens, der die Position von HYT festigte."
+            },
+            {
+              "year": "2009",
+              "tag": "Erstmals in Indien",
+              "title": "Automatische Zugwaschanlage – Kurla, Mumbai",
+              "text": "HYT entwickelte und lieferte Indiens erste automatische Zugwaschanlage für Indian Railways in Kurla, Mumbai – eine neue Produktkategorie, die zeigte, dass das Unternehmen auch über Radsatzdrehmaschinen hinaus Innovationen für die Bahninfrastruktur hervorbringt."
+            }
+          ],
+          "variant": "muted"
+        },
+        {
+          "type": "timeline",
+          "layout": "split",
+          "id": "era-2010s",
+          "eyebrow": "2010–2019",
+          "heading": "Führend bei schlüsselfertigen Projekten und internationale Expansion",
+          "items": [
+            {
+              "year": "2010",
+              "tag": "Technologiesprung",
+              "title": "CNC-Vertikal-Dreh- und Bohrmaschine",
+              "text": "HYT entwickelte und lieferte die CNC-Vertikal-Dreh- und Bohrmaschine – eine Hochpräzisionsmaschine für Bauteile mit großem Durchmesser, die den adressierbaren Markt und die technische Kompetenz des Unternehmens deutlich erweiterte."
+            },
+            {
+              "year": "2011",
+              "tag": "Erstes EPC-Projekt",
+              "title": "Fertigungsanlage für LHB-Wagenkästen – ICF Chennai",
+              "text": "Mit seinem ersten großen Infrastrukturprojekt stieg HYT in das EPC-Geschäft für schlüsselfertige Anlagen ein: dem Aufbau einer Fertigungsanlage für LHB-Wagenkästen für die Integral Coach Factory in Chennai. Damit wandelte sich HYT vom Werkzeugmaschinenlieferanten zum Anbieter kompletter Infrastrukturlösungen."
+            },
+            {
+              "year": "2013",
+              "tag": "Rekordauftrag",
+              "title": "Größter Einzelauftrag für CNC-Überflur-Radsatzdrehmaschinen – 36 Maschinen",
+              "text": "HYT erhielt seinen bislang größten Einzelauftrag für CNC-Überflur-Radsatzdrehmaschinen über 36 Maschinen – ein Beleg für die große Nachfrage nach den Flaggschiffprodukten des Unternehmens im gesamten Netz der Indian Railways."
+            },
+            {
+              "year": "2013",
+              "tag": "Unternehmensführung",
+              "title": "Frau Rajashri Teli zur Whole Time Director ernannt",
+              "text": "Frau Rajashri Bhojraj Teli wurde zur Whole Time Director ernannt und brachte zukunftsorientierte Geschäftsstrategien ein, die der Gruppe deutliches Wachstum und internationale Anerkennung verschafften."
+            },
+            {
+              "year": "2014",
+              "tag": "Produktmeilenstein",
+              "title": "CNC-Portal-Radsatzdrehmaschine – North Central Railway, Jhansi",
+              "text": "HYT lieferte die CNC-Portal-Radsatzdrehmaschine an das Güterwagen-Ausbesserungswerk der North Central Railway in Jhansi, erweiterte damit sein Portfolio an Radsatzdrehmaschinen um eine weitere Bauart und stärkte die Beziehung zu Indian Railways."
+            },
+            {
+              "year": "2015",
+              "tag": "Produktmeilenstein",
+              "title": "CNC-Unterflur-Radsatzdrehmaschinen – Chennai Metro",
+              "text": "HYT stieg mit der Lieferung von CNC-Unterflur-Radsatzdrehmaschinen an die Chennai Metro in das Metro-Segment ein – der erste von vielen Metro-Aufträgen, die HYT als bevorzugten Lieferanten für Indiens wachsende Stadtbahnnetze etablierten."
+            },
+            {
+              "year": "2015",
+              "tag": "Make in India",
+              "title": "Zweiwege-Rangierfahrzeug (Shunter) gemeinsam mit BEMO, Niederlande, entwickelt",
+              "text": "Im Rahmen der Initiative Make in India entwickelte HYT gemeinsam mit BEMO, Niederlande, das Zweiwege-Rangierfahrzeug (Shunter) – ein vielseitiges Fahrzeug für den Rangierbetrieb auf Bahnanlagen."
+            },
+            {
+              "year": "2015",
+              "tag": "Infrastruktur",
+              "title": "Firmenzentrale als Green Building in Pune eröffnet",
+              "text": "HYT eröffnete seine als Green Building errichtete Zentrale in Chinchwad, Pune – ein moderner, nachhaltiger Standort, der zum Mittelpunkt für Engineering, Fertigung und Verwaltung wurde."
+            },
+            {
+              "year": "2016",
+              "tag": "Technologietransfer",
+              "title": "CNC-Federwickelmaschinen – Technologietransfer von TNI Spring Technologies, USA",
+              "text": "Im Rahmen eines Technologietransfers von TNI Spring Technologies LLC, USA, fertigte und lieferte HYT die CNC-Warmwickelmaschine für Schraubenfedern, die CNC-Maschine zum Warmanspitzen von Stabenden und die Nachsetzmaschine für das Federnprojekt der ICF Chennai – ein Beleg dafür, dass HYT internationale Technologie aufnehmen und einsetzen kann."
+            },
+            {
+              "year": "2018",
+              "tag": "OEM-Lieferung",
+              "title": "Lieferung an Alstom und GE Diesel Locomotive Pvt. Ltd.",
+              "text": "HYT lieferte Unterflur-Radsatzdrehmaschinen der neuen Generation an Alstom und GE Diesel Locomotive Pvt. Ltd. und trat damit in die internationale OEM-Lieferkette der Schienenfahrzeughersteller ein."
+            },
+            {
+              "year": "2018",
+              "tag": "Servicemodell",
+              "title": "Wet Leasing (Machine as a Service) – ICF Chennai",
+              "text": "HYT führte für die ICF Chennai als Vorreiter einen Wet-Leasing-Vertrag ein und übernahm die volle Verantwortung für Lieferung, Inbetriebnahme, Betrieb und Instandhaltung – ein im indischen Bahnmaschinensektor bis dahin einzigartiges Servicemodell. Siehe [Wet Leasing](page:wet-leasing)."
+            },
+            {
+              "year": "2019",
+              "tag": "Übernahme von SAFOP",
+              "title": "Übernahme der SAFOP S.p.A., Italien – 100-prozentige Tochtergesellschaft",
+              "text": "Der bedeutendste strategische Schritt von HYT – die Übernahme der SAFOP S.p.A., Italien (gegründet 1923), als Tochtergesellschaft. Mit über 1.400 weltweit verkauften Maschinen und einem Jahrhundert italienischer Präzisionstechnik erweiterte SAFOP die internationale Präsenz und das Technologieportfolio der Gruppe erheblich."
+            },
+            {
+              "year": "2019",
+              "tag": "Premiere für Indien",
+              "title": "Indiens erste eigenentwickelte automatische Radsatz-Montageanlage – RWF Bangalore",
+              "text": "HYT entwickelte und errichtete Indiens erste eigenentwickelte automatische Montageanlage für Räder und Achsen für die Rail Wheel Factory in Bangalore – ein Meilenstein der Automatisierung in der Radsatzfertigung."
+            },
+            {
+              "year": "2019",
+              "tag": "Exportmeilenstein",
+              "title": "Lieferung an die SNCF, Frankreich – konform mit europäischen Normen",
+              "text": "HYT entwickelte und lieferte Unterflur-Radsatzdrehmaschinen an die SNCF in Frankreich, konform mit europäischen Normen – ein bedeutender Exporterfolg, der die Qualität von HYT auf internationaler Ebene bestätigte."
+            }
+          ]
+        },
+        {
+          "type": "timeline",
+          "layout": "split",
+          "id": "era-2020s",
+          "eyebrow": "2020–2026",
+          "heading": "Neue Horizonte",
+          "items": [
+            {
+              "year": "2020",
+              "tag": "Rekordauftrag",
+              "title": "Auftrag über 27 Unterflur-Radsatzdrehmaschinen – Indian Railways",
+              "text": "HYT erhielt von Indian Railways einen Auftrag über 27 Unterflur-Radsatzdrehmaschinen – einer der größten Einzelaufträge für Radsatzdrehmaschinen, der die Position von HYT als bevorzugter Lieferant für die Instandhaltungsinfrastruktur der Indian Railways bekräftigte."
+            },
+            {
+              "year": "2021",
+              "tag": "Afrika",
+              "title": "CNC-Unterflur-Radsatzdrehmaschine nach Gabun und CNC-Überflur-Radsatzdrehmaschine nach Ghana geliefert",
+              "text": "HYT lieferte eine CNC-Unterflur-Radsatzdrehmaschine nach Gabun in Zentralafrika, nahm sie in Betrieb und richtete dort eine komplette Radsatzwerkstatt ein; zudem ging eine CNC-Überflur-Radsatzdrehmaschine nach Ghana in Westafrika – ein Zeichen der starken Nachfrage auf dem afrikanischen Bahnmarkt."
+            },
+            {
+              "year": "2021",
+              "tag": "EPC-Projekte",
+              "title": "Automatisierte Radsatzwerkstatt in New Katni und Achsbearbeitungslinie bei RWF Bangalore",
+              "text": "HYT realisierte als EPC-Projekt eine automatisierte Radsatzwerkstatt in New Katni, Madhya Pradesh – eine der größten Radsatz-Instandhaltungsanlagen der Indian Railways – und errichtete eine komplette Achsbearbeitungslinie bei der Rail Wheel Factory in Bangalore."
+            },
+            {
+              "year": "2021",
+              "tag": "Produktinnovation",
+              "title": "Indiens erste eigenentwickelte Tandem-Unterflur-Radsatzdrehmaschine",
+              "text": "HYT entwickelte Indiens erste eigenentwickelte Tandem-Unterflur-Radsatzdrehmaschine – eine Doppelmaschinen-Konfiguration für Radsatzwerkstätten mit sehr hohem Durchsatz, beauftragt von der Delhi Metro Rail Corporation."
+            },
+            {
+              "year": "2022",
+              "tag": "Premiere für Indien",
+              "title": "Erstes Vande-Bharat-Betriebswerk – Shakur Basti, Northern Railway",
+              "text": "HYT errichtete in Shakur Basti im Bereich der Northern Railway Indiens erstes eigens für den Vande Bharat Express bestimmtes Betriebswerk – ein Meilenstein, als der semi-hochgeschwindigkeitsfähige Vorzeigezug des Landes in Betrieb ging, mit HYT-Maschinen als festem Bestandteil seiner Instandhaltung."
+            },
+            {
+              "year": "2024",
+              "tag": "Produktinnovation",
+              "title": "Montage- und Demontagelinie für Drehgestelle – Dibrugarh",
+              "text": "HYT lieferte eine Montage- und Demontagelinie für Drehgestelle in Dibrugarh für die Northeast Frontier Railway – eine anspruchsvolle teilautomatisierte Montagelösung, die moderne Fertigungspraxis in eine der geografisch schwierigsten Bahnregionen Indiens bringt."
+            },
+            {
+              "year": "2024",
+              "tag": "Produktinnovation",
+              "title": "Große Horizontalmaschinen für die Instandhaltung von Turbinenrotoren",
+              "text": "HYT und SAFOP erhielten Aufträge über große Horizontalmaschinen für die Instandhaltung von Turbinenrotoren."
+            },
+            {
+              "year": "2025",
+              "tag": "Internationale Präsenz",
+              "title": "Fünf internationale Messen auf vier Kontinenten",
+              "text": "HYT stellte auf der Middle East Rail in Dubai, der Eurasia Rail in Istanbul, der Asia Pacific Rail in Bangkok, der Africa Rail in Johannesburg und der NT Expo in São Paulo aus – der bislang breiteste internationale Auftritt des Unternehmens innerhalb eines Jahres."
+            },
+            {
+              "year": "2025",
+              "tag": "Internationale Präsenz",
+              "title": "Aufträge aus dem Nahen Osten und der Türkei",
+              "text": "HYT erhielt Aufträge aus dem Nahen Osten und der Türkei über Unterflur-Radsatzdrehmaschinen, Tandem-Unterflur-Radsatzdrehmaschinen, Achswellendrehmaschinen und Vertikaldrehmaschinen."
+            },
+            {
+              "year": "2026",
+              "tag": "Anerkennung",
+              "title": "Managing Director bei den Hurun Stars of the Deccan ausgezeichnet",
+              "text": "Frau Rajashri Teli, Managing Director, wurde bei den Hurun Stars of the Deccan 2026 ausgezeichnet – in Anerkennung ihrer Rolle für das Wachstum und die internationale Expansion der Gruppe."
+            },
+            {
+              "year": "2026",
+              "tag": "InnoTrans 2026",
+              "title": "HYT Group auf der InnoTrans 2026 in Berlin",
+              "text": "HYT Engineering und SAFOP S.p.A. präsentierten sich gemeinsam als HYT Group auf der InnoTrans 2026 – Halle 22A, Stände 630 & 730, Messe Berlin, 22.–25. September 2026 – und zeigten dem führenden internationalen Fachpublikum der Verkehrstechnik das komplette Programm an CNC-Radsatzdrehmaschinen."
+            }
+          ],
+          "variant": "muted"
+        },
+        {
+          "type": "cta",
+          "heading": "Gestalten Sie das nächste Kapitel mit",
+          "text": "Entdecken Sie Karrieremöglichkeiten, Partnerschaften und Geschäftschancen mit der HYT Group.",
+          "primary": {
+            "label": "Karriere entdecken",
+            "page": "career"
+          },
+          "secondary": {
+            "label": "Unser Team kontaktieren",
+            "page": "contact-us"
+          }
+        }
+      ]
+    },
+    "quality": {
+      "nav": "Qualität",
+      "title": "Qualitätssicherung – von der Konstruktion bis zur Abnahme",
+      "description": "So sichert HYT die Qualität jeder Radsatzdrehmaschine: Konstruktionsprüfung, Wareneingangs- und Fertigungsprüfung, Abnahme an Kundenradsätzen, Dokumentation.",
+      "eyebrow": "Referenzen & Zertifikate",
+      "h1": "Qualität bei HYT",
+      "lede": "Eine Radsatzdrehmaschine bestimmt das Profil, auf dem ein Zug fährt. Für uns ist Qualität ein Prozess, der mit der ersten Zeichnung beginnt und erst endet, wenn sich die Maschine an Ihren Radsätzen bewährt hat.",
+      "summary": "Unser Qualitätsprozess – von der Konstruktionsprüfung bis zur Abnahme an den eigenen Radsätzen des Kunden.",
+      "blocks": [
+        {
+          "type": "text",
+          "eyebrow": "Warum das wichtig ist",
+          "heading": "Qualität, die Sie am Rad messen können",
+          "paragraphs": [
+            "Ein Fehler in einer Werkzeugmaschine überträgt sich auf jedes Teil, das sie fertigt. Bei einer Radsatzdrehmaschine bedeutet das: auf jedes Radprofil, an jedem Zug, über Jahre. Genauigkeit, Wiederholgenauigkeit und Zuverlässigkeit sind daher keine Extras – sie sind das Produkt.",
+            "Unser Qualitätsmanagementsystem ist nach ISO 9001:2015 zertifiziert. Das Zertifikat bestätigt, dass der Prozess existiert und auditiert wird; die folgenden Schritte zeigen, wie er in der Praxis funktioniert. Die Zertifikate für Qualität, Umwelt sowie Sicherheit und Gesundheit bei der Arbeit finden Sie auf der Seite [Zertifizierungen](page:certifications)."
+          ],
+          "image": "company/quality-inspection",
+          "image_alt": "Qualitätsprüfung eines bearbeiteten Bauteils bei HYT",
+          "layout": "image-right"
+        },
+        {
+          "type": "certificates",
+          "variant": "compact",
+          "id": "quality-certificates",
+          "eyebrow": "Qualitätssystem & Zertifizierungen",
+          "heading": "Zertifiziert nach internationalen Normen",
+          "intro": "Unsere Managementsysteme für Qualität, Umwelt sowie Sicherheit und Gesundheit bei der Arbeit sind unabhängig von Intercert zertifiziert.",
+          "link": {
+            "label": "Alle Zertifikate und Ratings",
+            "page": "certifications"
+          }
+        },
+        {
+          "type": "steps",
+          "eyebrow": "Unser Qualitätsprozess",
+          "heading": "Sechs Prüfpunkte zwischen Auftrag und Übergabe",
+          "items": [
+            {
+              "title": "Vertrags- & Konstruktionsprüfung",
+              "text": "Kundenspezifikationen, Radprofile, Spurweite und Standortbedingungen werden vor Konstruktionsbeginn vom Engineering geprüft, und jede Konstruktion wird vor der Freigabe dagegen abgeglichen."
+            },
+            {
+              "title": "Lieferantensteuerung & Wareneingangsprüfung",
+              "text": "Gussteile, Strukturen, Zukaufteile und CNC-Steuerungen stammen von bewerteten Lieferanten und werden bei Anlieferung anhand von Zeichnungen und Spezifikationen geprüft."
+            },
+            {
+              "title": "Fertigungsbegleitende Prüfung",
+              "text": "Kritische Bearbeitungsmerkmale, Geometrie und Ausrichtungen werden in festgelegten Fertigungs- und Montagestufen geprüft und die Ergebnisse dokumentiert."
+            },
+            {
+              "title": "Werksprüfung",
+              "text": "Jede Maschine wird vor dem Versand in unserem Werk in Betrieb genommen: Funktionen und Sicherheitsverriegelungen werden getestet und die geometrische Genauigkeit wird nachgewiesen."
+            },
+            {
+              "title": "Probelauf & Abnahme vor Ort",
+              "text": "Nach der Montage wird die Maschine an den eigenen Radsätzen des Kunden erprobt. Profile und Maße werden gemessen und die Ergebnisse gemeinsam mit dem Kunden abgenommen."
+            },
+            {
+              "title": "Dokumentation & Übergabe",
+              "text": "Prüfprotokolle, Testberichte, Handbücher, Zeichnungen und Ersatzteillisten werden mit der Maschine übergeben – als Grundlage für Audits und die künftige Instandhaltung."
+            }
+          ]
+        },
+        {
+          "type": "features",
+          "eyebrow": "Mehr als eine Checkliste",
+          "heading": "Wie wir uns kontinuierlich verbessern",
+          "cols": 3,
+          "items": [
+            {
+              "icon": "arrow-repeat",
+              "title": "Rückmeldungen aus dem Feld",
+              "text": "Serviceberichte und Kundenfeedback werden ausgewertet und fließen in Konstruktion und Fertigung zurück."
+            },
+            {
+              "icon": "search",
+              "title": "Ursachenanalyse",
+              "text": "Abweichungen werden bis zu ihrer Ursache untersucht und so behoben, dass sie nicht erneut auftreten."
+            },
+            {
+              "icon": "mortarboard",
+              "title": "Qualifizierte Mitarbeitende",
+              "text": "Prüfer, Monteure und Serviceingenieure werden in den Methoden und Normen geschult, die für ihre Arbeit gelten."
+            }
+          ]
+        },
+        {
+          "type": "cards",
+          "heading": "Verwandte Seiten",
+          "cols": 3,
+          "items": [
+            {
+              "page": "certifications",
+              "icon": "patch-check"
+            },
+            {
+              "page": "installation-commissioning",
+              "icon": "tools"
+            },
+            {
+              "page": "policy-statement",
+              "icon": "journal-check"
+            }
+          ]
+        },
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "Zur Prüfung durch HYT: Bitte bestätigen Sie, dass die sechs Prozessschritte den tatsächlichen Qualitätsverfahren von HYT entsprechen, und ob bestimmte Prüfmittel oder Kundenabnahmen (z. B. durch Drittprüfer oder Abnahmebeauftragte der Bahn) genannt werden sollen."
+        }
+      ]
+    },
+    "certifications": {
+      "nav": "Zertifizierungen",
+      "title": "Zertifizierungen nach ISO 9001, ISO 14001 & ISO 45001",
+      "description": "Die Managementsysteme von HYT Engineering sind nach ISO 9001:2015, ISO 14001:2015 und ISO 45001:2018 zertifiziert. Was jede Norm abdeckt und was sie bringt.",
+      "eyebrow": "Referenzen & Zertifikate",
+      "h1": "Zertifizierungen",
+      "lede": "Unsere Managementsysteme für Qualität, Umwelt sowie Sicherheit und Gesundheit bei der Arbeit sind unabhängig zertifiziert. Hier erfahren Sie, was jedes Zertifikat für Kunden und Partner bedeutet.",
+      "summary": "ISO 9001:2015, ISO 14001:2015 und ISO 45001:2018 – was jedes Zertifikat abdeckt.",
+      "blocks": [
+        {
+          "type": "certificates",
+          "id": "iso-certificates",
+          "eyebrow": "Zertifizierte Managementsysteme",
+          "heading": "Unsere ISO-Zertifikate",
+          "intro": "HYT Engineering Company Pvt. Ltd. ist von Intercert nach drei internationalen Managementsystem-Normen zertifiziert. Wählen Sie ein Zertifikat, um es vollständig anzuzeigen."
+        },
+        {
+          "type": "marks",
+          "id": "marks",
+          "eyebrow": "Normen & Nachhaltigkeit",
+          "heading": "Weitere Zertifizierungen und Ratings"
+        },
+        {
+          "type": "text",
+          "eyebrow": "Für Einkäufer und Auditoren",
+          "heading": "Unsere Zertifikate für Ihre Lieferantenfreigabe",
+          "paragraphs": [
+            "Ausschreibungen von Bahnen und Metros verlangen häufig den Nachweis zertifizierter Managementsysteme. Unsere aktuellen Zertifikate – mit Geltungsbereich, Zertifizierungsstelle und Gültigkeit – finden Sie oben; wählen Sie eines, um es vollständig anzuzeigen, oder prüfen Sie es mit der Registriernummer bei Intercert.",
+            "Benötigen Sie die Zertifikate schon früher für eine Ausschreibung oder ein Lieferantenaudit, [kontaktieren Sie uns](page:contact-us) – wir senden sie Ihnen direkt zu. Wie ISO 9001 in der Werkhalle gelebt wird, lesen Sie bei unserem [Qualitätsprozess](page:quality); unsere Verpflichtungen in den einzelnen Bereichen finden Sie in der [Grundsatzerklärung](page:policy-statement)."
+          ],
+          "image": "company/quality-inspection",
+          "image_alt": "Qualitätsprüfung eines bearbeiteten Bauteils bei HYT",
+          "layout": "image-right"
+        },
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "Zur Prüfung durch HYT: Bitte bestätigen Sie, worauf sich die Zeichen von DEKRA und DNV beziehen (z. B. Produktzertifizierung, Prüfung oder Zulassung, mit Zertifikatsnummer und Gültigkeit), damit die Beschreibungen konkretisiert werden können."
+        }
+      ]
+    },
+    "awards": {
+      "nav": "Auszeichnungen",
+      "title": "Auszeichnungen und Anerkennung",
+      "description": "Auszeichnungen für HYT Engineering, darunter der Pune Best Employer Brand Award 2026 und die Aufnahme unter Indiens Leading Mid-Corporates 2023.",
+      "eyebrow": "Referenzen & Zertifikate",
+      "h1": "Auszeichnungen und Anerkennung",
+      "lede": "Die beste Anerkennung ist eine Maschine, die noch Jahre nach der Übergabe täglich im Einsatz ist. Stolz sind wir aber auch, wenn unabhängige Organisationen auf unsere Arbeit aufmerksam werden.",
+      "summary": "Unabhängige Anerkennung der Arbeit und des Wachstums von HYT Engineering.",
+      "blocks": [
+        {
+          "type": "awards",
+          "id": "awards-2026",
+          "eyebrow": "Neueste Auszeichnung",
+          "heading": "Auszeichnungen 2026",
+          "items": [
+            {
+              "year": "2026",
+              "title": "Pune Best Employer Brand Awards 2026",
+              "meta": "21. Employer Branding Awards · Pune, 18. Ausgabe",
+              "paragraphs": [
+                "HYT Engineering Co. Pvt. Ltd. wurde bei den Pune Best Employer Brand Awards 2026 – im Rahmen der 21. Employer Branding Awards, verliehen im Oktober 2026 in Pune – als eine der besten Arbeitgebermarken Punes ausgezeichnet.",
+                "Die Auszeichnung gebührt den Menschen, die HYT-Maschinen Tag für Tag konstruieren, bauen, montieren und warten. Wenn Sie Teil dieses Teams werden möchten, besuchen Sie unsere [Karriereseite](page:career)."
+              ],
+              "photos": [
+                {
+                  "src": "/assets/images/awards/pune-best-employer-brand-award-2026.jpg",
+                  "w": 1080,
+                  "h": 1350,
+                  "shape": "portrait",
+                  "alt": "Urkunde und Trophäe der Pune Best Employer Brand Awards 2026 für HYT Engineering Co. Pvt. Ltd."
+                },
+                {
+                  "src": "/assets/images/awards/pune-best-employer-brand-award-2026-ceremony.jpg",
+                  "w": 1200,
+                  "h": 800,
+                  "shape": "landscape",
+                  "alt": "Vertreter von HYT nehmen den Pune Best Employer Brand Award 2026 auf der Bühne entgegen"
+                }
+              ],
+              "link": {
+                "label": "Karriere bei HYT",
+                "page": "career"
+              }
+            }
+          ]
+        },
+        {
+          "type": "features",
+          "eyebrow": "Anerkennung",
+          "heading": "Unabhängige Anerkennung",
+          "cols": 2,
+          "items": [
+            {
+              "icon": "award",
+              "title": "Leading Mid-Corporates of India 2023",
+              "text": "HYT Engineering ist in der Dun & Bradstreet-Publikation „Leading Mid-Corporates of India 2023“ aufgeführt, die etablierte mittelgroße indische Unternehmen porträtiert."
+            },
+            {
+              "icon": "people",
+              "title": "Aufträge öffentlicher Betreiber",
+              "text": "Aufträge von Indian Railways, der Delhi Metro Rail Corporation und der National Capital Region Transport Corporation spiegeln das Vertrauen anspruchsvoller öffentlicher Kunden wider. Siehe [unsere Kunden](page:clientele)."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "eyebrow": "Wie wir Erfolg messen",
+          "heading": "Anerkennung, die in der Werkstatt verdient wird",
+          "paragraphs": [
+            "Auszeichnungen freuen uns, doch unser eigentlicher Maßstab ist praktischer Natur: Züge, die pünktlich wieder in Betrieb gehen, Räder, die mehr Reprofilierungszyklen überstehen, und Maschinen, die über Jahrzehnte zuverlässig laufen.",
+            "Diese Ergebnisse beruhen auf einem disziplinierten [Qualitätsprozess](page:quality), unabhängig [zertifizierten Managementsystemen](page:certifications) und langjährigen Beziehungen zu den Betreibern auf unserer Seite [Kunden](page:clientele). Sie sind auch der Grund, warum Kunden für Modernisierungen, Wartungsverträge und neue Maschinen zu uns zurückkehren.",
+            "Diese Erfahrung teilen wir mit der Branche auf internationalen Veranstaltungen wie Asia Pacific Rail, Middle East Rail, Africa Rail und AusRAIL. Mehr zu unseren [internationalen Messen](page:international-exhibitions)."
+          ],
+          "image": "company/exhibition-stand",
+          "image_alt": "HYT-Messestand auf einer Bahnfachmesse",
+          "layout": "image-right"
+        },
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "Zur Prüfung durch HYT: Bitte senden Sie die vollständige Liste der Auszeichnungen der aktuellen Website (Name, verleihende Stelle, Jahr und Foto). Die Dun-&-Bradstreet-Listung ist ebenfalls zu bestätigen."
+        }
+      ]
+    },
+    "clientele": {
+      "nav": "Kunden",
+      "title": "Unsere Kunden – Bahnen und Metrobetreiber",
+      "description": "Indian Railways, SNCF, Trenitalia, Alstom, L&T und Metrobetreiber in ganz Indien setzen auf Radsatzdrehmaschinen und Turnkey-Projekte von HYT Engineering.",
+      "eyebrow": "Referenzen & Zertifikate",
+      "h1": "Unsere Kunden",
+      "lede": "Staatsbahnen und Metrobetreiber verlassen sich auf HYT-Maschinen, um ihre Radsätze innerhalb der Sicherheitsgrenzwerte und ihre Flotten im Einsatz zu halten.",
+      "summary": "Bahnen und Metrobetreiber, die auf Radsatzdrehmaschinen und Werkstattmaschinen von HYT setzen.",
+      "blocks": [
+        {
+          "type": "logos",
+          "source": "clients",
+          "heading": "Unsere Kunden",
+          "intro": "Bahnbetreiber, Metrogesellschaften, Schienenfahrzeughersteller und Industrieunternehmen, die auf Maschinen und Projekte von HYT setzen."
+        },
+        {
+          "type": "text",
+          "eyebrow": "Was unsere Kunden verbindet",
+          "heading": "Betreiber, die sich keine stehenden Züge leisten können",
+          "paragraphs": [
+            "Unsere Kunden betreiben hoch ausgelastete Flotten mit engen Instandhaltungsplänen. Für sie ist eine Radsatzdrehmaschine kein Werkzeug für gelegentliche Einsätze, sondern ein täglicher Engpass: Jede Stunde, die ein Zug auf die Reprofilierung wartet, ist eine Stunde ohne Erlöse und ohne Fahrgäste.",
+            "Deshalb suchen sie mehr als nur eine Maschine. Sie brauchen Fundamente, die auf Anhieb richtig ausgelegt sind, Bedienpersonal, das an den eigenen Fahrzeugen geschult wurde, und einen Servicepartner, der reagiert, wenn es darauf ankommt. Details finden Sie bei unseren [abgeschlossenen Projekten](page:executed-projects) und [laufenden Projekten](page:under-execution)."
+          ],
+          "image": "industries/railways",
+          "image_alt": "Radsätze eines Güterwagens auf dem Gleis",
+          "layout": "image-right"
+        },
+        {
+          "type": "cards",
+          "heading": "Branchen, die wir beliefern",
+          "cols": 3,
+          "items": [
+            {
+              "page": "ind-railways",
+              "image": "industries/railways"
+            },
+            {
+              "page": "ind-metros",
+              "image": "industries/metros"
+            },
+            {
+              "page": "ind-rolling-stock",
+              "image": "industries/rolling-stock-manufacturers"
+            }
+          ]
+        }
+      ]
+    },
+    "csr": {
+      "nav": "CSR",
+      "title": "Gesellschaftliche Verantwortung (CSR) bei HYT",
+      "description": "Gesellschaftliche Verantwortung bei HYT Engineering: Bildung, Qualifizierung, Umwelt und Gesundheit – getragen von den Menschen, die in Pune Maschinen bauen.",
+      "eyebrow": "Verantwortung",
+      "h1": "Gesellschaftliche Verantwortung (CSR)",
+      "lede": "Unsere Maschinen werden von Menschen aus dem Umfeld unseres Werks in Pune gebaut. Wir möchten, dass dieses Umfeld gemeinsam mit dem Unternehmen stärker wird.",
+      "summary": "Unser Ansatz für Bildung, Qualifizierung, Umwelt und Gesundheit in unserem Umfeld.",
+      "blocks": [
+        {
+          "type": "text",
+          "eyebrow": "Unser Ansatz",
+          "heading": "Verantwortung, die vor der eigenen Haustür beginnt",
+          "paragraphs": [
+            "Maschinenbauunternehmen sind auf qualifizierte Menschen, eine intakte Umwelt und stabile Gemeinschaften angewiesen. Unser CSR-Ansatz konzentriert sich auf Bereiche, in denen ein Industrieunternehmen dauerhaft und praktisch etwas bewirken kann – statt auf einmalige Gesten.",
+            "Wir wollen Projekte sorgfältig auswählen, mit glaubwürdigen Partnern zusammenarbeiten, unsere Mitarbeitenden einbinden und ehrlich über das Erreichte berichten."
+          ],
+          "image": "company/csr-community",
+          "image_alt": "Teammitglieder halten eine junge Pflanze",
+          "layout": "image-right"
+        },
+        {
+          "type": "features",
+          "eyebrow": "Schwerpunkte",
+          "heading": "Wo wir etwas bewirken möchten",
+          "cols": 4,
+          "items": [
+            {
+              "icon": "book",
+              "title": "Bildung",
+              "text": "Förderung von Schulen sowie Schülerinnen und Schülern mit Schwerpunkt auf Naturwissenschaften, Mathematik und Technik."
+            },
+            {
+              "icon": "mortarboard",
+              "title": "Qualifizierung",
+              "text": "Jungen Menschen helfen, die technischen und beruflichen Fähigkeiten zu erwerben, die die Fertigungsindustrie braucht."
+            },
+            {
+              "icon": "tree",
+              "title": "Umwelt",
+              "text": "Den ökologischen Fußabdruck unserer eigenen Tätigkeit nach ISO 14001 verringern und lokale Umweltinitiativen unterstützen."
+            },
+            {
+              "icon": "heart-pulse",
+              "title": "Gesundheit & Wohlbefinden",
+              "text": "Gesundheit und Sicherheit für Mitarbeitende, ihre Familien und die Gemeinschaft fördern."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "eyebrow": "Unsere Mitarbeitenden",
+          "heading": "Mitarbeitende, die sich beteiligen",
+          "paragraphs": [
+            "Verantwortung gehört auch zum Alltag in unserem Werk. Veranstaltungen wie Blutspendeaktionen, die Sicherheitswoche und der Internationale Yoga-Tag bringen Kolleginnen und Kollegen rund um Gesundheit, Sicherheit und den Einsatz für andere zusammen.",
+            "Fotos dieser Veranstaltungen finden Sie auf der Seite [Leben bei HYT](page:memorialization)."
+          ],
+          "image": "company/life-at-hyt",
+          "image_alt": "Kolleginnen und Kollegen bei der Zusammenarbeit bei HYT",
+          "layout": "image-left"
+        },
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "Zur Prüfung durch HYT: Die CSR-Aktivitäten sind noch nicht verifiziert. Bitte liefern Sie die freigegebene CSR-Richtlinie, die Schwerpunkte, die HYT veröffentlichen möchte, sowie Angaben zu abgeschlossenen oder laufenden Projekten (Partner, Ort, Jahr, Fotos)."
+        }
+      ]
+    },
+    "compliance": {
+      "nav": "Compliance",
+      "title": "Compliance – Kodizes, Leitlinien und Richtlinien",
+      "description": "Verhaltenskodex, Leitlinien für geschäftliches Verhalten und integrierte Grundsatzerklärung von HYT Engineering – gebündelt für Lieferanten, Kunden, Auditoren.",
+      "eyebrow": "Verantwortung",
+      "h1": "Compliance",
+      "lede": "Bahnkunden, Lieferanten und Auditoren müssen wissen, wie wir Geschäfte machen. Unsere Kodizes, Leitlinien und Richtlinien finden Sie hier gebündelt.",
+      "summary": "Unser Verhaltenskodex, die Leitlinien für geschäftliches Verhalten und die integrierte Grundsatzerklärung an einem Ort.",
+      "blocks": [
+        {
+          "type": "text",
+          "eyebrow": "Warum das wichtig ist",
+          "heading": "Geschäfte auf die richtige Art",
+          "paragraphs": [
+            "Ein Großteil unserer Arbeit erfolgt für öffentliche Bahn- und Metrobetreiber, bei denen fairer Wettbewerb, transparente Ausschreibungen und sicheres Arbeiten nicht verhandelbar sind. Die Dokumente auf dieser Seite legen die Standards fest, die wir an uns selbst und an alle stellen, die mit uns zusammenarbeiten.",
+            "Lieferanten, die sich bei HYT registrieren, und Auditoren, die Lieferantenbewertungen durchführen, finden nachstehend die maßgeblichen Verpflichtungen. Neue Lieferanten können sich über die [Lieferantenregistrierung](page:supplier-registration) bewerben.",
+            "Unsere Managementsysteme für Qualität, Umwelt sowie Sicherheit und Gesundheit bei der Arbeit sind nach ISO 9001:2015, ISO 14001:2015 und ISO 45001:2018 zertifiziert; Details finden Sie auf der Seite [Zertifizierungen](page:certifications). Bei Fragen zu einem der Dokumente oder wenn Sie unterzeichnete Exemplare für eine Ausschreibung oder ein Audit benötigen, [kontaktieren Sie uns](page:contact-us) bitte."
+          ],
+          "image": "company/corporate-office",
+          "image_alt": "Firmensitz von HYT Engineering in Pune",
+          "layout": "image-right"
+        },
+        {
+          "type": "cards",
+          "heading": "Compliance-Dokumente",
+          "cols": 3,
+          "items": [
+            {
+              "page": "code-of-conduct",
+              "icon": "journal-check"
+            },
+            {
+              "page": "guidelines",
+              "icon": "signpost-split"
+            },
+            {
+              "page": "policy-statement",
+              "icon": "file-earmark-text"
+            }
+          ]
+        },
+        {
+          "type": "features",
+          "eyebrow": "In Vorbereitung",
+          "heading": "Weitere Dokumente",
+          "cols": 2,
+          "items": [
+            {
+              "icon": "people",
+              "title": "Verhaltenskodex für Lieferanten",
+              "text": "Die Standards zu Ethik, Arbeitsbedingungen, Sicherheit und Umwelt, die wir von unseren Lieferanten und Nachunternehmern erwarten."
+            },
+            {
+              "icon": "shield-lock",
+              "title": "Informationssicherheit",
+              "text": "Wie wir Kundenzeichnungen, Projektdaten und die Steuerungssysteme der von uns gelieferten Maschinen schützen."
+            }
+          ]
+        },
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "Zur Prüfung durch HYT: Für diesen Bereich sind ein Verhaltenskodex für Lieferanten und eine Erklärung zur Informationssicherheit geplant. Bitte bestätigen Sie, ob diese Dokumente vorliegen, und liefern Sie sie oder geben Sie Entwürfe frei."
+        }
+      ]
+    },
+    "code-of-conduct": {
+      "nav": "Verhaltenskodex",
+      "title": "Verhaltenskodex",
+      "description": "Verhaltenskodex von HYT Engineering: Integrität, Korruptionsbekämpfung, fairer Wettbewerb, Sicherheit, Umwelt, Vertraulichkeit, Menschenrechte, Hinweisgabe.",
+      "eyebrow": "Compliance",
+      "h1": "Verhaltenskodex",
+      "lede": "Dieser Kodex legt die Verhaltensstandards fest, die für alle gelten, die für oder im Namen der HYT Engineering Company Pvt. Ltd. tätig sind.",
+      "summary": "Die Verhaltensstandards für alle, die für oder im Namen von HYT tätig sind.",
+      "blocks": [
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "Zur Prüfung durch HYT: Dieser Verhaltenskodex ist ein Entwurf und muss vor der Veröffentlichung von der Geschäftsleitung und der Rechtsberatung von HYT freigegeben werden. Bitte bestätigen Sie außerdem den Meldeweg für Bedenken (benannte Ansprechperson oder eigene E-Mail-Adresse)."
+        },
+        {
+          "type": "prose",
+          "updated": "Entwurf – Freigabe ausstehend",
+          "sections": [
+            {
+              "heading": "1. Zweck und Geltungsbereich",
+              "paragraphs": [
+                "Die HYT Engineering Company Pvt. Ltd. („HYT“) konstruiert, baut und wartet Maschinen, von denen die Sicherheit im Bahnbetrieb abhängt. Unsere Kunden – viele davon öffentliche Stellen – vertrauen darauf, dass wir ehrlich und verantwortungsvoll handeln. Dieser Kodex erläutert, was das in der Praxis bedeutet.",
+                "Der Kodex gilt für alle Direktoren, Führungskräfte und Mitarbeitenden von HYT, einschließlich befristet Beschäftigter und Vertragspersonal. Ebenso erwarten wir von Vertretern, Beratern, Lieferanten, Nachunternehmern und sonstigen Geschäftspartnern, die in unserem Namen handeln, dass sie gleichwertige Standards einhalten.",
+                "Der Kodex kann nicht jede Situation abdecken. Wo er keine Regelung trifft, handeln Sie mit gesundem Urteilsvermögen, halten Sie sich an das Gesetz und holen Sie im Zweifel Rat ein."
+              ]
+            },
+            {
+              "heading": "2. Integres Handeln",
+              "paragraphs": [
+                "Wir halten alle Gesetze und Vorschriften ein, die für unsere Geschäftstätigkeit in Indien und in jedem Land gelten, in dem wir tätig sind. Weichen örtliche Gepflogenheiten und Gesetz voneinander ab, folgen wir dem Gesetz. Setzt dieser Kodex einen höheren Standard als das Gesetz, folgen wir diesem Kodex."
+              ],
+              "bullets": [
+                "Wir äußern uns ehrlich und zutreffend über unsere Produkte, Leistungen und Fähigkeiten.",
+                "Wir halten gegenüber Kunden gegebene Zusagen ein oder erklären frühzeitig und offen, wenn wir dies nicht können.",
+                "Wir fälschen niemals Aufzeichnungen, Prüfergebnisse, Prüfberichte oder Zertifikate."
+              ]
+            },
+            {
+              "heading": "3. Bekämpfung von Bestechung und Korruption",
+              "paragraphs": [
+                "HYT duldet Bestechung und Korruption in keiner Form. Wir bieten, versprechen, gewähren, fordern oder nehmen keine Zahlungen, Geschenke oder Vorteile an, die eine geschäftliche Entscheidung unzulässig beeinflussen sollen – unabhängig davon, ob es sich bei der anderen Partei um einen Amtsträger oder eine Privatperson handelt.",
+                "Dies gilt gleichermaßen für Zahlungen über Vertreter, Berater, Händler oder Angehörige. Sogenannte Beschleunigungszahlungen, mit denen routinemäßige behördliche Handlungen beschleunigt werden sollen, sind nicht zulässig."
+              ],
+              "bullets": [
+                "Geschenke und Bewirtungen dürfen nur gewährt oder angenommen werden, wenn sie bescheiden, selten und transparent sind und in keinem Zusammenhang mit einer anstehenden Entscheidung stehen – und nur im Einklang mit unseren [Leitlinien für geschäftliches Verhalten](page:guidelines).",
+                "Wir respektieren die Beschaffungsregeln unserer Kunden, einschließlich Integritätspakten und Verhaltenskodizes bei öffentlichen Ausschreibungen.",
+                "Vertreter und Vermittler werden nur nach sorgfältiger Prüfung, auf Grundlage schriftlicher Verträge und für dokumentierte Leistungen zu marktüblichen Honoraren beauftragt.",
+                "Alle Zahlungen werden ordnungsgemäß genehmigt und korrekt verbucht."
+              ]
+            },
+            {
+              "heading": "4. Interessenkonflikte",
+              "paragraphs": [
+                "Ein Interessenkonflikt entsteht, wenn persönliche Interessen – finanzieller, familiärer oder sonstiger Art – Entscheidungen im Namen von HYT beeinflussen oder auch nur den Anschein einer solchen Beeinflussung erwecken könnten.",
+                "Mitarbeitende müssen solche Konflikte nach Möglichkeit vermeiden und jeden tatsächlichen oder möglichen Konflikt ihrer Führungskraft schriftlich offenlegen. Beispiele sind eine finanzielle Beteiligung an einem Lieferanten, Kunden oder Wettbewerber, eine Nebentätigkeit, die mit HYT im Wettbewerb steht, oder die Mitwirkung an einer Einkaufsentscheidung, die einen Angehörigen betrifft."
+              ]
+            },
+            {
+              "heading": "5. Fairer Wettbewerb",
+              "paragraphs": [
+                "Wir gewinnen Aufträge durch die Qualität unserer Maschinen, unseres Service und unserer Preise. Wir halten in jedem Markt, in dem wir tätig sind, das Wettbewerbsrecht ein."
+              ],
+              "bullets": [
+                "Wir sprechen mit Wettbewerbern keine Preise, Angebote, Märkte oder Kunden ab und beteiligen uns nicht an Submissionsabsprachen.",
+                "Wir tauschen keine wettbewerbssensiblen Informationen mit Wettbewerbern aus.",
+                "Informationen über Wettbewerber und Ausschreibungen beschaffen wir ausschließlich auf rechtmäßige und ethisch einwandfreie Weise.",
+                "Wir beschreiben die Produkte von Wettbewerbern fair und zutreffend."
+              ]
+            },
+            {
+              "heading": "6. Sicherheit und Gesundheit",
+              "paragraphs": [
+                "Niemand soll durch die Arbeit für HYT oder durch die Nutzung unserer Maschinen zu Schaden kommen. Unser Managementsystem für Sicherheit und Gesundheit bei der Arbeit ist nach ISO 45001:2018 zertifiziert."
+              ],
+              "bullets": [
+                "Sicherheitsvorschriften, Arbeitsfreigaben und Anweisungen in unserem Werk und auf Kundenbaustellen sind zu befolgen.",
+                "Die für die jeweilige Tätigkeit vorgeschriebene persönliche Schutzausrüstung ist zu tragen.",
+                "Unsichere Arbeiten sind einzustellen; Gefährdungen, Vorfälle und Beinaheunfälle sind unverzüglich zu melden.",
+                "Es wird niemals unter dem Einfluss von Alkohol oder Drogen gearbeitet.",
+                "Maschinen werden so konstruiert, dass die Sicherheit von Bedien- und Instandhaltungspersonal eine vorrangige Anforderung ist."
+              ]
+            },
+            {
+              "heading": "7. Umwelt",
+              "paragraphs": [
+                "Wir arbeiten daran, die Umweltauswirkungen unserer Tätigkeit und unserer Produkte zu verringern. Unser Umweltmanagementsystem ist nach ISO 14001:2015 zertifiziert."
+              ],
+              "bullets": [
+                "Umweltgesetze und -genehmigungen sind einzuhalten.",
+                "Energie, Material und Wasser sind effizient zu nutzen.",
+                "Öle, Kühlschmierstoffe, Chemikalien und Abfälle sind sachgerecht zu handhaben, zu lagern und zu entsorgen.",
+                "Bei der Konstruktion von Maschinen sind Energieverbrauch, Lärm und Recyclingfähigkeit zu berücksichtigen."
+              ]
+            },
+            {
+              "heading": "8. Vertrauliche Informationen und geistiges Eigentum",
+              "paragraphs": [
+                "Unsere Konstruktionen, Zeichnungen, Software, Preise und unser Know-how sind wertvolle Vermögenswerte. Auch Kunden und Lieferanten vertrauen uns vertrauliche Informationen an, darunter Zeichnungen, Infrastrukturdaten und Projektunterlagen."
+              ],
+              "bullets": [
+                "Vertrauliche Informationen dürfen nur für den Zweck verwendet werden, für den sie bereitgestellt wurden.",
+                "Sie dürfen nur an Personen weitergegeben werden, die sie für ihre Arbeit benötigen und zum Empfang berechtigt sind.",
+                "Das geistige Eigentum Dritter, einschließlich Softwarelizenzen, ist zu respektieren.",
+                "Vertraulichkeitspflichten bestehen auch nach Beendigung des Arbeitsverhältnisses mit HYT fort."
+              ]
+            },
+            {
+              "heading": "9. Datenschutz und Informationssicherheit",
+              "paragraphs": [
+                "Wir erheben und verwenden personenbezogene Daten – von Mitarbeitenden, Kunden, Bewerbern und Lieferanten – nur für berechtigte geschäftliche Zwecke, schützen sie und bewahren sie nicht länger als nötig auf, im Einklang mit dem geltenden Datenschutzrecht und unserer [Datenschutzerklärung](page:privacy-policy).",
+                "Alle müssen die Systeme und Daten des Unternehmens schützen: starke Passwörter verwenden, keine Konten teilen, vermutete Sicherheitsvorfälle umgehend melden und beim Fernzugriff auf Maschinensteuerungen besondere Sorgfalt walten lassen."
+              ]
+            },
+            {
+              "heading": "10. Menschenrechte und faire Arbeitsbedingungen",
+              "paragraphs": [
+                "Wir achten die Menschenrechte unserer Mitarbeitenden und aller, die von unserer Geschäftstätigkeit betroffen sind."
+              ],
+              "bullets": [
+                "Wir setzen keine Kinderarbeit, Zwangsarbeit oder Schuldknechtschaft ein und dulden sie auch nicht in unserer Lieferkette.",
+                "Wir behandeln Menschen mit Würde und dulden keine Belästigung, kein Mobbing und keine Diskriminierung – gleich aus welchem Grund, einschließlich Geschlecht, Kaste, Religion, ethnischer Herkunft, Alter, Behinderung oder sexueller Orientierung.",
+                "Wir zahlen mindestens die gesetzlich vorgeschriebenen Löhne und Leistungen und halten die Arbeitszeitvorschriften ein.",
+                "Wir respektieren das gesetzliche Recht der Mitarbeitenden, Vereinigungen beizutreten oder ihnen fernzubleiben."
+              ]
+            },
+            {
+              "heading": "11. Firmeneigentum und korrekte Aufzeichnungen",
+              "paragraphs": [
+                "Betriebsmittel, Materialien, Fahrzeuge und finanzielle Mittel des Unternehmens sind für berechtigte geschäftliche Zwecke zu verwenden und vor Verlust, Diebstahl und Missbrauch zu schützen. Bücher, Aufzeichnungen und Berichte müssen vollständig und korrekt sein und im Einklang mit den geltenden Rechnungslegungsstandards und Gesetzen erstellt werden."
+              ]
+            },
+            {
+              "heading": "12. Bedenken melden",
+              "paragraphs": [
+                "Wer einen Verstoß gegen diesen Kodex, gegen Gesetze oder gegen Unternehmensrichtlinien vermutet, wird ermutigt, dies so früh wie möglich anzusprechen. Bedenken können gegenüber der direkten Führungskraft, der Personalabteilung oder einem Mitglied der Geschäftsleitung geäußert werden. Geschäftspartner und Dritte können an HYT Engineering Company Pvt. Ltd., 29/10, 29/10/1, 29/10/2, D-II Block, MIDC Chinchwad, Pune 411019, India, schreiben oder eine E-Mail an info@hytengineering.com senden und die Nachricht mit „Vertraulich – Verhaltenskodex“ kennzeichnen.",
+                "Jede Meldung wird ernst genommen, im gesetzlich zulässigen Rahmen vertraulich behandelt und fair untersucht."
+              ]
+            },
+            {
+              "heading": "13. Keine Benachteiligung",
+              "paragraphs": [
+                "HYT duldet keine Vergeltungsmaßnahmen gegen Personen, die in gutem Glauben Bedenken melden oder an einer Untersuchung mitwirken – auch dann nicht, wenn sich die Bedenken als unbegründet erweisen. Vergeltungsmaßnahmen sind selbst ein schwerwiegender Verstoß gegen diesen Kodex."
+              ]
+            },
+            {
+              "heading": "14. Einhaltung dieses Kodex",
+              "paragraphs": [
+                "Führungskräfte sind dafür verantwortlich, dass ihre Teams diesen Kodex verstehen und einhalten. Verstöße können disziplinarische Maßnahmen bis hin zur Kündigung und bei Geschäftspartnern die Beendigung der Geschäftsbeziehung nach sich ziehen. Bei Gesetzesverstößen kann HYT die zuständigen Behörden informieren.",
+                "Dieser Kodex wird regelmäßig überprüft und bei Bedarf aktualisiert. Praktische Hinweise zu seiner Anwendung enthalten unsere [Leitlinien für geschäftliches Verhalten](page:guidelines); unsere Verpflichtungen zu Qualität, Umwelt sowie Sicherheit und Gesundheit sind in der [Grundsatzerklärung](page:policy-statement) festgelegt."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "guidelines": {
+      "nav": "Leitlinien",
+      "title": "Leitlinien für geschäftliches Verhalten",
+      "description": "Praxisleitfaden für HYT-Mitarbeitende und -Partner: Geschenke, Bewirtung, öffentliche Ausschreibungen, Vertreter, Exportkontrolle, Baustellen, Kommunikation.",
+      "eyebrow": "Compliance",
+      "h1": "Leitlinien für geschäftliches Verhalten",
+      "lede": "Diese Leitlinien übersetzen die Grundsätze unseres Verhaltenskodex in praktische Regeln für alltägliche Situationen in Vertrieb, Einkauf, Projekten und Service.",
+      "summary": "Praktische Regeln zu Geschenken, Ausschreibungen, Vertretern, Exportkontrolle, Verhalten auf Baustellen und Aufzeichnungen.",
+      "blocks": [
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "Zur Prüfung durch HYT: Die Menübezeichnung „Leitlinien“ (engl. „Guidelines“) ist unspezifisch; diese Seite trägt den Titel „Leitlinien für geschäftliches Verhalten“. Bitte bestätigen Sie die Bezeichnung und den vorgesehenen Inhalt und stimmen Sie den Text (einschließlich etwaiger Wertgrenzen für Geschenke und Bewirtung) mit der Geschäftsleitung und der Rechtsberatung ab."
+        },
+        {
+          "type": "prose",
+          "updated": "Entwurf – Freigabe ausstehend",
+          "sections": [
+            {
+              "heading": "1. Anwendung dieser Leitlinien",
+              "paragraphs": [
+                "Diese Leitlinien ergänzen den [Verhaltenskodex](page:code-of-conduct) und gelten für denselben Personenkreis: alle, die für HYT tätig sind, sowie Partner, die in unserem Namen handeln. Ist eine Situation nicht geregelt, fragen Sie sich: Ist es legal? Ist es mit dem Kodex vereinbar? Wäre es mir recht, wenn unser Kunde davon erführe oder es veröffentlicht würde? Lautet die Antwort auf eine dieser Fragen Nein oder sind Sie unsicher, fragen Sie Ihre Führungskraft, bevor Sie handeln."
+              ]
+            },
+            {
+              "heading": "2. Geschenke und Bewirtung",
+              "paragraphs": [
+                "Bescheidene Geschenke und Bewirtungen können gute Geschäftsbeziehungen fördern, dürfen aber niemals eine Verpflichtung oder auch nur deren Anschein begründen."
+              ],
+              "bullets": [
+                "Nehmen Sie nur Zuwendungen von geringem Wert an oder bieten Sie nur solche an – etwa Werbeartikel, übliche Geschäftsessen oder Süßigkeiten zu Festtagen – innerhalb der von der Geschäftsleitung festgelegten Grenzen.",
+                "Geben oder nehmen Sie niemals Bargeld, bargeldähnliche Mittel, Gutscheine, Darlehen oder persönliche Gefälligkeiten.",
+                "Bieten Sie Mitarbeitenden eines Kunden, die an einer laufenden Ausschreibung, Prüfung oder Abnahmeentscheidung beteiligt sind, keine Geschenke oder Bewirtungen an.",
+                "Beachten Sie die Regeln der Organisation des Empfängers – viele öffentliche Stellen untersagen Geschenke vollständig.",
+                "Dokumentieren Sie Geschenke und Bewirtungen oberhalb der vereinbarten Schwelle und informieren Sie Ihre Führungskraft."
+              ]
+            },
+            {
+              "heading": "3. Zusammenarbeit mit öffentlichen Auftraggebern und Ausschreibungen",
+              "paragraphs": [
+                "Viele unserer Kunden sind öffentliche Bahn- und Metrobehörden. Ihre Beschaffungsregeln sollen Fairness und einen wirtschaftlichen Einsatz öffentlicher Mittel gewährleisten – wir respektieren sie uneingeschränkt."
+              ],
+              "bullets": [
+                "Reichen Sie wahrheitsgemäße, vollständige Ausschreibungsunterlagen und technische Daten ein.",
+                "Halten Sie Integritätspakte, Verfahren vor der Angebotsabgabe und die vom Kunden festgelegten Kommunikationsregeln ein.",
+                "Suchen oder verwenden Sie keine vertraulichen Informationen über eine Ausschreibung oder das Angebot eines Wettbewerbers.",
+                "Sprechen Sie mit Amtsträgern, die an Entscheidungen mit Bezug zu HYT beteiligt sind, nicht über Beschäftigungsmöglichkeiten.",
+                "Melden Sie jede Aufforderung zu einer unzulässigen Zahlung unverzüglich und lehnen Sie sie ab."
+              ]
+            },
+            {
+              "heading": "4. Vertreter, Berater und Partner",
+              "bullets": [
+                "Beauftragen Sie Vermittler nur für echte, dokumentierte Leistungen und nach einer Hintergrundprüfung.",
+                "Verwenden Sie schriftliche Verträge mit Antikorruptions- und Compliance-Klauseln.",
+                "Zahlen Sie Honorare, die dem Leistungsumfang angemessen sind, auf Konten, die auf den Namen des Vertragspartners lauten und in dem Land geführt werden, in dem die Leistungen erbracht werden.",
+                "Achten Sie auf Warnsignale wie Forderungen nach ungewöhnlichen Zahlungen, Bargeld oder Geheimhaltung."
+              ]
+            },
+            {
+              "heading": "5. Einkauf und Lieferanten",
+              "bullets": [
+                "Wählen Sie Lieferanten nach Qualität, Termintreue, Preis, Sicherheit und ethischem Verhalten aus.",
+                "Behandeln Sie alle Lieferanten fair und wahren Sie die Vertraulichkeit ihrer Angebote.",
+                "Legen Sie persönliche Beziehungen zu einem Lieferanten offen und halten Sie sich aus der Entscheidung heraus.",
+                "Erwarten Sie von Lieferanten die Einhaltung der Standards unseres Verhaltenskodex; neue Lieferanten können sich über die [Lieferantenregistrierung](page:supplier-registration) registrieren."
+              ]
+            },
+            {
+              "heading": "6. Export, Sanktionen und Zoll",
+              "paragraphs": [
+                "Maschinen, Ersatzteile, Software und technische Daten können in Indien und anderen Ländern Exportkontroll-, Sanktions- und Zollvorschriften unterliegen. Prüfen Sie Endverwendung, Endverwender und Bestimmungsland, bevor Sie einem neuen Kunden oder in ein neues Land anbieten oder liefern, melden Sie Waren korrekt beim Zoll an und holen Sie Rat ein, wenn etwas unklar ist."
+              ]
+            },
+            {
+              "heading": "7. Verhalten auf Kundenbaustellen",
+              "bullets": [
+                "Befolgen Sie ausnahmslos die Sicherheitsregeln, Arbeitsfreigabeverfahren und Gleiszugangsregelungen des Kunden.",
+                "Tragen Sie die vorgeschriebene persönliche Schutzausrüstung und verwenden Sie nur zugelassene Werkzeuge und Hebezeuge.",
+                "Gehen Sie mit Räumlichkeiten, Anlagen und Informationen des Kunden sorgsam um.",
+                "Melden Sie Vorfälle, Beinaheunfälle und Schäden unverzüglich dem Kunden und HYT."
+              ]
+            },
+            {
+              "heading": "8. Aufzeichnungen, Dokumente und Berichte",
+              "bullets": [
+                "Erfassen Sie jeden Geschäftsvorfall korrekt und zeitnah.",
+                "Verändern Sie niemals Prüfergebnisse, Testberichte, Stundenzettel oder Spesenabrechnungen.",
+                "Bewahren Sie Dokumente für die gesetzlich und vertraglich vorgeschriebenen Fristen auf.",
+                "Vernichten Sie keine Dokumente, die für ein Audit, eine Untersuchung oder ein Gerichtsverfahren von Bedeutung sein können."
+              ]
+            },
+            {
+              "heading": "9. Kommunikation und soziale Medien",
+              "bullets": [
+                "Nur autorisierte Personen dürfen mit den Medien sprechen oder Erklärungen im Namen von HYT veröffentlichen.",
+                "Veröffentlichen Sie ohne Genehmigung keine vertraulichen Informationen, Kundendaten, Baustellenfotos oder Zeichnungen in sozialen Medien.",
+                "Machen Sie deutlich, dass persönliche Meinungen Ihre eigenen sind."
+              ]
+            },
+            {
+              "heading": "10. IT und Informationssicherheit",
+              "bullets": [
+                "Nutzen Sie die IT-Systeme des Unternehmens für geschäftliche Zwecke und im Einklang mit den Unternehmensregeln.",
+                "Schützen Sie Passwörter und teilen Sie keine Konten.",
+                "Seien Sie wachsam gegenüber Phishing und melden Sie verdächtige Nachrichten.",
+                "Verbinden Sie sich nur mit Genehmigung und mit zugelassenen Werkzeugen mit Maschinen und Netzwerken von Kunden."
+              ]
+            },
+            {
+              "heading": "11. Rat einholen und Bedenken melden",
+              "paragraphs": [
+                "Wenn Sie unsicher sind, wie Sie handeln sollen, fragen Sie Ihre Führungskraft, die Personalabteilung oder die Geschäftsleitung. Bedenken wegen möglicher Verstöße können über die in Abschnitt 12 des [Verhaltenskodex](page:code-of-conduct) beschriebenen Wege gemeldet werden. Niemand erleidet Nachteile, weil er in gutem Glauben Bedenken äußert."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "policy-statement": {
+      "nav": "Grundsatzerklärung",
+      "title": "Politik für Qualität, Umwelt und Arbeitsschutz",
+      "description": "Integrierte Politik von HYT für Qualität, Umwelt und Arbeitsschutz nach ISO 9001, 14001 und 45001 – mit unserer Verpflichtung zur Korruptionsbekämpfung.",
+      "eyebrow": "Compliance",
+      "h1": "Integrierte Grundsatzerklärung",
+      "lede": "Unsere Verpflichtungen zu Qualität, Umwelt, Sicherheit und Gesundheit bei der Arbeit sowie zu geschäftlicher Integrität – im Einklang mit unseren Managementsystemen nach ISO 9001, ISO 14001 und ISO 45001.",
+      "summary": "Unsere integrierten Verpflichtungen zu Qualität, Umwelt, Arbeitsschutz und Korruptionsbekämpfung.",
+      "blocks": [
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "Zur Prüfung durch HYT: Bitte bestätigen Sie, welche Richtlinien HYT hier veröffentlichen möchte (integrierte QHSE-Politik, separate Richtlinien, Antikorruptionsrichtlinie), geben Sie den Wortlaut frei und nennen Sie Name und Funktion der unterzeichnenden Person sowie das Ausgabedatum."
+        },
+        {
+          "type": "prose",
+          "updated": "Entwurf – Freigabe ausstehend",
+          "sections": [
+            {
+              "heading": "Unser Auftrag",
+              "paragraphs": [
+                "Die HYT Engineering Company Pvt. Ltd. konstruiert, fertigt, installiert und wartet CNC-Radsatzdrehmaschinen, Maschinen für die Radsatzwerkstatt, Betriebswerkausrüstung und schlüsselfertige Werkstätten für Bahnen, Metros und die Industrie. Die Maschinen, die wir bauen, tragen zur Sicherheit von Schienenfahrzeugen bei. Diese Verantwortung prägt, wie wir Qualität, Umwelt sowie Sicherheit und Gesundheit aller an unserer Arbeit Beteiligten managen."
+              ]
+            },
+            {
+              "heading": "Qualität",
+              "paragraphs": [
+                "Wir verpflichten uns, Maschinen und Leistungen zu liefern, die die Kundenanforderungen und die geltenden Normen erfüllen – termingerecht und mit vollständiger Dokumentation. Dazu werden wir:"
+              ],
+              "bullets": [
+                "Kundenanforderungen verstehen und prüfen, bevor wir uns zu ihnen verpflichten;",
+                "Konstruktion, Einkauf, Fertigung, Montage und Service über dokumentierte Prozesse steuern;",
+                "unsere Maschinen durch Inspektion und Prüfung verifizieren, einschließlich der Abnahme an Radsätzen des Kunden;",
+                "die Kundenzufriedenheit messen und aus Rückmeldungen und Abweichungen lernen;",
+                "die Wirksamkeit unseres Qualitätsmanagementsystems nach ISO 9001:2015 fortlaufend verbessern."
+              ]
+            },
+            {
+              "heading": "Umwelt",
+              "paragraphs": [
+                "Wir verpflichten uns, die Umwelt zu schützen und Umweltbelastungen in unserer gesamten Tätigkeit und bei unseren Produkten zu vermeiden. Dazu werden wir:"
+              ],
+              "bullets": [
+                "die geltenden Umweltgesetze, Genehmigungen und sonstigen Anforderungen einhalten;",
+                "Energie, Wasser und Material effizient nutzen;",
+                "Abfälle minimieren und Öle, Kühlschmierstoffe und Gefahrstoffe sicher handhaben;",
+                "die Umweltleistung bei der Konstruktion von Maschinen und der Auswahl von Lieferanten berücksichtigen;",
+                "unser Umweltmanagementsystem nach ISO 14001:2015 fortlaufend verbessern."
+              ]
+            },
+            {
+              "heading": "Sicherheit und Gesundheit bei der Arbeit",
+              "paragraphs": [
+                "Wir verpflichten uns, sichere und gesunde Arbeitsbedingungen zu schaffen, um arbeitsbedingte Verletzungen und Erkrankungen zu verhindern – in unserem Werk und auf Kundenbaustellen. Dazu werden wir:"
+              ],
+              "bullets": [
+                "die geltenden Arbeitsschutzgesetze und die Baustellenregeln der Kunden einhalten;",
+                "Gefährdungen ermitteln, Risiken beurteilen und sie nach der Rangfolge der Schutzmaßnahmen beseitigen oder verringern;",
+                "Schulungen, Informationen und geeignete Schutzausrüstung bereitstellen;",
+                "Mitarbeitende und ihre Vertretungen in Sicherheitsfragen konsultieren und beteiligen;",
+                "unsere Maschinen mit Blick auf die Sicherheit von Bedien- und Instandhaltungspersonal konstruieren;",
+                "unser Managementsystem für Sicherheit und Gesundheit bei der Arbeit nach ISO 45001:2018 fortlaufend verbessern."
+              ]
+            },
+            {
+              "heading": "Geschäftliche Integrität und Korruptionsbekämpfung",
+              "paragraphs": [
+                "Wir verpflichten uns zu ehrlichem und fairem Geschäftsgebaren. HYT verbietet Bestechung und Korruption in jeder Form – ob gegenüber Amtsträgern oder privaten Parteien, direkt oder über Vermittler. Wir halten die geltenden Antikorruptions- und Wettbewerbsgesetze ein und respektieren die Beschaffungsregeln unserer Kunden. Diese Verpflichtungen sind in unserem [Verhaltenskodex](page:code-of-conduct) und unseren [Leitlinien für geschäftliches Verhalten](page:guidelines) erläutert."
+              ]
+            },
+            {
+              "heading": "Umsetzung dieser Politik",
+              "paragraphs": [
+                "Die Geschäftsleitung legt im Rahmen dieser Politik messbare Ziele fest, stellt die zu ihrer Erreichung erforderlichen Ressourcen bereit und überprüft die Ergebnisse regelmäßig. Alle Mitarbeitenden sind dafür verantwortlich, im Einklang mit dieser Politik zu arbeiten; dasselbe erwarten wir von unseren Lieferanten und Nachunternehmern.",
+                "Diese Politik wird allen Mitarbeitenden bekannt gemacht, interessierten Parteien auf dieser Website zur Verfügung gestellt und regelmäßig daraufhin überprüft, ob sie weiterhin angemessen ist. Angaben zu unseren Zertifikaten finden Sie auf der Seite [Zertifizierungen](page:certifications)."
+              ]
+            },
+            {
+              "heading": "Herausgegeben von",
+              "paragraphs": [
+                "Geschäftsleitung, HYT Engineering Company Pvt. Ltd., Pune"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

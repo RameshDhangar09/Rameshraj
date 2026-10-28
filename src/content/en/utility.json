@@ -1,0 +1,128 @@
+{
+  "pages": {
+    "contact-us": {
+      "nav": "Contact Us",
+      "title": "Contact HYT Engineering",
+      "description": "Contact HYT Engineering in Pune, New Delhi or at SAFOP in Italy about CNC wheel lathes, wheel shops, turnkey workshops or service. We respond within 24 hours.",
+      "eyebrow": "Contact us",
+      "h1": "Let's start a conversation",
+      "lede": "Whether you're planning a new wheel shop, need service support on existing machinery, or want to explore a partnership – our team is ready to respond within 24 hours.",
+      "summary": "Our locations in Pune, New Delhi and Pordenone (Italy), telephone, email and enquiry form.",
+      "blocks": [
+        {
+          "type": "contact",
+          "id": "locations"
+        },
+        {
+          "type": "form",
+          "id": "enquiry",
+          "form": "enquiry",
+          "eyebrow": "Contact form",
+          "heading": "Drop us a message",
+          "intro": "Tell us about your fleet, your workshop or the problem you need to solve. Helpful details include vehicle types, wheel diameter range, track gauge and expected wheelsets per shift."
+        },
+        {
+          "type": "split_cta",
+          "items": [
+            {"icon": "headset", "heading": "After-sales service", "text": "Machine down or need spare parts? Find the right service contact for your installation.", "label": "Service network", "page": "service-centers"},
+            {"icon": "truck", "heading": "Suppliers", "text": "Want to supply components or services to HYT? Register your company with our purchasing team.", "label": "Supplier registration", "page": "supplier-registration"},
+            {"icon": "briefcase", "heading": "Careers", "text": "Looking for a role in engineering, manufacturing or service? Apply through our careers page.", "label": "View careers", "page": "career"}
+          ]
+        }
+      ]
+    },
+
+    "sitemap": {
+      "nav": "Sitemap",
+      "title": "Sitemap – All Pages",
+      "description": "Every page of the HYT Engineering website in one list: company, products, turnkey projects, services, industries, media, careers and legal information.",
+      "eyebrow": "Site information",
+      "h1": "Sitemap",
+      "lede": "All pages of this website, grouped by section. Type in the search box to filter the list.",
+      "summary": "An overview of every page on the HYT Engineering website.",
+      "blocks": [
+        {
+          "type": "sitemap",
+          "heading": "All pages"
+        },
+        {
+          "type": "cards",
+          "eyebrow": "Popular starting points",
+          "heading": "Not sure where to begin?",
+          "cols": 4,
+          "items": [
+            {"page": "products", "icon": "grid-3x3-gap"},
+            {"page": "services", "icon": "tools"},
+            {"page": "knowledge-centre", "icon": "lightbulb"},
+            {"page": "contact-us", "icon": "envelope"}
+          ]
+        }
+      ]
+    },
+
+    "thank-you": {
+      "nav": "Thank You",
+      "title": "Thank You – Submission Received",
+      "description": "Thank you for contacting HYT Engineering. Your submission has been received; here is what happens next and where to read more while you wait for our reply.",
+      "eyebrow": "Submission received",
+      "h1": "Thank you – we have received your details",
+      "lede": "Whether you sent an enquiry, requested a catalogue, registered as a supplier or applied for a job, your submission has reached the right team at HYT.",
+      "summary": "Confirmation that your submission has been received and what happens next.",
+      "blocks": [
+        {
+          "type": "steps",
+          "eyebrow": "What happens next",
+          "heading": "Three steps from here",
+          "items": [
+            {"title": "Acknowledgement", "text": "Your submission is logged and passed to the responsible team – sales, service, purchasing or HR."},
+            {"title": "Review by a specialist", "text": "An HYT specialist reviews what you sent. If we need more information, such as wheel profiles or drawings, we will ask."},
+            {"title": "Response", "text": "We reply by email or telephone. For product enquiries this may be a recommendation, a meeting request or a technical proposal."}
+          ]
+        },
+        {
+          "type": "text",
+          "eyebrow": "Need us sooner?",
+          "heading": "Urgent matters",
+          "paragraphs": [
+            "If a machine is down or your enquiry is time-critical, please call us during office hours on +91 20 6634 3900 or the toll-free line 1800 2100 456, and quote the details you submitted. You can also write to info@hytengineering.com."
+          ]
+        },
+        {
+          "type": "cards",
+          "eyebrow": "While you wait",
+          "heading": "Continue exploring",
+          "cols": 3,
+          "items": [
+            {"page": "products", "icon": "grid-3x3-gap"},
+            {"page": "knowledge-centre", "icon": "lightbulb"},
+            {"page": "turnkey-project", "icon": "building-gear"}
+          ]
+        }
+      ]
+    },
+
+    "404": {
+      "nav": "Page Not Found",
+      "title": "Page Not Found",
+      "description": "The page you were looking for on the HYT Engineering website could not be found. It may have moved – use these links to find products, services or contacts.",
+      "eyebrow": "Error 404",
+      "h1": "Page not found",
+      "lede": "The page you were looking for does not exist or has moved. Our website has been reorganised, so some older addresses have changed.",
+      "summary": "The requested page could not be found.",
+      "blocks": [
+        {
+          "type": "cards",
+          "heading": "Try one of these pages",
+          "intro": "You can also browse the complete [sitemap](page:sitemap) to find what you need.",
+          "cols": 4,
+          "items": [
+            {"page": "home", "icon": "house"},
+            {"page": "products", "icon": "grid-3x3-gap"},
+            {"page": "services", "icon": "tools"},
+            {"page": "contact-us", "icon": "envelope"}
+          ]
+        }
+      ]
+    }
+  }
+}

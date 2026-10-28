@@ -1,0 +1,387 @@
+{
+  "pages": {
+    "home": {
+      "nav": "Accueil",
+      "title": "Tours à roues CNC & solutions d’ateliers ferroviaires",
+      "description": "HYT Engineering construit des tours à roues CNC en fosse, à portique et en surface, des machines d’atelier d’essieux et des ateliers ferroviaires clés en main.",
+      "eyebrow": "Machines-outils ferroviaires · Depuis 1977",
+      "h1": "Solutions pour la production et la maintenance du matériel roulant",
+      "lede": "Du premier tour à roues que nous avons conçu aux ateliers d’essieux complets en service aujourd’hui, HYT conçoit, construit, installe et entretient les machines qui permettent aux locomotives, voitures, métros et wagons de rouler en toute sécurité.",
+      "summary": "HYT Engineering – machines-outils ferroviaires et solutions d’atelier depuis 1977.",
+      "blocks": [
+        {
+          "type": "stats",
+          "items": [
+            {
+              "value": "49+",
+              "label": "Années d’excellence dans l’industrie ferroviaire"
+            },
+            {
+              "value": "1 100+",
+              "label": "Machines livrées dans le monde entier"
+            },
+            {
+              "value": "16 000+",
+              "label": "Mètres carrés de surface de production"
+            },
+            {
+              "value": "360°",
+              "label": "Conception, fabrication, installation et service sous un même toit"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "eyebrow": "Qui sommes-nous",
+          "heading": "La précision qui fait rouler les flottes",
+          "paragraphs": [
+            "Une roue ferroviaire porte plusieurs tonnes sur une surface de contact de la taille d’une pièce de monnaie. Son profil détermine le confort de roulement, l’usure du rail, la consommation d’énergie et – avant tout – la sécurité. La raison d’être de HYT Engineering : rétablir ce profil rapidement et avec précision, et fournir aux ateliers les machines dont ils ont besoin pour construire et réviser les essieux montés en toute confiance.",
+            "Depuis notre siège de Pune, en Inde, nous nous consacrons depuis plus de quarante ans à une seule discipline : l’usinage des roues et essieux ferroviaires. Nos ingénieurs conçoivent chaque machine en interne, la fabriquent dans nos propres ateliers, la mettent en service sur site et l’accompagnent pendant des décennies après la réception."
+          ],
+          "bullets": [
+            "Une spécialisation dans l’usinage des essieux montés et les équipements d’atelier",
+            "Des machines conçues pour les profils de roue et les écartements indiens et internationaux",
+            "Un interlocuteur unique, du plan de fondation au service sur toute la durée de vie"
+          ],
+          "image": "company/manufacturing-facility",
+          "image_alt": "Illustration d’exemple d’un hall de montage avec un tour à roues ferroviaire en cours de construction",
+          "layout": "image-right",
+          "video": {
+            "embed": "https://www.canva.com/design/DAHYJ-LJa_w/Rb5Ihk5HNeqx7aHRnmLx_A/watch?embed",
+            "title": "HYT Engineering – film d’entreprise",
+            "poster_src": "/assets/images/homepage/corporate-video-poster.jpg",
+            "poster_w": 620,
+            "poster_h": 350
+          }
+        },
+        {
+          "type": "cards",
+          "eyebrow": "Gamme de produits",
+          "heading": "Des machines pour chaque étape de la vie de l’essieu monté",
+          "intro": "Quatre familles de produits couvrent le reprofilage en exploitation, la production en atelier d’essieux, le soutien aux ateliers de maintenance et des technologies spécialisées de nos partenaires.",
+          "cols": 4,
+          "items": [
+            {
+              "page": "products",
+              "anchor": "wheel-lathes",
+              "title": "Tours à roues",
+              "text": "Tours CNC en fosse, tandem, en surface et à portique pour un reprofilage rapide et précis des essieux montés.",
+              "image": "products/underfloor-wheel-lathe-yul-08"
+            },
+            {
+              "page": "products",
+              "anchor": "wheel-axle-shop-machines",
+              "title": "Machines pour ateliers d’essieux",
+              "text": "Tournage vertical, tournage et galetage d’essieux, calage des roues à la presse, mesure et équilibrage.",
+              "image": "products/vertical-turning-boring-machine"
+            },
+            {
+              "page": "products",
+              "anchor": "depot-workshop-equipment",
+              "title": "Équipements de dépôt et d’atelier",
+              "text": "Machines pour induits, installations automatiques de lavage de trains et locotracteurs rail-route.",
+              "image": "products/automated-train-washing-plant"
+            },
+            {
+              "page": "products",
+              "anchor": "partner-products",
+              "title": "Produits partenaires",
+              "text": "Distribution exclusive des technologies de glissement SKC Gleittechnik (Allemagne).",
+              "image": "products/skc-partner-products"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "id": "underfloor-wheel-lathes",
+          "eyebrow": "Technologie phare",
+          "heading": "Tours en fosse CNC",
+          "paragraphs": [
+            "Un tour en fosse reprofile les roues sans déposer l’essieu monté du véhicule. Le train est amené au-dessus d’une fosse, l’essieu est soulevé sur des galets d’entraînement et les deux roues sont usinées simultanément – sans descente de bogie, sans dépose de la timonerie de frein, sans longue immobilisation.",
+            "Les tours en fosse HYT associent des structures de machine rigides à une mesure automatique du profil : la CNC n’enlève que la matière strictement nécessaire. Résultat : davantage de cycles de reprofilage par roue, une durée de vie des roues prolongée et plus de trains disponibles pour l’exploitation."
+          ],
+          "bullets": [
+            "Machines simples (YUL-08, YUGL) et paires tandem synchronisées (YUL-12T, YUGLX)",
+            "Usinage simultané des deux roues de l’essieu monté",
+            "Pour locomotives, voitures, automotrices, voitures de métro et wagons"
+          ],
+          "image": "products/tandem-underfloor-wheel-lathe-yul-12t",
+          "image_alt": "HYT Tour en fosse tandem CNC (YUL-12T)",
+          "layout": "image-left",
+          "link": {
+            "label": "Découvrir les tours en fosse",
+            "page": "underfloor-wheel-lathe"
+          },
+          "slides": [
+            "underfloor-wheel-lathe",
+            "underfloor-wheel-lathe-yugl",
+            "tandem-underfloor-wheel-lathe",
+            "tandem-underfloor-wheel-lathe-yuglx"
+          ]
+        },
+        {
+          "type": "text",
+          "id": "vertical-turning-axle",
+          "eyebrow": "Atelier d’essieux",
+          "heading": "Tours verticaux et usinage des essieux",
+          "paragraphs": [
+            "Les essieux montés neufs et les grandes révisions commencent à l’atelier d’essieux. Nos tours verticaux et aléseuses CNC finissent toiles de roue, bandages et alésages avec des tolérances serrées, tandis que des tours à essieux dédiés tournent et galetent les fusées pour des portées de roulement fiables.",
+            "Associées aux presses de calage, aux postes de mesure et aux équilibreuses dynamiques, ces machines forment un processus complet et traçable, de la pièce brute à l’essieu monté certifié."
+          ],
+          "image": "products/vertical-turning-boring-machine",
+          "image_alt": "HYT Tour vertical CNC de tournage et d'alésage (YVM-04)",
+          "layout": "image-right",
+          "link": {
+            "label": "Voir les machines pour ateliers d’essieux",
+            "page": "products",
+            "anchor": "wheel-axle-shop-machines"
+          },
+          "slides": [
+            "vertical-turning-boring-machine",
+            "axle-journal-turning-burnishing-lathe",
+            "axle-turning-lathe",
+            "wheel-measuring-station"
+          ]
+        },
+        {
+          "type": "steps",
+          "eyebrow": "Ateliers clés en main",
+          "heading": "Un seul partenaire, du bâtiment vide à l’atelier en service",
+          "intro": "Lorsqu’un exploitant ferroviaire ou de métro a besoin d’une installation complète, HYT prend en charge toute la chaîne : un seul plan, un seul calendrier et un seul responsable.",
+          "items": [
+            {
+              "title": "Étude & implantation",
+              "text": "Analyse du parc, flux de processus et choix des machines en fonction du débit visé."
+            },
+            {
+              "title": "Interface génie civil",
+              "text": "Plans de fosse, de fondation et d’ancrage des rails coordonnés avec votre entreprise de génie civil."
+            },
+            {
+              "title": "Fourniture & installation",
+              "text": "Machines, systèmes de manutention et commandes livrés, installés et intégrés."
+            },
+            {
+              "title": "Mise en service & formation",
+              "text": "Validation sur vos propres essieux montés, avec formation sur site des opérateurs et des techniciens de maintenance."
+            },
+            {
+              "title": "Accompagnement à vie",
+              "text": "Contrats de maintenance, pièces de rechange et mises à niveau pour les décennies suivantes."
+            }
+          ],
+          "link": {
+            "label": "Découvrir les projets clés en main",
+            "page": "turnkey-project"
+          },
+          "variant": "navy"
+        },
+        {
+          "type": "cards",
+          "eyebrow": "Secteurs desservis",
+          "heading": "Conçu pour ceux qui garantissent la sécurité du matériel roulant",
+          "cols": 5,
+          "items": [
+            {
+              "page": "ind-railways",
+              "image": "industries/railways"
+            },
+            {
+              "page": "ind-metros",
+              "image": "industries/metros"
+            },
+            {
+              "page": "ind-rolling-stock",
+              "image": "industries/rolling-stock-manufacturers"
+            },
+            {
+              "page": "ind-defence",
+              "image": "industries/defence"
+            },
+            {
+              "page": "ind-heavy-engineering",
+              "image": "industries/heavy-engineering"
+            }
+          ]
+        },
+        {
+          "type": "features",
+          "eyebrow": "Service & maintenance",
+          "heading": "Un accompagnement aussi durable que la machine",
+          "intro": "Un tour à roues est un équipement critique : lorsqu’il s’arrête, les trains attendent. Notre organisation de service est conçue pour maintenir vos machines productives pendant toute leur durée de vie.",
+          "cols": 3,
+          "items": [
+            {
+              "icon": "tools",
+              "title": "Installation & mise en service",
+              "text": "Contrôle des fondations, alignement, essais de réception et remise documentée."
+            },
+            {
+              "icon": "clipboard-check",
+              "title": "Contrats AMC & CMC",
+              "text": "Maintenance préventive planifiée, avec un périmètre et des délais d’intervention clairement définis."
+            },
+            {
+              "icon": "box-seam",
+              "title": "Pièces de rechange d’origine",
+              "text": "Pièces critiques, outillage et consommables identifiés, stockés et livrés."
+            },
+            {
+              "icon": "arrow-repeat",
+              "title": "Rétrofit & mises à niveau",
+              "text": "Nouvelles commandes CNC, nouveaux entraînements et systèmes de mesure pour les machines plus anciennes."
+            },
+            {
+              "icon": "mortarboard",
+              "title": "Formation",
+              "text": "Formation pratique pour les opérateurs, les programmeurs et les équipes de maintenance."
+            },
+            {
+              "icon": "truck",
+              "title": "Machine en tant que service",
+              "text": "Location avec opérateurs : nous fournissons la machine et l’équipe, vous payez la production réalisée."
+            }
+          ],
+          "link": {
+            "label": "Tous les services",
+            "page": "services"
+          }
+        },
+        {
+          "type": "cards",
+          "eyebrow": "Projets sélectionnés",
+          "heading": "Installés là où la fiabilité compte",
+          "intro": "Un aperçu de nos réalisations pour des réseaux ferroviaires nationaux et des exploitants de métro. Le détail complet des projets figure dans la rubrique Projets clés en main.",
+          "cols": 3,
+          "items": [
+            {
+              "page": "executed-projects",
+              "anchor": "sanpada-emu-car-shed",
+              "title": "Tour vertical CNC – atelier d’automotrices de Sanpada, Mumbai",
+              "text": "Une capacité d’usinage des roues pour l’un des réseaux de banlieue les plus fréquentés au monde.",
+              "image": "projects/emu-car-shed"
+            },
+            {
+              "page": "executed-projects",
+              "anchor": "state-railway-of-thailand",
+              "title": "Tour vertical à tourelle CNC – State Railway of Thailand",
+              "text": "Fourni et installé pour l’usinage des roues à Bangkok.",
+              "image": "projects/railway-wheel-shop"
+            },
+            {
+              "page": "under-execution",
+              "anchor": "ncrtc-underfloor-wheel-lathes",
+              "title": "Tours en fosse CNC entièrement automatiques – NCRTC",
+              "text": "Pour le premier système de transport rapide régional de l’Inde.",
+              "image": "projects/metro-depot"
+            }
+          ]
+        },
+        {
+          "type": "logo_carousel"
+        },
+        {
+          "type": "features",
+          "eyebrow": "Technologie & ingénierie",
+          "heading": "Une ingénierie mesurable",
+          "intro": "Chaque machine HYT est conçue pour les réalités d’un atelier ferroviaire : des roues lourdes et usées, des délais d’immobilisation exigeants et des opérateurs qui ont besoin de commandes claires et sûres.",
+          "cols": 4,
+          "items": [
+            {
+              "icon": "rulers",
+              "title": "Mesure automatique du profil",
+              "text": "Diamètre de roulement, hauteur et épaisseur du boudin mesurés avant l’usinage, pour n’enlever que la matière nécessaire."
+            },
+            {
+              "icon": "cpu",
+              "title": "Plateformes CNC éprouvées",
+              "text": "Commandes CNC industrielles avec cycles spécifiques au ferroviaire et bibliothèques de profils à l’écran."
+            },
+            {
+              "icon": "bricks",
+              "title": "Structures de machine rigides",
+              "text": "Structures mécano-soudées lourdes et détensionnées pour une coupe stable sur des tables de roulement dures et usées."
+            },
+            {
+              "icon": "shield-check",
+              "title": "Sécurité dès la conception",
+              "text": "Protecteurs avec verrouillage, zones opérateur clairement délimitées et pratiques conformes à ISO 45001."
+            }
+          ]
+        },
+        {
+          "type": "news",
+          "eyebrow": "Actualités & salons",
+          "heading": "Les dernières nouvelles de HYT",
+          "limit": 3,
+          "link": {
+            "label": "Toutes les actualités",
+            "page": "news"
+          },
+          "items": [
+            {
+              "title": "Tours en fosse CNC entièrement automatiques pour NCRTC",
+              "date": "Commande",
+              "category": "Commandes",
+              "text": "National Capital Region Transport Corporation a adressé à HYT une lettre d’acceptation pour des tours en fosse CNC entièrement automatiques.",
+              "page": "news"
+            },
+            {
+              "title": "Nouveau tour en fosse tandem CNC pour le métro de Delhi",
+              "date": "Commande",
+              "category": "Commandes",
+              "text": "Delhi Metro Rail Corporation a attribué à HYT un contrat pour un nouveau tour en fosse tandem CNC.",
+              "page": "news"
+            },
+            {
+              "title": "À la rencontre de l’industrie ferroviaire mondiale",
+              "date": "Salons",
+              "category": "Salons",
+              "text": "HYT a exposé aux salons Asia Pacific Rail, Middle East Rail, Africa Rail et AusRAIL.",
+              "page": "international-exhibitions"
+            }
+          ]
+        },
+        {
+          "type": "split_cta",
+          "items": [
+            {
+              "icon": "file-earmark-pdf",
+              "heading": "Catalogue produits",
+              "text": "Présentation des machines, options et données nécessaires à une proposition – le tout dans un seul PDF.",
+              "label": "Accéder aux téléchargements",
+              "page": "downloads"
+            },
+            {
+              "icon": "lightbulb",
+              "heading": "Centre de connaissances",
+              "text": "Guides pratiques sur les profils de roue, la stratégie de reprofilage et la planification d’atelier.",
+              "label": "Lire les guides",
+              "page": "knowledge-centre"
+            },
+            {
+              "icon": "headset",
+              "heading": "Service après-vente",
+              "text": "Trouvez le bon contact SAV et maintenez vos machines en parfait état.",
+              "label": "Réseau de service",
+              "page": "service-centers"
+            }
+          ]
+        },
+        {
+          "type": "cta",
+          "heading": "Préparons ensemble votre prochain tour à roues ou votre futur atelier",
+          "text": "Parlez-nous de votre parc, de votre atelier et de vos objectifs. Un ingénieur d’application HYT reviendra vers vous avec une recommandation – pas un argumentaire commercial.",
+          "primary": {
+            "label": "Parlons de votre projet",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Découvrir nos produits",
+            "page": "products"
+          }
+        }
+      ]
+    }
+  }
+}

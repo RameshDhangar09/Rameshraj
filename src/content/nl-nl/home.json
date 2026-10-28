@@ -1,0 +1,387 @@
+{
+  "pages": {
+    "home": {
+      "nav": "Home",
+      "title": "CNC-wielenbanken & spoorwerkplaatsen | HYT",
+      "description": "HYT Engineering bouwt CNC-wielenbanken (onderloop, portaal, vloer), machines voor wielstelwerkplaatsen en turnkey spoorwerkplaatsen – met levenslange service.",
+      "eyebrow": "Werktuigmachines voor het spoor · Sinds 1977",
+      "h1": "Oplossingen voor productie en onderhoud van rollend materieel",
+      "lede": "Van de eerste wielenbank die we ontwikkelden tot de complete wielstelwerkplaatsen die vandaag in bedrijf zijn: HYT ontwerpt, bouwt, installeert en onderhoudt de machines die locomotieven, rijtuigen, metro’s en goederenwagens veilig laten rijden.",
+      "summary": "HYT Engineering – werktuigmachines en werkplaatsoplossingen voor het spoor sinds 1977.",
+      "blocks": [
+        {
+          "type": "stats",
+          "items": [
+            {
+              "value": "49+",
+              "label": "Jaar uitmuntendheid in de spoorwegindustrie"
+            },
+            {
+              "value": "1.100+",
+              "label": "Machines geleverd over de hele wereld"
+            },
+            {
+              "value": "16.000+",
+              "label": "Vierkante meter productieoppervlak"
+            },
+            {
+              "value": "360°",
+              "label": "Ontwerp, bouw, installatie en service onder één dak"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "eyebrow": "Wie we zijn",
+          "heading": "Precisie die vloten in beweging houdt",
+          "paragraphs": [
+            "Een spoorwiel draagt tonnen op een contactvlak ter grootte van een munt. Het profiel bepaalt het rijcomfort, de slijtage van de rails, het energieverbruik en – bovenal – de veiligheid. HYT Engineering bestaat om dat profiel snel en nauwkeurig te herstellen, en om werkplaatsen de machines te bieden waarmee zij wielstellen met vertrouwen kunnen bouwen en reviseren.",
+            "Vanuit ons hoofdkantoor in Pune, India, concentreren wij ons al ruim veertig jaar op één discipline: de bewerking van wielen en assen voor het spoor. Onze engineers ontwerpen elke machine in eigen huis, bouwen haar in onze eigen fabriek, stellen haar op locatie in bedrijf en ondersteunen haar nog tientallen jaren na de overdracht."
+          ],
+          "bullets": [
+            "Gespecialiseerd in wielstelbewerking en werkplaatsuitrusting",
+            "Machines ontworpen voor Indiase en internationale wielprofielen en spoorwijdten",
+            "Eén verantwoordelijke partij, van funderingstekening tot service gedurende de hele levensduur"
+          ],
+          "image": "company/manufacturing-facility",
+          "image_alt": "Voorbeeldillustratie van een montagehal met een wielenbank in aanbouw",
+          "layout": "image-right",
+          "video": {
+            "embed": "https://www.canva.com/design/DAHYJ-LJa_w/Rb5Ihk5HNeqx7aHRnmLx_A/watch?embed",
+            "title": "HYT Engineering – bedrijfsfilm",
+            "poster_src": "/assets/images/homepage/corporate-video-poster.jpg",
+            "poster_w": 620,
+            "poster_h": 350
+          }
+        },
+        {
+          "type": "cards",
+          "eyebrow": "Productportfolio",
+          "heading": "Machines voor elke fase in de levenscyclus van een wielstel",
+          "intro": "Vier productfamilies voor herprofileren in bedrijf, productie in de wielstelwerkplaats, ondersteuning in het depot en gespecialiseerde partnertechnologie.",
+          "cols": 4,
+          "items": [
+            {
+              "page": "products",
+              "anchor": "wheel-lathes",
+              "title": "Wielenbanken",
+              "text": "CNC-draaibanken in onderloop-, tandem-, vloer- en portaaluitvoering die wielstellen snel en nauwkeurig herprofileren.",
+              "image": "products/underfloor-wheel-lathe-yul-08"
+            },
+            {
+              "page": "products",
+              "anchor": "wheel-axle-shop-machines",
+              "title": "Machines voor de wielstelwerkplaats",
+              "text": "Verticaal draaien, asdraaien en -rollen, wielpersen, meten en balanceren.",
+              "image": "products/vertical-turning-boring-machine"
+            },
+            {
+              "page": "products",
+              "anchor": "depot-workshop-equipment",
+              "title": "Depot- en werkplaatsuitrusting",
+              "text": "Machines voor ankerbewerking, automatische treinwasinstallaties en rail-wegrangeervoertuigen.",
+              "image": "products/automated-train-washing-plant"
+            },
+            {
+              "page": "products",
+              "anchor": "partner-products",
+              "title": "Partnerproducten",
+              "text": "Exclusieve distributie van glijtechniek van SKC Gleittechnik uit Duitsland.",
+              "image": "products/skc-partner-products"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "id": "underfloor-wheel-lathes",
+          "eyebrow": "Vlaggenschiptechnologie",
+          "heading": "CNC-onderloopdraaibanken",
+          "paragraphs": [
+            "Een onderloopdraaibank (putdraaibank) herprofileert de wielen terwijl het wielstel onder het voertuig blijft. De trein wordt over een put gereden, de as wordt op aandrijfrollen opgetild en beide wielen worden tegelijk bewerkt – zonder het draaistel uit te bouwen, zonder het remsysteem te demonteren en zonder lange stilstand.",
+            "HYT-onderloopdraaibanken combineren stijve machineconstructies met automatische profielmeting, zodat de CNC alleen het materiaal verwijdert dat echt weg moet. Het resultaat: meer herprofileringscycli per wiel, een langere levensduur van de wielen en meer treinen beschikbaar voor de dienst."
+          ],
+          "bullets": [
+            "Enkelvoudige machines (YUL-08, YUGL) en gesynchroniseerde tandemparen (YUL-12T, YUGLX)",
+            "Beide wielen van een wielstel worden gelijktijdig bewerkt",
+            "Geschikt voor locomotieven, rijtuigen, elektrische treinstellen, metrorijtuigen en goederenwagens"
+          ],
+          "image": "products/tandem-underfloor-wheel-lathe-yul-12t",
+          "image_alt": "HYT CNC-tandemonderloopdraaibank (YUL-12T)",
+          "layout": "image-left",
+          "link": {
+            "label": "Bekijk onze onderloopdraaibanken",
+            "page": "underfloor-wheel-lathe"
+          },
+          "slides": [
+            "underfloor-wheel-lathe",
+            "underfloor-wheel-lathe-yugl",
+            "tandem-underfloor-wheel-lathe",
+            "tandem-underfloor-wheel-lathe-yuglx"
+          ]
+        },
+        {
+          "type": "text",
+          "id": "vertical-turning-axle",
+          "eyebrow": "Wielstelwerkplaats",
+          "heading": "Verticale draaibanken en asbewerking",
+          "paragraphs": [
+            "Nieuwe wielstellen en grote revisies beginnen in de wielstelwerkplaats. Onze CNC-verticale draai- en kotterbanken werken wielschijven, banden en boringen binnen nauwe toleranties af, terwijl speciale asdraaibanken de astappen draaien en rollen voor betrouwbare lagerzittingen.",
+            "Samen met wielpersen, meetstations en dynamische balanceermachines vormen deze machines een compleet, traceerbaar proces – van ruw onderdeel tot gecertificeerd wielstel."
+          ],
+          "image": "products/vertical-turning-boring-machine",
+          "image_alt": "HYT CNC-verticale draai- en boormachine (YVM-04)",
+          "layout": "image-right",
+          "link": {
+            "label": "Bekijk machines voor de wielstelwerkplaats",
+            "page": "products",
+            "anchor": "wheel-axle-shop-machines"
+          },
+          "slides": [
+            "vertical-turning-boring-machine",
+            "axle-journal-turning-burnishing-lathe",
+            "axle-turning-lathe",
+            "wheel-measuring-station"
+          ]
+        },
+        {
+          "type": "steps",
+          "eyebrow": "Turnkey werkplaatsoplossingen",
+          "heading": "Eén partner, van lege hal tot draaiende werkplaats",
+          "intro": "Heeft een spoorweg- of metrobedrijf een complete faciliteit nodig, dan neemt HYT de verantwoordelijkheid voor de hele keten – met één plan, één planning en één aanspreekpunt.",
+          "items": [
+            {
+              "title": "Studie & indeling",
+              "text": "Vlootanalyse, processtroom en machinekeuze voor de doorzet die u nodig heeft."
+            },
+            {
+              "title": "Bouwkundige interface",
+              "text": "Tekeningen voor put, fundering en railverankering, afgestemd met uw bouwkundig aannemer."
+            },
+            {
+              "title": "Levering & installatie",
+              "text": "Machines, transportsystemen en besturingen geleverd, geïnstalleerd en geïntegreerd."
+            },
+            {
+              "title": "Inbedrijfstelling & training",
+              "text": "Beproefd op uw eigen wielstellen, met operators en onderhoudsmonteurs die op locatie worden opgeleid."
+            },
+            {
+              "title": "Ondersteuning gedurende de hele levensduur",
+              "text": "Onderhoudscontracten, reserveonderdelen en upgrades voor de decennia daarna."
+            }
+          ],
+          "link": {
+            "label": "Ontdek onze turnkey projecten",
+            "page": "turnkey-project"
+          },
+          "variant": "navy"
+        },
+        {
+          "type": "cards",
+          "eyebrow": "Sectoren die wij bedienen",
+          "heading": "Gebouwd voor wie rollend materieel veilig houdt",
+          "cols": 5,
+          "items": [
+            {
+              "page": "ind-railways",
+              "image": "industries/railways"
+            },
+            {
+              "page": "ind-metros",
+              "image": "industries/metros"
+            },
+            {
+              "page": "ind-rolling-stock",
+              "image": "industries/rolling-stock-manufacturers"
+            },
+            {
+              "page": "ind-defence",
+              "image": "industries/defence"
+            },
+            {
+              "page": "ind-heavy-engineering",
+              "image": "industries/heavy-engineering"
+            }
+          ]
+        },
+        {
+          "type": "features",
+          "eyebrow": "Service & onderhoud",
+          "heading": "Ondersteuning die net zo lang meegaat als de machine",
+          "intro": "Een wielenbank is een kritisch bedrijfsmiddel: staat zij stil, dan wachten de treinen. Onze serviceorganisatie is erop ingericht uw machines gedurende hun volledige levensduur productief te houden.",
+          "cols": 3,
+          "items": [
+            {
+              "icon": "tools",
+              "title": "Installatie & inbedrijfstelling",
+              "text": "Funderingscontrole, uitlijning, acceptatietests en gedocumenteerde overdracht."
+            },
+            {
+              "icon": "clipboard-check",
+              "title": "AMC- en CMC-contracten",
+              "text": "Gepland preventief onderhoud met een duidelijk afgebakende scope en vaste responstijden."
+            },
+            {
+              "icon": "box-seam",
+              "title": "Originele reserveonderdelen",
+              "text": "Kritische reserveonderdelen, gereedschappen en verbruiksmaterialen geïdentificeerd, op voorraad en geleverd."
+            },
+            {
+              "icon": "arrow-repeat",
+              "title": "Retrofit & upgrades",
+              "text": "Nieuwe CNC-besturingen, aandrijvingen en meettechniek voor oudere machines."
+            },
+            {
+              "icon": "mortarboard",
+              "title": "Training",
+              "text": "Praktijkgerichte training voor operators, programmeurs en onderhoudsteams."
+            },
+            {
+              "icon": "truck",
+              "title": "Machine as a Service",
+              "text": "Wet lease: wij leveren de machine én de bemanning, u betaalt voor de output."
+            }
+          ],
+          "link": {
+            "label": "Alle diensten",
+            "page": "services"
+          }
+        },
+        {
+          "type": "cards",
+          "eyebrow": "Geselecteerde projecten",
+          "heading": "Geïnstalleerd waar betrouwbaarheid telt",
+          "intro": "Een greep uit ons werk voor nationale spoorwegen en metrobedrijven. Alle projectdetails vindt u onder Turnkey projecten.",
+          "cols": 3,
+          "items": [
+            {
+              "page": "executed-projects",
+              "anchor": "sanpada-emu-car-shed",
+              "title": "CNC-verticale draaibank – EMU-depot Sanpada, Mumbai",
+              "text": "Capaciteit voor wielbewerking voor een van de drukste voorstadsnetten ter wereld.",
+              "image": "projects/emu-car-shed"
+            },
+            {
+              "page": "executed-projects",
+              "anchor": "state-railway-of-thailand",
+              "title": "CNC-verticale revolverdraaibank – State Railway of Thailand",
+              "text": "Geleverd en geïnstalleerd voor wielbewerking in Bangkok.",
+              "image": "projects/railway-wheel-shop"
+            },
+            {
+              "page": "under-execution",
+              "anchor": "ncrtc-underfloor-wheel-lathes",
+              "title": "Volautomatische CNC-onderloopdraaibanken – NCRTC",
+              "text": "Voor het eerste regionale snelle vervoerssysteem (RRTS) van India.",
+              "image": "projects/metro-depot"
+            }
+          ]
+        },
+        {
+          "type": "logo_carousel"
+        },
+        {
+          "type": "features",
+          "eyebrow": "Technologie & engineering",
+          "heading": "Engineering die u kunt meten",
+          "intro": "Elke HYT-machine is ontworpen voor de realiteit van een spoorwerkplaats: zware, versleten wielen, krappe doorlooptijden en operators die duidelijke, veilige bediening nodig hebben.",
+          "cols": 4,
+          "items": [
+            {
+              "icon": "rulers",
+              "title": "Automatische profielmeting",
+              "text": "Wieldiameter, flenshoogte en flensdikte worden vóór het verspanen gemeten, zodat alleen het noodzakelijke materiaal wordt verwijderd."
+            },
+            {
+              "icon": "cpu",
+              "title": "Beproefde CNC-platforms",
+              "text": "Industriële CNC-besturingen met spoorspecifieke cycli en profielbibliotheken op het scherm."
+            },
+            {
+              "icon": "bricks",
+              "title": "Stijve machineconstructies",
+              "text": "Zware, gelaste en spanningsarm gegloeide constructies voor stabiel verspanen op harde, versleten loopvlakken."
+            },
+            {
+              "icon": "shield-check",
+              "title": "Veiligheid door ontwerp",
+              "text": "Vergrendelde afschermingen, duidelijke bedieningszones en werkwijzen conform ISO 45001."
+            }
+          ]
+        },
+        {
+          "type": "news",
+          "eyebrow": "Nieuws & beurzen",
+          "heading": "Het laatste nieuws van HYT",
+          "limit": 3,
+          "link": {
+            "label": "Al het nieuws",
+            "page": "news"
+          },
+          "items": [
+            {
+              "title": "Volautomatische CNC-onderloopdraaibanken voor NCRTC",
+              "date": "Order",
+              "category": "Orders",
+              "text": "National Capital Region Transport Corporation heeft HYT een Letter of Acceptance verstrekt voor volautomatische CNC-onderloopdraaibanken.",
+              "page": "news"
+            },
+            {
+              "title": "Nieuwe CNC-tandemonderloopdraaibank voor Delhi Metro",
+              "date": "Order",
+              "category": "Orders",
+              "text": "Delhi Metro Rail Corporation heeft HYT een contract gegund voor een nieuwe CNC-tandemonderloopdraaibank.",
+              "page": "news"
+            },
+            {
+              "title": "In gesprek met de wereldwijde spoorsector",
+              "date": "Beurzen",
+              "category": "Beurzen",
+              "text": "HYT heeft geëxposeerd op Asia Pacific Rail, Middle East Rail, Africa Rail en AusRAIL.",
+              "page": "international-exhibitions"
+            }
+          ]
+        },
+        {
+          "type": "split_cta",
+          "items": [
+            {
+              "icon": "file-earmark-pdf",
+              "heading": "Productcatalogus",
+              "text": "Machineoverzichten, opties en de gegevens die wij nodig hebben voor een voorstel – in één pdf.",
+              "label": "Naar downloads",
+              "page": "downloads"
+            },
+            {
+              "icon": "lightbulb",
+              "heading": "Kenniscentrum",
+              "text": "Praktische handleidingen over wielprofielen, herprofileringsstrategie en werkplaatsplanning.",
+              "label": "Lees de handleidingen",
+              "page": "knowledge-centre"
+            },
+            {
+              "icon": "headset",
+              "heading": "Aftersalesondersteuning",
+              "text": "Vind het juiste servicecontact en houd uw machines in topconditie.",
+              "label": "Servicenetwerk",
+              "page": "service-centers"
+            }
+          ]
+        },
+        {
+          "type": "cta",
+          "heading": "Laten we uw volgende wielenbank of werkplaats plannen",
+          "text": "Vertel ons over uw vloot, uw werkplaats en uw doelstellingen. Een applicatie-engineer van HYT komt bij u terug met een advies – geen verkooppraatje.",
+          "primary": {
+            "label": "Bespreek uw behoefte",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Bekijk onze producten",
+            "page": "products"
+          }
+        }
+      ]
+    }
+  }
+}

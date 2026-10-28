@@ -1,0 +1,1465 @@
+{
+  "pages": {
+    "ts-wheel-shops": {
+      "nav": "Wielstelwerkplaatsen",
+      "title": "Turnkey wielstelwerkplaatsen en automatisering",
+      "description": "Turnkey wielstelwerkplaatsen van HYT: meten, herprofileren, uitboren, asbewerking, persen en balanceren – via handling en data tot één traceerbaar proces.",
+      "eyebrow": "Turnkey-oplossingen",
+      "h1": "Turnkey wielstelwerkplaatsen – van versleten wielstel tot gecertificeerde vrijgave",
+      "lede": "Een wielstelwerkplaats bepaalt hoe snel versleten wielstellen weer in dienst komen. HYT plant, richt in en verbindt de complete revisiestroom – meten, bewerken, persen en balanceren – als één gecoördineerd, traceerbaar proces.",
+      "summary": "Complete revisiewerkplaatsen voor wielstellen – demontage, inspectie, bewerking, persen, meten en balanceren – met geautomatiseerde handling en datastroom waar dat loont.",
+      "hero_actions": [
+        {
+          "label": "Bespreek uw wielstelwerkplaats",
+          "page": "contact-us",
+          "icon": "chat-dots"
+        },
+        {
+          "label": "Bekijk het proces",
+          "page": "ts-wheel-shops",
+          "anchor": "process"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "pillars",
+          "id": "overview",
+          "eyebrow": "De faciliteit",
+          "heading": "Waar versleten wielstellen weer inzetbaar worden",
+          "paragraphs": [
+            "In een spoorwerkplaats of werkplaats voor periodieke revisie (POH) ontvangt de wielstelwerkplaats wielstellen die hun slijtagegrens hebben bereikt, beschadigd zijn of aan hun geplande revisie toe zijn. Sommige hebben alleen een nieuw profiel nodig; andere hebben nieuwe wielen, herstelde astappen of een nieuwe perspassing nodig.",
+            "Eigenaren worstelen zelden met één afzonderlijke machine. De moeilijkheid zit in de doorstroming: wielstellen die bij de pers in de rij staan terwijl de draaibank stilstaat, meetwaarden die twee keer worden ingevoerd en kranen die over te veel werkplekken worden verdeeld. HYT ontwerpt de werkplaats rond uw mix van wielstellen en uw revisiecyclus en bouwt de kernmachines zelf, zodat proces en apparatuur samen worden ontworpen en één organisatie verantwoordelijk is voor het resultaat."
+          ],
+          "image": "products/portal-wheel-lathe",
+          "image_alt": "HYT CNC-portaalwielenbank (YPL-02)",
+          "badge_value": "1977",
+          "badge_label": "bouw van spoorwegwerktuigmachines sinds",
+          "items": [
+            {
+              "icon": "arrow-repeat",
+              "title": "Herprofileren",
+              "text": "Wielstellen met bruikbare wielen krijgen een nieuw profiel met minimale materiaalafname, zodat de wielen meer cycli meegaan."
+            },
+            {
+              "icon": "arrow-left-right",
+              "title": "Wielen vervangen",
+              "text": "Afgekeurde wielen worden afgeperst, vervangende wielen passend op de wielzitting van de as uitgeboord en opgeperst met een geregistreerde perskrachtcurve."
+            },
+            {
+              "icon": "patch-check",
+              "title": "Herstellen en vrijgeven",
+              "text": "Astappen worden hersteld, wielstellen waar voorgeschreven gebalanceerd, en elk wielstel verlaat de werkplaats met een volledig dossier van alle uitgevoerde werkzaamheden."
+            }
+          ]
+        },
+        {
+          "type": "features",
+          "id": "scope",
+          "eyebrow": "Wat HYT levert",
+          "heading": "Scope van een turnkey wielstelwerkplaats",
+          "cols": 3,
+          "items": [
+            {
+              "icon": "diagram-3",
+              "title": "Revisiestroom en layout",
+              "text": "Volgorde van werkplekken, buffersporen en kraandekking, gepland rond uw wielsteltypen en revisievolumes."
+            },
+            {
+              "icon": "bricks",
+              "title": "Funderingen en bouwkundige raakvlakken",
+              "text": "Machinefunderingen, ingestorte spoorstaven en kabelgoten, vastgelegd voor uw bouwaannemer of gerealiseerd binnen onze scope."
+            },
+            {
+              "icon": "gear-wide-connected",
+              "title": "Wiel- en asmachines",
+              "text": "Wielenbanken, verticale draaibanken, astapdraaibanken, persen, meetstations en balanceermachines van HYT."
+            },
+            {
+              "icon": "arrows-move",
+              "title": "Wielsteltransport",
+              "text": "Transportsporen en hanteringsvoorzieningen die zware wielstellen met minder kraanbewegingen tussen de werkplekken verplaatsen."
+            },
+            {
+              "icon": "database",
+              "title": "Wielstelregistratie",
+              "text": "Meetwaarden, bewerkingsresultaten en persgegevens, vastgelegd per wielstel dat de werkplaats doorloopt."
+            },
+            {
+              "icon": "person-gear",
+              "title": "Training en levenslange support",
+              "text": "Training voor operators en onderhoudspersoneel, reserveonderdelen en servicecontracten van het bedrijf dat de machines heeft gebouwd."
+            }
+          ]
+        },
+        {
+          "type": "facilities",
+          "id": "stations",
+          "eyebrow": "In de wielstelwerkplaats",
+          "heading": "De werkplekken van een HYT-wielstelwerkplaats",
+          "intro": "Elke werkplek is een HYT-machine die is ontworpen om naadloos aan te sluiten op de volgende. Selecteer een werkplek om de rol ervan in de stroom te zien.",
+          "items": [
+            {
+              "icon": "rulers",
+              "title": "Meten en inspectie",
+              "image": "products/wheel-measuring-station",
+              "image_alt": "HYT Wielmeetstation",
+              "text": "Elk wielstel wordt bij aankomst gemeten en opnieuw vóór de vrijgave. Het [wielmeetstation](page:wheel-measuring-station) legt profiel, diameters en binnenwerkse afstand vast – de gegevens die bepalen of een wielstel wordt geherprofileerd of nieuwe wielen krijgt.",
+              "bullets": [
+                "Beslispunt voor de route van elk wielstel",
+                "Resultaten vastgelegd onder de identiteit van het wielstel",
+                "Eindcontrole voordat het wielstel weer in dienst gaat"
+              ]
+            },
+            {
+              "icon": "bullseye",
+              "title": "Herprofileren van wielen",
+              "image": "products/surface-wheel-lathe",
+              "image_alt": "HYT CNC-vloerwielenbank (YSL-08)",
+              "text": "Behouden wielstellen krijgen een nieuw loopvlak- en flensprofiel op een [CNC-vloerwielenbank](page:surface-wheel-lathe) of een [portaalwielenbank](page:portal-wheel-lathe), gekozen op basis van uw wielsteltypen en gebruikelijke defecten.",
+              "bullets": [
+                "Profielprogramma’s voor uw vloot",
+                "Meting vóór het verspanen om de materiaalafname te beperken",
+                "Uitvoering op vloerniveau of als portaal"
+              ]
+            },
+            {
+              "icon": "circle",
+              "title": "Uitboren van wielen",
+              "image": "products/vertical-turning-boring-machine",
+              "image_alt": "HYT CNC-verticale draai- en boormachine (YVM-04)",
+              "text": "Vervangende wielen worden op een [CNC-verticale draai- en boormachine](page:vertical-turning-boring-machine) gedraaid en hun naafboring wordt passend op de wielzitting van de as bewerkt.",
+              "bullets": [
+                "Boring afgestemd op de gemeten wielzitting",
+                "Bewerking van wielschijf, band en naaf",
+                "Geschikt voor nieuwbouw en revisie"
+              ]
+            },
+            {
+              "icon": "distribute-horizontal",
+              "title": "As- en astapbewerking",
+              "image": "products/axle-journal-turning-burnishing-lathe",
+              "image_alt": "HYT CNC-draai- en rolpolijstbank voor astappen (YTB 04)",
+              "text": "Assen worden hersteld op een [draai- en rolpolijstbank voor astappen](page:axle-journal-turning-burnishing-lathe); nieuwe assen worden bewerkt op een [asdraaibank](page:axle-turning-lathe).",
+              "bullets": [
+                "Astappen gedraaid en rolgepolijst voor duurzame lagerzittingen",
+                "Wielzittingen voorbereid op het persen",
+                "Assen traceerbaar door de hele werkplaats"
+              ]
+            },
+            {
+              "icon": "arrows-collapse",
+              "title": "Persen",
+              "image": "products/wheel-press",
+              "image_alt": "Voorbeeldillustratie van een hydraulische wielpers die een wiel op een as perst",
+              "text": "Een [wielpers](page:wheel-presses) perst afgekeurde wielen af en nieuwe wielen op, waarbij voor elk wiel de perskrachtcurve wordt geregistreerd.",
+              "bullets": [
+                "Afpersen en oppersen op één machine",
+                "Geregistreerde perskrachtcurve voor elke perspassing",
+                "Gegevens gekoppeld aan het wielsteldossier"
+              ]
+            },
+            {
+              "icon": "speedometer2",
+              "title": "Balanceren en vrijgave",
+              "image": "products/dynamic-wheel-balancing-machine",
+              "image_alt": "HYT Dynamische wielbalanceermachine",
+              "text": "Waar voorgeschreven controleert en corrigeert een [dynamische wielbalanceermachine](page:dynamic-wheel-balancing-machine) de onbalans, voordat lagers en asbussen worden teruggeplaatst en het wielstel wordt vrijgegeven.",
+              "bullets": [
+                "Onbalans gemeten en gecorrigeerd",
+                "Eindinspectie vastgelegd",
+                "Compleet dossier gaat mee met het wielstel"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "steps",
+          "id": "process",
+          "eyebrow": "Processtroom",
+          "heading": "De route van een wielstel door de revisiewerkplaats",
+          "intro": "Onderstaande volgorde is gebruikelijk. De werkelijke route van elk wielstel hangt af van de toestand die bij de inspectie wordt vastgesteld.",
+          "items": [
+            {
+              "title": "Ontvangst en reiniging",
+              "text": "Wielstellen worden geïdentificeerd en gereinigd, zodat slijtage en defecten zichtbaar en meetbaar worden."
+            },
+            {
+              "title": "Inspectie en meting",
+              "text": "Profiel, diameters en binnenwerkse afstand worden vastgelegd op een [wielmeetstation](page:wheel-measuring-station); het resultaat bepaalt of het wielstel wordt geherprofileerd of nieuwe wielen krijgt."
+            },
+            {
+              "title": "Afpersen",
+              "text": "Zijn de wielen afgekeurd, dan perst een [wielpers](page:wheel-presses) ze af van assen die opnieuw worden gebruikt."
+            },
+            {
+              "title": "As- en wielbewerking",
+              "text": "Astappen worden hersteld op een [draai- en rolpolijstbank voor astappen](page:axle-journal-turning-burnishing-lathe); vervangende wielen worden op een [verticale draai- en boormachine](page:vertical-turning-boring-machine) passend op de wielzitting van de as uitgeboord."
+            },
+            {
+              "title": "Persen en herprofileren",
+              "text": "Nieuwe wielen worden opgeperst met een geregistreerde perskrachtcurve; behouden wielstellen worden geherprofileerd op een [vloer-](page:surface-wheel-lathe) of [portaalwielenbank](page:portal-wheel-lathe)."
+            },
+            {
+              "title": "Balanceren, hermontage en vrijgave",
+              "text": "Waar voorgeschreven worden wielstellen gebalanceerd. Lagers en asbussen worden teruggeplaatst, een eindcontrole wordt vastgelegd en het wielstel gaat terug in dienst."
+            }
+          ]
+        },
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "HYT dient de aangeboden automatiseringsscope (handlingapparatuur, software en data-integratie) te bevestigen, evenals eventuele referentie-installaties die op deze pagina genoemd mogen worden."
+        },
+        {
+          "type": "text",
+          "id": "automation",
+          "eyebrow": "Automatisering van de wielstelwerkplaats",
+          "heading": "Van losse machines naar één verbonden proces",
+          "paragraphs": [
+            "In veel wielstelwerkplaatsen werkt elke machine afzonderlijk prima, maar het proces daartussen niet. Zware wielstellen worden met kraan en handkracht verplaatst, meetwaarden worden opgeschreven en opnieuw ingevoerd, en het afstemmen van een wielboring op de wielzitting van de as hangt af van zorgvuldig papierwerk. Elke handmatige stap kost tijd en vergroot de kans op fouten aan een veiligheidskritisch onderdeel.",
+            "Automatisering koppelt meten, bewerken, persen en balanceren aan elkaar, zodat wielstellen veilig tussen de werkplekken bewegen, data rechtstreeks van de ene machine naar de volgende gaat en elk wiel en elke as traceerbaar is van ontvangst tot vrijgave. Ze kan stapsgewijs worden ingevoerd – eerst de machines en hun data koppelen, daarna handling toevoegen naarmate de doorzet groeit – terwijl de werkplaats blijft produceren."
+          ],
+          "image": "projects/wheel-shop-automation-line",
+          "image_alt": "Voorbeeldillustratie van een geautomatiseerde wielstellijn met wielstellen die tussen de machines bewegen",
+          "layout": "image-left"
+        },
+        {
+          "type": "features",
+          "id": "building-blocks",
+          "eyebrow": "Bouwstenen",
+          "heading": "Vier elementen van een geautomatiseerde wielstelwerkplaats",
+          "cols": 4,
+          "items": [
+            {
+              "icon": "arrows-move",
+              "title": "Geautomatiseerde handling",
+              "text": "Wielstellen en onderdelen worden tussen de werkplekken verplaatst met minder kraanwerk en minder handmatig tillen."
+            },
+            {
+              "icon": "rulers",
+              "title": "Geïntegreerde meting",
+              "text": "Wielen, assen en wielstellen worden op vaste punten gemeten; de resultaten worden automatisch opgeslagen."
+            },
+            {
+              "icon": "diagram-3",
+              "title": "Datastroom tussen machines",
+              "text": "Meetwaarden gaan rechtstreeks naar de volgende machine – bijvoorbeeld boring- en zittingsmaten die bij het persen worden gebruikt."
+            },
+            {
+              "icon": "upc-scan",
+              "title": "Traceerbaarheid",
+              "text": "Elk onderdeel wordt geïdentificeerd en de bijbehorende meet-, bewerkings- en persgegevens worden samen bewaard."
+            }
+          ]
+        },
+        {
+          "type": "projects",
+          "id": "solution",
+          "heading": "De oplossing in één oogopslag",
+          "items": [
+            {
+              "id": "turnkey-wheel-shop",
+              "title": "Turnkey wiel- en aswerkplaats",
+              "client": "Spoor- en metrovervoerders, revisiewerkplaatsen, fabrikanten van rollend materieel",
+              "location": "Per locatie geconfigureerd",
+              "status_key": "solution",
+              "image": "projects/wheel-shop-automation-line",
+              "image_alt": "Voorbeeldillustratie van een verbonden wiel- en aswerkplaats met geautomatiseerde handling",
+              "scope": [
+                "Proces- en layoutengineering voor de vereiste doorzet",
+                "Funderingen en bouwkundige raakvlakken",
+                "Meet-, bewerkings-, pers- en balanceermachines",
+                "Handling van wielstellen en onderdelen tussen de werkplekken",
+                "Data-uitwisseling tussen machines en traceerbaarheid van onderdelen",
+                "Montage, inbedrijfstelling en training van personeel"
+              ],
+              "text": "Elke wielstelwerkplaats wordt afgestemd op de eigen vloot, volumes en het gebouw. Projecten kunnen compleet of gefaseerd worden geleverd, ook de modernisering van een werkplaats die in bedrijf moet blijven.",
+              "products": [
+                "wheel-measuring-station",
+                "surface-wheel-lathe",
+                "portal-wheel-lathe",
+                "vertical-turning-boring-machine",
+                "axle-journal-turning-burnishing-lathe",
+                "axle-turning-lathe",
+                "wheel-presses",
+                "dynamic-wheel-balancing-machine"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "chips",
+          "id": "fleets",
+          "eyebrow": "Wielstellen waarvoor wij plannen",
+          "heading": "Afgestemd op uw vloot",
+          "intro": "Afmetingen van werkplekken, profielprogramma’s en handling worden afgestemd op de wielstellen die uw werkplaats reviseert.",
+          "items": [
+            {
+              "icon": "train-front",
+              "title": "Locomotieven"
+            },
+            {
+              "icon": "train-front-fill",
+              "title": "Reizigersrijtuigen"
+            },
+            {
+              "icon": "train-lightrail-front",
+              "title": "Elektrische treinstellen en motorrijtuigen"
+            },
+            {
+              "icon": "buildings",
+              "title": "Metro- en stadsspoorvoertuigen"
+            },
+            {
+              "icon": "box-seam",
+              "title": "Goederenwagens"
+            },
+            {
+              "icon": "gear-wide-connected",
+              "title": "Nieuwbouwwielstellen"
+            }
+          ]
+        },
+        {
+          "type": "cards",
+          "id": "equipment",
+          "eyebrow": "HYT-machines",
+          "heading": "Kernuitrusting van de wielstelwerkplaats",
+          "cols": 4,
+          "items": [
+            {
+              "page": "surface-wheel-lathe",
+              "image": "products/surface-wheel-lathe"
+            },
+            {
+              "page": "portal-wheel-lathe",
+              "image": "products/portal-wheel-lathe"
+            },
+            {
+              "page": "vertical-turning-boring-machine",
+              "image": "products/vertical-turning-boring-machine"
+            },
+            {
+              "page": "axle-journal-turning-burnishing-lathe",
+              "image": "products/axle-journal-turning-burnishing-lathe"
+            },
+            {
+              "page": "wheel-presses",
+              "image": "products/wheel-press"
+            },
+            {
+              "page": "wheel-measuring-station",
+              "image": "products/wheel-measuring-station"
+            },
+            {
+              "page": "axle-turning-lathe",
+              "image": "products/axle-turning-lathe"
+            },
+            {
+              "page": "dynamic-wheel-balancing-machine",
+              "image": "products/dynamic-wheel-balancing-machine"
+            }
+          ]
+        },
+        {
+          "type": "steps",
+          "id": "delivery",
+          "eyebrow": "Projectuitvoering",
+          "heading": "Zo realiseren wij een wielstelwerkplaats",
+          "intro": "Een wielstelwerkplaats wordt vaak verbouwd binnen een werkplaats die in bedrijf blijft. Onze aanpak voor [Turnkey (EPC) projecten](page:turnkey-project) plant elke fase rond het revisieprogramma dat moet doorlopen.",
+          "items": [
+            {
+              "title": "Studie en layout",
+              "text": "Revisievolumes, wielsteltypen en het bestaande gebouw worden geanalyseerd, waarna een layout wordt overeengekomen."
+            },
+            {
+              "title": "Bouwkundige raakvlakken",
+              "text": "Funderings- en nutsgegevens worden vroeg aangeleverd, zodat het bouwkundige werk klaar is wanneer de machines arriveren."
+            },
+            {
+              "title": "Gefaseerde montage",
+              "text": "Werkplekken worden in fasen vervangen of toegevoegd terwijl de werkplaats blijft draaien. Zie [Montage & inbedrijfstelling](page:installation-commissioning)."
+            },
+            {
+              "title": "Inbedrijfstelling met uw wielstellen",
+              "text": "Elke werkplek, en daarna de complete stroom, wordt met uw eigen wielstellen beproefd aan de hand van afgesproken criteria."
+            },
+            {
+              "title": "Training en support",
+              "text": "Uw personeel wordt via ons [trainingsprogramma](page:training) opgeleid in machines en proces; na de overdracht kan een [jaarlijks onderhoudscontract](page:annual-maintenance-contract) volgen."
+            }
+          ],
+          "variant": "navy"
+        },
+        {
+          "type": "text",
+          "id": "benefits",
+          "eyebrow": "Resultaten",
+          "heading": "Wat een goed geplande wielstelwerkplaats u oplevert",
+          "paragraphs": [
+            "De waarde van een wielstelwerkplaats wordt daarbuiten gemeten: in voertuigen die op tijd weer in dienst komen en in wielen die meer kilometers maken tussen twee ingrepen."
+          ],
+          "bullets": [
+            "Kortere tijd tussen de aankomst en de vrijgave van een wielstel",
+            "Minimale materiaalafname, zodat wielen meer herprofileringscycli meegaan voordat ze worden vervangen",
+            "Gedocumenteerde perspassingen en meetwaarden voor elk gereviseerd wielstel",
+            "Een compleet, traceerbaar dossier voor elk wiel en elke as",
+            "Minder kraanwerk en handmatige hantering rond zware componenten",
+            "Eén partner verantwoordelijk voor machines, layout en prestaties"
+          ]
+        },
+        {
+          "type": "faq",
+          "id": "faq",
+          "heading": "Vragen over wielstelwerkplaatsen",
+          "items": [
+            {
+              "q": "Kan een wielstelwerkplaats worden gemoderniseerd terwijl ze in bedrijf blijft?",
+              "a": "In de meeste gevallen wel. We plannen het werk in fasen, zodat bestaande machines blijven draaien terwijl nieuwe werkplekken ernaast of op hun plaats worden geïnstalleerd."
+            },
+            {
+              "q": "Herprofileren we beter op een vloer- of op een portaalwielenbank?",
+              "a": "Beide machines bewerken uitgebouwde wielstellen. De keuze hangt af van uw wielsteltypen, de gebruikelijke defectdiepte en de doorstroming; zie de pagina’s over de [vloerwielenbank](page:surface-wheel-lathe) en de [portaalwielenbank](page:portal-wheel-lathe)."
+            },
+            {
+              "q": "Heeft de wielstelwerkplaats ook een onderloopdraaibank nodig?",
+              "a": "Een [onderloopdraaibank](page:underfloor-wheel-lathe) herprofileert wielen zonder het wielstel uit te bouwen en hoort daarom thuis in het depot, niet in de revisiewerkplaats. Veel vervoerders gebruiken beide: onderloopdraaibanken voor routinematig herprofileren en de wielstelwerkplaats voor wielstellen die toch al uit het voertuig komen. Zie [Onderhoudsdepots voor het spoor](page:ts-maintenance-depots)."
+            },
+            {
+              "q": "Kunnen we bestaande machines van andere fabrikanten behouden?",
+              "a": "Ja, als ze in goede staat zijn. We nemen ze op in de layout en definiëren hun raakvlakken, zodat de werkplaats als één proces functioneert."
+            },
+            {
+              "q": "Kan automatisering worden toegevoegd aan een bestaande wielstelwerkplaats?",
+              "a": "Ja. Automatisering wordt meestal stapsgewijs ingevoerd: eerst worden de machines en hun data gekoppeld, daarna wordt handling toegevoegd naarmate de doorzet groeit. Elke stap wordt zo gepland dat de werkplaats blijft produceren."
+            },
+            {
+              "q": "Hoe worden de gegevens van wielstellen vastgelegd?",
+              "a": "Meet-, bewerkings-, pers- en balanceerresultaten worden vastgelegd onder de identiteit van elk wielstel. Het dataformaat en de overdracht naar uw eigen systemen worden tijdens de engineering afgestemd met uw kwaliteits- en IT-afdeling."
+            }
+          ]
+        },
+        {
+          "type": "cta",
+          "heading": "Plant u een nieuwe of gemoderniseerde wielstelwerkplaats?",
+          "text": "Stuur ons uw revisievolumes, wielsteltypen en bouwtekeningen. Onze projectengineers stellen een layout voor en een manier om die te realiseren.",
+          "primary": {
+            "label": "Bespreek uw project",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Turnkey (EPC) projecten",
+            "page": "turnkey-project"
+          }
+        }
+      ]
+    },
+    "ts-maintenance-depots": {
+      "nav": "Onderhoudsdepots voor het spoor",
+      "title": "Turnkey onderhoudsdepots voor spoor en metro",
+      "description": "Turnkey depotuitrusting voor locomotieven, rijtuigen, treinstellen en metro’s: onderloopdraaibanken, treinwassen, rangeren en ankerbewerking in één project.",
+      "eyebrow": "Turnkey-oplossingen",
+      "h1": "Turnkey-uitrusting voor onderhoudsdepots van het spoor",
+      "lede": "Een depot bewijst zijn waarde in de beschikbaarheid van treinen. HYT richt het draaibankspoor, de wasstraat, het rangeren en het componentenwerk in als één project, zodat treinen minder tijd wachten en meer tijd in dienst zijn.",
+      "summary": "Depotuitrusting voor locomotief-, rijtuig-, treinstel- en metrovloten – onderloopdraaibanken, treinwassen, rangeren en ankerbewerking.",
+      "blocks": [
+        {
+          "type": "text",
+          "id": "overview",
+          "eyebrow": "De faciliteit",
+          "heading": "Ontworpen rond de uren dat een trein buiten dienst is",
+          "paragraphs": [
+            "Locomotiefdepots, rijtuigdepots en werkplaatsen voor EMU’s of metro’s houden vloten geschikt voor de dagelijkse dienst. Treinen komen binnen voor geplande onderzoeken, het herprofileren van wielen, reiniging en reparaties, en elk uur in het depot is een uur dat ze niet kunnen rijden. Het ontwerp van het depot bepaalt hoeveel van die uren werkelijk nodig zijn.",
+            "Depotmanagers kennen de gebruikelijke knelpunten: één draaibankspoor waarvoor een wachtrij ontstaat, rangeerbewegingen die op een locomotief en personeel moeten wachten, buitenreiniging met de hand en reparaties aan tractiemotoren die worden uitbesteed omdat het depot de juiste machine mist. Elk probleem kan bij een andere leverancier liggen.",
+            "HYT brengt de belangrijkste depotsystemen onder in één contract en plant ze op basis van uw onderhoudsschema, sporenplan en vlootsamenstelling. Het doel is eenvoudig: kortere, beter voorspelbare depotbezoeken voor elke trein."
+          ],
+          "image": "projects/emu-car-shed",
+          "image_alt": "Voorbeeldillustratie van een EMU-werkplaats met voorstadtreinen boven inspectieputten",
+          "layout": "image-right"
+        },
+        {
+          "type": "features",
+          "id": "scope",
+          "eyebrow": "Wat HYT levert",
+          "heading": "Depotsystemen onder één contract",
+          "cols": 3,
+          "items": [
+            {
+              "icon": "train-front",
+              "title": "Herprofileringsspoor",
+              "text": "Enkele of tandemonderloopdraaibanken in een put, gedimensioneerd op uw vloot en het aantal assen per bezoek."
+            },
+            {
+              "icon": "bricks",
+              "title": "Putten en spooraansluiting",
+              "text": "Draaibankputten, inspectieputsporen en railondersteuning, afgestemd op de bouwkundige werken en het sporenplan van het depot."
+            },
+            {
+              "icon": "droplet",
+              "title": "Treinwassen",
+              "text": "Een doorrijwasinstallatie op de inkomende route, zodat treinen zonder extra rangeerbewegingen worden gereinigd."
+            },
+            {
+              "icon": "truck",
+              "title": "Rangeren",
+              "text": "Rail-wegvoertuig (rangeervoertuig) voor bewegingen tussen draaibankspoor, wasstraat, putsporen en opstelsporen."
+            },
+            {
+              "icon": "lightning-charge",
+              "title": "Werk aan tractiemotoren",
+              "text": "Ankerbewerking voor gelijkstroomtractiemotoren, uitgevoerd in het depot in plaats van in een verafgelegen werkplaats."
+            },
+            {
+              "icon": "calendar-check",
+              "title": "Support gericht op beschikbaarheid",
+              "text": "Onderhoudscontracten die de depotmachines gereedhouden wanneer treinen er volgens planning gebruik van maken."
+            }
+          ]
+        },
+        {
+          "type": "steps",
+          "id": "process",
+          "eyebrow": "Depotstroom",
+          "heading": "Het bezoek van een trein aan het depot",
+          "items": [
+            {
+              "title": "Aankomst en wassen",
+              "text": "Binnenkomende treinen rijden op weg naar de onderzoekssporen door de [automatische treinwasinstallatie](page:automated-train-washing-plant)."
+            },
+            {
+              "title": "Inspectie op putsporen",
+              "text": "Loopwerk, remmen en onderbakapparatuur worden vanuit de put onderzocht; wieldefecten die hier worden gevonden, worden ingepland voor de draaibank."
+            },
+            {
+              "title": "Herprofileren van wielen",
+              "text": "De trein wordt over de [onderloopdraaibank](page:underfloor-wheel-lathe) getrokken; versleten wielstellen worden gemeten en geherprofileerd zonder het draaistel uit te bouwen."
+            },
+            {
+              "title": "Componentreparaties",
+              "text": "Gewisselde ankers van tractiemotoren worden hersteld op de [multifunctionele ankermachine](page:multi-purpose-armature-machine) en teruggebracht naar het magazijn."
+            },
+            {
+              "title": "Rangeren en opstellen",
+              "text": "Het [rail-wegvoertuig (rangeervoertuig)](page:rail-cum-road-vehicle-shunter) verplaatst voertuigen tussen de sporen en naar de opstelsporen."
+            },
+            {
+              "title": "Vrijgave voor de dienst",
+              "text": "De werkorders worden afgesloten en de trein keert terug in de dienstregeling."
+            }
+          ]
+        },
+        {
+          "type": "cards",
+          "id": "equipment",
+          "eyebrow": "HYT-machines",
+          "heading": "Uitrusting in het depot",
+          "cols": 3,
+          "items": [
+            {
+              "page": "underfloor-wheel-lathe",
+              "image": "products/underfloor-wheel-lathe-yul-08"
+            },
+            {
+              "page": "tandem-underfloor-wheel-lathe",
+              "image": "products/tandem-underfloor-wheel-lathe-yul-12t"
+            },
+            {
+              "page": "automated-train-washing-plant",
+              "image": "products/automated-train-washing-plant"
+            },
+            {
+              "page": "rail-cum-road-vehicle-shunter",
+              "image": "products/rail-cum-road-vehicle-shunter"
+            },
+            {
+              "page": "multi-purpose-armature-machine",
+              "image": "products/multi-purpose-armature-machine"
+            },
+            {
+              "page": "vertical-turning-boring-machine",
+              "image": "products/vertical-turning-boring-machine"
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "id": "delivery",
+          "heading": "Een depotproject realiseren",
+          "intro": "Depots worden vaak gebouwd of uitgebreid terwijl de vloot blijft rijden. Onze aanpak voor [Turnkey (EPC) projecten](page:turnkey-project) is op die realiteit afgestemd.",
+          "cols": 1,
+          "items": [
+            "**Planning vanuit het onderhoud:** onderzoeksintervallen, herprofileringsfrequentie en vlootgroei bepalen het aantal draaibanksporen, de wascapaciteit en de rangeerbehoefte.",
+            "**Put- en spooraansluiting:** puttekeningen, ankerdetails, afwatering en spoorstaafhoogtes worden aan de bouwaannemer verstrekt, en de gereedheid wordt vóór de montage gecontroleerd.",
+            "**Montage en inbedrijfstelling:** elk systeem wordt beproefd met uw eigen voertuigen – zie [Montage & inbedrijfstelling](page:installation-commissioning).",
+            "**Training van personeel:** draaibankoperators, bestuurders van rangeervoertuigen en onderhoudspersoneel worden ter plaatse opgeleid via ons [trainingsprogramma](page:training).",
+            "**Zorg over de hele levensduur:** een [jaarlijks onderhoudscontract](page:annual-maintenance-contract), een [allesomvattend onderhoudscontract (CMC)](page:comprehensive-annual-maintenance-contract) of volledige [bediening & onderhoud](page:operation-and-maintenance) van de depotmachines."
+          ]
+        },
+        {
+          "type": "features",
+          "id": "benefits",
+          "eyebrow": "Resultaten",
+          "heading": "Wat de depoteigenaar wint",
+          "cols": 3,
+          "items": [
+            {
+              "icon": "clock-history",
+              "title": "Meer treinen in dienst",
+              "text": "Herprofileren zonder draaistellen uit te bouwen en minder wachttijd voor rangeerbewegingen verkorten elk depotbezoek."
+            },
+            {
+              "icon": "shield-check",
+              "title": "Veiliger depotroutines",
+              "text": "Minder handmatig reinigen op hoogte en minder rangeerbewegingen met locomotieven rond personeel dat op de sporen werkt."
+            },
+            {
+              "icon": "people",
+              "title": "Eén aanspreekbare partner",
+              "text": "Draaibank-, was-, rangeer- en ankerapparatuur ondersteund door het bedrijf dat ze heeft geleverd."
+            }
+          ]
+        },
+        {
+          "type": "faq",
+          "id": "faq",
+          "heading": "Vragen over depots",
+          "items": [
+            {
+              "q": "Enkele of tandemonderloopdraaibank?",
+              "a": "Een [tandemonderloopdraaibank](page:tandem-underfloor-wheel-lathe) herprofileert beide wielstellen van een draaistel in één opspanning, wat elk bezoek verkort bij vloten met veel assen. Een enkele machine heeft een kortere put nodig en past bij lagere volumes. We bepalen de keuze aan de hand van uw vloot en onderhoudsplan."
+            },
+            {
+              "q": "Kan nieuwe apparatuur worden toegevoegd aan een depot dat al in gebruik is?",
+              "a": "Ja. Draaibankputten en wasinstallaties worden meestal aangelegd op sporen die tijdelijk buiten gebruik kunnen worden gesteld, terwijl de rest van het depot blijft werken. We stemmen de volgorde van de werkzaamheden af met uw operationele team."
+            },
+            {
+              "q": "Heeft een treinstelwerkplaats eigen capaciteit nodig voor het bewerken van losse wielen?",
+              "a": "Sommige wel. HYT leverde een verticale CNC-draaibank aan de EMU-werkplaats Sanpada in Mumbai, waarmee de werkplaats in eigen huis wielen kan bewerken – zie [Uitgevoerde projecten](page:executed-projects#sanpada-emu-car-shed)."
+            },
+            {
+              "q": "Kan een rail-wegvoertuig een rangeerlocomotief vervangen?",
+              "a": "Voor veel bewegingen in het depot wel. Het koppelt op het spoor aan rollend materieel en rijdt tussen de sporen over de weg, zodat één voertuig meerdere sporen kan bedienen. Trekkracht, koppeling en remmen worden afgestemd op uw voertuigen."
+            }
+          ]
+        },
+        {
+          "type": "cta",
+          "heading": "Bouwt of breidt u een depot uit?",
+          "text": "Vertel ons over uw vloot, onderhoudsschema en sporenplan. Wij stellen de depotsystemen voor, met een uitvoeringsplan waarbij uw treinen blijven rijden.",
+          "primary": {
+            "label": "Bespreek uw project",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Uitgevoerde projecten",
+            "page": "executed-projects"
+          }
+        }
+      ]
+    },
+    "ts-rolling-stock-facilities": {
+      "nav": "Productiefaciliteiten voor rollend materieel",
+      "title": "Turnkey wiel- en aswerkplaatsen voor materieelbouwers",
+      "description": "Turnkey wiel- en aswerkplaatsen in fabrieken voor rijtuigen, locomotieven en metro’s: bewerken, persen, meten en balanceren, geïntegreerd in uw productie.",
+      "eyebrow": "Turnkey-oplossingen",
+      "h1": "Wiel- en aswerkplaatsen voor fabrieken van rollend materieel",
+      "lede": "Fabrieken van rijtuigen, locomotieven en metrorijtuigen zijn afhankelijk van een gestage aanvoer van afgewerkte wielstellen. HYT plant en richt de wiel- en aswerkplaats in de fabriek in, afgestemd op het productieritme.",
+      "summary": "Turnkey wiel- en aswerkplaatsen in fabrieken voor rijtuigen, locomotieven en metrorijtuigen, geïntegreerd in de productiestroom van de fabriek.",
+      "blocks": [
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "HYT dient te bevestigen welke referentie-installaties bij fabrikanten van rollend materieel op deze pagina mogen worden genoemd, en in welke mate HYT integratie in de fabriek (transport, gegevensuitwisseling) aanbiedt."
+        },
+        {
+          "type": "text",
+          "id": "overview",
+          "eyebrow": "De faciliteit",
+          "heading": "De wielstelaanvoer binnen een voertuigfabriek",
+          "paragraphs": [
+            "Een fabriek voor rollend materieel bouwt wagenbakken, draaistellen en complete voertuigen volgens een vast leverschema. Wielstellen zijn een input waar de draaistelassemblage niet zonder kan, en ze zijn veiligheidskritisch: elk wielstel moet worden bewerkt, gemonteerd en gedocumenteerd volgens de voertuigspecificatie en de goedkeuringseisen van de opdrachtgever.",
+            "Fabrieken die een eigen wiel- en aswerkplaats opzetten, krijgen met specifieke problemen te maken. De output moet gelijke tred houden met de draaistelassemblage in plaats van simpelweg op volle capaciteit te draaien. Er kunnen meerdere voertuigprojecten tegelijk lopen, elk met eigen wiel- en astekeningen. En de kwaliteitsdossiers van elk wielstel moeten gereed zijn wanneer het voertuig ter keuring wordt aangeboden.",
+            "De rol van HYT is duidelijk afgebakend. Wij bouwen geen wagenbakken of draaistelframes. Wij plannen de wiel- en aswerkplaats (bewerken, persen, meten en balanceren), rusten haar uit, stellen haar in bedrijf en koppelen haar als één turnkey-pakket aan de materiaalstroom en het kwaliteitssysteem van de fabriek."
+          ],
+          "image": "products/wheel-measuring-station",
+          "image_alt": "HYT Wielmeetstation",
+          "layout": "image-right"
+        },
+        {
+          "type": "features",
+          "id": "scope",
+          "eyebrow": "Wat HYT levert",
+          "heading": "Ons deel van de fabriek",
+          "cols": 3,
+          "items": [
+            {
+              "icon": "gear-wide-connected",
+              "title": "Productie-uitrusting voor wielen en assen",
+              "text": "Machines voor asdraaien, uitboren en profileren van wielen, wielpersen, meten en dynamisch balanceren."
+            },
+            {
+              "icon": "diagram-3",
+              "title": "Integratie in de fabriek",
+              "text": "Werkplaatslayout, buffers en overdrachtspunten, afgestemd op de draaistelassemblage en de interne logistiek van de fabriek."
+            },
+            {
+              "icon": "clipboard-data",
+              "title": "Kwaliteitsdossiers",
+              "text": "Meet-, pers- en balanceergegevens per wielstel geordend, ter ondersteuning van de voertuigkeuring."
+            }
+          ]
+        },
+        {
+          "type": "steps",
+          "id": "process",
+          "eyebrow": "Processtroom",
+          "heading": "Van inkomende onderdelen tot draaistelassemblage",
+          "items": [
+            {
+              "title": "Inkomende wielen en assen",
+              "text": "Gesmede of voorbewerkte wielen en assen worden ontvangen, geïdentificeerd en toegewezen aan het voertuigproject waartoe ze behoren."
+            },
+            {
+              "title": "Asbewerking",
+              "text": "Assen worden volgens tekening gedraaid op de [CNC-asdraaibank ATL-01](page:axle-turning-lathe)."
+            },
+            {
+              "title": "Wielbewerking",
+              "text": "Naafboringen, velgvlakken en profielen worden bewerkt op de [CNC-verticale draai- en boormachine](page:vertical-turning-boring-machine), waarbij de boringen worden afgestemd op de gemeten wielzittingen van de as."
+            },
+            {
+              "title": "Montage",
+              "text": "Wielen worden op een [wielpers](page:wheel-presses) op de as geperst, en de perskrachtcurve van elke perspassing wordt vastgelegd."
+            },
+            {
+              "title": "Meten en balanceren",
+              "text": "Binnenwerkse afstand en diameters worden gecontroleerd, en wielstellen worden gebalanceerd waar de voertuigspecificatie dat vereist."
+            },
+            {
+              "title": "Overdracht aan de draaistelassemblage",
+              "text": "Afgewerkte wielstellen gaan met hun dossiers naar de draaistellijn, in het tempo dat het assemblageprogramma vraagt."
+            }
+          ]
+        },
+        {
+          "type": "cards",
+          "id": "equipment",
+          "eyebrow": "HYT-machines",
+          "heading": "Uitrusting in de wiel- en aswerkplaats",
+          "cols": 3,
+          "items": [
+            {
+              "page": "axle-turning-lathe",
+              "image": "products/axle-turning-lathe"
+            },
+            {
+              "page": "vertical-turning-boring-machine",
+              "image": "products/vertical-turning-boring-machine"
+            },
+            {
+              "page": "wheel-presses",
+              "image": "products/wheel-press"
+            },
+            {
+              "page": "wheel-measuring-station",
+              "image": "products/wheel-measuring-station"
+            },
+            {
+              "page": "dynamic-wheel-balancing-machine",
+              "image": "products/dynamic-wheel-balancing-machine"
+            },
+            {
+              "page": "rail-cum-road-vehicle-shunter",
+              "image": "products/rail-cum-road-vehicle-shunter"
+            }
+          ]
+        },
+        {
+          "type": "steps",
+          "id": "delivery",
+          "eyebrow": "Projectuitvoering",
+          "heading": "Zo realiseren wij het",
+          "intro": "Onze aanpak voor [Turnkey (EPC) projecten](page:turnkey-project), afgestemd op een fabriek die vaak tegelijkertijd wordt gebouwd of uitgebreid.",
+          "items": [
+            {
+              "title": "Productiestudie",
+              "text": "De wielstelbehoefte per voertuigproject, de productvarianten en het ritme van de draaistelassemblage bepalen capaciteit en layout."
+            },
+            {
+              "title": "Raakvlakken met het gebouw",
+              "text": "Eisen voor funderingen, kranen en nutsvoorzieningen worden in het fabrieksontwerp verwerkt terwijl dat nog op papier staat."
+            },
+            {
+              "title": "Levering en montage",
+              "text": "De machines worden in Pune gebouwd en getest en daarna ter plaatse gemonteerd en aangesloten. Zie [Montage & inbedrijfstelling](page:installation-commissioning)."
+            },
+            {
+              "title": "Opstartfase",
+              "text": "De eerste wielstellen (first article) worden geproduceerd en samen met uw kwaliteitsteam gecontroleerd voordat de serieproductie begint."
+            },
+            {
+              "title": "Vakkennis en support",
+              "text": "Operators en onderhoudsmonteurs worden opgeleid via ons [trainingsprogramma](page:training), gevolgd door [reserveonderdelen](page:spare-supply) en servicecontracten."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "id": "benefits",
+          "eyebrow": "Resultaten",
+          "heading": "Waarom fabrieken voor deze werkplaats met één partner werken",
+          "paragraphs": [
+            "Wanneer de wiel- en aswerkplaats als één systeem wordt ontworpen, levert ze afgewerkte wielstellen in het tempo dat de draaistellijn nodig heeft – en de dossiers die de voertuigkeuring vereist, komen direct mee."
+          ],
+          "bullets": [
+            "Wielsteloutput afgestemd op het assemblageprogramma",
+            "Consistente perspassingen en geometrie in alle voertuigprojecten",
+            "Volledige documentatie per wielstel voor de keuring",
+            "Omstellingen tussen productvarianten ingepland in machines en opspanmiddelen",
+            "Eén contract voor de uitrusting, integratie en support van de werkplaats"
+          ]
+        },
+        {
+          "type": "faq",
+          "id": "faq",
+          "heading": "Vragen van fabrikanten",
+          "items": [
+            {
+              "q": "Levert HYT draaistelframes of uitrusting voor wagenbakken?",
+              "a": "Nee. De scope van HYT omvat de wiel- en aswerkplaats: bewerken, persen, meten en balanceren van wielstellen, plus het transport en de integratie binnen die werkplaats. De productie van draaistellen en wagenbakken blijft bij de fabrikant en zijn andere leveranciers."
+            },
+            {
+              "q": "Kan de werkplaats meerdere voertuigprojecten tegelijk bedienen?",
+              "a": "Ja. De machines worden gespecificeerd voor het assortiment wiel- en asontwerpen dat u verwacht, en voor elke variant worden NC-programma’s en opspanmiddelen voorbereid, zodat omstellen routine wordt."
+            },
+            {
+              "q": "Kunnen we klein beginnen en later uitbreiden?",
+              "a": "Ja. In de layout kunnen ruimte en nutsvoorzieningen worden gereserveerd voor extra machines, zodat de capaciteit meegroeit met uw orderportefeuille zonder dat de werkplaats hoeft te worden verbouwd. Ook kan een rail-wegvoertuig (rangeervoertuig) worden toegevoegd om afgewerkte voertuigen over het fabrieksterrein te verplaatsen."
+            },
+            {
+              "q": "Hoe wordt de werkplaats gekoppeld aan ons kwaliteitssysteem?",
+              "a": "Meet-, pers- en balanceerresultaten worden vastgelegd onder de identiteit van elk wielstel. Tijdens de engineering spreken we het gegevensformaat en de overdrachtsmethode af met uw kwaliteits- en IT-teams. Voor gekoppeld transport en gekoppelde gegevens, zie [automatisering van de wielstelwerkplaats](page:ts-wheel-shops#automation)."
+            }
+          ]
+        },
+        {
+          "type": "cta",
+          "heading": "Zet u een wiel- en aswerkplaats op in uw fabriek?",
+          "text": "Deel uw voertuigprogramma en wielstelbehoefte met ons. Wij schetsen een werkplaats die gelijke tred houdt met uw draaistellijn.",
+          "primary": {
+            "label": "Bespreek uw project",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Turnkey (EPC) projecten",
+            "page": "turnkey-project"
+          }
+        }
+      ]
+    },
+    "ts-wheelset-plants": {
+      "nav": "Fabrieken voor wielstelproductie",
+      "title": "Turnkey fabrieken voor wielstelproductie (EPC)",
+      "description": "Turnkey (EPC) fabrieken voor nieuwe wielstellen: as- en wielbewerking, persen, meten, dynamisch balanceren, traceerbaarheid en eindinspectie door HYT.",
+      "eyebrow": "Turnkey-oplossingen",
+      "h1": "Turnkey fabrieken voor de productie van nieuwe wielstellen",
+      "lede": "Een wielstelfabriek maakt van gesmede wielen en assen afgewerkte, traceerbare wielstellen. HYT ontwerpt de complete productievolgorde en levert de machines die daarvan de kern vormen.",
+      "summary": "Fabrieken die nieuwe wielstellen produceren – as- en wielbewerking, persen, meten, balanceren, traceerbaarheid en eindinspectie.",
+      "blocks": [
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "HYT dient te bevestigen of er referentiefabrieken voor wielstellen mogen worden genoemd, en welke traceerbaarheidssoftware en transportapparatuur binnen de eigen levering van HYT vallen."
+        },
+        {
+          "type": "text",
+          "id": "overview",
+          "eyebrow": "De faciliteit",
+          "heading": "Wielstellen produceren als product",
+          "paragraphs": [
+            "Anders dan een wielstelwerkplaats, die wielstellen in dienst herstelt, begint een wielstelfabriek met nieuwe componenten: gesmede of gewalste wielen en gesmede assen. De output gaat naar voertuigbouwers, spoorwegen en metrobedrijven, vaak volgens meerdere klantspecificaties tegelijk.",
+            "De technische eisen zijn streng. Elke wielboring moet passen bij de wielzitting waarop het wiel wordt gemonteerd, elke perspassing moet met haar krachtregistratie worden aangetoond en balans en geometrie moeten binnen de grenzen van de klant blijven. Afnemers verwachten voor elk wielstel een volledige historie, van de identiteit van de smeedstukken tot het eindinspectierapport.",
+            "Door de fabriek als één systeem te ontwerpen in plaats van machines één voor één aan te schaffen, blijven deze eisen beheersbaar. HYT ontwerpt de volgorde van de werkplekken, de datakoppelingen en het transport in samenhang en levert de bewerkings-, pers-, meet- en balanceerapparatuur uit eigen fabriek."
+          ],
+          "image": "projects/wheel-shop-automation-line",
+          "image_alt": "Voorbeeldillustratie van een productielijn voor wielstellen waarin wielen en assen tussen machines worden verplaatst",
+          "layout": "image-right"
+        },
+        {
+          "type": "features",
+          "id": "scope",
+          "eyebrow": "Wat HYT levert",
+          "heading": "Wat een project voor een wielstelfabriek omvat",
+          "cols": 3,
+          "items": [
+            {
+              "icon": "compass",
+              "title": "Fabrieksconcept",
+              "text": "Productassortiment, productiedoel en ploegenrooster vertaald in een volgorde van werkplekken en een gebouwlayout."
+            },
+            {
+              "icon": "disc",
+              "title": "As- en wielbewerking",
+              "text": "Werkplekken voor asdraaien en voor het uitboren en profileren van wielen, gedimensioneerd op het volume van de fabriek."
+            },
+            {
+              "icon": "arrow-left-right",
+              "title": "Gepaarde montage",
+              "text": "Boring- en zittingmaten worden aan elkaar gekoppeld, zodat elk wiel de voorgeschreven overmaat op de as bereikt."
+            },
+            {
+              "icon": "speedometer",
+              "title": "Balanceren en geometrie",
+              "text": "Dynamisch balanceren en wielstelmeting volgens de grenswaarden van elke klant."
+            },
+            {
+              "icon": "upc-scan",
+              "title": "Traceerbaarheid",
+              "text": "Componentidentiteiten gekoppeld aan meetwaarden, perscurves en inspectieresultaten."
+            },
+            {
+              "icon": "tools",
+              "title": "Opstart en support",
+              "text": "Van proefproductie tot serieproductie, training van personeel en langdurige service voor elke HYT-machine."
+            }
+          ]
+        },
+        {
+          "type": "steps",
+          "id": "process",
+          "eyebrow": "Processtroom",
+          "heading": "Werkplek voor werkplek door een wielstelfabriek",
+          "items": [
+            {
+              "title": "Ontvangst van componenten",
+              "text": "Gesmede wielen en assen worden geïdentificeerd, aan de hand van hun documenten gecontroleerd en in het traceerbaarheidssysteem geregistreerd."
+            },
+            {
+              "title": "Asbewerking",
+              "text": "De [CNC-asdraaibank ATL-01](page:axle-turning-lathe) draait astappen, zittingen, overgangen en asschacht; de zittingdiameters worden gemeten voor het paren."
+            },
+            {
+              "title": "Wielbewerking",
+              "text": "Elk wiel wordt uitgeboord en geprofileerd op de [verticale draai- en boormachine](page:vertical-turning-boring-machine), met de boring afgestemd op de bijbehorende wielzitting van de as."
+            },
+            {
+              "title": "Persen",
+              "text": "Een [wielpers](page:wheel-presses) monteert beide wielen op de voorgeschreven binnenwerkse afstand en legt de kracht–wegcurve vast."
+            },
+            {
+              "title": "Meten en balanceren",
+              "text": "Het [wielmeetstation](page:wheel-measuring-station) controleert de geometrie; de [dynamische balanceermachine](page:dynamic-wheel-balancing-machine) meet de onbalans en geeft aan hoe die moet worden gecorrigeerd."
+            },
+            {
+              "title": "Eindinspectie en verzending",
+              "text": "Het complete dossier wordt beoordeeld, waarna het wielstel wordt gemerkt, beschermd en aan de klant vrijgegeven."
+            }
+          ]
+        },
+        {
+          "type": "cards",
+          "id": "equipment",
+          "eyebrow": "HYT-machines",
+          "heading": "Uitrusting in de fabriek",
+          "cols": 3,
+          "items": [
+            {
+              "page": "axle-turning-lathe",
+              "image": "products/axle-turning-lathe"
+            },
+            {
+              "page": "vertical-turning-boring-machine",
+              "image": "products/vertical-turning-boring-machine"
+            },
+            {
+              "page": "wheel-presses",
+              "image": "products/wheel-press"
+            },
+            {
+              "page": "wheel-measuring-station",
+              "image": "products/wheel-measuring-station"
+            },
+            {
+              "page": "dynamic-wheel-balancing-machine",
+              "image": "products/dynamic-wheel-balancing-machine"
+            },
+            {
+              "page": "surface-wheel-lathe",
+              "image": "products/surface-wheel-lathe"
+            }
+          ]
+        },
+        {
+          "type": "steps",
+          "id": "delivery",
+          "eyebrow": "Projectuitvoering",
+          "heading": "De fabriek realiseren",
+          "intro": "Onze aanpak voor [Turnkey (EPC) projecten](page:turnkey-project), toegepast op de serieproductie van een veiligheidskritisch onderdeel.",
+          "items": [
+            {
+              "title": "Definitie van product en capaciteit",
+              "text": "Wiel- en astypen, klantnormen en productiedoelen worden samen met uw team vastgelegd."
+            },
+            {
+              "title": "Fabrieksengineering",
+              "text": "Layout, funderingen, kranen, transport en het datamodel voor traceerbaarheid worden in samenhang ontworpen."
+            },
+            {
+              "title": "Productie en fabriekstests",
+              "text": "HYT-machines worden vóór verzending gebouwd en getest in onze fabriek in Pune."
+            },
+            {
+              "title": "Montage en opstart",
+              "text": "[Montage & inbedrijfstelling](page:installation-commissioning) ter plaatse, gevolgd door proefproductie tot de afgesproken output en kwaliteit zijn bereikt."
+            },
+            {
+              "title": "Productiesupport",
+              "text": "[Training](page:training), [reserveonderdelen](page:spare-supply) en een [allesomvattend onderhoudscontract (CMC)](page:comprehensive-annual-maintenance-contract) houden de output stabiel."
+            }
+          ]
+        },
+        {
+          "type": "features",
+          "id": "benefits",
+          "eyebrow": "Resultaten",
+          "heading": "Wat de fabriekseigenaar wint",
+          "cols": 3,
+          "items": [
+            {
+              "icon": "graph-up",
+              "title": "Voorspelbare output",
+              "text": "Een uitgebalanceerde volgorde van werkplekken, zodat geen enkele machine het tempo van de hele fabriek bepaalt."
+            },
+            {
+              "icon": "check2-circle",
+              "title": "Aantoonbare kwaliteit",
+              "text": "Elk wielstel vertrekt met zijn perscurve, geometrie en balanceerresultaten vastgelegd in het dossier."
+            },
+            {
+              "icon": "link-45deg",
+              "title": "Eén verantwoordelijke partij",
+              "text": "Eén partner aanspreekbaar op de machines, de datakoppelingen en de prestaties van de fabriek."
+            }
+          ]
+        },
+        {
+          "type": "faq",
+          "id": "faq",
+          "heading": "Vragen over wielstelfabrieken",
+          "items": [
+            {
+              "q": "Wat is het verschil tussen een wielstelfabriek en een wielstelwerkplaats?",
+              "a": "Een wielstelfabriek produceert nieuwe wielstellen uit nieuwe wielen en assen. Een wielstelwerkplaats reviseert wielstellen die al in dienst zijn – zie [Wielstelwerkplaatsen](page:ts-wheel-shops)."
+            },
+            {
+              "q": "Hoe wordt traceerbaarheid bereikt?",
+              "a": "Elk wiel en elke as wordt bij aankomst geïdentificeerd. De meetwaarden, de paring bij het persen, de kracht–wegregistratie en de resultaten van balanceren en eindinspectie worden onder die identiteit opgeslagen, zodat de historie van een wielstel op elk moment kan worden opgevraagd."
+            },
+            {
+              "q": "Kunnen gemonteerde wielstellen in de fabriek worden nageprofileerd?",
+              "a": "Sommige specificaties schrijven voor dat het loopvlakprofiel na de montage wordt afgewerkt, zodat beide wielen zuiver rond lopen ten opzichte van de as. Hiervoor kan een [CNC-vloerwielenbank](page:surface-wheel-lathe) in de lijn worden opgenomen."
+            },
+            {
+              "q": "Kan één fabriek volgens verschillende klantnormen produceren?",
+              "a": "Ja. Machinebereiken, gereedschappen, persprogramma’s en inspectiegrenzen worden tijdens de engineering voor het volledige productassortiment gespecificeerd, en elk wielstel wordt bewerkt volgens de eisen van de bijbehorende order."
+            }
+          ]
+        },
+        {
+          "type": "cta",
+          "heading": "Plant u een wielstelfabriek?",
+          "text": "Stuur ons uw productassortiment en productiedoelen. Wij schetsen de fabriek, de belangrijkste machines en de weg naar serieproductie.",
+          "primary": {
+            "label": "Bespreek uw project",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Turnkey (EPC) projecten",
+            "page": "turnkey-project"
+          }
+        }
+      ]
+    },
+    "ts-wheel-machining-lines": {
+      "nav": "Wielbewerkingslijnen",
+      "title": "Turnkey bewerkingslijnen voor spoorwielen",
+      "description": "Turnkey CNC-lijnen voor spoorwielen: voor- en nadraaien van loopvlak en flens, naafboren op verticale draaibanken, inline meten en transport tussen werkplekken.",
+      "eyebrow": "Turnkey-oplossingen",
+      "h1": "Turnkey wielbewerkingslijnen",
+      "lede": "Spoorwielen moeten de bewerking verlaten met een exacte boring en een zuiver profiel. HYT ontwerpt speciale lijnen rond de eigen CNC-verticale draai- en boormachines, met meten en transport tussen de werkplekken.",
+      "summary": "Speciale lijnen voor het bewerken van spoorwielen – voor- en nadraaien, naafboren, meten en transport tussen werkplekken.",
+      "blocks": [
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "HYT dient te bevestigen welke referenties voor wielbewerkingslijnen mogen worden genoemd, en welke transportapparatuur (laders, transportbanden, keerinrichtingen) binnen de eigen levering van HYT valt."
+        },
+        {
+          "type": "text",
+          "id": "overview",
+          "eyebrow": "De faciliteit",
+          "heading": "Een lijn, geen rij machines",
+          "paragraphs": [
+            "Een wielbewerkingslijn neemt losse spoorwielen – nieuwe smeedstukken of vervangende wielen voor revisie – en bewerkt loopvlak, flens, velgvlakken, naafvlakken en naafboring volgens tekening. De lijn kan zelfstandig staan en een persafdeling bevoorraden, of één sectie vormen van een grotere wielstelfabriek.",
+            "De meeste moeilijkheden zitten tussen de bewerkingen in. Een wiel wordt normaal gesproken in twee opspanningen bewerkt en moet dus worden gekeerd; het is zwaar, en een operator die op een kraan wacht, bepaalt al snel het tempo van de hele lijn. Voordraaien door de smeedhuid is zwaar voor het gereedschap, terwijl bij het nadraaien boringdiameter en slingering binnen nauwe toleranties moeten blijven. Hoe deze bewerkingen over de machines worden verdeeld, bepaalt de output van de lijn.",
+            "HYT plant de lijn als geheel: de verdeling van de bewerkingen over de werkplekken, het transport en het keren daartussen en de punten waar wordt gemeten. De bewerkingsstations zelf zijn [CNC-verticale draai- en boormachines](page:vertical-turning-boring-machine) van HYT."
+          ],
+          "image": "products/wheelset-profile-closeup",
+          "image_alt": "Close-up van het herprofileren van het loopvlak van een spoorwiel",
+          "layout": "image-right"
+        },
+        {
+          "type": "features",
+          "id": "scope",
+          "eyebrow": "Wat HYT levert",
+          "heading": "Drie dingen die een wiellijn laten werken",
+          "cols": 3,
+          "items": [
+            {
+              "icon": "layers",
+              "title": "Verdeling van bewerkingen en cyclusbalans",
+              "text": "Voor- en nabewerking verdeeld over de werkplekken, zodat geen enkele machine de rest ophoudt."
+            },
+            {
+              "icon": "arrow-down-up",
+              "title": "Transport en keren",
+              "text": "Laden, transport tussen werkplekken en keren van het wiel tussen zijn twee opspanningen."
+            },
+            {
+              "icon": "rulers",
+              "title": "Inline meten",
+              "text": "Boring, velg en profiel gecontroleerd op vastgestelde punten, met de resultaten per wiel vastgelegd."
+            }
+          ]
+        },
+        {
+          "type": "steps",
+          "id": "process",
+          "eyebrow": "Processtroom",
+          "heading": "Bewerkingen langs de lijn",
+          "items": [
+            {
+              "title": "Laden en identificatie",
+              "text": "Elk wiel wordt geïdentificeerd en op de eerste werkplek geplaatst, gepositioneerd op zijn referentievlakken."
+            },
+            {
+              "title": "Eerste opspanning",
+              "text": "De eerste zijde wordt bewerkt: velg- en naafvlakken, een deel van het profiel en een voorboring die de smeedtoegift verwijdert."
+            },
+            {
+              "title": "Keren",
+              "text": "Het wiel wordt gekeerd, zodat de tweede zijde kan worden bewerkt vanaf de reeds bewerkte vlakken."
+            },
+            {
+              "title": "Tweede opspanning en nabewerking",
+              "text": "De resterende vlakken worden bewerkt, loopvlak en flens worden op profiel afgewerkt en de naafboring wordt op de einddiameter gebracht."
+            },
+            {
+              "title": "Meten en balanceren",
+              "text": "Boring, velgafmetingen en profiel worden op de lijn gecontroleerd; waar de specificatie dat vereist, wordt het wiel vóór vrijgave gebalanceerd."
+            },
+            {
+              "title": "Doorvoer",
+              "text": "Goedgekeurde wielen gaan met hun gegevens naar de persafdeling, het magazijn of de verzending; wielen buiten tolerantie worden uitgesluisd voor correctie."
+            }
+          ]
+        },
+        {
+          "type": "cards",
+          "id": "equipment",
+          "eyebrow": "HYT-machines",
+          "heading": "Uitrusting in de lijn",
+          "cols": 3,
+          "items": [
+            {
+              "page": "vertical-turning-boring-machine",
+              "image": "products/vertical-turning-boring-machine"
+            },
+            {
+              "page": "wheel-measuring-station",
+              "image": "products/wheel-measuring-station"
+            },
+            {
+              "page": "dynamic-wheel-balancing-machine",
+              "image": "products/dynamic-wheel-balancing-machine"
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "id": "delivery",
+          "heading": "Een wielbewerkingslijn realiseren",
+          "intro": "Een gerichte toepassing van onze aanpak voor [Turnkey (EPC) projecten](page:turnkey-project).",
+          "cols": 1,
+          "items": [
+            "**Beoordeling van onderdeel en volume:** wieltekeningen, smeedtoegiften en jaarhoeveelheden bepalen het aantal werkplekken en hun taken.",
+            "**Lijnlayout en funderingen:** machineposities, transportruimte en funderingen worden overeengekomen en vrijgegeven voor het bouwkundige werk.",
+            "**Gereedschappen en NC-programma’s:** verspaningsstrategieën en CNC-programma’s worden voorbereid en tijdens [Montage & inbedrijfstelling](page:installation-commissioning) met uw wielen beproefd.",
+            "**Training van operators:** instellers en operators worden via ons [trainingsprogramma](page:training) opgeleid in de machines en de lijnroutines.",
+            "**Support en groei:** [Reserveonderdelen & support](page:spare-supply) en een [jaarlijks onderhoudscontract](page:annual-maintenance-contract) houden de lijn productief; met [automatisering van de wielstelwerkplaats](page:ts-wheel-shops#automation) kan de lijn later verder worden gekoppeld."
+          ]
+        },
+        {
+          "type": "text",
+          "id": "benefits",
+          "eyebrow": "Resultaten",
+          "heading": "Resultaten voor de lijneigenaar",
+          "paragraphs": [
+            "Een lijn die als één proces is uitgebalanceerd en gemeten, levert een stabiele output – en wielen die in één keer goed worden opgeperst."
+          ],
+          "bullets": [
+            "Consistente boringmaten voor betrouwbare perspassingen",
+            "Profielen volgens tekening, zodat nieuwe wielen zonder correctiebewerking in dienst gaan",
+            "Minder kraanwerk en minder handmatig keren",
+            "Meetgegevens die elk wiel volgen tot aan de pers",
+            "Eén leverancier verantwoordelijk voor machines, transport en lijnprestaties"
+          ]
+        },
+        {
+          "type": "faq",
+          "id": "faq",
+          "heading": "Vragen over wiellijnen",
+          "items": [
+            {
+              "q": "Waarom verticale draaibanken voor spoorwielen?",
+              "a": "Het wiel ligt plat op een draaitafel, waardoor zware wielen eenvoudig te laden zijn en stabiel blijven onder de snijbelasting. Loopvlak, flens, vlakken en boring zijn allemaal van bovenaf bereikbaar. Zie de [CNC-verticale draai- en boormachine YVM-04](page:vertical-turning-boring-machine)."
+            },
+            {
+              "q": "Hoeveel machines heeft een wiellijn nodig?",
+              "a": "Dat hangt af van de wielmaat, de smeedtoegift, de vereiste output en het ploegenrooster. We berekenen de cyclustijden voor uw wielen en stellen het aantal werkplekken voor, en hoe de bewerkingen daarover worden verdeeld."
+            },
+            {
+              "q": "Kan de lijn ook wielbanden bewerken?",
+              "a": "Ja, als uw vloot bandagewielen gebruikt. De verticale draai- en boormachine bewerkt ook banden en andere ronde onderdelen van het wielstel, en de lijnlayout houdt daar rekening mee als dat is gespecificeerd."
+            },
+            {
+              "q": "Heeft HYT verticale draaibanken voor spoorwielen geleverd?",
+              "a": "Ja. HYT leverde een verticale CNC-draaibank aan de EMU-werkplaats Sanpada in Mumbai en een verticale CNC-revolverdraaibank aan de State Railway of Thailand in Bangkok. Details vindt u onder [Uitgevoerde projecten](page:executed-projects)."
+            }
+          ]
+        },
+        {
+          "type": "cta",
+          "heading": "Plant u een wielbewerkingslijn?",
+          "text": "Stuur ons uw wieltekeningen en jaarvolumes. Wij stellen een lijnconcept voor, met een layout van de werkplekken en een raming van de cyclustijden.",
+          "primary": {
+            "label": "Bespreek uw project",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Uitgevoerde projecten",
+            "page": "executed-projects"
+          }
+        }
+      ]
+    },
+    "ts-axle-machining-lines": {
+      "nav": "Asbewerkingslijnen",
+      "title": "Turnkey bewerkingslijnen voor spoorwegassen",
+      "description": "Turnkey asbewerkingslijnen voor nieuwe en gereviseerde spoorwegassen: CNC-asdraaien, astappen draaien en rolpolijsten, meten en transport tussen werkplekken.",
+      "eyebrow": "Turnkey-oplossingen",
+      "h1": "Turnkey asbewerkingslijnen",
+      "lede": "Spoorwegassen dragen de volle last van het voertuig en moeten tientallen jaren bestand zijn tegen vermoeiing. HYT plant aslijnen voor nieuwbouw, revisie of beide, rond de eigen CNC-asdraaibanken en draai- en rolpolijstbanken voor astappen.",
+      "summary": "Lijnen voor asdraaien, het draaien en rolpolijsten van astappen, meten en transport – voor nieuwbouw, revisie of beide.",
+      "blocks": [
+        {
+          "type": "notice",
+          "variant": "review",
+          "text": "HYT dient te bevestigen welke referentie-installaties voor asbewerkingslijnen kunnen worden genoemd, en welke transport- en asmeetapparatuur binnen de eigen levering van HYT valt."
+        },
+        {
+          "type": "text",
+          "id": "overview",
+          "eyebrow": "De faciliteit",
+          "heading": "Twee soorten aswerk, één lijnconcept",
+          "paragraphs": [
+            "Een asbewerkingslijn draait spoorwegassen volgens tekening en werkt de oppervlakken af waarop lagers en wielen komen te zitten. Diameters, concentriciteit en de overgangsradii tussen de zittingen zijn allemaal van belang, omdat vermoeiingsscheuren ontstaan waar geometrie of oppervlakteafwerking tekortschiet.",
+            "Onder deze noemer vallen twee heel verschillende taken. **Nieuwbouw** begint met een gesmeed halffabricaat dat over de hele lengte moet worden gedraaid. **Revisie** begint met een as die al jaren heeft gereden: de astappen moeten worden hersteld en opnieuw afgewerkt, terwijl de rest van de as blijft zoals hij is. Wie beide combineert op ongeschikte machines, krijgt lange omsteltijden, verspilde capaciteit en ongelijkmatige oppervlakken.",
+            "HYT bouwt voor elke taak een eigen machine. Voor nieuwe assen draait de [CNC-asdraaibank ATL-01](page:axle-turning-lathe) astappen, stofkeerringzittingen, wielzittingen, overgangen en asschacht. Voor revisie draait de [draai- en rolpolijstbank voor astappen](page:axle-journal-turning-burnishing-lathe) versleten astappen terug binnen de toleranties en rolpolijst ze daarna. We plannen de lijn rond het werk dat uw faciliteit uitvoert – of rond beide, als een werkplaats nieuwe assen produceert én gebruikte assen reviseert."
+          ],
+          "image": "products/axle-journal-turning-burnishing-lathe",
+          "image_alt": "HYT CNC-draai- en rolpolijstbank voor astappen (YTB 04)",
+          "layout": "image-right"
+        },
+        {
+          "type": "features",
+          "id": "scope",
+          "eyebrow": "Wat HYT levert",
+          "heading": "Scope van een aslijn",
+          "cols": 3,
+          "items": [
+            {
+              "icon": "signpost-split",
+              "title": "Nieuwbouw, revisie of gemengd",
+              "text": "Een lijnconcept voor nieuwe assen, revisieassen of beide stromen, met gedeeld transport en gedeelde meting."
+            },
+            {
+              "icon": "gear",
+              "title": "Volledig asdraaien",
+              "text": "ATL-01-werkplekken die gesmede assen over de volle lengte volgens tekening draaien."
+            },
+            {
+              "icon": "record-circle",
+              "title": "Herstel van astappen",
+              "text": "Werkplekken voor het draaien en rolpolijsten van astappen van assen die uit de dienst terugkomen."
+            },
+            {
+              "icon": "rulers",
+              "title": "Asmeting",
+              "text": "Diameters en zittingmaten vastgelegd vóór en na de bewerking, klaar om te paren met wielen."
+            },
+            {
+              "icon": "arrows-move",
+              "title": "Astransport",
+              "text": "Veilig transport van lange, zware assen tussen werkplekken, rekken en magazijnen."
+            },
+            {
+              "icon": "person-gear",
+              "title": "Training en service",
+              "text": "Training van operators, reserveonderdelen en onderhoudscontracten voor elke HYT-machine in de lijn."
+            }
+          ]
+        },
+        {
+          "type": "steps",
+          "id": "process",
+          "eyebrow": "Processtroom",
+          "heading": "Typische volgorde in een aslijn",
+          "intro": "Nieuwe assen en revisieassen volgen verschillende routes door de lijn. De stappen laten zien waar ze uiteengaan en waar ze weer samenkomen.",
+          "items": [
+            {
+              "title": "Ontvangst en identificatie",
+              "text": "Gesmede halffabricaten of gebruikte assen worden geïdentificeerd en geregistreerd; gebruikte assen worden vóór de bewerking gereinigd en door uw inspectiepersoneel vrijgegeven."
+            },
+            {
+              "title": "Centreren en opspannen",
+              "text": "De as wordt tussen centers opgespannen, zodat elke diameter concentrisch ten opzichte van dezelfde hartlijn wordt bewerkt."
+            },
+            {
+              "title": "Volledig draaien (nieuwe assen)",
+              "text": "De ATL-01 draait astappen, stofkeerringzittingen, wielzittingen, overgangsradii en asschacht volgens tekening."
+            },
+            {
+              "title": "Herstel van astappen (revisieassen)",
+              "text": "Versleten of beschadigde astappen worden binnen de toelaatbare grenzen gedraaid en gerolpolijst tot de voorgeschreven oppervlakteafwerking."
+            },
+            {
+              "title": "Meten",
+              "text": "Diameters en zittingmaten worden vastgelegd; voor de wielmontage worden de zittinggegevens doorgegeven om te paren met de wielboringen."
+            },
+            {
+              "title": "Doorvoer naar montage of opslag",
+              "text": "Goedgekeurde assen gaan met hun dossiers naar de [wielpers](page:wheel-presses) of naar de opslag."
+            }
+          ]
+        },
+        {
+          "type": "cards",
+          "id": "equipment",
+          "eyebrow": "HYT-machines",
+          "heading": "Uitrusting in de lijn",
+          "cols": 3,
+          "items": [
+            {
+              "page": "axle-turning-lathe",
+              "image": "products/axle-turning-lathe"
+            },
+            {
+              "page": "axle-journal-turning-burnishing-lathe",
+              "image": "products/axle-journal-turning-burnishing-lathe"
+            },
+            {
+              "page": "wheel-presses",
+              "image": "products/wheel-press"
+            }
+          ]
+        },
+        {
+          "type": "steps",
+          "id": "delivery",
+          "eyebrow": "Projectuitvoering",
+          "heading": "Een aslijn realiseren",
+          "intro": "Een gerichte toepassing van onze aanpak voor [Turnkey (EPC) projecten](page:turnkey-project).",
+          "items": [
+            {
+              "title": "Asassortiment en volumes",
+              "text": "Astekeningen, aantallen voor nieuwbouw en revisie en inspectie-eisen bepalen het lijnconcept."
+            },
+            {
+              "title": "Layout en funderingen",
+              "text": "Machineposities, asrekken en transportroutes worden gepland, en funderingsgegevens worden vrijgegeven voor de bouwkundige werken."
+            },
+            {
+              "title": "Levering en montage",
+              "text": "De machines worden in Pune gebouwd en getest en daarna geïnstalleerd en beproefd met uw assen – zie [Montage & inbedrijfstelling](page:installation-commissioning)."
+            },
+            {
+              "title": "Training en support gedurende de levensduur",
+              "text": "[Training](page:training) voor operators en onderhoudspersoneel, gevolgd door onderhoudscontracten en [retrofit & upgrades](page:retro-fitment-upgradation) gedurende de levensduur van de lijn."
+            }
+          ]
+        },
+        {
+          "type": "features",
+          "id": "benefits",
+          "eyebrow": "Resultaten",
+          "heading": "Wat de lijneigenaar wint",
+          "cols": 3,
+          "items": [
+            {
+              "icon": "shield-check",
+              "title": "Bewerking met oog voor vermoeiing",
+              "text": "De juiste geometrie en oppervlakte op zittingen, overgangen en astappen – precies waar de levensduur van een as wordt bepaald."
+            },
+            {
+              "icon": "recycle",
+              "title": "Meer assen terug in dienst",
+              "text": "Door astappen te herstellen kunnen bruikbare assen weer worden ingezet in plaats van te worden vervangen."
+            },
+            {
+              "icon": "diagram-2",
+              "title": "De juiste machine voor elke taak",
+              "text": "Nieuwbouw- en revisiewerk op machines die daarvoor zijn ontworpen, zonder lange omsteltijden en stilstaande capaciteit."
+            }
+          ]
+        },
+        {
+          "type": "faq",
+          "id": "faq",
+          "heading": "Vragen over aslijnen",
+          "items": [
+            {
+              "q": "Wat is het verschil tussen de ATL-01 en de draai- en rolpolijstbank voor astappen?",
+              "a": "De [ATL-01](page:axle-turning-lathe) is een productiemachine die een complete as draait uit een ruw of gesmeed halffabricaat. De [draai- en rolpolijstbank voor astappen](page:axle-journal-turning-burnishing-lathe) is een revisiemachine die de astappen van assen in dienst herstelt en rolpolijst. Een lijn voor nieuwe assen wordt rond de eerste opgebouwd, een revisielijn rond de tweede."
+            },
+            {
+              "q": "Waarom astappen rolpolijsten na het draaien?",
+              "a": "Geharde rollen drukken de toppen weg die het draaigereedschap achterlaat en zorgen voor een glad, verdicht oppervlak voor het lager. Rolpolijsten is een koudvervormingsproces waarbij geen spanen ontstaan."
+            },
+            {
+              "q": "Kan één lijn zowel nieuwe assen als revisieassen verwerken?",
+              "a": "Ja, als uw faciliteit beide nodig heeft. De twee stromen gebruiken verschillende machines, maar kunnen ontvangst, transport, meting en opslag delen, wat het gebouw compact houdt."
+            },
+            {
+              "q": "Maakt niet-destructief onderzoek van assen deel uit van de lijn?",
+              "a": "Ultrasoon onderzoek en magnetisch scheuronderzoek worden normaal gesproken uitgevoerd door het inspectiepersoneel van de eigenaar, volgens de eigen procedures van de spoorwegonderneming. Wij plannen de ruimte voor het onderzoek en de aan- en afvoer van assen als onderdeel van de layout."
+            }
+          ]
+        },
+        {
+          "type": "cta",
+          "heading": "Plant u een aslijn?",
+          "text": "Deel uw astekeningen en de verhouding tussen nieuwbouw- en revisiewerk met ons. Wij stellen de machines en een layout voor de lijn voor.",
+          "primary": {
+            "label": "Bespreek uw project",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Turnkey (EPC) projecten",
+            "page": "turnkey-project"
+          }
+        }
+      ]
+    }
+  }
+}

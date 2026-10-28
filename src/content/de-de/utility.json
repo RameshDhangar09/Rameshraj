@@ -1,0 +1,146 @@
+{
+  "pages": {
+    "contact-us": {
+      "nav": "Kontakt",
+      "title": "Kontakt – HYT Engineering",
+      "description": "Kontaktieren Sie HYT Engineering in Pune, Neu-Delhi oder bei SAFOP in Italien zu CNC-Radsatzdrehmaschinen, Radsatzwerkstätten, schlüsselfertigen Werkstätten oder Service. Wir antworten innerhalb von 24 Stunden.",
+      "eyebrow": "Kontakt",
+      "h1": "Kommen wir ins Gespräch",
+      "lede": "Ob Sie eine neue Radsatzwerkstatt planen, Serviceunterstützung für vorhandene Maschinen benötigen oder eine Partnerschaft ausloten möchten – unser Team antwortet Ihnen innerhalb von 24 Stunden.",
+      "summary": "Unsere Standorte in Pune, Neu-Delhi und Pordenone (Italien), Telefon, E-Mail und Anfrageformular.",
+      "blocks": [
+        {
+          "type": "contact",
+          "id": "locations"
+        },
+        {
+          "type": "form",
+          "id": "enquiry",
+          "form": "enquiry",
+          "eyebrow": "Kontaktformular",
+          "heading": "Schreiben Sie uns",
+          "intro": "Erzählen Sie uns von Ihrer Flotte, Ihrer Werkstatt oder der Aufgabe, die Sie lösen möchten. Hilfreich sind Angaben zu Fahrzeugtypen, Raddurchmesserbereich, Spurweite und der erwarteten Anzahl an Radsätzen pro Schicht."
+        },
+        {
+          "type": "split_cta",
+          "items": [
+            {
+              "icon": "headset",
+              "heading": "Kundendienst",
+              "text": "Maschinenstillstand oder Ersatzteile benötigt? Finden Sie den richtigen Serviceansprechpartner für Ihre Anlage.",
+              "label": "Servicenetz",
+              "page": "service-centers"
+            },
+            {
+              "icon": "truck",
+              "heading": "Lieferanten",
+              "text": "Sie möchten HYT mit Komponenten oder Dienstleistungen beliefern? Registrieren Sie Ihr Unternehmen bei unserem Einkauf.",
+              "label": "Lieferantenregistrierung",
+              "page": "supplier-registration"
+            },
+            {
+              "icon": "briefcase",
+              "heading": "Karriere",
+              "text": "Sie suchen eine Aufgabe in Engineering, Fertigung oder Service? Bewerben Sie sich über unsere Karriereseite.",
+              "label": "Zur Karriereseite",
+              "page": "career"
+            }
+          ]
+        }
+      ]
+    },
+
+    "sitemap": {
+      "nav": "Sitemap",
+      "title": "Sitemap – alle Seiten",
+      "description": "Alle Seiten der HYT-Engineering-Website auf einen Blick: Unternehmen, Produkte, schlüsselfertige Projekte, Service, Branchen, Medien, Karriere und Rechtliches.",
+      "eyebrow": "Website-Informationen",
+      "h1": "Sitemap",
+      "lede": "Alle Seiten dieser Website, nach Bereichen gegliedert. Geben Sie einen Begriff in das Suchfeld ein, um die Liste zu filtern.",
+      "summary": "Ein Überblick über alle Seiten der HYT-Engineering-Website.",
+      "blocks": [
+        {
+          "type": "sitemap",
+          "heading": "Alle Seiten"
+        },
+        {
+          "type": "cards",
+          "eyebrow": "Beliebte Einstiegspunkte",
+          "heading": "Sie wissen nicht, wo Sie anfangen sollen?",
+          "cols": 4,
+          "items": [
+            {"page": "products", "icon": "grid-3x3-gap"},
+            {"page": "services", "icon": "tools"},
+            {"page": "knowledge-centre", "icon": "lightbulb"},
+            {"page": "contact-us", "icon": "envelope"}
+          ]
+        }
+      ]
+    },
+
+    "thank-you": {
+      "nav": "Vielen Dank",
+      "title": "Vielen Dank – Übermittlung erhalten",
+      "description": "Vielen Dank für Ihre Nachricht an HYT Engineering. Ihre Angaben sind eingegangen – hier erfahren Sie, wie es weitergeht und was Sie bis dahin lesen können.",
+      "eyebrow": "Übermittlung erhalten",
+      "h1": "Vielen Dank – Ihre Angaben sind bei uns eingegangen",
+      "lede": "Ob Anfrage, Katalogbestellung, Lieferantenregistrierung oder Bewerbung: Ihre Übermittlung ist beim zuständigen Team von HYT angekommen.",
+      "summary": "Bestätigung, dass Ihre Übermittlung eingegangen ist, und die nächsten Schritte.",
+      "blocks": [
+        {
+          "type": "steps",
+          "eyebrow": "So geht es weiter",
+          "heading": "Drei Schritte ab jetzt",
+          "items": [
+            {"title": "Eingangsbestätigung", "text": "Ihre Übermittlung wird erfasst und an das zuständige Team weitergeleitet – Vertrieb, Service, Einkauf oder Personalabteilung."},
+            {"title": "Prüfung durch einen Fachexperten", "text": "Ein Fachexperte von HYT prüft Ihre Angaben. Benötigen wir weitere Informationen, etwa Radprofile oder Zeichnungen, fragen wir nach."},
+            {"title": "Antwort", "text": "Wir antworten per E-Mail oder telefonisch. Bei Produktanfragen kann dies eine Empfehlung, eine Terminanfrage oder ein technisches Angebot sein."}
+          ]
+        },
+        {
+          "type": "text",
+          "eyebrow": "Es eilt?",
+          "heading": "Dringende Anliegen",
+          "paragraphs": [
+            "Steht eine Maschine still oder ist Ihre Anfrage zeitkritisch, rufen Sie uns bitte während der Geschäftszeiten unter +91 20 6634 3900 oder unter der gebührenfreien Nummer 1800 2100 456 an und nennen Sie die übermittelten Angaben. Sie können uns auch an info@hytengineering.com schreiben."
+          ]
+        },
+        {
+          "type": "cards",
+          "eyebrow": "Bis wir uns melden",
+          "heading": "Weiter entdecken",
+          "cols": 3,
+          "items": [
+            {"page": "products", "icon": "grid-3x3-gap"},
+            {"page": "knowledge-centre", "icon": "lightbulb"},
+            {"page": "turnkey-project", "icon": "building-gear"}
+          ]
+        }
+      ]
+    },
+
+    "404": {
+      "nav": "Seite nicht gefunden",
+      "title": "Seite nicht gefunden",
+      "description": "Die gesuchte Seite auf der Website von HYT Engineering wurde nicht gefunden. Vielleicht wurde sie verschoben – hier finden Sie Produkte, Service und Kontakt.",
+      "eyebrow": "Fehler 404",
+      "h1": "Seite nicht gefunden",
+      "lede": "Die gesuchte Seite existiert nicht oder wurde verschoben. Unsere Website wurde neu strukturiert, daher haben sich einige ältere Adressen geändert.",
+      "summary": "Die angeforderte Seite wurde nicht gefunden.",
+      "blocks": [
+        {
+          "type": "cards",
+          "heading": "Versuchen Sie es mit einer dieser Seiten",
+          "intro": "Sie können auch die vollständige [Sitemap](page:sitemap) durchsuchen, um das Gewünschte zu finden.",
+          "cols": 4,
+          "items": [
+            {"page": "home", "icon": "house"},
+            {"page": "products", "icon": "grid-3x3-gap"},
+            {"page": "services", "icon": "tools"},
+            {"page": "contact-us", "icon": "envelope"}
+          ]
+        }
+      ]
+    }
+  }
+}
