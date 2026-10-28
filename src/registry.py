@@ -38,7 +38,7 @@ page(1, "home", "/", None, "home", "homepage/hero-wheel-lathe-workshop")
 # --- About Us
 page(2,  "about",            "/company/",                         "home",  image="company/manufacturing-facility")
 page(3,  "group-companies",  "/group-companies/",                 "about", image="company/corporate-office")
-page(5,  "history",          "/history/",                         "about", image="company/manufacturing-facility")
+page(5,  "history",          "/history/",                         "about", image="company/history-archive")
 page(4,  "quality",          "/quality/",                         "about", image="company/quality-inspection")
 page(62, "certifications",   "/certifications/",                  "quality", image="company/quality-inspection")
 page(9,  "awards",           "/awards/",                          "about", image="company/exhibition-stand")

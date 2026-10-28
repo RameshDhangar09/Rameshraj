@@ -53,7 +53,7 @@
             "Management systems certified to ISO 9001, ISO 14001 and ISO 45001"
           ],
           "image": "company/engineering-design",
-          "image_alt": "Sample illustration of HYT design engineers reviewing a wheel lathe model on screen",
+          "image_alt": "HYT design engineer working on a 3D machine model",
           "layout": "image-right",
           "link": {
             "label": "See careers at HYT",
@@ -254,7 +254,7 @@
               "icon": "pc-display",
               "title": "Engineering & design",
               "image": "company/engineering-design",
-              "image_alt": "Sample illustration of a design workstation with a CAD model of a lathe",
+              "image_alt": "HYT design engineer working on a 3D machine model",
               "text": "Mechanical, electrical and CNC engineers design every HYT machine in-house – from concept and calculations to drawings, programs and documentation.",
               "bullets": [
                 "3D design and simulation",
@@ -266,7 +266,7 @@
               "icon": "rulers",
               "title": "Quality & inspection",
               "image": "company/quality-inspection",
-              "image_alt": "Sample illustration of a measuring machine inspecting a machined part",
+              "image_alt": "Quality inspection of a machined component at HYT",
               "text": "Our quality team checks components and complete machines against drawings, standards and customer specifications, in line with ISO 9001:2015.",
               "bullets": [
                 "Incoming and in-process inspection",
@@ -278,7 +278,7 @@
               "icon": "easel",
               "title": "Training & learning",
               "image": "company/training-session",
-              "image_alt": "Sample illustration of a training room with a presentation on a machine",
+              "image_alt": "Training session for HYT staff",
               "text": "New colleagues learn the machines, safety rules and customer requirements through structured training, mentoring and time on real projects.",
               "bullets": [
                 "Induction and safety training",
@@ -290,7 +290,7 @@
               "icon": "cup-hot",
               "title": "Canteen & commute",
               "image": "company/life-at-hyt",
-              "image_alt": "Sample illustration of a company gathering hall",
+              "image_alt": "Colleagues working together at HYT",
               "text": "A subsidised canteen and company-arranged cabs for eligible employees take care of the everyday – so you can focus on your work.",
               "bullets": [
                 "Nutritious, subsidised meals",
@@ -578,7 +578,7 @@
             "Our annual meet brings everyone together to celebrate the year's work. Safety week reminds us that every machine we build is built safely. Blood donation camps and our [community initiatives](page:csr) let us give something back, and International Yoga Day is a chance to look after ourselves."
           ],
           "image": "company/life-at-hyt",
-          "image_alt": "Sample illustration of HYT colleagues gathered at a company event",
+          "image_alt": "Colleagues working together at HYT",
           "layout": "image-right"
         },
         {
@@ -615,15 +615,15 @@
           "items": [
             {
               "image": "company/life-at-hyt",
-              "caption": "Sample illustration of the HYT annual meet"
+              "caption": "Colleagues working together at HYT"
             },
             {
               "image": "company/training-session",
-              "caption": "Sample illustration of a safety week awareness session"
+              "caption": "Training session for HYT staff"
             },
             {
               "image": "company/csr-community",
-              "caption": "Sample illustration of a blood donation camp organised by HYT"
+              "caption": "Team members holding a young plant"
             },
             {
               "image": "company/manufacturing-facility",
@@ -631,11 +631,11 @@
             },
             {
               "image": "company/corporate-office",
-              "caption": "Sample illustration of International Yoga Day at HYT"
+              "caption": "HYT Engineering headquarters building in Pune"
             },
             {
               "image": "company/quality-inspection",
-              "caption": "Sample illustration of colleagues sharing skills on the shop floor"
+              "caption": "Quality inspection of a machined component at HYT"
             }
           ]
         },

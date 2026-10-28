@@ -53,7 +53,7 @@
             "Managementsystemen gecertificeerd volgens ISO 9001, ISO 14001 en ISO 45001"
           ],
           "image": "company/engineering-design",
-          "image_alt": "Voorbeeldillustratie van ontwerpers van HYT die een model van een wielenbank op het scherm beoordelen",
+          "image_alt": "HYT-ontwerper werkt aan een 3D-machinemodel",
           "layout": "image-right",
           "link": {
             "label": "Bekijk vacatures bij HYT",
@@ -254,7 +254,7 @@
               "icon": "pc-display",
               "title": "Engineering & ontwerp",
               "image": "company/engineering-design",
-              "image_alt": "Voorbeeldillustratie van een ontwerpwerkplek met een CAD-model van een draaibank",
+              "image_alt": "HYT-ontwerper werkt aan een 3D-machinemodel",
               "text": "Werktuigbouwkundige, elektrotechnische en CNC-engineers ontwerpen elke HYT-machine in eigen huis – van concept en berekeningen tot tekeningen, programma’s en documentatie.",
               "bullets": [
                 "3D-ontwerp en simulatie",
@@ -266,7 +266,7 @@
               "icon": "rulers",
               "title": "Kwaliteit & inspectie",
               "image": "company/quality-inspection",
-              "image_alt": "Voorbeeldillustratie van een meetmachine die een bewerkt onderdeel inspecteert",
+              "image_alt": "Kwaliteitscontrole van een bewerkt onderdeel bij HYT",
               "text": "Ons kwaliteitsteam controleert onderdelen en complete machines aan de hand van tekeningen, normen en klantspecificaties, conform ISO 9001:2015.",
               "bullets": [
                 "Ingangs- en tussentijdse controle",
@@ -278,7 +278,7 @@
               "icon": "easel",
               "title": "Training & leren",
               "image": "company/training-session",
-              "image_alt": "Voorbeeldillustratie van een trainingsruimte met een presentatie over een machine",
+              "image_alt": "Training voor HYT-medewerkers",
               "text": "Nieuwe collega’s leren de machines, veiligheidsregels en klanteisen kennen via gestructureerde trainingen, mentoring en meewerken aan echte projecten.",
               "bullets": [
                 "Introductie- en veiligheidstraining",
@@ -290,7 +290,7 @@
               "icon": "cup-hot",
               "title": "Kantine & woon-werkverkeer",
               "image": "company/life-at-hyt",
-              "image_alt": "Voorbeeldillustratie van een bijeenkomstzaal in het bedrijf",
+              "image_alt": "Collega’s die samenwerken bij HYT",
               "text": "Een gesubsidieerde kantine en door het bedrijf geregeld vervoer voor medewerkers die daarvoor in aanmerking komen, regelen het dagelijkse – zodat u zich op uw werk kunt richten.",
               "bullets": [
                 "Voedzame, gesubsidieerde maaltijden",
@@ -578,7 +578,7 @@
             "Onze jaarlijkse bijeenkomst brengt iedereen samen om het werk van het afgelopen jaar te vieren. De veiligheidsweek herinnert ons eraan dat elke machine die we bouwen, veilig wordt gebouwd. Met bloeddonatiedagen en onze [maatschappelijke initiatieven](page:csr) geven we iets terug, en de Internationale Dag van de Yoga is een moment om goed voor onszelf te zorgen."
           ],
           "image": "company/life-at-hyt",
-          "image_alt": "Voorbeeldillustratie van HYT-collega’s bij een bedrijfsevenement",
+          "image_alt": "Collega’s die samenwerken bij HYT",
           "layout": "image-right"
         },
         {
@@ -615,15 +615,15 @@
           "items": [
             {
               "image": "company/life-at-hyt",
-              "caption": "Voorbeeldillustratie van de jaarlijkse bijeenkomst van HYT"
+              "caption": "Collega’s die samenwerken bij HYT"
             },
             {
               "image": "company/training-session",
-              "caption": "Voorbeeldillustratie van een voorlichtingssessie tijdens de veiligheidsweek"
+              "caption": "Training voor HYT-medewerkers"
             },
             {
               "image": "company/csr-community",
-              "caption": "Voorbeeldillustratie van een bloeddonatiedag georganiseerd door HYT"
+              "caption": "Teamleden houden een jonge plant vast"
             },
             {
               "image": "company/manufacturing-facility",
@@ -631,11 +631,11 @@
             },
             {
               "image": "company/corporate-office",
-              "caption": "Voorbeeldillustratie van de Internationale Dag van de Yoga bij HYT"
+              "caption": "Hoofdkantoor van HYT Engineering in Pune"
             },
             {
               "image": "company/quality-inspection",
-              "caption": "Voorbeeldillustratie van collega’s die op de werkvloer vaardigheden delen"
+              "caption": "Kwaliteitscontrole van een bewerkt onderdeel bij HYT"
             }
           ]
         },

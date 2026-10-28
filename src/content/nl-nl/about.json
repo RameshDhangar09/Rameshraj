@@ -147,7 +147,7 @@
             "Daarnaast ontmoeten we de internationale spoorsector op beurzen zoals Asia Pacific Rail, Middle East Rail, Africa Rail en AusRAIL, waar we onze kennis over wielstelonderhoud delen met vervoerders uit vele netwerken."
           ],
           "image": "company/exhibition-stand",
-          "image_alt": "Voorbeeldillustratie van een HYT-beursstand op een internationale spoorbeurs",
+          "image_alt": "HYT-stand op een spoorbeurs",
           "layout": "image-left",
           "link": {
             "label": "Bekijk onze klanten",
@@ -232,7 +232,7 @@
             "Met welk groepsbedrijf u ook zakendoet: het contract, de technische verantwoordelijkheid en het aftersalescontact worden altijd duidelijk benoemd. Ons [kwaliteitsproces](page:quality) en onze [gedragscode](page:code-of-conduct) gelden voor het werk dat wij voor u leveren."
           ],
           "image": "company/corporate-office",
-          "image_alt": "Voorbeeldillustratie van het kantoorgebouw van HYT",
+          "image_alt": "Hoofdkantoor van HYT Engineering in Pune",
           "layout": "image-right"
         },
         {
@@ -288,15 +288,15 @@
           "paragraphs": [
             "HYT Engineering Company werd in 1977 opgericht onder leiding van de heer Bhojraj Hemraj Teli, met als missie hoogwaardige precisiemachines te bouwen. Begonnen als fabrikant van boormachines, is HYT uitgegroeid tot een betrouwbare engineeringgroep die geavanceerde machines voor spoorwegonderhoud, precisiewerktuigmachines en turnkeyoplossingen levert aan klanten in India en op internationale markten."
           ],
-          "image": "company/manufacturing-facility",
-          "image_alt": "Voorbeeldillustratie van werktuigmachines in montage in de HYT-fabriek",
+          "image": "company/history-archive",
+          "image_alt": "Archieffoto uit de beginjaren van HYT",
           "layout": "image-right"
         },
         {
           "type": "timeline",
           "layout": "split",
           "id": "era-1970s",
-          "eyebrow": "1977\u20131979",
+          "eyebrow": "1977–1979",
           "heading": "Oprichting",
           "items": [
             {
@@ -311,7 +311,7 @@
           "type": "timeline",
           "layout": "split",
           "id": "era-1980s",
-          "eyebrow": "1980\u20131989",
+          "eyebrow": "1980–1989",
           "heading": "Vroege innovatie",
           "items": [
             {
@@ -339,7 +339,7 @@
           "type": "timeline",
           "layout": "split",
           "id": "era-1990s",
-          "eyebrow": "1990\u20131999",
+          "eyebrow": "1990–1999",
           "heading": "Pionier in wielenbanken",
           "items": [
             {
@@ -360,7 +360,7 @@
           "type": "timeline",
           "layout": "split",
           "id": "era-2000s",
-          "eyebrow": "2000\u20132009",
+          "eyebrow": "2000–2009",
           "heading": "Het CNC-tijdperk en wereldwijd bereik",
           "items": [
             {
@@ -406,7 +406,7 @@
           "type": "timeline",
           "layout": "split",
           "id": "era-2010s",
-          "eyebrow": "2010\u20132019",
+          "eyebrow": "2010–2019",
           "heading": "Toonaangevend in turnkey en internationale groei",
           "items": [
             {
@@ -499,7 +499,7 @@
           "type": "timeline",
           "layout": "split",
           "id": "era-2020s",
-          "eyebrow": "2020\u20132026",
+          "eyebrow": "2020–2026",
           "heading": "Nieuwe horizonten",
           "items": [
             {
@@ -604,7 +604,7 @@
             "Ons kwaliteitsmanagementsysteem is gecertificeerd volgens ISO 9001:2015. Het certificaat bevestigt dat het proces bestaat en wordt geaudit; de onderstaande stappen laten zien hoe het in de praktijk werkt. De certificaten voor kwaliteit, milieu en arbo vindt u op de pagina [Certificeringen](page:certifications)."
           ],
           "image": "company/quality-inspection",
-          "image_alt": "Voorbeeldillustratie van een inspecteur die een bewerkt onderdeel meet in de kwaliteitsafdeling van HYT",
+          "image_alt": "Kwaliteitscontrole van een bewerkt onderdeel bij HYT",
           "layout": "image-right"
         },
         {
@@ -716,29 +716,6 @@
           "intro": "HYT Engineering Company Pvt. Ltd. is door Intercert gecertificeerd volgens drie internationale normen voor managementsystemen. Selecteer een certificaat om het volledig te bekijken."
         },
         {
-          "type": "features",
-          "heading": "Drie normen, één manier van werken",
-          "intro": "Elke norm wordt geaudit door een certificatie-instelling. Samen bestrijken ze hoe we machines bouwen, hoe we met het milieu omgaan en hoe we mensen beschermen.",
-          "cols": 3,
-          "items": [
-            {
-              "icon": "clipboard-check",
-              "title": "ISO 9001:2015 – Kwaliteitsmanagement",
-              "text": "Vereist een gedocumenteerd, geaudit proces voor het begrijpen van klanteisen, het beheersen van ontwerp, inkoop en productie en het corrigeren van problemen. Voor u betekent dit: machines van constante kwaliteit en traceerbare registraties."
-            },
-            {
-              "icon": "tree",
-              "title": "ISO 14001:2015 – Milieumanagement",
-              "text": "Vereist dat we de milieu-impact van onze activiteiten in kaart brengen – energie, afval, emissies, koelsmeermiddelen en oliën – en deze beheersen en verminderen. Voor u betekent dit: een leverancier die zijn voetafdruk beheert."
-            },
-            {
-              "icon": "shield-check",
-              "title": "ISO 45001:2018 – Gezond en veilig werken",
-              "text": "Vereist dat we gevaren identificeren en letsel en gezondheidsschade voorkomen in onze fabriek en op locaties van klanten. Voor u betekent dit: veiliger installatie- en servicewerk in uw depot."
-            }
-          ]
-        },
-        {
           "type": "marks",
           "id": "marks",
           "eyebrow": "Normen & duurzaamheid",
@@ -753,7 +730,7 @@
             "Heeft u de certificaten eerder nodig voor een aanbesteding of leveranciersaudit, [neem dan contact met ons op](page:contact-us) en we sturen ze u rechtstreeks toe. Hoe ISO 9001 in de praktijk op de werkvloer werkt, leest u bij ons [kwaliteitsproces](page:quality); onze verplichtingen per gebied staan in de [beleidsverklaring](page:policy-statement)."
           ],
           "image": "company/quality-inspection",
-          "image_alt": "Voorbeeldillustratie van een kwaliteitsinspectiestation met meetinstrumenten",
+          "image_alt": "Kwaliteitscontrole van een bewerkt onderdeel bij HYT",
           "layout": "image-right"
         },
         {
@@ -837,7 +814,7 @@
             "Die ervaring delen we met de sector op internationale evenementen zoals Asia Pacific Rail, Middle East Rail, Africa Rail en AusRAIL. Bekijk onze [internationale beurzen](page:international-exhibitions)."
           ],
           "image": "company/exhibition-stand",
-          "image_alt": "Voorbeeldillustratie van een HYT-stand op een spoorbeurs",
+          "image_alt": "HYT-stand op een spoorbeurs",
           "layout": "image-right"
         },
         {
@@ -913,7 +890,7 @@
             "We streven ernaar projecten zorgvuldig te kiezen, samen te werken met geloofwaardige partners, onze medewerkers te betrekken en eerlijk te rapporteren over wat is bereikt."
           ],
           "image": "company/csr-community",
-          "image_alt": "Voorbeeldillustratie van een maatschappelijke activiteit met vrijwilligers van HYT",
+          "image_alt": "Teamleden houden een jonge plant vast",
           "layout": "image-right"
         },
         {
@@ -953,7 +930,7 @@
             "Foto’s van deze activiteiten vindt u op de pagina [Het leven bij HYT](page:memorialization)."
           ],
           "image": "company/life-at-hyt",
-          "image_alt": "Voorbeeldillustratie van HYT-medewerkers die deelnemen aan een gezondheidsactiviteit op het werk",
+          "image_alt": "Collega’s die samenwerken bij HYT",
           "layout": "image-left"
         },
         {
@@ -982,7 +959,7 @@
             "Onze managementsystemen voor kwaliteit, milieu en arbo zijn gecertificeerd volgens ISO 9001:2015, ISO 14001:2015 en ISO 45001:2018; details staan op de pagina [Certificeringen](page:certifications). Voor vragen over een document op deze pagina, of om ondertekende exemplaren aan te vragen voor een aanbesteding of audit, kunt u [contact met ons opnemen](page:contact-us)."
           ],
           "image": "company/corporate-office",
-          "image_alt": "Voorbeeldillustratie van het kantoor van HYT",
+          "image_alt": "Hoofdkantoor van HYT Engineering in Pune",
           "layout": "image-right"
         },
         {

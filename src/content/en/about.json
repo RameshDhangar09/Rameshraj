@@ -12,10 +12,22 @@
         {
           "type": "stats",
           "items": [
-            {"value": "1977", "label": "Building machine tools since"},
-            {"value": "1,100+", "label": "Machines delivered (company figure)"},
-            {"value": "3", "label": "ISO-certified management systems: 9001, 14001 and 45001"},
-            {"value": "Pune", "label": "Headquarters and works, Maharashtra, India"}
+            {
+              "value": "1977",
+              "label": "Building machine tools since"
+            },
+            {
+              "value": "1,100+",
+              "label": "Machines delivered (company figure)"
+            },
+            {
+              "value": "3",
+              "label": "ISO-certified management systems: 9001, 14001 and 45001"
+            },
+            {
+              "value": "Pune",
+              "label": "Headquarters and works, Maharashtra, India"
+            }
           ]
         },
         {
@@ -38,10 +50,26 @@
           "intro": "Everything we make answers one question: how do we keep wheelsets safe, round and in service for longer?",
           "cols": 4,
           "items": [
-            {"icon": "gear-wide-connected", "title": "Wheel lathes", "text": "[Underfloor, tandem, surface and portal lathes](page:products#wheel-lathes) that re-profile wheels in hours rather than days."},
-            {"icon": "bullseye", "title": "Wheel & axle shop machines", "text": "[Vertical turning, axle turning, pressing, measuring and balancing](page:products#wheel-axle-shop-machines) for new and overhauled wheelsets."},
-            {"icon": "building-gear", "title": "Turnkey workshops", "text": "[Complete wheel shops and depot facilities](page:turnkey-project), from layout and civil interface to commissioning."},
-            {"icon": "tools", "title": "Lifetime service", "text": "[Installation, maintenance contracts, spares, upgrades and training](page:services) for every machine we deliver."}
+            {
+              "icon": "gear-wide-connected",
+              "title": "Wheel lathes",
+              "text": "[Underfloor, tandem, surface and portal lathes](page:products#wheel-lathes) that re-profile wheels in hours rather than days."
+            },
+            {
+              "icon": "bullseye",
+              "title": "Wheel & axle shop machines",
+              "text": "[Vertical turning, axle turning, pressing, measuring and balancing](page:products#wheel-axle-shop-machines) for new and overhauled wheelsets."
+            },
+            {
+              "icon": "building-gear",
+              "title": "Turnkey workshops",
+              "text": "[Complete wheel shops and depot facilities](page:turnkey-project), from layout and civil interface to commissioning."
+            },
+            {
+              "icon": "tools",
+              "title": "Lifetime service",
+              "text": "[Installation, maintenance contracts, spares, upgrades and training](page:services) for every machine we deliver."
+            }
           ]
         },
         {
@@ -50,11 +78,26 @@
           "heading": "Design, build, install, support – under one roof",
           "intro": "Keeping every stage in-house means one team is accountable from the first drawing to the last service visit. Nothing is lost at a hand-over between companies.",
           "items": [
-            {"title": "Understand", "text": "We study your fleet, wheel profiles, gauge, throughput targets and workshop layout before proposing a machine."},
-            {"title": "Design", "text": "Our engineers adapt proven machine platforms to your vehicles, foundations and operating practice."},
-            {"title": "Build", "text": "Machines are fabricated, assembled and tested in our own works in Pune under ISO 9001 quality control."},
-            {"title": "Install", "text": "We supervise foundations, install and align the machine, and prove it on your own wheelsets before handover."},
-            {"title": "Support", "text": "Training, maintenance contracts, genuine spares and upgrades keep the machine productive for decades."}
+            {
+              "title": "Understand",
+              "text": "We study your fleet, wheel profiles, gauge, throughput targets and workshop layout before proposing a machine."
+            },
+            {
+              "title": "Design",
+              "text": "Our engineers adapt proven machine platforms to your vehicles, foundations and operating practice."
+            },
+            {
+              "title": "Build",
+              "text": "Machines are fabricated, assembled and tested in our own works in Pune under ISO 9001 quality control."
+            },
+            {
+              "title": "Install",
+              "text": "We supervise foundations, install and align the machine, and prove it on your own wheelsets before handover."
+            },
+            {
+              "title": "Support",
+              "text": "Training, maintenance contracts, genuine spares and upgrades keep the machine productive for decades."
+            }
           ]
         },
         {
@@ -63,12 +106,36 @@
           "heading": "What guides our decisions",
           "cols": 3,
           "items": [
-            {"icon": "rulers", "title": "Precision", "text": "A tenth of a millimetre on a wheel profile matters. We design, build and test to that standard."},
-            {"icon": "shield-check", "title": "Safety first", "text": "For the people who run our machines, the people who build them and the passengers who ride on the wheels they cut."},
-            {"icon": "person-check", "title": "Accountability", "text": "One partner, one point of responsibility – and we answer the phone long after the warranty ends."},
-            {"icon": "clock-history", "title": "Long-term thinking", "text": "We judge a machine by its output over twenty years, not by its first week in service."},
-            {"icon": "lightbulb", "title": "Practical innovation", "text": "New technology earns its place when it makes workshops faster, safer or easier to run."},
-            {"icon": "patch-check", "title": "Integrity", "text": "Fair dealing with customers, suppliers and public authorities, as set out in our [Code of Conduct](page:code-of-conduct)."}
+            {
+              "icon": "rulers",
+              "title": "Precision",
+              "text": "A tenth of a millimetre on a wheel profile matters. We design, build and test to that standard."
+            },
+            {
+              "icon": "shield-check",
+              "title": "Safety first",
+              "text": "For the people who run our machines, the people who build them and the passengers who ride on the wheels they cut."
+            },
+            {
+              "icon": "person-check",
+              "title": "Accountability",
+              "text": "One partner, one point of responsibility – and we answer the phone long after the warranty ends."
+            },
+            {
+              "icon": "clock-history",
+              "title": "Long-term thinking",
+              "text": "We judge a machine by its output over twenty years, not by its first week in service."
+            },
+            {
+              "icon": "lightbulb",
+              "title": "Practical innovation",
+              "text": "New technology earns its place when it makes workshops faster, safer or easier to run."
+            },
+            {
+              "icon": "patch-check",
+              "title": "Integrity",
+              "text": "Fair dealing with customers, suppliers and public authorities, as set out in our [Code of Conduct](page:code-of-conduct)."
+            }
           ]
         },
         {
@@ -80,9 +147,12 @@
             "We also meet the international rail industry at exhibitions such as Asia Pacific Rail, Middle East Rail, Africa Rail and AusRAIL, where we share what we have learned about wheelset maintenance with operators from many networks."
           ],
           "image": "company/exhibition-stand",
-          "image_alt": "Sample illustration of an HYT exhibition stand at an international rail trade fair",
+          "image_alt": "HYT stand at a rail industry exhibition",
           "layout": "image-left",
-          "link": {"label": "See our clientele", "page": "clientele"}
+          "link": {
+            "label": "See our clientele",
+            "page": "clientele"
+          }
         },
         {
           "type": "cards",
@@ -90,22 +160,52 @@
           "heading": "More about HYT",
           "cols": 4,
           "items": [
-            {"page": "history", "icon": "hourglass-split"},
-            {"page": "group-companies", "icon": "buildings"},
-            {"page": "quality", "icon": "clipboard-check"},
-            {"page": "certifications", "icon": "patch-check"},
-            {"page": "awards", "icon": "award"},
-            {"page": "clientele", "icon": "people"},
-            {"page": "csr", "icon": "heart"},
-            {"page": "compliance", "icon": "journal-check"}
+            {
+              "page": "history",
+              "icon": "hourglass-split"
+            },
+            {
+              "page": "group-companies",
+              "icon": "buildings"
+            },
+            {
+              "page": "quality",
+              "icon": "clipboard-check"
+            },
+            {
+              "page": "certifications",
+              "icon": "patch-check"
+            },
+            {
+              "page": "awards",
+              "icon": "award"
+            },
+            {
+              "page": "clientele",
+              "icon": "people"
+            },
+            {
+              "page": "csr",
+              "icon": "heart"
+            },
+            {
+              "page": "compliance",
+              "icon": "journal-check"
+            }
           ]
         },
         {
           "type": "cta",
           "heading": "Talk to the people who build the machines",
           "text": "Whether you are planning a single lathe or a complete wheel shop, our application engineers will help you define the right solution.",
-          "primary": {"label": "Discuss Your Requirement", "page": "contact-us"},
-          "secondary": {"label": "Explore Our Products", "page": "products"}
+          "primary": {
+            "label": "Discuss Your Requirement",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Explore Our Products",
+            "page": "products"
+          }
         }
       ]
     },
@@ -133,7 +233,7 @@
             "Whichever group company you deal with, the contract, the technical responsibility and the after-sales contact will always be clearly named. Our [Quality](page:quality) process and [Code of Conduct](page:code-of-conduct) apply to the work we deliver for you."
           ],
           "image": "company/corporate-office",
-          "image_alt": "Sample illustration of the HYT corporate office building",
+          "image_alt": "HYT Engineering headquarters building in Pune",
           "layout": "image-right"
         },
         {
@@ -141,17 +241,35 @@
           "heading": "What customers can expect",
           "cols": 3,
           "items": [
-            {"icon": "person-check", "title": "Clear responsibility", "text": "Every offer names the contracting company and the single point of contact for your project."},
-            {"icon": "clipboard-check", "title": "Shared quality standards", "text": "Design reviews, inspection and documentation follow the same disciplined process."},
-            {"icon": "headset", "title": "Continuity of support", "text": "Service, spares and upgrades remain available for the full working life of your equipment."}
+            {
+              "icon": "person-check",
+              "title": "Clear responsibility",
+              "text": "Every offer names the contracting company and the single point of contact for your project."
+            },
+            {
+              "icon": "clipboard-check",
+              "title": "Shared quality standards",
+              "text": "Design reviews, inspection and documentation follow the same disciplined process."
+            },
+            {
+              "icon": "headset",
+              "title": "Continuity of support",
+              "text": "Service, spares and upgrades remain available for the full working life of your equipment."
+            }
           ]
         },
         {
           "type": "cta",
           "heading": "Not sure which company to contact?",
           "text": "Send your enquiry to HYT Engineering and we will route it to the right team.",
-          "primary": {"label": "Contact our team", "page": "contact-us"},
-          "secondary": {"label": "About HYT", "page": "about"}
+          "primary": {
+            "label": "Contact our team",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "About HYT",
+            "page": "about"
+          }
         }
       ]
     },
@@ -172,15 +290,15 @@
           "paragraphs": [
             "Established in 1977 under the leadership of Mr. Bhojraj Hemraj Teli, HYT Engineering Company began with a mission to manufacture quality precision machines. From beginning as a maker of drilling machines, HYT has grown into a trusted engineering group, providing advanced railway maintenance machinery, precision machine tools and turnkey solutions to customers in India and international markets."
           ],
-          "image": "company/manufacturing-facility",
-          "image_alt": "Sample illustration of machine tools being assembled in the HYT works",
+          "image": "company/history-archive",
+          "image_alt": "Archive photograph from HYT's early years",
           "layout": "image-right"
         },
         {
           "type": "timeline",
           "layout": "split",
           "id": "era-1970s",
-          "eyebrow": "1977\u20131979",
+          "eyebrow": "1977–1979",
           "heading": "Foundation",
           "items": [
             {
@@ -195,7 +313,7 @@
           "type": "timeline",
           "layout": "split",
           "id": "era-1980s",
-          "eyebrow": "1980\u20131989",
+          "eyebrow": "1980–1989",
           "heading": "Early innovation",
           "items": [
             {
@@ -223,7 +341,7 @@
           "type": "timeline",
           "layout": "split",
           "id": "era-1990s",
-          "eyebrow": "1990\u20131999",
+          "eyebrow": "1990–1999",
           "heading": "Wheel lathe pioneer",
           "items": [
             {
@@ -244,7 +362,7 @@
           "type": "timeline",
           "layout": "split",
           "id": "era-2000s",
-          "eyebrow": "2000\u20132009",
+          "eyebrow": "2000–2009",
           "heading": "The CNC era and global reach",
           "items": [
             {
@@ -290,7 +408,7 @@
           "type": "timeline",
           "layout": "split",
           "id": "era-2010s",
-          "eyebrow": "2010\u20132019",
+          "eyebrow": "2010–2019",
           "heading": "Turnkey leadership and global expansion",
           "items": [
             {
@@ -383,7 +501,7 @@
           "type": "timeline",
           "layout": "split",
           "id": "era-2020s",
-          "eyebrow": "2020\u20132026",
+          "eyebrow": "2020–2026",
           "heading": "New horizons",
           "items": [
             {
@@ -489,7 +607,7 @@
             "Our quality management system is certified to ISO 9001:2015. The certificate confirms that the process exists and is audited; the steps below show how it works in practice. Certificates for quality, environment and occupational health and safety are collected on the [Certifications](page:certifications) page."
           ],
           "image": "company/quality-inspection",
-          "image_alt": "Sample illustration of an inspector measuring a machined component in the HYT quality area",
+          "image_alt": "Quality inspection of a machined component at HYT",
           "layout": "image-right"
         },
         {
@@ -602,29 +720,6 @@
           "intro": "HYT Engineering Company Pvt. Ltd. is certified by Intercert to three international management-system standards. Select a certificate to view it in full."
         },
         {
-          "type": "features",
-          "heading": "Three standards, one way of working",
-          "intro": "Each standard is audited by an independent certification body. Together they cover how we build machines, how we treat the environment and how we protect people.",
-          "cols": 3,
-          "items": [
-            {
-              "icon": "clipboard-check",
-              "title": "ISO 9001:2015 – Quality management",
-              "text": "Requires a documented, audited process for understanding customer requirements, controlling design, purchasing and production, and correcting problems. For you, it means consistent machines and traceable records."
-            },
-            {
-              "icon": "tree",
-              "title": "ISO 14001:2015 – Environmental management",
-              "text": "Requires us to identify the environmental impact of our operations – energy, waste, emissions, coolants and oils – and to control and reduce it. For you, it means a supplier that manages its footprint."
-            },
-            {
-              "icon": "shield-check",
-              "title": "ISO 45001:2018 – Occupational health & safety",
-              "text": "Requires us to identify hazards and prevent injury and ill health in our works and on customer sites. For you, it means safer installation and service work in your depot."
-            }
-          ]
-        },
-        {
           "type": "marks",
           "id": "marks",
           "eyebrow": "Standards & sustainability",
@@ -639,7 +734,7 @@
             "If you need certificates for a tender or a supplier audit sooner, [contact us](page:contact-us) and we will send them directly. To see how ISO 9001 works in practice on the shop floor, read about our [quality process](page:quality), and for our commitments in each area see the [Policy Statement](page:policy-statement)."
           ],
           "image": "company/quality-inspection",
-          "image_alt": "Sample illustration of a quality inspection station with measuring instruments",
+          "image_alt": "Quality inspection of a machined component at HYT",
           "layout": "image-right"
         },
         {
@@ -724,7 +819,7 @@
             "We share that experience with the industry at international events such as Asia Pacific Rail, Middle East Rail, Africa Rail and AusRAIL. See our [international exhibitions](page:international-exhibitions)."
           ],
           "image": "company/exhibition-stand",
-          "image_alt": "Sample illustration of an HYT stand at a rail industry exhibition",
+          "image_alt": "HYT stand at a rail industry exhibition",
           "layout": "image-right"
         },
         {
@@ -802,7 +897,7 @@
             "We aim to choose projects carefully, work with credible partners, involve our employees and report honestly on what has been achieved."
           ],
           "image": "company/csr-community",
-          "image_alt": "Sample illustration of a community engagement activity with HYT volunteers",
+          "image_alt": "Team members holding a young plant",
           "layout": "image-right"
         },
         {
@@ -811,10 +906,26 @@
           "heading": "Where we want to make a difference",
           "cols": 4,
           "items": [
-            {"icon": "book", "title": "Education", "text": "Supporting schools and students, with an emphasis on science, mathematics and engineering."},
-            {"icon": "mortarboard", "title": "Skill development", "text": "Helping young people gain the technical and vocational skills that manufacturing needs."},
-            {"icon": "tree", "title": "Environment", "text": "Reducing the footprint of our own operations under ISO 14001 and supporting local environmental initiatives."},
-            {"icon": "heart-pulse", "title": "Health & wellbeing", "text": "Promoting health and safety for employees, their families and the wider community."}
+            {
+              "icon": "book",
+              "title": "Education",
+              "text": "Supporting schools and students, with an emphasis on science, mathematics and engineering."
+            },
+            {
+              "icon": "mortarboard",
+              "title": "Skill development",
+              "text": "Helping young people gain the technical and vocational skills that manufacturing needs."
+            },
+            {
+              "icon": "tree",
+              "title": "Environment",
+              "text": "Reducing the footprint of our own operations under ISO 14001 and supporting local environmental initiatives."
+            },
+            {
+              "icon": "heart-pulse",
+              "title": "Health & wellbeing",
+              "text": "Promoting health and safety for employees, their families and the wider community."
+            }
           ]
         },
         {
@@ -826,7 +937,7 @@
             "Photographs of these events can be found on the [Life at HYT](page:memorialization) page."
           ],
           "image": "company/life-at-hyt",
-          "image_alt": "Sample illustration of HYT employees taking part in a workplace health event",
+          "image_alt": "Colleagues working together at HYT",
           "layout": "image-left"
         },
         {
@@ -856,7 +967,7 @@
             "Our management systems for quality, environment and occupational health and safety are certified to ISO 9001:2015, ISO 14001:2015 and ISO 45001:2018; details are on the [Certifications](page:certifications) page. For questions about any document here, or to request signed copies for a tender or audit, please [contact us](page:contact-us)."
           ],
           "image": "company/corporate-office",
-          "image_alt": "Sample illustration of the HYT corporate office",
+          "image_alt": "HYT Engineering headquarters building in Pune",
           "layout": "image-right"
         },
         {
@@ -864,9 +975,18 @@
           "heading": "Compliance documents",
           "cols": 3,
           "items": [
-            {"page": "code-of-conduct", "icon": "journal-check"},
-            {"page": "guidelines", "icon": "signpost-split"},
-            {"page": "policy-statement", "icon": "file-earmark-text"}
+            {
+              "page": "code-of-conduct",
+              "icon": "journal-check"
+            },
+            {
+              "page": "guidelines",
+              "icon": "signpost-split"
+            },
+            {
+              "page": "policy-statement",
+              "icon": "file-earmark-text"
+            }
           ]
         },
         {
@@ -875,8 +995,16 @@
           "heading": "Further documents",
           "cols": 2,
           "items": [
-            {"icon": "people", "title": "Supplier Code of Conduct", "text": "The standards on ethics, labour, safety and environment that we expect from our suppliers and subcontractors."},
-            {"icon": "shield-lock", "title": "Information Security", "text": "How we protect customer drawings, project data and the control systems of the machines we supply."}
+            {
+              "icon": "people",
+              "title": "Supplier Code of Conduct",
+              "text": "The standards on ethics, labour, safety and environment that we expect from our suppliers and subcontractors."
+            },
+            {
+              "icon": "shield-lock",
+              "title": "Information Security",
+              "text": "How we protect customer drawings, project data and the control systems of the machines we supply."
+            }
           ]
         },
         {

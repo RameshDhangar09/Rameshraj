@@ -147,7 +147,7 @@
             "Incontriamo inoltre l'industria ferroviaria internazionale in fiere come Asia Pacific Rail, Middle East Rail, Africa Rail e AusRAIL, dove condividiamo con operatori di numerose reti ciò che abbiamo imparato sulla manutenzione delle sale montate."
           ],
           "image": "company/exhibition-stand",
-          "image_alt": "Illustrazione di esempio di uno stand HYT in una fiera ferroviaria internazionale",
+          "image_alt": "Stand HYT a una fiera del settore ferroviario",
           "layout": "image-left",
           "link": {
             "label": "Scopra i nostri clienti",
@@ -232,7 +232,7 @@
             "Qualunque sia la società del gruppo con cui tratta, il contratto, la responsabilità tecnica e il referente per l'assistenza post-vendita saranno sempre chiaramente indicati. Il nostro processo [Qualità](page:quality) e il nostro [Codice di condotta](page:code-of-conduct) si applicano al lavoro che svolgiamo per Lei."
           ],
           "image": "company/corporate-office",
-          "image_alt": "Illustrazione di esempio dell'edificio della sede HYT",
+          "image_alt": "Sede di HYT Engineering a Pune",
           "layout": "image-right"
         },
         {
@@ -288,15 +288,15 @@
           "paragraphs": [
             "Fondata nel 1977 sotto la guida del Sig. Bhojraj Hemraj Teli, HYT Engineering Company è nata con la missione di costruire macchine di precisione di qualità. Partita come costruttore di trapani, HYT è diventata un gruppo di ingegneria affidabile che fornisce macchinari avanzati per la manutenzione ferroviaria, macchine utensili di precisione e soluzioni chiavi in mano a clienti in India e sui mercati internazionali."
           ],
-          "image": "company/manufacturing-facility",
-          "image_alt": "Illustrazione di esempio di macchine utensili in fase di montaggio nello stabilimento HYT",
+          "image": "company/history-archive",
+          "image_alt": "Fotografia d'archivio dei primi anni di HYT",
           "layout": "image-right"
         },
         {
           "type": "timeline",
           "layout": "split",
           "id": "era-1970s",
-          "eyebrow": "1977\u20131979",
+          "eyebrow": "1977–1979",
           "heading": "Fondazione",
           "items": [
             {
@@ -311,7 +311,7 @@
           "type": "timeline",
           "layout": "split",
           "id": "era-1980s",
-          "eyebrow": "1980\u20131989",
+          "eyebrow": "1980–1989",
           "heading": "Prime innovazioni",
           "items": [
             {
@@ -339,7 +339,7 @@
           "type": "timeline",
           "layout": "split",
           "id": "era-1990s",
-          "eyebrow": "1990\u20131999",
+          "eyebrow": "1990–1999",
           "heading": "Pionieri dei torni per sale montate",
           "items": [
             {
@@ -360,7 +360,7 @@
           "type": "timeline",
           "layout": "split",
           "id": "era-2000s",
-          "eyebrow": "2000\u20132009",
+          "eyebrow": "2000–2009",
           "heading": "L'era del CNC e la proiezione internazionale",
           "items": [
             {
@@ -406,7 +406,7 @@
           "type": "timeline",
           "layout": "split",
           "id": "era-2010s",
-          "eyebrow": "2010\u20132019",
+          "eyebrow": "2010–2019",
           "heading": "Leadership nel chiavi in mano ed espansione globale",
           "items": [
             {
@@ -499,7 +499,7 @@
           "type": "timeline",
           "layout": "split",
           "id": "era-2020s",
-          "eyebrow": "2020\u20132026",
+          "eyebrow": "2020–2026",
           "heading": "Nuovi orizzonti",
           "items": [
             {
@@ -604,7 +604,7 @@
             "Il nostro sistema di gestione per la qualità è certificato ISO 9001:2015. Il certificato attesta che il processo esiste ed è sottoposto ad audit; i passaggi seguenti mostrano come funziona nella pratica. I certificati per qualità, ambiente e salute e sicurezza sul lavoro sono raccolti nella pagina [Certificazioni](page:certifications)."
           ],
           "image": "company/quality-inspection",
-          "image_alt": "Illustrazione di esempio di un ispettore che misura un componente lavorato nell'area qualità HYT",
+          "image_alt": "Controllo qualità di un componente lavorato in HYT",
           "layout": "image-right"
         },
         {
@@ -716,29 +716,6 @@
           "intro": "HYT Engineering Company Pvt. Ltd. è certificata da Intercert secondo tre norme internazionali sui sistemi di gestione. Selezioni un certificato per visualizzarlo per intero."
         },
         {
-          "type": "features",
-          "heading": "Tre norme, un unico modo di lavorare",
-          "intro": "Ogni norma è sottoposta ad audit da parte di un ente di certificazione indipendente. Insieme coprono il modo in cui costruiamo le macchine, trattiamo l'ambiente e tuteliamo le persone.",
-          "cols": 3,
-          "items": [
-            {
-              "icon": "clipboard-check",
-              "title": "ISO 9001:2015 – Gestione della qualità",
-              "text": "Richiede un processo documentato e sottoposto ad audit per comprendere i requisiti del cliente, controllare progettazione, acquisti e produzione e correggere i problemi. Per Lei significa macchine costanti nella qualità e registrazioni tracciabili."
-            },
-            {
-              "icon": "tree",
-              "title": "ISO 14001:2015 – Gestione ambientale",
-              "text": "Ci impone di individuare l'impatto ambientale delle nostre attività – energia, rifiuti, emissioni, refrigeranti e oli – e di tenerlo sotto controllo e ridurlo. Per Lei significa un fornitore che gestisce la propria impronta ambientale."
-            },
-            {
-              "icon": "shield-check",
-              "title": "ISO 45001:2018 – Salute e sicurezza sul lavoro",
-              "text": "Ci impone di individuare i pericoli e di prevenire infortuni e malattie professionali nel nostro stabilimento e presso i siti dei clienti. Per Lei significa interventi di installazione e assistenza più sicuri nel Suo deposito."
-            }
-          ]
-        },
-        {
           "type": "marks",
           "id": "marks",
           "eyebrow": "Norme e sostenibilità",
@@ -753,7 +730,7 @@
             "Se le servono prima i certificati per una gara o un audit fornitori, [ci contatti](page:contact-us) e glieli invieremo direttamente. Per vedere come la ISO 9001 funziona concretamente in officina, legga del nostro [processo qualità](page:quality); per i nostri impegni in ciascun ambito consulti la [Dichiarazione di politica](page:policy-statement)."
           ],
           "image": "company/quality-inspection",
-          "image_alt": "Illustrazione di esempio di una postazione di controllo qualità con strumenti di misura",
+          "image_alt": "Controllo qualità di un componente lavorato in HYT",
           "layout": "image-right"
         },
         {
@@ -837,7 +814,7 @@
             "Condividiamo questa esperienza con il settore in eventi internazionali come Asia Pacific Rail, Middle East Rail, Africa Rail e AusRAIL. Consulti le nostre [fiere internazionali](page:international-exhibitions)."
           ],
           "image": "company/exhibition-stand",
-          "image_alt": "Illustrazione di esempio di uno stand HYT in una fiera del settore ferroviario",
+          "image_alt": "Stand HYT a una fiera del settore ferroviario",
           "layout": "image-right"
         },
         {
@@ -913,7 +890,7 @@
             "Il nostro obiettivo è scegliere i progetti con attenzione, collaborare con partner affidabili, coinvolgere i nostri collaboratori e rendicontare con onestà i risultati raggiunti."
           ],
           "image": "company/csr-community",
-          "image_alt": "Illustrazione di esempio di un'attività di coinvolgimento della comunità con volontari HYT",
+          "image_alt": "Membri del team che tengono una giovane pianta",
           "layout": "image-right"
         },
         {
@@ -953,7 +930,7 @@
             "Le fotografie di questi eventi sono disponibili nella pagina [Vita in HYT](page:memorialization)."
           ],
           "image": "company/life-at-hyt",
-          "image_alt": "Illustrazione di esempio di collaboratori HYT che partecipano a un'iniziativa aziendale sulla salute",
+          "image_alt": "Colleghi che lavorano insieme in HYT",
           "layout": "image-left"
         },
         {
@@ -982,7 +959,7 @@
             "I nostri sistemi di gestione per qualità, ambiente e salute e sicurezza sul lavoro sono certificati ISO 9001:2015, ISO 14001:2015 e ISO 45001:2018; i dettagli sono nella pagina [Certificazioni](page:certifications). Per domande su uno qualsiasi dei documenti presenti o per richiedere copie firmate per una gara o un audit, [ci contatti](page:contact-us)."
           ],
           "image": "company/corporate-office",
-          "image_alt": "Illustrazione di esempio della sede HYT",
+          "image_alt": "Sede di HYT Engineering a Pune",
           "layout": "image-right"
         },
         {

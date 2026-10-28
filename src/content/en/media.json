@@ -68,7 +68,7 @@
             "Journalists and industry publications can request background information, quotes or images by writing to info@hytengineering.com with \"Media enquiry\" in the subject line."
           ],
           "image": "company/exhibition-stand",
-          "image_alt": "Sample illustration of an HYT exhibition stand with a wheel lathe model and visitors in discussion",
+          "image_alt": "HYT stand at a rail industry exhibition",
           "layout": "image-right"
         },
         {
@@ -77,10 +77,22 @@
           "heading": "More from HYT",
           "cols": 4,
           "items": [
-            {"page": "under-execution", "icon": "gear-wide-connected"},
-            {"page": "awards", "icon": "award"},
-            {"page": "international-exhibitions", "icon": "globe2"},
-            {"page": "domestic-exhibitions", "icon": "geo-alt"}
+            {
+              "page": "under-execution",
+              "icon": "gear-wide-connected"
+            },
+            {
+              "page": "awards",
+              "icon": "award"
+            },
+            {
+              "page": "international-exhibitions",
+              "icon": "globe2"
+            },
+            {
+              "page": "domestic-exhibitions",
+              "icon": "geo-alt"
+            }
           ]
         },
         {
@@ -109,7 +121,7 @@
             "International exhibitions let us meet railways, metro operators, rolling stock manufacturers and consultants from many regions in a few days. We learn how maintenance practices differ between networks, which problems keep workshop managers awake and where new lines and depots are being planned. That knowledge feeds straight back into our machine design and our [turnkey projects](page:turnkey-project)."
           ],
           "image": "company/exhibition-stand",
-          "image_alt": "Sample illustration of an HYT exhibition stand at an international rail show",
+          "image_alt": "HYT stand at a rail industry exhibition",
           "layout": "image-right"
         },
         {
@@ -118,10 +130,22 @@
           "heading": "Where we have exhibited",
           "intro": "HYT has taken part as an exhibitor in these international rail events.",
           "items": [
-            {"name": "Asia Pacific Rail", "note": "Exhibitor"},
-            {"name": "Middle East Rail", "note": "Exhibitor"},
-            {"name": "Africa Rail 2020", "note": "Exhibitor"},
-            {"name": "AusRAIL", "note": "Exhibitor"}
+            {
+              "name": "Asia Pacific Rail",
+              "note": "Exhibitor"
+            },
+            {
+              "name": "Middle East Rail",
+              "note": "Exhibitor"
+            },
+            {
+              "name": "Africa Rail 2020",
+              "note": "Exhibitor"
+            },
+            {
+              "name": "AusRAIL",
+              "note": "Exhibitor"
+            }
           ]
         },
         {
@@ -131,23 +155,62 @@
           "intro": "Our stand is staffed by people who design, build and service the machines. Bring your questions – and, if you can, your wheel profiles and depot drawings.",
           "cols": 3,
           "items": [
-            {"icon": "rulers", "title": "Wheel re-profiling strategy", "text": "How to restore profiles with minimum material loss and extend wheel life across a fleet."},
-            {"icon": "gear-wide-connected", "title": "Choosing a wheel lathe", "text": "Underfloor, tandem, surface or portal: which design fits your vehicles, gauge and throughput."},
-            {"icon": "diagram-3", "title": "Depot and wheel shop planning", "text": "Process flow, machine selection and civil interfaces for new or expanding facilities."},
-            {"icon": "building-gear", "title": "Turnkey projects", "text": "Single-point responsibility from layout study to commissioning and handover."},
-            {"icon": "arrow-repeat", "title": "Upgrades for existing machines", "text": "Retro-fitting new CNC systems, drives and measuring technology to extend machine life."},
-            {"icon": "truck", "title": "Wet leasing", "text": "Re-profiling capacity supplied with machine and crew, paid for by output."}
+            {
+              "icon": "rulers",
+              "title": "Wheel re-profiling strategy",
+              "text": "How to restore profiles with minimum material loss and extend wheel life across a fleet."
+            },
+            {
+              "icon": "gear-wide-connected",
+              "title": "Choosing a wheel lathe",
+              "text": "Underfloor, tandem, surface or portal: which design fits your vehicles, gauge and throughput."
+            },
+            {
+              "icon": "diagram-3",
+              "title": "Depot and wheel shop planning",
+              "text": "Process flow, machine selection and civil interfaces for new or expanding facilities."
+            },
+            {
+              "icon": "building-gear",
+              "title": "Turnkey projects",
+              "text": "Single-point responsibility from layout study to commissioning and handover."
+            },
+            {
+              "icon": "arrow-repeat",
+              "title": "Upgrades for existing machines",
+              "text": "Retro-fitting new CNC systems, drives and measuring technology to extend machine life."
+            },
+            {
+              "icon": "truck",
+              "title": "Wet leasing",
+              "text": "Re-profiling capacity supplied with machine and crew, paid for by output."
+            }
           ],
-          "link": {"label": "Explore our products", "page": "products"}
+          "link": {
+            "label": "Explore our products",
+            "page": "products"
+          }
         },
         {
           "type": "gallery",
           "heading": "Impressions",
           "items": [
-            {"image": "company/exhibition-stand", "caption": "Sample illustration of the HYT exhibition stand"},
-            {"image": "products/underfloor-wheel-lathe-yul-08", "caption": "HYT CNC Underfloor Wheel Lathe (YUL-08)"},
-            {"image": "products/wheelset-profile-closeup", "caption": "Close-up of a railway wheel tread being re-profiled"},
-            {"image": "company/engineering-design", "caption": "Sample illustration of HYT engineers reviewing a machine design"}
+            {
+              "image": "company/exhibition-stand",
+              "caption": "HYT stand at a rail industry exhibition"
+            },
+            {
+              "image": "products/underfloor-wheel-lathe-yul-08",
+              "caption": "HYT CNC Underfloor Wheel Lathe (YUL-08)"
+            },
+            {
+              "image": "products/wheelset-profile-closeup",
+              "caption": "Close-up of a railway wheel tread being re-profiled"
+            },
+            {
+              "image": "company/engineering-design",
+              "caption": "HYT design engineer working on a 3D machine model"
+            }
           ]
         },
         {
@@ -156,8 +219,14 @@
           "heading": "More events and news",
           "cols": 2,
           "items": [
-            {"page": "domestic-exhibitions", "icon": "geo-alt"},
-            {"page": "news", "icon": "newspaper"}
+            {
+              "page": "domestic-exhibitions",
+              "icon": "geo-alt"
+            },
+            {
+              "page": "news",
+              "icon": "newspaper"
+            }
           ]
         },
         {
@@ -169,8 +238,14 @@
           "type": "cta",
           "heading": "Planning to visit a rail exhibition?",
           "text": "Tell us which event you are attending and what you would like to discuss. We will arrange a meeting with the right engineer – at the show or afterwards.",
-          "primary": {"label": "Arrange a meeting", "page": "contact-us"},
-          "secondary": {"label": "Explore Our Products", "page": "products"}
+          "primary": {
+            "label": "Arrange a meeting",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Explore Our Products",
+            "page": "products"
+          }
         }
       ]
     },
@@ -193,7 +268,7 @@
             "We use these events to show what is new, to hear how our machines perform in daily service and to meet the engineers planning the next generation of depots for expanding metro and regional rail networks. They are also a good place to meet suppliers and young engineers who may want to [work with us](page:work-with-us)."
           ],
           "image": "company/exhibition-stand",
-          "image_alt": "Sample illustration of an HYT stand at an Indian engineering exhibition",
+          "image_alt": "HYT stand at a rail industry exhibition",
           "layout": "image-right"
         },
         {
@@ -202,10 +277,26 @@
           "heading": "Conversations we look forward to",
           "cols": 4,
           "items": [
-            {"icon": "train-front", "title": "Railway workshops and sheds", "text": "Re-profiling capacity, machine upgrades and maintenance contracts for existing equipment."},
-            {"icon": "train-lightrail-front", "title": "Metro and regional rail", "text": "Underfloor and tandem lathes for new depots with high-frequency fleets."},
-            {"icon": "building-gear", "title": "Rolling stock manufacturers", "text": "Wheel and axle shop machines for new-build wheelsets and testing."},
-            {"icon": "people", "title": "Consultants and contractors", "text": "Depot layouts, pit drawings and civil interfaces for tender designs."}
+            {
+              "icon": "train-front",
+              "title": "Railway workshops and sheds",
+              "text": "Re-profiling capacity, machine upgrades and maintenance contracts for existing equipment."
+            },
+            {
+              "icon": "train-lightrail-front",
+              "title": "Metro and regional rail",
+              "text": "Underfloor and tandem lathes for new depots with high-frequency fleets."
+            },
+            {
+              "icon": "building-gear",
+              "title": "Rolling stock manufacturers",
+              "text": "Wheel and axle shop machines for new-build wheelsets and testing."
+            },
+            {
+              "icon": "people",
+              "title": "Consultants and contractors",
+              "text": "Depot layouts, pit drawings and civil interfaces for tender designs."
+            }
           ]
         },
         {
@@ -214,8 +305,14 @@
           "heading": "More events and news",
           "cols": 2,
           "items": [
-            {"page": "international-exhibitions", "icon": "globe2"},
-            {"page": "news", "icon": "newspaper"}
+            {
+              "page": "international-exhibitions",
+              "icon": "globe2"
+            },
+            {
+              "page": "news",
+              "icon": "newspaper"
+            }
           ]
         },
         {
@@ -227,8 +324,14 @@
           "type": "cta",
           "heading": "Meet our team in India",
           "text": "Whether at an exhibition or at our works in Pune, we are happy to discuss your fleet and your workshop.",
-          "primary": {"label": "Contact our team", "page": "contact-us"},
-          "secondary": {"label": "Service network", "page": "service-centers"}
+          "primary": {
+            "label": "Contact our team",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Service network",
+            "page": "service-centers"
+          }
         }
       ]
     },
@@ -481,7 +584,7 @@
             "Need a drawing, a datasheet or tender documentation that is not listed here? [Contact us](page:contact-us) and tell us which machine and which project it is for."
           ],
           "image": "company/engineering-design",
-          "image_alt": "Sample illustration of engineers reviewing machine drawings and documentation",
+          "image_alt": "HYT design engineer working on a 3D machine model",
           "layout": "image-right"
         },
         {
@@ -490,10 +593,34 @@
           "heading": "Find a machine",
           "cols": 4,
           "items": [
-            {"page": "products", "anchor": "wheel-lathes", "title": "Wheel Lathes", "text": "Underfloor, tandem, surface and portal CNC lathes.", "icon": "gear-wide-connected"},
-            {"page": "products", "anchor": "wheel-axle-shop-machines", "title": "Wheel & Axle Shop Machines", "text": "Turning, boring, burnishing, pressing, measuring and balancing.", "icon": "tools"},
-            {"page": "products", "anchor": "depot-workshop-equipment", "title": "Depot & Workshop Equipment", "text": "Armature machines, train washing plants and shunters.", "icon": "building-gear"},
-            {"page": "products", "anchor": "partner-products", "title": "Partner Products", "text": "SKC Gleittechnik sliding technology from Germany.", "icon": "box-seam"}
+            {
+              "page": "products",
+              "anchor": "wheel-lathes",
+              "title": "Wheel Lathes",
+              "text": "Underfloor, tandem, surface and portal CNC lathes.",
+              "icon": "gear-wide-connected"
+            },
+            {
+              "page": "products",
+              "anchor": "wheel-axle-shop-machines",
+              "title": "Wheel & Axle Shop Machines",
+              "text": "Turning, boring, burnishing, pressing, measuring and balancing.",
+              "icon": "tools"
+            },
+            {
+              "page": "products",
+              "anchor": "depot-workshop-equipment",
+              "title": "Depot & Workshop Equipment",
+              "text": "Armature machines, train washing plants and shunters.",
+              "icon": "building-gear"
+            },
+            {
+              "page": "products",
+              "anchor": "partner-products",
+              "title": "Partner Products",
+              "text": "SKC Gleittechnik sliding technology from Germany.",
+              "icon": "box-seam"
+            }
           ]
         },
         {

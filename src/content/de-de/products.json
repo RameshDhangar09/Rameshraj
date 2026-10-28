@@ -442,7 +442,7 @@
             "Bediener und Instandhalter werden vor Ort geschult. Danach sorgen [Ersatzteilversorgung](page:spare-supply), ein [Jährlicher Wartungsvertrag](page:annual-maintenance-contract) und [Nachrüstung](page:retro-fitment-upgradation) dafür, dass die Maschine viele Jahre produktiv bleibt."
           ],
           "image": "company/training-session",
-          "image_alt": "Beispielabbildung einer Bedienerschulung am Bedienpult einer Radsatzdrehmaschine",
+          "image_alt": "Schulung für HYT-Mitarbeitende",
           "layout": "image-left"
         },
         {
@@ -464,7 +464,7 @@
             },
             {
               "image": "company/quality-inspection",
-              "caption": "Beispielabbildung eines fertigen Radsatzes bei der Prüfung"
+              "caption": "Qualitätsprüfung eines bearbeiteten Bauteils bei HYT"
             }
           ]
         },
@@ -1954,7 +1954,7 @@
             },
             {
               "image": "company/quality-inspection",
-              "caption": "Beispielabbildung eines Radsatzes bei der Endkontrolle"
+              "caption": "Qualitätsprüfung eines bearbeiteten Bauteils bei HYT"
             }
           ]
         },
@@ -2219,7 +2219,7 @@
             "Montage, Inbetriebnahme und [Schulung](page:training) des Bedienpersonals übernehmen HYT-Ingenieure, gefolgt von dem Servicevertrag, der zu Ihrer Werkstatt passt."
           ],
           "image": "company/engineering-design",
-          "image_alt": "Beispielabbildung von Ingenieuren bei der Prüfung von Maschinenaufstellungsplänen",
+          "image_alt": "HYT-Konstrukteur arbeitet an einem 3D-Maschinenmodell",
           "layout": "image-left"
         },
         {
@@ -2511,7 +2511,7 @@
             },
             {
               "image": "company/quality-inspection",
-              "caption": "Beispielabbildung einer bearbeiteten Radbohrung bei der Prüfung"
+              "caption": "Qualitätsprüfung eines bearbeiteten Bauteils bei HYT"
             },
             {
               "image": "projects/railway-wheel-shop",
@@ -2762,7 +2762,7 @@
             "Glattwalzwerkzeuge, Verschleißteile und andere Verbrauchsmaterialien erhalten Sie über die [Ersatzteilversorgung](page:spare-supply), und [Wartungsverträge](page:maintenance) halten die Maschine präzise."
           ],
           "image": "company/service-maintenance",
-          "image_alt": "Beispielabbildung eines Servicetechnikers bei der Prüfung einer Drehmaschine in einer Werkstatt",
+          "image_alt": "HYT-Techniker an einer Radsatzdrehmaschine in einer Radsatzwerkstatt",
           "layout": "image-left"
         },
         {
@@ -2780,7 +2780,7 @@
             },
             {
               "image": "company/quality-inspection",
-              "caption": "Beispielabbildung der Achsschenkelprüfung nach dem Glattwalzen"
+              "caption": "Qualitätsprüfung eines bearbeiteten Bauteils bei HYT"
             }
           ]
         },
@@ -3060,7 +3060,7 @@
             },
             {
               "image": "company/quality-inspection",
-              "caption": "Beispielabbildung der Durchmesserprüfung an einer Achswelle"
+              "caption": "Qualitätsprüfung eines bearbeiteten Bauteils bei HYT"
             },
             {
               "image": "company/manufacturing-facility",
@@ -3315,7 +3315,7 @@
             },
             {
               "image": "company/quality-inspection",
-              "caption": "Beispielabbildung eines montierten Radsatzes bei der Prüfung"
+              "caption": "Qualitätsprüfung eines bearbeiteten Bauteils bei HYT"
             }
           ]
         },
@@ -3544,7 +3544,7 @@
             "Für neue Anlagen planen wir die Station als Teil des gesamten Material- und Datenflusses – siehe [Radsatzwerkstätten](page:ts-wheel-shops)."
           ],
           "image": "company/quality-inspection",
-          "image_alt": "Beispielabbildung eines Prüfers bei der Auswertung von Radsatz-Messergebnissen",
+          "image_alt": "Qualitätsprüfung eines bearbeiteten Bauteils bei HYT",
           "layout": "image-left"
         },
         {
@@ -3566,7 +3566,7 @@
             },
             {
               "image": "company/quality-inspection",
-              "caption": "Beispielabbildung der Auswertung von Messdaten"
+              "caption": "Qualitätsprüfung eines bearbeiteten Bauteils bei HYT"
             }
           ]
         },
@@ -3790,7 +3790,7 @@
             "Regelmäßige Kalibrierung, [Ersatzteilversorgung](page:spare-supply) und Wartungsverträge sorgen über die gesamte Lebensdauer der Maschine für zuverlässige Messergebnisse."
           ],
           "image": "company/engineering-design",
-          "image_alt": "Beispielabbildung von Ingenieuren bei der Prüfung technischer Zeichnungen",
+          "image_alt": "HYT-Konstrukteur arbeitet an einem 3D-Maschinenmodell",
           "layout": "image-left"
         },
         {
@@ -3804,7 +3804,7 @@
             },
             {
               "image": "company/quality-inspection",
-              "caption": "Beispielabbildung einer Unwuchtprüfung in der Qualitätskontrolle"
+              "caption": "Qualitätsprüfung eines bearbeiteten Bauteils bei HYT"
             },
             {
               "image": "products/wheelset-profile-closeup",
@@ -4072,7 +4072,7 @@
             "Verträge für [Ersatzteilversorgung](page:spare-supply) und [Wartung](page:maintenance) halten sie für jede Revision einsatzbereit."
           ],
           "image": "company/service-maintenance",
-          "image_alt": "Beispielabbildung eines Servicetechnikers an einer Werkstattmaschine im Betriebswerk",
+          "image_alt": "HYT-Techniker an einer Radsatzdrehmaschine in einer Radsatzwerkstatt",
           "layout": "image-left"
         },
         {
@@ -4090,7 +4090,7 @@
             },
             {
               "image": "company/service-maintenance",
-              "caption": "Beispielabbildung von Instandhaltungsarbeiten an einem Anker"
+              "caption": "HYT-Techniker an einer Radsatzdrehmaschine in einer Radsatzwerkstatt"
             }
           ]
         },
@@ -4334,7 +4334,7 @@
             },
             {
               "image": "company/service-maintenance",
-              "caption": "Beispielabbildung von Wartungsarbeiten an der Anlage"
+              "caption": "HYT-Techniker an einer Radsatzdrehmaschine in einer Radsatzwerkstatt"
             }
           ]
         },

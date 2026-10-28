@@ -53,7 +53,7 @@
             "Des systèmes de management certifiés ISO 9001, ISO 14001 et ISO 45001"
           ],
           "image": "company/engineering-design",
-          "image_alt": "Illustration d’exemple d’ingénieurs d’études HYT examinant à l’écran le modèle d’un tour à roues",
+          "image_alt": "Ingénieur d’études HYT travaillant sur une maquette 3D de machine",
           "layout": "image-right",
           "link": {
             "label": "Voir les carrières chez HYT",
@@ -254,7 +254,7 @@
               "icon": "pc-display",
               "title": "Ingénierie et conception",
               "image": "company/engineering-design",
-              "image_alt": "Illustration d'exemple d'un poste de conception affichant le modèle CAO d'un tour",
+              "image_alt": "Ingénieur d’études HYT travaillant sur une maquette 3D de machine",
               "text": "Ingénieurs mécaniciens, électriciens et CNC conçoivent chaque machine HYT en interne – du concept et des calculs jusqu'aux plans, programmes et documentation.",
               "bullets": [
                 "Conception et simulation 3D",
@@ -266,7 +266,7 @@
               "icon": "rulers",
               "title": "Qualité et contrôle",
               "image": "company/quality-inspection",
-              "image_alt": "Illustration d'exemple d'une machine de mesure contrôlant une pièce usinée",
+              "image_alt": "Contrôle qualité d’une pièce usinée chez HYT",
               "text": "Notre équipe qualité contrôle les composants et les machines complètes par rapport aux plans, aux normes et aux spécifications des clients, conformément à l'ISO 9001:2015.",
               "bullets": [
                 "Contrôle à réception et en cours de fabrication",
@@ -278,7 +278,7 @@
               "icon": "easel",
               "title": "Formation et apprentissage",
               "image": "company/training-session",
-              "image_alt": "Illustration d'exemple d'une salle de formation avec une présentation sur une machine",
+              "image_alt": "Session de formation pour le personnel HYT",
               "text": "Les nouveaux collaborateurs découvrent les machines, les règles de sécurité et les exigences des clients grâce à une formation structurée, au mentorat et à des projets réels.",
               "bullets": [
                 "Formation d'intégration et sécurité",
@@ -290,7 +290,7 @@
               "icon": "cup-hot",
               "title": "Restauration et transport",
               "image": "company/life-at-hyt",
-              "image_alt": "Illustration d'exemple d'une salle de réunion du personnel",
+              "image_alt": "Collègues travaillant ensemble chez HYT",
               "text": "Une cantine subventionnée et des navettes d'entreprise pour les salariés éligibles s'occupent du quotidien – pour que vous puissiez vous concentrer sur votre travail.",
               "bullets": [
                 "Repas équilibrés et subventionnés",
@@ -578,7 +578,7 @@
             "Notre rencontre annuelle réunit tout le monde pour célébrer le travail de l’année. La semaine de la sécurité nous rappelle que chaque machine que nous construisons doit l’être en toute sécurité. Les collectes de sang et nos [actions solidaires](page:csr) nous permettent de rendre à la société une partie de ce qu’elle nous donne, et la Journée internationale du yoga est l’occasion de prendre soin de nous."
           ],
           "image": "company/life-at-hyt",
-          "image_alt": "Illustration d’exemple de collègues HYT réunis lors d’un événement d’entreprise",
+          "image_alt": "Collègues travaillant ensemble chez HYT",
           "layout": "image-right"
         },
         {
@@ -615,15 +615,15 @@
           "items": [
             {
               "image": "company/life-at-hyt",
-              "caption": "Illustration d’exemple de la rencontre annuelle HYT"
+              "caption": "Collègues travaillant ensemble chez HYT"
             },
             {
               "image": "company/training-session",
-              "caption": "Illustration d’exemple d’une séance de sensibilisation pendant la semaine de la sécurité"
+              "caption": "Session de formation pour le personnel HYT"
             },
             {
               "image": "company/csr-community",
-              "caption": "Illustration d’exemple d’une collecte de sang organisée par HYT"
+              "caption": "Membres de l’équipe tenant une jeune plante"
             },
             {
               "image": "company/manufacturing-facility",
@@ -631,11 +631,11 @@
             },
             {
               "image": "company/corporate-office",
-              "caption": "Illustration d’exemple de la Journée internationale du yoga chez HYT"
+              "caption": "Siège de HYT Engineering à Pune"
             },
             {
               "image": "company/quality-inspection",
-              "caption": "Illustration d’exemple de collègues partageant leur savoir-faire en atelier"
+              "caption": "Contrôle qualité d’une pièce usinée chez HYT"
             }
           ]
         },

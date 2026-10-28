@@ -442,7 +442,7 @@
             "Les opérateurs et le personnel de maintenance sont formés sur site. Ensuite, la [fourniture de pièces de rechange](page:spare-supply), un [contrat de maintenance annuel](page:annual-maintenance-contract) et la [modernisation](page:retro-fitment-upgradation) maintiennent la productivité de la machine pendant de nombreuses années."
           ],
           "image": "company/training-session",
-          "image_alt": "Illustration d'exemple d'opérateurs formés au pupitre de commande d'un tour à roues",
+          "image_alt": "Session de formation pour le personnel HYT",
           "layout": "image-left"
         },
         {
@@ -464,7 +464,7 @@
             },
             {
               "image": "company/quality-inspection",
-              "caption": "Illustration d'exemple d'un essieu monté terminé en cours de contrôle"
+              "caption": "Contrôle qualité d’une pièce usinée chez HYT"
             }
           ]
         },
@@ -1954,7 +1954,7 @@
             },
             {
               "image": "company/quality-inspection",
-              "caption": "Illustration d'exemple d'un essieu monté en contrôle final"
+              "caption": "Contrôle qualité d’une pièce usinée chez HYT"
             }
           ]
         },
@@ -2219,7 +2219,7 @@
             "L'installation, la mise en service et la [formation](page:training) des opérateurs sont assurées par des ingénieurs HYT, suivies du contrat de service adapté à votre atelier."
           ],
           "image": "company/engineering-design",
-          "image_alt": "Illustration d'exemple d'ingénieurs examinant des plans d'implantation de machine",
+          "image_alt": "Ingénieur d’études HYT travaillant sur une maquette 3D de machine",
           "layout": "image-left"
         },
         {
@@ -2511,7 +2511,7 @@
             },
             {
               "image": "company/quality-inspection",
-              "caption": "Illustration d'exemple du contrôle d'un alésage de roue usiné"
+              "caption": "Contrôle qualité d’une pièce usinée chez HYT"
             },
             {
               "image": "projects/railway-wheel-shop",
@@ -2762,7 +2762,7 @@
             "Outils de galetage, pièces d'usure et autres consommables sont disponibles via la [fourniture de pièces de rechange](page:spare-supply), et des [contrats de maintenance](page:maintenance) préservent la précision de la machine."
           ],
           "image": "company/service-maintenance",
-          "image_alt": "Illustration d'exemple d'un technicien de service contrôlant un tour en atelier",
+          "image_alt": "Techniciens HYT devant un tour à roues dans un atelier",
           "layout": "image-left"
         },
         {
@@ -2780,7 +2780,7 @@
             },
             {
               "image": "company/quality-inspection",
-              "caption": "Illustration d'exemple du contrôle d'une fusée après galetage"
+              "caption": "Contrôle qualité d’une pièce usinée chez HYT"
             }
           ]
         },
@@ -3060,7 +3060,7 @@
             },
             {
               "image": "company/quality-inspection",
-              "caption": "Illustration d'exemple du contrôle des diamètres d'un essieu"
+              "caption": "Contrôle qualité d’une pièce usinée chez HYT"
             },
             {
               "image": "company/manufacturing-facility",
@@ -3315,7 +3315,7 @@
             },
             {
               "image": "company/quality-inspection",
-              "caption": "Illustration d'exemple d'un essieu monté assemblé en cours de contrôle"
+              "caption": "Contrôle qualité d’une pièce usinée chez HYT"
             }
           ]
         },
@@ -3544,7 +3544,7 @@
             "Pour les nouvelles installations, nous planifions la station dans le cadre de l'ensemble du flux de matériel et de données – voir [Ateliers d'essieux](page:ts-wheel-shops)."
           ],
           "image": "company/quality-inspection",
-          "image_alt": "Illustration d'exemple d'un contrôleur analysant les résultats de mesure d'un essieu monté",
+          "image_alt": "Contrôle qualité d’une pièce usinée chez HYT",
           "layout": "image-left"
         },
         {
@@ -3566,7 +3566,7 @@
             },
             {
               "image": "company/quality-inspection",
-              "caption": "Illustration d'exemple de l'analyse des données de mesure"
+              "caption": "Contrôle qualité d’une pièce usinée chez HYT"
             }
           ]
         },
@@ -3790,7 +3790,7 @@
             "L'étalonnage périodique, la [fourniture de pièces de rechange](page:spare-supply) et les contrats de maintenance garantissent la fiabilité des mesures pendant toute la durée de vie de la machine."
           ],
           "image": "company/engineering-design",
-          "image_alt": "Illustration d'exemple d'ingénieurs examinant des plans techniques",
+          "image_alt": "Ingénieur d’études HYT travaillant sur une maquette 3D de machine",
           "layout": "image-left"
         },
         {
@@ -3804,7 +3804,7 @@
             },
             {
               "image": "company/quality-inspection",
-              "caption": "Illustration d'exemple d'un contrôle d'équilibrage en contrôle qualité"
+              "caption": "Contrôle qualité d’une pièce usinée chez HYT"
             },
             {
               "image": "products/wheelset-profile-closeup",
@@ -4072,7 +4072,7 @@
             "Les contrats de [fourniture de pièces de rechange](page:spare-supply) et de [maintenance](page:maintenance) la maintiennent prête pour chaque révision."
           ],
           "image": "company/service-maintenance",
-          "image_alt": "Illustration d'exemple d'un technicien de service devant une machine d'atelier de dépôt",
+          "image_alt": "Techniciens HYT devant un tour à roues dans un atelier",
           "layout": "image-left"
         },
         {
@@ -4090,7 +4090,7 @@
             },
             {
               "image": "company/service-maintenance",
-              "caption": "Illustration d'exemple de travaux de maintenance sur un induit"
+              "caption": "Techniciens HYT devant un tour à roues dans un atelier"
             }
           ]
         },
@@ -4334,7 +4334,7 @@
             },
             {
               "image": "company/service-maintenance",
-              "caption": "Illustration d'exemple de travaux de maintenance sur l'installation"
+              "caption": "Techniciens HYT devant un tour à roues dans un atelier"
             }
           ]
         },

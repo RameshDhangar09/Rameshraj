@@ -24,7 +24,7 @@
             "Genuine spare parts identified against your machine's build records"
           ],
           "image": "company/service-maintenance",
-          "image_alt": "Sample illustration of HYT service engineers carrying out maintenance on a wheel lathe",
+          "image_alt": "HYT engineers at a wheel lathe in a wheel shop",
           "layout": "image-right"
         },
         {
@@ -35,14 +35,38 @@
           "intro": "From the first foundation drawing to relocation or upgrade decades later, each service addresses a specific moment in the life of the machine.",
           "cols": 4,
           "items": [
-            {"page": "installation-commissioning", "icon": "tools"},
-            {"page": "maintenance", "icon": "clipboard-check"},
-            {"page": "retro-fitment-upgradation", "icon": "arrow-repeat"},
-            {"page": "repair", "icon": "wrench-adjustable"},
-            {"page": "shifting", "icon": "truck"},
-            {"page": "wet-leasing", "icon": "cash-coin"},
-            {"page": "training", "icon": "mortarboard"},
-            {"page": "service-centers", "icon": "headset"}
+            {
+              "page": "installation-commissioning",
+              "icon": "tools"
+            },
+            {
+              "page": "maintenance",
+              "icon": "clipboard-check"
+            },
+            {
+              "page": "retro-fitment-upgradation",
+              "icon": "arrow-repeat"
+            },
+            {
+              "page": "repair",
+              "icon": "wrench-adjustable"
+            },
+            {
+              "page": "shifting",
+              "icon": "truck"
+            },
+            {
+              "page": "wet-leasing",
+              "icon": "cash-coin"
+            },
+            {
+              "page": "training",
+              "icon": "mortarboard"
+            },
+            {
+              "page": "service-centers",
+              "icon": "headset"
+            }
           ]
         },
         {
@@ -53,12 +77,30 @@
           "intro": "From on-call help to full operation of the machine by HYT staff. Compare scope, spares and responsibilities side by side on the [Maintenance Services](page:maintenance#compare) page.",
           "cols": 3,
           "items": [
-            {"page": "operation-and-maintenance", "icon": "people"},
-            {"page": "annual-maintenance-contract", "icon": "calendar-check"},
-            {"page": "comprehensive-annual-maintenance-contract", "icon": "shield-check"},
-            {"page": "operation-contract", "icon": "person-gear"},
-            {"page": "service-contract", "icon": "telephone"},
-            {"page": "spare-supply", "icon": "box-seam"}
+            {
+              "page": "operation-and-maintenance",
+              "icon": "people"
+            },
+            {
+              "page": "annual-maintenance-contract",
+              "icon": "calendar-check"
+            },
+            {
+              "page": "comprehensive-annual-maintenance-contract",
+              "icon": "shield-check"
+            },
+            {
+              "page": "operation-contract",
+              "icon": "person-gear"
+            },
+            {
+              "page": "service-contract",
+              "icon": "telephone"
+            },
+            {
+              "page": "spare-supply",
+              "icon": "box-seam"
+            }
           ]
         },
         {
@@ -67,12 +109,30 @@
           "heading": "How we support you across the machine life cycle",
           "intro": "The right support changes as a machine moves from project to production to mid-life. We plan for each stage from the start.",
           "items": [
-            {"title": "Before delivery", "text": "Foundation and pit drawings, utility requirements and a training plan agreed early, so the site is ready when the machine arrives."},
-            {"title": "Installation & commissioning", "text": "Erection, alignment and trials on your own wheelsets, followed by a documented handover. [Learn more](page:installation-commissioning)."},
-            {"title": "Early production", "text": "Operator coaching, a recommended first-year spares list and quick answers while your team gains confidence."},
-            {"title": "Planned maintenance", "text": "Preventive visits and breakdown cover under an [AMC](page:annual-maintenance-contract), [CMC](page:comprehensive-annual-maintenance-contract) or [O&M](page:operation-and-maintenance) contract."},
-            {"title": "Mid-life renewal", "text": "[Retro-fitment](page:retro-fitment-upgradation) of CNC, drives and measuring systems, major [repairs](page:repair) or [relocation](page:shifting) to a new depot."},
-            {"title": "Continuous capability", "text": "Refresher [training](page:training) for new staff and updated profile programs as your fleet changes."}
+            {
+              "title": "Before delivery",
+              "text": "Foundation and pit drawings, utility requirements and a training plan agreed early, so the site is ready when the machine arrives."
+            },
+            {
+              "title": "Installation & commissioning",
+              "text": "Erection, alignment and trials on your own wheelsets, followed by a documented handover. [Learn more](page:installation-commissioning)."
+            },
+            {
+              "title": "Early production",
+              "text": "Operator coaching, a recommended first-year spares list and quick answers while your team gains confidence."
+            },
+            {
+              "title": "Planned maintenance",
+              "text": "Preventive visits and breakdown cover under an [AMC](page:annual-maintenance-contract), [CMC](page:comprehensive-annual-maintenance-contract) or [O&M](page:operation-and-maintenance) contract."
+            },
+            {
+              "title": "Mid-life renewal",
+              "text": "[Retro-fitment](page:retro-fitment-upgradation) of CNC, drives and measuring systems, major [repairs](page:repair) or [relocation](page:shifting) to a new depot."
+            },
+            {
+              "title": "Continuous capability",
+              "text": "Refresher [training](page:training) for new staff and updated profile programs as your fleet changes."
+            }
           ]
         },
         {
@@ -81,18 +141,40 @@
           "heading": "What you can expect from HYT service",
           "cols": 4,
           "items": [
-            {"icon": "person-check", "title": "One point of contact", "text": "Requests are logged and followed through to closure by our service team in Pune."},
-            {"icon": "file-earmark-text", "title": "Documented work", "text": "Every visit ends with a written report of findings, work done and recommendations."},
-            {"icon": "box-seam", "title": "Genuine parts", "text": "Spares matched to your machine's build records, not to a generic catalogue."},
-            {"icon": "telephone", "title": "Toll-free access", "text": "Call 1800 2100 456 with your machine serial number to reach the service desk."}
+            {
+              "icon": "person-check",
+              "title": "One point of contact",
+              "text": "Requests are logged and followed through to closure by our service team in Pune."
+            },
+            {
+              "icon": "file-earmark-text",
+              "title": "Documented work",
+              "text": "Every visit ends with a written report of findings, work done and recommendations."
+            },
+            {
+              "icon": "box-seam",
+              "title": "Genuine parts",
+              "text": "Spares matched to your machine's build records, not to a generic catalogue."
+            },
+            {
+              "icon": "telephone",
+              "title": "Toll-free access",
+              "text": "Call 1800 2100 456 with your machine serial number to reach the service desk."
+            }
           ]
         },
         {
           "type": "cta",
           "heading": "Tell us what your machine needs",
           "text": "Whether it is a new installation, a breakdown or a contract renewal, share the machine type, serial number and location. We will come back with a clear proposal.",
-          "primary": {"label": "Discuss Your Requirement", "page": "contact-us"},
-          "secondary": {"label": "After-Sales Service Network", "page": "service-centers"}
+          "primary": {
+            "label": "Discuss Your Requirement",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "After-Sales Service Network",
+            "page": "service-centers"
+          }
         }
       ]
     },
@@ -221,7 +303,7 @@
             "Our maintenance contracts put that attention on a schedule. They differ in three ways: who operates the machine, whether spare parts are included, and how the work is paid for. Choose the combination that matches your in-house skills, your budget model and how critical the machine is to fleet availability."
           ],
           "image": "company/service-maintenance",
-          "image_alt": "Sample illustration of a technician inspecting the hydraulic unit of a wheel lathe during a preventive maintenance visit",
+          "image_alt": "HYT engineers at a wheel lathe in a wheel shop",
           "layout": "image-right"
         },
         {
@@ -231,12 +313,30 @@
           "heading": "Our maintenance services",
           "cols": 3,
           "items": [
-            {"page": "operation-and-maintenance", "icon": "people"},
-            {"page": "annual-maintenance-contract", "icon": "calendar-check"},
-            {"page": "comprehensive-annual-maintenance-contract", "icon": "shield-check"},
-            {"page": "operation-contract", "icon": "person-gear"},
-            {"page": "service-contract", "icon": "telephone"},
-            {"page": "spare-supply", "icon": "box-seam"}
+            {
+              "page": "operation-and-maintenance",
+              "icon": "people"
+            },
+            {
+              "page": "annual-maintenance-contract",
+              "icon": "calendar-check"
+            },
+            {
+              "page": "comprehensive-annual-maintenance-contract",
+              "icon": "shield-check"
+            },
+            {
+              "page": "operation-contract",
+              "icon": "person-gear"
+            },
+            {
+              "page": "service-contract",
+              "icon": "telephone"
+            },
+            {
+              "page": "spare-supply",
+              "icon": "box-seam"
+            }
           ]
         },
         {
@@ -244,16 +344,88 @@
           "id": "compare",
           "heading": "Contract types compared",
           "intro": "A typical scope for each contract type. Every contract is tailored, so the final inclusions and exclusions are set out in the offer.",
-          "columns": ["What is included", "O&M", "AMC", "CMC", "Operation Contract", "Service Contract", "Spare Parts & Support"],
+          "columns": [
+            "What is included",
+            "O&M",
+            "AMC",
+            "CMC",
+            "Operation Contract",
+            "Service Contract",
+            "Spare Parts & Support"
+          ],
           "rows": [
-            ["Preventive maintenance visits", "Yes", "Yes, scheduled", "Yes, scheduled", "No – customer or separate contract", "On request, per visit", "No"],
-            ["Breakdown attendance", "Yes", "Yes", "Yes", "No – customer or separate contract", "Per call", "Telephone advice; site visits quoted"],
-            ["Spare parts", "As agreed in contract", "Quoted separately", "Included, as listed", "No", "Quoted separately", "Supplied against order"],
-            ["Consumables and cutting tools", "As agreed in contract", "No", "No, unless listed", "As agreed in contract", "No", "Supplied against order"],
-            ["Machine operators", "HYT", "No", "No", "HYT", "No", "No"],
-            ["Who operates the machine", "HYT", "Customer", "Customer", "HYT", "Customer", "Customer"],
-            ["Billing basis", "Periodic fee", "Fixed annual fee", "Fixed annual fee", "Periodic fee", "Per visit or call", "Per order"],
-            ["Typical fit", "Depots without their own lathe team", "Own operators, predictable labour cost", "Own operators, fixed budget including spares", "Own maintenance team, no trained operators", "Low utilisation, strong in-house maintenance", "Fully self-maintaining workshops"]
+            [
+              "Preventive maintenance visits",
+              "Yes",
+              "Yes, scheduled",
+              "Yes, scheduled",
+              "No – customer or separate contract",
+              "On request, per visit",
+              "No"
+            ],
+            [
+              "Breakdown attendance",
+              "Yes",
+              "Yes",
+              "Yes",
+              "No – customer or separate contract",
+              "Per call",
+              "Telephone advice; site visits quoted"
+            ],
+            [
+              "Spare parts",
+              "As agreed in contract",
+              "Quoted separately",
+              "Included, as listed",
+              "No",
+              "Quoted separately",
+              "Supplied against order"
+            ],
+            [
+              "Consumables and cutting tools",
+              "As agreed in contract",
+              "No",
+              "No, unless listed",
+              "As agreed in contract",
+              "No",
+              "Supplied against order"
+            ],
+            [
+              "Machine operators",
+              "HYT",
+              "No",
+              "No",
+              "HYT",
+              "No",
+              "No"
+            ],
+            [
+              "Who operates the machine",
+              "HYT",
+              "Customer",
+              "Customer",
+              "HYT",
+              "Customer",
+              "Customer"
+            ],
+            [
+              "Billing basis",
+              "Periodic fee",
+              "Fixed annual fee",
+              "Fixed annual fee",
+              "Periodic fee",
+              "Per visit or call",
+              "Per order"
+            ],
+            [
+              "Typical fit",
+              "Depots without their own lathe team",
+              "Own operators, predictable labour cost",
+              "Own operators, fixed budget including spares",
+              "Own maintenance team, no trained operators",
+              "Low utilisation, strong in-house maintenance",
+              "Fully self-maintaining workshops"
+            ]
           ],
           "note": "Damage from accidents, misuse, power supply faults or civil defects, and upgrades or retro-fitment, are outside the standard scope of all contracts unless agreed."
         },
@@ -262,18 +434,36 @@
           "id": "choosing",
           "heading": "Which contract is right for us?",
           "items": [
-            {"q": "We have operators but no specialist maintenance staff.", "a": "An [AMC](page:annual-maintenance-contract) gives you scheduled preventive visits and breakdown attendance. If you also want spare parts covered within a fixed annual budget, choose a [CMC](page:comprehensive-annual-maintenance-contract)."},
-            {"q": "We are opening a new depot and have no trained lathe team.", "a": "An [O&M contract](page:operation-and-maintenance) lets HYT operate and maintain the machine. If your maintenance department will look after the machine, an [Operation Contract](page:operation-contract) covers the operators only."},
-            {"q": "Our machine is lightly used and our own team maintains it.", "a": "A call-based [Service Contract](page:service-contract) gives you agreed rates for visits when you need them, and [Spare Parts & Support](page:spare-supply) keeps genuine parts within reach."},
-            {"q": "Can contracts be combined or changed later?", "a": "Yes. Many customers start with an O&M contract while training their own staff, then move to a CMC or AMC. We review the scope with you at each renewal."}
+            {
+              "q": "We have operators but no specialist maintenance staff.",
+              "a": "An [AMC](page:annual-maintenance-contract) gives you scheduled preventive visits and breakdown attendance. If you also want spare parts covered within a fixed annual budget, choose a [CMC](page:comprehensive-annual-maintenance-contract)."
+            },
+            {
+              "q": "We are opening a new depot and have no trained lathe team.",
+              "a": "An [O&M contract](page:operation-and-maintenance) lets HYT operate and maintain the machine. If your maintenance department will look after the machine, an [Operation Contract](page:operation-contract) covers the operators only."
+            },
+            {
+              "q": "Our machine is lightly used and our own team maintains it.",
+              "a": "A call-based [Service Contract](page:service-contract) gives you agreed rates for visits when you need them, and [Spare Parts & Support](page:spare-supply) keeps genuine parts within reach."
+            },
+            {
+              "q": "Can contracts be combined or changed later?",
+              "a": "Yes. Many customers start with an O&M contract while training their own staff, then move to a CMC or AMC. We review the scope with you at each renewal."
+            }
           ]
         },
         {
           "type": "cta",
           "heading": "Not sure which contract fits?",
           "text": "Tell us about your machine, its utilisation and your in-house team. We will recommend a contract and send a clear scope of work.",
-          "primary": {"label": "Discuss Your Requirement", "page": "contact-us"},
-          "secondary": {"label": "All Services", "page": "services"}
+          "primary": {
+            "label": "Discuss Your Requirement",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "All Services",
+            "page": "services"
+          }
         }
       ]
     },
@@ -386,7 +576,7 @@
             "Regular visits catch wear before it causes a breakdown, keep machining accuracy within limits and build a service history that helps when planning upgrades or replacement."
           ],
           "image": "company/service-maintenance",
-          "image_alt": "Sample illustration of an HYT engineer checking the slides of a wheel lathe during a scheduled AMC visit",
+          "image_alt": "HYT engineers at a wheel lathe in a wheel shop",
           "layout": "image-right"
         },
         {
@@ -396,12 +586,36 @@
           "heading": "What an AMC includes",
           "cols": 3,
           "items": [
-            {"icon": "calendar-check", "title": "Scheduled preventive visits", "text": "An agreed number of visits per year, planned around your workshop programme."},
-            {"icon": "list-check", "title": "Inspection checklists", "text": "Mechanical, hydraulic, pneumatic, electrical and CNC checks to a standard HYT checklist."},
-            {"icon": "rulers", "title": "Accuracy checks", "text": "Measuring system and machining results verified, with adjustments made where required."},
-            {"icon": "lightning-charge", "title": "Breakdown attendance", "text": "Engineers attend breakdowns reported during the contract year to diagnose and rectify faults."},
-            {"icon": "file-earmark-text", "title": "Visit reports", "text": "A written report after every visit, listing findings, work done and open points."},
-            {"icon": "box-seam", "title": "Spares recommendations", "text": "Advance notice of parts approaching the end of their life, so you can order before they fail."}
+            {
+              "icon": "calendar-check",
+              "title": "Scheduled preventive visits",
+              "text": "An agreed number of visits per year, planned around your workshop programme."
+            },
+            {
+              "icon": "list-check",
+              "title": "Inspection checklists",
+              "text": "Mechanical, hydraulic, pneumatic, electrical and CNC checks to a standard HYT checklist."
+            },
+            {
+              "icon": "rulers",
+              "title": "Accuracy checks",
+              "text": "Measuring system and machining results verified, with adjustments made where required."
+            },
+            {
+              "icon": "lightning-charge",
+              "title": "Breakdown attendance",
+              "text": "Engineers attend breakdowns reported during the contract year to diagnose and rectify faults."
+            },
+            {
+              "icon": "file-earmark-text",
+              "title": "Visit reports",
+              "text": "A written report after every visit, listing findings, work done and open points."
+            },
+            {
+              "icon": "box-seam",
+              "title": "Spares recommendations",
+              "text": "Advance notice of parts approaching the end of their life, so you can order before they fail."
+            }
           ]
         },
         {
@@ -425,11 +639,26 @@
           "eyebrow": "The contract year",
           "heading": "What a typical AMC year looks like",
           "items": [
-            {"title": "Start-up inspection", "text": "We record the machine's condition at the start of the contract and flag any work needed."},
-            {"title": "Visit plan", "text": "Preventive visit dates are agreed in advance to fit your workshop programme."},
-            {"title": "Preventive visits", "text": "Checks, adjustments and servicing are carried out and documented."},
-            {"title": "Breakdown calls", "text": "You report a fault through the service desk; an engineer is assigned and attends."},
-            {"title": "Annual review", "text": "Machine history and recommendations are discussed before renewal."}
+            {
+              "title": "Start-up inspection",
+              "text": "We record the machine's condition at the start of the contract and flag any work needed."
+            },
+            {
+              "title": "Visit plan",
+              "text": "Preventive visit dates are agreed in advance to fit your workshop programme."
+            },
+            {
+              "title": "Preventive visits",
+              "text": "Checks, adjustments and servicing are carried out and documented."
+            },
+            {
+              "title": "Breakdown calls",
+              "text": "You report a fault through the service desk; an engineer is assigned and attends."
+            },
+            {
+              "title": "Annual review",
+              "text": "Machine history and recommendations are discussed before renewal."
+            }
           ]
         },
         {
@@ -437,19 +666,41 @@
           "id": "faq",
           "heading": "Frequently asked questions",
           "items": [
-            {"q": "What is the difference between an AMC and a CMC?", "a": "An AMC covers labour for preventive visits and breakdown attendance. A [CMC](page:comprehensive-annual-maintenance-contract) adds the spare parts listed in the contract, so your annual maintenance cost is fixed."},
-            {"q": "How many preventive visits are included?", "a": "The number is agreed with you, based on machine type, utilisation and operating conditions. It is stated in the contract."},
-            {"q": "Can we take an AMC for an older machine?", "a": "Yes, after a condition inspection. If the machine needs repairs first, we will quote those separately – see [Repair](page:repair)."},
-            {"q": "What response time can we expect for a breakdown?", "a": "Response commitments are written into each contract, based on the machine's location and how critical it is to your fleet. We agree them with you before the contract starts, so there is no ambiguity when a call comes in."},
-            {"q": "How do we report a breakdown?", "a": "Call the toll-free service line 1800 2100 456 or email us with the machine serial number and a description of the fault. See [After-Sales Service Network](page:service-centers)."}
+            {
+              "q": "What is the difference between an AMC and a CMC?",
+              "a": "An AMC covers labour for preventive visits and breakdown attendance. A [CMC](page:comprehensive-annual-maintenance-contract) adds the spare parts listed in the contract, so your annual maintenance cost is fixed."
+            },
+            {
+              "q": "How many preventive visits are included?",
+              "a": "The number is agreed with you, based on machine type, utilisation and operating conditions. It is stated in the contract."
+            },
+            {
+              "q": "Can we take an AMC for an older machine?",
+              "a": "Yes, after a condition inspection. If the machine needs repairs first, we will quote those separately – see [Repair](page:repair)."
+            },
+            {
+              "q": "What response time can we expect for a breakdown?",
+              "a": "Response commitments are written into each contract, based on the machine's location and how critical it is to your fleet. We agree them with you before the contract starts, so there is no ambiguity when a call comes in."
+            },
+            {
+              "q": "How do we report a breakdown?",
+              "a": "Call the toll-free service line 1800 2100 456 or email us with the machine serial number and a description of the fault. See [After-Sales Service Network](page:service-centers)."
+            }
           ]
         },
         {
           "type": "cta",
           "heading": "Request an AMC proposal",
           "text": "Send us the machine model, serial number and location. We will inspect, propose a visit plan and quote the annual fee.",
-          "primary": {"label": "Discuss Your Requirement", "page": "contact-us"},
-          "secondary": {"label": "Compare Contracts", "page": "maintenance", "anchor": "compare"}
+          "primary": {
+            "label": "Discuss Your Requirement",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Compare Contracts",
+            "page": "maintenance",
+            "anchor": "compare"
+          }
         }
       ]
     },
@@ -645,7 +896,7 @@
             "If your call volume grows, an [Annual Maintenance Contract](page:annual-maintenance-contract) or [CMC](page:comprehensive-annual-maintenance-contract) will usually work out more economical and gives you scheduled preventive care. We will tell you when that point is reached."
           ],
           "image": "company/service-maintenance",
-          "image_alt": "Sample illustration of an HYT field engineer diagnosing a fault on a wheel lathe control cabinet",
+          "image_alt": "HYT engineers at a wheel lathe in a wheel shop",
           "layout": "image-right"
         },
         {
@@ -654,11 +905,26 @@
           "eyebrow": "Process",
           "heading": "How a service call works",
           "items": [
-            {"title": "Agree terms", "text": "Rates, travel charges and the contract period are fixed in advance."},
-            {"title": "Raise a call", "text": "Report the fault or request a visit through the toll-free line or by email, quoting the machine serial number."},
-            {"title": "Initial diagnosis", "text": "Our service desk discusses symptoms with your team to prepare the right engineer and parts."},
-            {"title": "Site visit", "text": "The engineer attends, diagnoses and repairs, and agrees any parts needed with you."},
-            {"title": "Report and invoice", "text": "You receive a visit report and an invoice for that visit at the agreed rates."}
+            {
+              "title": "Agree terms",
+              "text": "Rates, travel charges and the contract period are fixed in advance."
+            },
+            {
+              "title": "Raise a call",
+              "text": "Report the fault or request a visit through the toll-free line or by email, quoting the machine serial number."
+            },
+            {
+              "title": "Initial diagnosis",
+              "text": "Our service desk discusses symptoms with your team to prepare the right engineer and parts."
+            },
+            {
+              "title": "Site visit",
+              "text": "The engineer attends, diagnoses and repairs, and agrees any parts needed with you."
+            },
+            {
+              "title": "Report and invoice",
+              "text": "You receive a visit report and an invoice for that visit at the agreed rates."
+            }
           ]
         },
         {
@@ -682,17 +948,33 @@
           "id": "faq",
           "heading": "Frequently asked questions",
           "items": [
-            {"q": "Is there a minimum number of visits?", "a": "No. The contract fixes the rates for an agreed period; you pay only for the visits you call for."},
-            {"q": "Can we move to an AMC or CMC later?", "a": "Yes. If your call volume grows or you want scheduled preventive care, we can convert the agreement to an [AMC](page:annual-maintenance-contract) or [CMC](page:comprehensive-annual-maintenance-contract) at any time."},
-            {"q": "Are spare parts available under a Service Contract?", "a": "Yes, quoted separately for each requirement. See [Spare Parts & Support](page:spare-supply)."}
+            {
+              "q": "Is there a minimum number of visits?",
+              "a": "No. The contract fixes the rates for an agreed period; you pay only for the visits you call for."
+            },
+            {
+              "q": "Can we move to an AMC or CMC later?",
+              "a": "Yes. If your call volume grows or you want scheduled preventive care, we can convert the agreement to an [AMC](page:annual-maintenance-contract) or [CMC](page:comprehensive-annual-maintenance-contract) at any time."
+            },
+            {
+              "q": "Are spare parts available under a Service Contract?",
+              "a": "Yes, quoted separately for each requirement. See [Spare Parts & Support](page:spare-supply)."
+            }
           ]
         },
         {
           "type": "cta",
           "heading": "Set up a Service Contract",
           "text": "Send us your machine details and we will propose a rate card and contract period.",
-          "primary": {"label": "Discuss Your Requirement", "page": "contact-us"},
-          "secondary": {"label": "Compare Contracts", "page": "maintenance", "anchor": "compare"}
+          "primary": {
+            "label": "Discuss Your Requirement",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Compare Contracts",
+            "page": "maintenance",
+            "anchor": "compare"
+          }
         }
       ]
     },
@@ -717,7 +999,7 @@
             "For workshops that maintain their machines themselves, our engineers are available by phone and email to advise on fault-finding, part replacement and settings."
           ],
           "image": "company/spare-parts",
-          "image_alt": "Sample illustration of labelled spare parts for wheel lathes on shelves in a parts store",
+          "image_alt": "HYT spare-parts store with labelled components",
           "layout": "image-right"
         },
         {
@@ -727,12 +1009,36 @@
           "heading": "Spares and support for the whole machine",
           "cols": 3,
           "items": [
-            {"icon": "gear", "title": "Mechanical parts", "text": "Rollers, bearings, slides, ball screws, clamping elements and other wear parts."},
-            {"icon": "droplet", "title": "Hydraulic and pneumatic", "text": "Valves, cylinders, pumps, seals and fittings for the machine's fluid systems."},
-            {"icon": "cpu", "title": "Electrical and CNC", "text": "Drives, motors, sensors, control components and cabinet parts."},
-            {"icon": "rulers", "title": "Measuring system parts", "text": "Probes and components for the wheel profile measuring system."},
-            {"icon": "list-check", "title": "Recommended spares lists", "text": "Lists of critical and wear parts to hold on site, ranked by risk and lead time."},
-            {"icon": "hourglass-split", "title": "Obsolescence planning", "text": "Early notice when components are being discontinued, with alternatives or upgrade paths."}
+            {
+              "icon": "gear",
+              "title": "Mechanical parts",
+              "text": "Rollers, bearings, slides, ball screws, clamping elements and other wear parts."
+            },
+            {
+              "icon": "droplet",
+              "title": "Hydraulic and pneumatic",
+              "text": "Valves, cylinders, pumps, seals and fittings for the machine's fluid systems."
+            },
+            {
+              "icon": "cpu",
+              "title": "Electrical and CNC",
+              "text": "Drives, motors, sensors, control components and cabinet parts."
+            },
+            {
+              "icon": "rulers",
+              "title": "Measuring system parts",
+              "text": "Probes and components for the wheel profile measuring system."
+            },
+            {
+              "icon": "list-check",
+              "title": "Recommended spares lists",
+              "text": "Lists of critical and wear parts to hold on site, ranked by risk and lead time."
+            },
+            {
+              "icon": "hourglass-split",
+              "title": "Obsolescence planning",
+              "text": "Early notice when components are being discontinued, with alternatives or upgrade paths."
+            }
           ]
         },
         {
@@ -741,11 +1047,26 @@
           "eyebrow": "Ordering",
           "heading": "From enquiry to dispatch",
           "items": [
-            {"title": "Identify", "text": "Send the machine serial number and the part number from the manual, or a photo of the part."},
-            {"title": "Confirm", "text": "We check the part against your machine's records and confirm the correct item."},
-            {"title": "Quote", "text": "You receive a quotation with price and delivery time."},
-            {"title": "Dispatch", "text": "On receipt of your order, the part is packed and dispatched from our Pune works."},
-            {"title": "Support", "text": "Our engineers advise on fitting by phone, or attend on site if you prefer."}
+            {
+              "title": "Identify",
+              "text": "Send the machine serial number and the part number from the manual, or a photo of the part."
+            },
+            {
+              "title": "Confirm",
+              "text": "We check the part against your machine's records and confirm the correct item."
+            },
+            {
+              "title": "Quote",
+              "text": "You receive a quotation with price and delivery time."
+            },
+            {
+              "title": "Dispatch",
+              "text": "On receipt of your order, the part is packed and dispatched from our Pune works."
+            },
+            {
+              "title": "Support",
+              "text": "Our engineers advise on fitting by phone, or attend on site if you prefer."
+            }
           ]
         },
         {
@@ -777,19 +1098,40 @@
           "id": "faq",
           "heading": "Frequently asked questions",
           "items": [
-            {"q": "Can you supply parts for older machines?", "a": "Yes, wherever possible. If an original component is no longer made, we propose an equivalent or a [retro-fitment](page:retro-fitment-upgradation) of the affected system."},
-            {"q": "Which spares should we hold on site?", "a": "Ask for the recommended spares list for your machine. It ranks parts by how critical they are and how long they take to source."},
-            {"q": "Are spare parts included in maintenance contracts?", "a": "They are included in a [CMC](page:comprehensive-annual-maintenance-contract), as listed in the contract. Under an [AMC](page:annual-maintenance-contract), parts are quoted separately."},
-            {"q": "How quickly can a part be delivered?", "a": "It depends on the part. Some items are held in stock; others are manufactured or sourced to order. The quotation states the delivery time, and if your machine is stopped, tell us so that we can prioritise."},
-            {"q": "Can you fit the parts for us?", "a": "Yes. Our engineers can attend on site under a [Service Contract](page:service-contract) or as a one-off visit."}
+            {
+              "q": "Can you supply parts for older machines?",
+              "a": "Yes, wherever possible. If an original component is no longer made, we propose an equivalent or a [retro-fitment](page:retro-fitment-upgradation) of the affected system."
+            },
+            {
+              "q": "Which spares should we hold on site?",
+              "a": "Ask for the recommended spares list for your machine. It ranks parts by how critical they are and how long they take to source."
+            },
+            {
+              "q": "Are spare parts included in maintenance contracts?",
+              "a": "They are included in a [CMC](page:comprehensive-annual-maintenance-contract), as listed in the contract. Under an [AMC](page:annual-maintenance-contract), parts are quoted separately."
+            },
+            {
+              "q": "How quickly can a part be delivered?",
+              "a": "It depends on the part. Some items are held in stock; others are manufactured or sourced to order. The quotation states the delivery time, and if your machine is stopped, tell us so that we can prioritise."
+            },
+            {
+              "q": "Can you fit the parts for us?",
+              "a": "Yes. Our engineers can attend on site under a [Service Contract](page:service-contract) or as a one-off visit."
+            }
           ]
         },
         {
           "type": "cta",
           "heading": "Need a spare part?",
           "text": "Send the machine serial number and the part details. If your machine is stopped, call the toll-free line 1800 2100 456.",
-          "primary": {"label": "Request Spare Parts", "page": "contact-us"},
-          "secondary": {"label": "After-Sales Service Network", "page": "service-centers"}
+          "primary": {
+            "label": "Request Spare Parts",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "After-Sales Service Network",
+            "page": "service-centers"
+          }
         }
       ]
     },
@@ -901,7 +1243,7 @@
             "Repairs are available to every HYT customer, with or without a maintenance contract. Customers with an [AMC](page:annual-maintenance-contract) or [CMC](page:comprehensive-annual-maintenance-contract) have breakdown attendance included in their contract."
           ],
           "image": "company/service-maintenance",
-          "image_alt": "Sample illustration of engineers dismantling a wheel lathe assembly for repair",
+          "image_alt": "HYT engineers at a wheel lathe in a wheel shop",
           "layout": "image-right"
         },
         {
@@ -911,12 +1253,36 @@
           "heading": "Types of repair",
           "cols": 3,
           "items": [
-            {"icon": "lightning-charge", "title": "Breakdown repair", "text": "Fault-finding and rectification to get a stopped machine back into service."},
-            {"icon": "gear", "title": "Mechanical rebuilds", "text": "Slides, guideways, ball screws, rollers and clamping systems reconditioned or replaced."},
-            {"icon": "droplet", "title": "Hydraulic repair", "text": "Leak rectification, cylinder and valve overhaul and circuit flushing."},
-            {"icon": "cpu", "title": "Electrical and CNC", "text": "Drive, motor, sensor and control faults diagnosed and repaired."},
-            {"icon": "exclamation-triangle", "title": "Accident damage", "text": "Assessment and repair after collisions, flooding or other incidents."},
-            {"icon": "rulers", "title": "Accuracy restoration", "text": "Geometry and measuring system checked and restored after repair."}
+            {
+              "icon": "lightning-charge",
+              "title": "Breakdown repair",
+              "text": "Fault-finding and rectification to get a stopped machine back into service."
+            },
+            {
+              "icon": "gear",
+              "title": "Mechanical rebuilds",
+              "text": "Slides, guideways, ball screws, rollers and clamping systems reconditioned or replaced."
+            },
+            {
+              "icon": "droplet",
+              "title": "Hydraulic repair",
+              "text": "Leak rectification, cylinder and valve overhaul and circuit flushing."
+            },
+            {
+              "icon": "cpu",
+              "title": "Electrical and CNC",
+              "text": "Drive, motor, sensor and control faults diagnosed and repaired."
+            },
+            {
+              "icon": "exclamation-triangle",
+              "title": "Accident damage",
+              "text": "Assessment and repair after collisions, flooding or other incidents."
+            },
+            {
+              "icon": "rulers",
+              "title": "Accuracy restoration",
+              "text": "Geometry and measuring system checked and restored after repair."
+            }
           ]
         },
         {
@@ -925,11 +1291,26 @@
           "eyebrow": "Process",
           "heading": "How a repair is handled",
           "items": [
-            {"title": "Report", "text": "Call the toll-free line or email us with the machine serial number, symptoms and any alarm messages."},
-            {"title": "Initial diagnosis", "text": "Our service desk and engineers review the information with your team and, where the machine supports it, connect remotely."},
-            {"title": "Plan", "text": "We confirm the likely cause, the parts and the engineer needed, and share an estimate."},
-            {"title": "Repair", "text": "The engineer carries out the work on site, or major assemblies are brought to our Pune works."},
-            {"title": "Test and report", "text": "The machine is tested, results are recorded and you receive a report with recommendations."}
+            {
+              "title": "Report",
+              "text": "Call the toll-free line or email us with the machine serial number, symptoms and any alarm messages."
+            },
+            {
+              "title": "Initial diagnosis",
+              "text": "Our service desk and engineers review the information with your team and, where the machine supports it, connect remotely."
+            },
+            {
+              "title": "Plan",
+              "text": "We confirm the likely cause, the parts and the engineer needed, and share an estimate."
+            },
+            {
+              "title": "Repair",
+              "text": "The engineer carries out the work on site, or major assemblies are brought to our Pune works."
+            },
+            {
+              "title": "Test and report",
+              "text": "The machine is tested, results are recorded and you receive a report with recommendations."
+            }
           ]
         },
         {
@@ -952,18 +1333,36 @@
           "id": "faq",
           "heading": "Frequently asked questions",
           "items": [
-            {"q": "Do you repair machines from other manufacturers?", "a": "Our expertise is in HYT machines, whose designs and records we hold. For other makes, send us the details and we will tell you honestly whether we can help."},
-            {"q": "Do we need a maintenance contract to get a repair?", "a": "No. Repairs are available to all HYT customers. A [Service Contract](page:service-contract) fixes the rates in advance and speeds up approvals."},
-            {"q": "Can repairs be done on site?", "a": "Most repairs are carried out on site. Where an assembly needs machining or a full rebuild, it may be brought to our works in Pune."},
-            {"q": "What if the original parts are no longer available?", "a": "We propose an equivalent part or a targeted [retro-fitment](page:retro-fitment-upgradation) of the affected system."}
+            {
+              "q": "Do you repair machines from other manufacturers?",
+              "a": "Our expertise is in HYT machines, whose designs and records we hold. For other makes, send us the details and we will tell you honestly whether we can help."
+            },
+            {
+              "q": "Do we need a maintenance contract to get a repair?",
+              "a": "No. Repairs are available to all HYT customers. A [Service Contract](page:service-contract) fixes the rates in advance and speeds up approvals."
+            },
+            {
+              "q": "Can repairs be done on site?",
+              "a": "Most repairs are carried out on site. Where an assembly needs machining or a full rebuild, it may be brought to our works in Pune."
+            },
+            {
+              "q": "What if the original parts are no longer available?",
+              "a": "We propose an equivalent part or a targeted [retro-fitment](page:retro-fitment-upgradation) of the affected system."
+            }
           ]
         },
         {
           "type": "cta",
           "heading": "Machine down?",
           "text": "Call 1800 2100 456 with the machine serial number, or send us the details and we will respond as quickly as possible.",
-          "primary": {"label": "Report a Breakdown", "page": "contact-us"},
-          "secondary": {"label": "After-Sales Service Network", "page": "service-centers"}
+          "primary": {
+            "label": "Report a Breakdown",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "After-Sales Service Network",
+            "page": "service-centers"
+          }
         }
       ]
     },
@@ -1158,7 +1557,7 @@
             "Our trainers are engineers who build, commission and service HYT machines. Training uses your own machine wherever possible, so your team learns on the equipment they will use every day."
           ],
           "image": "company/training-session",
-          "image_alt": "Sample illustration of an HYT trainer explaining a wheel lathe control panel to depot staff",
+          "image_alt": "Training session for HYT staff",
           "layout": "image-right"
         },
         {
@@ -1168,10 +1567,26 @@
           "heading": "Programmes for each role",
           "cols": 4,
           "items": [
-            {"icon": "person-workspace", "title": "Operators", "text": "Safe positioning, measuring, profile selection, machining cycles and daily care."},
-            {"icon": "code-square", "title": "CNC programmers", "text": "Profile programs, parameters, machining strategies and measurement data."},
-            {"icon": "wrench-adjustable", "title": "Mechanical maintainers", "text": "Lubrication, hydraulics, adjustments and replacement of wear parts."},
-            {"icon": "lightning-charge", "title": "Electrical maintainers", "text": "Drives, sensors, interlocks, diagnostics and fault-finding."}
+            {
+              "icon": "person-workspace",
+              "title": "Operators",
+              "text": "Safe positioning, measuring, profile selection, machining cycles and daily care."
+            },
+            {
+              "icon": "code-square",
+              "title": "CNC programmers",
+              "text": "Profile programs, parameters, machining strategies and measurement data."
+            },
+            {
+              "icon": "wrench-adjustable",
+              "title": "Mechanical maintainers",
+              "text": "Lubrication, hydraulics, adjustments and replacement of wear parts."
+            },
+            {
+              "icon": "lightning-charge",
+              "title": "Electrical maintainers",
+              "text": "Drives, sensors, interlocks, diagnostics and fault-finding."
+            }
           ]
         },
         {
@@ -1213,10 +1628,22 @@
           "eyebrow": "Process",
           "heading": "How we plan a training programme",
           "items": [
-            {"title": "Needs review", "text": "We agree the roles, experience levels and objectives with you."},
-            {"title": "Programme", "text": "Theory and hands-on sessions are scheduled around your workshop programme."},
-            {"title": "Delivery", "text": "Training takes place on your machine wherever possible, with printed reference material."},
-            {"title": "Assessment", "text": "Participants demonstrate the key tasks, and attendance is recorded."}
+            {
+              "title": "Needs review",
+              "text": "We agree the roles, experience levels and objectives with you."
+            },
+            {
+              "title": "Programme",
+              "text": "Theory and hands-on sessions are scheduled around your workshop programme."
+            },
+            {
+              "title": "Delivery",
+              "text": "Training takes place on your machine wherever possible, with printed reference material."
+            },
+            {
+              "title": "Assessment",
+              "text": "Participants demonstrate the key tasks, and attendance is recorded."
+            }
           ]
         },
         {
@@ -1224,17 +1651,32 @@
           "id": "faq",
           "heading": "Frequently asked questions",
           "items": [
-            {"q": "Is training included with a new machine?", "a": "Yes. Initial training for operators and maintainers is part of [installation and commissioning](page:installation-commissioning)."},
-            {"q": "Can you train staff on a machine that is several years old?", "a": "Yes. We tailor the content to the machine's configuration and control system."},
-            {"q": "In which language is training delivered?", "a": "Please tell us your preferred language when you enquire, and we will confirm what we can offer."}
+            {
+              "q": "Is training included with a new machine?",
+              "a": "Yes. Initial training for operators and maintainers is part of [installation and commissioning](page:installation-commissioning)."
+            },
+            {
+              "q": "Can you train staff on a machine that is several years old?",
+              "a": "Yes. We tailor the content to the machine's configuration and control system."
+            },
+            {
+              "q": "In which language is training delivered?",
+              "a": "Please tell us your preferred language when you enquire, and we will confirm what we can offer."
+            }
           ]
         },
         {
           "type": "cta",
           "heading": "Plan training for your team",
           "text": "Tell us which machine, which roles and how many people. We will propose a programme.",
-          "primary": {"label": "Discuss Your Requirement", "page": "contact-us"},
-          "secondary": {"label": "All Services", "page": "services"}
+          "primary": {
+            "label": "Discuss Your Requirement",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "All Services",
+            "page": "services"
+          }
         }
       ]
     },
@@ -1264,7 +1706,7 @@
             "Spare parts are dispatched from Pune. For urgent cases, tell us that the machine is stopped and we will prioritise accordingly."
           ],
           "image": "company/service-maintenance",
-          "image_alt": "Sample illustration of an HYT field service engineer arriving at a railway depot with a tool case",
+          "image_alt": "HYT engineers at a wheel lathe in a wheel shop",
           "layout": "image-right"
         },
         {
@@ -1274,12 +1716,36 @@
           "heading": "How we support you",
           "cols": 3,
           "items": [
-            {"icon": "headset", "title": "Central service desk", "text": "Logs, assigns and follows every request to closure from our Pune works."},
-            {"icon": "telephone", "title": "Toll-free line", "text": "Call 1800 2100 456, Monday to Saturday, 9:30–18:30 IST."},
-            {"icon": "person-gear", "title": "Field engineers", "text": "Engineers who attend on site for installation, maintenance and repair."},
-            {"icon": "wifi", "title": "Remote diagnostics", "text": "Where the machine supports it, alarms and parameters are reviewed remotely."},
-            {"icon": "box-seam", "title": "Spares dispatch", "text": "Genuine parts identified against your machine records and dispatched from Pune."},
-            {"icon": "file-earmark-text", "title": "Service records", "text": "Visit reports and machine history kept for every installation."}
+            {
+              "icon": "headset",
+              "title": "Central service desk",
+              "text": "Logs, assigns and follows every request to closure from our Pune works."
+            },
+            {
+              "icon": "telephone",
+              "title": "Toll-free line",
+              "text": "Call 1800 2100 456, Monday to Saturday, 9:30–18:30 IST."
+            },
+            {
+              "icon": "person-gear",
+              "title": "Field engineers",
+              "text": "Engineers who attend on site for installation, maintenance and repair."
+            },
+            {
+              "icon": "wifi",
+              "title": "Remote diagnostics",
+              "text": "Where the machine supports it, alarms and parameters are reviewed remotely."
+            },
+            {
+              "icon": "box-seam",
+              "title": "Spares dispatch",
+              "text": "Genuine parts identified against your machine records and dispatched from Pune."
+            },
+            {
+              "icon": "file-earmark-text",
+              "title": "Service records",
+              "text": "Visit reports and machine history kept for every installation."
+            }
           ]
         },
         {
@@ -1288,11 +1754,26 @@
           "eyebrow": "When you call",
           "heading": "What happens after you raise a request",
           "items": [
-            {"title": "Call or email", "text": "Use the toll-free line or info@hytengineering.com. Quote the machine model and serial number."},
-            {"title": "Logged and assigned", "text": "The service desk records the request and assigns an engineer."},
-            {"title": "First diagnosis", "text": "The engineer discusses symptoms and alarms with your team, remotely where possible."},
-            {"title": "Action", "text": "Advice by phone, parts dispatch or an engineer visit – whichever solves the problem fastest."},
-            {"title": "Closure", "text": "You receive a report and the request is closed once you confirm the machine is running."}
+            {
+              "title": "Call or email",
+              "text": "Use the toll-free line or info@hytengineering.com. Quote the machine model and serial number."
+            },
+            {
+              "title": "Logged and assigned",
+              "text": "The service desk records the request and assigns an engineer."
+            },
+            {
+              "title": "First diagnosis",
+              "text": "The engineer discusses symptoms and alarms with your team, remotely where possible."
+            },
+            {
+              "title": "Action",
+              "text": "Advice by phone, parts dispatch or an engineer visit – whichever solves the problem fastest."
+            },
+            {
+              "title": "Closure",
+              "text": "You receive a report and the request is closed once you confirm the machine is running."
+            }
           ]
         },
         {
@@ -1318,8 +1799,14 @@
           "type": "cta",
           "heading": "Need help with an HYT machine?",
           "text": "Send us the machine details and your question through the contact form, or call the toll-free line if the machine is stopped.",
-          "primary": {"label": "Contact Us", "page": "contact-us"},
-          "secondary": {"label": "Maintenance Services", "page": "maintenance"}
+          "primary": {
+            "label": "Contact Us",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Maintenance Services",
+            "page": "maintenance"
+          }
         }
       ]
     }

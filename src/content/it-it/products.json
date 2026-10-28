@@ -442,7 +442,7 @@
             "Operatori e manutentori vengono formati in loco. Successivamente, [fornitura di ricambi](page:spare-supply), [contratto di manutenzione annuale](page:annual-maintenance-contract) e [retrofit](page:retro-fitment-upgradation) mantengono la macchina produttiva per molti anni."
           ],
           "image": "company/training-session",
-          "image_alt": "Illustrazione esemplificativa di operatori in formazione al pannello di comando di un tornio per sale montate",
+          "image_alt": "Sessione di formazione per il personale HYT",
           "layout": "image-left"
         },
         {
@@ -464,7 +464,7 @@
             },
             {
               "image": "company/quality-inspection",
-              "caption": "Illustrazione esemplificativa di una sala montata finita durante il controllo"
+              "caption": "Controllo qualità di un componente lavorato in HYT"
             }
           ]
         },
@@ -1954,7 +1954,7 @@
             },
             {
               "image": "company/quality-inspection",
-              "caption": "Illustrazione esemplificativa di una sala montata durante il controllo finale"
+              "caption": "Controllo qualità di un componente lavorato in HYT"
             }
           ]
         },
@@ -2219,7 +2219,7 @@
             "Installazione, messa in servizio e [formazione](page:training) degli operatori sono eseguite da tecnici HYT, seguite dal contratto di assistenza più adatto alla Sua officina."
           ],
           "image": "company/engineering-design",
-          "image_alt": "Illustrazione esemplificativa di tecnici che esaminano i disegni di layout di una macchina",
+          "image_alt": "Progettista HYT al lavoro su un modello 3D di macchina",
           "layout": "image-left"
         },
         {
@@ -2511,7 +2511,7 @@
             },
             {
               "image": "company/quality-inspection",
-              "caption": "Illustrazione esemplificativa del controllo del foro lavorato di una ruota"
+              "caption": "Controllo qualità di un componente lavorato in HYT"
             },
             {
               "image": "projects/railway-wheel-shop",
@@ -2762,7 +2762,7 @@
             "Utensili di rullatura, parti soggette a usura e altri materiali di consumo sono disponibili tramite la [fornitura di ricambi](page:spare-supply), mentre i [contratti di manutenzione](page:maintenance) mantengono la macchina precisa."
           ],
           "image": "company/service-maintenance",
-          "image_alt": "Illustrazione esemplificativa di un tecnico dell'assistenza che controlla un tornio in officina",
+          "image_alt": "Tecnici HYT presso un tornio per sale montate in officina",
           "layout": "image-left"
         },
         {
@@ -2780,7 +2780,7 @@
             },
             {
               "image": "company/quality-inspection",
-              "caption": "Illustrazione esemplificativa del controllo di un fusello dopo la rullatura"
+              "caption": "Controllo qualità di un componente lavorato in HYT"
             }
           ]
         },
@@ -3060,7 +3060,7 @@
             },
             {
               "image": "company/quality-inspection",
-              "caption": "Illustrazione esemplificativa del controllo dei diametri di un asse"
+              "caption": "Controllo qualità di un componente lavorato in HYT"
             },
             {
               "image": "company/manufacturing-facility",
@@ -3315,7 +3315,7 @@
             },
             {
               "image": "company/quality-inspection",
-              "caption": "Illustrazione esemplificativa di una sala montata calettata durante il controllo"
+              "caption": "Controllo qualità di un componente lavorato in HYT"
             }
           ]
         },
@@ -3544,7 +3544,7 @@
             "Per i nuovi impianti pianifichiamo la stazione come parte dell'intero flusso di materiali e dati – veda [Officine sale montate](page:ts-wheel-shops)."
           ],
           "image": "company/quality-inspection",
-          "image_alt": "Illustrazione esemplificativa di un addetto al controllo che esamina i risultati di misura di una sala montata",
+          "image_alt": "Controllo qualità di un componente lavorato in HYT",
           "layout": "image-left"
         },
         {
@@ -3566,7 +3566,7 @@
             },
             {
               "image": "company/quality-inspection",
-              "caption": "Illustrazione esemplificativa dell'analisi dei dati di misura"
+              "caption": "Controllo qualità di un componente lavorato in HYT"
             }
           ]
         },
@@ -3790,7 +3790,7 @@
             "Taratura periodica, [fornitura di ricambi](page:spare-supply) e contratti di manutenzione mantengono affidabile la misura per tutta la vita della macchina."
           ],
           "image": "company/engineering-design",
-          "image_alt": "Illustrazione esemplificativa di tecnici che esaminano disegni tecnici",
+          "image_alt": "Progettista HYT al lavoro su un modello 3D di macchina",
           "layout": "image-left"
         },
         {
@@ -3804,7 +3804,7 @@
             },
             {
               "image": "company/quality-inspection",
-              "caption": "Illustrazione esemplificativa di un controllo di equilibratura in fase di collaudo qualità"
+              "caption": "Controllo qualità di un componente lavorato in HYT"
             },
             {
               "image": "products/wheelset-profile-closeup",
@@ -4072,7 +4072,7 @@
             "La [fornitura di ricambi](page:spare-supply) e i contratti di [manutenzione](page:maintenance) la mantengono pronta per ogni revisione."
           ],
           "image": "company/service-maintenance",
-          "image_alt": "Illustrazione esemplificativa di un tecnico dell'assistenza presso una macchina in un'officina di deposito",
+          "image_alt": "Tecnici HYT presso un tornio per sale montate in officina",
           "layout": "image-left"
         },
         {
@@ -4090,7 +4090,7 @@
             },
             {
               "image": "company/service-maintenance",
-              "caption": "Illustrazione esemplificativa di lavori di manutenzione su un indotto"
+              "caption": "Tecnici HYT presso un tornio per sale montate in officina"
             }
           ]
         },
@@ -4334,7 +4334,7 @@
             },
             {
               "image": "company/service-maintenance",
-              "caption": "Illustrazione esemplificativa di lavori di manutenzione sull'impianto"
+              "caption": "Tecnici HYT presso un tornio per sale montate in officina"
             }
           ]
         },

@@ -68,7 +68,7 @@
             "Journalisten und Fachmedien können Hintergrundinformationen, Zitate oder Bildmaterial per E-Mail an info@hytengineering.com mit dem Betreff „Medienanfrage“ anfordern."
           ],
           "image": "company/exhibition-stand",
-          "image_alt": "Beispielillustration eines HYT-Messestands mit dem Modell einer Radsatzdrehmaschine und Besuchern im Gespräch",
+          "image_alt": "HYT-Messestand auf einer Bahnfachmesse",
           "layout": "image-right"
         },
         {
@@ -77,10 +77,22 @@
           "heading": "Mehr von HYT",
           "cols": 4,
           "items": [
-            {"page": "under-execution", "icon": "gear-wide-connected"},
-            {"page": "awards", "icon": "award"},
-            {"page": "international-exhibitions", "icon": "globe2"},
-            {"page": "domestic-exhibitions", "icon": "geo-alt"}
+            {
+              "page": "under-execution",
+              "icon": "gear-wide-connected"
+            },
+            {
+              "page": "awards",
+              "icon": "award"
+            },
+            {
+              "page": "international-exhibitions",
+              "icon": "globe2"
+            },
+            {
+              "page": "domestic-exhibitions",
+              "icon": "geo-alt"
+            }
           ]
         },
         {
@@ -109,7 +121,7 @@
             "Auf internationalen Messen treffen wir in wenigen Tagen Eisenbahnen, Metrobetreiber, Schienenfahrzeughersteller und Berater aus vielen Regionen. Wir erfahren, wie sich die Instandhaltungspraxis zwischen den Netzen unterscheidet, welche Probleme Werkstattleitern den Schlaf rauben und wo neue Strecken und Betriebswerke geplant werden. Dieses Wissen fließt direkt in unsere Maschinenkonstruktion und unsere [schlüsselfertigen Projekte](page:turnkey-project) ein."
           ],
           "image": "company/exhibition-stand",
-          "image_alt": "Beispielillustration eines HYT-Messestands auf einer internationalen Bahnmesse",
+          "image_alt": "HYT-Messestand auf einer Bahnfachmesse",
           "layout": "image-right"
         },
         {
@@ -118,10 +130,22 @@
           "heading": "Wo wir ausgestellt haben",
           "intro": "HYT hat als Aussteller an diesen internationalen Bahnveranstaltungen teilgenommen.",
           "items": [
-            {"name": "Asia Pacific Rail", "note": "Aussteller"},
-            {"name": "Middle East Rail", "note": "Aussteller"},
-            {"name": "Africa Rail 2020", "note": "Aussteller"},
-            {"name": "AusRAIL", "note": "Aussteller"}
+            {
+              "name": "Asia Pacific Rail",
+              "note": "Aussteller"
+            },
+            {
+              "name": "Middle East Rail",
+              "note": "Aussteller"
+            },
+            {
+              "name": "Africa Rail 2020",
+              "note": "Aussteller"
+            },
+            {
+              "name": "AusRAIL",
+              "note": "Aussteller"
+            }
           ]
         },
         {
@@ -131,23 +155,62 @@
           "intro": "An unserem Stand stehen Ihnen die Menschen gegenüber, die die Maschinen konstruieren, bauen und warten. Bringen Sie Ihre Fragen mit – und nach Möglichkeit Ihre Radprofile und Betriebswerkszeichnungen.",
           "cols": 3,
           "items": [
-            {"icon": "rulers", "title": "Strategie für die Radsatz-Reprofilierung", "text": "Wie Sie Profile mit minimalem Materialabtrag wiederherstellen und die Lebensdauer der Räder in der gesamten Flotte verlängern."},
-            {"icon": "gear-wide-connected", "title": "Die richtige Radsatzdrehmaschine", "text": "Unterflur, Tandem, Überflur oder Portal: welche Bauart zu Ihren Fahrzeugen, Ihrer Spurweite und Ihrem Durchsatz passt."},
-            {"icon": "diagram-3", "title": "Planung von Betriebswerk und Radsatzwerkstatt", "text": "Prozessablauf, Maschinenauswahl und Bauschnittstellen für neue oder zu erweiternde Anlagen."},
-            {"icon": "building-gear", "title": "Schlüsselfertige Projekte", "text": "Verantwortung aus einer Hand – von der Layoutstudie bis zu Inbetriebnahme und Übergabe."},
-            {"icon": "arrow-repeat", "title": "Modernisierung bestehender Maschinen", "text": "Nachrüstung neuer CNC-Steuerungen, Antriebe und Messtechnik zur Verlängerung der Maschinenlebensdauer."},
-            {"icon": "truck", "title": "Wet Leasing", "text": "Reprofilierungskapazität inklusive Maschine und Bedienpersonal, abgerechnet nach Leistung."}
+            {
+              "icon": "rulers",
+              "title": "Strategie für die Radsatz-Reprofilierung",
+              "text": "Wie Sie Profile mit minimalem Materialabtrag wiederherstellen und die Lebensdauer der Räder in der gesamten Flotte verlängern."
+            },
+            {
+              "icon": "gear-wide-connected",
+              "title": "Die richtige Radsatzdrehmaschine",
+              "text": "Unterflur, Tandem, Überflur oder Portal: welche Bauart zu Ihren Fahrzeugen, Ihrer Spurweite und Ihrem Durchsatz passt."
+            },
+            {
+              "icon": "diagram-3",
+              "title": "Planung von Betriebswerk und Radsatzwerkstatt",
+              "text": "Prozessablauf, Maschinenauswahl und Bauschnittstellen für neue oder zu erweiternde Anlagen."
+            },
+            {
+              "icon": "building-gear",
+              "title": "Schlüsselfertige Projekte",
+              "text": "Verantwortung aus einer Hand – von der Layoutstudie bis zu Inbetriebnahme und Übergabe."
+            },
+            {
+              "icon": "arrow-repeat",
+              "title": "Modernisierung bestehender Maschinen",
+              "text": "Nachrüstung neuer CNC-Steuerungen, Antriebe und Messtechnik zur Verlängerung der Maschinenlebensdauer."
+            },
+            {
+              "icon": "truck",
+              "title": "Wet Leasing",
+              "text": "Reprofilierungskapazität inklusive Maschine und Bedienpersonal, abgerechnet nach Leistung."
+            }
           ],
-          "link": {"label": "Unsere Produkte entdecken", "page": "products"}
+          "link": {
+            "label": "Unsere Produkte entdecken",
+            "page": "products"
+          }
         },
         {
           "type": "gallery",
           "heading": "Impressionen",
           "items": [
-            {"image": "company/exhibition-stand", "caption": "Beispielillustration des HYT-Messestands"},
-            {"image": "products/underfloor-wheel-lathe-yul-08", "caption": "HYT CNC-Unterflur-Radsatzdrehmaschine (YUL-08)"},
-            {"image": "products/wheelset-profile-closeup", "caption": "Nahaufnahme der Reprofilierung einer Eisenbahnrad-Lauffläche"},
-            {"image": "company/engineering-design", "caption": "Beispielillustration von HYT-Ingenieuren bei der Prüfung einer Maschinenkonstruktion"}
+            {
+              "image": "company/exhibition-stand",
+              "caption": "HYT-Messestand auf einer Bahnfachmesse"
+            },
+            {
+              "image": "products/underfloor-wheel-lathe-yul-08",
+              "caption": "HYT CNC-Unterflur-Radsatzdrehmaschine (YUL-08)"
+            },
+            {
+              "image": "products/wheelset-profile-closeup",
+              "caption": "Nahaufnahme der Reprofilierung einer Eisenbahnrad-Lauffläche"
+            },
+            {
+              "image": "company/engineering-design",
+              "caption": "HYT-Konstrukteur arbeitet an einem 3D-Maschinenmodell"
+            }
           ]
         },
         {
@@ -156,8 +219,14 @@
           "heading": "Weitere Veranstaltungen und Neuigkeiten",
           "cols": 2,
           "items": [
-            {"page": "domestic-exhibitions", "icon": "geo-alt"},
-            {"page": "news", "icon": "newspaper"}
+            {
+              "page": "domestic-exhibitions",
+              "icon": "geo-alt"
+            },
+            {
+              "page": "news",
+              "icon": "newspaper"
+            }
           ]
         },
         {
@@ -169,8 +238,14 @@
           "type": "cta",
           "heading": "Sie planen den Besuch einer Bahnmesse?",
           "text": "Teilen Sie uns mit, welche Veranstaltung Sie besuchen und was Sie besprechen möchten. Wir vereinbaren einen Termin mit dem richtigen Ingenieur – auf der Messe oder im Anschluss.",
-          "primary": {"label": "Termin vereinbaren", "page": "contact-us"},
-          "secondary": {"label": "Unsere Produkte entdecken", "page": "products"}
+          "primary": {
+            "label": "Termin vereinbaren",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Unsere Produkte entdecken",
+            "page": "products"
+          }
         }
       ]
     },
@@ -193,7 +268,7 @@
             "Wir nutzen diese Veranstaltungen, um Neuheiten zu zeigen, zu hören, wie sich unsere Maschinen im täglichen Einsatz bewähren, und die Ingenieure zu treffen, die die nächste Generation von Betriebswerken für wachsende Metro- und Regionalbahnnetze planen. Außerdem treffen wir hier Lieferanten und junge Ingenieure, die vielleicht [bei uns arbeiten](page:work-with-us) möchten."
           ],
           "image": "company/exhibition-stand",
-          "image_alt": "Beispielillustration eines HYT-Stands auf einer indischen Technikmesse",
+          "image_alt": "HYT-Messestand auf einer Bahnfachmesse",
           "layout": "image-right"
         },
         {
@@ -202,10 +277,26 @@
           "heading": "Gespräche, auf die wir uns freuen",
           "cols": 4,
           "items": [
-            {"icon": "train-front", "title": "Bahnwerkstätten und Betriebswerke", "text": "Reprofilierungskapazität, Maschinenmodernisierung und Wartungsverträge für vorhandene Anlagen."},
-            {"icon": "train-lightrail-front", "title": "Metro und Regionalbahn", "text": "Unterflur- und Tandemdrehmaschinen für neue Betriebswerke mit Flotten im dichten Takt."},
-            {"icon": "building-gear", "title": "Schienenfahrzeughersteller", "text": "Maschinen für Rad- und Achswerkstätten zur Fertigung und Prüfung neuer Radsätze."},
-            {"icon": "people", "title": "Berater und Bauunternehmen", "text": "Betriebswerkslayouts, Grubenzeichnungen und Bauschnittstellen für Ausschreibungsplanungen."}
+            {
+              "icon": "train-front",
+              "title": "Bahnwerkstätten und Betriebswerke",
+              "text": "Reprofilierungskapazität, Maschinenmodernisierung und Wartungsverträge für vorhandene Anlagen."
+            },
+            {
+              "icon": "train-lightrail-front",
+              "title": "Metro und Regionalbahn",
+              "text": "Unterflur- und Tandemdrehmaschinen für neue Betriebswerke mit Flotten im dichten Takt."
+            },
+            {
+              "icon": "building-gear",
+              "title": "Schienenfahrzeughersteller",
+              "text": "Maschinen für Rad- und Achswerkstätten zur Fertigung und Prüfung neuer Radsätze."
+            },
+            {
+              "icon": "people",
+              "title": "Berater und Bauunternehmen",
+              "text": "Betriebswerkslayouts, Grubenzeichnungen und Bauschnittstellen für Ausschreibungsplanungen."
+            }
           ]
         },
         {
@@ -214,8 +305,14 @@
           "heading": "Weitere Veranstaltungen und Neuigkeiten",
           "cols": 2,
           "items": [
-            {"page": "international-exhibitions", "icon": "globe2"},
-            {"page": "news", "icon": "newspaper"}
+            {
+              "page": "international-exhibitions",
+              "icon": "globe2"
+            },
+            {
+              "page": "news",
+              "icon": "newspaper"
+            }
           ]
         },
         {
@@ -227,8 +324,14 @@
           "type": "cta",
           "heading": "Treffen Sie unser Team in Indien",
           "text": "Ob auf einer Messe oder in unserem Werk in Pune – wir besprechen gern Ihre Flotte und Ihre Werkstatt.",
-          "primary": {"label": "Kontakt zu unserem Team", "page": "contact-us"},
-          "secondary": {"label": "Servicenetz", "page": "service-centers"}
+          "primary": {
+            "label": "Kontakt zu unserem Team",
+            "page": "contact-us"
+          },
+          "secondary": {
+            "label": "Servicenetz",
+            "page": "service-centers"
+          }
         }
       ]
     },
@@ -481,7 +584,7 @@
             "Sie benötigen eine Zeichnung, ein Datenblatt oder Ausschreibungsunterlagen, die hier nicht aufgeführt sind? [Kontaktieren Sie uns](page:contact-us) und nennen Sie uns Maschine und Projekt."
           ],
           "image": "company/engineering-design",
-          "image_alt": "Beispielillustration von Ingenieuren bei der Prüfung von Maschinenzeichnungen und Dokumentation",
+          "image_alt": "HYT-Konstrukteur arbeitet an einem 3D-Maschinenmodell",
           "layout": "image-right"
         },
         {
@@ -490,10 +593,34 @@
           "heading": "Maschine finden",
           "cols": 4,
           "items": [
-            {"page": "products", "anchor": "wheel-lathes", "title": "Radsatzdrehmaschinen", "text": "CNC-Unterflur-, Tandem-, Überflur- und Portal-Radsatzdrehmaschinen.", "icon": "gear-wide-connected"},
-            {"page": "products", "anchor": "wheel-axle-shop-machines", "title": "Maschinen für Rad- und Achswerkstätten", "text": "Drehen, Bohren, Glattwalzen, Aufpressen, Messen und Auswuchten.", "icon": "tools"},
-            {"page": "products", "anchor": "depot-workshop-equipment", "title": "Betriebswerks- und Werkstattausrüstung", "text": "Maschinen für Fahrmotor-Anker, Zugwaschanlagen und Rangierfahrzeuge.", "icon": "building-gear"},
-            {"page": "products", "anchor": "partner-products", "title": "Partnerprodukte", "text": "Gleittechnik von SKC Gleittechnik aus Deutschland.", "icon": "box-seam"}
+            {
+              "page": "products",
+              "anchor": "wheel-lathes",
+              "title": "Radsatzdrehmaschinen",
+              "text": "CNC-Unterflur-, Tandem-, Überflur- und Portal-Radsatzdrehmaschinen.",
+              "icon": "gear-wide-connected"
+            },
+            {
+              "page": "products",
+              "anchor": "wheel-axle-shop-machines",
+              "title": "Maschinen für Rad- und Achswerkstätten",
+              "text": "Drehen, Bohren, Glattwalzen, Aufpressen, Messen und Auswuchten.",
+              "icon": "tools"
+            },
+            {
+              "page": "products",
+              "anchor": "depot-workshop-equipment",
+              "title": "Betriebswerks- und Werkstattausrüstung",
+              "text": "Maschinen für Fahrmotor-Anker, Zugwaschanlagen und Rangierfahrzeuge.",
+              "icon": "building-gear"
+            },
+            {
+              "page": "products",
+              "anchor": "partner-products",
+              "title": "Partnerprodukte",
+              "text": "Gleittechnik von SKC Gleittechnik aus Deutschland.",
+              "icon": "box-seam"
+            }
           ]
         },
         {
