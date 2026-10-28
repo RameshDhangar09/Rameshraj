@@ -1,13 +1,12 @@
 # Content pending HYT approval (generated)
 
 Every yellow review note on the preview site, by page. Generated from the English master by `tools/gen_docs.py`.
-**31 notes on 31 pages.**
+**30 notes on 30 pages.**
 
 These notes are hidden by `python3 src/build.py --production`; resolve them before launch.
 
 | Page | URL | What HYT must supply or decide |
 |------|-----|-------------------------------|
-| Group Companies | `/group-companies/` | For HYT review: group company details are not yet verified. Please supply the legal name of each group company, its main activity, location, relationship to HYT Engineering Company Pvt. Ltd. and website link (if any). The sections below are placeholders until then. |
 | Quality | `/quality/` | For HYT review: please confirm that the six process steps reflect HYT's actual quality procedures, and whether specific inspection equipment or customer inspection (e.g. by third-party or railway inspectors) should be mentioned. |
 | Certifications | `/certifications/` | For HYT review: please confirm what the DEKRA and DNV marks relate to (e.g. product certification, inspection or approval, with certificate number and validity) so the descriptions can be made specific. |
 | Awards | `/awards/` | For HYT review: please supply the full list of awards shown on the current website (name, awarding body, year and photograph) – the current site could not be accessed from the build environment. The Dun & Bradstreet listing must also be confirmed. |

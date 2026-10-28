@@ -212,29 +212,168 @@
 
     "group-companies": {
       "nav": "Group Companies",
-      "title": "HYT Group Companies",
-      "description": "The companies that make up the HYT group and how they support railway customers with machines, engineering and service. Company details are being finalised.",
+      "title": "HYT Group of Companies – India & Italy",
+      "description": "HYT Engineering (Pune, est. 1977), SAFOP S.p.A. (Pordenone, Italy, est. 1923) and HYT Innovative Projects (Pune, est. 2001) – an India–Italy engineering heritage.",
       "eyebrow": "About HYT",
-      "h1": "HYT Group Companies",
-      "lede": "HYT Engineering Company Pvt. Ltd. is the group's railway machine tool business. This page will introduce the related companies and how they work together for customers.",
-      "summary": "How the companies in the HYT group work together for railway and industrial customers.",
+      "h1": "The HYT Group of Companies",
+      "lede": "An India–Italy engineering heritage: railway machine tools from Pune, large precision machine tools from Pordenone and flow-formed precision tubes – three companies, one commitment to precision.",
+      "summary": "HYT Engineering, SAFOP S.p.A. (Italy) and HYT Innovative Projects – the companies of the HYT Group.",
       "blocks": [
         {
-          "type": "notice",
-          "variant": "review",
-          "text": "For HYT review: group company details are not yet verified. Please supply the legal name of each group company, its main activity, location, relationship to HYT Engineering Company Pvt. Ltd. and website link (if any). The sections below are placeholders until then."
+          "type": "group_overview",
+          "id": "group",
+          "eyebrow": "An India–Italy engineering heritage",
+          "heading": "Three companies, one commitment to precision",
+          "intro": "Together, the companies of the HYT Group design and build machine tools and precision components for railways and heavy industry around the world.",
+          "items": [
+            {
+              "role": "Parent company",
+              "name": "HYT Engineering Company",
+              "location": "Pune, India",
+              "est": "Est. 1977",
+              "year": "1977",
+              "text": "CNC wheel lathes, wheel and axle shop machines, depot equipment and turnkey railway workshops.",
+              "link": {
+                "page": "about",
+                "label": "About HYT"
+              }
+            },
+            {
+              "role": "HYT Group subsidiary",
+              "name": "SAFOP S.p.A.",
+              "location": "Pordenone, Italy",
+              "est": "Est. 1923",
+              "year": "1923",
+              "text": "Large precision machine tools – more than 1,400 machines supplied worldwide.",
+              "link": {
+                "anchor": "safop",
+                "label": "Discover SAFOP"
+              }
+            },
+            {
+              "role": "Sister concern",
+              "name": "HYT Innovative Projects",
+              "location": "Pune, India",
+              "est": "Est. 2001",
+              "year": "2001",
+              "text": "Seamless precision tubes made with advanced Flow Forming technology.",
+              "link": {
+                "anchor": "hyt-innovative",
+                "label": "Discover HYT Innovative"
+              }
+            }
+          ]
         },
         {
-          "type": "text",
-          "eyebrow": "One group, one standard",
-          "heading": "Why the group structure matters to customers",
-          "paragraphs": [
-            "Large railway projects rarely depend on a single machine. They need engineering, manufacturing, installation and many years of service, often across several sites. A group of related companies can take on each of these tasks while working to shared standards and a common commitment to the customer.",
-            "Whichever group company you deal with, the contract, the technical responsibility and the after-sales contact will always be clearly named. Our [Quality](page:quality) process and [Code of Conduct](page:code-of-conduct) apply to the work we deliver for you."
+          "type": "company_profile",
+          "id": "safop",
+          "variant": "muted",
+          "layout": "image-left",
+          "eyebrow": "Subsidiary of the HYT Group",
+          "heading": "SAFOP S.p.A.",
+          "badge": "Pordenone, Italy",
+          "meta": "Pordenone, Italy",
+          "image": {
+            "src": "/assets/images/group/safop-pordenone.jpg",
+            "w": 775,
+            "h": 519,
+            "alt": "SAFOP S.p.A. headquarters and works in Pordenone, Italy"
+          },
+          "facts": [
+            {
+              "value": "1923",
+              "label": "Founded"
+            },
+            {
+              "value": "1,400+",
+              "label": "Machines supplied worldwide"
+            },
+            {
+              "value": "ISO 9001 · 14001 · 45001",
+              "label": "Certified management systems"
+            }
           ],
-          "image": "company/corporate-office",
-          "image_alt": "HYT Engineering headquarters building in Pune",
-          "layout": "image-right"
+          "paragraphs": [
+            "Founded in 1923, SAFOP S.p.A. is headquartered in Pordenone, Italy, and is one of Europe's leading manufacturers of large precision machine tools. With over a century of engineering excellence and more than 1,400 machines supplied worldwide, SAFOP has established a strong presence across the railway, energy, steel, oil & gas, paper, shipbuilding, aerospace and heavy engineering industries.",
+            "The company operates from a modern manufacturing facility equipped for the design, development and production of high-precision machine tools by a highly skilled workforce. Its portfolio delivers advanced, reliable and cost-effective solutions that meet international quality standards.",
+            "SAFOP holds ISO 9001:2015, ISO 14001:2015 and ISO 45001:2018 certifications – underscoring its commitment to quality, environmental responsibility and workplace safety across all operations."
+          ],
+          "lists": [
+            {
+              "heading": "Product portfolio",
+              "items": [
+                "Wheel lathes",
+                "Vertical turning lathes",
+                "Roll grinders",
+                "Rotor slotter machines",
+                "Grinding centres for spherical ball valves"
+              ]
+            },
+            {
+              "heading": "Industries served",
+              "items": [
+                "Railways",
+                "Energy",
+                "Steel",
+                "Oil & gas",
+                "Paper",
+                "Shipbuilding",
+                "Aerospace",
+                "Heavy engineering"
+              ]
+            }
+          ],
+          "link": {
+            "label": "Visit safop.com",
+            "href": "https://www.safop.com/en"
+          }
+        },
+        {
+          "type": "company_profile",
+          "id": "hyt-innovative",
+          "layout": "image-right",
+          "eyebrow": "Sister concern",
+          "heading": "HYT Innovative Projects Pvt. Ltd.",
+          "badge": "Flow Forming",
+          "meta": "Pune, India",
+          "image": {
+            "src": "/assets/images/group/hyt-innovative-projects.jpg",
+            "w": 402,
+            "h": 253,
+            "alt": "BrahMos missiles on display – an example of the defence sector served by HYT Innovative Projects"
+          },
+          "facts": [
+            {
+              "value": "2001",
+              "label": "Established"
+            },
+            {
+              "value": "4,500 m²",
+              "label": "Manufacturing facility"
+            },
+            {
+              "value": "ISO 9001:2015",
+              "label": "Certified quality management"
+            }
+          ],
+          "paragraphs": [
+            "Established in 2001, HYT Innovative Projects Pvt. Ltd. is a sister concern of HYT Engineering, specialising in the manufacture of precision tubes using advanced Flow Forming technology. This innovative cold-forming process produces seamless tubes with superior dimensional accuracy, enhanced mechanical properties and excellent material efficiency.",
+            "The company operates a well-defined ISO 9001:2015 certified quality management system, ensuring consistent quality, continuous improvement and customer satisfaction across all manufacturing processes.",
+            "With a modern manufacturing facility of 4,500 m² and a team of highly skilled professionals, HYT Innovative serves demanding industries, delivering precision-engineered products that meet stringent industry standards."
+          ],
+          "lists": [
+            {
+              "heading": "Industries served",
+              "items": [
+                "Defence",
+                "Aerospace",
+                "Hydraulics",
+                "Automotive",
+                "Railways",
+                "Heavy engineering"
+              ]
+            }
+          ]
         },
         {
           "type": "features",

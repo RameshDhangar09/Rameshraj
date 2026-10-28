@@ -16,7 +16,7 @@ from pathlib import Path
 
 SRC = Path(__file__).resolve().parent
 STRUCT = {"type", "id", "icon", "image", "page", "pages", "href", "file", "layout", "cols", "variant", "embed", "poster", "form",
-          "anchor", "products", "status_key", "year", "source", "poster_src", "poster_w", "poster_h", "slides", "src", "w", "h", "shape", "related", "limit", "carousel", "href"}
+          "anchor", "products", "status_key", "year", "source", "poster_src", "poster_w", "poster_h", "slides", "src", "w", "h", "shape", "year", "href", "related", "limit", "carousel", "href"}
 LINK = re.compile(r"\]\(([^)\s]+)\)")
 MODELS = re.compile(r"\b(YUL-08|YUL-12T|YUGLX(?: 30| 15)?|YUGL(?: 30| 15)?|YPL-0[24]|YSL-(?:08|12|21)|YVM-04|ATL-01|YTB 04|YMM-04|KRE 15 RCRV)\b")
 FILES = ["common", "home", "about", "products", "projects", "turnkey", "services", "industries", "media", "work", "utility", "legal"]

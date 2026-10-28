@@ -496,6 +496,42 @@ def b_marks(ctx, b):
     return section(heading_block(ctx, b) + f'<ul class="mark-grid">{"".join(items)}</ul>' + block_link(ctx, b), b)
 
 
+def ext_link(ctx, lk, cls="link-arrow"):
+    """Internal page link ({page, anchor}) or external link ({href}) with an 'opens in new tab' hint."""
+    if lk.get("page"):
+        return f'<a class="{cls}" href="{esc(ctx.url(lk["page"], lk.get("anchor")))}">{esc(lk["label"])} {icon("arrow-right")}</a>'
+    if lk.get("anchor"):
+        return f'<a class="{cls}" href="#{esc(lk["anchor"])}">{esc(lk["label"])} {icon("arrow-down")}</a>'
+    return (f'<a class="{cls}" href="{esc(lk["href"])}" target="_blank" rel="noopener">{esc(lk["label"])} {icon("box-arrow-up-right")}'
+            f'<span class="visually-hidden"> {esc(ctx.t("a11y.opens_new_tab"))}</span></a>')
+
+
+def b_group_overview(ctx, b):
+    cards = []
+    for i, it in enumerate(b.get("items", [])):
+        cards.append(f'<li class="group-card reveal{" group-card--parent" if i == 0 else ""}" data-year="{esc(it["year"])}">'
+                     f'<p class="group-card__role">{esc(it["role"])}</p><h3 class="group-card__name">{esc(it["name"])}</h3>'
+                     f'<p class="group-card__meta">{icon("geo-alt")} {esc(it["location"])} <span class="group-card__dot" aria-hidden="true">·</span> {esc(it["est"])}</p>'
+                     f'<p class="group-card__text">{inline(ctx, it.get("text", ""))}</p>{ext_link(ctx, it["link"]) if it.get("link") else ""}</li>')
+    return section(heading_block(ctx, b, center=True) + f'<ul class="group-grid">{"".join(cards)}</ul>', b, "section--group")
+
+
+def b_company_profile(ctx, b):
+    im = b["image"]
+    img = (f'<figure class="profile__media reveal"><img src="{esc(im["src"])}" alt="{esc(im.get("alt", ""))}" width="{im["w"]}" height="{im["h"]}" loading="lazy" decoding="async">'
+           f'<span class="profile__badge">{esc(b.get("badge", ""))}</span></figure>')
+    facts = "".join(f'<div class="profile__fact"><strong>{esc(f["value"])}</strong><span>{esc(f["label"])}</span></div>' for f in b.get("facts", []))
+    paras = "".join(f"<p>{inline(ctx, x)}</p>" for x in b.get("paragraphs", []))
+    lists = "".join(f'<div class="profile__list"><h3>{esc(l["heading"])}</h3><ul class="chip-list">'
+                    + "".join(f'<li class="chip">{esc(x)}</li>' for x in l["items"]) + "</ul></div>" for l in b.get("lists", []))
+    link = f'<p class="block-link">{ext_link(ctx, b["link"])}</p>' if b.get("link") else ""
+    body = (f'<div class="profile__body reveal"><p class="eyebrow">{esc(b.get("eyebrow", ""))}</p><h2 class="section-title">{esc(b["heading"])}</h2>'
+            f'<p class="profile__meta">{icon("geo-alt")} {esc(b.get("meta", ""))}</p><div class="profile__facts">{facts}</div>{paras}{lists}{link}</div>')
+    left = b.get("layout") != "image-right"
+    inner = f'<div class="profile{" profile--flip" if not left else ""}">{img}{body}</div>'
+    return section(inner, b, "section--muted" if b.get("variant") == "muted" else "")
+
+
 def b_awards(ctx, b):
     """Featured awards: photographs (as supplied, any aspect ratio) beside the award text."""
     out = []
@@ -1045,7 +1081,7 @@ def b_chips(ctx, b):
 BLOCKS = {
     "text": b_text, "features": b_features, "specs": b_specs, "table": b_table, "steps": b_steps, "list": b_list,
     "cards": b_cards, "related": b_related, "faq": b_faq, "stats": b_stats, "cta": b_cta, "gallery": b_gallery,
-    "timeline": b_timeline, "awards": b_awards, "certificates": b_certificates, "marks": b_marks, "projects": b_projects, "news": b_news, "logos": b_logos, "notice": b_notice,
+    "timeline": b_timeline, "awards": b_awards, "certificates": b_certificates, "marks": b_marks, "group_overview": b_group_overview, "company_profile": b_company_profile, "projects": b_projects, "news": b_news, "logos": b_logos, "notice": b_notice,
     "prose": b_prose, "downloads": b_downloads, "form": b_form, "contact": b_contact, "split_cta": b_split_cta,
     "product_catalog": b_product_catalog, "sitemap": b_sitemap, "logo_carousel": b_logo_carousel,
     "quote_band": b_quote_band, "pillars": b_pillars, "benefits": b_benefits, "facilities": b_facilities, "chips": b_chips,

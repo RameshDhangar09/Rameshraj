@@ -211,29 +211,168 @@
     },
     "group-companies": {
       "nav": "Groepsbedrijven",
-      "title": "Groepsbedrijven van HYT",
-      "description": "De bedrijven binnen de HYT-groep en hoe zij spoorwegklanten ondersteunen met machines, engineering en service. De bedrijfsgegevens worden momenteel afgerond.",
+      "title": "HYT Group – India & Italië",
+      "description": "HYT Engineering (Pune, opgericht 1977), SAFOP S.p.A. (Pordenone, Italië, opgericht 1923) en HYT Innovative Projects (Pune, 2001) – een Indiaas-Italiaans technisch erfgoed.",
       "eyebrow": "Over HYT",
-      "h1": "Groepsbedrijven van HYT",
-      "lede": "HYT Engineering Company Pvt. Ltd. is de tak van de groep die werktuigmachines voor het spoor levert. Op deze pagina stellen we binnenkort de verbonden bedrijven voor en laten we zien hoe zij samenwerken voor klanten.",
-      "summary": "Hoe de bedrijven binnen de HYT-groep samenwerken voor klanten in het spoor en de industrie.",
+      "h1": "De HYT Group",
+      "lede": "Een Indiaas-Italiaans technisch erfgoed: spoorwerktuigmachines uit Pune, grote precisiewerktuigmachines uit Pordenone en vloeigevormde precisiebuizen – drie bedrijven, één toewijding aan precisie.",
+      "summary": "HYT Engineering, SAFOP S.p.A. (Italië) en HYT Innovative Projects – de bedrijven van de HYT Group.",
       "blocks": [
         {
-          "type": "notice",
-          "variant": "review",
-          "text": "Ter beoordeling door HYT: de gegevens van de groepsbedrijven zijn nog niet geverifieerd. Graag per groepsbedrijf de statutaire naam, de hoofdactiviteit, de vestigingsplaats, de relatie tot HYT Engineering Company Pvt. Ltd. en de websitelink (indien aanwezig) aanleveren. Tot die tijd zijn de onderstaande secties tijdelijke plaatshouders."
+          "type": "group_overview",
+          "id": "group",
+          "eyebrow": "Een Indiaas-Italiaans technisch erfgoed",
+          "heading": "Drie bedrijven, één toewijding aan precisie",
+          "intro": "Samen ontwerpen en bouwen de bedrijven van de HYT Group werktuigmachines en precisiecomponenten voor spoorwegen en zware industrie over de hele wereld.",
+          "items": [
+            {
+              "role": "Moederbedrijf",
+              "name": "HYT Engineering Company",
+              "location": "Pune, India",
+              "est": "Opgericht 1977",
+              "year": "1977",
+              "text": "CNC-wielenbanken, machines voor wielstelwerkplaatsen, depotuitrusting en turnkey spoorwerkplaatsen.",
+              "link": {
+                "page": "about",
+                "label": "Over HYT"
+              }
+            },
+            {
+              "role": "Dochteronderneming van de HYT Group",
+              "name": "SAFOP S.p.A.",
+              "location": "Pordenone, Italië",
+              "est": "Opgericht 1923",
+              "year": "1923",
+              "text": "Grote precisiewerktuigmachines – meer dan 1.400 machines wereldwijd geleverd.",
+              "link": {
+                "anchor": "safop",
+                "label": "Ontdek SAFOP"
+              }
+            },
+            {
+              "role": "Zusterbedrijf",
+              "name": "HYT Innovative Projects",
+              "location": "Pune, India",
+              "est": "Opgericht 2001",
+              "year": "2001",
+              "text": "Naadloze precisiebuizen, vervaardigd met geavanceerde vloeivormtechniek (Flow Forming).",
+              "link": {
+                "anchor": "hyt-innovative",
+                "label": "Ontdek HYT Innovative"
+              }
+            }
+          ]
         },
         {
-          "type": "text",
-          "eyebrow": "Eén groep, één standaard",
-          "heading": "Waarom de groepsstructuur belangrijk is voor klanten",
-          "paragraphs": [
-            "Grote spoorprojecten draaien zelden om één enkele machine. Ze vragen om engineering, productie, installatie en jarenlange service, vaak verspreid over meerdere locaties. Een groep verbonden bedrijven kan elk van deze taken op zich nemen en daarbij werken volgens gedeelde normen en met een gezamenlijke inzet voor de klant.",
-            "Met welk groepsbedrijf u ook zakendoet: het contract, de technische verantwoordelijkheid en het aftersalescontact worden altijd duidelijk benoemd. Ons [kwaliteitsproces](page:quality) en onze [gedragscode](page:code-of-conduct) gelden voor het werk dat wij voor u leveren."
+          "type": "company_profile",
+          "id": "safop",
+          "variant": "muted",
+          "layout": "image-left",
+          "eyebrow": "Dochteronderneming van de HYT Group",
+          "heading": "SAFOP S.p.A.",
+          "badge": "Pordenone, Italië",
+          "meta": "Pordenone, Italië",
+          "image": {
+            "src": "/assets/images/group/safop-pordenone.jpg",
+            "w": 775,
+            "h": 519,
+            "alt": "Hoofdkantoor en fabriek van SAFOP S.p.A. in Pordenone, Italië"
+          },
+          "facts": [
+            {
+              "value": "1923",
+              "label": "Opgericht"
+            },
+            {
+              "value": "1.400+",
+              "label": "Machines wereldwijd geleverd"
+            },
+            {
+              "value": "ISO 9001 · 14001 · 45001",
+              "label": "Gecertificeerde managementsystemen"
+            }
           ],
-          "image": "company/corporate-office",
-          "image_alt": "Hoofdkantoor van HYT Engineering in Pune",
-          "layout": "image-right"
+          "paragraphs": [
+            "SAFOP S.p.A., opgericht in 1923 en gevestigd in Pordenone, Italië, is een van Europa's toonaangevende fabrikanten van grote precisiewerktuigmachines. Met meer dan een eeuw technische expertise en ruim 1.400 wereldwijd geleverde machines is SAFOP sterk vertegenwoordigd in de spoorwegen, energie, staal, olie en gas, papier, scheepsbouw, lucht- en ruimtevaart en zware industrie.",
+            "Het bedrijf werkt vanuit een moderne productievestiging, ingericht voor het ontwerpen, ontwikkelen en produceren van hoogprecisiewerktuigmachines door hooggekwalificeerde medewerkers. Het portfolio biedt geavanceerde, betrouwbare en kosteneffectieve oplossingen die voldoen aan internationale kwaliteitsnormen.",
+            "SAFOP is gecertificeerd volgens ISO 9001:2015, ISO 14001:2015 en ISO 45001:2018 – een bevestiging van zijn inzet voor kwaliteit, milieuverantwoordelijkheid en veiligheid op de werkvloer."
+          ],
+          "lists": [
+            {
+              "heading": "Productportfolio",
+              "items": [
+                "Wielenbanken",
+                "Verticale draaibanken",
+                "Walsslijpmachines",
+                "Rotor-steekmachines",
+                "Slijpcentra voor kogelkranen"
+              ]
+            },
+            {
+              "heading": "Sectoren",
+              "items": [
+                "Spoorwegen",
+                "Energie",
+                "Staal",
+                "Olie en gas",
+                "Papier",
+                "Scheepsbouw",
+                "Lucht- en ruimtevaart",
+                "Zware industrie"
+              ]
+            }
+          ],
+          "link": {
+            "label": "Bezoek safop.com",
+            "href": "https://www.safop.com/en"
+          }
+        },
+        {
+          "type": "company_profile",
+          "id": "hyt-innovative",
+          "layout": "image-right",
+          "eyebrow": "Zusterbedrijf",
+          "heading": "HYT Innovative Projects Pvt. Ltd.",
+          "badge": "Flow Forming",
+          "meta": "Pune, India",
+          "image": {
+            "src": "/assets/images/group/hyt-innovative-projects.jpg",
+            "w": 402,
+            "h": 253,
+            "alt": "BrahMos-raketten op een tentoonstelling – een voorbeeld van de defensiesector die HYT Innovative Projects bedient"
+          },
+          "facts": [
+            {
+              "value": "2001",
+              "label": "Opgericht"
+            },
+            {
+              "value": "4.500 m²",
+              "label": "Productieoppervlak"
+            },
+            {
+              "value": "ISO 9001:2015",
+              "label": "Gecertificeerd kwaliteitsmanagement"
+            }
+          ],
+          "paragraphs": [
+            "HYT Innovative Projects Pvt. Ltd., opgericht in 2001, is een zusterbedrijf van HYT Engineering en gespecialiseerd in de productie van precisiebuizen met geavanceerde vloeivormtechniek (Flow Forming). Dit innovatieve koudvervormingsproces levert naadloze buizen met hoge maatnauwkeurigheid, betere mechanische eigenschappen en uitstekende materiaalefficiëntie.",
+            "Het bedrijf werkt met een duidelijk gedefinieerd, ISO 9001:2015-gecertificeerd kwaliteitsmanagementsysteem dat zorgt voor constante kwaliteit, continue verbetering en klanttevredenheid in alle productieprocessen.",
+            "Met een moderne productievestiging van 4.500 m² en een team van hooggekwalificeerde professionals bedient HYT Innovative veeleisende sectoren met precisieproducten die aan strenge industrienormen voldoen."
+          ],
+          "lists": [
+            {
+              "heading": "Sectoren",
+              "items": [
+                "Defensie",
+                "Lucht- en ruimtevaart",
+                "Hydrauliek",
+                "Automotive",
+                "Spoorwegen",
+                "Zware industrie"
+              ]
+            }
+          ]
         },
         {
           "type": "features",
