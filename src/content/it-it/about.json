@@ -243,7 +243,7 @@
               "location": "Pordenone, Italia",
               "est": "Fondata nel 1923",
               "year": "1923",
-              "text": "Grandi macchine utensili di precisione – oltre 1.400 macchine fornite in tutto il mondo.",
+              "text": "Torni per sale montate, centri di tornitura e rettifica e stozzatrici per rotori – oltre 1.400 macchine vendute nel mondo.",
               "link": {
                 "anchor": "safop",
                 "label": "Scopri SAFOP"
@@ -255,7 +255,7 @@
               "location": "Pune, India",
               "est": "Fondata nel 2001",
               "year": "2001",
-              "text": "Tubi di precisione senza saldatura realizzati con tecnologia di fluotornitura (Flow Forming).",
+              "text": "Tubi di precisione realizzati con tecnologia di fluotornitura (Flow Forming).",
               "link": {
                 "anchor": "hyt-innovative",
                 "label": "Scopri HYT Innovative"
@@ -285,42 +285,17 @@
             },
             {
               "value": "1.400+",
-              "label": "Macchine fornite nel mondo"
+              "label": "Macchine vendute nel mondo"
             },
             {
-              "value": "ISO 9001 · 14001 · 45001",
-              "label": "Sistemi di gestione certificati"
+              "value": "2019",
+              "label": "Parte del Gruppo HYT"
             }
           ],
           "paragraphs": [
-            "Fondata nel 1923 e con sede a Pordenone, SAFOP S.p.A. è uno dei principali costruttori europei di grandi macchine utensili di precisione. Con oltre un secolo di eccellenza ingegneristica e più di 1.400 macchine fornite in tutto il mondo, SAFOP è fortemente presente nei settori ferroviario, energetico, siderurgico, oil & gas, cartario, navale, aerospaziale e dell'ingegneria pesante.",
-            "L'azienda opera in uno stabilimento moderno, attrezzato per la progettazione, lo sviluppo e la produzione di macchine utensili ad alta precisione grazie a personale altamente qualificato. Il suo portafoglio offre soluzioni avanzate, affidabili ed economicamente vantaggiose, conformi agli standard qualitativi internazionali.",
-            "SAFOP è certificata ISO 9001:2015, ISO 14001:2015 e ISO 45001:2018, a conferma del suo impegno per qualità, responsabilità ambientale e sicurezza sul lavoro."
-          ],
-          "lists": [
-            {
-              "heading": "Gamma prodotti",
-              "items": [
-                "Torni per sale montate",
-                "Torni verticali",
-                "Rettificatrici per cilindri",
-                "Stozzatrici per rotori",
-                "Centri di rettifica per valvole a sfera"
-              ]
-            },
-            {
-              "heading": "Settori serviti",
-              "items": [
-                "Ferroviario",
-                "Energia",
-                "Siderurgia",
-                "Oil & gas",
-                "Carta",
-                "Cantieristica navale",
-                "Aerospaziale",
-                "Ingegneria pesante"
-              ]
-            }
+            "Nata dalla costruzione di piccole macchine utensili a partire dal 1923, SAFOP S.p.A. ha sede a Pordenone. Con oltre un secolo di attività, SAFOP ha venduto più di 1.400 macchine in tutto il mondo. È diventata una controllata di HYT a seguito dell'aggiudicazione dell'11 settembre 2019, con atto notarile di trasferimento del 4 ottobre 2019.",
+            "Il sito di proprietà di SAFOP ospita uno stabilimento moderno e completamente integrato per lo sviluppo e la produzione di macchine, con un team altamente qualificato di 29 persone.",
+            "SAFOP è ampiamente presente in numerosi settori di mercato, tra cui ferroviario, energia, siderurgia, petrolio, carta, cantieristica navale, aerospaziale e industria pesante. La sua gamma – torni per sale montate, centri di tornitura e rettifica per valvole a sfera e stozzatrici per rotori – è altamente avanzata, economica e conforme agli standard internazionali."
           ],
           "link": {
             "label": "Visita safop.com",
@@ -332,46 +307,33 @@
           "id": "hyt-innovative",
           "layout": "image-right",
           "eyebrow": "Società consociata",
-          "heading": "HYT Innovative Projects Pvt. Ltd.",
+          "heading": "HYT Innovative Projects Private Limited",
           "badge": "Flow Forming",
           "meta": "Pune, India",
           "image": {
             "src": "/assets/images/group/hyt-innovative-projects.jpg",
             "w": 402,
             "h": 253,
-            "alt": "Missili BrahMos in esposizione – un esempio del settore difesa servito da HYT Innovative Projects"
+            "alt": "Missili BrahMos in esposizione"
           },
           "facts": [
             {
               "value": "2001",
-              "label": "Fondazione"
+              "label": "Avvio delle attività"
             },
             {
               "value": "4.500 m²",
-              "label": "Superficie produttiva"
+              "label": "Stabilimento all'avanguardia"
             },
             {
-              "value": "ISO 9001:2015",
-              "label": "Gestione qualità certificata"
+              "value": "50",
+              "label": "Dipendenti"
             }
           ],
           "paragraphs": [
-            "Fondata nel 2001, HYT Innovative Projects Pvt. Ltd. è una società consociata di HYT Engineering specializzata nella produzione di tubi di precisione con tecnologia avanzata di fluotornitura (Flow Forming). Questo innovativo processo di formatura a freddo produce tubi senza saldatura con elevata precisione dimensionale, migliori proprietà meccaniche e ottima efficienza nell'uso del materiale.",
-            "L'azienda opera con un sistema di gestione per la qualità certificato ISO 9001:2015, che assicura qualità costante, miglioramento continuo e soddisfazione del cliente in tutti i processi produttivi.",
-            "Con uno stabilimento moderno di 4.500 m² e un team di professionisti altamente qualificati, HYT Innovative serve settori esigenti con prodotti di precisione conformi a rigorosi standard industriali."
-          ],
-          "lists": [
-            {
-              "heading": "Settori serviti",
-              "items": [
-                "Difesa",
-                "Aerospaziale",
-                "Oleodinamica",
-                "Automotive",
-                "Ferroviario",
-                "Ingegneria pesante"
-              ]
-            }
+            "HYT Innovative ha avviato le attività nel 2001 e produce tubi di precisione con l'innovativa tecnologia di fluotornitura (Flow Forming).",
+            "HYT Innovative è un'azienda certificata ISO 9001:2015. Il suo sistema di gestione per la qualità è ben definito e attuato per garantire processi corretti, trasparenza e chiarezza nel lavoro, così da ottenere una qualità costante e un miglioramento continuo delle prestazioni qualitative.",
+            "Conta 50 dipendenti, tra personale specializzato e di supporto, e dispone di uno stabilimento all'avanguardia di 4.500 metri quadrati per la produzione di tubi di precisione mediante fluotornitura."
           ]
         },
         {

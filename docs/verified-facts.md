@@ -50,6 +50,10 @@ Source files: *History_Corrected.docx*, *Contact_Us_Organized.docx*, *HYT_Produc
 * ISO 45001:2018 – Intercert, reg. ICI-OS-2205120, initial 25 May 2022, issued 25 May 2025, surveillance validity 25 May 2027, recertification 24 May 2028.
 * Further marks supplied: CE, DEKRA, DNV, EcoVadis Bronze (Top 35%, April 2025).
 
+## Group companies (HYT text, 28 Oct 2026)
+* SAFOP S.p.A., Pordenone – small machine tools since 1923; 1,400+ machines sold; subsidiary of HYT after successful bid on 11 Sep 2019, notarial deed of transfer 4 Oct 2019; team of 29; products: wheel lathes, turning & grinding centres for spherical ball valves, rotor slotter machines.
+* HYT Innovative Projects Pvt. Ltd. – operations since 2001; precision tubes by Flow Forming; ISO 9001:2015; 50 employees; 4,500 m² facility.
+
 ## Sources
 * https://railwaygazette.com/technology/indian-railways-awards-wheel-lathe-contract/43759.article
 * https://news.railanalysis.com/tag/wheel-lathe-machine/

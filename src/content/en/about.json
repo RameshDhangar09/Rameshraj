@@ -244,7 +244,7 @@
               "location": "Pordenone, Italy",
               "est": "Est. 1923",
               "year": "1923",
-              "text": "Large precision machine tools – more than 1,400 machines supplied worldwide.",
+              "text": "Wheel lathes, turning and grinding centres and rotor slotter machines – over 1,400 machines sold globally.",
               "link": {
                 "anchor": "safop",
                 "label": "Discover SAFOP"
@@ -256,7 +256,7 @@
               "location": "Pune, India",
               "est": "Est. 2001",
               "year": "2001",
-              "text": "Seamless precision tubes made with advanced Flow Forming technology.",
+              "text": "Precision tubes manufactured with Flow Forming technology.",
               "link": {
                 "anchor": "hyt-innovative",
                 "label": "Discover HYT Innovative"
@@ -286,42 +286,17 @@
             },
             {
               "value": "1,400+",
-              "label": "Machines supplied worldwide"
+              "label": "Machines sold globally"
             },
             {
-              "value": "ISO 9001 · 14001 · 45001",
-              "label": "Certified management systems"
+              "value": "2019",
+              "label": "Part of the HYT Group"
             }
           ],
           "paragraphs": [
-            "Founded in 1923, SAFOP S.p.A. is headquartered in Pordenone, Italy, and is one of Europe's leading manufacturers of large precision machine tools. With over a century of engineering excellence and more than 1,400 machines supplied worldwide, SAFOP has established a strong presence across the railway, energy, steel, oil & gas, paper, shipbuilding, aerospace and heavy engineering industries.",
-            "The company operates from a modern manufacturing facility equipped for the design, development and production of high-precision machine tools by a highly skilled workforce. Its portfolio delivers advanced, reliable and cost-effective solutions that meet international quality standards.",
-            "SAFOP holds ISO 9001:2015, ISO 14001:2015 and ISO 45001:2018 certifications – underscoring its commitment to quality, environmental responsibility and workplace safety across all operations."
-          ],
-          "lists": [
-            {
-              "heading": "Product portfolio",
-              "items": [
-                "Wheel lathes",
-                "Vertical turning lathes",
-                "Roll grinders",
-                "Rotor slotter machines",
-                "Grinding centres for spherical ball valves"
-              ]
-            },
-            {
-              "heading": "Industries served",
-              "items": [
-                "Railways",
-                "Energy",
-                "Steel",
-                "Oil & gas",
-                "Paper",
-                "Shipbuilding",
-                "Aerospace",
-                "Heavy engineering"
-              ]
-            }
+            "Formed from the construction of small machine tools since 1923, SAFOP S.p.A. is located in Pordenone, Italy. With more than a century in the industry, SAFOP has sold over 1,400 machines globally. It became a subsidiary of HYT after a successful bid on 11 September 2019, with the notarial deed of transfer on 4 October 2019.",
+            "SAFOP's own site houses a fully integrated, modern facility for the development and manufacturing of machines, with a highly qualified team of 29 people.",
+            "SAFOP is widely present across market sectors including railways, energy, steel, oil, paper, shipyards, aerospace and heavy industries. Its product line – wheel lathes, turning and grinding centres for spherical ball valves, and rotor slotter machines – is highly advanced, economical and meets international standards."
           ],
           "link": {
             "label": "Visit safop.com",
@@ -333,46 +308,33 @@
           "id": "hyt-innovative",
           "layout": "image-right",
           "eyebrow": "Sister concern",
-          "heading": "HYT Innovative Projects Pvt. Ltd.",
+          "heading": "HYT Innovative Projects Private Limited",
           "badge": "Flow Forming",
           "meta": "Pune, India",
           "image": {
             "src": "/assets/images/group/hyt-innovative-projects.jpg",
             "w": 402,
             "h": 253,
-            "alt": "BrahMos missiles on display – an example of the defence sector served by HYT Innovative Projects"
+            "alt": "BrahMos missiles on display"
           },
           "facts": [
             {
               "value": "2001",
-              "label": "Established"
+              "label": "Started operations"
             },
             {
               "value": "4,500 m²",
-              "label": "Manufacturing facility"
+              "label": "Ultra-modern facility"
             },
             {
-              "value": "ISO 9001:2015",
-              "label": "Certified quality management"
+              "value": "50",
+              "label": "Employees"
             }
           ],
           "paragraphs": [
-            "Established in 2001, HYT Innovative Projects Pvt. Ltd. is a sister concern of HYT Engineering, specialising in the manufacture of precision tubes using advanced Flow Forming technology. This innovative cold-forming process produces seamless tubes with superior dimensional accuracy, enhanced mechanical properties and excellent material efficiency.",
-            "The company operates a well-defined ISO 9001:2015 certified quality management system, ensuring consistent quality, continuous improvement and customer satisfaction across all manufacturing processes.",
-            "With a modern manufacturing facility of 4,500 m² and a team of highly skilled professionals, HYT Innovative serves demanding industries, delivering precision-engineered products that meet stringent industry standards."
-          ],
-          "lists": [
-            {
-              "heading": "Industries served",
-              "items": [
-                "Defence",
-                "Aerospace",
-                "Hydraulics",
-                "Automotive",
-                "Railways",
-                "Heavy engineering"
-              ]
-            }
+            "HYT Innovative started its operations in 2001 and manufactures precision tubes employing innovative Flow Forming technology.",
+            "HYT Innovative is an ISO 9001:2015 certified company. Its quality management system is well defined and implemented to ensure proper systems, transparency and clarity in working, so as to achieve consistent quality and continuous improvement in quality performance.",
+            "It has a team of 50 employees, including skilled workers and support staff, and an ultra-modern facility of 4,500 square metres for manufacturing precision tubes through Flow Forming technology."
           ]
         },
         {

@@ -243,7 +243,7 @@
               "location": "Pordenone, Italien",
               "est": "Gegr. 1923",
               "year": "1923",
-              "text": "Große Präzisions-Werkzeugmaschinen – mehr als 1.400 Maschinen weltweit geliefert.",
+              "text": "Radsatzdrehmaschinen, Dreh- und Schleifzentren sowie Rotor-Nutenstoßmaschinen – über 1.400 Maschinen weltweit verkauft.",
               "link": {
                 "anchor": "safop",
                 "label": "SAFOP entdecken"
@@ -255,7 +255,7 @@
               "location": "Pune, Indien",
               "est": "Gegr. 2001",
               "year": "2001",
-              "text": "Nahtlose Präzisionsrohre, hergestellt mit moderner Fließdrücktechnik (Flow Forming).",
+              "text": "Präzisionsrohre, hergestellt mit Fließdrücktechnik (Flow Forming).",
               "link": {
                 "anchor": "hyt-innovative",
                 "label": "HYT Innovative entdecken"
@@ -285,42 +285,17 @@
             },
             {
               "value": "1.400+",
-              "label": "Maschinen weltweit geliefert"
+              "label": "Maschinen weltweit verkauft"
             },
             {
-              "value": "ISO 9001 · 14001 · 45001",
-              "label": "Zertifizierte Managementsysteme"
+              "value": "2019",
+              "label": "Teil der HYT-Gruppe"
             }
           ],
           "paragraphs": [
-            "Die 1923 gegründete SAFOP S.p.A. mit Sitz in Pordenone, Italien, ist einer der führenden europäischen Hersteller großer Präzisions-Werkzeugmaschinen. Mit über einem Jahrhundert Ingenieurskunst und mehr als 1.400 weltweit gelieferten Maschinen ist SAFOP stark in den Branchen Bahn, Energie, Stahl, Öl & Gas, Papier, Schiffbau, Luft- und Raumfahrt sowie Schwermaschinenbau vertreten.",
-            "Das Unternehmen fertigt in einem modernen Werk, das für Konstruktion, Entwicklung und Produktion hochpräziser Werkzeugmaschinen durch qualifizierte Fachkräfte ausgestattet ist. Sein Portfolio bietet fortschrittliche, zuverlässige und wirtschaftliche Lösungen nach internationalen Qualitätsstandards.",
-            "SAFOP ist nach ISO 9001:2015, ISO 14001:2015 und ISO 45001:2018 zertifiziert – Ausdruck seines Engagements für Qualität, Umweltverantwortung und Arbeitssicherheit in allen Bereichen."
-          ],
-          "lists": [
-            {
-              "heading": "Produktportfolio",
-              "items": [
-                "Radsatzdrehmaschinen",
-                "Vertikaldrehmaschinen",
-                "Walzenschleifmaschinen",
-                "Rotor-Nutenstoßmaschinen",
-                "Schleifzentren für Kugelhähne"
-              ]
-            },
-            {
-              "heading": "Branchen",
-              "items": [
-                "Bahn",
-                "Energie",
-                "Stahl",
-                "Öl & Gas",
-                "Papier",
-                "Schiffbau",
-                "Luft- und Raumfahrt",
-                "Schwermaschinenbau"
-              ]
-            }
+            "Hervorgegangen aus dem Bau kleiner Werkzeugmaschinen seit 1923, hat SAFOP S.p.A. ihren Sitz in Pordenone, Italien. Mit mehr als einem Jahrhundert Branchenerfahrung hat SAFOP weltweit über 1.400 Maschinen verkauft. Nach einem erfolgreichen Gebot am 11. September 2019 und der notariellen Übertragungsurkunde vom 4. Oktober 2019 ist SAFOP eine Tochtergesellschaft von HYT.",
+            "Auf dem eigenen Gelände von SAFOP befindet sich ein voll integriertes, modernes Werk für die Entwicklung und Fertigung von Maschinen mit einem hochqualifizierten Team von 29 Mitarbeitenden.",
+            "SAFOP ist in zahlreichen Marktsegmenten vertreten, darunter Bahn, Energie, Stahl, Öl, Papier, Werften, Luft- und Raumfahrt sowie Schwerindustrie. Die Produktlinie – Radsatzdrehmaschinen, Dreh- und Schleifzentren für Kugelhähne sowie Rotor-Nutenstoßmaschinen – ist hochmodern, wirtschaftlich und entspricht internationalen Standards."
           ],
           "link": {
             "label": "safop.com besuchen",
@@ -332,46 +307,33 @@
           "id": "hyt-innovative",
           "layout": "image-right",
           "eyebrow": "Schwesterunternehmen",
-          "heading": "HYT Innovative Projects Pvt. Ltd.",
+          "heading": "HYT Innovative Projects Private Limited",
           "badge": "Flow Forming",
           "meta": "Pune, Indien",
           "image": {
             "src": "/assets/images/group/hyt-innovative-projects.jpg",
             "w": 402,
             "h": 253,
-            "alt": "BrahMos-Raketen in einer Ausstellung – ein Beispiel für den von HYT Innovative Projects belieferten Verteidigungssektor"
+            "alt": "BrahMos-Raketen in einer Ausstellung"
           },
           "facts": [
             {
               "value": "2001",
-              "label": "Gegründet"
+              "label": "Betriebsaufnahme"
             },
             {
               "value": "4.500 m²",
-              "label": "Fertigungsfläche"
+              "label": "Hochmodernes Werk"
             },
             {
-              "value": "ISO 9001:2015",
-              "label": "Zertifiziertes Qualitätsmanagement"
+              "value": "50",
+              "label": "Mitarbeitende"
             }
           ],
           "paragraphs": [
-            "Die 2001 gegründete HYT Innovative Projects Pvt. Ltd. ist ein Schwesterunternehmen von HYT Engineering und auf die Herstellung von Präzisionsrohren mit moderner Fließdrücktechnik (Flow Forming) spezialisiert. Dieses innovative Kaltumformverfahren erzeugt nahtlose Rohre mit hoher Maßgenauigkeit, verbesserten mechanischen Eigenschaften und ausgezeichneter Materialeffizienz.",
-            "Das Unternehmen arbeitet mit einem klar definierten, nach ISO 9001:2015 zertifizierten Qualitätsmanagementsystem, das gleichbleibende Qualität, kontinuierliche Verbesserung und Kundenzufriedenheit in allen Fertigungsprozessen sicherstellt.",
-            "Mit einem modernen Werk von 4.500 m² und einem Team hochqualifizierter Fachkräfte beliefert HYT Innovative anspruchsvolle Branchen mit präzisionsgefertigten Produkten, die strenge Industriestandards erfüllen."
-          ],
-          "lists": [
-            {
-              "heading": "Branchen",
-              "items": [
-                "Verteidigung",
-                "Luft- und Raumfahrt",
-                "Hydraulik",
-                "Automobil",
-                "Bahn",
-                "Schwermaschinenbau"
-              ]
-            }
+            "HYT Innovative nahm 2001 den Betrieb auf und fertigt Präzisionsrohre mit innovativer Fließdrücktechnik (Flow Forming).",
+            "HYT Innovative ist nach ISO 9001:2015 zertifiziert. Das Qualitätsmanagementsystem ist klar definiert und umgesetzt, um geordnete Abläufe, Transparenz und Klarheit in der Arbeit zu gewährleisten und so gleichbleibende Qualität und eine kontinuierliche Verbesserung der Qualitätsleistung zu erreichen.",
+            "Das Unternehmen beschäftigt 50 Mitarbeitende, darunter Fachkräfte und Verwaltungspersonal, und verfügt über ein hochmodernes Werk von 4.500 Quadratmetern für die Fertigung von Präzisionsrohren im Fließdrückverfahren."
           ]
         },
         {
